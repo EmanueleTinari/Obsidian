@@ -21,7 +21,6 @@
 # Ignore all local history of files
 .history
 .ionide
-/Chiesa
 /Import_GitHub
 /Vault_vuoto
 /Zettelkasten
