@@ -1,5 +1,5 @@
 ---
-cssclasses: Bibbia
+cssclasses: bibbia
 numlibro: 47
 aliases:
   - Matteo
@@ -13,8 +13,22 @@ Stato: Mancano ancora i link ai riferimenti.
 ---
 # Matteo
 
-Versione C.E.I. 1974: [[CEI 74 Mt 01|Inizia a leggere →]]
-<span class="verde">Altre versioni: </span> [[VLSG Matteo|Vulgata Latina di San Girolamo]] -- [[NV Matteo|Nova Vulgata]] -- [[CEI08 Matteo|CEI 2008]] -- [[INT Matteo|Interconfessionale]] -- [[MRT Matteo|Martini]] -- [[RCT Matteo|Ricciotti]] -- [[D Matteo|Diodati]] -- [[ND Matteo|Nuova Diodati]] -- [[RIV Matteo|Riveduta]] -- [[NRIV Matteo|Nuova Riveduta]] -- [[RIV20 Matteo|Nuova Riveduta 2020]]
+> [!indice-libro-biblico]- <span class="normale">Versione C.E.I. 1974: </span>
+>
+>> [[CEI 74 Mt 01|Inizia a leggere →]]
+>
+
+> [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
+>
+>> [[CEI 74 Mt 01|1]] -- [[CEI 74 Mt 02|2]] -- [[CEI 74 Mt 03|3]] -- [[CEI 74 Mt 04|4]] -- [[CEI 74 Mt 05|5]] -- [[CEI 74 Mt 06|6]] -- [[CEI 74 Mt 07|7]] -- [[CEI 74 Mt 08|8]] -- [[CEI 74 Mt 09|9]] -- [[CEI 74 Mt 10|10]] -- [[CEI 74 Mt 11|11]] -- [[CEI 74 Mt 12|12]] -- [[CEI 74 Mt 13|13]] -- [[CEI 74 Mt 14|14]] -- [[CEI 74 Mt 15|15]] -- [[CEI 74 Mt 16|16]] -- [[CEI 74 Mt 17|17]] -- [[CEI 74 Mt 18|18]] -- [[CEI 74 Mt 19|19]] -- [[CEI 74 Mt 20|20]] -- [[CEI 74 Mt 21|21]] -- [[CEI 74 Mt 22|22]] -- [[CEI 74 Mt 23|23]] -- [[CEI 74 Mt 24|24]] -- [[CEI 74 Mt 25|25]] -- [[CEI 74 Mt 26|26]] -- [[CEI 74 Mt 27|27]] -- [[CEI 74 Mt 28|28]]  
+>
+
+> [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
+>
+>> [[VLSG Matteo|Vulgata Latina di San Girolamo]] -- [[NV Matteo|Nova Vulgata]] -- [[CEI08 Matteo|CEI 2008]] -- [[INT Matteo|Interconfessionale]] -- [[MRT Matteo|Martini]] -- [[RCT Matteo|Ricciotti]] -- [[D Matteo|Diodati]] -- [[ND Matteo|Nuova Diodati]] -- [[RIV Matteo|Riveduta]] -- [[NRIV Matteo|Nuova Riveduta]] -- [[RIV20 Matteo|Nuova Riveduta 2020]]
+>
+
+
 
 I primi tre vangeli sono detti “sinottici” cioè “simultaneamente visibili”, perché hanno in comune non soltanto lo schema generale, ma spesso riferiscono con le stesse parole identici fatti.
 Accanto a evidenti concordanze essi mostrano non meno evidenti discordanze, sia nell’ordine dei racconti che all’interno di essi.
