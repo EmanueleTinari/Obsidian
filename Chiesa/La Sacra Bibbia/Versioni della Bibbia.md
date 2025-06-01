@@ -1,6 +1,6 @@
 ---
-creato: 07-05-2025T22:57:55
-aggiornato: 10-05-2025 15:23:55
+creato: 2025-05-07T22:57:55
+aggiornato: 2025-05-10T21:33:03
 ---
 Su BibleGateway
 Versione CEI (forse 1974 ?)

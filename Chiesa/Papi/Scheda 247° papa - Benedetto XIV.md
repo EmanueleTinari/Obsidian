@@ -6,22 +6,29 @@ tipo-doc: "[[Scheda 247° papa - Benedetto XIV|Scheda papa]]"
 lingua-doc: Italiano
 papa-numero: 247
 nome-papa: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
-nome-secolare: Prospero Lambertini
+nome-secolare: Prospero Lorenzo Lambertini
 luogo-nascita: Bologna
 giorno-nascita: 31
-mese-nascita: 3
+mese-nascita: 03
 anno-nascita: 1675
 data-nascita: 1675-03-31
 giorno-elezione: 17
-mese-elezione: 8
+mese-elezione: 08
 anno-elezione: 1740
 data-elezione: 1740-08-17
-giorno-fine: 3
-mese-fine: 5
+giorno-consacr: 25
+mese-consacr: 08
+anno-consacr: 1740
+data-consacr: 1740-08-25
+giorno-fine: 03
+mese-fine: 05
 anno-fine: 1758
 fine-pontificato: 1758-05-03
+causa-morte: Decesso
 luogo-morte: Roma
-luogo-sepoltura: "[[Basilica di San Pietro (Roma)|San Pietro]]"
+luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
+predecessore: "[[Scheda 246° papa - Clemente XII|Papa Clemente XII]]"
+successore: "[[Scheda 248° papa - Clemente XIII|papa Clemente XIII]]"
 aliases:
   - Papa Benedetto XIV
   - Benedetto XIV
@@ -32,9 +39,9 @@ tags:
   - Benedetto_XIV
   - Scheda
   - papa
-licenza-nota: © 2025 Emanuele Tinari under "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-creato: 29-04-2025T23:29:01
-aggiornato: 10-05-2025_00:57:15
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+creato: 2025-04-29T23:29:01
+aggiornato: 2025-05-21T19:41:10
 ---
 
 ---
@@ -43,7 +50,7 @@ aggiornato: 10-05-2025_00:57:15
 >
 >> [!info]- XXI secolo  
 >> 267° - [[Scheda 267° papa - Leone XIV|Leone XIV]]
->> 266° - [[Scheda 266° papa - Francesco I|Francesco I]]
+>> 266° - [[Scheda 266° papa - Francesco|Francesco]]
 >> 265° - [[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]
 >
 >> [!info]- XX secolo  
@@ -354,7 +361,7 @@ aggiornato: 10-05-2025_00:57:15
 > [[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]
 
 > [!info]- Foto
-> ![[Benedictus XIV_foto.jpg|200]]
+> ![[Benedictus XIV_foto.jpg|Pierre-Hubert Subleyras, Ritratto di papa Benedetto XIV, olio su tela, 1745 ca.; Parigi, museo Condé|200]]
 
 > [!seealso]- Scritti di [[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]: 
 >> [!seealso]- [[Bolle|Bolle]]  

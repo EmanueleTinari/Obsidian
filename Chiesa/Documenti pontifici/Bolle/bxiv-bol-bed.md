@@ -1,5 +1,6 @@
 ---
-cssclasses: docVat
+cssclasses:
+  - docVat
 autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
 tipo-doc: "[[Bolle|Bolla]]"
 titolo-doc: Benedictus Deus
@@ -13,11 +14,14 @@ tags:
   - Bolla
   - Benedetto_XIV
   - Benedictus_Deus
+aliases:
+  - Benedictus Deus
+  - Bolla Benedictus Deus
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-url-doc: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-benedictus-deus--i---25-dicembre-1750--estensione-a-tut.html)"
-creato: 01-05-2025T23:20:07
-aggiornato: 08-05-2025T22:21:03
+url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-benedictus-deus--i---25-dicembre-1750--estensione-a-tut.html)"
+creato: 2025-05-01T23:20:07
+aggiornato: 2025-05-19T23:09:52
 ---
 
 ---

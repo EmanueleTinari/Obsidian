@@ -1,0 +1,23 @@
+---
+cssclasses:
+  - messaggio
+destinatario: Mondo
+veggente: Mirijana
+tipo-mess: annuale
+inizio: 13:30
+durata: 05
+giorno-mess: 18
+mese-mess: 3
+anno-mess: 2025
+data-mess: 2025-03-18
+lingua-mess: Italiano
+lingua-orig: Croato
+approvazione: true
+licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+url-documento: "[Link al messaggio sul sito medjugorje.hr](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+---
+
+# Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Mirijana<br>il 18 marzo 2025
+
+## Cari figli!<br>Con amore materno vi prego: datemi le vostre mani giunte, datemi i vostri cuori purificati nella confessione ed io vi guiderò a mio Figlio!<br>Perché, figli miei, soltanto mio Figlio, con la Sua luce può illuminare le tenebre, soltanto Lui, con la Sua Parola può togliere la sofferenza.<br>Perciò non abbiate paura di camminare con me perché io vi guido a mio Figlio, alla salvezza.<br>Vi ringrazio.
+

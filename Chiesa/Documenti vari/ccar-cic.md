@@ -1,23 +1,27 @@
 ---
-cssclasses: docVat
+cssclasses:
+  - docVat
 autore-doc: "[[Chiesa Cattolica Apostolica Romana]]"
 tipo-doc: "[[Altri documenti]]"
 titolo-doc: Codice di Diritto Canonico
-giorno-doc: 1
-mese-doc: 1
-anno-doc: 1
-data-doc: 2199/01/01
+giorno-doc: 27
+mese-doc: 11
+anno-doc: 1983
+data-doc: 1983/11/27
 lingua-doc: Italiano
 lingua-orig: Latino
+titolo-lat: Codex Iuris Canonici
+aliases:
+  - CIC
 tags:
   - Altri_documenti
-  - X
   - Codice_di_Diritto_Canonico
+  - CIC
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: © 2025 Emanuele Tinari under "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-url-doc: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/index_it.htm)"
-creato: 02-05-2025T00:23:28
-aggiornato: 06-05-2025T22:14:23
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_it.html)"
+creato: 2025-05-02T00:23:28
+aggiornato: 2025-05-18T17:17:30
 ---
 ---
 

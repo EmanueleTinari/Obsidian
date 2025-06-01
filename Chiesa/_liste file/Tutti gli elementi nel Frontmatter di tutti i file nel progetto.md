@@ -1,6 +1,6 @@
 ---
-creato: 05-05-2025T00:11:22
-aggiornato: 05-05-2025T15:59:29
+creato: 2025-05-05T00:11:22
+aggiornato: 2025-05-11T01:24:45
 ---
 
 ```dataviewjs

@@ -1,0 +1,18 @@
+---
+cssclasses:
+  - messaggio
+veggente: Ivan
+tipo-nota: bio
+giorno-nascita: 25
+mese-nascita: 05
+anno-nascita: 1965
+nascita: 1965-05-25
+lingua-nota: Italiano
+licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+url-documento: "[Link alla pagina con le informazioni, sul sito medjugorje.hr](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni/)"
+---
+
+Età: `=date(today) - this.nascita`
+
+
+## Ivan Dragičević è nato il 25.5.1965 a Bijakovici, parrocchia Medjugorje.<br>Continua tuttora ad avere apparizioni quotidiane.<br>La Vergine gli ha rivelato nove segreti.<br>Ivan è sposato, ha tre bambini, vive con la sua famiglia negli Stati Uniti e a Medjugorje.<br>L’intenzione di preghiera affidata a lui dalla Vergine: per i giovani e per i sacerdoti.

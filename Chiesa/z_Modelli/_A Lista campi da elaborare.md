@@ -1,0 +1,21 @@
+# Lista dei campi da elaborare nel template per i documenti
+
+
+<input id="hc-7759" type="checkbox" checked> Riga iniziale '---'
+<input id="hc-7759" type="checkbox" checked> 'cssclasses:'
+<input id="hc-7759" type="checkbox"> 'autore-doc'
+<input id="hc-7759" type="checkbox"> 'tipo-doc'
+<input id="hc-7759" type="checkbox"> 'titolo-doc'
+<input id="hc-7759" type="checkbox" checked> 'giorno-doc'
+<input id="hc-7759" type="checkbox" checked> 'mese-doc'
+<input id="hc-7759" type="checkbox" checked> 'anno-doc'
+<input id="hc-7759" type="checkbox" checked> 'data-doc'
+<input id="hc-7759" type="checkbox"> 'lingua-doc'
+<input id="hc-7759" type="checkbox"> 'lingua-orig'
+<input id="hc-7759" type="checkbox"> 'tags'
+<input id="hc-7759" type="checkbox"> 'aliases'
+<input id="hc-7759" type="checkbox" checked> 'licenza-doc'
+<input id="hc-7759" type="checkbox" checked> 'licenza-nota'
+<input id="hc-7759" type="checkbox" checked> 'url-doc'
+<input id="hc-7759" type="checkbox"> 'creato'
+<input id="hc-7759" type="checkbox"> 'aggiornato'

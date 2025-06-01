@@ -1,14 +1,14 @@
 ---
-creato: 05-05-2025T23:04:45
-aggiornato: 06-05-2025T07:44:27
+creato: 2025-05-05T23:04:45
+aggiornato: 2025-05-10T21:36:41
 ---
 
 <%*
 var tagSenza = (item => item, Object.keys(app.metadataCache.getTags()).map(x => x.replace("#", "")));
 console.log(tagSenza);
-let tagSelezionato = await tp.system.suggester([...tagSenza, "Inserisci un nuovo TAG"], [...tagSenza, "Inserisci un nuovo TAG"])
+let tagSelezionato = await tp.system.suggester(['Inserisci un nuovo TAG', ...tagSenza], ['Inserisci un nuovo TAG', ...tagSenza]);
 if (tagSelezionato === "Inserisci un nuovo TAG") {
-    tagSelezionato = tp.system.prompt("Inserisci un nuovo TAG senza #")
+    tagSelezionato = await tp.system.prompt("Inserisci un nuovo TAG senza #");
 }
 tR = `---
 tags: ${tagSelezionato}

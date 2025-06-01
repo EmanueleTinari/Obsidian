@@ -1,38 +1,38 @@
 ---
-creato: 08-05-2025T00:34:30
-aggiornato: 08-05-2025T00:36:06
+creato: 2025-05-08T00:34:30
+aggiornato: 2025-05-10T21:42:02
 ---
 
 # Matthäus
 
 ---
 
-[[ELB Mt 1|1]] -- [[ELB Mt 2|2]] -- [[ELB Mt 3|3]] -- [[ELB Mt 4|4]] -- [[ELB Mt 5|5]] -- [[ELB Mt 6|6]] -- [[ELB Mt 7|7]] -- [[ELB Mt 8|8]] -- [[ELB Mt 9|9]] -- [[ELB Mt 10|10]] -- [[ELB Mt 11|11]] -- [[ELB Mt 12|12]] -- [[ELB Mt 13|13]] -- [[ELB Mt 14|14]] -- [[ELB Mt 15|15]] -- [[ELB Mt 16|16]] -- [[ELB Mt 17|17]] -- [[ELB Mt 18|18]] -- [[ELB Mt 19|19]] -- [[ELB Mt 20|20]] -- [[ELB Mt 21|21]] -- [[ELB Mt 22|22]] -- [[ELB Mt 23|23]] -- [[ELB Mt 24|24]] -- [[ELB Mt 25|25]] -- [[ELB Mt 26|26]] -- [[ELB Mt 27|27]] -- [[ELB Mt 28|28]]
+[[ELB Mt 01|1]] -- [[ELB Mt 02|2]] -- [[ELB Mt 03|3]] -- [[ELB Mt 04|4]] -- [[ELB Mt 05|5]] -- [[ELB Mt 06|6]] -- [[ELB Mt 07|7]] -- [[ELB Mt 08|8]] -- [[ELB Mt 09|9]] -- [[ELB Mt 10|10]] -- [[ELB Mt 11|11]] -- [[ELB Mt 12|12]] -- [[ELB Mt 13|13]] -- [[ELB Mt 14|14]] -- [[ELB Mt 15|15]] -- [[ELB Mt 16|16]] -- [[ELB Mt 17|17]] -- [[ELB Mt 18|18]] -- [[ELB Mt 19|19]] -- [[ELB Mt 20|20]] -- [[ELB Mt 21|21]] -- [[ELB Mt 22|22]] -- [[ELB Mt 23|23]] -- [[ELB Mt 24|24]] -- [[ELB Mt 25|25]] -- [[ELB Mt 26|26]] -- [[ELB Mt 27|27]] -- [[ELB Mt 28|28]]
 
 ---
 
 
-[[ELB Mt 1|Matthäus 1]] <sub>( [[Mt 1|Luther]] -- [[MB Mt 1|Menge]] -- [[SCHL Mt 1|Schlachter]] )</sub>
+[[ELB Mt 01|Matthäus 1]] <sub>( [[Mt 1|Luther]] -- [[MB Mt 01|Menge]] -- [[SCHL Mt 01|Schlachter]] )</sub>
 * Jesu Stammbaum.
 * Jesu Geburt.
 
-[[ELB Mt 2|Matthäus 2]] <sub>( [[Mt 2|Luther]] -- [[MB Mt 2|Menge]] -- [[SCHL Mt 2|Schlachter]] )</sub>
+[[ELB Mt 02|Matthäus 2]] <sub>( [[Mt 2|Luther]] -- [[MB Mt 02|Menge]] -- [[SCHL Mt 02|Schlachter]] )</sub>
 * Die Weisen aus dem Morgenland.
 * Die Flucht nach Ägypten.
 * Der Kindermord des Herodes.
 * Die Rückkehr aus Ägypten.
 
-[[ELB Mt 3|Matthäus 3]] <sub>( [[Mt 3|Luther]] -- [[MB Mt 3|Menge]] -- [[SCHL Mt 3|Schlachter]] )</sub>
+[[ELB Mt 03|Matthäus 3]] <sub>( [[Mt 3|Luther]] -- [[MB Mt 03|Menge]] -- [[SCHL Mt 03|Schlachter]] )</sub>
 * Johannes der Täufer.
 * Jesu Taufe.
 
-[[ELB Mt 4|Matthäus 4]] <sub>( [[Mt 4|Luther]] -- [[MB Mt 4|Menge]] -- [[SCHL Mt 4|Schlachter]] )</sub>
+[[ELB Mt 04|Matthäus 4]] <sub>( [[Mt 4|Luther]] -- [[MB Mt 04|Menge]] -- [[SCHL Mt 04|Schlachter]] )</sub>
 * Jesu Versuchung.
 * Der Beginn des Wirkens Jesu in Galiläa.
 * Die Berufung der ersten Jünger.
 * Krankenheilungen in Galiläa.
 
-[[ELB Mt 5|Matthäus 5]] <sub>( [[Mt 5|Luther]] -- [[MB Mt 5|Menge]] -- [[SCHL Mt 5|Schlachter]] )</sub>
+[[ELB Mt 05|Matthäus 5]] <sub>( [[Mt 5|Luther]] -- [[MB Mt 05|Menge]] -- [[SCHL Mt 05|Schlachter]] )</sub>
 * Die Seligpreisungen.
 * Salz und Licht.
 * Jesu Stellung zum Gesetz.
@@ -42,19 +42,19 @@ aggiornato: 08-05-2025T00:36:06
 * Vom Vergelten.
 * Von der Feindesliebe.
 
-[[ELB Mt 6|Matthäus 6]] <sub>( [[Mt 6|Luther]] -- [[MB Mt 6|Menge]] -- [[SCHL Mt 6|Schlachter]] )</sub>
+[[ELB Mt 06|Matthäus 6]] <sub>( [[Mt 6|Luther]] -- [[MB Mt 06|Menge]] -- [[SCHL Mt 06|Schlachter]] )</sub>
 * Vom Almosengeben.
 * Vom Beten. Das Vaterunser.
 * Vom Fasten.
 * Vom Schätzesammeln und Sorgen.
 
-[[ELB Mt 7|Matthäus 7]] <sub>( [[Mt 7|Luther]] -- [[MB Mt 7|Menge]] -- [[SCHL Mt 7|Schlachter]] )</sub>
+[[ELB Mt 07|Matthäus 7]] <sub>( [[Mt 7|Luther]] -- [[MB Mt 07|Menge]] -- [[SCHL Mt 07|Schlachter]] )</sub>
 * Vom Richtgeist.
 * Von der Gebetserhörung.
 * Vom Tun des göttlichen Willens.
 * Vom Hausbau.
 
-[[ELB Mt 8|Matthäus 8]] <sub>( [[Mt 8|Luther]] -- [[MB Mt 8|Menge]] -- [[SCHL Mt 8|Schlachter]] )</sub>
+[[ELB Mt 08|Matthäus 8]] <sub>( [[Mt 8|Luther]] -- [[MB Mt 08|Menge]] -- [[SCHL Mt 08|Schlachter]] )</sub>
 * Die Heilung eines Aussätzigen.
 * Der Hauptmann von Kapernaum.
 * Jesus im Haus des Petrus.
@@ -62,7 +62,7 @@ aggiornato: 08-05-2025T00:36:06
 * Die Stillung des Sturms.
 * Die Heilung der zwei besessenen Gadarener.
 
-[[ELB Mt 9|Matthäus 9]] <sub>( [[Mt 9|Luther]] -- [[MB Mt 9|Menge]] -- [[SCHL Mt 9|Schlachter]] )</sub>
+[[ELB Mt 09|Matthäus 9]] <sub>( [[Mt 9|Luther]] -- [[MB Mt 09|Menge]] -- [[SCHL Mt 09|Schlachter]] )</sub>
 * Die Heilung eines Gelähmten.
 * Die Berufung des Matthäus und das Mahl mit den Zöllnern.
 * Die Frage nach dem Fasten.

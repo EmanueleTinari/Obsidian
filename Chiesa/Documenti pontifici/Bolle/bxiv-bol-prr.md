@@ -15,9 +15,9 @@ tags:
   - Providas_romanorum
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-url-doc: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-providas-romanorum--i---18-marzo-1751--il-pontefice-con.html)"
-creato: 01-05-2025T23:21:10
-aggiornato: 08-05-2025T22:21:03
+url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-providas-romanorum--i---18-marzo-1751--il-pontefice-con.html)"
+creato: 2025-05-01T23:21:10
+aggiornato: 2025-05-18T17:17:37
 ---
 
 ---

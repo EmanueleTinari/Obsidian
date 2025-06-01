@@ -1,23 +1,27 @@
 ---
-cssclasses: docVat
+cssclasses:
+  - docVat
 autore-doc: "[[Chiesa Cattolica Apostolica Romana]]"
 tipo-doc: "[[Altri documenti|Altri documenti]]"
 titolo-doc: Catechismo della Chiesa Cattolica
-giorno-doc: 1
-mese-doc: 1
-anno-doc: 1
-data-doc: 2199/01/01
+giorno-doc: 15
+mese-doc: 8
+anno-doc: 1997
+data-doc: 1997/08/15
 lingua-doc: Italiano
 lingua-orig: Latino
+titolo-lat: Catechismus Catholicae Ecclesiae
+aliases:
+  - CCC
 tags:
   - Altri_documenti
-  - X
   - Catechismo_della_Chiesa_Cattolica
+  - CCC
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: © 2025 Emanuele Tinari under "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-url-doc: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/index_it.htm)"
-creato: 02-05-2025T00:15:45
-aggiornato: 06-05-2025T22:14:33
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/index_it.htm)"
+creato: 2025-05-02T00:15:45
+aggiornato: 2025-05-20T09:17:14
 ---
 ---
 

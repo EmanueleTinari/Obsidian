@@ -1,0 +1,18 @@
+---
+cssclasses:
+  - messaggio
+veggente: Jakov
+tipo-nota: bio
+giorno-nascita: 06
+mese-nascita: 03
+anno-nascita: 1971
+nascita: 1971-03-06
+lingua-nota: Italiano
+licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+url-documento: "[Link alla pagina con le informazioni, sul sito medjugorje.hr](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni/)"
+---
+
+Età: `=date(today) - this.nascita`
+
+
+## Jakov Čolo è nato il 6.3.1971 a Sarajevo.<br>Ha avuto apparizioni quotidiane dal 25.6.1981.<br>al 12.9.1998.<br>Quel giorno, affidandole il decimo segreto, la Vergine gli disse che per tutta la sua vita avrebbe avuto un'apparizione all'anno, il giorno di Natale, 25 dicembre.<br>Jakov è sposato, ha tre bambini, vive con la sua famiglia a Medjugorje.<br>L’intenzione di preghiera affidata a lui dalla Vergine: per i malati.

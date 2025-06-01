@@ -1,6 +1,6 @@
 ---
-creato: 02-05-2025T13:35:26
-aggiornato: 04-05-2025T23:33:58
+creato: 2025-05-02T13:35:26
+aggiornato: 2025-05-11T01:23:58
 ---
 ```dataview
 TABLE file.folder AS "Cartella",

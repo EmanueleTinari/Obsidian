@@ -1,0 +1,24 @@
+---
+cssclasses:
+  - messaggio
+destinatario: Mondo
+veggente: Mirijana
+tipo-mess: annuale
+inizio: 13:34
+durata: 06
+giorno-mess: 18
+mese-mess: 03
+anno-mess: 2022
+data-mess: 2022-03-18
+lingua-mess: Italiano
+lingua-orig: Croato
+approvazione: false
+licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+url-documento: "[Link al messaggio sul sito medjugorje.hr](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+---
+
+# Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Mirijana<br>il 18 marzo 2022
+
+## Cari figli!<br>Con amore materno vi invito a guardare verso mio Figlio, pieni di forza, fede e fiducia.<br>ApriteGli i vostri cuori e non temete.<br>Perché mio Figlio è la Luce del mondo ed in Lui è la pace e la speranza.<br>Perciò vi invito di nuovo, di nuovo a pregare per i miei figli che non hanno conosciuto l’amore di mio Figlio affinché mio Figlio con la luce del Suo amore e speranza illumini anche i loro cuori e rafforzi voi, figli miei, e vi doni pace e speranza.<br>Sono con voi.<br>Vi ringrazio.
+
+La Madonna ha benedetto tutti.

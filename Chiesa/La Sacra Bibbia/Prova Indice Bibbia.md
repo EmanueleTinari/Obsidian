@@ -2,8 +2,8 @@
 tipo-doc: "[[Bibbia|Bibbia]]"
 titolo-doc: La Sacra Bibbia C.E.I. 1974
 lingua-doc: Italiano
-creato: 07-05-2025T23:22:46
-aggiornato: 09-05-2025_22:40:06
+creato: 2025-05-07T23:22:46
+aggiornato: 2025-05-10T21:41:24
 ---
 
 
@@ -173,7 +173,7 @@ aggiornato: 09-05-2025_22:40:06
 ## Nuovo Testamento
 
 ### Vangeli e Atti dei Santi Apostoli
-* [[C74 Matteo|Vangelo secondo San Matteo]]
+* [[CEI74 Matteo|Vangelo secondo San Matteo]]
 * [[C74 Marco|Vangelo secondo San Marco]]
 * [[C74 Luca|Vangelo secondo San Luca]]
 * [[C74 Giovanni|Vangelo secondo San Giovanni]]

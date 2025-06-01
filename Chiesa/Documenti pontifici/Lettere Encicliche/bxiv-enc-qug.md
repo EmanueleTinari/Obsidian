@@ -15,9 +15,9 @@ tags:
   - Quam_grave
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-url-doc: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-quam-grave--i---2-agosto-1757--il-pontefice-segnala.html)"
-creato: 29-04-2025T23:12:02
-aggiornato: 08-05-2025T22:21:03
+url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-quam-grave--i---2-agosto-1757--il-pontefice-segnala.html)"
+creato: 2025-04-29T23:12:02
+aggiornato: 2025-05-18T17:18:12
 ---
 
 

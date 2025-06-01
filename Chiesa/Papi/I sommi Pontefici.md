@@ -1,6 +1,6 @@
 ---
-creato: 09-05-2025_00:27:49
-aggiornato: 09-05-2025_13:42:23
+creato: 2025-05-09_00:27:49
+aggiornato: 2025-05-18T22:41:20
 ---
 
 
@@ -26,4 +26,4 @@ aggiornato: 09-05-2025_13:42:23
 | XVIII secolo | Clemente XI · Innocenzo XIII · Benedetto XIII · Clemente XII · [[Scheda 247° papa - Benedetto XIV\|Benedetto XIV]] · Clemente XIII · Clemente XIV · Pio VI                                                                                                                                                |
 |  XIX secolo  | Pio VII · Leone XII · Pio VIII · Gregorio XVI · Pio IX · Leone XIII                                                                                                                                                                                                                                       |
 |  XX secolo   | Pio X · Benedetto XV · Pio XI · Pio XII · Giovanni XXIII · Paolo VI · Giovanni Paolo I · Giovanni Paolo II                                                                                                                                                                                                |
-|  XXI secolo  | Benedetto XVI · Papa Francesco I · Papa Leone XIV                                                                                                                                                                                                                                                         |
+|  XXI secolo  | Benedetto XVI · Papa Francesco · Papa Leone XIV                                                                                                                                                                                                                                                           |
