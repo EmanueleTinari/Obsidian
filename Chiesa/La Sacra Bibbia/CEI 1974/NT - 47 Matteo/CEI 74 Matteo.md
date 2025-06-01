@@ -202,40 +202,59 @@ Il testo originale aramaico fu pubblicato forse tra gli anni 40 e 50.
 
 ## Punti salienti di [[CEI 74 Mt 22|Matteo 22]]
 
-- Le nozze reali ([[CEI 74 Mt #v-|Matteo ,-]])
-- La questione delle tasse ([[CEI 74 Mt #v-|Matteo ,-]])
-- La questione della resurrezione ([[CEI 74 Mt #v-|Matteo ,-]])
-- La questione del comandamento più alto ([[CEI 74 Mt #v-|Matteo ,-]])
-- La questione del Figlio di Davide ([[CEI 74 Mt #v-|Matteo ,-]])
+- Le nozze reali ([[CEI 74 Mt 22#v1-14|Matteo 22,1-14]])
+- La questione delle tasse: Il tributo a Cesare ([[CEI 74 Mt 22#v15-22|Matteo 22,15-22]])
+- I sadducei e la risurrezione ([[CEI 74 Mt 22#v23-33|Matteo 22,23-33]])
+- Il comandamento principale ([[CEI 74 Mt 22#v34-40|Matteo 22,34-40]])
+- La questione del Figlio di Davide: La natura di Cristo ([[CEI 74 Mt 22#v41-46|Matteo 22,41-46]])
 
 ## Punti salienti di [[CEI 74 Mt 23|Matteo 23]]
 
-- Contro gli scribi e i farisei ([[CEI 74 Mt #v-|Matteo ,-]])
-- Lamento su Gerusalemme ([[CEI 74 Mt #v-|Matteo ,-]])
+- Contro gli scribi e i farisei ([[CEI 74 Mt 23#v1-36|Matteo 23,1-36]])
+- Lamento su Gerusalemme ([[CEI 74 Mt 23#v37-39|Matteo 23,37-39]])
 
 ## Punti salienti di [[CEI 74 Mt 24|Matteo 24]]
 
-- La fine del tempio ([[CEI 74 Mt #v-|Matteo ,-]])
-- L'inizio del travaglio ([[CEI 74 Mt #v-|Matteo ,-]])
-- La grande tribolazione ([[CEI 74 Mt #v-|Matteo ,-]])
-- La venuta del Figlio dell'uomo ([[CEI 74 Mt #v-|Matteo ,-]])
-- Un invito alla vigilanza ([[CEI 74 Mt #v-|Matteo ,-]])
-- Del servo fedele e del servo malvagio ([[CEI 74 Mt #v-|Matteo ,-]])
+- La fine del tempio ([[CEI 74 Mt 24#v1-2|Matteo 24,1-2]])
+- L'inizio del travaglio ([[CEI 74 Mt 24#v3-8|Matteo 24,3-8]])
+- La grande tribolazione ([[CEI 74 Mt 24#v9-14|Matteo 24,9-14]])
+- Distruzione di Gerusalemme ([[CEI 74 Mt 24#v15-22|Matteo 24,15-22]])
+- La venuta del Figlio dell'uomo: Il ritorno di Cristo ([[CEI 74 Mt 24#v23-41|Matteo 24,23-41]])
+- Un invito alla vigilanza ([[CEI 74 Mt 24#v42-44|Matteo 24,42-44]])
+- Del servo fedele e del servo malvagio ([[CEI 74 Mt 24#v45-51|Matteo 24,45-51]])
 
 ## Punti salienti di [[CEI 74 Mt 25|Matteo 25]]
 
-- Delle vergini sagge e delle vergini stolte ([[CEI 74 Mt #v-|Matteo ,-]])
-- Delle tonnellate affidate ([[CEI 74 Mt #v-|Matteo ,-]])
-- Dal Giudizio Universale ([[CEI 74 Mt #v-|Matteo ,-]])
+- Delle vergini sagge e delle vergini stolte ([[CEI 74 Mt 25#v1-13|Matteo 25,1-13]])
+- Parabola dei Talenti ([[CEI 74 Mt 25#v14-30|Matteo 25,14-30]])
+- Il giudizio finale ([[CEI 74 Mt 25#v31-46|Matteo 25,31-46]])
 
 ## Punti salienti di [[CEI 74 Mt 26|Matteo 26]]
 
-- Il piano dei sommi sacerdoti e degli anziani ([[CEI 74 Mt #v-|Matteo ,-]])
-- L'unzione a Betania ([[CEI 74 Mt #v-|Matteo ,-]])
-- Il tradimento di Giuda ([[CEI 74 Mt #v-|Matteo ,-]])
-- L'Ultima Cena ([[CEI 74 Mt #v-|Matteo ,-]])
-- L'annuncio del rinnegamento di Pietro ([[CEI 74 Mt #v-|Matteo ,-]])
-- Gesù nel Getsemani ([[CEI 74 Mt #v-|Matteo ,-]])
-- Arresto di Gesù ([[CEI 74 Mt #v-|Matteo ,-]])
-- Gesù davanti al Gran Consiglio ([[CEI 74 Mt #v-|Matteo ,-]])
-- La negazione dell'animale domestico ([[CEI 74 Mt #v-|Matteo ,-]])
+- Il piano dei sommi sacerdoti e degli anziani ([[CEI 74 Mt 26#v1-5|Matteo 26,1-5]])
+- La cena di Betania ([[CEI 74 Mt 26#v6-13|Matteo 26,6-13]])
+- Il patto di Giuda ([[CEI 74 Mt 26#v14-16|Matteo 26,14-16]])
+- L'Ultima Cena ([[CEI 74 Mt 26#v17-19|Matteo 26,17-19]])
+- Il traditore svelato ([[CEI 74 Mt 26#v20-25|Matteo 26,20-25]])
+- Istituzione della SS. Eucaristia ([[CEI 74 Mt 26#v26-29|Matteo 26,26-29]])
+- Gesù predice il rinnegamento di Pietro e l'abbandono dei discepoli ([[CEI 74 Mt 26#v30-35|Matteo 26,30-35]])
+- Gesù nel Getsemani ([[CEI 74 Mt 26#v36-46|Matteo 26,36-46]])
+- Cattura e arresto di Gesù ([[CEI 74 Mt 26#v47-56|Matteo 26,47-56]])
+- Gesù davanti al sinedro ([[CEI 74 Mt 26#v57-68|Matteo 26,57-68]])
+- Le negazioni di Pietro ([[CEI 74 Mt 26#v69-75|Matteo 26,69-75]])
+
+## Punti salienti di [[CEI 74 Mt 27|Matteo 27]]
+
+La fine di Giuda ([[CEI 74 Mt 27#v1-10|Matteo 27,1-10]])
+Gesù davanti a Pilato ([[CEI 74 Mt 27#v11-14|Matteo 27,11-14]])
+La condanna e la derisione di Gesù. ([[CEI 74 Mt 27#v15-31|Matteo 27,15-31]])
+La crocifissione di Gesù. ([[CEI 74 Mt 27#v32-44|Matteo 27,32-44]])
+Agonia e morte di Gesù ([[CEI 74 Mt 27#v45-56|Matteo 27,45-56]])
+La sepoltura di Gesù ([[CEI 74 Mt 27#v57-61|Matteo 27,57-61]])
+La custodia della tomba ([[CEI 74 Mt 27#v62-66|Matteo 27,62-66]])
+
+## Punti salienti di [[CEI 74 Mt 28|Matteo 28]]
+
+La resurrezione di Gesù ([[CEI 74 Mt 28#v1-10|Matteo 28,1-10]])
+Le guardie subornate ([[CEI 74 Mt 28#v11-15|Matteo 28,11-15]])
+La missione degli Apostoli ([[CEI 74 Mt 28#v16-20|Matteo 28,16-20]])
