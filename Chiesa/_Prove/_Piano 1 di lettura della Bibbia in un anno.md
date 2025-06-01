@@ -9,7 +9,7 @@ cssclasses: pianolettura
 
 Questo piano porta a leggere l'intera Bibbia in un anno.
 Presentiamo un calendario preparato dal Card. Pierbattista Pizzaballa, francescano, Vescovo della comunità cattolica di lingua ebraica di Gerusalemme, per leggere tutta la Bibbia in un anno.
-Il calendario prevede la lettura al mattino dell'Antico Terstamento ed alla sera del Nuovo.
+Il calendario prevede la lettura al mattino dell'Antico Testamento ed alla sera del Nuovo.
 Per chi è all'inizio della conoscenza della Sacra Scrittura, consigliamo la lettura del solo Nuovo Testamento, per arrivare poi, successivamente, alla lettura dei due Testamenti insieme.
 Consigliamo di munirsi di un quaderno su cui trascrivere tutti i versetti che ci appaiono più importanti da ricordare e tutte le domande che pian piano sorgono per una più profonda comprensione del testo, per poi rivolgerle ad un esperto, ad un sacerdote, ad un padre spirituale.
 La versione che consigliamo è quella della Bibbia di Gerusalemme che unisce al testo della CEI (Conferenza Episcopale Italiana, cioè il testo che viene letto nella liturgia della Chiesa italiana, testo che cerca di rispettare la lettera del testo biblico senza aggiungere né togliere) un apparato critico di note e di riferimenti di grande utilità per la comprensione di tutti i passi più difficili.
