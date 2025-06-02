@@ -2660,7 +2660,7 @@ La Santa Madre Chiesa, per fede apostolica, ritiene sacri e canonici tutti inter
 >>>> - [ ] [[Sap 8#v2-11#v3 |Sapienza, capitoli 8,2-11,3]]
 >>>
 >>>> [!piano-lettura-sera]+ Sera
->>>> - [ ] [[2 Cor 11#v1-15 |Prima lettera di san Paolo Apostolo ai Corinzi, capitolo 11,1-15]]
+>>>> - [ ] [[2 Cor 11#v1-15 |Seconda lettera di san Paolo Apostolo ai Corinzi, capitolo 11,1-15]]
 >
 >> [!piano-lettura-giorno]- 20  settembre
 >>
@@ -2670,7 +2670,7 @@ La Santa Madre Chiesa, per fede apostolica, ritiene sacri e canonici tutti inter
 >>>> - [ ] [[Sap 11#v4-12#v27 |Sapienza, capitoli 11,4-12,27]]
 >>>
 >>>> [!piano-lettura-sera]+ Sera
->>>> - [ ] [[2 Cor 11#v16-33 |Prima lettera di san Paolo Apostolo ai Corinzi, capitolo 11,16-33]]
+>>>> - [ ] [[2 Cor 11#v16-33 |Seconda lettera di san Paolo Apostolo ai Corinzi, capitolo 11,16-33]]
 >
 >> [!piano-lettura-giorno]- 21  settembre
 >>
