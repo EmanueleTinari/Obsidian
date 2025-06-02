@@ -34,7 +34,7 @@ Versione C.E.I. 1974:
 >> Nuova Diodati, [[ND Mt 03|Matteo 3]]
 >> Riveduta, [[RIV Mt 03|Matteo 3]]
 >> Nuova Riveduta, [[NRIV Mt 03|Matteo 3]]
->> Nuova Riveduta 2020, [[[RIV20 Mt 03|Matteo 3]]
+>> Nuova Riveduta 2020, [[RIV20 Mt 03|Matteo 3]]
 
 
 
