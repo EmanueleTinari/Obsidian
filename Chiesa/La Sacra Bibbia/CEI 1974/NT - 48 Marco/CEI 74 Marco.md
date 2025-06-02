@@ -8,7 +8,7 @@ aliases:
   - Mat
   - Matthew
   - Matt
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo
 Stato: Mancano ancora i link ai riferimenti.
 ---
 # Matteo

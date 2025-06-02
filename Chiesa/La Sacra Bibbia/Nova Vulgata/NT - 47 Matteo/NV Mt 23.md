@@ -9,7 +9,7 @@ aliases:
   - Mat 23
   - Matthew 23
   - Matt 23
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_23
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_23
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

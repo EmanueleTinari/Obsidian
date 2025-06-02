@@ -9,7 +9,7 @@ aliases:
   - Mat 14
   - Matthew 14
   - Matt 14
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_14
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_14
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

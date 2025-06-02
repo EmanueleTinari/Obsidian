@@ -17,7 +17,7 @@ aliases:
   - Matthew 05
   - Matt 5
   - Matt 05
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_5
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_5
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

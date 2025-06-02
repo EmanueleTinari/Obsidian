@@ -17,7 +17,7 @@ aliases:
   - Matthew 09
   - Matt 9
   - Matt 09
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_9
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_9
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

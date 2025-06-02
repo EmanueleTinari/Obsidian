@@ -9,7 +9,7 @@ aliases:
   - Mat 10
   - Matthew 10
   - Matt 10
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_10
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_10
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

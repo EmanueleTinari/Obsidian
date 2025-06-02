@@ -17,7 +17,7 @@ aliases:
   - Matthew 04
   - Matt 4
   - Matt 04
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_4
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_4
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

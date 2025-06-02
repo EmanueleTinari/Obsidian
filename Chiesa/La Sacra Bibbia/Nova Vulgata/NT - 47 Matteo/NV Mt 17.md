@@ -9,7 +9,7 @@ aliases:
   - Mat 17
   - Matthew 17
   - Matt 17
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_17
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_17
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

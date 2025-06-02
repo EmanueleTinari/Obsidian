@@ -17,7 +17,7 @@ aliases:
   - Matthew 01
   - Matt 1
   - Matt 01
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_1
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_1
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

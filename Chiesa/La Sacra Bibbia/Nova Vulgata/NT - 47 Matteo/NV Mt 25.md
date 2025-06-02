@@ -9,7 +9,7 @@ aliases:
   - Mat 25
   - Matthew 25
   - Matt 25
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_25
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_25
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

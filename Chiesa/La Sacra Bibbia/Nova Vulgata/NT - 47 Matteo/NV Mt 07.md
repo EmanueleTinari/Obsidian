@@ -17,7 +17,7 @@ aliases:
   - Matthew 07
   - Matt 7
   - Matt 07
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_7
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_7
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

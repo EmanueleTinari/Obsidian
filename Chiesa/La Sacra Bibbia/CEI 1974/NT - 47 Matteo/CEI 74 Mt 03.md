@@ -17,7 +17,7 @@ aliases:
   - Matthew 03
   - Matt 3
   - Matt 03
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_3
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_3
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

@@ -9,7 +9,7 @@ aliases:
   - Mat 15
   - Matthew 15
   - Matt 15
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_15
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_15
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

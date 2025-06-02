@@ -9,7 +9,7 @@ aliases:
   - Mat 18
   - Matthew 18
   - Matt 18
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_18
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_18
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

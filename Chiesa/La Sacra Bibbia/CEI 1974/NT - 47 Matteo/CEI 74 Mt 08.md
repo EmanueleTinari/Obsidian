@@ -17,7 +17,7 @@ aliases:
   - Matthew 08
   - Matt 8
   - Matt 08
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_8
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_8
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

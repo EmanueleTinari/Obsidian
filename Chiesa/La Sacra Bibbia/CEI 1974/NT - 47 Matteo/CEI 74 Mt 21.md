@@ -9,7 +9,7 @@ aliases:
   - Mat 21
   - Matthew 21
   - Matt 21
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_21
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_21
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

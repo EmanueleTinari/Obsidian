@@ -9,7 +9,7 @@ aliases:
   - Mat 19
   - Matthew 19
   - Matt 19
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_19
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_19
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

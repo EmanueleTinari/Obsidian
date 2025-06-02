@@ -17,7 +17,7 @@ aliases:
   - Matthew 02
   - Matt 2
   - Matt 02
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_2
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_2
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

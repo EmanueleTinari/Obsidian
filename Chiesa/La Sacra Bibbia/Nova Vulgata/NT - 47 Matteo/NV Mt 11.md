@@ -9,7 +9,7 @@ aliases:
   - Mat 11
   - Matthew 11
   - Matt 11
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_11
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_11
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

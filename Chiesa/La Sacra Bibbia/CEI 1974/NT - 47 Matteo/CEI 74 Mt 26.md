@@ -9,7 +9,7 @@ aliases:
   - Mat 26
   - Matthew 26
   - Matt 26
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_26
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_26
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

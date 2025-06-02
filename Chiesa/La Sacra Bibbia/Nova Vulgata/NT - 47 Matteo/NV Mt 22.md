@@ -9,7 +9,7 @@ aliases:
   - Mat 22
   - Matthew 22
   - Matt 22
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_22
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_22
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

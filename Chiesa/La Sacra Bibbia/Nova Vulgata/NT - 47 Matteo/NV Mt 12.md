@@ -9,7 +9,7 @@ aliases:
   - Mat 12
   - Matthew 12
   - Matt 12
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_12
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_12
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione Nova Vulgata:

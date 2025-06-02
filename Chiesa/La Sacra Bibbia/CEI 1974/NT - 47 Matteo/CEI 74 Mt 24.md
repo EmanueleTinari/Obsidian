@@ -9,7 +9,7 @@ aliases:
   - Mat 24
   - Matthew 24
   - Matt 24
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_24
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_24
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 

@@ -9,7 +9,7 @@ aliases:
   - Mat 13
   - Matthew 13
   - Matt 13
-Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo/Capitolo_13
+Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_13
 Stato: Mancano ancora i link ai riferimenti.
 ---
 Versione C.E.I. 1974: 
