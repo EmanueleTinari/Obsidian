@@ -14,7 +14,7 @@ tags:
   - Benedetto_XIV
   - Ubi_primum
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-ubi-primum--i---3-dicembre-1740--nell--8217-ambito-.html)"
 creato: 2025-04-30T08:20:29
 aggiornato: 2025-05-20T14:56:10

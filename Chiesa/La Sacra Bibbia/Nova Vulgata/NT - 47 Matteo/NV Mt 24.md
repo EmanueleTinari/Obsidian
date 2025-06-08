@@ -1,196 +1,154 @@
 ---
 cssclasses: bibbia
+versione: Nova Vulgata
+testamento: Nuovo
+gruppo: I Vangeli
+num-libro: 47
+tit-libro: Vangelo di san Matteo Apostolo ed Evangelista
+capitolo: 24
 aliases:
   - Mt-24
   - Mt 24
   - Matteo 24
+  - Vangelo secondo Matteo 24
+  - Vangelo secondo Matteo, capitolo 24
+  - Vangelo di Matteo 24
   - Matthæus 24
   - Evangelium secundum Matthæum 24
   - Mat 24
   - Matthew 24
   - Matt 24
 Tags: Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_24
-Stato: Mancano ancora i link ai riferimenti.
+  - Nuovo_Testamento
+  - I_Vangeli
+  - Vangelo_di_San_Matteo_Apostolo_ed_Evangelista
+  - Capitolo_24
+  - Vangelo_secondo_Matteo
+  - Vangelo_di_Matteo
+stato: Mancano ancora i link ai riferimenti.
+completato: false
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
 ---
 Versione Nova Vulgata:
-> [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[NV Mt 01|⇤ Matthæus 1]] | [[NV Mt 23|← Matthæus 23]] | Matthæus 24 | [[NV Mt 25|Matthæus 25 →]] | [[NV Mt 28|Matthæus 28 ⇥]] | [[NV Luca|Luca ↓]]
+> [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|⇤ Matthæus 1]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 23|← Matthæus 23]] | Matthæus 24 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 25|Matthæus 25 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
 >>
->> Vulgata Latina di San Girolamo, [[VLSG Mt 24|Matthæus 24]]
->> C.E.I 1974, [[CEI 74 Mt 24|Matteo 24]]
->> C.E.I 2008, [[CEI 08 Mt 24|Matteo 24]]
->> Interconfessionale, [[INT Mt 24|Matteo 24]]
->> Martini, [[MRT Mt 24|Matteo 24]]
->> Ricciotti, [[RCT Mt 24|Matteo 24]]
->> Diodati, [[D Mt 24|Matteo 24]]
->> Nuova Diodati, [[ND Mt 24|Matteo 24]]
->> Riveduta, [[RIV Mt 24|Matteo 24]]
->> Nuova Riveduta, [[NRIV Mt 24|Matteo 24]]
->> Nuova Riveduta 2020, [[RIV20 Mt 24|Matteo 24]]
-
-
+>> Vulgata Latina di San Girolamo, [[La Sacra Bibbia/Vulgata Latina di San Girolamo/NT - 47 Matteo/VLSG Mt 24|Matthæus 24]]
+>> C.E.I 1974, [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 24|Matteo 24]]
+>> C.E.I 2008, [[La Sacra Bibbia/CEI 2008/NT - 47 Matteo/CEI 08 Mt 24|Matteo 24]]
+>> Interconfessionale, [[La Sacra Bibbia/Interconfessionale/NT - 47 Matteo/INT Mt 24|Matteo 24]]
+>> Martini, [[La Sacra Bibbia/Martini/NT - 47 Matteo/MRT Mt 24|Matteo 24]]
+>> Ricciotti, [[La Sacra Bibbia/Ricciotti/NT - 47 Matteo/RCT Mt 24|Matteo 24]]
+>> Diodati, [[La Sacra Bibbia/Diodati/NT - 47 Matteo/D Mt 24|Matteo 24]]
+>> Nuova Diodati, [[La Sacra Bibbia/Nuova Diodati/NT - 47 Matteo/ND Mt 24|Matteo 24]]
+>> Riveduta, [[La Sacra Bibbia/Riveduta/NT - 47 Matteo/RIV Mt 24|Matteo 24]]
+>> Nuova Riveduta, [[La Sacra Bibbia/Nuova Riveduta/NT - 47 Matteo/NRIV Mt 24|Matteo 24]]
+>> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 24|Matteo 24]]
 
 # Matthæus 24
-
-
-
 ***
-
-
-
-###### v1
-Et egressus Iesus de templo ibat, et accesserunt discipuli eius, ut ostenderent ei aedificationes templi;
-
-###### v2
-ipse autem respondens dixit eis: "Non videtis haec omnia? Amen dico vobis: Non relinquetur hic lapis super lapidem, qui non destruetur".
-
-###### v3
-Sedente autem eo super montem Oliveti, accesserunt ad eum discipuli secreto dicentes: "Dic nobis: Quando haec erunt, et quod signum adventus tui et consummationis saeculi?".
-
-###### v4
-Et respondens Iesus dixit eis: "Videte, ne quis vos seducat.
-
-###### v5
-Multi enim venient in nomine meo dicentes: "Ego sum Christus", et multos seducent.
-
-###### v6
-Audituri enim estis proelia et opiniones proeliorum. Videte, ne turbemini; oportet enim fieri, sed nondum est finis.
-
-###### v7
-Consurget enim gens in gentem, et regnum in regnum, et erunt fames et terrae motus per loca;
-
-###### v8
-haec autem omnia initia sunt dolorum.
-
-###### v9
-Tunc tradent vos in tribulationem et occident vos, et eritis odio omnibus gentibus propter nomen meum.
-
-###### v10
-Et tunc scandalizabuntur multi et invicem tradent et odio habebunt invicem;
-
-###### v11
-et multi pseudoprophetae surgent et seducent multos.
-
-###### v12
-Et, quoniam abundavit iniquitas, refrigescet caritas multorum;
-
-###### v13
-qui autem permanserit usque in finem, hic salvus erit.
-
-###### v14
-Et praedicabitur hoc evangelium regni in universo orbe in testimonium omnibus gentibus; et tunc veniet consummatio.
-
-###### v15
-Cum ergo videritis abominationem desolationis, quae dicta est a Daniele propheta, stantem in loco sancto, qui legit, intellegat:
-
-###### v16
-tunc qui in Iudaea sunt, fugiant ad montes;
-
-###### v17
-qui in tecto, non descendat tollere aliquid de domo sua;
-
-###### v18
-et, qui in agro, non revertatur tollere pallium suum.
-
-###### v19
-Vae autem praegnantibus et nutrientibus in illis diebus!
-
-###### v20
-Orate autem, ut non fiat fuga vestra hieme vel sabbato:
-
-###### v21
-erit enim tunc tribulatio magna, qualis non fuit ab initio mundi usque modo neque fiet.
-
-###### v22
-Et nisi breviati fuissent dies illi, non fieret salva omnis caro; sed propter electos breviabuntur dies illi.
-
-###### v23
-Tunc si quis vobis dixerit: "Ecce hic Christus" aut: "Hic", nolite credere.
-
-###### v24
-Surgent enim pseudochristi et pseudoprophetae et dabunt signa magna et prodigia, ita ut in errorem inducantur, si fieri potest, etiam electi.
-
-###### v25
-Ecce praedixi vobis.
-
-###### v26
-Si ergo dixerint vobis: "Ecce in deserto est", nolite exire; "Ecce in penetralibus", nolite credere;
-
-###### v27
-sicut enim fulgur exit ab oriente et paret usque in occidentem, ita erit adventus Filii hominis.
-
-###### v28
-Ubicumque fuerit corpus, illuc congregabuntur aquilae.
-
-###### v29
-Statim autem post tribulationem dierum illorum, sol obscurabitur, et luna non dabit lumen suum, et stellae cadent de caelo, et virtutes caelorum commovebuntur.
-
-###### v30
-Et tunc parebit signum Filii hominis in caelo, et tunc plangent omnes tribus terrae et videbunt Filium hominis venientem in nubibus caeli cum virtute et gloria multa;
-
-###### v31
-et mittet angelos suos cum tuba magna, et congregabunt electos eius a quattuor ventis, a summis caelorum usque ad terminos eorum.
-
-###### v32
-Ab arbore autem fici discite parabolam: cum iam ramus eius tener fuerit, et folia nata, scitis quia prope est aestas.
-
-###### v33
-Ita et vos, cum videritis haec omnia, scitote quia prope est in ianuis.
-
-###### v34
-Amen dico vobis: Non praeteribit haec generatio, donec omnia haec fiant.
-
-###### v35
-Caelum et terra transibunt, verba vero mea non praeteribunt.
-
-###### v36
-De die autem illa et hora nemo scit, neque angeli caelorum neque Filius, nisi Pater solus.
-
-###### v37
-Sicut enim dies Noe, ita erit adventus Filii hominis.
-
-###### v38
-Sicut enim erant in diebus ante diluvium comedentes et bibentes, nubentes et nuptum tradentes, usque ad eum diem, quo introivit in arcam Noe,
-
-###### v39
-et non cognoverunt, donec venit diluvium et tulit omnes, ita erit et adventus Filii hominis.
-
-###### v40
-Tunc duo erunt in agro: unus assumitur, et unus relinquitur;
-
-###### v41
-duae molentes in mola: una assumitur, et una relinquitur.
-
-###### v42
-Vigilate ergo, quia nescitis qua die Dominus vester venturus sit.
-
-###### v43
-Illud autem scitote quoniam si sciret pater familias qua hora fur venturus esset, vigilaret utique et non sineret perfodi domum suam.
-
-###### v44
-Ideo et vos estote parati, quia, qua nescitis hora, Filius hominis venturus est.
-
-###### v45
-Quis putas est fidelis servus et prudens, quem constituit dominus supra familiam suam, ut det illis cibum in tempore?
-
-###### v46
-Beatus ille servus, quem cum venerit dominus eius, invenerit sic facientem.
-
-###### v47
-Amen dico vobis quoniam super omnia bona sua constituet eum.
-
-###### v48
-Si autem dixerit malus servus ille in corde suo: "Moram facit dominus meus venire",
-
-###### v49
-et coeperit percutere conservos suos, manducet autem et bibat cum ebriis,
-
-###### v50
-veniet dominus servi illius in die, qua non sperat, et in hora, qua ignorat,
-
-###### v51
-et dividet eum partemque eius ponet cum hypocritis; illic erit fletus et stridor dentium.
-
+###### 1
+<span class=vrs>1</span>Et egressus Iesus de templo ibat, et accesserunt discipuli eius, ut ostenderent ei aedificationes templi;
+###### 2
+<span class=vrs>2</span>ipse autem respondens dixit eis: "Non videtis haec omnia? Amen dico vobis: Non relinquetur hic lapis super lapidem, qui non destruetur".
+###### 3
+<span class=vrs>3</span>Sedente autem eo super montem Oliveti, accesserunt ad eum discipuli secreto dicentes: "Dic nobis: Quando haec erunt, et quod signum adventus tui et consummationis saeculi?".
+###### 4
+<span class=vrs>4</span>Et respondens Iesus dixit eis: "Videte, ne quis vos seducat.
+###### 5
+<span class=vrs>5</span>Multi enim venient in nomine meo dicentes: "Ego sum Christus", et multos seducent.
+###### 6
+<span class=vrs>6</span>Audituri enim estis proelia et opiniones proeliorum. Videte, ne turbemini; oportet enim fieri, sed nondum est finis.
+###### 7
+<span class=vrs>7</span>Consurget enim gens in gentem, et regnum in regnum, et erunt fames et terrae motus per loca;
+###### 8
+<span class=vrs>8</span>haec autem omnia initia sunt dolorum.
+###### 9
+<span class=vrs>9</span>Tunc tradent vos in tribulationem et occident vos, et eritis odio omnibus gentibus propter nomen meum.
+###### 10
+<span class=vrs>10</span>Et tunc scandalizabuntur multi et invicem tradent et odio habebunt invicem;
+###### 11
+<span class=vrs>11</span>et multi pseudoprophetae surgent et seducent multos.
+###### 12
+<span class=vrs>12</span>Et, quoniam abundavit iniquitas, refrigescet caritas multorum;
+###### 13
+<span class=vrs>13</span>qui autem permanserit usque in finem, hic salvus erit.
+###### 14
+<span class=vrs>14</span>Et praedicabitur hoc evangelium regni in universo orbe in testimonium omnibus gentibus; et tunc veniet consummatio.
+###### 15
+<span class=vrs>15</span>Cum ergo videritis abominationem desolationis, quae dicta est a Daniele propheta, stantem in loco sancto, qui legit, intellegat:
+###### 16
+<span class=vrs>16</span>tunc qui in Iudaea sunt, fugiant ad montes;
+###### 17
+<span class=vrs>17</span>qui in tecto, non descendat tollere aliquid de domo sua;
+###### 18
+<span class=vrs>18</span>et, qui in agro, non revertatur tollere pallium suum.
+###### 19
+<span class=vrs>19</span>Vae autem praegnantibus et nutrientibus in illis diebus!
+###### 20
+<span class=vrs>20</span>Orate autem, ut non fiat fuga vestra hieme vel sabbato:
+###### 21
+<span class=vrs>21</span>erit enim tunc tribulatio magna, qualis non fuit ab initio mundi usque modo neque fiet.
+###### 22
+<span class=vrs>22</span>Et nisi breviati fuissent dies illi, non fieret salva omnis caro; sed propter electos breviabuntur dies illi.
+###### 23
+<span class=vrs>23</span>Tunc si quis vobis dixerit: "Ecce hic Christus" aut: "Hic", nolite credere.
+###### 24
+<span class=vrs>24</span>Surgent enim pseudochristi et pseudoprophetae et dabunt signa magna et prodigia, ita ut in errorem inducantur, si fieri potest, etiam electi.
+###### 25
+<span class=vrs>25</span>Ecce praedixi vobis.
+###### 26
+<span class=vrs>26</span>Si ergo dixerint vobis: "Ecce in deserto est", nolite exire; "Ecce in penetralibus", nolite credere;
+###### 27
+<span class=vrs>27</span>sicut enim fulgur exit ab oriente et paret usque in occidentem, ita erit adventus Filii hominis.
+###### 28
+<span class=vrs>28</span>Ubicumque fuerit corpus, illuc congregabuntur aquilae.
+###### 29
+<span class=vrs>29</span>Statim autem post tribulationem dierum illorum, sol obscurabitur, et luna non dabit lumen suum, et stellae cadent de caelo, et virtutes caelorum commovebuntur.
+###### 30
+<span class=vrs>30</span>Et tunc parebit signum Filii hominis in caelo, et tunc plangent omnes tribus terrae et videbunt Filium hominis venientem in nubibus caeli cum virtute et gloria multa;
+###### 31
+<span class=vrs>31</span>et mittet angelos suos cum tuba magna, et congregabunt electos eius a quattuor ventis, a summis caelorum usque ad terminos eorum.
+###### 32
+<span class=vrs>32</span>Ab arbore autem fici discite parabolam: cum iam ramus eius tener fuerit, et folia nata, scitis quia prope est aestas.
+###### 33
+<span class=vrs>33</span>Ita et vos, cum videritis haec omnia, scitote quia prope est in ianuis.
+###### 34
+<span class=vrs>34</span>Amen dico vobis: Non praeteribit haec generatio, donec omnia haec fiant.
+###### 35
+<span class=vrs>35</span>Caelum et terra transibunt, verba vero mea non praeteribunt.
+###### 36
+<span class=vrs>36</span>De die autem illa et hora nemo scit, neque angeli caelorum neque Filius, nisi Pater solus.
+###### 37
+<span class=vrs>37</span>Sicut enim dies Noe, ita erit adventus Filii hominis.
+###### 38
+<span class=vrs>38</span>Sicut enim erant in diebus ante diluvium comedentes et bibentes, nubentes et nuptum tradentes, usque ad eum diem, quo introivit in arcam Noe,
+###### 39
+<span class=vrs>39</span>et non cognoverunt, donec venit diluvium et tulit omnes, ita erit et adventus Filii hominis.
+###### 40
+<span class=vrs>40</span>Tunc duo erunt in agro: unus assumitur, et unus relinquitur;
+###### 41
+<span class=vrs>41</span>duae molentes in mola: una assumitur, et una relinquitur.
+###### 42
+<span class=vrs>42</span>Vigilate ergo, quia nescitis qua die Dominus vester venturus sit.
+###### 43
+<span class=vrs>43</span>Illud autem scitote quoniam si sciret pater familias qua hora fur venturus esset, vigilaret utique et non sineret perfodi domum suam.
+###### 44
+<span class=vrs>44</span>Ideo et vos estote parati, quia, qua nescitis hora, Filius hominis venturus est.
+###### 45
+<span class=vrs>45</span>Quis putas est fidelis servus et prudens, quem constituit dominus supra familiam suam, ut det illis cibum in tempore?
+###### 46
+<span class=vrs>46</span>Beatus ille servus, quem cum venerit dominus eius, invenerit sic facientem.
+###### 47
+<span class=vrs>47</span>Amen dico vobis quoniam super omnia bona sua constituet eum.
+###### 48
+<span class=vrs>48</span>Si autem dixerit malus servus ille in corde suo: "Moram facit dominus meus venire",
+###### 49
+<span class=vrs>49</span>et coeperit percutere conservos suos, manducet autem et bibat cum ebriis,
+###### 50
+<span class=vrs>50</span>veniet dominus servi illius in die, qua non sperat, et in hora, qua ignorat,
+###### 51
+<span class=vrs>51</span>et dividet eum partemque eius ponet cum hypocritis; illic erit fletus et stridor dentium.
 ***
-
-[[NV Mt 23| ← Matthæus 23]] | Matthæus 24 | [[NV Mt 25| Matthæus 25 → ]]
+[[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 23| ← Matthæus 23]] | Matthæus 24 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 25| Matthæus 25 → ]]

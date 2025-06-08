@@ -14,7 +14,7 @@ tags:
   - Benedetto_XIV
   - Quanta_cura
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-quanta-cura--i---30-giugno-1741--sdegnata-condanna-cont.html)"
 creato: 2025-05-02T11:03:58
 aggiornato: 2025-05-18T17:17:39

@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 destinatario: Parrocchia
 veggente: Marija
 giorno-mess: 25
@@ -9,9 +8,9 @@ anno-mess: 2025
 data-mess: 2025-01-25
 lingua-mess: Italiano
 lingua-orig: Croato
-approvazione: false
-licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-url-documento: "[Link al messaggio sul sito medjugorje.hr](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2025-1-25)"
+approvazione: true
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2025-1-25)"
 ---
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 gennaio 2025

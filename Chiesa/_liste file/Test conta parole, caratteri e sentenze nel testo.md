@@ -1,9 +1,11 @@
 
+Source: [Qui](https://gist.github.com/torantine/df3f7d6f8e7f884305da171505a73ae7)
+
 ```dataviewjs
 // thanks to [https://www.tutorialspoint.com/how-to-count-a-number-of-words-in-given-string-in-javascript](https://www.tutorialspoint.com/how-to-count-a-number-of-words-in-given-string-in-javascript "Linkificator: https://www.tutorialspoint.com/how-to-count-a-number-of-words-in-given-string-in-javascript")
 
-let text = app.workspace.activeLeaf.view.file.unsafeCachedData;
-
+//let text = app.workspace.activeLeaf.view.file.unsafeCachedData;
+let text = 'Stringa di prova per contarne le parole'
 // remove the start and end spaces of the given string
 text = text.replace(/(^\\s\*)|(\\s\*$)/gi,""); 
 // reduce multiple spaces to a single space
@@ -36,9 +38,14 @@ function getSentenceCount(text) {
 
 // above functions minus counts of dataviewjs itself
 
-let wordCount = getWordCount(text) - 837;
-let characterCount = getCharacterCount(text) - 5837;
-let sentenceCount = getSentenceCount(text) - 1;
+//let wordCount = getWordCount(text) - 837;
+//let characterCount = getCharacterCount(text) - 5837;
+//let sentenceCount = getSentenceCount(text) - 1;
+//let out = "Word Count: \n" + wordCount + " words\n" + characterCount + " characters\n" + sentenceCount + " sentence(s)";
+
+let wordCount = getWordCount(text);
+let characterCount = getCharacterCount(text);
+let sentenceCount = getSentenceCount(text);
 let out = "Word Count: \n" + wordCount + " words\n" + characterCount + " characters\n" + sentenceCount + " sentence(s)";
 
 dv.paragraph(out);

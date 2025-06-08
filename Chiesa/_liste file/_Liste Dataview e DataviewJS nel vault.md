@@ -97,7 +97,7 @@ var filterDir = "Documenti";
 // Inserire qui eventuali filtri per i nomi dei file
 var excludedStart = "_";
 // Tutte le pagine nell'ambito del percorso corrente
-let pages = dv.pages('"' + folder + '"');
+let pages = ('"' + folder + '"');
 // elenco le sottodirectory dirette
 let subfolders = [];
 pages.forEach(page => {

@@ -15,7 +15,7 @@ aggiornato: 2025-05-13T08:58:00
 > > - 3
 > > - 4
 >
-> > [!green] Reading
+> > [!] Reading
 > >
 > > Dato 2
 > > - A
@@ -65,9 +65,8 @@ aggiornato: 2025-05-13T08:58:00
 > [!pensiero]- Ciao
 > Hey
 
-
-
-
+> [!idea]- Callout 'Idea'
+> ciao
 
 > [!summary]+ Mio testo
 >

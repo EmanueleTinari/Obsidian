@@ -8,8 +8,8 @@ mese-nascita: 09
 anno-nascita: 1964
 nascita: 1964-09-03
 lingua-nota: Italiano
-licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-url-documento: "[Link alla pagina con le informazioni, sul sito medjugorje.hr](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni/)"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-messaggio: "[Link alla pagina con le informazioni,](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni/)"
 ---
 
 Età: `=date(today) - this.nascita`

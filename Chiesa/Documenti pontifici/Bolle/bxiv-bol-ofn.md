@@ -14,7 +14,7 @@ tags:
   - Benedetto_XIV
   - Officii_nostri
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-officii-nostri--i---15-marzo-1749--poiche-sono-sorti-di.html)"
 creato: 2025-05-01T15:33:29
 aggiornato: 2025-05-18T17:17:38

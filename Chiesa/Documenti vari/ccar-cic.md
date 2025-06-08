@@ -2,7 +2,7 @@
 cssclasses:
   - docVat
 autore-doc: "[[Chiesa Cattolica Apostolica Romana]]"
-tipo-doc: "[[Altri documenti]]"
+tipo-doc: "[[Altri documenti|Altri documenti]]"
 titolo-doc: Codice di Diritto Canonico
 giorno-doc: 27
 mese-doc: 11

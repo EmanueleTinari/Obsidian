@@ -1,15 +1,15 @@
 ---
 cssclasses:
   - messaggio
-veggente: Marija
+veggente: "[[1 6 info Marija|Marija]]"
 tipo-nota: bio
 giorno-nascita: 01
 mese-nascita: 04
 anno-nascita: 1965
 nascita: 1965-04-01
 lingua-nota: Italiano
-licenza-nota: "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-url-documento: "[Link alla pagina con le informazioni, sul sito medjugorje.hr](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni/)"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-messaggio: "[Link alla pagina con le informazioni,](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni/)"
 ---
 
 Età: `=date(today) - this.nascita`

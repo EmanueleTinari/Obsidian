@@ -1,5 +1,5 @@
 ---
-creato: 2025-05-07T22:57:55
+
 aggiornato: 2025-05-10T21:33:03
 ---
 Su BibleGateway
