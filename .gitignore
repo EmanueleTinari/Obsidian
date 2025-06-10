@@ -21,6 +21,7 @@
 # Ignore all local history of files
 .history
 .ionide
+/Chiesa/_01 - tmpBibleFolderDL
 /ChiesaTest
 /habit-tracker-example
 /Ideaverse Lite 1.5

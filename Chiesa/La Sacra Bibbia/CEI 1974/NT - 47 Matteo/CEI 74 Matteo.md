@@ -22,7 +22,7 @@ url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/introduzione/
 ***
 > [!indice-libro-biblico]- <span class="normale">Versione C.E.I. 1974: </span>
 >
->> [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Ml 03|← Malachia 3]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|Inizia a leggere →]]
+>> [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Ml 03| ← Malachia 3]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|Inizia a leggere →]]
 >
 ***
 > [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
@@ -257,4 +257,4 @@ La missione degli Apostoli ([[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 
 ***
 
 
-[[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Ml 03|← Malachia 3]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|Inizia a leggere →]]
+[[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Ml 03| ← Malachia 3]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|Inizia a leggere →]]
