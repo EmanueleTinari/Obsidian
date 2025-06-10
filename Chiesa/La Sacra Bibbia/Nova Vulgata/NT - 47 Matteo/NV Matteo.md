@@ -18,7 +18,7 @@ url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/introduzione/
 ***
 > [!indice-libro-biblico]- <span class="normale">Versione Nova Vulgata: </span>
 >
->> [[La Sacra Bibbia/Nova Vulgata/NT - 46 Malachia/NV Ml 03|← Malachiæ 3]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Inizia a leggere →]]
+>> [[La Sacra Bibbia/Nova Vulgata/NT - 46 Malachia/NV Ml 03| ← Malachiæ 3]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Inizia a leggere →]]
 >
 ***
 > [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
@@ -242,4 +242,4 @@ La missione degli Apostoli ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 
 ***
 
 
-[[La Sacra Bibbia/Nova Vulgata/NT - 46 Malachia/NV Ml 03|← Malachiæ 3]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Inizia a leggere →]]
+[[La Sacra Bibbia/Nova Vulgata/NT - 46 Malachia/NV Ml 03| ← Malachiæ 3]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Inizia a leggere →]]

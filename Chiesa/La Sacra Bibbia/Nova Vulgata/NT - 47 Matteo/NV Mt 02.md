@@ -42,7 +42,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
 ---
 Versione Nova Vulgata:
-> [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|← Matthæus 1]] | Matthæus 2 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03|Matthæus 3 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
+> [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01| ← Matthæus 1]] | Matthæus 2 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03|Matthæus 3 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
 >>
 >> Vulgata Latina di San Girolamo, [[La Sacra Bibbia/Vulgata Latina di San Girolamo/NT - 47 Matteo/VLSG Mt 02|Matthæus 2]]
