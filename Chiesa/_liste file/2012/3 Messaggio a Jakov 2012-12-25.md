@@ -1,0 +1,24 @@
+---
+cssclasses:
+  - messaggio
+destinatario: Mondo
+veggente: Jakov
+tipo-mess: annuale
+inizio: 14:15
+durata: 10
+giorno-mess: 25
+mese-mess: 12
+anno-mess: 2012
+data-mess: 2012-12-25
+lingua-mess: Italiano
+lingua-orig: Croato
+approvazione: false
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+---
+
+# Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso il veggente Jakov<br>il 25 dicembre 2012
+
+La Madonna e venuta con il Bambino Gesù tra le braccia.<br>Jakov , dopo l'apparizione, ha trasmesso il messaggio:
+## Cari figli!<br>Donatemi la vostra vita e abbandonatevi completamente a me perché io possa aiutarvi a comprendere il mio amore materno e l'amore del mio Figlio verso di voi.<br>Figli miei, io vi amo immensamente ed oggi, in modo particolare nel giorno della nascità del mio Figlio, desidero accogliere ciascuno di voi nel mio cuore e donare le vostre vite al mio Figlio.<br>Figli miei, Gesù vi ama e vi dona la grazia di vivere nella Sua misericordia, ma molti dei vostri cuori sono presi dal peccato e vivete nelle tenebre.<br>Perciò, figli miei, non aspettate, dite no al peccato e offrite i vostri cuori al mio Figlio perché soltanto così potrete vivere la misericordia di Dio ed incamminarvi sulla via della salvezza con Gesù nei vostri cuori.
+

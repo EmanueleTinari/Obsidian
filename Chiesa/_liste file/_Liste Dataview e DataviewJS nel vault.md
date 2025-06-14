@@ -35,7 +35,7 @@ aggiornato: 2025-05-11T01:26:43
 
 > [!info]- <div style="padding: 0px 10px 0px 10px; text-align:center; background-color: lightgrey; color:blue;">Lista Dataview con tutti i file nel vault presentandoli come <span style="text-transform: uppercase; text-decoration-line: underline; color:red;">tabella</span>, divisi per cartella, separati da un BR:</div>
 > ```dataview 
-> TABLE join(rows.file.link, "<br />") as "File contenuti"
+> TABLE join(rows.file.link, "<br>") as "File contenuti"
 > GROUP BY file.folder as "Cartelle"
 > ```
 
