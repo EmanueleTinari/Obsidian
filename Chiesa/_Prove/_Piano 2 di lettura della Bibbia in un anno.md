@@ -14,7 +14,7 @@ La PAROLA di DIO secondo il Catechismo della Chiesa Cattolica
 La Santa Madre Chiesa, per fede apostolica, ritiene sacri e canonici tutti interi i libri sia dell'Antico che del Nuovo Testamento, con tutte le loro parti, perché, scritti sotto ispirazione dello Spirito Santo, hanno Dio per autore e come tali sono stati consegnati alla Chiesa” [Conc. Ecum. Vat. II, Dei Verbum, 21].
 
 
-> [!piano-lettura-titolo]- Progetto Bibbia:<BR />Il piano di lettura biblico📜in un anno
+> [!piano-lettura-titolo]- Progetto Bibbia:<br>Il piano di lettura biblico📜in un anno
 
 > [!piano-lettura-mese]- GENNAIO
 >

@@ -171,7 +171,7 @@ if ( firstRequest.status === 200 ) {
 //* ***************************/
 
 							//console.log('Richiesta pagina del Testamento: ' + linkOldTestamentPage );
-    tipoTestamento = 'AT';
+	tipoTestamento = 'AT';
 	// Create a new XMLHttpRequest instance to fetch the content of the Nova Vulgata Old or New Testament page
 	var requestOldTestamentPage = new XMLHttpRequest();
 	// Open a GET request to the current link in linkTestamentPage
@@ -194,8 +194,8 @@ if ( firstRequest.status === 200 ) {
 //							console.log( 'Found link: ' + linkOld.href );
 		});
 //							console.log( 'Found ' + arrayBooksOldTestamentLinks.length + ' links to Old Testament of Nova Vulgata books.' );
-    // Fine if di richiesta stato pagina Vecchio Testamento
-    }
+	// Fine if di richiesta stato pagina Vecchio Testamento
+	}
 
 
 
@@ -237,28 +237,28 @@ if ( firstRequest.status === 200 ) {
 //							console.log( 'Found link: ' + linkNew.href );
 		});
 //							console.log( 'Found ' + arrayBooksNewTestamentLinks.length + ' links to New Testament of Nova Vulgata books.' );
-    // Fine if di richiesta stato pagina Nuovo Testamento
-    }
+	// Fine if di richiesta stato pagina Nuovo Testamento
+	}
 
 // Now we have all the links to the Nova Vulgata books New Testament in the arrayBooksNewTestamentLinks array.
 // We will now download the content of each book and save it in a file
 var arrayBooksNewTestamentNumberOfLinks = arrayBooksNewTestamentLinks.length;
 // Loop through each link in arrayBooksNewTestamentLinks to download the content of every book
 for ( var y = 47; y < (arrayBooksNewTestamentNumberOfLinks + 47); y++ ) {
-    // Parte da 46
-    var x = (y-1);
-    console.log('Var x value= ' + x);
+	// Parte da 46
+	var x = (y-1);
+	console.log('Var x value= ' + x);
 	// Parte da 0
-    var w = (y-47);
-    console.log('Var w value= ' + w);
+	var w = (y-47);
+	console.log('Var w value= ' + w);
 	// Parte da 1
-    var k = (y-46);
-    console.log('Var k value= ' + k);
-    var r=confirm('Scarico il libro numero\n' + (y-46) + ' di\n' + arrayBooksNewTestamentTitles[w].trim() + ' del Nuovo Testamento?');
-    if ( r == false ) {
-        continue;
-    }
-    tipoTestamento = 'NT';
+	var k = (y-46);
+	console.log('Var k value= ' + k);
+	var r=confirm('Scarico il libro numero\n' + (y-46) + ' di\n' + arrayBooksNewTestamentTitles[w].trim() + ' del Nuovo Testamento?');
+	if ( r == false ) {
+		continue;
+	}
+	tipoTestamento = 'NT';
 							console.log( 'Tipo Testamento per il Libro processato: ' + tipoTestamento );
 	bookTitle = arrayBooksNewTestamentTitles[w].trim();
 							console.log( 'Libro in processo: ' + bookTitle );
@@ -281,16 +281,16 @@ for ( var y = 47; y < (arrayBooksNewTestamentNumberOfLinks + 47); y++ ) {
 		var docBookPage = parserBookPage.parseFromString( responseBookPage, 'text/html' );
 		var pElements = docBookPage.querySelectorAll('p');
 		// Ciclo per tutti gli elementi <p> nella pagina cominciando dal numero 5 perché i precedenti riguardano
-        // campi vuoti o contenenti l'indice, quindi elementi non utili.
-        // Ogni elemento <p> contiene un capitolo del libro
-        for ( var i = 5; i < pElements.length; i++ ) {
+		// campi vuoti o contenenti l'indice, quindi elementi non utili.
+		// Ogni elemento <p> contiene un capitolo del libro
+		for ( var i = 5; i < pElements.length; i++ ) {
 			var parserAllElementsPs = new DOMParser();
 			var fragmentOnlyOneElementP = parserAllElementsPs.parseFromString(pElements[i].innerHTML, 'text/html');
 			var aElement = fragmentOnlyOneElementP.querySelector('a');
 			// Se esiste l'elemento <a> all'interno dell'elemento <p> esso
-            // rappresenta il numero di capitolo. Lo estraiamo ed eliminiamo l'elemento padre
-            // <b> contenente l'elemento <a>
-            if (aElement) {
+			// rappresenta il numero di capitolo. Lo estraiamo ed eliminiamo l'elemento padre
+			// <b> contenente l'elemento <a>
+			if (aElement) {
 				numCapitolo = aElement.getAttribute('name');
 							console.log('Capitolo: ' + aElement.getAttribute('name') + '\n');
 				if (aElement.getAttribute('name').length == 1) {
@@ -313,9 +313,9 @@ for ( var y = 47; y < (arrayBooksNewTestamentNumberOfLinks + 47); y++ ) {
 			}
 			else {
 							console.log('Errore: Nell\'elemento <p>, indice ' + i + ' in esame non c\'è l\'elemento <a>');
-                // torna al ciclo for per esaminare il prossimo elemento <p>
-                // Se non esiste l'elemento <a> allora non è un capitolo valido, quindi lo salta
-                continue;
+				// torna al ciclo for per esaminare il prossimo elemento <p>
+				// Se non esiste l'elemento <a> allora non è un capitolo valido, quindi lo salta
+				continue;
 			}
 			var pElement = pElements[i];
 			if (pElement.innerHTML.includes('b')) {
@@ -352,27 +352,24 @@ for ( var y = 47; y < (arrayBooksNewTestamentNumberOfLinks + 47); y++ ) {
 					}
 				}
 							console.log('Fine capitolo: ' + numCapitolo);
-                // Il capitolo è finito. Chiudo il file MD e lo salvo.
-                // Chiusura del file md: riga di separazione
-                buildingString += '\*\*\*\n';
-                                    console.log('buildingString: ' + buildingString);
-                salvaMdFile( nomeFile, buildingString );
-
-
-
-                // Qui ha finito di elaborare il capitolo corrente
+				// Il capitolo è finito. Chiudo il file MD e lo salvo.
+				// Chiusura del file md: riga di separazione
+				buildingString += '\*\*\*\n';
+									console.log('buildingString: ' + buildingString);
+				salvaMdFile( nomeFile, buildingString );
+				// Qui ha finito di elaborare il capitolo corrente
 				// Azzero la variabile per il prossimo versetto
 				numVersetto = '';
-                // Azzero la variabile per la prossima stringa
-                buildingString = '';
-                // Azzero la variabile per il prossimo numero capitolo
-                numCapitolo = '';
-                // Qui si chiude il blocco if che verifica se c'è nel testo un tag <b>
+				// Azzero la variabile per la prossima stringa
+				buildingString = '';
+				// Azzero la variabile per il prossimo numero capitolo
+				numCapitolo = '';
+				// Qui si chiude il blocco if che verifica se c'è nel testo un tag <b>
 			}
 			// Questo else gestisce il caso in cui non vi sia nel testo un tag <b>
 			else {
 							console.log('Error: Nel Testo non c\'è il tag \<b\>');
-                continue;
+				continue;
 			}
 		// Qui si chiude il ciclo for che itera sugli elementi <p>
 		}
@@ -384,7 +381,7 @@ for ( var y = 47; y < (arrayBooksNewTestamentNumberOfLinks + 47); y++ ) {
 							console.log('Error: ' + requestBookPage.status);
 	}
 
-    // Azzero la variabile per il prossimo nome della cartella
+	// Azzero la variabile per il prossimo nome della cartella
 	nomeCartella = '';
 	// Azzero la variabile per il prossimo nome libro in italiano
 	nomeLibroInItaliano = '';
@@ -400,25 +397,30 @@ for ( var y = 47; y < (arrayBooksNewTestamentNumberOfLinks + 47); y++ ) {
 }
 
 function salvaMdFile( nomeFile, contenuto ) {
-    // Creo il file MD
-    // Creo un Blob con il contenuto del file MD
-    var blob = new Blob([contenuto], { type: 'text/markdown' });
-    // Creo un URL per il Blob
-    var url = URL.createObjectURL(blob);
-    // Creo un link per il download del file
-    var link = document.createElement('a');
-    // Imposto l'attributo href del link all'URL del Blob
-    link.href = url;
-    // Imposto l'attributo download del link al nome del file
-    link.download = nomeFile;
-    // Aggiungo il link al documento
-    document.body.appendChild(link);
-    // Simulo il click sul link per avviare il download
-    link.click();
-    // Rimuovo il link dal documento
-    document.body.removeChild(link);
-    // Rilascio l'URL del Blob
-    URL.revokeObjectURL(url);
-    prompt();
+	// Creo il file MD
+	// Creo un Blob con il contenuto del file MD
+	var blob = new Blob([contenuto], { type: 'text/markdown' });
+	// Creo un URL per il Blob
+	var url = URL.createObjectURL(blob);
+	// Creo un link per il download del file
+	var link = document.createElement('a');
+	// Imposto l'attributo href del link all'URL del Blob
+	link.href = url;
+	// Imposto l'attributo download del link al nome del file
+	link.download = nomeFile;
+	// Aggiungo il link al documento
+	document.body.appendChild(link);
+	// Simulo il click sul link per avviare il download
+	link.click();
+	// Rimuovo il link dal documento
+	document.body.removeChild(link);
+	// Rilascio l'URL del Blob
+	URL.revokeObjectURL(url);
+	prompt('Proseguo ?\n\nSe vuoi continuare a scaricare i libri della Nova Vulgata clicca su OK, altrimenti clicca su Annulla.\n\nSe hai cliccato su Annulla, il download dei libri della Nova Vulgata è stato annullato.', true);
+	// Se l'utente ha cliccato su Annulla, il download è annullato
+	if (prompt == false) {
+		console.log('Download annullato');
+		this_Function_Does_Not_Exist_And_Was_Created_With_The_Only_Purpose_Of_Stop_JavaScript_Execution();
+	}
 }
 

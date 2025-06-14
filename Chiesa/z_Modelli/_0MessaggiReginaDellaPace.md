@@ -16,11 +16,20 @@ const veggenti					= ['Marija', 'Mirijana', 'Ivanka', 'Jakov', 'Vicka', 'Ivan'];
 const txt_Veggente				= 'veggente: ';
 var veggenteMessaggio			= '';
 var dayMess						= '';
+var tmpDay						= '';
 var monthMess					= '';
+var tmpMonth					= '';
 var yearMess					= '';
+var tmpYear						= '';
 let isDayMessCorrect			= true;
 let isMonthMessCorrect			= true;
 let isYearMessCorrect			= true;
+var dayPrevMess					= '';
+var monthPrevMess				= '';
+var yearPrevMess				= '';
+let isPreviousDayCorrect		= true;
+let isPreviousMonthCorrect		= true;
+let isPreviousYearCorrect		= true;
 // Frontmatter Key lingua-mess
 const lmKey						= 'lingua-mess';
 const txt_linguaMessaggio		= 'lingua-mess: ';
@@ -120,7 +129,7 @@ var thisYear					= new Date().getFullYear()
 // Ask for messagge day issue
 while (isDayMessCorrect) {
 	// wait for user input
-	var tmpDay = await tp.system.prompt('Inserire il giorno del messaggio');
+	tmpDay = await tp.system.prompt('Inserire il giorno del messaggio');
 	// tmpDay variable contains user answer
  	// https://stackoverflow.com/a/14636638/4805093
 	// check tmpDay var value, this should be an integer number from 1 to 31
@@ -165,7 +174,6 @@ while (isDayMessCorrect) {
 					}
 					// yes is a number less or equal than 9
  				dayMess				= '0' + tmpDay;
-					tmpDay				= '';
 					isDayMessCorrect	= false;
 				}
 				else if ( tmpDay >= 10 ) {
@@ -175,7 +183,6 @@ while (isDayMessCorrect) {
 					}
 					// yes is a number more or equal than 10
  				dayMess				= tmpDay;
-					tmpDay				= '';
 					isDayMessCorrect	= false;
 				}
 			}
@@ -192,7 +199,7 @@ while (isDayMessCorrect) {
 // Ask for messagge month issue
 while (isMonthMessCorrect) {
 	// wait for user input
-	var tmpMonth = await tp.system.prompt('Inserire il mese del messaggio');
+	tmpMonth = await tp.system.prompt('Inserire il mese del messaggio');
 	// tmpMonth variable contains user answer
  	// check tmpMonth var value, this should be an integer number from 1 to 12
 	if ( tmpMonth === '' || !tmpMonth ) {
@@ -234,8 +241,7 @@ while (isMonthMessCorrect) {
 						tmpMonth = tmpMonth.substring(1);
 					}
 					// yes is a number less or equal than 9
- 					monthMess			= '0' + tmpMonth;
-					tmpMonth			= '';
+ 				monthMess			= '0' + tmpMonth;
 					isMonthMessCorrect	= false;
 				}
 				else if ( tmpMonth >= 10 ) {
@@ -244,8 +250,7 @@ while (isMonthMessCorrect) {
 						tmpMonth = tmpMonth.substring(1);
 					}
 					// yes is a number more or equal than 10
- 					monthMess			= tmpMonth;
-					tmpMonth			= '';
+ 				monthMess			= tmpMonth;
 					isMonthMessCorrect	= false;
 				}
 			}
@@ -262,7 +267,7 @@ while (isMonthMessCorrect) {
 // Ask for messagge year issue (beetween 50 and this year + 1)
 while (isYearMessCorrect) {
 	// wait for user input
-	var tmpYear = await tp.system.prompt('Inserire l\'anno del messaggio');
+	tmpYear = await tp.system.prompt('Inserire l\'anno del messaggio');
 	// tmpYear variable contains user answer
  	// check tmpYear var value, this should be an integer number from 50 to next year
 	if ( tmpYear === '' || !tmpYear ) {
@@ -302,8 +307,7 @@ while (isYearMessCorrect) {
 						tmpYear = tmpYear.substring(1);
 					}
 					// yes it's in range 1981 - this year
- 					yearMess				= tmpYear;
-					tmpYear				= '';
+ 				yearMess			= tmpYear;
 					isYearMessCorrect	= false;
 			}
 			else {
@@ -368,6 +372,178 @@ switch (monthMess) {
 	txt_Titolo_p4 = 'del ' + tmpDay + ' dicembre ' + yearMess;	
 	break;
 }
+
+								//
+								// PARTE CALLOUTS X LO SPOSTAMENTO TRA MESSAGGI E TRA GLI ANNI 
+								//
+
+txt_Callout_p1 = '\> \[\!2colonne\]\- \[\[';
+console.log('var tmpDay: ' + tmpDay);
+
+// Gestione del giorno del messaggio precedente
+while (isPreviousDayCorrect) {
+	// wait for user input
+	var tmpPrevDay = await tp.system.prompt('Inserire il giorno del messaggio precedente, premere Invio per accettare il valore proposto', tmpDay);
+	// tmpPrevDay variable contains user answer
+	// check tmpPrevDay var value, this should be an integer number from 1 to 31
+	if ( tmpPrevDay === '' || !tmpPrevDay ) {
+		// user not insert nothing
+ 		var question = 'Il valore del giorno del messaggio precedente è vuoto. Vuoi ripeterne l\'inserimento, lasciare il campo vuoto o uscire?';
+ 		var chose = await tp.system.suggester(['Ripeti la domanda di inserimento giorno del messaggio precedente', 'Lascia vuoto il campo', 'Esci'],['Ripeti la domanda di inserimento giorno del messaggio precedente', 'Lascia vuoto il campo', 'Esci'], false, question);
+ 		if (chose === 'Ripeti la domanda di inserimento giorno del messaggio precedente')
+		{
+ 		chose					= '';
+			question				= '';
+		}
+		else if (chose === 'Lascia vuoto il campo')
+		{
+ 		dayPrevMess				= tmpDay;
+			chose					= '';
+			question				= '';
+			isPreviousDayCorrect	= false;
+		}
+		else if (chose === 'Esci')
+		{
+ 		chose					= '';
+			question				= '';
+			isPreviousDayCorrect	= false;
+			return;
+		}
+	}
+	else if ( isNaN(tmpPrevDay) ) {
+		// no it is NOT numeric
+ 	}
+	else {
+		// yes it is numeric
+		if ( tmpPrevDay % 1 === 0 ) {
+			// yes it's an integer
+			if ( tmpPrevDay >= 1 && tmpPrevDay <= 31 ) {
+				// yes it's in range 1-31
+				if ( tmpPrevDay <= 9 ) {
+					// if value in var start with one or more 0, remove it
+					while(tmpPrevDay.charAt(0) === '0') {
+						tmpPrevDay = tmpPrevDay.substring(1);
+					}
+					// yes is a number less or equal than 9
+ 				dayPrevMess				= '0' + tmpPrevDay;
+					tmpDay					= '';
+					tmpPrevDay				= '';
+					isPreviousDayCorrect	= false;
+				}
+				else if ( tmpPrevDay >= 10 ) {
+					// if value in var start with one or more 0, remove it
+					while(tmpPrevDay.charAt(0) === '0') {
+						tmpPrevDay = tmpPrevDay.substring(1);
+					}
+					// yes is a number more or equal than 10
+ 				dayPrevMess				= tmpPrevDay;
+					tmpDay					= '';
+					tmpPrevDay				= '';
+					isPreviousDayCorrect	= false;
+				}
+			}
+			else {
+				// no it is NOT in range 1-31
+ 			}
+		}
+		else {
+			// no it is NOT an integer
+ 		}
+	}
+}
+
+console.log('Var dayPrevMess: ' + dayPrevMess);
+console.log('var tmpMonth: ' + tmpMonth);
+console.log('var tmpYear: ' + tmpYear);
+tmpMonth = (+(tmpMonth))-1
+console.log('var tmpMonth dopo la sottrazione: ' + tmpMonth);
+
+// Ask for messagge month issue
+while (isPreviousMonthCorrect) {
+	// wait for user input
+	tmpPrevMonth = await tp.system.prompt('Inserire il mese del messaggio precedente, premere Invio per accettare il valore proposto', tmpMonth);
+console.log('Var tmpPrevMonth dopo il prompt: ' + tmpPrevMonth);
+	// tmpPrevMonth variable contains user answer
+ 	// check tmpPrevMonth var value, this should be an integer number from 1 to 12
+	if ( tmpPrevMonth === '' || !tmpPrevMonth ) {
+		// user not insert nothing
+ 		var question = 'Il valore del mese del messaggio precedente è vuoto. Vuoi ripeterne l\'inserimento, lasciare il campo vuoto o uscire?';
+ 		var chose = await tp.system.suggester(['Ripeti la domanda di inserimento mese del messaggio precedente', 'Lascia vuoto il campo', 'Esci'],['Ripeti la domanda di inserimento mese', 'Lascia vuoto il campo', 'Esci'], false, question);
+ 		if (chose === 'Ripeti la domanda di inserimento mese del messaggio precedente')
+		{
+ 		chose					= '';
+			question				= '';
+		}
+		else if (chose === 'Lascia vuoto il campo')
+		{
+ 		monthPrevMess			= tmpMonth;
+			chose					= '';
+			question				= '';
+			isPreviousMonthCorrect	= false;
+		}
+		else if (chose === 'Esci')
+		{
+ 		chose					= '';
+			question				= '';
+			isPreviousMonthCorrect	= false;
+			return;
+		}
+	}
+	else if (isNaN(tmpPrevMonth)) {
+		// no it is NOT numeric
+ 	}
+	else {
+console.log('Var tmpPrevMonth dentro l\'else: ' + tmpPrevMonth);
+		// yes it is numeric
+		if ( tmpPrevMonth % 1 === 0 ) {
+			// yes it's an integer
+console.log('Var tmpPrevMonth è un intero: ' + tmpPrevMonth);
+			if ( tmpPrevMonth >= 1 && tmpPrevMonth <= 12 ) {
+console.log('Var tmpPrevMonth è nel range 1-12: ' + tmpPrevMonth);
+				// yes it's in range 1-12
+				if ( tmpPrevMonth <= 9 ) {
+console.log('Var tmpPrevMonth è inferiore o uguale a 9: ' + tmpPrevMonth);
+					// if value in var start with one or more 0, remove it
+					while(tmpPrevMonth.charAt(0) === '0') {
+						tmpPrevMonth = tmpPrevMonth.substring(1);
+					}
+					// yes is a number less or equal than 9
+ 				monthPrevMess			= '0' + tmpPrevMonth;
+					isPreviousMonthCorrect	= false;
+				}
+				else if ( tmpPrevMonth >= 10 ) {
+console.log('Var tmpPrevMonth è maggiore o uguale a 10: ' + tmpPrevMonth);
+					// if value in var start with one or more 0, remove it
+					while(tmpPrevMonth.charAt(0) === '0') {
+						tmpPrevMonth = tmpPrevMonth.substring(1);
+					}
+					// yes is a number more or equal than 10
+ 				monthPrevMess			= tmpPrevMonth;
+					isPreviousMonthCorrect	= false;
+				}
+			}
+			else {
+				// no it is NOT in range 1-12
+ 			}
+		}
+		else {
+			// no it is NOT an integer
+ 		}
+	}
+}
+
+console.log('Var monthPrevMess: ' + monthPrevMess);
+
+
+
+
+
+
+
+
+
+
+
 
 								//
 								// PARTE ESTRAZIONE FILE NELLA CARTELLA
@@ -638,15 +814,13 @@ else {
 
 newFileName = newFileName + '-' + selectedVeggente + ' ' + dateMess;
 let nomeFile = await tp.file.title;
-console.log('Nome nuovo file, contenuto var nomeFile : ' + nomeFile);
 if (nomeFile.startsWith("Untitled")) {
 	await tp.file.rename(newFileName) 
-console.log('File rinominato, contenuto var nomeFile : ' + nomeFile);
+console.log('File rinominato, contenuto var newFileName : ' + newFileName);
 }
 else {
 
 }
-console.log('Nome nuovo file, contenuto tp.file.path : ' + tp.file.path);
 
 if (!tp.file.path == folderMess) {
 	await tp.file.move("/folderMess/" + title)
@@ -655,8 +829,8 @@ if (!tp.file.path == folderMess) {
 // 10000 = 10 secondi
 const notice = new Notice("", 10000)
 notice.noticeEl.append(
-  createEl("strong", { text: "Success" }),
-  " Nuovo messaggio caricato: " + newFileName,
+  createEl("strong", { text: "Successo!\n", style: "color:red"}),
+  "Nuovo messaggio caricato:\n" + newFileName,
 );
 -%>
 ---

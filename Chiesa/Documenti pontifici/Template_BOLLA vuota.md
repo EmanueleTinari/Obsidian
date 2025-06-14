@@ -22,7 +22,7 @@ X { .nome-autorità }
 
 # X { .titolo-documento }
 
-X.<BR />
+X.<br>
  {  .incipit }
 
 [[#^Proemio|]]X.

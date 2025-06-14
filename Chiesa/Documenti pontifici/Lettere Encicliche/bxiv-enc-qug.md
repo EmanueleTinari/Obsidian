@@ -29,10 +29,10 @@ del sommo pontefice { .tipo-autorità }
 
 Benedetto XIV { .nome-autorità }
 
- Ai Patriarchi,<BR />Arcivescovi e Vescovi Ordinari<BR />delle singole località.
+ Ai Patriarchi,<br>Arcivescovi e Vescovi Ordinari<br>delle singole località.
   {  .centrato-maiuscolo }
 
-Il Papa Benedetto XIV.<BR />Venerabile Fratello, salute e Apostolica Benedizione.
+Il Papa Benedetto XIV.<br>Venerabile Fratello, salute e Apostolica Benedizione.
  {  .incipit }
 
 [[#^1|1.]] Riteniamo superfluo dimostrare con molte parole quanto grave ed orrendo delitto commette chiunque, non investito dell’Ordine sacerdotale, presume di celebrare il sacrificio della Messa, dal momento che a tutti sono evidenti le motivazioni per le quali un simile sacrilego crimine giustamente si ritiene che sia da detestare e da punire con una rigorosa applicazione di sanzioni.
@@ -45,7 +45,7 @@ Sarà sufficiente qui richiamare le Costituzioni Apostoliche dei nostri Predeces
 [[#^3|3.]] Benché la Chiesa abbia stabilito che coloro che celebrano senza essere stati ammessi, per esigenza di giustizia debbano essere consegnati al Foro secolare, tuttavia, essendo Madre pietosa e, come tutti sanno, piena di bontà e di misericordia, non ha mai tralasciato e nemmeno ora tralascia di dare prova della sua clemenza, sia nel determinare la forma della degradazione verbale, che di solito precede la degradazione reale, sia nel mettere in atto la degradazione reale, e anche con il ricorso a richiami e interventi per distogliere anche i più depravati dal sacrilego tentativo di intromettersi nella celebrazione dei Sacri Misteri senza l’ordine e il carattere Sacerdotale; chiudendo loro in qualche modo la strada che li avrebbe portati alla pena suddetta, quella di essere consegnati al braccio secolare.
  {  .paragrafo-normale }
  
-[[#^4|4.]] Nel Pontificale Romano si trova la formula della degradazione verbale mediante la quale si proferisce la sentenza che comporta la degradazione reale, non solo nei riguardi di coloro che sono insigniti dei Sacri Ordini, escluso il Presbiterato, ma anche contro tutti gli altri che hanno ricevuto solo la Tonsura Clericale o gli Ordini Minori.<BR />
+[[#^4|4.]] Nel Pontificale Romano si trova la formula della degradazione verbale mediante la quale si proferisce la sentenza che comporta la degradazione reale, non solo nei riguardi di coloro che sono insigniti dei Sacri Ordini, escluso il Presbiterato, ma anche contro tutti gli altri che hanno ricevuto solo la Tonsura Clericale o gli Ordini Minori.<br>
 Fra le due c’è solo questa differenza: nei riguardi dei Chierici che hanno ricevuto gli Ordini Minori o solo la Tonsura, la degradazione verbale e parimenti quella reale sono stabilite dal solo Vescovo, senza l’intervento di altre persone; nei riguardi degli altri, insigniti degli Ordini Maggiori precedenti il Sacerdozio, il Vescovo non può procedere alla degradazione verbale se non con l’assistenza e il suffragio di alcune altre persone, la cui presenza e il cui parere sono richiesti dalle Leggi Canoniche.
  {  .paragrafo-normale }
  
@@ -116,7 +116,7 @@ Ricordiamo che altre volte questo si è verificato in questa medesima Città, so
  {  .paragrafo-normale }
  
 [[#^20|20.]] Decretiamo quindi che dai Giudici competenti e dati Tribunali si proceda secondo le norme fin qui descritte contro coloro dei quali risulta fino ad oggi che hanno celebrato la Messa o hanno ricevuto la Confessione Sacramentale senza essere stati ammessi al Sacro Ordine del Presbiterato.
-Ma poiché siamo convinti che questo delitto, gravissimo in sé e ogni giorno più frequente, con ogni mezzo deve essere impedito e, per quanto possibile, eliminato ed estirpato dalle Nazioni Cristiane, decretiamo che la nuova legge in materia determinata mediante una Costituzione Apostolica (di cui la Tua Fraternità riceverà un esemplare annesso a questa Lettera) in futuro, passati cioè tre mesi dalla data della medesima Costituzione, sia rigorosamente osservata e messa in atto.<BR />
+Ma poiché siamo convinti che questo delitto, gravissimo in sé e ogni giorno più frequente, con ogni mezzo deve essere impedito e, per quanto possibile, eliminato ed estirpato dalle Nazioni Cristiane, decretiamo che la nuova legge in materia determinata mediante una Costituzione Apostolica (di cui la Tua Fraternità riceverà un esemplare annesso a questa Lettera) in futuro, passati cioè tre mesi dalla data della medesima Costituzione, sia rigorosamente osservata e messa in atto.<br>
 Frattanto a te, Venerabile Fratello, con molto affetto impartiamo la Benedizione Apostolica.
  {  .paragrafo-normale }
  

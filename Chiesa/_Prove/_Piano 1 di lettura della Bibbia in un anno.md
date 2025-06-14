@@ -15,7 +15,7 @@ Consigliamo di munirsi di un quaderno su cui trascrivere tutti i versetti che ci
 La versione che consigliamo è quella della Bibbia di Gerusalemme che unisce al testo della CEI (Conferenza Episcopale Italiana, cioè il testo che viene letto nella liturgia della Chiesa italiana, testo che cerca di rispettare la lettera del testo biblico senza aggiungere né togliere) un apparato critico di note e di riferimenti di grande utilità per la comprensione di tutti i passi più difficili.
 
 
-> [!piano-lettura-titolo]- Progetto Bibbia:<BR />Il piano di lettura biblico📜in un anno del Cardinale Pizzaballa
+> [!piano-lettura-titolo]- Progetto Bibbia:<br>Il piano di lettura biblico📜in un anno del Cardinale Pizzaballa
 
 > [!piano-lettura-mese]- GENNAIO
 >

@@ -33,7 +33,7 @@ Benedetto XIV { .nome-autorità }
 
 # Benedictus Deus { .titolo-documento }
 
-Il Vescovo Benedetto, servo dei servi di Dio.<BR />A tutti i fedeli Cristiani che leggeranno questa Lettera, salute e Apostolica Benedizione.
+Il Vescovo Benedetto, servo dei servi di Dio.<br>A tutti i fedeli Cristiani che leggeranno questa Lettera, salute e Apostolica Benedizione.
  {  .incipit }
 
 [[#^Proemio|]]Benedetto il Signore, Padre di misericordia e Dio di ogni consolazione, che Ci ha concesso di trascorrere l’anno del Giubileo lieto e fecondo di ogni bene, secondo il desiderio del Nostro cuore.
@@ -46,7 +46,7 @@ Che cosa diremo dei Venerabili Nostri Fratelli Cardinali della Santa Romana Chie
 Noi inoltre confideremo nel Signore, poiché è benigno e poiché le sue consolazioni hanno allietato la Nostra anima.
 {  .proemio }
 
-[[#^1|1.]] Ma è stata anche da Noi a buon diritto concepita la speranza che lo stesso Clementissimo Signore ci avrebbe mostrato la sua misericordia, implorata con le nostre preghiere, e avrebbe concesso ciò alla sua Chiesa, poiché ha consentito che gli venisse chiesto con preghiere così unanimi e ferventi; possa Egli esaltare la stessa Chiesa Cattolica, Regno del Figlio suo, su tutta la terra, per santità ed estensione; per purificare il mondo da ogni errore; per rafforzare la concordia e la pace fra i Principi Cristiani; difendendo tutto il popolo di Cristo da ogni mondana avversità, lo aiuti a raggiungere il porto dell’eterna salvezza.<BR />
+[[#^1|1.]] Ma è stata anche da Noi a buon diritto concepita la speranza che lo stesso Clementissimo Signore ci avrebbe mostrato la sua misericordia, implorata con le nostre preghiere, e avrebbe concesso ciò alla sua Chiesa, poiché ha consentito che gli venisse chiesto con preghiere così unanimi e ferventi; possa Egli esaltare la stessa Chiesa Cattolica, Regno del Figlio suo, su tutta la terra, per santità ed estensione; per purificare il mondo da ogni errore; per rafforzare la concordia e la pace fra i Principi Cristiani; difendendo tutto il popolo di Cristo da ogni mondana avversità, lo aiuti a raggiungere il porto dell’eterna salvezza.<br>
 Per chiedere ciò con la più grande fiducia a Dio Ottimo Massimo, sentito il parere dei già citati Nostri Fratelli Cardinali della Santa Romana Chiesa, abbiamo stabilito che tutti i fedeli seguaci di Cristo, che in ogni luogo e presso ogni popolo sono uniti nella comunione dell’unica Fede, siano inseriti nel vincolo di tali preghiere e, aperto molto generosamente il tesoro delle Indulgenze, ne partecipino efficacemente, nella fondata speranza che, nel mirare a ciò, cancellate con la penitenza le colpe delle loro anime, terranno un comportamento adeguato e, fervidi di pia devozione, manifestando in questo stesso atteggiamento l’ossequio dovuto alla Sede Apostolica, eserciteranno insieme le opere di pietà e di culto, per ottenere ciascuno per se stesso ciò che chiederanno per gli altri e quelle preghiere e suppliche innalzate per i fratelli – diffondendo essi stessi ogni bene – torneranno giustamente alla loro innocenza e carità.
 {  .paragrafo-normale }
 

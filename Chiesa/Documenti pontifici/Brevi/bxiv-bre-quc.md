@@ -29,10 +29,10 @@ Benedetto XIV { .nome-autorità }
 
 # Quanta cura { .titolo-documento }
 
-Ai Venerabili Fratelli Patriarchi,<BR />Primati, Metropoliti,<BR />Arcivescovi e a tutti i Vescovi<BR />che hanno pace e comunione con la Sede Apostolica.
+Ai Venerabili Fratelli Patriarchi,<br>Primati, Metropoliti,<br>Arcivescovi e a tutti i Vescovi<br>che hanno pace e comunione con la Sede Apostolica.
  {  .centrato-maiuscolo }
 
-Il Papa Benedetto XIV.<BR />Venerabili Fratelli, salute e Apostolica Benedizione.
+Il Papa Benedetto XIV.<br>Venerabili Fratelli, salute e Apostolica Benedizione.
  {  .incipit }
 
 [[#^Proemio|]]Fra coloro che professano la Fede Cattolica non c’è nessuno che ignori quanta cura sia necessario usare non solo perché il Sacrosanto Sacrificio della Messa sia celebrato con tutto il culto e la venerazione propri della Religione, ma anche perché dalla dignità di così alto Sacrificio siano eliminate le occasioni di guadagno di qualunque genere, i contratti e quelle importune e illiberali richieste di elemosine (che sono piuttosto esazioni) e altre simili cose che non sono lontane dall’ignominiosa simonia, o per lo meno da un turpe guadagno.
@@ -44,7 +44,7 @@ Anzi, fanno in modo che le Messe siano celebrate altrove quando le elemosine o i
 
 [[#^2|2.]] Quanto ciò sia discordante e quanto sia estraneo alla volontà, sia espressa che tacita, dei devoti offerenti, tutti facilmente comprendono.
 Né si deve diversamente interpretare.
-Ciascuno infatti vuole che le Messe siano celebrate in quella Chiesa alla quale, mosso dagli stimoli della religione e della pietà, porta le elemosine, o nella quale per caso è stato seppellito qualcuno dei suoi, piuttosto che in un’altra Chiesa che gli è del tutto sconosciuta.<BR />
+Ciascuno infatti vuole che le Messe siano celebrate in quella Chiesa alla quale, mosso dagli stimoli della religione e della pietà, porta le elemosine, o nella quale per caso è stato seppellito qualcuno dei suoi, piuttosto che in un’altra Chiesa che gli è del tutto sconosciuta.<br>
 Questo fatto, di essere indotti quasi a mercanteggiare per una vergognosa avidità di guadagno, non solo non è esente dal sospetto e dalla colpa di avarizia, ma neppure dal reato di furto, onde soggiace all’obbligo della restituzione.
 Ne deriva che molte persone buone, a conoscenza di tale mercato, fortemente sdegnate si astengono dall’offrire ancora elemosine per celebrare le Messe.
 {  .paragrafo-normale }
@@ -58,13 +58,13 @@ Alcuni che la praticarono si allontanarono dalla Fede e si immersero in molte af
 Certamente non vi è nessun contagio che più dell’avarizia riesca a inquinare e a sradicare l’opinione, da tutti accolta, circa la perfetta dignità sacerdotale.
 L’avarizia, insegnando a posporre Dio alle ricchezze e a servire Mammona, fa sì che gli avari non ricevano alcuna eredità nel regno di Cristo e di Dio.
 Se essa non è affatto tollerabile tra i laici (e addirittura è da infrenare con le leggi) come potrà esserlo tra gli Ecclesiastici, che hanno divorziato dai beni terreni, che sono stati chiamati al servizio del Signore, e che si sono assoggettati a Dio?
-Che sarà di loro, dal momento che in modo così sordido, non per mezzo di guadagni mondani, ma attraverso il ministero dell’Altare, nel disprezzo di santissime leggi, vengono trascinati con animo sconsiderato verso l’avarizia, disonorando l’ordine sacerdotale?<BR />
+Che sarà di loro, dal momento che in modo così sordido, non per mezzo di guadagni mondani, ma attraverso il ministero dell’Altare, nel disprezzo di santissime leggi, vengono trascinati con animo sconsiderato verso l’avarizia, disonorando l’ordine sacerdotale?<br>
 Sforzatevi dunque, Venerabili Fratelli, ai quali è stata affidatala cura delle pecorelle di Cristo, non solo di precedere tutti con la parola e con l’esempio, ma di essere in ogni luogo il buon profumo di Cristo, affinché i popoli seguano i Vostri passi.
 Inoltre, allontanando prima di tutto gli Ecclesiastici, poi i Laici, dai contaminati pascoli dei vizi, insegnate loro a correre verso l’Ovile Celeste lungo la via dei precetti di Dio.
 {  .paragrafo-normale }
 
-[[#^5|5.]] Inoltre, poiché è stato accertato che si obbedisce più facilmente per il timore della pena presente che per ammonimenti salutari, rendete noto a tutti, con un Editto da pubblicare ed affiggere nelle Vostre Diocesi, che chiunque, per celebrare Messe, abbia raccolto elemosine o compensi di entità superiore alle consuetudini locali o alle Disposizioni Sinodali e, trattenendo per sé una parte delle elemosine o dei compensi ricevuti, abbia fatto celebrare le Messe o nello stesso luogo o altrove, dove per celebrare le Messe i compensi o le elemosine sono inferiori, sia Laico o Secolare, incorre nella Scomunica, oltre alle altre eventuali pene che vorrete infliggere; se Chierico o Sacerdote incorrerà *ipso facto* nella pena della Sospensione: da tali sanzioni nessuno potrà essere assolto che da Noi, o dal Romano Pontefice *pro tempore*, se non in punto di morte.<BR />
-Confidiamo poi nel Signore affinché ciascuno, conscio della propria condizione, d’ora in poi vorrà prendersi cura dell’anima sua e non vorrà disprezzare queste leggi e censure ecclesiastiche tanto salutari.<BR />
+[[#^5|5.]] Inoltre, poiché è stato accertato che si obbedisce più facilmente per il timore della pena presente che per ammonimenti salutari, rendete noto a tutti, con un Editto da pubblicare ed affiggere nelle Vostre Diocesi, che chiunque, per celebrare Messe, abbia raccolto elemosine o compensi di entità superiore alle consuetudini locali o alle Disposizioni Sinodali e, trattenendo per sé una parte delle elemosine o dei compensi ricevuti, abbia fatto celebrare le Messe o nello stesso luogo o altrove, dove per celebrare le Messe i compensi o le elemosine sono inferiori, sia Laico o Secolare, incorre nella Scomunica, oltre alle altre eventuali pene che vorrete infliggere; se Chierico o Sacerdote incorrerà *ipso facto* nella pena della Sospensione: da tali sanzioni nessuno potrà essere assolto che da Noi, o dal Romano Pontefice *pro tempore*, se non in punto di morte.<br>
+Confidiamo poi nel Signore affinché ciascuno, conscio della propria condizione, d’ora in poi vorrà prendersi cura dell’anima sua e non vorrà disprezzare queste leggi e censure ecclesiastiche tanto salutari.<br>
 Frattanto, alle Vostre Fraternità impartiamo molto affettuosamente l’Apostolica Benedizione, che dovrà ridondare a vantaggio anche dei popoli affidati alla Vostra cura.
 {  .paragrafo-normale }
 

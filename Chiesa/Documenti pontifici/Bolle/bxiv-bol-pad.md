@@ -30,7 +30,7 @@ Benedetto XIV { .nome-autorità }
 
 # Peregrinantes a Domino { .titolo-documento }
 
-Il Vescovo Benedetto, servo dei Servi di Dio.<BR />A tutti i fedeli Cristiani che leggeranno questa Lettera, salute e Apostolica Benedizione.
+Il Vescovo Benedetto, servo dei Servi di Dio.<br>A tutti i fedeli Cristiani che leggeranno questa Lettera, salute e Apostolica Benedizione.
  {  .incipit }
 
 [[#^Proemio]]Nel pellegrinaggio di questa vita, mentre lontani da Dio andiamo alla ricerca di quella Patria di cui speriamo divenire perpetui Cittadini, è troppo chiaro che noi tutti in molte cose inciampiamo, e dalla strada dei comandamenti del Signore, a guisa di stolte pecorelle, andiamo spesse volte traviati e raminghi.
