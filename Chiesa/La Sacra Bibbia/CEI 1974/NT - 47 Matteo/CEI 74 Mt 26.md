@@ -179,7 +179,7 @@ Versione C.E.I. 1974:
 ###### 65
 <span class=vrs>65</span>Allora il sommo sacerdote si stracciò le vesti dicendo: "Ha bestemmiato! Perché abbiamo ancora bisogno di testimoni? Ecco, ora avete udito la bestemmia;
 ###### 66
-<span class=vrs>66</span>che ve ne pare?". E quelli risposero: "E' reo di morte!".
+<span class=vrs>66</span>che ve ne pare?". E quelli risposero: "È reo di morte!".
 ###### 67
 <span class=vrs>67</span>Allora gli sputarono in faccia e lo schiaffeggiarono; altri lo bastonavano,
 ###### 68

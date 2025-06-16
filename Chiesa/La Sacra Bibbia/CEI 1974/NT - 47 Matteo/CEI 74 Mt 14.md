@@ -99,7 +99,7 @@ Versione C.E.I. 1974:
 ###### 25
 <span class=vrs>25</span>Verso la fine della notte egli venne verso di loro camminando sul mare.
 ###### 26
-<span class=vrs>26</span>I discepoli, nel vederlo camminare sul mare, furono turbati e dissero: "E' un fantasma" e si misero a gridare dalla paura.
+<span class=vrs>26</span>I discepoli, nel vederlo camminare sul mare, furono turbati e dissero: "È un fantasma" e si misero a gridare dalla paura.
 ###### 27
 <span class=vrs>27</span>Ma subito Gesù parlò loro: "Coraggio, sono io, non abbiate paura".
 ###### 28

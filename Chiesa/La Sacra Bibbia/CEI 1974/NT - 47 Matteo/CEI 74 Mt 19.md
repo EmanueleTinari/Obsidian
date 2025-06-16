@@ -53,7 +53,7 @@ Versione C.E.I. 1974:
 ###### 2
 <span class=vrs>2</span>E lo seguì molta folla e colà egli guarì i malati.
 ###### 3
-<span class=vrs>3</span>Allora gli si avvicinarono alcuni farisei per metterlo alla prova e gli chiesero: "E' lecito ad un uomo ripudiare la propria moglie per qualsiasi motivo?".
+<span class=vrs>3</span>Allora gli si avvicinarono alcuni farisei per metterlo alla prova e gli chiesero: "È lecito ad un uomo ripudiare la propria moglie per qualsiasi motivo?".
 ###### 4
 <span class=vrs>4</span>Ed egli rispose: "Non avete letto che il Creatore da principio li creò maschio e femmina e disse:
 ###### 5

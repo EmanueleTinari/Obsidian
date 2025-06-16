@@ -7,7 +7,7 @@ titolo-doc: Codice di Diritto Canonico
 giorno-doc: 27
 mese-doc: 11
 anno-doc: 1983
-data-doc: 1983/11/27
+data-doc: 1983-11-27
 lingua-doc: Italiano
 lingua-orig: Latino
 titolo-lat: Codex Iuris Canonici
@@ -25,475 +25,625 @@ aggiornato: 2025-05-18T17:17:30
 ---
 ---
 
-Bolla { .tipo-documento }
+Bolla `class: tipo-documento`
 
-del sommo pontefice { .tipo-autorità }
+del sommo pontefice `class: tipo-autorita`
 
-X { .nome-autorità }
+X `class: nome-autorita`
 
-X { .titolo-documento }
 
-X.
- {  .incipit }
+X `class: titolo-documento`
 
-[[#^Proemio|]]X.
-{  .proemio }
 
-[[#^1|1.]] X.
-{  .paragrafo-normale }
+X. `class: incipit`
 
-[[#^2|2.]] X.
-{  .paragrafo-normale }
 
-[[#^3|3.]] X.
-{  .paragrafo-normale }
+###### Proemio
 
-[[#^4|4.]] X.
-{  .paragrafo-normale }
+X. `class: proemio`
 
-[[#^5|5.]] X.
-{  .paragrafo-normale }
+###### 1.
 
-[[#^6|6.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^7|7.]] X.
-{  .paragrafo-normale }
+###### 2.
 
-[[#^8|8.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^9|9.]] X.
-{  .paragrafo-normale }
+###### 3.
 
-[[#^10|10.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^11|11.]] X.
-{  .paragrafo-normale }
+###### 4.
 
-[[#^12|12.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^13|13.]] X.
-{  .paragrafo-normale }
+###### 5.
 
-[[#^14|14.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^15|15.]] X.
-{  .paragrafo-normale }
+###### 6.
 
-[[#^16|16.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^17|17.]] X.
-{  .paragrafo-normale }
+###### 7.
 
-[[#^18|18.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^19|19.]] X.
-{  .paragrafo-normale }
+###### 8.
 
-[[#^20|20.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^21|21.]] X.
-{  .paragrafo-normale }
+###### 9.
 
-[[#^22|22.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^23|23.]] X.
-{  .paragrafo-normale }
+###### 10.
 
-[[#^24|24.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^25|25.]] X.
-{  .paragrafo-normale }
+###### 11.
 
-[[#^26|26.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^27|27.]] X.
-{  .paragrafo-normale }
+###### 12.
 
-[[#^28|28.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^29|29.]] X.
-{  .paragrafo-normale }
+###### 13.
 
-[[#^30|30.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^31|31.]] X.
-{  .paragrafo-normale }
+###### 14.
 
-[[#^32|32.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^33|33.]] X.
-{  .paragrafo-normale }
+###### 15.
 
-[[#^34|34.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^35|35.]] X.
-{  .paragrafo-normale }
+###### 16.
 
-[[#^36|36.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^37|37.]] X.
-{  .paragrafo-normale }
+###### 17.
 
-[[#^38|38.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^39|39.]] X.
-{  .paragrafo-normale }
+###### 18.
 
-[[#^40|40.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^41|41.]] X.
-{  .paragrafo-normale }
+###### 19.
 
-[[#^42|42.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^43|43.]] X.
-{  .paragrafo-normale }
+###### 20.
 
-[[#^44|44.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^45|45.]] X.
-{  .paragrafo-normale }
+###### 21.
 
-[[#^46|46.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^47|47.]] X.
-{  .paragrafo-normale }
+###### 22.
 
-[[#^48|48.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^49|49.]] X.
-{  .paragrafo-normale }
+###### 23.
 
-[[#^50|50.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^51|51.]] X.
-{  .paragrafo-normale }
+###### 24.
 
-[[#^52|52.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^53|53.]] X.
-{  .paragrafo-normale }
+###### 25.
 
-[[#^54|54.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^55|55.]] X.
-{  .paragrafo-normale }
+###### 26.
 
-[[#^56|56.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^57|57.]] X.
-{  .paragrafo-normale }
+###### 27.
 
-[[#^58|58.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^59|59.]] X.
-{  .paragrafo-normale }
+###### 28.
 
-[[#^60|60.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^61|61.]] X.
-{  .paragrafo-normale }
+###### 29.
 
-[[#^62|62.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^63|63.]] X.
-{  .paragrafo-normale }
+###### 30.
 
-[[#^64|64.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^65|65.]] X.
-{  .paragrafo-normale }
+###### 31.
 
-[[#^66|66.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^67|67.]] X.
-{  .paragrafo-normale }
+###### 32.
 
-[[#^68|68.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^69|69.]] X.
-{  .paragrafo-normale }
+###### 33.
 
-[[#^70|70.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^71|71.]] X.
-{  .paragrafo-normale }
+###### 34.
 
-[[#^72|72.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^73|73.]] X.
-{  .paragrafo-normale }
+###### 35.
 
-[[#^74|74.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^75|75.]] X.
-{  .paragrafo-normale }
+###### 36.
 
-[[#^76|76.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^77|77.]] X.
-{  .paragrafo-normale }
+###### 37.
 
-[[#^78|78.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^79|79.]] X.
-{  .paragrafo-normale }
+###### 38.
 
-[[#^80|80.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^81|81.]] X.
-{  .paragrafo-normale }
+###### 39.
 
-[[#^82|82.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^83|83.]] X.
-{  .paragrafo-normale }
+###### 40.
 
-[[#^84|84.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^85|85.]] X.
-{  .paragrafo-normale }
+###### 41.
 
-[[#^86|86.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^87|87.]] X.
-{  .paragrafo-normale }
+###### 42.
 
-[[#^88|88.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^89|89.]] X.
-{  .paragrafo-normale }
+###### 43.
 
-[[#^90|90.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^91|91.]] X.
-{  .paragrafo-normale }
+###### 44.
 
-[[#^92|92.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^93|93.]] X.
-{  .paragrafo-normale }
+###### 45.
 
-[[#^94|94.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^95|95.]] X.
-{  .paragrafo-normale }
+###### 46.
 
-[[#^96|96.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^97|97.]] X.
-{  .paragrafo-normale }
+###### 47.
 
-[[#^98|98.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^99|99.]] X.
-{  .paragrafo-normale }
+###### 48.
 
-[[#^100|100.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^101|101.]] X.
-{  .paragrafo-normale }
+###### 49.
 
-[[#^102|102.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^103|103.]] X.
-{  .paragrafo-normale }
+###### 50.
 
-[[#^104|104.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^105|105.]] X.
-{  .paragrafo-normale }
+###### 51.
 
-[[#^106|106.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^107|107.]] X.
-{  .paragrafo-normale }
+###### 52.
 
-[[#^108|108.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^109|109.]] X.
-{  .paragrafo-normale }
+###### 53.
 
-[[#^110|110.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^111|111.]] X.
-{  .paragrafo-normale }
+###### 54.
 
-[[#^112|112.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^113|113.]] X.
-{  .paragrafo-normale }
+###### 55.
 
-[[#^114|114.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^115|115.]] X.
-{  .paragrafo-normale }
+###### 56.
 
-[[#^116|116.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^117|117.]] X.
-{  .paragrafo-normale }
+###### 57.
 
-[[#^118|118.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^119|119.]] X.
-{  .paragrafo-normale }
+###### 58.
 
-[[#^120|120.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^121|121.]] X.
-{  .paragrafo-normale }
+###### 59.
 
-[[#^122|122.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^123|123.]] X.
-{  .paragrafo-normale }
+###### 60.
 
-[[#^124|124.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^125|125.]] X.
-{  .paragrafo-normale }
+###### 61.
 
-[[#^126|126.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^127|127.]] X.
-{  .paragrafo-normale }
+###### 62.
 
-[[#^128|128.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^129|129.]] X.
-{  .paragrafo-normale }
+###### 63.
 
-[[#^130|130.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^131|131.]] X.
-{  .paragrafo-normale }
+###### 64.
 
-[[#^132|132.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^133|133.]] X.
-{  .paragrafo-normale }
+###### 65.
 
-[[#^134|134.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^135|135.]] X.
-{  .paragrafo-normale }
+###### 66.
 
-[[#^136|136.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^137|137.]] X.
-{  .paragrafo-normale }
+###### 67.
 
-[[#^138|138.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^139|139.]] X.
-{  .paragrafo-normale }
+###### 68.
 
-[[#^140|140.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^141|141.]] X.
-{  .paragrafo-normale }
+###### 69.
 
-[[#^142|142.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^143|143.]] X.
-{  .paragrafo-normale }
+###### 70.
 
-[[#^144|144.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^145|145.]] X.
-{  .paragrafo-normale }
+###### 71.
 
-[[#^146|146.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^147|147.]] X.
-{  .paragrafo-normale }
+###### 72.
 
-[[#^148|148.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^149|149.]] X.
-{  .paragrafo-normale }
+###### 73.
 
-[[#^150|150.]] X.
-{  .paragrafo-normale }
+X. `class: paragrafo-normale`
 
-[[#^Data%20e%20luogo|]] X.
-{  .data-luogo }
+###### 74.
 
-X.
-{  .firma-centro }
+X. `class: paragrafo-normale`
+
+###### 75.
+
+X. `class: paragrafo-normale`
+
+###### 76.
+
+X. `class: paragrafo-normale`
+
+###### 77.
+
+X. `class: paragrafo-normale`
+
+###### 78.
+
+X. `class: paragrafo-normale`
+
+###### 79.
+
+X. `class: paragrafo-normale`
+
+###### 80.
+
+X. `class: paragrafo-normale`
+
+###### 81.
+
+X. `class: paragrafo-normale`
+
+###### 82.
+
+X. `class: paragrafo-normale`
+
+###### 83.
+
+X. `class: paragrafo-normale`
+
+###### 84.
+
+X. `class: paragrafo-normale`
+
+###### 85.
+
+X. `class: paragrafo-normale`
+
+###### 86.
+
+X. `class: paragrafo-normale`
+
+###### 87.
+
+X. `class: paragrafo-normale`
+
+###### 88.
+
+X. `class: paragrafo-normale`
+
+###### 89.
+
+X. `class: paragrafo-normale`
+
+###### 90.
+
+X. `class: paragrafo-normale`
+
+###### 91.
+
+X. `class: paragrafo-normale`
+
+###### 92.
+
+X. `class: paragrafo-normale`
+
+###### 93.
+
+X. `class: paragrafo-normale`
+
+###### 94.
+
+X. `class: paragrafo-normale`
+
+###### 95.
+
+X. `class: paragrafo-normale`
+
+###### 96.
+
+X. `class: paragrafo-normale`
+
+###### 97.
+
+X. `class: paragrafo-normale`
+
+###### 98.
+
+X. `class: paragrafo-normale`
+
+###### 99.
+
+X. `class: paragrafo-normale`
+
+###### 100.
+
+X. `class: paragrafo-normale`
+
+###### 101.
+
+X. `class: paragrafo-normale`
+
+###### 102.
+
+X. `class: paragrafo-normale`
+
+###### 103.
+
+X. `class: paragrafo-normale`
+
+###### 104.
+
+X. `class: paragrafo-normale`
+
+###### 105.
+
+X. `class: paragrafo-normale`
+
+###### 106.
+
+X. `class: paragrafo-normale`
+
+###### 107.
+
+X. `class: paragrafo-normale`
+
+###### 108.
+
+X. `class: paragrafo-normale`
+
+###### 109.
+
+X. `class: paragrafo-normale`
+
+###### 110.
+
+X. `class: paragrafo-normale`
+
+###### 111.
+
+X. `class: paragrafo-normale`
+
+###### 112.
+
+X. `class: paragrafo-normale`
+
+###### 113.
+
+X. `class: paragrafo-normale`
+
+###### 114.
+
+X. `class: paragrafo-normale`
+
+###### 115.
+
+X. `class: paragrafo-normale`
+
+###### 116.
+
+X. `class: paragrafo-normale`
+
+###### 117.
+
+X. `class: paragrafo-normale`
+
+###### 118.
+
+X. `class: paragrafo-normale`
+
+###### 119.
+
+X. `class: paragrafo-normale`
+
+###### 120.
+
+X. `class: paragrafo-normale`
+
+###### 121.
+
+X. `class: paragrafo-normale`
+
+###### 122.
+
+X. `class: paragrafo-normale`
+
+###### 123.
+
+X. `class: paragrafo-normale`
+
+###### 124.
+
+X. `class: paragrafo-normale`
+
+###### 125.
+
+X. `class: paragrafo-normale`
+
+###### 126.
+
+X. `class: paragrafo-normale`
+
+###### 127.
+
+X. `class: paragrafo-normale`
+
+###### 128.
+
+X. `class: paragrafo-normale`
+
+###### 129.
+
+X. `class: paragrafo-normale`
+
+###### 130.
+
+X. `class: paragrafo-normale`
+
+###### 131.
+
+X. `class: paragrafo-normale`
+
+###### 132.
+
+X. `class: paragrafo-normale`
+
+###### 133.
+
+X. `class: paragrafo-normale`
+
+###### 134.
+
+X. `class: paragrafo-normale`
+
+###### 135.
+
+X. `class: paragrafo-normale`
+
+###### 136.
+
+X. `class: paragrafo-normale`
+
+###### 137.
+
+X. `class: paragrafo-normale`
+
+###### 138.
+
+X. `class: paragrafo-normale`
+
+###### 139.
+
+X. `class: paragrafo-normale`
+
+###### 140.
+
+X. `class: paragrafo-normale`
+
+###### 141.
+
+X. `class: paragrafo-normale`
+
+###### 142.
+
+X. `class: paragrafo-normale`
+
+###### 143.
+
+X. `class: paragrafo-normale`
+
+###### 144.
+
+X. `class: paragrafo-normale`
+
+###### 145.
+
+X. `class: paragrafo-normale`
+
+###### 146.
+
+X. `class: paragrafo-normale`
+
+###### 147.
+
+X. `class: paragrafo-normale`
+
+###### 148.
+
+X. `class: paragrafo-normale`
+
+###### 149.
+
+X. `class: paragrafo-normale`
+
+###### 150.
+
+X. `class: paragrafo-normale`
+
+X. `class: data-luogo`
+
+X. `class: firma-centro`
 ---
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana.
- {  .diritti-autore }
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`

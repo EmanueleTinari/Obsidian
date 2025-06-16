@@ -101,7 +101,7 @@ Versione C.E.I. 1974:
 ###### 26
 <span class=vrs>26</span>Ed egli rispose: "Non è bene prendere il pane dei figli per gettarlo ai cagnolini".
 ###### 27
-<span class=vrs>27</span>"E' vero, Signore, disse la donna, ma anche i cagnolini si cibano delle briciole che cadono dalla tavola dei loro padroni".
+<span class=vrs>27</span>"È vero, Signore, disse la donna, ma anche i cagnolini si cibano delle briciole che cadono dalla tavola dei loro padroni".
 ###### 28
 <span class=vrs>28</span>Allora Gesù le replicò: "Donna, davvero grande è la tua fede! Ti sia fatto come desideri". E da quell'istante sua figlia fu guarita. 
 ###### 29

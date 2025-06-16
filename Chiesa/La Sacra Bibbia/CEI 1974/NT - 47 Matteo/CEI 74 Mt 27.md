@@ -131,7 +131,7 @@ Versione C.E.I. 1974:
 ###### 41
 <span class=vrs>41</span>Anche i sommi sacerdoti con gli scribi e gli anziani lo schernivano:
 ###### 42
-<span class=vrs>42</span>"Ha salvato gli altri, non può salvare se stesso. E' il re d'Israele, scenda ora dalla croce e gli crederemo.
+<span class=vrs>42</span>"Ha salvato gli altri, non può salvare se stesso. È il re d'Israele, scenda ora dalla croce e gli crederemo.
 ###### 43
 <span class=vrs>43</span>Ha confidato in Dio; lo liberi lui ora, se gli vuol bene. Ha detto infatti: Sono Figlio di Dio!".
 ###### 44
@@ -175,7 +175,7 @@ Versione C.E.I. 1974:
 ###### 63
 <span class=vrs>63</span>"Signore, ci siamo ricordati che quell'impostore disse mentre era vivo: Dopo tre giorni risorgerò.
 ###### 64
-<span class=vrs>64</span>Ordina dunque che sia vigilato il sepolcro fino al terzo giorno, perché non vengano i suoi discepoli, lo rubino e poi dicano al popolo: E' risuscitato dai morti. Così quest'ultima impostura sarebbe peggiore della prima!".
+<span class=vrs>64</span>Ordina dunque che sia vigilato il sepolcro fino al terzo giorno, perché non vengano i suoi discepoli, lo rubino e poi dicano al popolo: È risuscitato dai morti. Così quest'ultima impostura sarebbe peggiore della prima!".
 ###### 65
 <span class=vrs>65</span>Pilato disse loro: "Avete la vostra guardia, andate e assicuratevi come credete".
 ###### 66

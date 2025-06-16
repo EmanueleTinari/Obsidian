@@ -93,13 +93,13 @@ Versione C.E.I. 1974:
 ###### 22
 <span class=vrs>22</span>E se quei giorni non fossero abbreviati, nessun vivente si salverebbe; ma a causa degli eletti quei giorni saranno abbreviati.
 ###### 23
-<span class=vrs>23</span>Allora se qualcuno vi dirà: Ecco, il Cristo è qui, o: E' là, non ci credete.
+<span class=vrs>23</span>Allora se qualcuno vi dirà: Ecco, il Cristo è qui, o: È là, non ci credete.
 ###### 24
 <span class=vrs>24</span>Sorgeranno infatti falsi cristi e falsi profeti e faranno grandi portenti e miracoli, così da indurre in errore, se possibile, anche gli eletti.
 ###### 25
 <span class=vrs>25</span>Ecco, io ve l'ho predetto.
 ###### 26
-<span class=vrs>26</span>Se dunque vi diranno: Ecco, è nel deserto, non ci andate; o: E' in casa, non ci credete.
+<span class=vrs>26</span>Se dunque vi diranno: Ecco, è nel deserto, non ci andate; o: È in casa, non ci credete.
 ###### 27
 <span class=vrs>27</span>Come la folgore viene da oriente e brilla fino a occidente, così sarà la venuta del Figlio dell'uomo.
 ###### 28

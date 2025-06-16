@@ -67,7 +67,7 @@ Versione C.E.I. 1974:
 ###### 9
 <span class=vrs>9</span>Allontanatosi di là, andò nella loro sinagoga.
 ###### 10
-<span class=vrs>10</span>Ed ecco, c'era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "E' permesso curare di sabato?". Dicevano ciò per accusarlo.
+<span class=vrs>10</span>Ed ecco, c'era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "È permesso curare di sabato?". Dicevano ciò per accusarlo.
 ###### 11
 <span class=vrs>11</span>Ed egli disse loro: "Chi tra voi, avendo una pecora, se questa gli cade di sabato in una fossa, non l'afferra e la tira fuori?
 ###### 12

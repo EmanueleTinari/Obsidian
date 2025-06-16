@@ -81,7 +81,7 @@ Versione C.E.I. 1974:
 ###### 16
 <span class=vrs>16</span>Mandarono dunque a lui i propri discepoli, con gli erodiani, a dirgli: "Maestro, sappiamo che sei veritiero e insegni la via di Dio secondo verità e non hai soggezione di nessuno perché non guardi in faccia ad alcuno.
 ###### 17
-<span class=vrs>17</span>Dicci dunque il tuo parere: E' lecito o no pagare il tributo a Cesare?".
+<span class=vrs>17</span>Dicci dunque il tuo parere: È lecito o no pagare il tributo a Cesare?".
 ###### 18
 <span class=vrs>18</span>Ma Gesù, conoscendo la loro malizia, rispose: "Ipocriti, perché mi tentate?
 ###### 19

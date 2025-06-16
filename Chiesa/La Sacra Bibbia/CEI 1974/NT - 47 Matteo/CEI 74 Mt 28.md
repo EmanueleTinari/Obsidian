@@ -59,9 +59,9 @@ Versione C.E.I. 1974:
 ###### 5
 <span class=vrs>5</span>Ma l'angelo disse alle donne: "Non abbiate paura, voi! So che cercate Gesù il crocifisso.
 ###### 6
-<span class=vrs>6</span>Non è qui. E' risorto, come aveva detto; venite a vedere il luogo dove era deposto.
+<span class=vrs>6</span>Non è qui. È risorto, come aveva detto; venite a vedere il luogo dove era deposto.
 ###### 7
-<span class=vrs>7</span>Presto, andate a dire ai suoi discepoli: E' risuscitato dai morti, e ora vi precede in Galilea; là lo vedrete. Ecco, io ve l'ho detto".
+<span class=vrs>7</span>Presto, andate a dire ai suoi discepoli: È risuscitato dai morti, e ora vi precede in Galilea; là lo vedrete. Ecco, io ve l'ho detto".
 ###### 8
 <span class=vrs>8</span>Abbandonato in fretta il sepolcro, con timore e gioia grande, le donne corsero a dare l'annunzio ai suoi discepoli.
 ###### 9

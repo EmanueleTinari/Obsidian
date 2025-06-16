@@ -111,7 +111,7 @@ Versione C.E.I. 1974:
 ###### 31
 <span class=vrs>31</span>Chi dei due ha compiuto la volontà del padre?". Dicono: "L'ultimo". E Gesù disse loro: "In verità vi dico: I pubblicani e le prostitute vi passano avanti nel regno di Dio.
 ###### 32
-<span class=vrs>32</span>E' venuto a voi Giovanni nella via della giustizia e non gli avete creduto; i pubblicani e le prostitute invece gli hanno creduto. Voi, al contrario, pur avendo visto queste cose, non vi siete nemmeno pentiti per credergli.
+<span class=vrs>32</span>È venuto a voi Giovanni nella via della giustizia e non gli avete creduto; i pubblicani e le prostitute invece gli hanno creduto. Voi, al contrario, pur avendo visto queste cose, non vi siete nemmeno pentiti per credergli.
 ###### 33
 <span class=vrs>33</span>Ascoltate un'altra parabola: C'era un padrone che piantò una vigna e la circondò con una siepe, vi scavò un frantoio, vi costruì una torre, poi l'affidò a dei vignaioli e se ne andò.
 ###### 34

@@ -61,7 +61,7 @@ Versione C.E.I. 1974:
 ###### 6
 <span class=vrs>6</span>Chi invece scandalizza anche uno solo di questi piccoli che credono in me, sarebbe meglio per lui che gli fosse appesa al collo una macina girata da asino, e fosse gettato negli abissi del mare.
 ###### 7
-<span class=vrs>7</span>Guai al mondo per gli scandali! E'inevitabile che avvengano scandali, ma guai all'uomo per colpa del quale avviene lo scandalo!
+<span class=vrs>7</span>Guai al mondo per gli scandali! È inevitabile che avvengano scandali, ma guai all'uomo per colpa del quale avviene lo scandalo!
 ###### 8
 <span class=vrs>8</span>Se la tua mano o il tuo piede ti è occasione di scandalo, taglialo e gettalo via da te; è meglio per te entrare nella vita monco o zoppo, che avere due mani o due piedi ed essere gettato nel fuoco eterno.
 ###### 9
@@ -69,7 +69,7 @@ Versione C.E.I. 1974:
 ###### 10
 <span class=vrs>10</span>Guardatevi dal disprezzare uno solo di questi piccoli, perché vi dico che i loro angeli nel cielo vedono sempre la faccia del Padre mio che è nei cieli.
 ###### 11
-<span class=vrs>11</span>[E' venuto infatti il Figlio dell'uomo a salvare ciò che era perduto].
+<span class=vrs>11</span>[È venuto infatti il Figlio dell'uomo a salvare ciò che era perduto].
 ###### 12
 <span class=vrs>12</span>Che ve ne pare? Se un uomo ha cento pecore e ne smarrisce una, non lascerà forse le novantanove sui monti, per andare in cerca di quella perduta?
 ###### 13

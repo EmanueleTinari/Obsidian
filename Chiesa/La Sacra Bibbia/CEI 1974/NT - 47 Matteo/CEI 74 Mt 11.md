@@ -83,9 +83,9 @@ Versione C.E.I. 1974:
 ###### 17
 <span class=vrs>17</span>Vi abbiamo suonato il flauto e non avete ballato, abbiamo cantato un lamento e non avete pianto.
 ###### 18
-<span class=vrs>18</span>E' venuto Giovanni, che non mangia e non beve, e hanno detto: Ha un demonio.
+<span class=vrs>18</span>È venuto Giovanni, che non mangia e non beve, e hanno detto: Ha un demonio.
 ###### 19
-<span class=vrs>19</span>E' venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco un mangione e un beone, amico dei pubblicani e dei peccatori. Ma alla sapienza è stata resa giustizia dalle sue opere".
+<span class=vrs>19</span>È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco un mangione e un beone, amico dei pubblicani e dei peccatori. Ma alla sapienza è stata resa giustizia dalle sue opere".
 ###### 20
 <span class=vrs>20</span>Allora si mise a rimproverare le città nelle quali aveva compiuto il maggior numero di miracoli, perché non si erano convertite:
 ###### 21
