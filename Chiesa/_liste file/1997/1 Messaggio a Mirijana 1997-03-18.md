@@ -19,5 +19,5 @@ url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-med
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Mirijana<br>il 18 marzo 1997
 
-## Cari figli!<br>In quanto madre vi prego: non seguite la strada che avete intrapeso.<br>E' una strada senza amore verso il prossimo, verso il mio Figlio.<br>Lungo questa strada troverete solo la durezza ed il vuoto del cuore e non la pace che tutti desiderate.<br>Avrà la pace vera solo chi, nel suo prossimo, vede ed ama il mio Figlio.<br>Solo se in questo cuore domina il mio Figlio, esso conosce la pace e la tranquillità.<br>Grazie per aver risposto alla mia chiamata.
+## Cari figli!<br>In quanto madre vi prego: non seguite la strada che avete intrapeso.<br>È una strada senza amore verso il prossimo, verso il mio Figlio.<br>Lungo questa strada troverete solo la durezza ed il vuoto del cuore e non la pace che tutti desiderate.<br>Avrà la pace vera solo chi, nel suo prossimo, vede ed ama il mio Figlio.<br>Solo se in questo cuore domina il mio Figlio, esso conosce la pace e la tranquillità.<br>Grazie per aver risposto alla mia chiamata.
 

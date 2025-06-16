@@ -601,7 +601,7 @@ else {
 	// Handle no selection
 	linguaMess = '';
 }
-// SE LA VARIABILE linguaMess E' VUOTA, INSERISCE UN MESSAGGIO NEL CAMPO YALM CHE SBALLA LA SUA VISUALIZZAZIONE 
+// SE LA VARIABILE linguaMess È VUOTA, INSERISCE UN MESSAGGIO NEL CAMPO YALM CHE SBALLA LA SUA VISUALIZZAZIONE 
 if (linguaMess === ''){
 	linguaMess = txt_linguaMessaggio + '@ ATTENZIONE !!! Manca la lingua del messaggio, inserirla successivamente!!!'
 }
@@ -649,7 +649,7 @@ else {
 	// Handle no selection
 	linguaOrig = '';
 }
-// SE LA VARIABILE linguaOrig E' VUOTA, INSERISCE UN MESSAGGIO NEL CAMPO YALM CHE SBALLA LA SUA VISUALIZZAZIONE 
+// SE LA VARIABILE linguaOrig È VUOTA, INSERISCE UN MESSAGGIO NEL CAMPO YALM CHE SBALLA LA SUA VISUALIZZAZIONE 
 if (linguaOrig === ''){
 	linguaOrig = txt_linguaOrigMessaggio + '@ ATTENZIONE !!! Manca la lingua originale del messaggio, inserirla successivamente!!!'
 }
