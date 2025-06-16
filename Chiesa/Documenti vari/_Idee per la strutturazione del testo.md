@@ -19,12 +19,16 @@ All'inizio, Dio ha affidato la terra e le sue risorse alla gestione comune dell'
 
 ###### <span class="art" id="ccc_art2404" name="ccc_art2404">2404</span>.
  «L'uomo, usando dei beni creati, deve considerare le cose esteriori che legittimamente possiede, non solo come proprie, ma anche come comuni, nel senso che possano giovare non unicamente a lui, ma anche agli altri».[^ftn3173]<br>La proprietà di un bene fa di colui che lo possiede un amministratore della provvidenza; deve perciò farlo fruttificare e spartirne i frutti con gli altri, e, in primo luogo, con i propri congiunti.
+
+
+***
+<span class="tipo-documento">Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana.</span>
+
+
 ***
 NOTE:
-***
-
 
 [^ftn3172]: Cfr. *<span class="BibleRef">[[Gn 1,26-29|Gn 1,26-29]]</span>*.
-[^ftn3173]: Concilio Ecumenico Vaticano II, Costituzione pastorale sulla Chiesa nel mondo contemporaneo <span class="lkd" name="lkd">[[cevii-cos-ges#69|Gaudium et Spes, n. 69]]</span> (07 dicembre 1965): AAS 58 (1966) 1090.
+[^ftn3173]: Concilio Ecumenico Vaticano II, Costituzione pastorale sulla Chiesa nel mondo contemporaneo <span class="lkd" name="lkd">[[Documenti vari/cevii-cos-ges#<span class="art" id="cos-ges_art69" name="cos-ges_art69">69</span>. I beni della terra e loro destinazione a tutti gli uomini|Gaudium et Spes, n. 69]]</span> (07 dicembre 1965): AAS 58 (1966) 1090. 
 
 
