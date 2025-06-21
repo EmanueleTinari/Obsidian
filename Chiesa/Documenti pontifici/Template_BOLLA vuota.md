@@ -12,7 +12,8 @@ tags:
 creato: 2025-05-01T15:52:51
 aggiornato: 2025-05-10T21:38:39
 ---
----
+
+***
 
 Bolla `class: tipo-documento`
 
@@ -21,7 +22,7 @@ del sommo pontefice `class: tipo-autorita`
 X `class: nome-autorita`
 
 
-# X `class: titolo-documento`
+# Titolo doc
 
 
 X.<br> `class: incipit`
@@ -634,5 +635,5 @@ X. `class: paragrafo-normale`
 X. `class: data-luogo`
 
 X. `class: firma-centro`
----
+***
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`

@@ -12,7 +12,8 @@ tags:
 creato: 2025-05-02T11:03:58
 aggiornato: 2025-05-10T21:38:21
 ---
----
+
+***
 
 Breve `class: tipo-documento`
 
@@ -21,7 +22,7 @@ del sommo pontefice `class: tipo-autorita`
 X `class: nome-autorita`
 
 
-# td `class: titolo-documento`
+# titolo doc
 
 
 X.<br> `class: incipit`
@@ -634,5 +635,5 @@ X. `class: paragrafo-normale`
 X. `class: data-luogo`
 
 X. `class: firma-centro`
----
+***
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
