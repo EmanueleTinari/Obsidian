@@ -1,6 +1,6 @@
 ---
 cssclasses: messaggio
-veggente: Jakov
+veggente: "[[1 3 info Jakov|Jakov]]"
 tipo-nota: bio
 giorno-nascita: 06
 mese-nascita: 03

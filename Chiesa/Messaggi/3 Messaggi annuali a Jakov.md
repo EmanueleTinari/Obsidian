@@ -1,6 +1,6 @@
 ---
 cssclasses: messaggio
-veggente: Jakov
+veggente: "[[1 3 info Jakov|Jakov]]"
 tipo-mess: ultimo-quotidiano
 giorno-mess: 12
 mese-mess: 09

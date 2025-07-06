@@ -18,4 +18,4 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 ## Cari figli!<br>Anche oggi vi invito a ritornare alla preghiera.<br>In questo tempo di grazia, Dio mi ha permesso di guidarvi verso la santità e verso una vita semplice, affinché nelle piccole cose possiate scoprire Dio Creatore, innamorarvi di Lui e affinché la vostra vita sia un ringraziamento all’Altissimo per tutto quello che Lui vi dona.<br>Figlioli, la vostra vita sia un dono per gli altri nell’amore e Dio vi benedirà.<br>E voi, testimoniate senza interesse, per amore verso Dio.<br>Io sono con voi e intercedo davanti a mio Figlio per tutti voi.<br>Grazie per aver risposto alla mia chiamata.
 
 ***
-> [!4colonne]- [[Messaggi/2016/2016-10-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 novembre 2016 | [[Messaggi/2016/2016-12-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+> [!4colonne]- [[Messaggi/2016/2016-11-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 novembre 2016 | [[Messaggi/2016/2016-12-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

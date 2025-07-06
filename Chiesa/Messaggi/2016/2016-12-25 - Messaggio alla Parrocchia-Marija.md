@@ -18,4 +18,4 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 ## Cari figli!<br>Con grande gioia oggi vi porto mio Figlio Gesù perché Lui vi dia la Sua pace.<br>Figlioli, aprite i vostri cuori e siate gioiosi affinché possiate accoglierla.<br>Il cielo è con voi e lotta per la pace nei vostri cuori, nelle famiglie e nel mondo e voi, figlioli, aiutatelo con le vostre preghiere affinché sia così.<br>Vi benedico con mio Figlio Gesù e vi invito a non perdere la speranza e che il vostro sguardo e il vostro cuore siano sempre rivolti verso il cielo e verso l’eternità.<br>Così sarete aperti a Dio ed ai Suoi piani.<br>Grazie per aver risposto alla mia chiamata.
 
 ***
-> [!4colonne]- [[Messaggi/2016/2016-11-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 dicembre 2016 | [[Messaggi/2016/2016-12-25 - Messaggio annuale a Jakov| Messaggio successivo → ]]
+> [!4colonne]- [[Messaggi/2016/2016-12-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 dicembre 2016 | [[Messaggi/2016/2016-12-25 - Messaggio annuale a Jakov| Messaggio successivo → ]]

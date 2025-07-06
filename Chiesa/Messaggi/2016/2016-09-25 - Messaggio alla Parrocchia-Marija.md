@@ -18,4 +18,4 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 ## Cari figli!<br>Oggi vi invito alla preghiera.<br>La preghiera sia per voi vita.<br>Soltanto così il vostro cuore si riempirà di pace e di gioia.<br>Dio vi sarà vicino e voi lo sentirete nel vostro cuore come un amico.<br>Parlerete con Lui come con qualcuno che conoscete e, figlioli, sentirete il bisogno di testimoniare perché Gesù sarà nel vostro cuore e voi sarete uniti in Lui.<br>Io sono con voi e vi amo tutti con il mio amore materno.<br>Grazie per aver risposto alla mia chiamata.
 
 ***
-> [!4colonne]- [[Messaggi/2016/2016-08-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 settembre 2016 | [[Messaggi/2016/2016-10-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+> [!4colonne]- [[Messaggi/2016/2016-09-20 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 25 settembre 2016 | [[Messaggi/2016/2016-10-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

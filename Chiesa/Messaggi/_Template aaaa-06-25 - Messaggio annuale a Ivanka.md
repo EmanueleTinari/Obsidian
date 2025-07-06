@@ -1,7 +1,7 @@
 ---
 cssclasses: messaggio
 destinatario: Mondo
-veggente: Ivanka
+veggente: "[[1 2 info Ivanka|Ivanka]]"
 tipo-mess: annuale
 inizio: x:y
 durata: 0w
