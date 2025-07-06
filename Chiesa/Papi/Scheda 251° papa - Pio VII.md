@@ -1,11 +1,10 @@
 ---
-cssclasses:
- - docVat
-titolo-doc: "[[Scheda 251° papa - Pio VII|Scheda papa Pio VII]]"
-tipo-doc: "[[Scheda 251° papa - Pio VII|Scheda papa ]]"
+cssclasses: docVat
+titolo-doc: Scheda 251° papa - Pio VII
+tipo-doc: Scheda papa
 lingua-doc: Italiano
 papa-numero: 251
-nome-papa: "[[Scheda 251° papa - Pio VII|Papa Pio VII]]"
+nome-papa: Pio VII
 nome-secolare: Barnaba Niccolò Maria Luigi Chiaramonti
 luogo-nascita: Cesena
 giorno-nascita: 14
@@ -26,7 +25,7 @@ anno-fine: 1823
 fine-pontificato: 1823/08/20
 causa-morte: Decesso
 luogo-morte: Roma
-luogo-sepoltura: "[[Basilica di San Pietro (Città del vaticano)|San Pietro]]"
+luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 250° papa - Pio VI|Papa Pio VI]]"
 successore: "[[Scheda 252° papa - Leone XII|Papa Leone XII]]"
 aliases:
@@ -44,4 +43,5 @@ creato: 2025-05-22T14:50:28
 aggiornato: 2025-05-22T14:50:28
 ---
 
----
+***
+

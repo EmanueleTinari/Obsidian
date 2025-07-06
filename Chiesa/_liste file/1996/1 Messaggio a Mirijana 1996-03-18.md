@@ -1,8 +1,7 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 destinatario: Mondo
-veggente: Mirijana
+veggente: "[[1 1 info Mirijana|Mirijana]]"
 tipo-mess: annuale
 inizio: 00:00
 durata: 00

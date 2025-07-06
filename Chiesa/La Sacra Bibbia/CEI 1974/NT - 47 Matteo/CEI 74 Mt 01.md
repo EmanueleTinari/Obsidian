@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - bibbia
+cssclasses: bibbia
 versione: C.E.I. 1974
 testamento: Nuovo
 gruppo: I Vangeli
@@ -47,7 +46,7 @@ Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Matteo| ← Matteo]] | Matteo 1 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 02|Matteo 2 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
 >>
->> Vulgata Latina di San Girolamo, [[La Sacra Bibbia/Vulgata Latina di San Girolamo/NT - 47 Matteo/VLSG Mt 01|Matthæus 1]]
+>> Vulgata Latina, [[La Sacra Bibbia/Vulgata Latina/NT - 47 Matteo/VL Mt 01|Matthæus 1]]
 >> Nova Vulgata, [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Matthæus 1]]
 >> C.E.I 2008, [[La Sacra Bibbia/CEI 2008/NT - 47 Matteo/CEI 08 Mt 01|Matteo 1]]
 >> Interconfessionale, [[La Sacra Bibbia/Interconfessionale/NT - 47 Matteo/INT Mt 01|Matteo 1]]

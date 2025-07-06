@@ -13,21 +13,21 @@ Capitolo precedente (se c'è) -- Capitolo successivo (se c'è)
 
 					(CENTRATO:) CAPITOLO 1
 
-(MENU' IN ALTO:) Inizio del Libro -- Capitolo 2 -- Inizio libro successuvo
+(MENU' IN ALTO:) Inizio del Libro -- Capitolo 2 -- Inizio libro successivo
 
-(MENU' IN BASSO:) Inizio del Libro -- Capitolo 2 -- Inizio libro successuvo
+(MENU' IN BASSO:) Inizio del Libro -- Capitolo 2 -- Inizio libro successivo
 
 
 					(CENTRATO:) CAPITOLO 2
 
-(MENU' IN ALTO:) Inizio del Libro -- Capitolo 1 -- Capitolo 3 -- Inizio libro successuvo
+(MENU' IN ALTO:) Inizio del Libro -- Capitolo 1 -- Capitolo 3 -- Inizio libro successivo
 
-(MENU' IN BASSO:) Inizio del Libro -- Capitolo 1 -- Capitolo 3 -- Inizio libro successuvo
+(MENU' IN BASSO:) Inizio del Libro -- Capitolo 1 -- Capitolo 3 -- Inizio libro successivo
 
 
 
 					(CENTRATO:) ULTIMO CAPITOLO
 
-(MENU' IN ALTO:) Inizio del Libro -- Capitolo precedente -- Inizio libro successuvo
+(MENU' IN ALTO:) Inizio del Libro -- Capitolo precedente -- Inizio libro successivo
 
-(MENU' IN BASSO:) Inizio del Libro -- Capitolo precedente -- Inizio libro successuvo
+(MENU' IN BASSO:) Inizio del Libro -- Capitolo precedente -- Inizio libro successivo

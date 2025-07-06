@@ -9,7 +9,7 @@ anno-doc: 1757
 data-doc: 1757-08-02
 lingua-doc: Italiano
 lingua-orig: Latino
-stato: [ ]
+stato: true
 tags:
   - Lettera_enciclica
   - Benedetto_XIV
@@ -24,7 +24,7 @@ aggiornato: 2025-05-18T17:18:12
 
 Lettera Enciclica `class: tipo-documento`
 
-# Quam grave `class: titolo-documento`
+# Quam grave
 
 del sommo pontefice `class: tipo-autorita`
 
@@ -40,7 +40,7 @@ Riteniamo superfluo dimostrare con molte parole quanto grave ed orrendo delitto 
 
 ###### 2.
 
-Tutte queste Costituzioni Noi stessi le abbiamo richiamate e confermate nella nostra Costituzione che abbiamo pubblicato fino dall’anno 1744 dell’Incarnazione del Signore, IV del nostro Pontificato, in dato 20 aprile, che inizia con le parole: “_Sacerdote in eterno_” e che è stata stampata nel Nostro Bollario, Tom I, n. 97; dove inoltre vengono abolite molte eccezioni e scappatoie che la Difesa era solita citare per sottrarre i colpevoli alla pena che loro spettava, di essere consegnati al braccio secolare, ogni volta che con prove inoppugnabili si dimostrasse che i soggetti in questione, senza avere mai ricevuto l’ordinazione Sacerdotale, avevano celebrato la Messa. `class: paragrafo-normale`
+Tutte queste Costituzioni Noi stessi le abbiamo richiamate e confermate nella nostra Costituzione che abbiamo pubblicato fino dall’anno 1744 dell’Incarnazione del Signore, IV del nostro Pontificato, in dato 20 aprile, che inizia con le parole: “*Sacerdote in eterno*” e che è stata stampata nel Nostro Bollario, Tom I, n. 97; dove inoltre vengono abolite molte eccezioni e scappatoie che la Difesa era solita citare per sottrarre i colpevoli alla pena che loro spettava, di essere consegnati al braccio secolare, ogni volta che con prove inoppugnabili si dimostrasse che i soggetti in questione, senza avere mai ricevuto l’ordinazione Sacerdotale, avevano celebrato la Messa. `class: paragrafo-normale`
 
 ###### 3.
 
@@ -112,9 +112,11 @@ Il persistere della nostra malattia ci ha impedito di partecipare, come in simil
 
 ###### 20.
 
-Decretiamo quindi che dai Giudici competenti e dati Tribunali si proceda secondo le norme fin qui descritte contro coloro dei quali risulta fino ad oggi che hanno celebrato la Messa o hanno ricevuto la Confessione Sacramentale senza essere stati ammessi al Sacro Ordine del Presbiterato.<br>Ma poiché siamo convinti che questo delitto, gravissimo in sé e ogni giorno più frequente, con ogni mezzo deve essere impedito e, per quanto possibile, eliminato ed estirpato dalle Nazioni Cristiane, decretiamo che la nuova legge in materia determinata mediante una Costituzione Apostolica (di cui la Tua Fraternità riceverà un esemplare annesso a questa Lettera) in futuro, passati cioè tre mesi dalla data della medesima Costituzione, sia rigorosamente osservata e messa in atto.<br><br>Frattanto a te, Venerabile Fratello, con molto affetto impartiamo la Benedizione Apostolica. `class: paragrafo-normale`
+Decretiamo quindi che dai Giudici competenti e dati Tribunali si proceda secondo le norme fin qui descritte contro coloro dei quali risulta fino ad oggi che hanno celebrato la Messa o hanno ricevuto la Confessione Sacramentale senza essere stati ammessi al Sacro Ordine del Presbiterato.<br>Ma poiché siamo convinti che questo delitto, gravissimo in sé e ogni giorno più frequente, con ogni mezzo deve essere impedito e, per quanto possibile, eliminato ed estirpato dalle Nazioni Cristiane, decretiamo che la nuova legge in materia determinata mediante una Costituzione Apostolica (di cui la Tua Fraternità riceverà un esemplare annesso a questa Lettera) in futuro, passati cioè tre mesi dalla data della medesima Costituzione, sia rigorosamente osservata e messa in atto.<br><br>Frattanto a te, Venerabile Fratello, con molto affetto impartiamo la Benedizione Apostolica.<br> `class: paragrafo-normale`
+
 
 Dato a Roma, presso Santa Maria Maggiore, il 2 agosto 1757, nell’anno diciassettesimo del Nostro Pontificato. `class: data-luogo`
+
 
 Benedictus XIV `class: firma-centro`
 

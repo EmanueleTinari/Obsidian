@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - vocabolario
+cssclasses: vocabolario
   - background
 creato: 2025-05-17T16:34:22
 aggiornato: 2025-05-19T23:05:00

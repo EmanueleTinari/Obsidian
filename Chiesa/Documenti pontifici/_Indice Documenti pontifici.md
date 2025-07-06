@@ -1,16 +1,16 @@
 <!--  (!= this.file.name) esclude questo stesso file dalla lista -->
-```dataview 
+```dataview
 
 TABLE WITHOUT ID
 	stato AS Stato,
 	autore-doc AS Autore,
 	tipo-doc AS Tipo,
-	data-doc AS Data,
+	dateformat(data-doc, "dd-MM-yyyy")	AS Data,
 	titolo-doc AS Titolo,
 	link(file.name) AS File
 FROM
 	""
-WHERE 
+WHERE
 	startswith(file.folder, "Documenti")
 	AND
 	!startswith(file.name, "_")

@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - messaggio
-veggente: Mirijana
+cssclasses: messaggio
+veggente: "[[1 1 info Mirijana|Mirijana]]"
 tipo-nota: bio
 giorno-nascita: 18
 mese-nascita: 03

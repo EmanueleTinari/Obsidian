@@ -579,7 +579,7 @@ const sceltaInserimentoUrlDocumento = await tp.system.suggester(['Si', 'No', 'Es
 	if ( sceltaInserimentoUrlDocumento === "Si") {
 		
 		tmpUrlDocumento = await tp.system.prompt('Incollare o inserire l\'indirizzo Internet del documento.');
-		urlDocumento_p2 = tmpUrlDocumento; 
+		urlDocumento_p2 = tmpUrlDocumento;
 		urlDocumento = urlDocumento_p1 + urlDocumento_p2 + urlDocumento_p3;
 			console.log("Content of variable urlDocumento: " +
 						 urlDocumento);

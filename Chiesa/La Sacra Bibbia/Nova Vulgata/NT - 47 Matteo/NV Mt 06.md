@@ -45,7 +45,7 @@ Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|⇤ Matthæus 1]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05| ← Matthæus 5]] | Matthæus 6 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 07|Matthæus 7 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
 >>
->> Vulgata Latina di San Girolamo, [[La Sacra Bibbia/Vulgata Latina di San Girolamo/NT - 47 Matteo/VLSG Mt 06|Matthæus 6]]
+>> Vulgata Latina, [[La Sacra Bibbia/Vulgata Latina/NT - 47 Matteo/VL Mt 06|Matthæus 6]]
 >> C.E.I 1974, [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 06|Matteo 6]]
 >> C.E.I 2008, [[La Sacra Bibbia/CEI 2008/NT - 47 Matteo/CEI 08 Mt 06|Matteo 6]]
 >> Interconfessionale, [[La Sacra Bibbia/Interconfessionale/NT - 47 Matteo/INT Mt 06|Matteo 6]]

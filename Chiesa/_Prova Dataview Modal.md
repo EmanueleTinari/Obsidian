@@ -65,18 +65,6 @@ return // Termina senza alcuna modifica alla nota ora
 ```
 
 
-<span class="BibleRef">[[Matteo 01|Matteo 1]]</span>
-
-
-<div class="BibleRef">
-[[Matteo 01|Matteo 1]]
-</div>
-
-
-<p class="BibleRef">[[Matteo 01|Matteo 1]]</p>
-
-
-[[Matteo 01|Matteo 1]]
 
 ```dataviewjs
 dv.el("b", "This is some bold text");

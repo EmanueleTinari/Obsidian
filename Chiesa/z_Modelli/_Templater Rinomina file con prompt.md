@@ -1,4 +1,4 @@
-<%*  
+<%* 
 // create new filename
 let newsletter_index = await tp.system.prompt('Current index:');
 note_name = 'Newsletter' + newsletter_index + '.1';

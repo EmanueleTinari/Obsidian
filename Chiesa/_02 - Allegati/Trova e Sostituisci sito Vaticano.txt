@@ -3,15 +3,20 @@ ATTENZIONE!!!
 Questi appena qui sotto sono i nuovi Trova-Sostituisci da usare nei file di testo formati dal copia-incolla
 dei documenti pontifici in Notepad++ per i file da inserire in ObsidianMD.
 #####################################################################################################
-TROVA: Esempio 1 Pt 1
-([0-9]{1,4}) ([A-Za-z]{1,3}) ([0-9]{1,4}),([0-9]{1,4})
+TROVA: CAPITOLO I
+\r\nCAPITOLO ([A-Za-z]{1,3})\r\n\r\n
 SOSTITUISCI:
-\*\<span class\=\"BibleRef\"\>\[\[\1\2 \3,\4\|\1\2 \3, \4\]\]\<\/span\>\*
+\r\n\r\n### CAPITOLO \1.<br>
 #####################################################################################################
 TROVA: Es 1 Pt 1,1-2
 ([0-9]{1,4}) ([A-Za-z]{1,3}) ([0-9]{1,4}),([0-9]{1,4})\-([0-9]{1,4})
 SOSTITUISCI:
 \*\<span class\=\"BibleRef\"\>\[\[\1\2 \3,\4-\5\|\1\2 \3, \4\-\5\]\]\<\/span\>\*
+#####################################################################################################
+TROVA: Esempio 1 Pt 1,1
+([0-9]{1,4}) ([A-Za-z]{1,3}) ([0-9]{1,4}),([0-9]{1,4})
+SOSTITUISCI:
+\*\<span class\=\"BibleRef\"\>\[\[\1\2 \3,\4\|\1\2 \3, \4\]\]\<\/span\>\*
 #####################################################################################################
 TROVA: Es Mt 1,1-2
 ([A-Za-z]{1,3}) ([0-9]{1,4}),([0-9]{1,4})-([0-9]{1,4})
@@ -22,6 +27,23 @@ TROVA: Es Mt 1,1
 ([A-Za-z]{1,3}) ([0-9]{1,4}),([0-9]{1,4})
 SOSTITUISCI:
 \*\<span class\=\"BibleRef\"\>\[\[\1 \2,\3\|\1 \2, \3\]\]\<\/span\>\*
+#####################################################################################################
+PER GLI ARTICOLI DEI DECRETI, COSTITUZIONI ECC...
+
+TROVA: 1. ad inizio riga
+^([0-9]{1,4})\. 
+SOSTITUISCI: Attenzione se ci dovesse essere un nome dell'articolo !!! Questo esempio invece va a capo
+\#\#\#\#\#\# \<span class\=\"art\" id\=\"QUI_L'ABBREVIAZIONE_DEL_DOCUMENTO_art\1" name="QUI_L'ABBREVIAZIONE_DEL_DOCUMENTO_art\1\"\>\1\<\/span\>\.\r\n
+
+#####################################################################################################
+PER LE NOTE A PIE' PAGINA:
+
+TROVA: 
+	NEL TESTO:\[([0-9]{1,4})\]
+		NELLE NOTE: \[([0-9]{1,4})\] 
+SOSTITUISCI:
+	NEL TESTO:\[\^ftn\1\]
+		NELLE NOTE:\[\^ftn\1\]\: 
 #####################################################################################################
 #####################################################################################################
 ERRORI
@@ -1028,9 +1050,9 @@ Concilio Ecumenico Vaticano II, Costituzione dogmatica sulla Chiesa <i><a href="
 
 Concilio Ecumenico Vaticano II, Costituzione dogmatica sulla Chiesa <a  class="lkd" href="cevii-cos-lug.html" name="lkd" aria-label="Documento collegato" title="Documento collegato">Lumen gentium<span class="np">, n\. </span><span class="numpar">\1</span></a> (21 novembre 1964)
 
-Concilio Ecumenico Vaticano II, Decreto sul ministero e la vita dei presbiteri <i><a href="@InserireLink@">Presbyterorum Ordinis</a></i>, n\. ([0-9]{1,4})
+Concilio Ecumenico Vaticano II, Decreto sul Ministero e la vita dei Presbiteri <i><a href="@InserireLink@">Presbyterorum ordinis</a></i>, n\. ([0-9]{1,4})
 
-Concilio Ecumenico Vaticano II, Decreto sul ministero e la vita dei presbiteri <a class="lkd" href="cevii-dec-pro.html" name="lkd" aria-label="Documento collegato" title="Documento collegato">Presbyterorum Ordinis<span class="np">, n\. </span><span class="numpar">\1</span></a> (7 dicembre 1965)
+Concilio Ecumenico Vaticano II, Decreto sul Ministero e la vita dei Presbiteri <a class="lkd" href="cevii-dec-pro.html" name="lkd" aria-label="Documento collegato" title="Documento collegato">Presbyterorum ordinis<span class="np">, n\. </span><span class="numpar">\1</span></a> (7 dicembre 1965)
 
 Concilio Ecumenico Vaticano II, Costituzione sulla Sacra Liturgia <i><a href="@InserireLink@">Sacrosanctum Concilium</a></i>, n\. ([0-9]{1,4})
 

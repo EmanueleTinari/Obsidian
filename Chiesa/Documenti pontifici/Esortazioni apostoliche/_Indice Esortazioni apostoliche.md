@@ -7,7 +7,7 @@ TABLE WITHOUT ID
 	link(file.name) AS File
 FROM
 	"Documenti pontifici/Esortazioni apostoliche"
-WHERE 
+WHERE
 	file.name != this.file.name
 SORT data-doc ASC
 ```

@@ -1,11 +1,10 @@
 ---
-cssclasses:
-  - docVat
-titolo-doc: "[[Scheda 247° papa - Benedetto XIV|Scheda papa Benedetto XIV]]"
-tipo-doc: "[[Scheda 247° papa - Benedetto XIV|Scheda papa]]"
+cssclasses: docVat
+titolo-doc: Scheda 247° papa - Benedetto XIV
+tipo-doc: Scheda papa
 lingua-doc: Italiano
 papa-numero: 247
-nome-papa: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+nome-papa: Benedetto XIV
 nome-secolare: Prospero Lorenzo Lambertini
 luogo-nascita: Bologna
 giorno-nascita: 31
@@ -28,7 +27,7 @@ causa-morte: Decesso
 luogo-morte: Roma
 luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 246° papa - Clemente XII|Papa Clemente XII]]"
-successore: "[[Scheda 248° papa - Clemente XIII|papa Clemente XIII]]"
+successore: "[[Scheda 248° papa - Clemente XIII|Papa Clemente XIII]]"
 aliases:
   - Papa Benedetto XIV
   - Benedetto XIV
@@ -44,16 +43,16 @@ creato: 2025-04-29T23:29:01
 aggiornato: 2025-05-21T19:41:10
 ---
 
----
+***
 
-> [!info]- ELENCO SOMMI PONTEFICI 
+> [!info]- ELENCO SOMMI PONTEFICI
 >
->> [!info]- XXI secolo  
+>> [!info]- XXI secolo 
 >> 267° - [[Scheda 267° papa - Leone XIV|Leone XIV]]
 >> 266° - [[Scheda 266° papa - Francesco|Francesco]]
 >> 265° - [[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]
 >
->> [!info]- XX secolo  
+>> [!info]- XX secolo 
 >> 264° - [[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]]
 >> 263° - [[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]
 >> 262° - [[Scheda 262° papa - Paolo VI|Paolo VI]]
@@ -63,7 +62,7 @@ aggiornato: 2025-05-21T19:41:10
 >> 258° - [[Scheda 258° papa - Benedetto XV|Benedetto XV]]
 >> 257° - [[Scheda 257° papa - Pio X|Pio X]]
 >
->> [!info]- XIX secolo  
+>> [!info]- XIX secolo 
 >> 256° - [[Scheda 256° papa - Leone XIII|Leone XIII]]
 >> 255° - [[Scheda 255° papa - Pio IX|Pio IX]]
 >> 254° - [[Scheda 254° papa - Gregorio XVI|Gregorio XVI]]
@@ -363,8 +362,8 @@ aggiornato: 2025-05-21T19:41:10
 > [!info]- Foto
 > ![[Benedictus XIV_foto.jpg|Pierre-Hubert Subleyras, Ritratto di papa Benedetto XIV, olio su tela, 1745 ca.; Parigi, museo Condé|200]]
 
-> [!seealso]- Scritti di [[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]: 
->> [!seealso]- [[Bolle|Bolle]]  
+> [!seealso]- Scritti di [[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]:
+>> [!seealso]- [[Bolle|Bolle]] 
 >> |                    Stato                     | Progr. | Num | Titolo                                   | Data                | File name                         |
 | :------------------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |
 | <input id="hc-7759" type="checkbox" checked> |     25 |   1 | [[bxiv-bol-ofn\|Officii nostri]]         | {{date:15/03/1749}} | [[bxiv-bol-ofn\|bxiv-bol-ofn.md]] |
@@ -372,7 +371,7 @@ aggiornato: 2025-05-21T19:41:10
 | <input id="hc-8668" type="checkbox" checked> |     30 |   3 | [[bxiv-bol-bed\|Benedictus Deus]]        | {{date:25/12/1750}} | [[bxiv-bol-bed\|bxiv-bol-bed.md]] |
 | <input id="hc-6859" type="checkbox" checked> |     34 |   4 | [[bxiv-bol-prr\|Providas romanorum]]     | {{date:18/03/1751}} | [[bxiv-bol-prr\|bxiv-bol-prr.md]] |
 >
->> [!seealso]- [[Brevi|Brevi]]  
+>> [!seealso]- [[Brevi|Brevi]] 
 >> |                    Stato                     | Progr. | Num | Titolo                                   | Data                | File name                         |
 | :------------------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |
 | <input id="hc-2276" type="checkbox" checked> |      2 |   1 | [[bxiv-bre-noa\|Non Ambigimus]]          | {{date:30/05/1741}} | [[bxiv-bre-noa\|bxiv-bre-noa.md]] |
@@ -384,7 +383,7 @@ aggiornato: 2025-05-21T19:41:10
 |     <input id="hc-3718" type="checkbox">     |     21 |   7 | [[bxiv-bre-qun\|Quemadmodum Nihil]]      | {{date:16/12/1746}} | [[bxiv-bre-qun\|bxiv-bre-qun.md]] |
 |     <input id="hc-5792" type="checkbox">     |     40 |   8 | [[bxiv-bre-qes\|Quam Ex Sublimi]]        | {{date:08/08/1755}} | [[bxiv-bre-qes\|bxiv-bre-qes.md]] |
 >
->> [!seealso]- [[Lettere encicliche|Lettere Encicliche]]  
+>> [!seealso]- [[Lettere encicliche|Lettere Encicliche]] 
 >> |                Stato                 | Progr. | Num | Titolo                                   | Data                | File name                         |
 | :----------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |
 | <input id="hc-9871" type="checkbox" checked> |      1 |   1 | [[bxiv-enc-ubi\|Ubi primum]]             | {{date:03/12/1740}} | [[bxiv-enc-ubi\|bxiv-enc-ubi.md]] |

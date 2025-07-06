@@ -1,9 +1,8 @@
- 
-cssclasses:
- background
+
+cssclasses: background
 creato: 2025 05 10T09:02:25
 aggiornato: 2025 05 10T09:02:27
- 
+
 
 
 | Papa Benedetto XIV | |
@@ -119,7 +118,7 @@ Innanzitutto, nel [1741](https://it.wikipedia.org/wiki/1741 "1741") emise la bol
 
 V. Azzola, _Ludovico Antonio Muratori_, incisione presa dagli _Annali d'Italia_, Vol. 1, edizione del 1843. Insigne studioso dell'età dei lumi, versatile in teologia, in storia e in letteratura, il Muratori fu tenuto in grandissima considerazione da Benedetto XIV, tanto che il Papa ne seguì alcune indicazioni di carattere pastorale e liturgico.
 
-Il Pontefice, desideroso di promuovere una religiosità semplice e improntata alla purezza del [rito](https://it.wikipedia.org/wiki/Rito_liturgico "Rito liturgico"), ordinò nel 1740 che non venissero utilizzate le trombe durante la [celebrazione eucaristica](https://it.wikipedia.org/wiki/Messa "Messa"), e nel 1746 chiese ai vescovi dello [Stato Pontificio](https://it.wikipedia.org/wiki/Stato_Pontificio "Stato Pontificio") di porre sempre il crocifisso sugli altari e di controllare la devozione verso i santi, nel tentativo di regolarizzare e uniformare la devozione popolare[[68]](#cite_note Rogier Bertier Hajjar 74 71). Nel contempo, il papa tentò di porre al centro della celebrazione eucaristica la [musica sacra](https://it.wikipedia.org/wiki/Musica_sacra "Musica sacra"), depurandola dagli abusi e cercando di riportarla alla purezza originaria, secondo i dettami del [Concilio di Trento](https://it.wikipedia.org/wiki/Concilio_di_Trento "Concilio di Trento")[[68]](#cite_note Rogier Bertier Hajjar 74 71): così viene raccomandato nell'enciclica _[Annus Qui Hunc](https://it.wikipedia.org/wiki/Annus_Qui_Hunc "Annus Qui Hunc")_ (1749), pubblicata anche in occasione dell'imminente giubileo[[69]](#cite_note 72). In base a quanto richiesto dal [Muratori](https://it.wikipedia.org/wiki/Ludovico_Antonio_Muratori "Ludovico Antonio Muratori"), Benedetto XIV ridusse nel 1742 i giorni di precetto in tutta Italia, per poi estendere tale decreto anche alle restanti zone d'[Europa](https://it.wikipedia.org/wiki/Europa "Europa") tra il 1748 e il 1754[[15]](#cite_note Rosa_Enciclopedia_dei_Papi 15). Sempre in questo spirito, il pontefice si accinse, già dal 1741, ad attuare una riforma generale del [breviario](https://it.wikipedia.org/wiki/Breviario_romano "Breviario romano"), opera che però non riuscì a completare a causa della mancanza di collaboratori che l'aiutassero in tale proposito[[68]](#cite_note Rogier Bertier Hajjar 74 71). 
+Il Pontefice, desideroso di promuovere una religiosità semplice e improntata alla purezza del [rito](https://it.wikipedia.org/wiki/Rito_liturgico "Rito liturgico"), ordinò nel 1740 che non venissero utilizzate le trombe durante la [celebrazione eucaristica](https://it.wikipedia.org/wiki/Messa "Messa"), e nel 1746 chiese ai vescovi dello [Stato Pontificio](https://it.wikipedia.org/wiki/Stato_Pontificio "Stato Pontificio") di porre sempre il crocifisso sugli altari e di controllare la devozione verso i santi, nel tentativo di regolarizzare e uniformare la devozione popolare[[68]](#cite_note Rogier Bertier Hajjar 74 71). Nel contempo, il papa tentò di porre al centro della celebrazione eucaristica la [musica sacra](https://it.wikipedia.org/wiki/Musica_sacra "Musica sacra"), depurandola dagli abusi e cercando di riportarla alla purezza originaria, secondo i dettami del [Concilio di Trento](https://it.wikipedia.org/wiki/Concilio_di_Trento "Concilio di Trento")[[68]](#cite_note Rogier Bertier Hajjar 74 71): così viene raccomandato nell'enciclica _[Annus Qui Hunc](https://it.wikipedia.org/wiki/Annus_Qui_Hunc "Annus Qui Hunc")_ (1749), pubblicata anche in occasione dell'imminente giubileo[[69]](#cite_note 72). In base a quanto richiesto dal [Muratori](https://it.wikipedia.org/wiki/Ludovico_Antonio_Muratori "Ludovico Antonio Muratori"), Benedetto XIV ridusse nel 1742 i giorni di precetto in tutta Italia, per poi estendere tale decreto anche alle restanti zone d'[Europa](https://it.wikipedia.org/wiki/Europa "Europa") tra il 1748 e il 1754[[15]](#cite_note Rosa_Enciclopedia_dei_Papi 15). Sempre in questo spirito, il pontefice si accinse, già dal 1741, ad attuare una riforma generale del [breviario](https://it.wikipedia.org/wiki/Breviario_romano "Breviario romano"), opera che però non riuscì a completare a causa della mancanza di collaboratori che l'aiutassero in tale proposito[[68]](#cite_note Rogier Bertier Hajjar 74 71).
 Riuscì invece a portare a compimento la decisione di attenuare la proibizione della traduzione della Bibbia in italiano. Il 13 giugno [1757](https://it.wikipedia.org/wiki/1757 "1757") modificò la regola precedente, che risaliva a [Pio IV](https://it.wikipedia.org/wiki/Papa_Pio_IV "Papa Pio IV"), "permettendo la lettura delle versioni in volgare approvate dalla Santa Sede o pubblicate sotto la sorveglianza dei vescovi"[[70]](#cite_note 73). L'abate [Antonio Martini](https://it.wikipedia.org/wiki/Antonio_Martini "Antonio Martini"), recependo il desiderio del pontefice di una traduzione della Bibbia in italiano, realizzò la traduzione completa della Sacra Scrittura dalla _[Vulgata](https://it.wikipedia.org/wiki/Vulgata "Vulgata")_ (1769 1781)[[71]](#cite_note 74).
 
 Benedetto cercò, in quest'opera di riforma, una forma di colloquio con l'episcopato. Non poteva il solo papa, infatti, promuovere i suoi propositi senza che i vescovi e il clero non ne fossero partecipi. Pertanto, poco dopo la sua ascesa al papato, il Lambertini promosse la diffusione di lettere pontificie indirizzate alla cristianità cattolica (le [encicliche](https://it.wikipedia.org/wiki/Enciclica "Enciclica") appunto) in cui si esponevano le direttive pontificie in materia dottrinale[[72]](#cite_note 75). La prima delle encicliche (_[Ubi Primum](https://it.wikipedia.org/wiki/Ubi_Primum_\(Benedetto_XIV\) "Ubi Primum (Benedetto XIV)")_) fu indirizzata ai vescovi il 3 dicembre del 1740, tramite la quale chiedeva ai vescovi di rispettare le norme disciplinari del [Concilio di Trento](https://it.wikipedia.org/wiki/Concilio_di_Trento "Concilio di Trento") e di esaminare attentamente i candidati al [ministero sacerdotale](https://it.wikipedia.org/wiki/Ordine_sacro "Ordine sacro")[[15]](#cite_note Rosa_Enciclopedia_dei_Papi 15).
@@ -146,10 +145,10 @@ L'Indice dei libri proibiti del 1757. L'edizione suscitò clamore per l'assenza 
 
 Negli ultimi otto anni del suo pontificato Benedetto, pur mantenendo intatte alcune linee riformatrici, cambiò rotta nei confronti dell'illuminismo e delle associazioni che erano estranee alle linee programmatiche della Chiesa. Mario Rosa sottolinea che:
 
-(inglese) 
+(inglese)
 «This balance initially (at least) allowed a dialogue at a distance with some of the main exponents of the Enlightenment, but was nevertheless destined to break down soon before the development of those ideological lines which, in the eyes of the Roman Curia and Benedict XIV himself, were becoming more and more threatening, as the change in the 1750s was about to show.»
 
-(italiano) 
+(italiano)
 «Questo bilanciamento [tra ortodossia religiosa e apertura alla modernità] perlomeno inizialmente permise un dialogo a distanza con alcuni dei principali esponenti dell'Illuminismo, ma era ciò nonostante destinato a rompersi presto prima dello sviluppo di queste correnti ideologiche che, agli occhi della Curia Romana e dello stesso Benedetto XIV, stavano diventando sempre di più minacciose, come il cambiamento negli anni '50 doveva dimostrare»
 
 Questo clima di cauta moderazione, che si altalenò tra concessioni alla libertà di pensiero e restrizioni della medesima in difesa della fede, segnò l'inizio di quel clima di conservatorismo dottrinale che si manifestò sotto i pontificati di [papa Clemente XIII](https://it.wikipedia.org/wiki/Papa_Clemente_XIII "Papa Clemente XIII") e di [papa Pio VI](https://it.wikipedia.org/wiki/Papa_Pio_VI "Papa Pio VI"), segnando così la fine del clima di riforma iniziato a partire da [Innocenzo XI](https://it.wikipedia.org/wiki/Papa_Innocenzo_XI "Papa Innocenzo XI")[[82]](#cite_note 85).
@@ -166,7 +165,7 @@ Secondo il Lambertini, infatti, il doveroso rispetto della legge e della tradizi
 
 Il 1758 vide un rapido esaurimento delle energie fisiche dell'anziano pontefice, che aveva raggiunto la ragguardevole età di 83 anni. All'inizio dell'anno fu afflitto da un attacco di [gotta](https://it.wikipedia.org/wiki/Gotta "Gotta"), dalla quale sembrò essersi ripreso verso febbraio[[84]](#cite_note Moroni 48 89). Verso la fine di aprile, però, si ebbe il definitivo tracollo e il 3 maggio Benedetto XIV morì[[84]](#cite_note Moroni 48 89). Al momento della morte, si dice che egli abbia pronunciato la famosa frase latina:
 
-(italiano) 
+(italiano)
 «Così passa la gloria del mondo»
 
 aggiungendo poi:
@@ -280,15 +279,15 @@ A queste raccolte vanno aggiunti i seguenti volumi:
 
 
 
-Decreto sulla residenza dei vescovi e degli altri chierici inferiori, Capitolo I](http://www.totustuustools.net/concili/trentoa.htm), su totustuustools.net, totustuus. URL consultato il 9 settembre 2015.), 
+Decreto sulla residenza dei vescovi e degli altri chierici inferiori, Capitolo I](http://www.totustuustools.net/concili/trentoa.htm), su totustuustools.net, totustuus. URL consultato il 9 settembre 2015.),
 1. [**^**](#cite_ref 72) Benedetto XIV, [Annus qui hunc](http://www.totustuustools.net/magistero/b14annus.htm), su totustuustools.net. URL consultato il 7 giugno 2015.
 
 2. [**^**](#cite_ref 81) [I Giubilei](http://www.scalve.it/progettoconservativo/Crono/Vilm_out/Giubilei.html#1750), su scalve.it. URL consultato il 7 giugno 2015.
- 
- «1750: Benedetto XIV con la Bolla "Pellegrinantes" indice l'Anno Santo per il 1750»
- 
 
- 
+ «1750: Benedetto XIV con la Bolla "Pellegrinantes" indice l'Anno Santo per il 1750»
+
+
+
  Benedetto XIV, [Peregrinantes a Domino](http://www.totustuustools.net/magistero/b14pereg.htm), su totustuustools.net. URL consultato l'8 settembre 2015.
  Benedetto XIV, [Annus qui hunc](http://www.totustuustools.net/magistero/b14annus.htm), su totustuustools.net. URL consultato il 7 giugno 2015.
 

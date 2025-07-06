@@ -41,7 +41,7 @@ if(files.length < 1) {
   modal.titleEl.setText("⚠ ERRORE - Nessun file selezionato.");
   modal.contentEl.setText("dataviewjs L'apparecchio non è compatibile con l'apparecchio.");
   modal.open();
-  
+ 
   return; // Finisci senza fare niente
 }
 
@@ -91,9 +91,9 @@ class TagsModal extends Modal {
           .onClick(() => {
             this.onChangeTags();
           }));
-  
+ 
     contentEl.createEl("h3", { text: "selected files: " + files.length });
-    
+   
     let dropDown = new tp.obsidian.DropdownComponent(contentEl);
     dropDown.selectEl.setAttribute("style", "width:100%");
     for(var fi = 0; fi < files.length; fi++) {
@@ -120,12 +120,12 @@ class TagsModal extends Modal {
       new Notice(`Input tags!`);
       return;
     }
-  
+ 
     let tags_add = [];
     if(this?.tags_add) {
       tags_add = this.tags_add.split(",").map(tag => tag.trim());
     }
-  
+ 
     let tags_del = [];
     if(this?.tags_del) {
       tags_del = this.tags_del.split(",").map(tag => tag.trim());
@@ -136,18 +136,18 @@ class TagsModal extends Modal {
     log += "tags del: " + tags_del.join(", ") + "\n";
     log += "--------------------\n"
     log += "Start: " +new Date().toString() + "\n";
-    
+   
     this.textarea.inputEl.value += log;
-    
+   
     for(var fi = 0; fi < files.length; fi++) {
       this.dropDown.setValue(fi);
       let path = files[fi];
       let tfile = app.vault.getAbstractFileByPath(path);
-      
+     
       await app.fileManager.processFrontMatter(tfile, (fm) => {
         let tags = fm["tags"] ? fm["tags"] : [];
         let tags_changed = false;
-  
+ 
         // Aggiungi tag.
         tags_add.forEach(tag => {
           if (!tags.includes(tag)) {
@@ -155,7 +155,7 @@ class TagsModal extends Modal {
             tags_changed = true;
           }
         });
-  
+ 
         // Cancella i tag.
         tags_del.forEach(tag => {
           let index = tags.indexOf(tag);
@@ -164,7 +164,7 @@ class TagsModal extends Modal {
             tags_changed = true;
           }
         });
-  
+ 
         if (tags_changed) {
           fm["tags"] = tags;
         }

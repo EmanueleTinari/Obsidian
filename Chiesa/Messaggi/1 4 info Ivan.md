@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 veggente: Ivan
 tipo-nota: bio
 giorno-nascita: 25

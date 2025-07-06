@@ -7,7 +7,7 @@ Source: [Qui](https://gist.github.com/torantine/df3f7d6f8e7f884305da171505a73ae7
 //let text = app.workspace.activeLeaf.view.file.unsafeCachedData;
 let text = 'Stringa di prova per contarne le parole'
 // remove the start and end spaces of the given string
-text = text.replace(/(^\\s\*)|(\\s\*$)/gi,""); 
+text = text.replace(/(^\\s\*)|(\\s\*$)/gi,"");
 // reduce multiple spaces to a single space
 text = text.replace(/\[ \]{2,}/gi," ");
 // exclude a new line with a start spacing

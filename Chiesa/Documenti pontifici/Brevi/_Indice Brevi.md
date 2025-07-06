@@ -1,5 +1,5 @@
 <!--  (!= this.file.name) esclude questo stesso file dalla lista -->
-```dataview 
+```dataview
 
 TABLE WITHOUT ID
 	autore-doc AS Autore,
@@ -8,7 +8,7 @@ TABLE WITHOUT ID
 	link(file.name) AS File
 FROM
 	"Documenti pontifici/Brevi"
-WHERE 
+WHERE
 	file.name != this.file.name
 SORT data-doc ASC
 ```

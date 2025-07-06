@@ -11,7 +11,7 @@ dv.table(["Paper","Title", "Year", "📚", "✒️","🧠","Updated"], dv.pages(
 	.where(b=>b.file.folder == ("Documenti pontifici"))
     .sort(b => b.file.mtime, 'desc')
     .map(b => [
-	"[[" + b.file.name + "|" + (b.file.aliases[1] || b.file.aliases[0]) + "]]", 
+	"[[" + b.file.name + "|" + (b.file.aliases[1] || b.file.aliases[0]) + "]]",
 	
 b.file.aliases[0],
 b.Year,
@@ -26,7 +26,7 @@ b.file.mtime.toFormat('yyyy-LL-dd T')
 // Source https://stackoverflow.com/questions/14267781/sorting-html-table-with-javascript
 const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
 
-const comparer = (idx, asc) => (a, b) => ((v1, v2) => 
+const comparer = (idx, asc) => (a, b) => ((v1, v2) =>
     v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2,undefined, {numeric: true})
     )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
 

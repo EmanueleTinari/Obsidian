@@ -30,11 +30,11 @@ completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/14/)"
 ---
-Versione C.E.I. 1974: 
+Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1 ]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 13| ← Matteo 13]] | Matteo 14 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 15|Matteo 15 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
 >>
->> Vulgata Latina di San Girolamo, [[La Sacra Bibbia/Vulgata Latina di San Girolamo/NT - 47 Matteo/VLSG Mt 14|Matthæus 14]]
+>> Vulgata Latina, [[La Sacra Bibbia/Vulgata Latina/NT - 47 Matteo/VL Mt 14|Matthæus 14]]
 >> Nova Vulgata, [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 14|Matthæus 14]]
 >> C.E.I 2008, [[La Sacra Bibbia/CEI 2008/NT - 47 Matteo/CEI 08 Mt 14|Matteo 14]]
 >> Interconfessionale, [[La Sacra Bibbia/Interconfessionale/NT - 47 Matteo/INT Mt 14|Matteo 14]]

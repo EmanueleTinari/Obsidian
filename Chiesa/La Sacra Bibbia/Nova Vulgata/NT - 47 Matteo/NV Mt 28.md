@@ -34,7 +34,7 @@ Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|⇤ Matthæus 1]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 27| ← Matthæus 27]] | Matthæus 28 | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  →]]
 >> <span class="verde">Altre versioni:</span>
 >>
->> Vulgata Latina di San Girolamo, [[La Sacra Bibbia/Vulgata Latina di San Girolamo/NT - 47 Matteo/VLSG Mt 28|Matthæus 28]]
+>> Vulgata Latina, [[La Sacra Bibbia/Vulgata Latina/NT - 47 Matteo/VL Mt 28|Matthæus 28]]
 >> C.E.I 1974, [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28]]
 >> C.E.I 2008, [[La Sacra Bibbia/CEI 2008/NT - 47 Matteo/CEI 08 Mt 28|Matteo 28]]
 >> Interconfessionale, [[La Sacra Bibbia/Interconfessionale/NT - 47 Matteo/INT Mt 28|Matteo 28]]

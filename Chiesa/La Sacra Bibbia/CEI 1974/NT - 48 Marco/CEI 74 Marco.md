@@ -27,12 +27,12 @@ url-testo: "[Link al testo]()"
 ---
 > [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
 >
->> [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 01|1]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 02|2]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 03|3]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 04|4]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 05|5]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 06|6]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 07|7]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 08|8]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 09|9]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 10|10]]<br>[[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 11|11]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 12|12]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 13|13]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 14|14]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 15|15]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 16|16]]  
+>> [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 01|1]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 02|2]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 03|3]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 04|4]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 05|5]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 06|6]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 07|7]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 08|8]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 09|9]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 10|10]]<br>[[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 11|11]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 12|12]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 13|13]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 14|14]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 15|15]] -- [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 16|16]] 
 >
 ---
 > [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
 >
->> [[VLSG Marco|Vulgata Latina di San Girolamo]] -- [[NV Marco|Nova Vulgata]] -- [[CEI08 Marco|CEI 2008]] -- [[INT Marco|Interconfessionale]] -- [[MRT Marco|Martini]] -- [[RCT Marco|Ricciotti]] -- [[D Marco|Diodati]] -- [[ND Marco|Nuova Diodati]] -- [[RIV Marco|Riveduta]] -- [[NRIV Marco|Nuova Riveduta]] -- [[RIV20 Marco|Nuova Riveduta 2020]]
+>> [[VL Marco|Vulgata Latina]] -- [[NV Marco|Nova Vulgata]] -- [[CEI08 Marco|CEI 2008]] -- [[INT Marco|Interconfessionale]] -- [[MRT Marco|Martini]] -- [[RCT Marco|Ricciotti]] -- [[D Marco|Diodati]] -- [[ND Marco|Nuova Diodati]] -- [[RIV Marco|Riveduta]] -- [[NRIV Marco|Nuova Riveduta]] -- [[RIV20 Marco|Nuova Riveduta 2020]]
 >
 ---
 

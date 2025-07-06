@@ -1,0 +1,25 @@
+ Il volume nell'unit… D Š SSD_1_4Tb_Part_1
+ Numero di serie del volume: 3CB1-AF4A
+
+ Directory di D:\Documenti\GitHub\EmanueleTinari\Obsidian\Chiesa\Messaggi\2019
+
+02/07/2025  21:35    <DIR>          .
+02/07/2025  21:35    <DIR>          ..
+26/06/2025  06:49             1.701 1 Messaggio a Mirijana 2019-03-18.md
+26/06/2025  06:49             1.004 2 Messaggio a Ivanka 2019-06-25.md
+26/06/2025  06:49             1.735 3 Messaggio a Jakov 2019-12-25.md
+12/06/2025  22:59             1.488 Messaggio alla Parrocchia-Marija 2019-01-25.md
+12/06/2025  22:59             1.195 Messaggio alla Parrocchia-Marija 2019-02-25.md
+12/06/2025  23:00             1.384 Messaggio alla Parrocchia-Marija 2019-03-25.md
+12/06/2025  23:00             1.377 Messaggio alla Parrocchia-Marija 2019-04-25.md
+12/06/2025  23:00             1.304 Messaggio alla Parrocchia-Marija 2019-05-25.md
+12/06/2025  23:00             1.302 Messaggio alla Parrocchia-Marija 2019-06-25.md
+12/06/2025  23:01             1.227 Messaggio alla Parrocchia-Marija 2019-07-25.md
+12/06/2025  23:01             1.281 Messaggio alla Parrocchia-Marija 2019-08-25.md
+12/06/2025  23:01             1.534 Messaggio alla Parrocchia-Marija 2019-09-25.md
+12/06/2025  23:02             1.250 Messaggio alla Parrocchia-Marija 2019-10-25.md
+12/06/2025  23:02             1.406 Messaggio alla Parrocchia-Marija 2019-11-25.md
+12/06/2025  23:02             1.207 Messaggio alla Parrocchia-Marija 2019-12-25.md
+02/07/2025  21:35                 0 ElencoFileContenuti.txt
+              16 File         20.395 byte
+               2 Directory  67.788.812.800 byte disponibili

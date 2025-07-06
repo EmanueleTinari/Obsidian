@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 veggente: "[[1 6 info Marija|Marija]]"
 tipo-nota: bio
 giorno-nascita: 01

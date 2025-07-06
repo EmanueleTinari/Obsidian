@@ -1,13 +1,13 @@
-<!--  (!= this.file.name) esclude questo stesso file dalla lista -->
-```dataview 
+<!-- (!= this.file.name) esclude questo stesso file dalla lista -->
+```dataview
 TABLE WITHOUT ID
 	autore-doc AS Autore,
-	data-doc AS Data,
+	dateformat(data-doc, "dd-MM-yyyy")	AS Data,
 	titolo-doc AS Titolo,
 	link(file.name) AS File
 FROM
 	"Documenti vari"
-WHERE 
+WHERE
 	file.name != this.file.name
 SORT data-doc ASC
 ```

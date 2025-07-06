@@ -58,7 +58,7 @@ const useHighlight = true
 // All tags sort by name
 const allTags = Object.keys(app.metadataCache.getTags())
   .sort((a, b) => a.localeCompare(b))
-  
+ 
 const tagCount = allTags.length
 // Define how many tag in each paragraph
 const eachParagraph = 80
@@ -72,7 +72,7 @@ for (let i = 0; i <= paragraphs; i++) {
   if (end > tagCount) end = tagCount - 1
   if (start < tagCount) {
     if (useHighlight) {
-      dv.paragraph(`==${allTags[start].substring(1) } – ${ allTags[end].substring(1) }==: `  + allTags.slice(start, end).join(", "))  
+      dv.paragraph(`==${allTags[start].substring(1) } – ${ allTags[end].substring(1) }==: `  + allTags.slice(start, end).join(", ")) 
     } else  {
       dv.header(4, `${allTags[start].substring(1) } – ${ allTags[end].substring(1) }`)
       dv.paragraph(allTags.slice(start, end).join(", "))
@@ -100,7 +100,7 @@ const useHighlight = true
 // All tags sort by name
 const allTags = Object.keys(app.metadataCache.getTags())
   .sort((a, b) => a.localeCompare(b))
-  
+ 
 const tagCount = allTags.length
 // Define how many tag in each paragraph
 const eachParagraph = 80
@@ -114,7 +114,7 @@ for (let i = 0; i <= paragraphs; i++) {
   if (end > tagCount) end = tagCount - 1
   if (start < tagCount) {
     if (useHighlight) {
-      dv.paragraph(`==${allTags[start].substring(1) } – ${ allTags[end].substring(1) }==: `  + allTags.slice(start, end).join(", "))  
+      dv.paragraph(`==${allTags[start].substring(1) } – ${ allTags[end].substring(1) }==: `  + allTags.slice(start, end).join(", ")) 
     } else  {
       dv.header(4, `${allTags[start].substring(1) } – ${ allTags[end].substring(1) }`)
       dv.paragraph(allTags.slice(start, end).join(", "))

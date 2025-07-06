@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 veggente: Vicka
 tipo-nota: bio
 giorno-nascita: 03

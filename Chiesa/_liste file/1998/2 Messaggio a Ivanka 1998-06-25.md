@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 destinatario: Mondo
 veggente: Ivanka
 tipo-mess: annuale

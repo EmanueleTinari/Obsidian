@@ -1,7 +1,7 @@
 ---
 cssclasses: bibbia
-tipo-doc: "[[Bibbia|Bibbia]]"
-titolo-doc: Indice-generale de La Sacra Bibbia C.E.I. 1974
+tipo-doc: Bibbia
+titolo-doc: Indice generale de La Sacra Bibbia
 lingua-doc: Italiano
 stato: Sono presenti solo i link dei capitoli inseriti.
 completato: false
@@ -12,26 +12,26 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 ---
 > [!info]- LA SACRA BIBBIA - Indice
 >
->> [!indice-generale]- Antico Testamento  
+>> [!indice-generale]- Antico Testamento 
 >>
 >>> [!indice-generale]- Il Pentateuco
 >>>
 >>>> [!indice-generale]- [[Genesi|Il libro della Genesi]]
 >>>>
 >>>>> [!indice-generale]- [[CEI 74 Genesi|Versione C.E.I. 1974]]
->>>>> <span class="verde">Capitolo:</span><br><br>
+>>>>> <span class="verde">Capitolo:</span><br><br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 01|01]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 02|02]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 03|03]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 04|04]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 05|05]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 06|06]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 07|07]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 08|08]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 09|09]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 10|10]]<br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 11|11]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 12|12]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 13|13]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 14|14]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 15|15]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 16|16]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 17|17]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 18|18]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 19|19]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 20|20]]<br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 21|21]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 22|22]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 23|23]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 24|24]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 25|25]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 26|26]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 27|27]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 28|28]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 29|29]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 30|30]]<br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 31|31]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 32|32]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 33|33]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 34|34]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 35|35]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 36|36]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 37|37]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 38|38]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 39|39]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 40|40]]<br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 41|41]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 42|42]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 43|43]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 44|44]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 45|45]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 46|46]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 47|47]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 48|48]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 49|49]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 50|50]]
 >>>>
 >>>>> [!indice-generale]- [[CEI 08 Genesi|Versione C.E.I. 2008]]
->>>>> <span class="verde">Capitolo:</span><br><br>
+>>>>> <span class="verde">Capitolo:</span><br><br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 01|01]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 02|02]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 03|03]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 04|04]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 05|05]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 06|06]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 07|07]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 08|08]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 09|09]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 10|10]]<br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 11|11]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 12|12]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 13|13]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 14|14]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 15|15]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 16|16]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 17|17]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 18|18]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 19|19]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 20|20]]<br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 21|21]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 22|22]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 23|23]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 24|24]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 25|25]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 26|26]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 27|27]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 28|28]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 29|29]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 30|30]]<br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 31|31]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 32|32]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 33|33]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 34|34]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 35|35]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 36|36]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 37|37]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 38|38]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 39|39]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 40|40]]<br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 41|41]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 42|42]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 43|43]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 44|44]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 45|45]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 46|46]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 47|47]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 48|48]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 49|49]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 50|50]]
 >>>>
 >>>>> [!indice-generale]- [[NV Genesi|Versione Nova Vulgata]]
->>>>> <span class="verde">Capitolo:</span><br><br>
+>>>>> <span class="verde">Capitolo:</span><br><br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 01|01]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 02|02]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 03|03]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 04|04]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 05|05]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 06|06]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 07|07]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 08|08]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 09|09]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 10|10]]<br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 11|11]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 12|12]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 13|13]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 14|14]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 15|15]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 16|16]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 17|17]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 18|18]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 19|19]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 20|20]]<br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 21|21]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 22|22]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 23|23]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 24|24]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 25|25]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 26|26]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 27|27]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 28|28]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 29|29]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 30|30]]<br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 31|31]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 32|32]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 33|33]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 34|34]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 35|35]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 36|36]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 37|37]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 38|38]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 39|39]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 40|40]]<br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 41|41]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 42|42]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 43|43]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 44|44]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 45|45]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 46|46]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 47|47]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 48|48]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 49|49]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 50|50]]
 >>>>
->>>>> [!indice-generale]- [[VLSG Genesi|Versione Vulgata Latina]]
->>>>> <span class="verde">Capitolo:</span><br><br>
+>>>>> [!indice-generale]- [[VL Genesi|Versione Vulgata Latina]]
+>>>>> <span class="verde">Capitolo:</span><br><br>[[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|01]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 02|02]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 03|03]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 04|04]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 05|05]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 06|06]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 07|07]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 08|08]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 09|09]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 10|10]]<br>[[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 11|11]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 12|12]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 13|13]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 14|14]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 15|15]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 16|16]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 17|17]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 18|18]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 19|19]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 20|20]]<br>[[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 21|21]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 22|22]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 23|23]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 24|24]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 25|25]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 26|26]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 27|27]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 28|28]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 29|29]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 30|30]]<br>[[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 31|31]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 32|32]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 33|33]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 34|34]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 35|35]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 36|36]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 37|37]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 38|38]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 39|39]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 40|40]]<br>[[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 41|41]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 42|42]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 43|43]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 44|44]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 45|45]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 46|46]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 47|47]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 48|48]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 49|49]] -- [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|50]]
 >>>>
 >>>>> [!indice-generale]- [[INT Genesi|Versione Interconfessionale]]
->>>>> <span class="verde">Capitolo:</span><br><br>
+>>>>> <span class="verde">Capitolo:</span><br><br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 01|01]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 02|02]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 03|03]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 04|04]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 05|05]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 06|06]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 07|07]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 08|08]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 09|09]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 10|10]]<br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 11|11]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 12|12]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 13|13]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 14|14]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 15|15]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 16|16]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 17|17]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 18|18]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 19|19]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 20|20]]<br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 21|21]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 22|22]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 23|23]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 24|24]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 25|25]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 26|26]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 27|27]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 28|28]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 29|29]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 30|30]]<br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 31|31]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 32|32]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 33|33]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 34|34]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 35|35]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 36|36]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 37|37]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 38|38]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 39|39]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 40|40]]<br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 41|41]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 42|42]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 43|43]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 44|44]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 45|45]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 46|46]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 47|47]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 48|48]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 49|49]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 50|50]]
 >>>>
 >>>>> [!indice-generale]- [[MRT Genesi|Versione Martini]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
@@ -65,7 +65,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Esodo|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Esodo|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Esodo|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Esodo|Versione Interconfessionale]]
@@ -103,7 +103,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Levitico|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Levitico|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Levitico|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Levitico|Versione Interconfessionale]]
@@ -141,7 +141,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Numeri|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Numeri|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Numeri|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Numeri|Versione Interconfessionale]]
@@ -179,7 +179,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Deuteronomio|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Deuteronomio|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Deuteronomio|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Deuteronomio|Versione Interconfessionale]]
@@ -220,7 +220,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Giosuè|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Giosuè|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Giosuè|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Giosuè|Versione Interconfessionale]]
@@ -258,7 +258,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Giudici|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Giudici|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Giudici|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Giudici|Versione Interconfessionale]]
@@ -296,7 +296,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Rut|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Rut|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Rut|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Rut|Versione Interconfessionale]]
@@ -334,7 +334,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Samuele|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Samuele|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Samuele|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Samuele|Versione Interconfessionale]]
@@ -372,7 +372,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Samuele|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Samuele|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Samuele|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Samuele|Versione Interconfessionale]]
@@ -410,7 +410,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Re|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Re|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Re|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Re|Versione Interconfessionale]]
@@ -448,7 +448,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Re|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Re|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Re|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Re|Versione Interconfessionale]]
@@ -486,7 +486,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Cronache|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Cronache|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Cronache|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Cronache|Versione Interconfessionale]]
@@ -524,7 +524,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Cronache|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Cronache|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Cronache|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Cronache|Versione Interconfessionale]]
@@ -562,7 +562,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Esdra|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Esdra|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Esdra|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Esdra|Versione Interconfessionale]]
@@ -601,7 +601,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Neemia|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Neemia|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Neemia|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Neemia|Versione Interconfessionale]]
@@ -640,7 +640,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Tobia|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Tobia|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Tobia|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Tobia|Versione Interconfessionale]]
@@ -679,7 +679,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Giuditta|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Giuditta|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Giuditta|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Giuditta|Versione Interconfessionale]]
@@ -718,7 +718,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Ester|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Ester|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Ester|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Ester|Versione Interconfessionale]]
@@ -757,7 +757,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Maccabei|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Maccabei|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Maccabei|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Maccabei|Versione Interconfessionale]]
@@ -796,7 +796,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Maccabei|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Maccabei|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Maccabei|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Maccabei|Versione Interconfessionale]]
@@ -837,7 +837,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Giobbe|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Giobbe|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Giobbe|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Giobbe|Versione Interconfessionale]]
@@ -876,7 +876,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Salmi|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Salmi|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Salmi|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Salmi|Versione Interconfessionale]]
@@ -915,7 +915,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Proverbi|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Proverbi|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Proverbi|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Proverbi|Versione Interconfessionale]]
@@ -954,7 +954,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Qoelet|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Qoelet|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Qoelet|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Qoelet|Versione Interconfessionale]]
@@ -993,7 +993,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Cantico|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Cantico|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Cantico|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Cantico|Versione Interconfessionale]]
@@ -1032,7 +1032,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Sapienza|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Sapienza|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Sapienza|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Sapienza|Versione Interconfessionale]]
@@ -1071,7 +1071,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Siracide|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Siracide|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Siracide|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Siracide|Versione Interconfessionale]]
@@ -1112,7 +1112,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Isaia|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Isaia|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Isaia|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Isaia|Versione Interconfessionale]]
@@ -1150,7 +1150,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Geremia|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Geremia|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Geremia|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Geremia|Versione Interconfessionale]]
@@ -1188,7 +1188,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Lamentazioni|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Lamentazioni|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Lamentazioni|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Lamentazioni|Versione Interconfessionale]]
@@ -1226,7 +1226,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Baruc|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Baruc|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Baruc|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Baruc|Versione Interconfessionale]]
@@ -1264,7 +1264,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Ezechiele|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Ezechiele|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Ezechiele|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Ezechiele|Versione Interconfessionale]]
@@ -1302,7 +1302,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Daniele|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Daniele|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Daniele|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Daniele|Versione Interconfessionale]]
@@ -1343,7 +1343,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Osea|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Osea|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Osea|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Osea|Versione Interconfessionale]]
@@ -1381,7 +1381,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Gioele|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Gioele|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Gioele|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Gioele|Versione Interconfessionale]]
@@ -1419,7 +1419,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Amos|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Amos|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Amos|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Amos|Versione Interconfessionale]]
@@ -1457,7 +1457,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Abdia|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Abdia|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Abdia|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Abdia|Versione Interconfessionale]]
@@ -1495,7 +1495,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Giona|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Giona|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Giona|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Giona|Versione Interconfessionale]]
@@ -1533,7 +1533,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Michea|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Michea|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Michea|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Michea|Versione Interconfessionale]]
@@ -1571,7 +1571,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Naum|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Naum|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Naum|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Naum|Versione Interconfessionale]]
@@ -1609,7 +1609,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Abacuc|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Abacuc|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Abacuc|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Abacuc|Versione Interconfessionale]]
@@ -1647,7 +1647,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Sofonia|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Sofonia|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Sofonia|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Sofonia|Versione Interconfessionale]]
@@ -1685,7 +1685,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Aggeo|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Aggeo|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Aggeo|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Aggeo|Versione Interconfessionale]]
@@ -1723,7 +1723,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Zaccaria|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Zaccaria|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Zaccaria|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Zaccaria|Versione Interconfessionale]]
@@ -1761,7 +1761,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Malachia|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Malachia|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Malachia|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Malachia|Versione Interconfessionale]]
@@ -1790,7 +1790,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>
 >>
 >
->> [!indice-generale]- Nuovo Testamento  
+>> [!indice-generale]- Nuovo Testamento 
 >>
 >>> [!indice-generale]- I Vangeli
 >>>
@@ -1805,7 +1805,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Matteo|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>[[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|01]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02|02]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03|03]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04|04]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05|05]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06|06]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 07|07]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 08|08]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09|09]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10|10]]<br>[[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 11|11]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12|12]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13|13]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 14|14]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 15|15]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 16|16]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17|17]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18|18]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 19|19]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 20|20]]<br>[[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21|21]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 22|22]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 23|23]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24|24]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 25|25]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26|26]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 27|27]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|28]]
 >>>>
->>>>> [!indice-generale]- [[VLSG Matteo|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Matteo|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Matteo|Versione Interconfessionale]]
@@ -1843,7 +1843,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Marco|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Marco|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Marco|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Marco|Versione Interconfessionale]]
@@ -1881,7 +1881,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Luca|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Luca|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Luca|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Luca|Versione Interconfessionale]]
@@ -1919,7 +1919,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Giovanni|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Giovanni|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Giovanni|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Giovanni|Versione Interconfessionale]]
@@ -1960,7 +1960,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Atti|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Atti|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Atti|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Atti|Versione Interconfessionale]]
@@ -2001,7 +2001,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Romani|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Romani|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Romani|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Romani|Versione Interconfessionale]]
@@ -2040,7 +2040,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Corinzi|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Corinzi|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Corinzi|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Corinzi|Versione Interconfessionale]]
@@ -2079,7 +2079,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Corinzi|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Corinzi|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Corinzi|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Corinzi|Versione Interconfessionale]]
@@ -2118,7 +2118,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Galati|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Galati|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Galati|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Galati|Versione Interconfessionale]]
@@ -2157,7 +2157,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Efesini|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Efesini|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Efesini|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Efesini|Versione Interconfessionale]]
@@ -2196,7 +2196,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Filippesi|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Filippesi|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Filippesi|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Filippesi|Versione Interconfessionale]]
@@ -2235,7 +2235,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Colossesi|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Colossesi|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Colossesi|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Colossesi|Versione Interconfessionale]]
@@ -2274,7 +2274,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Tessalonicesi|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Tessalonicesi|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Tessalonicesi|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Tessalonicesi|Versione Interconfessionale]]
@@ -2313,7 +2313,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Tessalonicesi|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Tessalonicesi|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Tessalonicesi|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Tessalonicesi|Versione Interconfessionale]]
@@ -2352,7 +2352,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Timoteo|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Timoteo|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Timoteo|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Timoteo|Versione Interconfessionale]]
@@ -2391,7 +2391,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Timoteo|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Timoteo|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Timoteo|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Timoteo|Versione Interconfessionale]]
@@ -2430,7 +2430,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Tito|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Tito|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Tito|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Tito|Versione Interconfessionale]]
@@ -2469,7 +2469,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Filemone|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Filemone|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Filemone|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Filemone|Versione Interconfessionale]]
@@ -2510,7 +2510,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Ebrei|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Ebrei|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Ebrei|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Ebrei|Versione Interconfessionale]]
@@ -2548,7 +2548,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Giacomo|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Giacomo|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Giacomo|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Giacomo|Versione Interconfessionale]]
@@ -2586,7 +2586,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Pietro|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Pietro|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Pietro|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Pietro|Versione Interconfessionale]]
@@ -2624,7 +2624,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Pietro|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Pietro|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Pietro|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Pietro|Versione Interconfessionale]]
@@ -2662,7 +2662,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 1 Giovanni|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 1 Giovanni|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 1 Giovanni|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 1 Giovanni|Versione Interconfessionale]]
@@ -2700,7 +2700,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 2 Giovanni|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 2 Giovanni|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 2 Giovanni|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 2 Giovanni|Versione Interconfessionale]]
@@ -2738,7 +2738,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV 3 Giovanni|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG 3 Giovanni|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL 3 Giovanni|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT 3 Giovanni|Versione Interconfessionale]]
@@ -2776,7 +2776,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Giuda|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Giuda|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Giuda|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Giuda|Versione Interconfessionale]]
@@ -2817,7 +2817,7 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 >>>>> [!indice-generale]- [[NV Apocalisse|Versione Nova Vulgata]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
->>>>> [!indice-generale]- [[VLSG Apocalisse|Versione Vulgata Latina]]
+>>>>> [!indice-generale]- [[VL Apocalisse|Versione Vulgata Latina]]
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>>> [!indice-generale]- [[INT Apocalisse|Versione Interconfessionale]]

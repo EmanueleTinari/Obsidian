@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - docVat
+cssclasses: docVat
 autore-doc: "[[Chiesa Cattolica Apostolica Romana]]"
 tipo-doc: "[[Altri documenti|Altri documenti]]"
 titolo-doc: Codice di Diritto Canonico
@@ -11,6 +10,7 @@ data-doc: 1983-11-27
 lingua-doc: Italiano
 lingua-orig: Latino
 titolo-lat: Codex Iuris Canonici
+stato: false
 aliases:
   - CIC
 tags:
@@ -32,7 +32,7 @@ del sommo pontefice `class: tipo-autorita`
 X `class: nome-autorita`
 
 
-X `class: titolo-documento`
+# X
 
 
 X. `class: incipit`

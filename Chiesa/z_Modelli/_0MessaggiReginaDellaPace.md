@@ -9,7 +9,7 @@ const excludedPrefix			= '_'
 var newFileName					= '';
 
 // Se si aggiungono destinatari ricordarsi di sistemare lo switch case nella PARTE DESTINATARIO MESSAGGIO
-const destinatari				= ['Parrocchia', 'Mondo'];
+const destinatari				= ['Parrocchia', 'Gruppo di preghiera', 'Mondo'];
 const txt_destinatarioMess		= 'destinatario: ';
 var destinatarioMess			= '';
 const veggenti					= ['Marija', 'Mirijana', 'Ivanka', 'Jakov', 'Vicka', 'Ivan'];
@@ -77,6 +77,12 @@ switch (selectedDestinatario) {
 	txt_Titolo_p2		= 'al mondo\<br\>';	
 	newFileName			= 'Messaggio al mondo';
 	break;
+
+	case "Gruppo di preghiera":
+	destinatarioMess	= txt_destinatarioMess + selectedDestinatario;
+	txt_Titolo_p2		= 'al gruppo di preghiera\<br\>';	
+	newFileName			= 'Messaggio al gruppo di preghiera';
+	break;
 	// Se variano i destinatari modificare lo switch case qui sopra
 }
 
@@ -125,7 +131,7 @@ switch (selectedVeggente) {
 
 // returns actual year
 var thisYear					= new Date().getFullYear()
- 
+
 // Ask for messagge day issue
 while (isDayMessCorrect) {
 	// wait for user input
@@ -264,7 +270,7 @@ while (isMonthMessCorrect) {
 	}
 }
 
-// Ask for messagge year issue (beetween 50 and this year + 1)
+// Ask for messagge year issue (beetween 1981 and this year + 1)
 while (isYearMessCorrect) {
 	// wait for user input
 	tmpYear = await tp.system.prompt('Inserire l\'anno del messaggio');
@@ -319,7 +325,7 @@ while (isYearMessCorrect) {
  		}
 	}
 }
- 
+
 if (dayMess){
 	if (monthMess){
 		if (yearMess){
@@ -374,7 +380,7 @@ switch (monthMess) {
 }
 
 								//
-								// PARTE CALLOUTS X LO SPOSTAMENTO TRA MESSAGGI E TRA GLI ANNI 
+								// PARTE CALLOUTS X LO SPOSTAMENTO TRA MESSAGGI E TRA GLI ANNI
 								//
 
 txt_Callout_p1 = '\> \[\!2colonne\]\- \[\[';
@@ -601,7 +607,7 @@ else {
 	// Handle no selection
 	linguaMess = '';
 }
-// SE LA VARIABILE linguaMess È VUOTA, INSERISCE UN MESSAGGIO NEL CAMPO YALM CHE SBALLA LA SUA VISUALIZZAZIONE 
+// SE LA VARIABILE linguaMess È VUOTA, INSERISCE UN MESSAGGIO NEL CAMPO YALM CHE SBALLA LA SUA VISUALIZZAZIONE
 if (linguaMess === ''){
 	linguaMess = txt_linguaMessaggio + '@ ATTENZIONE !!! Manca la lingua del messaggio, inserirla successivamente!!!'
 }
@@ -649,7 +655,7 @@ else {
 	// Handle no selection
 	linguaOrig = '';
 }
-// SE LA VARIABILE linguaOrig È VUOTA, INSERISCE UN MESSAGGIO NEL CAMPO YALM CHE SBALLA LA SUA VISUALIZZAZIONE 
+// SE LA VARIABILE linguaOrig È VUOTA, INSERISCE UN MESSAGGIO NEL CAMPO YALM CHE SBALLA LA SUA VISUALIZZAZIONE
 if (linguaOrig === ''){
 	linguaOrig = txt_linguaOrigMessaggio + '@ ATTENZIONE !!! Manca la lingua originale del messaggio, inserirla successivamente!!!'
 }
@@ -686,7 +692,7 @@ const domandaInserimentoUrlMessaggio = "Vuoi inserire l'Indirizzo Internet (URL)
 const sceltaInserimentoUrlMessaggio = await tp.system.suggester(['Si', 'No', 'Esci'],['Si', 'No', 'Esci'], false, domandaInserimentoUrlMessaggio);
 	if ( sceltaInserimentoUrlMessaggio === "Si") {
 		tmpUrlMessaggio = await tp.system.prompt('Incollare o inserire l\'indirizzo Internet del messaggio.');
-		urlMessaggio_p2 = tmpUrlMessaggio; 
+		urlMessaggio_p2 = tmpUrlMessaggio;
 		urlMessaggio = urlMessaggio_p1 + urlMessaggio_p2 + urlMessaggio_p3;
 	}
 	else if ( sceltaInserimentoUrlMessaggio === "No" ) {
@@ -812,10 +818,11 @@ else {
 	testoMess = tmpMess_1;
  }
 
-newFileName = newFileName + '-' + selectedVeggente + ' ' + dateMess;
+var tmpFileName = dateMess + ' - ' + newFileName + '-' + selectedVeggente;
+newFileName = tmpFileName;
 let nomeFile = await tp.file.title;
 if (nomeFile.startsWith("Untitled")) {
-	await tp.file.rename(newFileName) 
+	await tp.file.rename(newFileName)
 console.log('File rinominato, contenuto var newFileName : ' + newFileName);
 }
 else {

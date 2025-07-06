@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 veggente: Ivanka
 tipo-nota: bio
 giorno-nascita: 21

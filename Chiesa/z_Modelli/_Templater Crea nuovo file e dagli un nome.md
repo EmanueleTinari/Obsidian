@@ -42,10 +42,10 @@ console.log("const NewFileName(3): " + NewFileName);
 
 const folders = this.app.vault.getAllLoadedFiles().filter(i => i.children).map(folder => folder.path);
 const folder = await tp.system.suggester(folders, folders);
-console.log("const folder(4): " + folder); 
+console.log("const folder(4): " + folder);
 
 const template = tp.file.find_tfile("Template_BOLLA").basename;
-console.log("const template(5): " + template); 
+console.log("const template(5): " + template);
 
 await tp.file.create_new(template, NewFileName, true, folder).basename;
 //console.log("4");

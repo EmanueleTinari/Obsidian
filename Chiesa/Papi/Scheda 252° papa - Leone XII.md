@@ -1,11 +1,10 @@
 ---
-cssclasses:
- - docVat
-titolo-doc: "[[Scheda 252° papa - Leone XII|Scheda papa Leone XII]]"
-tipo-doc: "[[Scheda 252° papa - Leone XII|Scheda papa ]]"
+cssclasses: docVat
+titolo-doc: Scheda 252° papa - Leone XII
+tipo-doc: Scheda papa
 lingua-doc: Italiano
 papa-numero: 252
-nome-papa: "[[Scheda 252° papa - Leone XII|Papa Leone XII]]"
+nome-papa: Leone XII
 nome-secolare: Annibale Francesco Clemente Melchiorre Girolamo Nicola della Genga
 luogo-nascita: Monticelli di Genga, Fabriano (Ancona)
 giorno-nascita: 02
@@ -26,7 +25,7 @@ anno-fine: 1829
 fine-pontificato: 1829/02/10
 causa-morte: Decesso
 luogo-morte: Roma
-luogo-sepoltura: "[[Basilica di San Pietro (Città del vaticano)|San Pietro]]"
+luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 251° papa - Pio VII|Papa Pio VII]]"
 successore: "[[Scheda 253° papa - Pio VIII|Papa Pio VIII]]"
 aliases:
@@ -44,4 +43,5 @@ creato: 2025-05-22T14:50:37
 aggiornato: 2025-05-22T14:50:37
 ---
 
----
+***
+

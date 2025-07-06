@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 veggente: Ivanka
 tipo-mess: ultimo-quotidiano
 giorno-mess: 07
@@ -47,15 +46,15 @@ La sera del 6 maggio 1985 ebbero l'apparizione Ivan, Jakov e Ivanka.<br>L'appari
 [[2 Messaggio a Ivanka 2012-06-25|Messaggio annuale a Ivanka del 25 giugno 2012]]
 [[2 Messaggio a Ivanka 2013-06-25|Messaggio annuale a Ivanka del 25 giugno 2013]]
 [[2 Messaggio a Ivanka 2014-06-25|Messaggio annuale a Ivanka del 25 giugno 2014]]
-[[2 Messaggio a Ivanka 2015-06-25|Messaggio annuale a Ivanka del 25 giugno 2015]]
-[[2 Messaggio a Ivanka 2016-06-25|Messaggio annuale a Ivanka del 25 giugno 2016]]
-[[2 Messaggio a Ivanka 2017-06-25|Messaggio annuale a Ivanka del 25 giugno 2017]]
-[[2 Messaggio a Ivanka 2018-06-25|Messaggio annuale a Ivanka del 25 giugno 2018]]
-[[2 Messaggio a Ivanka 2019-06-25|Messaggio annuale a Ivanka del 25 giugno 2019]]
-[[2 Messaggio a Ivanka 2020-06-25|Messaggio annuale a Ivanka del 25 giugno 2020]]
-[[2 Messaggio a Ivanka 2021-06-25|Messaggio annuale a Ivanka del 25 giugno 2021]]
-[[2 Messaggio a Ivanka 2022-06-25|Messaggio annuale a Ivanka del 25 giugno 2022]]
-[[2 Messaggio a Ivanka 2023-06-25|Messaggio annuale a Ivanka del 25 giugno 2023]]
-[[2 Messaggio a Ivanka 2024-06-25|Messaggio annuale a Ivanka del 25 giugno 2024]]
+[[Messaggi/2015/2015-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2015]]
+[[Messaggi/2016/2016-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2016]]
+[[Messaggi/2017/2017-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2017]]
+[[Messaggi/2018/2018-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2018]]
+[[Messaggi/2019/2019-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2019]]
+[[Messaggi/2020/2020-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2020]]
+[[Messaggi/2021/2021-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2021]]
+[[Messaggi/2022/2022-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2022]]
+[[Messaggi/2023/2023-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2023]]
+[[Messaggi/2024/2024-06-25 - Messaggio annuale a Ivanka|Messaggio annuale a Ivanka del 25 giugno 2024]]
 [[2 Messaggio a Ivanka 2025-06-25|Messaggio annuale a Ivanka del 25 giugno 2025]]
 

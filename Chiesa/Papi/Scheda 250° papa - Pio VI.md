@@ -1,11 +1,10 @@
 ---
-cssclasses:
- - docVat
-titolo-doc: "[[Scheda 250° papa - Pio VI|Scheda papa Pio VI]]"
-tipo-doc: "[[Scheda 250° papa - Pio VI|Scheda papa ]]"
+cssclasses: docVat
+titolo-doc: Scheda 250° papa - Pio VI
+tipo-doc: Scheda papa
 lingua-doc: Italiano
 papa-numero: 250
-nome-papa: "[[Scheda 250° papa - Pio VI|Papa Pio VI]]"
+nome-papa: Pio VI
 nome-secolare: Giovanni Angelo Braschi
 luogo-nascita: Cesena
 giorno-nascita: 27
@@ -44,4 +43,5 @@ creato: 2025-05-22T14:50:19
 aggiornato: 2025-05-22T14:50:19
 ---
 
----
+***
+

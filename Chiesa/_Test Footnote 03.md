@@ -2,7 +2,7 @@
 ## Method 1
 The standard syntax for a footnote[^fn1] indicator in Markdown is ``[^fn1]``. The footnote resides in the same document as the primary text. You'll likely wish to put these at the end of the document. Preface each footnote with similar code, but with a terminal colon, e.g.:  ``[^fn1]:``
 
-In Read mode[^fn3], these placeholders will be replaced with sequential numbers from 1, no matter what numbers you actually use. This makes it impossible to have numbering continue from one document to the next. 
+In Read mode[^fn3], these placeholders will be replaced with sequential numbers from 1, no matter what numbers you actually use. This makes it impossible to have numbering continue from one document to the next.
 
 ## Method 2
 However, there are other methods one can use in Obsidian, thanks to extended syntax that goes beyond standard Markdown. For example, one can link to a footnote [\[1\]](Footnotes#^fn-footnote) in a document using a block ID with this code: ``[\[1\]](Footnotes#^fn-footnote)``
@@ -17,5 +17,5 @@ Well, almost. Oddly, I can't get a superscript to work[\[^1\]](Footnotes#^fn-foo
 ![[Footnotes#^fn-transclusion]]
 
 ### Footnotes
-[^fn1]: This is a standard Markdown footnote. 
+[^fn1]: This is a standard Markdown footnote.
 [^fn3]: And this is another content-free footnote.

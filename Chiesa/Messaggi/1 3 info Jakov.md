@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 veggente: Jakov
 tipo-nota: bio
 giorno-nascita: 06

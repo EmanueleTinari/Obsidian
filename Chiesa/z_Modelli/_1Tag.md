@@ -5,6 +5,7 @@
 const folderPath = "Documenti";
 // Replace with the folder to exclude
 const excludeFolder = "_";
+const exclude = "_";
 const dv = app.plugins.plugins.dataview.api;
 const allTags = Object.entries(app.metadataCache.getTags() )
 

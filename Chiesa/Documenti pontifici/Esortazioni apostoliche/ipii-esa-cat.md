@@ -20,11 +20,12 @@ url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va
 creato: 2025-06-15T08:20:29
 aggiornato: 2025-06-15T14:56:10
 ---
----
+
+***
 
 Esortazione Apostolica `class: tipo-documento`
 
-# Catechesi Tradendae `class: titolo-documento`
+# Catechesi Tradendae
 
 di sua Santità `class: tipo-autorita`
 
@@ -206,7 +207,7 @@ Essendo la catechesi un momento o un aspetto dell'evangelizzazione, il suo conte
 
 ###### 27
 
-La catechesi attingerà sempre il suo contenuto alla fonte viva della parola di Dio, trasmessa nella tradizione e nella Scrittura, giacchè «la sacra tradizione e la sacra scrittura costituiscono l'unico deposito inviolabile della parola di Dio, affidato alla chiesa», come ha ricordato il concilio Vaticano II, il quale ha auspicato che «il ministero della parola, cioè la predicazione pastorale, la catechesi e ogni tipo d'istruzione cristiana... abbia nella stessa parola della Scrittura il suo salutare nutrimento e il suo santo rigoglio».<br><br>Parlare della tradizione e della Scrittura come di fonte della catechesi vuol dire sottolineare che quest'ultima deve imbeversi e permearsi del pensiero, dello spirito e degli atteggiamenti biblici ed evangelici mediante un contatto assiduo con i testi medesimi; ma vuol dire, altresì, ricordare che la catechesi sarà tanto più ricca ed efficace, quanto più leggerà i testi con l'intelligenza ed il cuore della chiesa, e quanto più s'ispirerà alla riflessione ed alla vita bimillenaria della chiesa stessa.<br><br>L'insegnamento, la liturgia e la vita della chiesa scaturiscono da questa fonte e ad essa riportano sotto la guida dei pastori e, segnatamente, del magistero dottrinale che il Signore ha loro affidato. `class: paragrafo-normale`
+La catechesi attingerà sempre il suo contenuto alla fonte viva della parola di Dio, trasmessa nella tradizione e nella Scrittura, giacchè «la sacra tradizione e la sacra scrittura costituiscono l'unico deposito inviolabile della parola di Dio, affidato alla chiesa», come ha ricordato il Concilio Ecumenico Vaticano II, il quale ha auspicato che «il ministero della parola, cioè la predicazione pastorale, la catechesi e ogni tipo d'istruzione cristiana... abbia nella stessa parola della Scrittura il suo salutare nutrimento e il suo santo rigoglio».<br><br>Parlare della tradizione e della Scrittura come di fonte della catechesi vuol dire sottolineare che quest'ultima deve imbeversi e permearsi del pensiero, dello spirito e degli atteggiamenti biblici ed evangelici mediante un contatto assiduo con i testi medesimi; ma vuol dire, altresì, ricordare che la catechesi sarà tanto più ricca ed efficace, quanto più leggerà i testi con l'intelligenza ed il cuore della chiesa, e quanto più s'ispirerà alla riflessione ed alla vita bimillenaria della chiesa stessa.<br><br>L'insegnamento, la liturgia e la vita della chiesa scaturiscono da questa fonte e ad essa riportano sotto la guida dei pastori e, segnatamente, del magistero dottrinale che il Signore ha loro affidato. `class: paragrafo-normale`
 
 #### Il Credo, espressione dottrinale privilegiata
 
@@ -502,9 +503,11 @@ Al termine di questa esortazione apostolica, lo sguardo del cuore si volge verso
 
 ###### 73
 
-Che la Vergine della pentecoste ci ottenga tutto questo con la sua intercessione! Per una vocazione singolare, ella vide il Figlio Gesù «crescere in sapienza, età e grazia».<br>Sulle sue ginocchia e poi ascoltandola, nel corso della vita nascosta di Nazaret, questo Figlio, che era l'Unigenito del Padre pieno di grazia e di verità, fu da lei formato alla conoscenza umana delle Scritture e della storia del disegno di Dio sul suo popolo, nell'adorazione del Padre.<br>Ella è stata, d'altra parte, la prima dei suoi discepoli: prima nel tempo, perché già ritrovandolo nel tempio ella riceve dal figlio adolescente lezioni, che conserva nel cuore; la prima soprattutto, perché nessuno fu mai «ammaestrato da Dio» ad un grado simile di profondità.<br>Madre e discepola al tempo stesso, diceva di lei sant'Agostino, aggiungendo arditamente che l'esser discepola fu per lei più importante che l'esser madre.<br>Non è senza ragione che nell'aula sinodale fu detto di Maria che è «un catechismo vivente», «madre e modello dei catechisti».<br><br>Possa, dunque, la presenza dello Spirito santo, grazie alle preghiere di Maria, concedere alla chiesa uno slancio senza precedenti nell'opera catechetica, che ad essa è essenziale! La chiesa allora adempirà efficacemente, questo tempo di grazia, la missione inalienabile ed universale ricevuta dal suo Maestro: «Andate... e ammaestrate tutte le nazioni».<br><br>Con la mia apostolica benedizione. `class: paragrafo-normale`
+Che la Vergine della pentecoste ci ottenga tutto questo con la sua intercessione! Per una vocazione singolare, ella vide il Figlio Gesù «crescere in sapienza, età e grazia».<br>Sulle sue ginocchia e poi ascoltandola, nel corso della vita nascosta di Nazaret, questo Figlio, che era l'Unigenito del Padre pieno di grazia e di verità, fu da lei formato alla conoscenza umana delle Scritture e della storia del disegno di Dio sul suo popolo, nell'adorazione del Padre.<br>Ella è stata, d'altra parte, la prima dei suoi discepoli: prima nel tempo, perché già ritrovandolo nel tempio ella riceve dal figlio adolescente lezioni, che conserva nel cuore; la prima soprattutto, perché nessuno fu mai «ammaestrato da Dio» ad un grado simile di profondità.<br>Madre e discepola al tempo stesso, diceva di lei sant'Agostino, aggiungendo arditamente che l'esser discepola fu per lei più importante che l'esser madre.<br>Non è senza ragione che nell'aula sinodale fu detto di Maria che è «un catechismo vivente», «madre e modello dei catechisti».<br><br>Possa, dunque, la presenza dello Spirito santo, grazie alle preghiere di Maria, concedere alla chiesa uno slancio senza precedenti nell'opera catechetica, che ad essa è essenziale! La chiesa allora adempirà efficacemente, questo tempo di grazia, la missione inalienabile ed universale ricevuta dal suo Maestro: «Andate... e ammaestrate tutte le nazioni».<br><br>Con la mia apostolica benedizione.<br> `class: paragrafo-normale`
+
 
 Dato a Roma, presso san Pietro, 16 ottobre dell'anno 1979, secondo di Pontificato. `class: data-luogo`
+
 
 Giovanni Paolo II `class: firma-centro`
 
@@ -513,9 +516,3 @@ Giovanni Paolo II `class: firma-centro`
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
 
-
-
-
-
-
-. 

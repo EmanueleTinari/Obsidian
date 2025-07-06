@@ -20,7 +20,7 @@ const languages = [
 	"yaml",
 	"markdown",
 	"plaintext"];
-// Sort the Array  
+// Sort the Array 
 languages.sort();	
 const language = await tp.system.suggester(languages, languages);
 if (!language) return "";

@@ -8,11 +8,11 @@ aggiornato: 2025-05-11T01:24:45
 const listProp = Object.getOwnPropertyNames
 
 // Get frontmatter from every page having one
-const allMatter = 
+const allMatter =
   dv.pages()
     .where(p => listProp(p.file.frontmatter).length > 0)
     .file.frontmatter
-    
+   
 // Loop all of the frontmatter, and count all fields
 let fieldList = {}
 for (let frontmatter of allMatter) {
@@ -38,7 +38,7 @@ for (let key in fieldList) {
 fieldCounts = fieldCounts.sort((a, b) => a[1] - b[1])
 // console.log(fieldCounts)
 
-// Present the final table of all fields found in 
+// Present the final table of all fields found in
 // frontmatter, with the most frequently used fields
 // at the end of the table
 dv.table(["name", "count"],

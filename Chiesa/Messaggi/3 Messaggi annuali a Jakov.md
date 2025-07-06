@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - messaggio
+cssclasses: messaggio
 veggente: Jakov
 tipo-mess: ultimo-quotidiano
 giorno-mess: 12
@@ -44,14 +43,14 @@ Durante il suo viaggio in America, da Miami, Jakov ci ha mandato il seguente tes
 [[3 Messaggio a Jakov 2012-12-25|Messaggio annuale a Jakov del 25 dicembre 2012]]
 [[3 Messaggio a Jakov 2013-12-25|Messaggio annuale a Jakov del 25 dicembre 2013]]
 [[3 Messaggio a Jakov 2014-12-25|Messaggio annuale a Jakov del 25 dicembre 2014]]
-[[3 Messaggio a Jakov 2015-12-25|Messaggio annuale a Jakov del 25 dicembre 2015]]
-[[3 Messaggio a Jakov 2016-12-25|Messaggio annuale a Jakov del 25 dicembre 2016]]
-[[3 Messaggio a Jakov 2017-12-25|Messaggio annuale a Jakov del 25 dicembre 2017]]
-[[3 Messaggio a Jakov 2018-12-25|Messaggio annuale a Jakov del 25 dicembre 2018]]
-[[3 Messaggio a Jakov 2019-12-25|Messaggio annuale a Jakov del 25 dicembre 2019]]
-[[3 Messaggio a Jakov 2020-12-25|Messaggio annuale a Jakov del 25 dicembre 2020]]
-[[3 Messaggio a Jakov 2021-12-25|Messaggio annuale a Jakov del 25 dicembre 2021]]
-[[3 Messaggio a Jakov 2022-12-25|Messaggio annuale a Jakov del 25 dicembre 2022]]
-[[3 Messaggio a Jakov 2023-12-25|Messaggio annuale a Jakov del 25 dicembre 2023]]
-[[3 Messaggio a Jakov 2024-12-25|Messaggio annuale a Jakov del 25 dicembre 2024]]
+[[Messaggi/2015/2015-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2015]]
+[[Messaggi/2016/2016-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2016]]
+[[Messaggi/2017/2017-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2017]]
+[[Messaggi/2018/2018-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2018]]
+[[Messaggi/2019/2019-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2019]]
+[[Messaggi/2020/2020-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2020]]
+[[Messaggi/2021/2021-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2021]]
+[[Messaggi/2022/2022-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2022]]
+[[Messaggi/2023/2023-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2023]]
+[[Messaggi/2024/2024-12-25 - Messaggio annuale a Jakov|Messaggio annuale a Jakov del 25 dicembre 2024]]
 

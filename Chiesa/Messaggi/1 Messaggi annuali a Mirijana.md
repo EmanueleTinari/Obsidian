@@ -1,7 +1,6 @@
 ---
-cssclasses:
-  - messaggio
-veggente: Mirijana
+cssclasses: messaggio
+veggente: "[[1 1 info Mirijana|Mirijana]]"
 tipo-mess: ultimo-quotidiano
 giorno-mess: 25
 mese-mess: 12
@@ -47,15 +46,15 @@ url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-med
 [[1 Messaggio a Mirijana 2012-03-18|Messaggio annuale a Mirijana del 18 marzo 2012]]
 [[1 Messaggio a Mirijana 2013-03-18|Messaggio annuale a Mirijana del 18 marzo 2013]]
 [[1 Messaggio a Mirijana 2014-03-18|Messaggio annuale a Mirijana del 18 marzo 2014]]
-[[1 Messaggio a Mirijana 2015-03-18|Messaggio annuale a Mirijana del 18 marzo 2015]]
-[[1 Messaggio a Mirijana 2016-03-18|Messaggio annuale a Mirijana del 18 marzo 2016]]
-[[1 Messaggio a Mirijana 2017-03-18|Messaggio annuale a Mirijana del 18 marzo 2017]]
-[[1 Messaggio a Mirijana 2018-03-18|Messaggio annuale a Mirijana del 18 marzo 2018]]
-[[1 Messaggio a Mirijana 2019-03-18|Messaggio annuale a Mirijana del 18 marzo 2019]]
-[[1 Messaggio a Mirijana 2020-03-18|Messaggio annuale a Mirijana del 18 marzo 2020]]
-[[1 Messaggio a Mirijana 2021-03-18|Messaggio annuale a Mirijana del 18 marzo 2021]]
-[[1 Messaggio a Mirijana 2022-03-18|Messaggio annuale a Mirijana del 18 marzo 2022]]
-[[1 Messaggio a Mirijana 2023-03-18|Messaggio annuale a Mirijana del 18 marzo 2023]]
-[[1 Messaggio a Mirijana 2024-03-18|Messaggio annuale a Mirijana del 18 marzo 2024]]
-[[1 Messaggio a Mirijana 2025-03-18|Messaggio annuale a Mirijana del 18 marzo 2025]]
+[[Messaggi/2015/2015-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2015]]
+[[Messaggi/2016/2016-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2016]]
+[[Messaggi/2017/2017-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2017]]
+[[Messaggi/2018/2018-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2018]]
+[[Messaggi/2019/2019-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2019]]
+[[Messaggi/2020/2020-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2020]]
+[[Messaggi/2021/2021-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2021]]
+[[Messaggi/2022/2022-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2022]]
+[[Messaggi/2023/2023-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2023]]
+[[Messaggi/2024/2024-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2024]]
+[[Messaggi/2025/2025-03-18 - Messaggio annuale a Mirijana|Messaggio annuale a Mirijana del 18 marzo 2025]]
 

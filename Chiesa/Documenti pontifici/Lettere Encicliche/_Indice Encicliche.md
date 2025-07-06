@@ -7,7 +7,7 @@ TABLE WITHOUT ID
 	link(file.name) AS File
 FROM
 	"Documenti pontifici/Lettere Encicliche"
-WHERE 
+WHERE
 	file.name != this.file.name
 SORT data-doc ASC
 ```

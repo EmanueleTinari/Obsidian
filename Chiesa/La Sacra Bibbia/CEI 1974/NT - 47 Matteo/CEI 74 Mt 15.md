@@ -30,11 +30,11 @@ completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/15/)"
 ---
-Versione C.E.I. 1974: 
+Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1 ]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 14| ← Matteo 14]] | Matteo 15 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 16|Matteo 16 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
 >>
->> Vulgata Latina di San Girolamo, [[La Sacra Bibbia/Vulgata Latina di San Girolamo/NT - 47 Matteo/VLSG Mt 15|Matthæus 15]]
+>> Vulgata Latina, [[La Sacra Bibbia/Vulgata Latina/NT - 47 Matteo/VL Mt 15|Matthæus 15]]
 >> Nova Vulgata, [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 15|Matthæus 15]]
 >> C.E.I 2008, [[La Sacra Bibbia/CEI 2008/NT - 47 Matteo/CEI 08 Mt 15|Matteo 15]]
 >> Interconfessionale, [[La Sacra Bibbia/Interconfessionale/NT - 47 Matteo/INT Mt 15|Matteo 15]]
@@ -87,7 +87,7 @@ Versione C.E.I. 1974:
 ###### 19
 <span class=vrs>19</span>Dal cuore, infatti, provengono i propositi malvagi, gli omicidi, gli adultèri, le prostituzioni, i furti, le false testimonianze, le bestemmie.
 ###### 20
-<span class=vrs>20</span>Queste sono le cose che rendono immondo l'uomo, ma il mangiare senza lavarsi le mani non rende immondo l'uomo". 
+<span class=vrs>20</span>Queste sono le cose che rendono immondo l'uomo, ma il mangiare senza lavarsi le mani non rende immondo l'uomo".
 ###### 21
 <span class=vrs>21</span>Partito di là, Gesù si diresse verso le parti di Tiro e Sidone.
 ###### 22
@@ -103,7 +103,7 @@ Versione C.E.I. 1974:
 ###### 27
 <span class=vrs>27</span>"È vero, Signore, disse la donna, ma anche i cagnolini si cibano delle briciole che cadono dalla tavola dei loro padroni".
 ###### 28
-<span class=vrs>28</span>Allora Gesù le replicò: "Donna, davvero grande è la tua fede! Ti sia fatto come desideri". E da quell'istante sua figlia fu guarita. 
+<span class=vrs>28</span>Allora Gesù le replicò: "Donna, davvero grande è la tua fede! Ti sia fatto come desideri". E da quell'istante sua figlia fu guarita.
 ###### 29
 <span class=vrs>29</span>Allontanatosi di là, Gesù giunse presso il mare di Galilea e, salito sul monte, si fermò là.
 ###### 30
