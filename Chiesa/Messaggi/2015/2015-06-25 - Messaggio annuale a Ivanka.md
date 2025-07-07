@@ -21,3 +21,5 @@ url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-med
 Ivanka ha avuto l’apparizione nella sua casa.<br>Era presente soltanto la sua famiglia.<br>Dopo di essa la veggente ha detto:<br>La Madonna ci ha dato la Sua benedizione materna e ha detto:
 ## Pace, pace, pace.
 
+***
+> [!4colonne]- [[Messaggi/2015/2015-06-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 giugno 2015 | [[Messaggi/2015/2015-07-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

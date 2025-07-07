@@ -3,16 +3,16 @@
 
 // Folder to start with to include
 const folderMess				= 'Messaggi';
-const generatedFile				= 'Untitled.md';
 // File prefix to exclude
 const excludedPrefix			= '_'
+const generatedFile				= 'Untitled.md';
 var newFileName					= '';
 
 // Se si aggiungono destinatari ricordarsi di sistemare lo switch case nella PARTE DESTINATARIO MESSAGGIO
 const destinatari				= ['Parrocchia', 'Gruppo di preghiera', 'Mondo'];
 const txt_destinatarioMess		= 'destinatario: ';
 var destinatarioMess			= '';
-const veggenti					= ['Marija', 'Mirijana', 'Ivanka', 'Jakov', 'Vicka', 'Ivan'];
+const veggenti					= ['Marija', 'Mirijana', 'Ivan', 'Jakov', 'Vicka', 'Ivanka'];
 const txt_Veggente				= 'veggente: ';
 var veggenteMessaggio			= '';
 var dayMess						= '';
@@ -24,12 +24,12 @@ var tmpYear						= '';
 let isDayMessCorrect			= true;
 let isMonthMessCorrect			= true;
 let isYearMessCorrect			= true;
-var dayPrevMess					= '';
-var monthPrevMess				= '';
-var yearPrevMess				= '';
-let isPreviousDayCorrect		= true;
-let isPreviousMonthCorrect		= true;
-let isPreviousYearCorrect		= true;
+//var dayPrevMess					= '';
+//var monthPrevMess				= '';
+//var yearPrevMess				= '';
+//let isPreviousDayCorrect		= true;
+//let isPreviousMonthCorrect		= true;
+//let isPreviousYearCorrect		= true;
 // Frontmatter Key lingua-mess
 const lmKey						= 'lingua-mess';
 const txt_linguaMessaggio		= 'lingua-mess: ';
@@ -38,7 +38,7 @@ var linguaMess					= '';
 const loKey						= 'lingua-orig';
 const txt_linguaOrigMessaggio	= 'lingua-orig: ';
 var linguaOrig					= '';
-const approvazioni				= ['true', 'false'];
+const approvazioni				= ['false', 'true'];
 const txt_approvazione			= 'approvazione: ';
 var approvazione				= '';
 const txt_licenzaNota			= 'licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/';
@@ -383,162 +383,162 @@ switch (monthMess) {
 								// PARTE CALLOUTS X LO SPOSTAMENTO TRA MESSAGGI E TRA GLI ANNI
 								//
 
-txt_Callout_p1 = '\> \[\!2colonne\]\- \[\[';
-console.log('var tmpDay: ' + tmpDay);
+//txt_Callout_p1 = '\> \[\!2colonne\]\- \[\[';
+//console.log('var tmpDay: ' + tmpDay);
 
 // Gestione del giorno del messaggio precedente
-while (isPreviousDayCorrect) {
+//while (isPreviousDayCorrect) {
 	// wait for user input
-	var tmpPrevDay = await tp.system.prompt('Inserire il giorno del messaggio precedente, premere Invio per accettare il valore proposto', tmpDay);
+	//var tmpPrevDay = await tp.system.prompt('Inserire il giorno del messaggio precedente, premere Invio per accettare il valore proposto', tmpDay);
 	// tmpPrevDay variable contains user answer
 	// check tmpPrevDay var value, this should be an integer number from 1 to 31
-	if ( tmpPrevDay === '' || !tmpPrevDay ) {
+	//if ( tmpPrevDay === '' || !tmpPrevDay ) {
 		// user not insert nothing
- 		var question = 'Il valore del giorno del messaggio precedente è vuoto. Vuoi ripeterne l\'inserimento, lasciare il campo vuoto o uscire?';
- 		var chose = await tp.system.suggester(['Ripeti la domanda di inserimento giorno del messaggio precedente', 'Lascia vuoto il campo', 'Esci'],['Ripeti la domanda di inserimento giorno del messaggio precedente', 'Lascia vuoto il campo', 'Esci'], false, question);
- 		if (chose === 'Ripeti la domanda di inserimento giorno del messaggio precedente')
-		{
- 		chose					= '';
-			question				= '';
-		}
-		else if (chose === 'Lascia vuoto il campo')
-		{
- 		dayPrevMess				= tmpDay;
-			chose					= '';
-			question				= '';
-			isPreviousDayCorrect	= false;
-		}
-		else if (chose === 'Esci')
-		{
- 		chose					= '';
-			question				= '';
-			isPreviousDayCorrect	= false;
-			return;
-		}
-	}
-	else if ( isNaN(tmpPrevDay) ) {
+ 		//var question = 'Il valore del giorno del messaggio precedente è vuoto. Vuoi ripeterne l\'inserimento, lasciare il campo vuoto o uscire?';
+ 		//var chose = await tp.system.suggester(['Ripeti la domanda di inserimento giorno del messaggio precedente', 'Lascia vuoto il campo', 'Esci'],['Ripeti la domanda di inserimento giorno del messaggio precedente', 'Lascia vuoto il campo', 'Esci'], false, question);
+ 		//if (chose === 'Ripeti la domanda di inserimento giorno del messaggio precedente')
+		//{
+ 		//chose					= '';
+			//question				= '';
+		//}
+		//else if (chose === 'Lascia vuoto il campo')
+		//{
+ 		//dayPrevMess				= tmpDay;
+			//chose					= '';
+			//question				= '';
+			//isPreviousDayCorrect	= false;
+		//}
+		//else if (chose === 'Esci')
+		//{
+ 		//chose					= '';
+			//question				= '';
+			//isPreviousDayCorrect	= false;
+			//return;
+		//}
+	//}
+	//else if ( isNaN(tmpPrevDay) ) {
 		// no it is NOT numeric
- 	}
-	else {
+ 	//}
+	//else {
 		// yes it is numeric
-		if ( tmpPrevDay % 1 === 0 ) {
+		//if ( tmpPrevDay % 1 === 0 ) {
 			// yes it's an integer
-			if ( tmpPrevDay >= 1 && tmpPrevDay <= 31 ) {
+			//if ( tmpPrevDay >= 1 && tmpPrevDay <= 31 ) {
 				// yes it's in range 1-31
-				if ( tmpPrevDay <= 9 ) {
+				//if ( tmpPrevDay <= 9 ) {
 					// if value in var start with one or more 0, remove it
-					while(tmpPrevDay.charAt(0) === '0') {
-						tmpPrevDay = tmpPrevDay.substring(1);
-					}
+					//while(tmpPrevDay.charAt(0) === '0') {
+						//tmpPrevDay = tmpPrevDay.substring(1);
+					//}
 					// yes is a number less or equal than 9
- 				dayPrevMess				= '0' + tmpPrevDay;
-					tmpDay					= '';
-					tmpPrevDay				= '';
-					isPreviousDayCorrect	= false;
-				}
-				else if ( tmpPrevDay >= 10 ) {
+ 				//dayPrevMess				= '0' + tmpPrevDay;
+					//tmpDay					= '';
+					//tmpPrevDay				= '';
+					//isPreviousDayCorrect	= false;
+				//}
+				//else if ( tmpPrevDay >= 10 ) {
 					// if value in var start with one or more 0, remove it
-					while(tmpPrevDay.charAt(0) === '0') {
-						tmpPrevDay = tmpPrevDay.substring(1);
-					}
+					//while(tmpPrevDay.charAt(0) === '0') {
+						//tmpPrevDay = tmpPrevDay.substring(1);
+					//}
 					// yes is a number more or equal than 10
- 				dayPrevMess				= tmpPrevDay;
-					tmpDay					= '';
-					tmpPrevDay				= '';
-					isPreviousDayCorrect	= false;
-				}
-			}
-			else {
+ 				//dayPrevMess				= tmpPrevDay;
+					//tmpDay					= '';
+					//tmpPrevDay				= '';
+					//isPreviousDayCorrect	= false;
+				//}
+			//}
+			//else {
 				// no it is NOT in range 1-31
- 			}
-		}
-		else {
+ 			//}
+		//}
+		//else {
 			// no it is NOT an integer
- 		}
-	}
-}
+ 		//}
+	//}
+//}
 
-console.log('Var dayPrevMess: ' + dayPrevMess);
-console.log('var tmpMonth: ' + tmpMonth);
-console.log('var tmpYear: ' + tmpYear);
-tmpMonth = (+(tmpMonth))-1
-console.log('var tmpMonth dopo la sottrazione: ' + tmpMonth);
+//console.log('Var dayPrevMess: ' + dayPrevMess);
+//console.log('var tmpMonth: ' + tmpMonth);
+//console.log('var tmpYear: ' + tmpYear);
+//tmpMonth = (+(tmpMonth))-1
+//console.log('var tmpMonth dopo la sottrazione: ' + tmpMonth);
 
 // Ask for messagge month issue
-while (isPreviousMonthCorrect) {
+//while (isPreviousMonthCorrect) {
 	// wait for user input
-	tmpPrevMonth = await tp.system.prompt('Inserire il mese del messaggio precedente, premere Invio per accettare il valore proposto', tmpMonth);
-console.log('Var tmpPrevMonth dopo il prompt: ' + tmpPrevMonth);
+	//tmpPrevMonth = await tp.system.prompt('Inserire il mese del messaggio precedente, premere Invio per accettare il valore proposto', tmpMonth);
+//console.log('Var tmpPrevMonth dopo il prompt: ' + tmpPrevMonth);
 	// tmpPrevMonth variable contains user answer
  	// check tmpPrevMonth var value, this should be an integer number from 1 to 12
-	if ( tmpPrevMonth === '' || !tmpPrevMonth ) {
+	//if ( tmpPrevMonth === '' || !tmpPrevMonth ) {
 		// user not insert nothing
- 		var question = 'Il valore del mese del messaggio precedente è vuoto. Vuoi ripeterne l\'inserimento, lasciare il campo vuoto o uscire?';
- 		var chose = await tp.system.suggester(['Ripeti la domanda di inserimento mese del messaggio precedente', 'Lascia vuoto il campo', 'Esci'],['Ripeti la domanda di inserimento mese', 'Lascia vuoto il campo', 'Esci'], false, question);
- 		if (chose === 'Ripeti la domanda di inserimento mese del messaggio precedente')
-		{
- 		chose					= '';
-			question				= '';
-		}
-		else if (chose === 'Lascia vuoto il campo')
-		{
- 		monthPrevMess			= tmpMonth;
-			chose					= '';
-			question				= '';
-			isPreviousMonthCorrect	= false;
-		}
-		else if (chose === 'Esci')
-		{
- 		chose					= '';
-			question				= '';
-			isPreviousMonthCorrect	= false;
-			return;
-		}
-	}
-	else if (isNaN(tmpPrevMonth)) {
+ 		//var question = 'Il valore del mese del messaggio precedente è vuoto. Vuoi ripeterne l\'inserimento, lasciare il campo vuoto o uscire?';
+ 		//var chose = await tp.system.suggester(['Ripeti la domanda di inserimento mese del messaggio precedente', 'Lascia vuoto il campo', 'Esci'],['Ripeti la domanda di inserimento mese', 'Lascia vuoto il campo', 'Esci'], false, question);
+ 		//if (chose === 'Ripeti la domanda di inserimento mese del messaggio precedente')
+		//{
+ 		//chose					= '';
+			//question				= '';
+		//}
+		//else if (chose === 'Lascia vuoto il campo')
+		//{
+ 		//monthPrevMess			= tmpMonth;
+			//chose					= '';
+			//question				= '';
+			//isPreviousMonthCorrect	= false;
+		//}
+		//else if (chose === 'Esci')
+		//{
+ 		//chose					= '';
+			//question				= '';
+			//isPreviousMonthCorrect	= false;
+			//return;
+		//}
+	//}
+	//else if (isNaN(tmpPrevMonth)) {
 		// no it is NOT numeric
- 	}
-	else {
-console.log('Var tmpPrevMonth dentro l\'else: ' + tmpPrevMonth);
+ 	//}
+	//else {
+//console.log('Var tmpPrevMonth dentro l\'else: ' + tmpPrevMonth);
 		// yes it is numeric
-		if ( tmpPrevMonth % 1 === 0 ) {
+		//if ( tmpPrevMonth % 1 === 0 ) {
 			// yes it's an integer
-console.log('Var tmpPrevMonth è un intero: ' + tmpPrevMonth);
-			if ( tmpPrevMonth >= 1 && tmpPrevMonth <= 12 ) {
-console.log('Var tmpPrevMonth è nel range 1-12: ' + tmpPrevMonth);
+//console.log('Var tmpPrevMonth è un intero: ' + tmpPrevMonth);
+			//if ( tmpPrevMonth >= 1 && tmpPrevMonth <= 12 ) {
+//console.log('Var tmpPrevMonth è nel range 1-12: ' + tmpPrevMonth);
 				// yes it's in range 1-12
-				if ( tmpPrevMonth <= 9 ) {
-console.log('Var tmpPrevMonth è inferiore o uguale a 9: ' + tmpPrevMonth);
+				//if ( tmpPrevMonth <= 9 ) {
+//console.log('Var tmpPrevMonth è inferiore o uguale a 9: ' + tmpPrevMonth);
 					// if value in var start with one or more 0, remove it
-					while(tmpPrevMonth.charAt(0) === '0') {
-						tmpPrevMonth = tmpPrevMonth.substring(1);
-					}
+					//while(tmpPrevMonth.charAt(0) === '0') {
+						//tmpPrevMonth = tmpPrevMonth.substring(1);
+					//}
 					// yes is a number less or equal than 9
- 				monthPrevMess			= '0' + tmpPrevMonth;
-					isPreviousMonthCorrect	= false;
-				}
-				else if ( tmpPrevMonth >= 10 ) {
-console.log('Var tmpPrevMonth è maggiore o uguale a 10: ' + tmpPrevMonth);
+ 				//monthPrevMess			= '0' + tmpPrevMonth;
+					//isPreviousMonthCorrect	= false;
+				//}
+				//else if ( tmpPrevMonth >= 10 ) {
+//console.log('Var tmpPrevMonth è maggiore o uguale a 10: ' + tmpPrevMonth);
 					// if value in var start with one or more 0, remove it
-					while(tmpPrevMonth.charAt(0) === '0') {
-						tmpPrevMonth = tmpPrevMonth.substring(1);
-					}
+					//while(tmpPrevMonth.charAt(0) === '0') {
+						//tmpPrevMonth = tmpPrevMonth.substring(1);
+					//}
 					// yes is a number more or equal than 10
- 				monthPrevMess			= tmpPrevMonth;
-					isPreviousMonthCorrect	= false;
-				}
-			}
-			else {
+ 				//monthPrevMess			= tmpPrevMonth;
+					//isPreviousMonthCorrect	= false;
+				//}
+			//}
+			//else {
 				// no it is NOT in range 1-12
- 			}
-		}
-		else {
+ 			//}
+		//}
+		//else {
 			// no it is NOT an integer
- 		}
-	}
-}
+ 		//}
+	//}
+//}
 
-console.log('Var monthPrevMess: ' + monthPrevMess);
+//console.log('Var monthPrevMess: ' + monthPrevMess);
 
 
 
@@ -592,17 +592,17 @@ if (selectedlinguaMessValue === 'Aggiungi una nuova lingua per il messaggio') {
 	const newlinguaMessValue = await tp.system.prompt('Inserisci una nuova lingua per il messaggio che si sta caricando:');
 	if (newlinguaMessValue) {
 		// Set the template result to the new value
-	    linguaMess = txt_linguaMessaggio + newlinguaMessValue;
+		linguaMess = txt_linguaMessaggio + newlinguaMessValue;
  	}
 	else {
 		// Handle cancellation
 		linguaMess = '';
-	  }
+	}
 }
 else if (selectedlinguaMessValue) {
 	// Set the template result to the selected value
 	linguaMess = txt_linguaMessaggio + selectedlinguaMessValue;
- }
+}
 else {
 	// Handle no selection
 	linguaMess = '';
@@ -833,8 +833,8 @@ if (!tp.file.path == folderMess) {
 	await tp.file.move("/folderMess/" + title)
 }
 
-// 10000 = 10 secondi
-const notice = new Notice("", 10000)
+// 5000 = 5 secondi
+const notice = new Notice("", 5000)
 notice.noticeEl.append(
   createEl("strong", { text: "Successo!\n", style: "color:red"}),
   "Nuovo messaggio caricato:\n" + newFileName,

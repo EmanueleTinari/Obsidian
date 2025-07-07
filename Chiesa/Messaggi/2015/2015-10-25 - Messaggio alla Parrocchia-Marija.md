@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>La mia preghiera anche oggi è per tutti voi, soprattutto per tutti coloro che sono diventati duri di cuore alla mia chiamata.<br>Vivete in giorni di grazia e non siete coscienti dei doni che Dio vi da attraverso la mia presenza.<br>Figlioli, decidetevi anche oggi per la santità e prendete l'esempio dei santi di questi tempi e vedrete che la santità è realtà per tutti voi.<br>Figlioli, gioite nell'amore perché agli occhi di Dio siete irripetibili e insostituibili perché siete la gioia di Dio in questo mondo.<br>Testimoniate la pace, la preghiera e l'amore.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2015/2015-10-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 ottobre 2015 | [[Messaggi/2015/2015-11-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

@@ -1,3 +1,4 @@
+
 ```
 ---
 creation_date: {{date:YYYY-MM-DD}}

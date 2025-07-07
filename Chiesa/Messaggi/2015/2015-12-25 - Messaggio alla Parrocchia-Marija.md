@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Anche oggi vi porto mio figlio Gesù tra le braccia e da esse vi do la Sua pace e la nostalgia del Cielo.<br>Prego con voi per la pace e vi invito ad essere pace.<br>Vi benedico tutti con la mia benedizione materna della pace.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2015/2015-12-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 dicembre 2015 | [[Messaggi/2015/2015-12-25 - Messaggio annuale a Jakov| Messaggio successivo → ]]
