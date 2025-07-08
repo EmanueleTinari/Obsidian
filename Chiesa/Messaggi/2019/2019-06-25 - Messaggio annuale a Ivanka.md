@@ -14,11 +14,15 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+creato: 31/05/2025 00:59:43
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Ivanka<br>il 25 giugno 2019
 
 Ivanka ha avuto l’apparizione nella sua casa.<br>Era presente soltanto la sua famiglia.<br>Dopo di essa la veggente ha detto:<br>La Madonna ha dato il seguente messaggio:
 ## Figlioli,<br>pregate, pregate, pregate.
+
 ***
+
 > [!4colonne]- [[Messaggi/2019/2019-06-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 giugno 2019 | [[Messaggi/2019/2019-07-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

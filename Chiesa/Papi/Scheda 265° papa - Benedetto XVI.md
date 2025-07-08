@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Sacre grotte vaticane (Città del Vaticano)|Grotte vaticane]
 predecessore: "[[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]]"
 successore: "[[Scheda 266° papa - Francesco|Francesco]]"
 aliases:
- - Papa Benedetto XVI
- - Benedetto XVI
- - Benedictus XVI
- - Benedictus PP. XVI
-tags:
- - Bio
- - Benedetto_XVI
- - Scheda
- - papa
+  - Papa Benedetto XVI
+  - Benedetto XVI
+  - Benedictus XVI
+  - Benedictus PP. XVI
+tags: [Bio, Benedetto_XVI, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 14:01:50
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:12:25
 ---
 
 ***
-

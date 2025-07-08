@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/17/)"
+creato: 27/05/2025 21:53:13
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1 ]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 16| ← Matteo 16]] | Matteo 17 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 18|Matteo 18 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 17|Matteo 17]]
 
 # Matteo 17
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Sei giorni dopo, Gesù prese con sé Pietro, Giacomo e Giovanni suo fratello e li condusse in disparte, su un alto monte.
 ###### 2
@@ -102,5 +107,7 @@ Versione C.E.I. 1974:
 <span class=vrs>26</span>Rispose: "Dagli estranei". E Gesù: "Quindi i figli sono esenti.
 ###### 27
 <span class=vrs>27</span>Ma perché non si scandalizzino, và al mare, getta l'amo e il primo pesce che viene prendilo, aprigli la bocca e vi troverai una moneta d'argento. Prendila e consegnala a loro per me e per te".
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 16| ← Matteo 16]] | Matteo 17 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 18|Matteo 18 →]]

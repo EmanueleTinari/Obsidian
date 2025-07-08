@@ -17,32 +17,20 @@ aliases:
   - Libro della Genesi 1
   - Genesi, capitolo 01
   - Genesi, capitolo 1
-  - Libro della Genesi 01
-  - Libro della Genesi 1
   - Genesis 01
   - Genesis 1
   - Liber Genesis 01
   - Liber Genesis 1
   - Gen 01
   - Gen 1
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_1
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1
-  - Antico_Testamento/Legge/Genesi/Capitolo_1
-  - Vecchio_Testamento/Legge/Genesi/Capitolo_1
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - La_Legge
-  - Legge
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_1
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_1, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1, Antico_Testamento/Legge/Genesi/Capitolo_1, Vecchio_Testamento/Legge/Genesi/Capitolo_1, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, La_Legge, Legge, Libro_della_Genesi, Genesi, Capitolo_1]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/INTERCONFESSIONALE/at/Gn/1/)"
+creato: 30/06/2025 13:13:20
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Interconfessionale:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Genesi| ← Genesi]] <span class="bianco">| Genesi 1 |</span> [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 02|Genesi 2 →]] | [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 50|Genesi 50 ⇥]] | [[La Sacra Bibbia/Interconfessionale/NT - 02 Esodo/INT Esodo|Esodo ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -60,7 +48,9 @@ Versione Interconfessionale:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 01|Genesi 1]]
 
 # Genesi 1
+
 ***
+
 ##### IN PRINCIPIO. Inno a Dio Creatore
 
 ###### 1
@@ -123,11 +113,13 @@ Versione Interconfessionale:
 <span class=vrs>30</span>Tutti gli animali selvatici,<br>tutti gli uccelli del cielo<br>e tutti gli altri viventi<br>che si muovono sulla terra<br>mangeranno l’erba tenera».<br>E così avvenne.
 ###### 31
 <span class=vrs>31</span>E Dio vide che tutto quel che aveva fatto<br>era davvero molto bello.<br>Venne la sera, poi venne il mattino:<br>sesto giorno.
+
 ***
+
 [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Genesi|Genesi]] | Genesi 1 | [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 02|Genesi 2 →]]
 
-
 ***
+
 RIFERIMENTI:
 
 > [!Quote]+ Sistemare i link quando saprò come referenziare i riferimenti col versetto.
@@ -221,8 +213,8 @@ RIFERIMENTI:
 > - Sir 39,33-35;
 > - 1 Tm 4,4.
 
-
 ***
+
 NOTE:
 
 [^ftn_int_gn1,1]: *In principio Dio creò*: altra traduzione possibile: **In principio quando Dio creò il cielo, il mondo era…**

@@ -4,8 +4,10 @@ titolo: Alleluia (di Lourdes)
 tempo:
   - Tempo di Pasqua
   - Tempo dopo Pentecoste
-licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-YouTube:  "[Link]()"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+YouTube: "[Link]()"
+creato: 08/07/2025 14:01:27
+modificato: 09/07/2025 00:09:20
 ---
 
 # Alleluia (di Lourdes)

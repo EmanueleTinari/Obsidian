@@ -29,19 +29,15 @@ aliases:
   - Iud 1
   - Jude 01
   - Jude 1
-tags:
-  - Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1
-  - Nuovo_Testamento
-  - Le_altre_Lettere_Cattoliche
-  - Lettera_di_San_Giuda_Apostolo
-  - Capitolo_1
-  - Lettera_di_San_Giuda
-  - Lettera_di_Giuda
+tags: [Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1, Nuovo_Testamento, Le_altre_Lettere_Cattoliche, Lettera_di_San_Giuda_Apostolo, Capitolo_1, Lettera_di_San_Giuda, Lettera_di_Giuda]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/INTERCONFESSIONALE/nt/Gd/1/)"
+creato: 28/06/2025 22:19:49
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Interconfessionale:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Interconfessionale/NT - 71 3 Giovanni/INT 3 Giovanni|↑ 3 Giovanni]] | [[La Sacra Bibbia/Interconfessionale/NT - 72 Giuda/INT Giuda| ← Giuda]] | Giuda 1 | [[La Sacra Bibbia/Interconfessionale/NT - 73 Apocalisse/INT Apocalisse|Apocalisse →]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione Interconfessionale:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV20 Gd 01|Giuda 1]]
 
 # Lettera di Giuda 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Io, Giuda, fratello di Giacomo e *servo di Gesù *Cristo, scrivo a voi che siete stati chiamati alla fede, amati da Dio Padre e custoditi da Gesù Cristo.
 ###### 2
@@ -113,5 +111,7 @@ Versione Interconfessionale:
 <span class=vrs>24</span>A colui che può sostenervi e può farvi stare senza difetti, pieni di gioia di fronte a lui e nella sua gloria;
 ###### 25
 <span class=vrs>25</span>a lui che è l’unico Dio e che ci salva, per mezzo di Gesù Cristo nostro Signore; a lui sia gloria, maestà, forza e potenza da sempre, ora e per sempre! *Amen.
+
 ***
+
 [[La Sacra Bibbia/Interconfessionale/NT - 72 Giuda/INT Giuda|Giuda]] | Giuda 1 | [[La Sacra Bibbia/Interconfessionale/NT - 73 Apocalisse/INT Apocalisse|Apocalisse →]]

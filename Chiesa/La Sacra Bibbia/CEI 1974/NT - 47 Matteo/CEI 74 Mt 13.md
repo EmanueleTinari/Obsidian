@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/13/)"
+creato: 27/05/2025 15:36:04
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1 ]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 12| ← Matteo 12]] | Matteo 13 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 14|Matteo 14 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 13|Matteo 13]]
 
 # Matteo 13
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Quel giorno Gesù uscì di casa e si sedette in riva al mare.
 ###### 2
@@ -168,5 +173,7 @@ Versione C.E.I. 1974:
 <span class=vrs>57</span>E si scandalizzavano per causa sua. Ma Gesù disse loro: "Un profeta non è disprezzato se non nella sua patria e in casa sua".
 ###### 58
 <span class=vrs>58</span>E non fece molti miracoli a causa della loro incredulità.
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 12| ← Matteo 12]] | Matteo 13 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 14|Matteo 14 →]]

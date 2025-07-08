@@ -1,3 +1,8 @@
+---
+creato: 03/05/2025 17:11:52
+modificato: 09/07/2025 00:15:55
+---
+
 <!--  (!= this.file.name) esclude questo stesso file dalla lista -->
 ```dataview
 TABLE WITHOUT ID

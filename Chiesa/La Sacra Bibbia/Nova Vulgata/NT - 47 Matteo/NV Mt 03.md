@@ -40,7 +40,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
+creato: 30/05/2025 11:25:02
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|⇤ Matthæus 1]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02| ← Matthæus 2]] | Matthæus 3 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04|Matthæus 4 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -58,7 +61,9 @@ Versione Nova Vulgata:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 03|Matteo 3]]
 
 # Matthæus 3
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In diebus autem illis venit Ioannes Baptista praedicans in deserto Iudaeae
 ###### 2
@@ -94,5 +99,7 @@ Versione Nova Vulgata:
 ###### 17
 <span class=vrs>17</span>Et ecce vox de caelis dicens: "Hic est Filius meus dilectus, in quo
 mihi complacui".
+
 ***
+
 [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02| ← Matthæus 2]] | Matthæus 3 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04| Matthæus 4 → ]]

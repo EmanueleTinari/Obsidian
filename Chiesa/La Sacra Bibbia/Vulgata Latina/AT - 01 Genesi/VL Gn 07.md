@@ -23,20 +23,14 @@ aliases:
   - Genesis 7
   - Liber Genesis 07
   - Liber Genesis 7
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_7
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_7
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_7
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_7, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_7, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_7]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/7)"
+creato: 01/07/2025 22:16:45
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 06| ← Genesis 6]] <span class="bianco">| Genesis 7 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 08|Genesis 8 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -54,7 +48,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 07|Genesi 7]]
 
 # Genesis 7
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Dixitque Dominus ad eum : Ingredere tu et omnis domus tua in arcam : te enim vidi justum coram me in generatione hac.
 ###### 2
@@ -103,5 +99,7 @@ Versione Vulgata Latina:
 <span class=vrs>23</span>Et delevit omnem substantiam quæ erat super terram, ab homine usque ad pecus, tam reptile quam volucres cæli : et deleta sunt de terra. Remansit autem solus Noë, et qui cum eo erant in arca.
 ###### 24
 <span class=vrs>24</span>Obtinueruntque aquæ terram centum quinquaginta diebus. 
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 06| ← Genesis 6]] | Genesis 7 | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 08|Genesis 8 →]]

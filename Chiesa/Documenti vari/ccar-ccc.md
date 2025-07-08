@@ -12,15 +12,13 @@ lingua-orig: Latino
 titolo-lat: Catechismus Catholicae Ecclesiae
 aliases:
   - CCC
-tags:
-  - Altri_documenti
-  - Catechismo_della_Chiesa_Cattolica
-  - CCC
+tags: [Altri_documenti, Catechismo_della_Chiesa_Cattolica, CCC]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/index_it.htm)"
-creato: 2025-05-02T00:15:45
+creato: 02/05/2025 00:15:45
 aggiornato: 2025-05-20T09:17:14
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -49,8 +47,8 @@ Da Castel Gandolfo, 15 Agosto dell'anno 1997, decimonono di Pontificato. `class:
 
 Giovanni Paolo II `class: firma-centro`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
 ***
@@ -76,10 +74,9 @@ Dato il giorno 11 ottobre 1992, trentesimo anniversario dell'apertura del Concil
 
 Giovanni Paolo II `class: firma-centro`
 
-
 ***
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
 ***
 
@@ -210,32 +207,12 @@ L’Apostolo indicò tale dovere \[...\], che cioè coloro che sono chiamati al 
 Per concludere questa presentazione, è opportuno ricordare il seguente principio pastorale enunciato dal *Catechismo Romano*: `class: paragrafo-normale`
 > «In realtà è questa la via più sublime che l’Apostolo additava, quando indirizzava tutta la sostanza della dottrina e dell’insegnamento alla carità che non avrà mai fine.<br>Infatti sia che si espongano le verità della fede o i motivi della speranza o i doveri dell’attività morale, sempre e in tutto va dato rilievo all’amore di nostro Signore, così da far comprendere che ogni esercizio di perfetta virtù cristiana non può scaturire se non dall’amore, come nell’amore ha d’altronde il suo ultimo fine».[^ftn28]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ***
+
 <span class="tipo-documento">Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana.</span>
 
-
 ***
+
 NOTE:
 
 [^ftn1]: (Cfr. Costituzione Apostolica [[Documenti pontifici/Costituzioni apostoliche/ipii-coa-fid#II.<br>ITINERARIO E SPIRITO DELLA STESURA DEL TESTO|Fidei depositum, n. 2]]).

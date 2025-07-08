@@ -34,15 +34,11 @@ aliases:
   - Clemente XIII
   - Clemens XIII
   - Clemens PP. XIII
-tags:
-  - Bio
-  - Clemente_XIII
-  - Scheda
-  - papa
+tags: [Bio, Clemente_XIII, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-05-22T11:08:09
+creato: 22/05/2025 09:10:51
 aggiornato: 2025-05-22T11:08:09
+modificato: 09/07/2025 00:11:36
 ---
 
 ***
-

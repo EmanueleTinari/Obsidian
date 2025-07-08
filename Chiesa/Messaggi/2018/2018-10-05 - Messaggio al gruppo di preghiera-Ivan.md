@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-5-ottobre-2018/)"
+creato: 04/07/2025 16:31:57
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 5 ottobre 2018<br>alla Croce blu, ore 22:00
@@ -20,5 +22,7 @@ La Madonna oggi è venuta a noi gioiosa e felice.<br>Come sempre, ci ha salutato
 ## Sia lodato Gesù, cari figli miei!
 Per un periodo di tempo ha pregato qui su tutti noi con le mani distese.<br>Ha benedetto tutti noi con la sua benedizione materna ed ha benedetto tutto quello che avete portato perché venisse benedetto.<br>Poi ha pregato per un periodo di tempo in particolare per la pace, per la pace nelle famiglie.<br>Poi in questa preghiera se n’è andata, nel segno della luce e della croce, col saluto:
 ## Andate in pace, cari figli miei!
+
 ***
+
 > [!4colonne]- [[Messaggi/2018/2018-10-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 05 ottobre 2018 | [[Messaggi/2018/2018-10-19 - Messaggio al gruppo di preghiera-Ivan| Messaggio successivo → ]]

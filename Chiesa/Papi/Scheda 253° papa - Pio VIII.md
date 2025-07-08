@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 252° papa - Leone XII|Papa Leone XII]]"
 successore: "[[Scheda 254° papa - Gregorio XVI|Papa Gregorio XVI]]"
 aliases:
- - Papa Pio VIII
- - Pio VIII
- - Pius VIII
- - Pius PP. VIII
-tags:
- - Bio
- - Pio_VIII
- - Scheda
- - papa
+  - Papa Pio VIII
+  - Pio VIII
+  - Pius VIII
+  - Pius PP. VIII
+tags: [Bio, Pio_VIII, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 13:39:56
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:11:46
 ---
 
 ***
-

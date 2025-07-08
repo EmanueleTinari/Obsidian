@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/24/)"
+creato: 27/05/2025 21:53:28
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1 ]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 23| ← Matteo 23]] | Matteo 24 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 25|Matteo 25 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 24|Matteo 24]]
 
 # Matteo 24
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Mentre Gesù, uscito dal tempio, se ne andava, gli si avvicinarono i suoi discepoli per fargli osservare le costruzioni del tempio.
 ###### 2
@@ -150,5 +155,7 @@ Versione C.E.I. 1974:
 <span class=vrs>50</span>arriverà il padrone quando il servo non se l'aspetta e nell'ora che non sa,
 ###### 51
 <span class=vrs>51</span>lo punirà con rigore e gli infliggerà la sorte che gli ipocriti si meritano: e là sarà pianto e stridore di denti.
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 23| ← Matteo 23]] | Matteo 24 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 25|Matteo 25 →]]

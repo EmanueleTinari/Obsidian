@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/10/)"
+creato: 27/05/2025 09:30:57
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 09| ← Matteo 9]] | Matteo 10 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 11|Matteo 11 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 10|Matteo 10]]
 
 # Matteo 10
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Chiamati a sé i dodici discepoli, diede loro il potere di scacciare gli spiriti immondi e di guarire ogni sorta di malattie e d'infermità.
 ###### 2
@@ -132,5 +137,7 @@ Versione C.E.I. 1974:
 <span class=vrs>41</span>Chi accoglie un profeta come profeta, avrà la ricompensa del profeta, e chi accoglie un giusto come giusto, avrà la ricompensa del giusto.
 ###### 42
 <span class=vrs>42</span>E chi avrà dato anche solo un bicchiere di acqua fresca a uno di questi piccoli, perché è mio discepolo, in verità io vi dico: non perderà la sua ricompensa".
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 09| ← Matteo 9]] | Matteo 10 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 11|Matteo 11 →]]

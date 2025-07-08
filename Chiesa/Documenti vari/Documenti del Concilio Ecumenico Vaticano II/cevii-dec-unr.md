@@ -12,16 +12,13 @@ data-doc: 1964-11-21
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Decreto
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Unitatis_redintegratio
+tags: [Decreto, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Unitatis_redintegratio]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_it.html)"
-creato: 2025-06-20T08:20:29
+creato: 20/06/2025 07:21:14
 aggiornato: 2025-06-20T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -177,8 +174,8 @@ Io Paolo<br>Vescovo della Chiesa Cattolica `class: firma-centro`
 
 Seguono le firme dei Padri.
 
-
 ***
+
 Io PAOLO Vescovo della Chiesa Cattolica<br><br>† Ego IOANNES titulo S. Marci Presbyter Cardinalis URBANI, Patriarcha Venetiarum.<br>Ego PAULUS titulo S. Mariae in Vallicella Presbyter Cardinalis GIOBBE, S. R. E. Datarius.<br>Ego FERDINANDUS titulo S. Eustachii Presbyter Cardinalis CENTO.<br>† Ego IOSEPHUS titulo S. Honuphrii in Ianiculo Presbyter Cardinalis GARIBI Y RIVERA, Archiepiscopus Guadalajarensis.<br>Ego CAROLUS titulo S. Agnetis extra moenia Presbyter Cardinalis CONFALONIERI.<br>† Ego PAULUS titulo Ss. Quirici et Iulittae Presbyter Cardinalis RICHAUD, Archiepiscopus Burdigalensis.<br>† Ego IOSEPHUS M. titulo Ss. Viti, Modesti et Crescentiae Presbyter Cardinalis BUENO Y MONREAL, Archiepiscopus Hispalensis.<br>† Ego FRANCISCUS titulo S. Eusebii Presbyter Cardinalis KÖNIG, Archiepiscopus Vindobonensis.<br>† Ego IULIUS titulo S. Mariae Scalaris Presbyter Cardinalis DÖPFNER, Archiepiscopus Monacensis et Frisingensis.<br>Ego PAULUS titulo S. Andreae Apostoli de Hortis Presbyter Cardinalis MARELLA.<br>Ego GUSTAVUS titulo S. Hieronymi Illyricorum Presbyter Cardinalis TESTA.<br>† Ego ALBERTUS titulo S. Caeciliae Presbyter Cardinalis MEYER, Archiepiscopus Chicagiensis.<br>Ego ALOISIUS titulo S. Andreae de Valle Presbyter Cardinalis TRAGLIA.<br>† Ego PETRUS TATSUO titulo S. Antonii Patavini de Urbe Presbyter Cardinalis DOI, Archiepiscopus Tokiensis.<br>† Ego IOSEPHUS titulo S. Ioannis Baptistae Florentinorum Presbyter Cardinalis LEFEBVRE, Archiepiscopus Bituricensis.<br>† Ego BERNARDUS titulo S. Ioachimi Presbyter Cardinalis ALFRINK, Archiepiscopus Ultraiectensis.<br>† Ego LAUREANUS titulo S. Francisci Assisiensis ad Ripam Maiorem Presbyter Cardinalis RUGAMBWA, Episcopus Bukobaënsis.<br>† Ego IOSEPHUS titulo Ssmi Redemptoris et S. Alfonsi in Exquiliis Presbyter Cardinalis RITTER, Archiepiscopus S. Ludovici.<br>† Ego IOSEPHUS HUMBERTUS titulo Ss. Andreae et Gregorii ad Clivum Scauri Presbyter Cardinalis QUINTERO, Archiepiscopus Caracensis.<br>† Ego IGNATIUS PETRUS XVI BATANIAN, Patriarcha Ciliciae Armenorum.<br>† Ego IOSEPHUS VIEIRA ALVERNAZ, Patriarcha Indiarum Orientalium.<br>† Ego IOSEPHUS SLIPYJ, Archiepiscopus Maior et Metropolita Leopolitanus Ucrainorum.<br>† Ego IOANNES CAROLUS MCQUAID, Archiepiscopus Dublinensis, Primas Hiberniae.<br>† Ego ANDREAS ROHRACHER, Archiepiscopus Salisburgensis, Primas Germaniae.<br>† Ego DEMETRIUS MOSCATO, Archiepiscopus Primas Salernitanus et Administrator Perpetuus Acernensis.<br>† Ego MAURITIUS ROY, Archiepiscopus Quebecensis, Primas Canadiae.<br>† Ego HUGO CAMOZZO, Archiepiscopus Pisanus, Primas Sardiniae et Corsicae.<br>† Ego ALEXANDER TOKI , Archiepiscopus Antibarensis, Primas Serbiae.<br>† Ego MICHAEL DARIUS MIRANDA, Archiepiscopus Mexicanus, Primas Mexici.<br>† Ego OCTAVIUS ANTONIUS BERAS, Archiepiscopus S. Dominici, Primas Indiarum Occidentalium.<br>† Ego IOANNES CAROLUS HEENAN, Archiepiscopus Vestmonasteriensis, Primas Angliae.<br>† Ego GUILLELMUS CONWAY, Archiepiscopus Armachanus, Primas totius Hiberniae.<br>† Ego FRANCISCUS MARIA DA SILVA, Archiepiscopus Bracharensis, Primas Hispaniarum.<br>† Ego PAULUS GOUYON, Archiepiscopus Rhedonensis, Primas Britanniae.<br>† Ego ANDREAS CESARANO, Archiepiscopus Sipontinus et Admin. Perp. Vestanus.
 
 
@@ -196,12 +193,12 @@ Ss. Concilii Notarius
 † Ego FRANCISCUS HANNIBAL FERRETTI `class: pfirmadx2`
 Ss. Concilii Notarius
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Cfr. *<span class="BibleRef">[[1Cor 1,13|1Cor 1, 13]]</span>*.

@@ -14,11 +14,15 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+creato: 30/05/2025 22:33:08
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso il veggente Jakov<br>il 25 dicembre 2023
 
 La Madonna e venuta con il Bambino Gesù tra le braccia.
 ## Cari figli,<br>oggi con mio Figlio tra le braccia desidero invitarvi tutti a pregare Gesù Bambino per la guarigione del vostro cuore.<br>Figli, nei vostri cuori spesso regna il peccato che distrugge la vostra vita e non potete sentire la presenza di Dio.<br>Perciò oggi, in questo giorno di grazia quando la grazia si diffonde nel mondo intero, offrite al Signore la vostra vita ed il vostro cuore affinché il Signore li guarisca con la Sua grazia.<br>Soltanto con il cuore puro potrete rivivere la nascita di Gesù in voi e la luce della Sua nascita illuminerà la vostra vita.<br>Io vi benedico con la mia benedizione materna.<br>Grazie per aver risposto alla mia chiamata.
+
 ***
+
 > [!4colonne]- [[Messaggi/2023/2023-12-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 dicembre 2023 | [[Messaggi/2024/2024-01-01 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

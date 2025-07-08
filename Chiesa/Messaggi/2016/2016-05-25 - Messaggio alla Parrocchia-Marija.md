@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2016-5-25)"
+creato: 02/07/2025 17:00:34
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 maggio 2016
@@ -18,4 +20,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 ## Cari figli!<br>La mia presenza è un dono di Dio per tutti voi ed un'esortazione alla conversione.<br>Satana è forte e desidera mettere nei vostri cuori e nei vostri pensieri disordine ed inquietudine.<br>Perciò, voi figlioli pregate affinché lo Spirito Santo vi guidi sulla via retta della gioia e della pace.<br>Io sono con voi ed intercedo presso mio Figlio per voi.<br>Grazie per aver risposto alla mia chiamata.
 
 ***
+
 > [!4colonne]- [[Messaggi/2016/2016-05-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 maggio 2016 | [[Messaggi/2016/2016-06-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

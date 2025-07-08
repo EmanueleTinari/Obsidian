@@ -29,18 +29,15 @@ luogo-sepoltura: ""
 predecessore: "[[Scheda 266° papa - Francesco|Papa Francesco]]"
 successore: ""
 aliases:
- - Papa Leone XIV
- - Leone XIV
- - Leo XIV
- - Leo PP. XIV
-tags:
- - Bio
- - Leone_XVI
- - Scheda
- - papa
+  - Papa Leone XIV
+  - Leone XIV
+  - Leo XIV
+  - Leo PP. XIV
+tags: [Bio, Leone_XVI, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 14:02:23
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:12:25
 ---
 
 ***

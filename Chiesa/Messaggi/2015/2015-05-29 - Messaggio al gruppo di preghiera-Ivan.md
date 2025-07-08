@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-29-maggio-2015/)"
+creato: 06/07/2025 19:14:10
+modificato: 09/07/2025 00:14:22
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 29 maggio 2015
@@ -24,4 +26,5 @@ Poi la Madonna ci ha benedetto tutti con la sua benedizione materna e ha benedet
 Ecco questo è il riassunto delle cose più importanti dell’incontro di stasera”.
 
 ***
+
 > [!4colonne]- [[Messaggi/2015/2015-05-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 29 maggio 2015 | [[Messaggi/2015/2015-06-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

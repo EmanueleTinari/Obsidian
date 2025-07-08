@@ -29,19 +29,15 @@ aliases:
   - Matthew 1
   - Matt 01
   - Matt 1
-tags:
-  - Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_1
-  - Nuovo_Testamento
-  - I_Vangeli
-  - Vangelo_di_San_Matteo_Apostolo_ed_Evangelista
-  - Capitolo_1
-  - Vangelo_secondo_Matteo
-  - Vangelo_di_Matteo
+tags: [Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_1, Nuovo_Testamento, I_Vangeli, Vangelo_di_San_Matteo_Apostolo_ed_Evangelista, Capitolo_1, Vangelo_secondo_Matteo, Vangelo_di_Matteo]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
+creato: 27/05/2025 19:03:51
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Nova Vulgata/NT - 46 Malachia/NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Matteo| ← Matthæus]] | Matthæus 1 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02|Matthæus 2 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione Nova Vulgata:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 01|Matteo 1]]
 
 # Matthæus 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Liber generationis Iesu Christi filii David filii Abraham.
 ###### 2
@@ -110,5 +108,7 @@ Versione Nova Vulgata:
 <span class=vrs>24</span>Exsurgens autem Ioseph a somno fecit, sicut praecepit ei angelus Domini, et accepit coniugem suam;
 ###### 25
 <span class=vrs>25</span>et non cognoscebat eam, donec peperit filium, et vocavit nomen eius Iesum.
+
 ***
+
 [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Matteo| ← Matthæus]] | Matthæus 1 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02|Matthæus 2 →]]

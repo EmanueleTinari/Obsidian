@@ -40,7 +40,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/6/)"
+creato: 26/05/2025 22:18:12
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 05| ← Matteo 5]] | Matteo 6 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 07|Matteo 7 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -58,7 +61,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 06|Matteo 6]]
 
 # Matteo 6
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Guardatevi dal praticare le vostre buone opere davanti agli uomini per essere da loro ammirati, altrimenti non avrete ricompensa presso il Padre vostro che è nei cieli.
 ###### 2
@@ -127,5 +132,7 @@ Versione C.E.I. 1974:
 <span class=vrs>33</span>Cercate prima il regno di Dio e la sua giustizia, e tutte queste cose vi saranno date in aggiunta.
 ###### 34
 <span class=vrs>34</span>Non affannatevi dunque per il domani, perché il domani avrà già le sue inquietudini. A ciascun giorno basta la sua pena.
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 05| ← Matteo 5]] | Matteo 6 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 07|Matteo 7 →]]

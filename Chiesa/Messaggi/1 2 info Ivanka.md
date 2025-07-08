@@ -9,6 +9,8 @@ nascita: 1966-06-21
 lingua-nota: Italiano
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link alla pagina con le informazioni,](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni/)"
+creato: 01/06/2025 00:26:26
+modificato: 09/07/2025 00:14:22
 ---
 
 Età: `=date(today) - this.nascita`

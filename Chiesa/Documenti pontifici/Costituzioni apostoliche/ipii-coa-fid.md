@@ -10,17 +10,15 @@ data-doc: 1992-10-11
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: false
-tags:
-  - Costituzione_Apostolica
-  - Giovanni_Paolo_II
-  - Fidei_Depositum
+tags: [Costituzione_Apostolica, Giovanni_Paolo_II, Fidei_Depositum]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento:
- - "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html)"
- - "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/aposcons_it.htm)"
-creato: 2025-06-17T08:20:29
+  - "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html)"
+  - "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/aposcons_it.htm)"
+creato: 17/06/2025 11:07:49
 aggiornato: 2025-06-17T14:56:10
+modificato: 09/07/2025 00:15:55
 ---
 
 ***
@@ -65,12 +63,12 @@ Dato il giorno 11 ottobre 1992, trentesimo anniversario dell'apertura del Concil
 
 Giovanni Paolo II `class: firma-centro`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Cfr. *<span class="BibleRef">[[Ef 3,19|Ef 3, 19]]</span>*.

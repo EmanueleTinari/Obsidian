@@ -11,10 +11,14 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-23-giugno-2023-2/)"
+creato: 02/07/2025 22:53:42
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 23 giugno 2023
 
 ## Cari figli, anche oggi desidero invitarvi alla pace.<br>Qui mi sono presentata come la Regina della Pace.<br>Anche voi invito ad essere miei portatori in questo mondo stanco, che portiate la pace.<br>Pregate per la pace, pregate per i miei piani che desidero realizzare, perché mio Figlio mi ha permesso di restare così a lungo con voi perché desidero insegnarvi, desidero educarvi e condurvi tutti a Gesù, così voi potete sperimentare la vera e profonda pace.<br>Grazie, cari figli, perché anche oggi avete risposto alla mia chiamata.
+
 ***
+
 > [!4colonne]- [[Messaggi/2023/2023-05-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 23 giugno 2023 | [[Messaggi/2023/2023-06-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

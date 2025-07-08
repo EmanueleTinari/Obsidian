@@ -29,19 +29,15 @@ aliases:
   - Matthew 1
   - Matt 01
   - Matt 1
-tags:
-  - Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_1
-  - Nuovo_Testamento
-  - I_Vangeli
-  - Vangelo_di_San_Matteo_Apostolo_ed_Evangelista
-  - Capitolo_1
-  - Vangelo_secondo_Matteo
-  - Vangelo_di_Matteo
+tags: [Nuovo_Testamento/I_Vangeli/Vangelo_di_San_Matteo_Apostolo_ed_Evangelista/Capitolo_1, Nuovo_Testamento, I_Vangeli, Vangelo_di_San_Matteo_Apostolo_ed_Evangelista, Capitolo_1, Vangelo_secondo_Matteo, Vangelo_di_Matteo]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/1/)"
+creato: 11/05/2025 07:56:34
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Matteo| ← Matteo]] | Matteo 1 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 02|Matteo 2 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 01|Matteo 1]]
 
 # Matteo 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Genealogia di Gesù Cristo figlio di Davide, figlio di Abramo.
 ###### 2
@@ -110,5 +108,7 @@ Versione C.E.I. 1974:
 <span class=vrs>24</span>Destatosi dal sonno, Giuseppe fece come gli aveva ordinato l'angelo del Signore e prese con sé la sua sposa,
 ###### 25
 <span class=vrs>25</span>la quale, senza che egli la conoscesse, partorì un figlio, che egli chiamò Gesù.
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Matteo|Matteo]] | Matteo 1 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 02|Matteo 2 →]]

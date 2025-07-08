@@ -33,14 +33,11 @@ aliases:
   - Benedetto XIV
   - Benedictus XIV
   - Benedictus PP. XIV
-tags:
-  - Bio
-  - Benedetto_XIV
-  - Scheda
-  - papa
+tags: [Bio, Benedetto_XIV, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-04-29T23:29:01
+creato: 29/04/2025 23:29:01
 aggiornato: 2025-05-21T19:41:10
+modificato: 09/07/2025 00:11:34
 ---
 
 ***

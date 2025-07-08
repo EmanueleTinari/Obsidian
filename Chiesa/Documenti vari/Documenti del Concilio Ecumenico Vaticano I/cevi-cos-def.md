@@ -12,16 +12,13 @@ data-doc: 1870-04-24
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Costituzione
-  - Pio_IX
-  - Concilio_Ecumenico_Vaticano_I
-  - Dei_Filius
+tags: [Costituzione, Pio_IX, Concilio_Ecumenico_Vaticano_I, Dei_Filius]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/i-vatican-council/documents/vat-i_const_18700424_dei-filius_it.html)"
-creato: 2025-06-25T08:20:29
+creato: 25/06/2025 10:58:56
 aggiornato: 2025-06-25T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -123,12 +120,12 @@ Pertanto, eseguendo il dovere del Nostro supremo ufficio pastorale, per le visce
 
 Dato a Roma, nella pubblica Sessione solennemente celebrata nella Basilica Vaticana l’anno dell’Incarnazione del Signore 1870, il 24 aprile, nell’anno ventiquattresimo del Nostro Pontificato. `class: data-luogo`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: U. Bellocchi (a cura di), Tutte le Encicliche e i principali documenti pontifici emanati dal 1740, vol. IV: Pio IX (1846-1878), pp. 334-340, 1995, Libreria Editrice Vaticana, Città del Vaticano.

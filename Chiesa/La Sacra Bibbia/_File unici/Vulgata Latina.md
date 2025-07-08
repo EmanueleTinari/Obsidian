@@ -1,3 +1,8 @@
+---
+creato: 28/06/2025 16:21:14
+modificato: 09/07/2025 00:15:33
+---
+
 # Nova Vulgata
 
 ## Vetus Testamentum
@@ -5,7 +10,9 @@
 ### Liber Genesis
 
 #### 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In principio creavit Deus cælum et terram.
 ###### 2
@@ -68,9 +75,13 @@
 <span class=vrs>30</span>et cunctis animantibus terræ, omnique volucri cæli, et universis quæ moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita.
 ###### 31
 <span class=vrs>31</span>Viditque Deus cuncta quæ fecerat, et erant valde bona. Et factum est vespere et mane, dies sextus. 
+
 ***
+
 #### 2
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Igitur perfecti sunt cæli et terra, et omnis ornatus eorum.
 ###### 2
@@ -121,9 +132,13 @@
 <span class=vrs>24</span>Quam ob rem relinquet homo patrem suum, et matrem, et adhærebit uxori suæ : et erunt duo in carne una.
 ###### 25
 <span class=vrs>25</span>Erat autem uterque nudus, Adam scilicet et uxor ejus : et non erubescebant. 
+
 ***
+
 #### 3
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Sed et serpens erat callidior cunctis animantibus terræ quæ fecerat Dominus Deus. Qui dixit ad mulierem : Cur præcepit vobis Deus ut non comederetis de omni ligno paradisi ?
 ###### 2
@@ -172,9 +187,13 @@
 <span class=vrs>23</span>Et emisit eum Dominus Deus de paradiso voluptatis, ut operaretur terram de qua sumptus est.
 ###### 24
 <span class=vrs>24</span>Ejecitque Adam : et collocavit ante paradisum voluptatis cherubim, et flammeum gladium, atque versatilem, ad custodiendam viam ligni vitæ.
+
 ***
+
 #### 4
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Adam vero cognovit uxorem suam Hevam, quæ concepit et peperit Cain, dicens : Possedi hominem per Deum.
 ###### 2
@@ -227,9 +246,13 @@
 <span class=vrs>25</span>Cognovit quoque adhuc Adam uxorem suam : et peperit filium, vocavitque nomen ejus Seth, dicens : Posuit mihi Deus semen aliud pro Abel, quem occidit Cain.
 ###### 26
 <span class=vrs>26</span>Sed et Seth natus est filius, quem vocavit Enos : iste cœpit invocare nomen Domini.
+
 ***
+
 #### 5
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Hic est liber generationis Adam. In die qua creavit Deus hominem, ad similitudinem Dei fecit illum.
 ###### 2
@@ -292,9 +315,13 @@
 <span class=vrs>30</span>Vixitque Lamech, postquam genuit Noë, quingentis nonaginta quinque annis, et genuit filios et filias.
 ###### 31
 <span class=vrs>31</span>Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, Cham et Japheth. 
+
 ***
+
 #### 6
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Cumque cœpissent homines multiplicari super terram, et filias procreassent,
 ###### 2
@@ -339,9 +366,13 @@
 <span class=vrs>21</span>Tolles igitur tecum ex omnibus escis, quæ mandi possunt, et comportabis apud te : et erunt tam tibi, quam illis in cibum.
 ###### 22
 <span class=vrs>22</span>Fecit igitur Noë omnia quæ præceperat illi Deus. 
+
 ***
+
 #### 7
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Dixitque Dominus ad eum : Ingredere tu et omnis domus tua in arcam : te enim vidi justum coram me in generatione hac.
 ###### 2
@@ -390,9 +421,13 @@
 <span class=vrs>23</span>Et delevit omnem substantiam quæ erat super terram, ab homine usque ad pecus, tam reptile quam volucres cæli : et deleta sunt de terra. Remansit autem solus Noë, et qui cum eo erant in arca.
 ###### 24
 <span class=vrs>24</span>Obtinueruntque aquæ terram centum quinquaginta diebus. 
+
 ***
+
 #### 8
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Recordatus autem Deus Noë, cunctorumque animantium, et omnium jumentorum, quæ erant cum eo in arca, adduxit spiritum super terram, et imminutæ sunt aquæ.
 ###### 2
@@ -437,9 +472,13 @@
 <span class=vrs>21</span>Odoratusque est Dominus odorem suavitatis, et ait : Nequaquam ultra maledicam terræ propter homines : sensus enim et cogitatio humani cordis in malum prona sunt ab adolescentia sua : non igitur ultra percutiam omnem animam viventem sicut feci.
 ###### 22
 <span class=vrs>22</span>Cunctis diebus terræ, sementis et messis, frigus et æstus, æstas et hiems, nox et dies non requiescent. 
+
 ***
+
 #### 9
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Benedixitque Deus Noë et filiis ejus. Et dixit ad eos : Crescite, et multiplicamini, et replete terram.
 ###### 2
@@ -498,9 +537,13 @@
 <span class=vrs>28</span>Vixit autem Noë post diluvium trecentis quinquaginta annis.
 ###### 29
 <span class=vrs>29</span>Et impleti sunt omnes dies ejus nongentorum quinquaginta annorum : et mortuus est. 
+
 ***
+
 #### 10
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Hæ sunt generationes filiorum Noë, Sem, Cham et Japheth : natique sunt eis filii post diluvium.
 ###### 2
@@ -565,9 +608,13 @@
 <span class=vrs>31</span>Isti filii Sem secundum cognationes, et linguas, et regiones in gentibus suis.
 ###### 32
 <span class=vrs>32</span>Hæ familiæ Noë juxta populos et nationes suas. Ab his divisæ sunt gentes in terra post diluvium.
+
 ***
+
 #### 11
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Erat autem terra labii unius, et sermonum eorumdem.
 ###### 2
@@ -632,7 +679,9 @@
 <span class=vrs>31</span>Tulit itaque Thare Abram filium suum, et Lot filium Aran, filium filii sui, et Sarai nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldæorum, ut irent in terram Chanaan : veneruntque usque Haran, et habitaverunt ibi.
 ###### 32
 <span class=vrs>32</span>Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Haran.
+
 ***
+
 #### 12
 #### 13
 #### 14
@@ -672,7 +721,9 @@
 #### 48
 #### 49
 #### 50
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Quod cernens Joseph, ruit super faciem patris, flens et deosculans eum.
 ###### 2
@@ -723,6 +774,7 @@
 <span class=vrs>24</span>Cumque adjurasset eos atque dixisset : Deus visitabit vos, asportate ossa mea vobiscum de loco isto :
 ###### 25
 <span class=vrs>25</span>mortuus est, expletis centum decem vitæ suæ annis. Et conditus aromatibus, repositus est in loculo in Ægypto.
+
 ***
 
 ### Liber Exodus
@@ -2195,7 +2247,9 @@
 ### Epistula Iudae
 
 #### 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Judas Jesu Christi servus, frater autem Jacobi, his qui sunt in Deo Patre dilectis, et Christo Jesu conservatis, et vocatis.
 ###### 2
@@ -2246,7 +2300,9 @@
 <span class=vrs>24</span>Ei autem qui potens est vos conservare sine peccato et constituere ante conspectum gloriæ suæ immaculatos in exsultatione in adventu Domini nostri Jesu Christi,
 ###### 25
 <span class=vrs>25</span>soli Deo Salvatori nostro, per Jesum Christum Dominum nostrum, gloria et magnificentia, imperium et potestas ante omne sæculum, et nunc, et in omnia sæcula sæculorum. Amen.
+
 ***
+
 ### Apocalypsis Ioannis
 
 #### 1

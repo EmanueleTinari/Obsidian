@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2017-7-25)"
+creato: 02/07/2025 16:33:24
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 luglio 2017
@@ -18,4 +20,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 ## Cari figli!<br>Siate preghiera e riflesso dell'amore di Dio per tutti coloro che sono lontani da Dio e dai comandamenti di Dio.<br>Figlioli, siate fedeli e decisi nella conversione e lavorate su voi stessi affinché la santità della vita sia per voi veritiera.<br>Esortatevi al bene attraverso la preghiera affinché la vostra vita sulla terra sia più piacevole.<br>Grazie per aver risposto alla mia chiamata.
 
 ***
+
 > [!4colonne]- [[Messaggi/2017/2017-07-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 luglio 2017 | [[Messaggi/2017/2017-08-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

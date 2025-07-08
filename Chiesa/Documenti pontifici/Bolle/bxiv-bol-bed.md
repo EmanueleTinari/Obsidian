@@ -10,18 +10,16 @@ data-doc: 1750-12-25
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags:
-  - Bolla
-  - Benedetto_XIV
-  - Benedictus_Deus
+tags: [Bolla, Benedetto_XIV, Benedictus_Deus]
 aliases:
   - Benedictus Deus
   - Bolla Benedictus Deus
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-benedictus-deus--i---25-dicembre-1750--estensione-a-tut.html)"
-creato: 2025-05-01T23:20:07
+creato: 01/05/2025 23:20:07
 aggiornato: 2025-05-19T23:09:52
+modificato: 09/07/2025 00:15:55
 ---
 
 ***
@@ -93,8 +91,8 @@ Dato a Roma, presso Santa Maria Maggiore, nell’anno 1750 dell’Incarnazione, 
 
 Benedictus XIV `class: firma-centro`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
 

@@ -11,10 +11,14 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2023-3-25)"
+creato: 05/06/2025 21:45:12
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al mondo<br>tramite la veggente Marija<br>del 25 marzo 2023
 
 ## Cari figli!<br>Questo tempo sia per voi il tempo della preghiera.
+
 ***
+
 > [!4colonne]- [[Messaggi/2023/2023-03-18 - Messaggio annuale a Mirijana| ← Messaggio precedente]] | 25 marzo 2023 | [[Messaggi/2023/2023-04-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

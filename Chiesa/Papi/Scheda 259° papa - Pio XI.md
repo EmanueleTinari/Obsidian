@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Sacre grotte vaticane (Città del Vaticano)|Grotte vaticane]
 predecessore: "[[Scheda 258° papa - Benedetto XV|Benedetto XV]]"
 successore: "[[Scheda 260° papa - Pio XII|Pio XII]]"
 aliases:
- - Papa Pio XI
- - Pio XI
- - Pius XI
- - Pius PP. XI
-tags:
- - Bio
- - Pio_XI
- - Scheda
- - papa
+  - Papa Pio XI
+  - Pio XI
+  - Pius XI
+  - Pius PP. XI
+tags: [Bio, Pio_XI, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 13:39:39
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:11:59
 ---
 
 ***
-

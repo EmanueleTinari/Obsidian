@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/25/)"
+creato: 27/05/2025 21:53:29
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1 ]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 24| ← Matteo 24]] | Matteo 25 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 26|Matteo 26 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 25|Matteo 25]]
 
 # Matteo 25
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Il regno dei cieli è simile a dieci vergini che, prese le loro lampade, uscirono incontro allo sposo.
 ###### 2
@@ -140,5 +145,7 @@ Versione C.E.I. 1974:
 <span class=vrs>45</span>Ma egli risponderà: In verità vi dico: ogni volta che non avete fatto queste cose a uno di questi miei fratelli più piccoli, non l'avete fatto a me.
 ###### 46
 <span class=vrs>46</span>E se ne andranno, questi al supplizio eterno, e i giusti alla vita eterna".
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 24| ← Matteo 24]] | Matteo 25 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 26|Matteo 26 →]]

@@ -12,16 +12,13 @@ data-doc: 1870-07-18
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Costituzione
-  - Pio_IX
-  - Concilio_Ecumenico_Vaticano_I
-  - Pastor_Aeternus
+tags: [Costituzione, Pio_IX, Concilio_Ecumenico_Vaticano_I, Pastor_Aeternus]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/i-vatican-council/documents/vat-i_const_18700718_pastor-aeternus_it.html)"
-creato: 2025-06-25T08:20:29
+creato: 25/06/2025 10:58:56
 aggiornato: 2025-06-25T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -70,12 +67,12 @@ Questa Santa Sede ha sempre ritenuto che nello stesso Primato Apostolico, possed
 
 Dato a Roma, nella pubblica sessione celebrata solennemente nella Basilica Vaticana, nell’anno 1870 dell’Incarnazione del Signore, il 18 luglio, venticinquesimo anno del Nostro Pontificato. `class: data-luogo`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: U. Bellocchi (a cura di), Tutte le Encicliche e i principali documenti pontifici emanati dal 1740, vol. IV: Pio IX (1846-1878), pp. 334-340, 1995, Libreria Editrice Vaticana, Città del Vaticano.

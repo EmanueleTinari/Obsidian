@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-6-agosto-2021/)"
+creato: 11/06/2025 14:19:55
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio particolare della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 6 agosto 2021<br>solennità della Trasfigurazione
@@ -19,5 +21,7 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-6-agost
 
 
 Marija ha aggiunto di suo di pregare per essere forti nella fede.
+
 ***
+
 > [!4colonne]- [[Messaggi/2021/2021-07-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 06 agosto 2021 | [[Messaggi/2021/2021-08-14 - Messaggio al gruppo di preghiera-Ivan| Messaggio successivo → ]]

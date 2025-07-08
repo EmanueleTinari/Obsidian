@@ -23,20 +23,14 @@ aliases:
   - Genesis 4
   - Liber Genesis 04
   - Liber Genesis 4
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_4
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_4
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_4
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_4, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_4, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_4]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/4)"
+creato: 01/07/2025 19:52:15
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 03| ← Genesis 3]] <span class="bianco">| Genesis 4 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 05|Genesis 5 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -54,7 +48,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 04|Genesi 4]]
 
 # Genesis 4
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Adam vero cognovit uxorem suam Hevam, quæ concepit et peperit Cain, dicens : Possedi hominem per Deum.
 ###### 2
@@ -107,5 +103,7 @@ Versione Vulgata Latina:
 <span class=vrs>25</span>Cognovit quoque adhuc Adam uxorem suam : et peperit filium, vocavitque nomen ejus Seth, dicens : Posuit mihi Deus semen aliud pro Abel, quem occidit Cain.
 ###### 26
 <span class=vrs>26</span>Sed et Seth natus est filius, quem vocavit Enos : iste cœpit invocare nomen Domini.
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 03| ← Genesis 3]] | Genesis 4 | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 05|Genesis 5 →]]

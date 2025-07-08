@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
+creato: 30/05/2025 15:21:15
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|⇤ Matthæus 1]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10| ← Matthæus 10]] | Matthæus 11 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12|Matthæus 12 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione Nova Vulgata:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 11|Matteo 11]]
 
 # Matthæus 11
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et factum est, cum consummasset Iesus praecipiens Duodecim discipulis suis, transiit inde, ut doceret et praedicaret in civitatibus eorum.
 ###### 2
@@ -108,5 +113,7 @@ Versione Nova Vulgata:
 <span class=vrs>29</span>Tollite iugum meum super vos et discite a me, quia mitis sum et humilis corde, et invenietis requiem animabus vestris.
 ###### 30
 <span class=vrs>30</span>Iugum enim meum suave, et onus meum leve est".
+
 ***
+
 [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10| ← Matthæus 10]] | Matthæus 11 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12| Matthæus 12 → ]]

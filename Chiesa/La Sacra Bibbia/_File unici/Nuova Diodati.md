@@ -1,3 +1,8 @@
+---
+creato: 28/06/2025 16:20:12
+modificato: 09/07/2025 00:15:33
+---
+
 # La Sacra Bibbia C.E.I. 1974
 
 ## Antico Testamento
@@ -1525,7 +1530,9 @@
 ### Lettera di Giuda
 
 #### 1
+
 ***
+
 ##### Indirizzo e saluti
 ###### 1
 <span class=vrs>1</span>Giuda, servo di Gesù Cristo e fratello di Giacomo, ai chiamati che sono santificati in Dio Padre e custoditi in Cristo Gesù:
@@ -1579,7 +1586,9 @@
 <span class=vrs>24</span>Or a colui che può salvaguardarvi da ogni caduta e farvi comparire davanti alla sua gloria irreprensibili e con grande gioia,
 ###### 25
 <span class=vrs>25</span>all'unico Dio sapiente, il nostro Salvatore, sia gloria, grandezza, dominio e potestà, da ora e per tutte le età. Amen.
+
 ***
+
 ### Apocalisse
 
 #### 1

@@ -1,3 +1,8 @@
+---
+creato: 28/06/2025 16:18:57
+modificato: 09/07/2025 00:15:33
+---
+
 # La Sacra Bibbia C.E.I. 1974
 
 ## Antico Testamento
@@ -5,7 +10,9 @@
 ### Genesi
 
 #### 1
+
 ***
+
 ##### IN PRINCIPIO. Inno a Dio Creatore
 
 ###### 1
@@ -68,7 +75,9 @@
 <span class=vrs>30</span>Tutti gli animali selvatici,<br>tutti gli uccelli del cielo<br>e tutti gli altri viventi<br>che si muovono sulla terra<br>mangeranno l’erba tenera».<br>E così avvenne.
 ###### 31
 <span class=vrs>31</span>E Dio vide che tutto quel che aveva fatto<br>era davvero molto bello.<br>Venne la sera, poi venne il mattino:<br>sesto giorno.
+
 ***
+
 #### 2
 #### 3
 #### 4
@@ -1589,7 +1598,9 @@
 ### Lettera di Giuda
 
 #### 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Io, Giuda, fratello di Giacomo e *servo di Gesù *Cristo, scrivo a voi che siete stati chiamati alla fede, amati da Dio Padre e custoditi da Gesù Cristo.
 ###### 2
@@ -1643,7 +1654,9 @@
 <span class=vrs>24</span>A colui che può sostenervi e può farvi stare senza difetti, pieni di gioia di fronte a lui e nella sua gloria;
 ###### 25
 <span class=vrs>25</span>a lui che è l’unico Dio e che ci salva, per mezzo di Gesù Cristo nostro Signore; a lui sia gloria, maestà, forza e potenza da sempre, ora e per sempre! *Amen.
+
 ***
+
 ### Apocalisse
 
 #### 1
@@ -1669,8 +1682,8 @@
 #### 21
 #### 22
 
-
 ***
+
 NOTE:
 
 [^ftn_int_gn1,1]: *In principio Dio creò*: altra traduzione possibile: **In principio quando Dio creò il cielo, il mondo era…**

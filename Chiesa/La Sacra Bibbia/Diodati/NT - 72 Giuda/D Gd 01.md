@@ -29,19 +29,15 @@ aliases:
   - Iud 1
   - Jude 01
   - Jude 1
-tags:
-  - Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1
-  - Nuovo_Testamento
-  - Le_altre_Lettere_Cattoliche
-  - Lettera_di_San_Giuda_Apostolo
-  - Capitolo_1
-  - Lettera_di_San_Giuda
-  - Lettera_di_Giuda
+tags: [Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1, Nuovo_Testamento, Le_altre_Lettere_Cattoliche, Lettera_di_San_Giuda_Apostolo, Capitolo_1, Lettera_di_San_Giuda, Lettera_di_Giuda]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.laparola.net/testo.php?riferimento=Giuda&versioni[]=Diodati)"
+creato: 28/06/2025 22:18:38
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Diodati:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Diodati/NT - 71 3 Giovanni/D 3 Giovanni|↑ 3 Giovanni]] | [[La Sacra Bibbia/Diodati/NT - 72 Giuda/D Giuda| ← Giuda]] | Giuda 1 | [[La Sacra Bibbia/Diodati/NT - 73 Apocalisse/D Apocalisse|Apocalisse →]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione Diodati:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV20 Gd 01|Giuda 1]]
 
 # Giuda 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>GIUDA, servitore di Gesù Cristo, e fratello di Giacomo, a' chiamati, santificati in Dio Padre, e conservati in Cristo Gesù;
 ###### 2
@@ -110,5 +108,7 @@ Versione Diodati:
 <span class=vrs>24</span>Or a colui che è potente da conservarvi senza intoppo, e farvi comparir davanti alla gloria sua irreprensibili, con giubilo;
 ###### 25
 <span class=vrs>25</span>a Dio sol savio, Salvator nostro, sia gloria e magnificenza; imperio, e podestà; ed ora e per tutti i secoli. Amen.
+
 ***
+
 [[La Sacra Bibbia/Diodati/NT - 72 Giuda/D Giuda|Giuda]] | Giuda 1 | [[La Sacra Bibbia/Diodati/NT - 73 Apocalisse/D Apocalisse|Apocalisse →]]

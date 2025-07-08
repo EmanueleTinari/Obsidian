@@ -11,48 +11,44 @@ aliases:
   - Gn
   - Liber Genesis
   - Genesis
-tags:
-  - Antico_Testamento/Il_Pentateuco/Genesi
-  - Vecchio_Testamento/Il_Pentateuco/Genesi
-  - Antico_Testamento/Pentateuco/Genesi
-  - Vecchio_Testamento/Pentateuco/Genesi
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
+tags: [Antico_Testamento/Il_Pentateuco/Genesi, Vecchio_Testamento/Il_Pentateuco/Genesi, Antico_Testamento/Pentateuco/Genesi, Vecchio_Testamento/Pentateuco/Genesi, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/at/Gn/introduzione/)"
+creato: 29/06/2025 17:23:09
+modificato: 09/07/2025 00:15:33
 ---
+
 # Genesi
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Versione C.E.I. 1974: </span>
 >
 >> [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 01|Inizia a leggere →]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
 >
 >> [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 01|01]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 02|02]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 03|03]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 04|04]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 05|05]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 06|06]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 07|07]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 08|08]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 09|09]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 10|10]]<br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 11|11]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 12|12]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 13|13]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 14|14]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 15|15]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 16|16]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 17|17]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 18|18]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 19|19]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 20|20]]<br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 21|21]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 22|22]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 23|23]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 24|24]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 25|25]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 26|26]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 27|27]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 28|28]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 29|29]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 30|30]]<br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 31|31]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 32|32]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 33|33]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 34|34]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 35|35]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 36|36]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 37|37]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 38|38]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 39|39]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 40|40]]<br>[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 41|41]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 42|42]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 43|43]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 44|44]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 45|45]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 46|46]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 47|47]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 48|48]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 49|49]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 50|50]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
 >
 >> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Genesi|Vulgata Latina]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Genesi|Nova Vulgata]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Genesi|CEI 2008]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Genesi|Interconfessionale]] -- [[La Sacra Bibbia/Martini/AT - 01 Genesi/MRT Genesi|Martini]] -- [[La Sacra Bibbia/Ricciotti/AT - 01 Genesi/RCT Genesi|Ricciotti]] -- [[La Sacra Bibbia/Diodati/AT - 01 Genesi/D Genesi|Diodati]] -- [[La Sacra Bibbia/Nuova Diodati/AT - 01 Genesi/ND Genesi|Nuova Diodati]] -- [[La Sacra Bibbia/Riveduta/AT - 01 Genesi/RIV Genesi|Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta/AT - 01 Genesi/NRIV Genesi|Nuova Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Genesi|Nuova Riveduta 2020]]
+>>
 >***
 
-
-
-
 ***
+
 I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalmente denominati dagli Ebrei "la legge, perché costituiscono la base storica, religiosa e giuridica del popolo della salvezza.<br>Quasi tutta la quintuplice opera è dedicata al personaggio e all’opera di Mosè, per mezzo del quale Dio fondò il suo popolo.<br>A lui viene anche attribuito dalla tradizione ebraica e cristiana il Pentateuco, detto perciò "i libri di Mosè".<br>In realtà, nell’opera letteraria convergono fonti assai antiche e aggiunte e modifiche anche di molto posteriori al tempo di Mosè, ma compiute nel suo spirito e sotto la sua autorità come legittimi e necessari adattamenti a condizioni storiche e religiose successive.<br>Questa crescita si avverte anche nel materiale storico.<br>E’ fuori di dubbio che Mosè vi abbia avuto la gran parte e una profonda influenza come autore e legislatore; più complicato è stabilire per quali vie e in quanto tempo si sia giunti all’attuale redazione dei libri.<br>E’ opinione diffusa che nell’opera confluiscano tradizioni e documenti variamente intersecantisi, che si possono scaglionare su un lasso di tempo che va dall’epoca di Mosè (sec. XIII a.C.) all’epoca della restaurazione del popolo d’Israele dopo l’esilio in Babilonia (sec. V a.C.).<br>Il nome Genesi è greco e significa "origini”; infatti, il libro contiene in due parti il racconto delle origini dell’universo e dell’uomo, la preistoria biblica (*<span class="BibleRef">[[Gn 1,1-11,32|capitoli 1-11]]</span>*) e la storia dei patriarchi d’Israele (*<span class="BibleRef">[[Gn 12,1-50,26|capitoli 12-50]]</span>*).<br>La prima parte riferisce in un linguaggio semplice e figurato, adatto all’intelligenza di una umanità meno sviluppata, le verità fondamentali che sono i presupposti della storia della salvezza, con criteri storici che non corrispondo a quelli moderni.<br>L’orizzonte universalistico della prima parte, che mostra tutta l’umanità sotto la guida della provvidenza divina, si restringe nella seconda sugli antenati di Israele: Abramo, Isacco, Giacobbe e i suoi figli, con un racconto che si inserisce più direttamente nella storia conosciuta.<br>La Genesi è il punto di partenza e anche il fondamento della rivelazione cristiana, in quanto dimostra la necessità della salvezza dal peccato, le intenzioni e le iniziative divine per realizzarla con scelte precise, decisi interventi nella storia, ferme promesse, che in Cristo, risolutore della storia umana nel segno della salvezza, avranno pieno adempimento.
 
-
 ***
-
 
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 01|Genesi 01]]:
 
@@ -266,8 +262,6 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 - Nobiltà di Giuseppe e sua morte.
 - Morte di Giuseppe.
 
-
 ***
-
 
 [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 01|Inizia a leggere →]]

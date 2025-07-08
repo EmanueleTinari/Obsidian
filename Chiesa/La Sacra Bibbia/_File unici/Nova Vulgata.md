@@ -1,3 +1,8 @@
+---
+creato: 28/06/2025 14:22:00
+modificato: 09/07/2025 00:15:33
+---
+
 # Nova Vulgata
 
 ## Vetus Testamentum
@@ -5,7 +10,9 @@
 ### Liber Genesis
 
 #### 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In principio creavit Deus caelum et terram.
 ###### 2
@@ -70,7 +77,9 @@ masculum et feminam creavit eos.
 <span class=vrs>30</span>et cunctis animantibus terrae omnique volucri caeli et universis, quae moventur in terra et in quibus est anima vivens, omnem herbam virentem ad vescendum”. Et factum est ita.
 ###### 31
 <span class=vrs>31</span>Viditque Deus cuncta, quae fecit, et ecce erant valde bona. Et factum est vespere et mane, dies sextus.
+
 ***
+
 #### 2
 #### 3
 #### 4
@@ -1279,7 +1288,9 @@ masculum et feminam creavit eos.
 ### Evangelium secundum Matthaeum
 
 #### 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Liber generationis Iesu Christi filii David filii Abraham.
 ###### 2
@@ -1330,9 +1341,13 @@ masculum et feminam creavit eos.
 <span class=vrs>24</span>Exsurgens autem Ioseph a somno fecit, sicut praecepit ei angelus Domini, et accepit coniugem suam;
 ###### 25
 <span class=vrs>25</span>et non cognoscebat eam, donec peperit filium, et vocavit nomen eius Iesum.
+
 ***
+
 #### 2
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Cum autem natus esset Iesus in Bethlehem Iudaeae in diebus Herodis regis, ecce Magi ab oriente venerunt Hierosolymam
 ###### 2
@@ -1379,9 +1394,13 @@ masculum et feminam creavit eos.
 <span class=vrs>22</span>Audiens autem quia Archelaus regnaret in Iudaea pro Herode patre suo, timuit illuc ire; et admonitus in somnis, secessit in partes Galilaeae
 ###### 23
 <span class=vrs>23</span>et veniens habitavit in civitate, quae vocatur Nazareth, ut adimpleretur, quod dictum est per Prophetas: "Nazaraeus vocabitur".
+
 ***
+
 #### 3
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In diebus autem illis venit Ioannes Baptista praedicans in deserto Iudaeae
 ###### 2
@@ -1417,9 +1436,13 @@ masculum et feminam creavit eos.
 ###### 17
 <span class=vrs>17</span>Et ecce vox de caelis dicens: "Hic est Filius meus dilectus, in quo
 mihi complacui".
+
 ***
+
 #### 4
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Tunc Iesus ductus est in desertum a Spiritu, ut tentaretur a Diabolo.
 ###### 2
@@ -1470,9 +1493,13 @@ mihi complacui".
 <span class=vrs>24</span>Et abiit opinio eius in totam Syriam; et obtulerunt ei omnes male habentes, variis languoribus et tormentis comprehensos, et qui daemonia habebant, et lunaticos et paralyticos, et curavit eos.
 ###### 25
 <span class=vrs>25</span>Et secutae sunt eum turbae multae de Galilaea et Decapoli et Hierosolymis et Iudaea et de trans Iordanem.
+
 ***
+
 #### 5
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Videns autem turbas, ascendit in montem; et cum sedisset, accesserunt ad eum discipuli eius;
 ###### 2
@@ -1569,9 +1596,13 @@ mihi complacui".
 <span class=vrs>47</span>Et si salutaveritis fratres vestros tantum, quid amplius facitis? Nonne et ethnici hoc faciunt?
 ###### 48
 <span class=vrs>48</span>Estote ergo vos perfecti, sicut Pater vester caelestis perfectus est.
+
 ***
+
 #### 6
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Attendite, ne iustitiam vestram faciatis coram hominibus, ut videamini ab eis; alioquin mercedem non habetis apud Patrem vestrum, qui in caelis est.
 ###### 2
@@ -1640,9 +1671,13 @@ mihi complacui".
 <span class=vrs>33</span>Quaerite autem primum regnum Dei et iustitiam eius, et haec omnia adicientur vobis.
 ###### 34
 <span class=vrs>34</span>Nolite ergo esse solliciti in crastinum; crastinus enim dies sollicitus erit sibi ipse. Sufficit diei malitia sua.
+
 ***
+
 #### 7
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Nolite iudicare, ut non iudice mini;
 ###### 2
@@ -1703,8 +1738,11 @@ mihi complacui".
 <span class=vrs>29</span>erat enim docens eos sicut potestatem habens, et non sicut scribae eorum.
 
 ***
+
 #### 8
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Cum autem descendisset de monte, secutae sunt eum turbae multae.
 ###### 2
@@ -1773,9 +1811,13 @@ mihi complacui".
 <span class=vrs>33</span>Pastores autem fugerunt et venientes in civitatem nuntiaverunt omnia et de his, qui daemonia habuerant.
 ###### 34
 <span class=vrs>34</span>Et ecce tota civitas exiit obviam Iesu, et viso eo rogabant, ut transiret a finibus eorum.
+
 ***
+
 #### 9
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et ascendens in naviculam transfretavit et venit in civitatem suam.
 ###### 2
@@ -1852,9 +1894,13 @@ mihi complacui".
 <span class=vrs>37</span>Tunc dicit discipulis suis: "Messis quidem multa, operarii autem pauci;
 ###### 38
 <span class=vrs>38</span>rogate ergo Dominum messis, ut mittat operarios in messem suam".
+
 ***
+
 #### 10
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et convocatis Duodecim discipulis suis, dedit illis potestatem spirituum immundorum, ut eicerent eos et curarent omnem languorem et omnem infirmitatem.
 ###### 2
@@ -1939,9 +1985,13 @@ mihi complacui".
 <span class=vrs>41</span>Qui recipit prophetam in nomine prophetae, mercedem prophetae accipiet; et, qui recipit iustum in nomine iusti, mercedem iusti accipiet.
 ###### 42
 <span class=vrs>42</span>Et, quicumque potum dederit uni ex minimis istis calicem aquae frigidae tantum in nomine discipuli, amen dico vobis: Non perdet mercedem suam".
+
 ***
+
 #### 11
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et factum est, cum consummasset Iesus praecipiens Duodecim discipulis suis, transiit inde, ut doceret et praedicaret in civitatibus eorum.
 ###### 2
@@ -2002,9 +2052,13 @@ mihi complacui".
 <span class=vrs>29</span>Tollite iugum meum super vos et discite a me, quia mitis sum et humilis corde, et invenietis requiem animabus vestris.
 ###### 30
 <span class=vrs>30</span>Iugum enim meum suave, et onus meum leve est".
+
 ***
+
 #### 12
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In illo tempore abiit Iesus sabbatis per sata; discipuli autem eius esurierunt et coeperunt vellere spicas et manducare.
 ###### 2
@@ -2105,9 +2159,13 @@ mihi complacui".
 <span class=vrs>49</span>Et extendens manum suam in discipulos suos dixit: "Ecce mater mea et fratres mei.
 ###### 50
 <span class=vrs>50</span>Quicumque enim fecerit voluntatem Patris mei, qui in caelis est, ipse meus frater et soror et mater est".
+
 ***
+
 #### 13
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In illo die exiens Iesus de domo sedebat secus mare;
 ###### 2
@@ -2224,9 +2282,13 @@ mihi complacui".
 <span class=vrs>57</span>Et scandalizabantur in eo. Iesus autem dixit eis: "Non est propheta sine honore nisi in patria et in domo sua".
 ###### 58
 <span class=vrs>58</span>Et non fecit ibi virtutes multas propter incredulitatem illorum.
+
 ***
+
 #### 14
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In illo tempore audivit Herodes tetrarcha famam Iesu
 ###### 2
@@ -2299,9 +2361,13 @@ mihi complacui".
 <span class=vrs>35</span>Et cum cognovissent eum viri loci illius, miserunt in universam regionem illam et obtulerunt ei omnes male habentes,
 ###### 36
 <span class=vrs>36</span>et rogabant eum, ut vel fimbriam vestimenti eius tangerent; et, quicumque tetigerunt, salvi facti sunt.
+
 ***
+
 #### 15
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Tunc accedunt ad Iesum ab Hierosolymis pharisaei et scribae dicentes:
 ###### 2
@@ -2380,9 +2446,13 @@ mihi complacui".
 <span class=vrs>38</span>Erant autem, qui manducaverant, quattuor milia hominum extra mulieres et parvulos.
 ###### 39
 <span class=vrs>39</span>Et dimissis turbis, ascendit in naviculam et venit in fines Magadan.
+
 ***
+
 #### 16
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et accesserunt ad eum pharisaei et sadducaei tentantes et rogaverunt eum, ut signum de caelo ostenderet eis.
 ###### 2
@@ -2439,9 +2509,13 @@ mihi complacui".
 <span class=vrs>27</span>Filius enim hominis venturus est in gloria Patris sui cum angelis suis, et tunc reddet unicuique secundum opus eius.
 ###### 28
 <span class=vrs>28</span>Amen dico vobis: Sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant Filium hominis venientem in regno suo".
+
 ***
+
 #### 17
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et post dies sex assumit Iesus Petrum et Iacobum et Ioannem fratrem eius et ducit illos in montem excelsum seorsum.
 ###### 2
@@ -2496,9 +2570,13 @@ mihi complacui".
 <span class=vrs>26</span>Cum autem ille dixisset: "Ab alienis", dixit illi Iesus: "Ergo liberi sunt filii.
 ###### 27
 <span class=vrs>27</span>Ut autem non scandalizemus eos, vade ad mare et mitte hamum; et eum piscem, qui primus ascenderit, tolle; et, aperto ore, eius invenies staterem. Illum sumens, da eis pro me et te".
+
 ***
+
 #### 18
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In illa hora accesserunt discipuli ad Iesum dicentes: "Quis putas maior est in regno caelorum?".
 ###### 2
@@ -2570,9 +2648,13 @@ Quid vobis videtur? Si fuerint alicui centum oves, et erraverit una ex eis, nonn
 <span class=vrs>34</span>Et iratus dominus eius tradidit eum tortoribus, quoadusque redderet universum debitum.
 ###### 35
 <span class=vrs>35</span>Sic et Pater meus caelestis faciet vobis, si non remiseritis unusquisque fratri suo de cordibus vestris".
+
 ***
+
 #### 19
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et factum est, cum consummasset Iesus sermones istos, migravit a Galilaea et venit in fines Iudaeae trans Iordanem.
 ###### 2
@@ -2633,9 +2715,13 @@ Quid vobis videtur? Si fuerint alicui centum oves, et erraverit una ex eis, nonn
 <span class=vrs>29</span>Et omnis, qui reliquit domos vel fratres aut sorores aut patrem aut matrem aut filios aut agros propter nomen meum, centuplum accipiet et vitam aeternam possidebit.
 ###### 30
 <span class=vrs>30</span>Multi autem erunt primi novissimi, et novissimi primi.
+
 ***
+
 #### 20
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Simile est enim regnum caelorum homini patri familias, qui exiit primo mane conducere operarios in vineam suam;
 ###### 2
@@ -2704,9 +2790,13 @@ Quid vobis videtur? Si fuerint alicui centum oves, et erraverit una ex eis, nonn
 <span class=vrs>33</span>Dicunt illi: "Domine, ut aperiantur oculi nostri".
 ###### 34
 <span class=vrs>34</span>Misertus autem Iesus, tetigit oculos eorum; et confestim viderunt et secuti sunt eum.
+
 ***
+
 #### 21
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et cum appropinquassent Hierosolymis et venissent Bethfage, ad montem Oliveti, tunc Iesus misit duos discipulos
 ###### 2
@@ -2799,9 +2889,13 @@ Quid vobis videtur? Si fuerint alicui centum oves, et erraverit una ex eis, nonn
 <span class=vrs>45</span>Et cum audissent principes sacerdotum et pharisaei parabolas eius, cognoverunt quod de ipsis diceret;
 ###### 46
 <span class=vrs>46</span>et quaerentes eum tenere, timuerunt turbas, quoniam sicut prophetam eum habebant.
+
 ***
+
 #### 22
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et respondens Iesus dixit iterum in parabolis eis dicens:
 ###### 2
@@ -2894,9 +2988,13 @@ Quid vobis videtur? Si fuerint alicui centum oves, et erraverit una ex eis, nonn
 <span class=vrs>45</span>Si ergo David vocat eum Dominum, quomodo filius eius est?".
 ###### 46
 <span class=vrs>46</span>Et nemo poterat respondere ei verbum, neque ausus fuit quisquam ex illa die eum amplius interrogare.
+
 ***
+
 #### 23
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Tunc Iesus locutus est ad turbas et ad discipulos suos
 ###### 2
@@ -2976,9 +3074,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>38</span>Ecce relinquitur vobis domus vestra deserta!
 ###### 39
 <span class=vrs>39</span>Dico enim vobis: Non me videbitis amodo, donec dicatis: Benedictus, qui venit in nomine Dominil".
+
 ***
+
 #### 24
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et egressus Iesus de templo ibat, et accesserunt discipuli eius, ut ostenderent ei aedificationes templi;
 ###### 2
@@ -3081,9 +3183,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>50</span>veniet dominus servi illius in die, qua non sperat, et in hora, qua ignorat,
 ###### 51
 <span class=vrs>51</span>et dividet eum partemque eius ponet cum hypocritis; illic erit fletus et stridor dentium.
+
 ***
+
 #### 25
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Tunc simile erit regnum caelorum decem virginibus, quae accipientes lampades suas exierunt obviam sponso.
 ###### 2
@@ -3176,9 +3282,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>45</span>Tunc respondebit illis dicens: "Amen dico vobis: Quamdiu non fecistis uni de minimis his, nec mihi fecistis".
 ###### 46
 <span class=vrs>46</span>Et ibunt hi in supplicium aeternum, iusti autem in vitam aeternam".
+
 ***
+
 #### 26
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et factum est, cum consummasset Iesus sermones hos omnes, dixit discipulis suis:
 ###### 2
@@ -3329,9 +3439,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>74</span>Tunc coepit detestari et iurare: "Non novi hominem!". Et continuo gallus cantavit;
 ###### 75
 <span class=vrs>75</span>et recordatus est Petrus verbi Iesu, quod dixerat: "Priusquam gallus cantet, ter me negabis". Et egressus foras ploravit amare.
+
 ***
+
 #### 27
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Mane autem facto, consilium inierunt omnes principes sacerdotum et seniores populi adversus Iesum, ut eum morti traderent.
 ###### 2
@@ -3464,9 +3578,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>65</span>Ait illis Pilatus: "Habetis custodiam; ite, custodite, sicut scitis".
 ###### 66
 <span class=vrs>66</span>Illi autem abeuntes munierunt sepulcrum, signantes lapidem, cum custodia.
+
 ***
+
 #### 28
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Sero autem post sabbatum, cum illucesceret in primam sabbati, venit Maria Magdalene et altera Maria videre sepulcrum.
 ###### 2
@@ -3507,11 +3625,15 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>19</span>Euntes ergo docete omnes gentes, baptizantes eos in nomine Patris et Filii et Spiritus Sancti,
 ###### 20
 <span class=vrs>20</span>docentes eos servare omnia, quaecumque mandavi vobis. Et ecce ego vobiscum sum omnibus diebus usque ad consummationem saeculi".
+
 ***
+
 ### Evangelium secundum Marcum
 
 #### 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Initium evangelii Iesu Christi Filii Dei.
 ###### 2
@@ -3602,9 +3724,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>44</span>et dicit ei: “Vide, nemini quidquam dixeris; sed vade, ostende te sacerdoti et offer pro emundatione tua, quae praecepit Moyses, in testimonium illis”.
 ###### 45
 <span class=vrs>45</span>At ille egressus coepit praedicare multum et diffamare sermonem, ita ut iam non posset manifesto in civitatem introire, sed foris in desertis locis erat; et conveniebant ad eum undique.
+
 ***
+
 #### 2
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et iterum intravit Capharnaum post dies, et auditum est quod in domo esset.
 ###### 2
@@ -3661,9 +3787,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>27</span>Et dicebat eis: “Sabbatum propter hominem factum est, et non homo propter sabbatum;
 ###### 28
 <span class=vrs>28</span>itaque dominus est Filius hominis etiam sabbati”.
+
 ***
+
 #### 3
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et introivit iterum in synagogam. Et erat ibi homo habens manum aridam;
 ###### 2
@@ -3734,9 +3864,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>34</span>Et circumspiciens eos, qui in circuitu eius sedebant, ait: “Ecce mater mea et fratres mei.
 ###### 35
 <span class=vrs>35</span>Qui enim fecerit voluntatem Dei, hic frater meus et soror mea et mater est”.
+
 ***
+
 #### 4
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et iterum coepit docere ad mare. Et congregatur ad eum turba plurima, ita ut in navem ascendens sederet in mari, et omnis turba circa mare super terram erant.
 ###### 2
@@ -3819,9 +3953,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>40</span>Et ait illis: “Quid timidi estis Necdum habetis fidem”.
 ###### 41
 <span class=vrs>41</span>Et timuerunt magno timore et dicebant ad alterutrum: “Quis putas est iste, quia et ventus et mare oboediunt ei”.
+
 ***
+
 #### 5
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et venerunt trans fretum maris in regionem Gerasenorum.
 ###### 2
@@ -3908,9 +4046,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>42</span>Et confestim surrexit puella et ambulabat; erat enim annorum duodecim. Et obstupuerunt continuo stupore magno.
 ###### 43
 <span class=vrs>43</span>Et praecepit illis vehementer, ut nemo id sciret, et dixit dari illi manducare.
+
 ***
+
 #### 6
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et egressus est inde et venit in patriam suam, et sequuntur illum discipuli sui.
 ###### 2
@@ -4023,9 +4165,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>55</span>et percurrentes universam regionem illam coeperunt in grabatis eos, qui se male habebant, circumferre, ubi audiebant eum esse.
 ###### 56
 <span class=vrs>56</span>Et quocumque introibat in vicos aut in civitates vel in villas, in plateis ponebant infirmos; et deprecabantur eum, ut vel fimbriam vestimenti eius tangerent; et, quotquot tangebant eum, salvi fiebant.
+
 ***
+
 #### 7
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et conveniunt ad eum pharisaei et quidam de scribis venientes ab Hierosolymis;
 ###### 2
@@ -4100,9 +4246,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>36</span>Et praecepit illis, ne cui dicerent; quanto autem eis praecipiebat, tanto magis plus praedicabant.
 ###### 37
 <span class=vrs>37</span>Et eo amplius admirabantur dicentes: “Bene omnia fecit, et surdos facit audire et mutos loqui!”.
+
 ***
+
 #### 8
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In illis diebus iterum cum turba multa esset nec haberent, quod manducarent, convocatis discipulis, ait illis:
 ###### 2
@@ -4179,9 +4329,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>37</span>Quid enim dabit homo commutationem pro anima sua
 ###### 38
 <span class=vrs>38</span>Qui enim me confusus fuerit et mea verba in generatione ista adultera et peccatrice, et Filius hominis confundetur eum, cum venerit in gloria Patris sui cum angelis sanctis”.
+
 ***
+
 #### 9
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et dicebat illis: “Amen dico vobis: Sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant regnum Dei venisse in virtute”.
 ###### 2
@@ -4282,9 +4436,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>49</span>omnis enim igne salietur.
 ###### 50
 <span class=vrs>50</span>Bonum est sal; quod si sal insulsum fuerit, in quo illud condietis Habete in vobis sal et pacem habete inter vos”.
+
 ***
+
 #### 10
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et inde exsurgens venit in fines Iudaeae ultra Iordanem; et conveniunt iterum turbae ad eum, et, sicut consueverat, iterum docebat illos.
 ###### 2
@@ -4389,9 +4547,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>51</span>Et respondens ei Iesus dixit: “Quid vis tibi faciam”. Caecus autem dixit ei: “Rabboni, ut videam”.
 ###### 52
 <span class=vrs>52</span>Et Iesus ait illi: “Vade; fides tua te salvum fecit”. Et confestim vidit et sequebatur eum in via.
+
 ***
+
 #### 11
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et cum appropinquarent Hierosolymae, Bethphage et Bethaniae ad montem Olivarum, mittit duos ex discipulis suis
 ###### 2
@@ -4458,9 +4620,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>32</span>si autem dixerimus: “Ex hominibus””. Timebant populum: omnes enim habebant Ioannem quia vere propheta esset.
 ###### 33
 <span class=vrs>33</span>Et respondentes dicunt Iesu: “Nescimus”. Et Iesus ait illis: “Neque ego dico vobis in qua potestate haec faciam”.
+
 ***
+
 #### 12
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et coepit illis in parabolis loqui: “Vineam pastinavit homo et circumdedit saepem et fodit lacum et aedificavit turrim et locavit eam agricolis et peregre profectus est.
 ###### 2
@@ -4549,9 +4715,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>43</span>Et convocans discipulos suos ait illis: “Amen dico vobis: Vidua haec pauper plus omnibus misit, qui miserunt in gazophylacium:
 ###### 44
 <span class=vrs>44</span>Omnes enim ex eo, quod abundabat illis, miserunt; haec vero de penuria sua omnia, quae habuit, misit, totum victum suum”.
+
 ***
+
 #### 13
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et cum egrederetur de templo, ait illi unus ex discipulis suis: “Magister, aspice quales lapides et quales structurae”.
 ###### 2
@@ -4626,9 +4796,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>36</span>ne, cum venerit repente, inveniat vos dormientes.
 ###### 37
 <span class=vrs>37</span>Quod autem vobis dico, omnibus dico: Vigilate!”.
+
 ***
+
 #### 14
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Erat autem Pascha et Azyma post biduum. Et quaerebant summi sacerdotes et scribae, quomodo eum dolo tenerent et occiderent;
 ###### 2
@@ -4773,9 +4947,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>71</span>Ille autem coepit anathematizare et iurare: “Nescio hominem istum, quem dicitis!”.
 ###### 72
 <span class=vrs>72</span>Et statim iterum gallus cantavit; et recordatus est Petrus verbi, sicut dixerat ei Iesus: “Priusquam gallus cantet bis, ter me negabis”. Et coepit flere.
+
 ***
+
 #### 15
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et confestim mane consilium facientes summi sacerdotes cum senioribus et scribis, id est universum concilium, vincientes Iesum duxerunt et tradiderunt Pilato.
 ###### 2
@@ -4870,9 +5048,13 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>46</span>Is autem mercatus sindonem et deponens eum involvit sindone et posuit eum in monumento, quod erat excisum de petra, et advolvit lapidem ad ostium monumenti.
 ###### 47
 <span class=vrs>47</span>Maria autem Magdalene et Maria Iosetis aspiciebant, ubi positus esset.
+
 ***
+
 #### 16
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et cum transisset sabbatum, Maria Magdalene et Maria Iacobi et Salome emerunt aromata, ut venientes ungerent eum.
 ###### 2
@@ -4913,7 +5095,9 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>19</span>Et Dominus quidem Iesus, postquam locutus est eis, assumptus est in caelum et sedit a dextris Dei.
 ###### 20
 <span class=vrs>20</span>Illi autem profecti praedicaverunt ubique, Domino cooperante et sermonem confirmante, sequentibus signis.
+
 ***
+
 ### Evangelium secundum Lucam
 
 #### 1
@@ -5179,7 +5363,9 @@ enim non intratis nec introeuntes sinitis intrare.
 ### Epistula Iudae
 
 #### 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Iudas Iesu Christi servus, frater autem Iacobi, his qui sunt vocati, in Deo Patre dilecti et Christo Iesu conservati:
 ###### 2
@@ -5230,7 +5416,9 @@ enim non intratis nec introeuntes sinitis intrare.
 <span class=vrs>24</span>Ei autem, qui potest vos conservare sine peccato et constituere ante conspectum gloriae suae immaculatos in exsultatione,
 ###### 25
 <span class=vrs>25</span>soli Deo salvatori nostro per Iesum Christum Dominum nostrum gloria, magnificentia, imperium et potestas ante omne saeculum et nunc et in omnia saecula. Amen.
+
 ***
+
 ### Apocalypsis Ioannis
 
 #### 1

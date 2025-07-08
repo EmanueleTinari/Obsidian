@@ -1,3 +1,8 @@
+---
+creato: 28/06/2025 16:19:59
+modificato: 09/07/2025 00:15:33
+---
+
 # La Sacra Bibbia C.E.I. 1974
 
 ## Antico Testamento
@@ -1525,7 +1530,9 @@
 ### Lettera di Giuda
 
 #### 1
+
 ***
+
 ##### False dottrine e falsi dottori
 ###### 1
 <span class=vrs>1</span>Giuda, servo di Gesù Cristo, e fratello di Giacomo, a quelli che sono amati da Dio Padre e conservati e chiamati in Cristo Gesù.
@@ -1579,7 +1586,9 @@
 <span class=vrs>24</span>A Colui poi che è potente di conservarvi senza peccato e farvi comparire, immacolati, davanti alla sua gloria in esultanza, nella venuta del Signor nostro Gesù Cristo,
 ###### 25
 <span class=vrs>25</span>al solo Dio, Salvator nostro per mezzo di Gesù Cristo, nostro Signore, siano gloria, maestà, signoria e potestà innanzi a tutti i secoli e ora e per tutti i secoli dei secoli. Amen.
+
 ***
+
 ### Apocalisse
 
 #### 1

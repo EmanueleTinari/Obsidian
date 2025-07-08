@@ -12,16 +12,13 @@ data-doc: 1965-12-07
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Costituzione
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Gaudium_et_Spes
+tags: [Costituzione, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Gaudium_et_Spes]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html)"
-creato: 2025-06-14T08:20:29
+creato: 13/06/2025 19:39:07
 aggiornato: 2025-06-14T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -429,14 +426,15 @@ Arcivescovo tit. di Samosata
 Segretario Generale del Ss. Concilio
 
 ***
+
 Firme dei Padri<br><br>Ego PAULUS Catholicae Ecclesiae Episcopus<br><br>† Ego EUGENIUS Episcopus Ostiensis ac Portuensis et S. Rufinae Cardinalis TISSERANT, Sacri Collegii Decanus.<br>† Ego IOSEPHUS Episcopus Albanensis Cardinalis PIZZARDO.<br>† Ego BENEDICTUS Episcopus Praenestinus Cardinalis ALOISI MASELLA.<br>† Ego FERDINANDUS Episcopus tit. Veliternus Cardinalis CENTO.<br>† Ego HAMLETUS IOANNES Episcopus tit. Tusculanus Cardinalis CICOGNANI.<br>† Ego IOSEPHUS Episcopus tit. Sabinensis et Mandelensis Cardinalis FERRETTO.<br>† Ego IGNATIUS GABRIEL Cardinalis TAPPOUNI, Patriarcha Antiochenus Syrorum.<br>† Ego MAXIMUS IV Cardinalis SAIGH, Patriarcha Antiochenus Melkitarum.<br>† Ego PAULUS PETRUS Cardinalis MEOUCHI, Patriarcha Antiochenus Maronitarum.<br>† Ego STEPHANUS I Cardinalis SIDAROUSS, Patriarcha Alexandrinus Coptorum.<br>† Ego EMMANUEL tit. Ss. Marcellini et Petri Presbyter Cardinalis GONÇALVES CEREJEIRA, Patriarcha Lisbonensis.<br>† Ego ACHILLES titulo S. Sixti Presbyter Cardinalis LIÉNART, Episcopus Insulensis.<br>Ego IACOBUS ALOISIUS titulo S. Laurentii in Damaso Presbyter Cardinalis COPELLO, S. R. E. Cancellarius.<br>Ego GREGORIUS PETRUS titulo S. Bartholomaei in Insula Presbyter Cardinalis AGAGIANIAN.<br>† Ego VALERIANUS titulo S. Mariae in Via Lata Presbyter Cardinalis GRACIAS, Archiepiscopus Bombayensis.<br>† Ego IOANNES titulo S. Marci Presbyter Cardinalis URBANI, Patriarcha Venetiarum.<br>Ego PAULUS titulo S. Mariae in Vallicella Presbyter Cardinalis GIOBBE, S. R. E. Datarius.<br>† Ego IOSEPHUS titulo S. Honuphrii in Ianiculo Presbyter Cardinalis GARIBI Y RIVERA, Archiepiscopus Guadalajarensis.<br>Ego CAROLUS titulo S. Agnetis extra moenia Presbyter Cardinalis CONFALONIERI.<br>† Ego PAULUS titulo Ss. Quirici et Iulittae Presbyter Cardinalis RICHAUD, Archiepiscopus Burdigalensis.<br>† Ego IOSEPHUS M. titulo Ss. Viti, Modesti et Crescentiae Presbyter Cardinalis BUENO Y MONREAL, Archiepiscopus Hispalensis.<br>† Ego FRANCISCUS titulo S. Eusebii Presbyter Cardinalis KÖNIG, Archiepiscopus Vindobonensis.<br>† Ego IULIUS titulo S. Mariae Scalaris Presbyter Cardinalis DÖPFNER, Archiepiscopus Monacensis et Frisingensis.<br>Ego PAULUS titulo S. Andreae Apostoli de Hortis Presbyter Cardinalis MARELLA.<br>Ego GUSTAVUS titulo S. Hieronymi Illyricorum Presbyter Cardinalis TESTA.<br>Ego ALOISIUS titulo S. Andreae de Valle Presbyter Cardinalis TRAGLIA.<br>† Ego PETRUS TATSUO titulo S. Antonii Patavini de Urbe Presbyter Cardinalis DOI, Archiepiscopus Tokiensis.<br>† Ego IOSEPHUS titulo S. Ioannis Baptistae Florentinorum Presbyter Cardinalis LEFEBVRE, Archiepiscopus Bituricensis.<br>† Ego BERNARDUS titulo S. Ioachimi Presbyter Cardinalis ALFRINK, Archiepiscopus Ultraiectensis.<br>† Ego RUFINUS I. titulo S. Mariae ad Montes Presbyter Cardinalis SANTOS, Archiepiscopus Manilensis.<br>† Ego LAUREANUS titulo S. Francisci Assisiensis ad Ripam Maiorem Presbyter Cardinalis RUGAMBWA, Episcopus Bukobaënsis.<br>† Ego IOSEPHUS titulo Ssmi Redemptoris et S. Alfonsi in Exquiliis Presbyter Cardinalis RITTER, Archiepiscopus S. Ludovici.<br>† Ego IOANNES titulo S. Silvestri in Capite Presbyter Cardinalis HEENAN, Archiepiscopus Vestmonasteriensis, Primas Angliae.<br>† Ego IOANNES titulo Ssmae Trinitatis in Monte Pincio Presbyter Cardinalis VILLOT, Archiepiscopus Lugdunensis et Viennensis, Primas Galliae.<br>† Ego PAULUS titulo S. Camilli de Lellis ad Hortos Sallustianos Presbyter Cardinalis ZOUNGRANA, Archiepiscopus Uagaduguensis.<br>† Ego HENRICUS titulo S. Agathae in Urbe Presbyter Cardinalis DANTE.<br>Ego CAESAR titulo D.nae N.ae a Sacro Corde in Circo Agonali Presbyter Cardinalis ZERBA.<br>† Ego AGNELLUS titulo Praecelsae Dei Matris Presbyter Cardinalis ROSSI, Archiepiscopus S. Pauli in Brasilia.<br>† Ego IOANNES titulo S. Martini in Montibus Presbyter Cardinalis COLOMBO, Archiepiscopus Mediolanensis.<br>† Ego GUILLELMUS titulo S. Patricii ad Villam Ludovisi Presbyter Cardinalis CONWAY, Archiepiscopus Armachanus, totius Hiberniae Primas.<br>† Ego ANGELUS titulo Sacri Cordis Beatae Mariae Virginis ad forum Euclidis Presbyter Cardinalis HERRERA, Episcopus Malacitanus.<br>Ego ALAPHRIDUS S. Mariae in Domnica Protodiaconus Cardinalis OTTAVIANI.<br>Ego ALBERTUS S. Pudentianae Diaconus Cardinalis DI JORIO.<br>Ego FRANCISCUS S. Mariae in Cosmedin Diaconus Cardinalis ROBERTI.<br>Ego ARCADIUS SS. Blasii et Caroli ad Catinarios Diaconus Cardinalis LARRAONA.<br>Ego FRANCISCUS SS. Cosmae et Damiani Diaconus Cardinalis MORANO.<br>Ego GUILLELMUS THEODORUS S. Theodori in Palatio Cardinalis HEARD.<br>Ego AUGUSTINUS S. Sabae Diaconus Cardinalis BEA.<br>Ego ANTONIUS S. Eugenii Diaconus Cardinalis BACCI.<br>Ego FRATER MICHAEL S. Pauli in Arenula Diaconus Cardinalis BROWNE.<br>Ego FRIDERICUS S. Ioannis Bosco in via Tusculana Diaconus Cardinalis Callori DI VIGNALE
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: La Costituzione Pastorale "Sulla Chiesa nel mondo contemporaneo" consta di due parti, ma un tutto unitario.<br>La Costituzione detta "Pastorale" perché, basata sui principi dottrinali, intende esporre l’atteggiamento della Chiesa verso il mondo e gli uomini d’oggi.<br>Non manca dunque né l’intento pastorale nella prima parte, né l’intento dottrinale nella seconda.<br>Nella prima parte la Chiesa sviluppa la sua dottrina sull’uomo, sul mondo nel quale l’uomo inserito e sul suo rapporto con queste realtà .<br>Nella seconda considera pi da vicino i diversi aspetti della vita odierna e della società umana, e precisamente in particolare le questioni e i problemi che ai nostri tempi sembrano pi urgenti in questo campo.<br>Per cui in questa seconda parte la materia, soggetta ai principi dottrinali, consta di elementi non solo immutabili, ma anche contingenti.<br>Perciò la Costituzione dev’essere interpretata secondo le norme generali dell’interpretazione teologica, e ciò tenendo conto, soprattutto nella sua seconda parte, delle mutevoli circostanze con le quali sono connessi, per loro natura, gli argomenti di cui si tratta.

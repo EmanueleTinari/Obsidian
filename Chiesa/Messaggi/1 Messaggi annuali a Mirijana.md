@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+creato: 31/05/2025 15:22:33
+modificato: 09/07/2025 00:14:22
 ---
 
 # L'ultimo degli incontri giornalieri della veggente Mirijana Dragičević-Soldo con la Regina della Pace, il giorno di Natale 1982

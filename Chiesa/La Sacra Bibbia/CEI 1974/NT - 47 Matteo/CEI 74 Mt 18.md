@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/18/)"
+creato: 27/05/2025 21:53:13
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1 ]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 17| ← Matteo 17]] | Matteo 18 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 19|Matteo 19 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 18|Matteo 18]]
 
 # Matteo 18
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In quel momento i discepoli si avvicinarono a Gesù dicendo: "Chi dunque è il più grande nel regno dei cieli?".
 ###### 2
@@ -118,5 +123,7 @@ Versione C.E.I. 1974:
 <span class=vrs>34</span>E, sdegnato, il padrone lo diede in mano agli aguzzini, finché non gli avesse restituito tutto il dovuto.
 ###### 35
 <span class=vrs>35</span>Così anche il mio Padre celeste farà a ciascuno di voi, se non perdonerete di cuore al vostro fratello".
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 17| ← Matteo 17]] | Matteo 18 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 19|Matteo 19 →]]

@@ -11,47 +11,41 @@ aliases:
   - Gn
   - Liber Genesis
   - Genesis
-tags:
-  - Antico_Testamento/Il_Pentateuco/Genesi
-  - Vecchio_Testamento/Il_Pentateuco/Genesi
-  - Antico_Testamento/Pentateuco/Genesi
-  - Vecchio_Testamento/Pentateuco/Genesi
-  - Antico_Testamento/Legge/Genesi/
-  - Vecchio_Testamento/Legge/Genesi/
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - La_Legge
-  - Legge
-  - Libro_della_Genesi
-  - Genesi
+tags: [Antico_Testamento/Il_Pentateuco/Genesi, Vecchio_Testamento/Il_Pentateuco/Genesi, Antico_Testamento/Pentateuco/Genesi, Vecchio_Testamento/Pentateuco/Genesi, Antico_Testamento/Legge/Genesi/, Vecchio_Testamento/Legge/Genesi/, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, La_Legge, Legge, Libro_della_Genesi, Genesi]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/INTERCONFESSIONALE/at/Gn/introduzione/)"
+creato: 30/06/2025 13:13:06
+modificato: 09/07/2025 00:15:33
 ---
+
 # Genesi
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Versione Interconfessionale: </span>
 >
 >> [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 01|Inizia a leggere →]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
 >
 >> [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 01|01]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 02|02]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 03|03]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 04|04]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 05|05]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 06|06]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 07|07]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 08|08]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 09|09]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 10|10]]<br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 11|11]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 12|12]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 13|13]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 14|14]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 15|15]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 16|16]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 17|17]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 18|18]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 19|19]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 20|20]]<br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 21|21]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 22|22]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 23|23]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 24|24]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 25|25]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 26|26]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 27|27]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 28|28]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 29|29]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 30|30]]<br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 31|31]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 32|32]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 33|33]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 34|34]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 35|35]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 36|36]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 37|37]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 38|38]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 39|39]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 40|40]]<br>[[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 41|41]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 42|42]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 43|43]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 44|44]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 45|45]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 46|46]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 47|47]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 48|48]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 49|49]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 50|50]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
 >
 >> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Genesi|Vulgata Latina]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Genesi|Nova Vulgata]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Genesi|CEI 1974]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Genesi|CEI 2008]] -- [[La Sacra Bibbia/Martini/AT - 01 Genesi/MRT Genesi|Martini]] -- [[La Sacra Bibbia/Ricciotti/AT - 01 Genesi/RCT Genesi|Ricciotti]] -- [[La Sacra Bibbia/Diodati/AT - 01 Genesi/D Genesi|Diodati]] -- [[La Sacra Bibbia/Nuova Diodati/AT - 01 Genesi/ND Genesi|Nuova Diodati]] -- [[La Sacra Bibbia/Riveduta/AT - 01 Genesi/RIV Genesi|Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta/AT - 01 Genesi/NRIV Genesi|Nuova Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Genesi|Nuova Riveduta 2020]]
+>>
 >***
 
-
-
-
 ***
+
 ### Caratteristiche principali
 La Genesi è il primo dei cinque libri che gli Ebrei chiamano Torah (‘legge’ o meglio ‘istruzione’) e i cristiani, di solito, Pentateuco. Quest’ultima parola deriva dal greco e significa appunto ‘cinque rotoli’, ossia ‘cinque libri’. Anche Genesi è una parola derivata dal greco e vuol dire ‘inizio’, ‘origine’. Questo libro fu intitolato così nelle antiche traduzioni greche e latine perché parla delle origini del mondo, dell’umanità, del popolo di Dio.<br><br>Il libro si può dividere in due parti.<br><br>La prima parte (*<span class="BibleRef">[[Gn 1,1-11,32|capitoli 1-11]]</span>*) presenta la creazione del mondo e dell’uomo e l’origine del peccato e della sofferenza; poi racconta di Caino e Abele, di Noè e del diluvio, della torre di Babele.<br><br>La seconda parte (*<span class="BibleRef">[[Gn 12,1-50,26|capitoli 12-50]]</span>*) racconta le vicende dei patriarchi, cioè degli antenati del popolo ebraico: Abramo (*<span class="BibleRef">[[Gn 12,1-23,20|Genesi 12-23]]</span>*), Isacco, Giacobbe, che fu chiamato Israele (*<span class="BibleRef">[[Gn 24,1-36,43|Genesi 24-36]]</span>*) e, infine, Giuseppe, il quale fu al centro degli avvenimenti che portarono Giacobbe e i suoi figli a vivere in Egitto (*<span class="BibleRef">[[Gn 37,1-50,26|Genesi 37-50]]</span>*).<br><br>La Genesi parla dell’azione di Dio tra gli uomini, agli inizi e nei suoi primi sviluppi. Con la sua parola Dio crea l’universo e, ancora con la sua parola, sceglie tra l’umanità, ormai caduta nel peccato, Abramo, colui che darà origine al popolo ebraico, chiamato a servirlo nell’ubbidienza e nella fedeltà. È Dio il protagonista della Genesi: da lui il mondo ha origine e in lui trova un senso; da lui è guidata la storia e da lui viene ogni promessa di salvezza. Abramo è il modello della fede e dell’ubbidienza con la quale ogni uomo è chiamato a rispondere alla azione di Dio; come scrive l’apostolo Paolo (Romani 4,11), «Abramo è diventato padre di tutti quelli che credono in Dio», anche se non appartengono al popolo d’Israele, al quale per primo Dio ha rivolto la sua chiamata.
 ### Autore e ambiente storico
@@ -64,9 +58,7 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 — Giacobbe *<span class="BibleRef">[[Gn 25,19-36,43|25, 19-36, 43]]</span>*
 — La storia di Giuseppe *<span class="BibleRef">[[Gn 37,1-50,26|37, 1-50, 26]]</span>*
 
-
 ***
-
 
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 01|Genesi 01]]:
 
@@ -278,8 +270,6 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 - Nobiltà di Giuseppe e sua morte.
 - Morte di Giuseppe.
 
-
 ***
-
 
 [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 01|Inizia a leggere →]]

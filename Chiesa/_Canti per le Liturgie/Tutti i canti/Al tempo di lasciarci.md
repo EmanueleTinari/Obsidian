@@ -6,8 +6,10 @@ tempo:
   - Settimana Santa
   - Tempo di Pasqua
   - Tempo dopo Pentecoste
-licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-YouTube:  "[Link]()"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+YouTube: "[Link]()"
+creato: 08/07/2025 08:38:25
+modificato: 09/07/2025 00:09:12
 ---
 
 # Al tempo di lasciarci

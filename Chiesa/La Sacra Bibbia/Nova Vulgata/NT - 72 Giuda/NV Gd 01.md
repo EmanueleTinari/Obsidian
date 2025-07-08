@@ -29,19 +29,15 @@ aliases:
   - Iud 1
   - Jude 01
   - Jude 1
-tags:
-  - Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1
-  - Nuovo_Testamento
-  - Le_altre_Lettere_Cattoliche
-  - Lettera_di_San_Giuda_Apostolo
-  - Capitolo_1
-  - Lettera_di_San_Giuda
-  - Lettera_di_Giuda
+tags: [Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1, Nuovo_Testamento, Le_altre_Lettere_Cattoliche, Lettera_di_San_Giuda_Apostolo, Capitolo_1, Lettera_di_San_Giuda, Lettera_di_Giuda]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_epist-iudae_lt.html)"
+creato: 28/06/2025 22:19:26
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Nova Vulgata/NT - 71 3 Giovanni/NV 3 Giovanni|↑ Epistola Joannis Tertia]] | [[La Sacra Bibbia/Nova Vulgata/NT - 72 Giuda/NV Giuda| ← Judæ]] | Judæ 1 | [[La Sacra Bibbia/Nova Vulgata/NT - 73 Apocalisse/NV Apocalisse|Apocalypsis →]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione Nova Vulgata:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV20 Gd 01|Giuda 1]]
 
 # Judæ 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Iudas Iesu Christi servus, frater autem Iacobi, his qui sunt vocati, in Deo Patre dilecti et Christo Iesu conservati:
 ###### 2
@@ -110,5 +108,7 @@ Versione Nova Vulgata:
 <span class=vrs>24</span>Ei autem, qui potest vos conservare sine peccato et constituere ante conspectum gloriae suae immaculatos in exsultatione,
 ###### 25
 <span class=vrs>25</span>soli Deo salvatori nostro per Iesum Christum Dominum nostrum gloria, magnificentia, imperium et potestas ante omne saeculum et nunc et in omnia saecula. Amen.
+
 ***
+
 [[La Sacra Bibbia/Nova Vulgata/NT - 72 Giuda/NV Giuda| ← Judæ]] | Judæ 1 | [[La Sacra Bibbia/Nova Vulgata/NT - 73 Apocalisse/NV Apocalisse|Apocalypsis →]]

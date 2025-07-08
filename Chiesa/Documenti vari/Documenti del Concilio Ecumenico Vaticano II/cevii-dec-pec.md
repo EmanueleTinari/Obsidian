@@ -12,16 +12,13 @@ data-doc: 1965-10-28
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Decreto
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Perfectae_caritatis
+tags: [Decreto, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Perfectae_caritatis]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_it.html)"
-creato: 2025-06-20T08:20:29
+creato: 20/06/2025 07:23:02
 aggiornato: 2025-06-20T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -169,6 +166,7 @@ Io Paolo<br>Vescovo della Chiesa Cattolica `class: firma-centro`
 Seguono le firme dei Padri.
 
 ***
+
 Firme dei Padri<br><br>Io PAOLO Vescovo della Chiesa Cattolica<br><br>† Ego ANTONIUS titulo S. Laurentii in Panisperna Presbyter Cardinalis GAGGIANO, Archiepiscopus Bonaërensis.<br>Ego PETRUS titulo S. Laurentii in Lucina Presbyter Cardinalis CIRIACI.<br>† Ego IOSEPHUS titulo S. Mariae de Victoria Presbyter Cardinalis SIRI, Archiepiscopus Ianuensis.<br>† Ego IACOBUS titulo S. Mariae in Transpontina Presbyter Cardinalis LERCARO, Archiepiscopus Bononiensis.<br>† Ego STEPHANUS titulo S. Mariae Trans Tiberim Presbyter Cardinalis WYSZYNSKI, Archiepiscopus Gnesnensis et Varsaviensis, Primas Poloniae.<br>† Ego BENIAMINUS titulo S. Vitalis Presbyter Cardinalis DE ARRIBA Y CASTRO, Archiepiscopus Tarraconensis.<br>† Ego FERDINANDUS titulo S. Augustini Presbyter Cardinalis QUIROGA Y PALACIOS, Archiepiscopus Compostellanus.<br>† Ego PAULUS AEMILIUS titulo S. Mariae Angelorum in Thermis Presbyter Cardinalis LEGER, Archiepiscopus Marianopolitanus.<br>† Ego VALERIANUS titulo S. Mariae in Via Lata Presbyter Cardinalis GRACIAS, Archiepiscopus Bombayensis.<br>† Ego IOANNES titulo S. Marci Presbyter Cardinalis URBANI, Patriarcha Venetiarum.<br>Ego PAULUS titulo S. Mariae in Vallicella Presbyter Cardinalis GIOBBE, S. R. E. Datarius.<br>† Ego IOSEPHUS titulo S. Honuphrii in Ianiculo Presbyter Cardinalis GARIBI Y RIVERA, Archiepiscopus Guadalajarensis.<br>† Ego ANTONIUS MARIA titulo S Chrysogoni Presbyter Cardinalis BARBIERI, Archiepiscopus Montisvidei.<br>Ego CAROLUS titulo S. Agnetis extra moenia Presbyter Cardinalis CONFALONIERI.<br>† Ego PAULUS titulo Ss. Quirici et Iulittae Presbyter Cardinalis RICHAUD, Archiepiscopus Burdigalensis.<br>† Ego IOSEPHUS M. titulo Ss. Viti, Modesti et Crescentiae Presbyter Cardinalis BUENO Y MONREAL, Archiepiscopus Hispalensis.<br>† Ego FRANCISCUS titulo S. Eusebii Presbyter Cardinalis KÖNIG, Archiepiscopus Vindobonensis.<br>† Ego IOSEPHUS titulo S. Athanasii Presbyter Cardinalis SLIPYI, Archiepiscopus Maior Ucrainorum.<br>† Ego LAURENTIUS titulo S. Leonis I Presbyter Cardinalis JAEGER, Archiepiscopus Paderbornensis.<br>† Ego IOSEPHUS titulo S. Crucis in via Flaminia Presbyter Cardinalis BERAN, Archiepiscopus Pragensis.<br>† Ego MAURITIUS titulo D.nae N.ae de SS. Sacramento et Martyrum Canadensium Presbyter Cardinalis ROY, Archiepiscopus Quebecensis, Primas Canadiae.<br>† Ego IOSEPHUS titulo S. Teresiae Presbyter Cardinalis MARTIN, Archiepiscopus Rothomagensis.<br>† Ego AUDOËNUS titulo S. Praxedis Presbyter Cardinalis MCCANN, Archiepiscopus Civitatis Capitis.<br>† Ego LEO STEPHANUS titulo S. Balbinae Presbyter Cardinalis DUVAL, Archiepiscopus Algeriensis.<br>† Ego ERMENEGILDUS titulo Reginae Apostolorum Presbyter Cardinalis FLORIT, Archiepiscopus Florentinus.<br>† Ego FRANCISCUS titulo Ss. Petri et Pauli in Via Ostiensi Presbyter Cardinalis ŠEPER, Archiepiscopus Zagrabiensis.<br>† Ego IOANNES titulo S. Silvestri in Capite Presbyter Cardinalis HEENAN, Archiepiscopus Vestmonasteriensis, Primas Angliae.<br>† Ego IOANNES titulo Ssmae Trinitatis in Monte Pincio Presbyter Cardinalis VILLOT, Archiepiscopus Lugdunensis et Viennensis, Primas Galliae.<br>† Ego PAULUS titulo S. Camilli de Lellis ad Hortos Sallustianos Presbyter Cardinalis ZOUNGRANA, Archiepiscopus Uagaduguensis.<br>† Ego LAURENTIUS I. titulo S. Clementis Presbyter Cardinalis SHEHAN, Archiepiscopus Baltimorensis.<br>† Ego HENRICUS titulo S. Agathae in Urbe Presbyter Cardinalis DANTE.<br>Ego CAESAR titulo D.nae N.ae a Sacro Corde in Circo Agonali Presbyter Cardinalis ZERBA.<br>† Ego AGNELLUS titulo Praecelsae Dei Matris Presbyter Cardinalis ROSSI, Archiepiscopus S. Pauli in Brasilia.<br>† Ego IOANNES titulo S. Martini in Montibus Presbyter Cardinalis COLOMBO, Archiepiscopus Mediolanensis.<br>† Ego GUILLELMUS titulo S. Patricii ad Villam Ludovisi Presbyter Cardinalis CONWAY, Archiepiscopus Armachanus, totius Hiberniae Primas.<br>† Ego MICHAEL DARIUS MIRANDA, Archiepiscopus Mexicanus, Primas Mexici.<br>† Ego FRANCISCUS MARIA DA SILVA, Archiepiscopus Bracharensis, Primas Hispaniarum.<br>† Ego PAULUS GOUYON, Archiepiscopus Rhedonensis, Primas Britanniae.<br>† Ego HUMBERTUS MALCHIODI, Archiepiscopus Episcopus Placentinus.
 
 
@@ -186,12 +184,12 @@ Ss. Concilii Notarius
 † Ego FRANCISCUS HANNIBAL FERRETTI `class: pfirmadx2`
 Ss. Concilii Notarius
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Sant'Ambrogio, De Virginitate, l. II, c. II, n. 15.

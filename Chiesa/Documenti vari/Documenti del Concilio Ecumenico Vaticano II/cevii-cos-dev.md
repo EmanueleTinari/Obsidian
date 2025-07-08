@@ -12,16 +12,13 @@ data-doc: 1965-11-18
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Costituzione
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Dei_Verbum
+tags: [Costituzione, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Dei_Verbum]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html)"
-creato: 2025-06-18T08:20:29
+creato: 18/06/2025 23:53:19
 aggiornato: 2025-06-18T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -198,12 +195,12 @@ Roma, presso San Pietro `class: data-luogo`
 `class: firma-centro`
 Io Paolo<br>Vescovo della Chiesa Cattolica
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Cfr. Sant'Agostino, De catechizandis rudibus, 4,8: PL 40, 316.

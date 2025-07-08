@@ -40,7 +40,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/4/)"
+creato: 26/05/2025 21:43:28
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 03| ← Matteo 3]] | Matteo 4 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 05|Matteo 5 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -58,7 +61,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 04|Matteo 4]]
 
 # Matteo 4
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Allora Gesù fu condotto dallo Spirito nel deserto per esser tentato dal diavolo.
 ###### 2
@@ -110,5 +115,7 @@ Versione C.E.I. 1974:
 <span class=vrs>24</span>La sua fama si sparse per tutta la Siria e così condussero a lui tutti i malati, tormentati da varie malattie e dolori, indemoniati, epilettici e paralitici; ed egli li guariva.
 ###### 25
 <span class=vrs>25</span>E grandi folle cominciarono a seguirlo dalla Galilea, dalla Decàpoli, da Gerusalemme, dalla Giudea e da oltre il Giordano.
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 03| ← Matteo 3]] | Matteo 4 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 05|Matteo 5 →]]

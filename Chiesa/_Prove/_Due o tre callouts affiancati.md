@@ -1,6 +1,7 @@
 ---
-creato: 2025-05-12T21:35:39
+creato: 12/05/2025 21:35:39
 aggiornato: 2025-05-13T08:58:00
+modificato: 09/07/2025 00:16:15
 ---
 
 2 Callouts affiancati con sfondo ed elenco puntato

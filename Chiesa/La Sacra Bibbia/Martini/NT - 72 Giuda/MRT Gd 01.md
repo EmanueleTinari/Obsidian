@@ -29,19 +29,15 @@ aliases:
   - Iud 1
   - Jude 01
   - Jude 1
-tags:
-  - Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1
-  - Nuovo_Testamento
-  - Le_altre_Lettere_Cattoliche
-  - Lettera_di_San_Giuda_Apostolo
-  - Capitolo_1
-  - Lettera_di_San_Giuda
-  - Lettera_di_Giuda
+tags: [Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1, Nuovo_Testamento, Le_altre_Lettere_Cattoliche, Lettera_di_San_Giuda_Apostolo, Capitolo_1, Lettera_di_San_Giuda, Lettera_di_Giuda]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.scrutatio.it/bibbia/lettura/it/martini/72/1)"
+creato: 28/06/2025 22:19:47
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Martini:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Martini/NT - 71 3 Giovanni/MRT 3 Giovanni|↑ 3 Giovanni]] | [[La Sacra Bibbia/Martini/NT - 72 Giuda/MRT Giuda| ← Giuda]] | Giuda 1 | [[La Sacra Bibbia/Martini/NT - 73 Apocalisse/MRT Apocalisse|Apocalisse →]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione Martini:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV20 Gd 01|Giuda 1]]
 
 # Giuda 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Giuda servo di Gesù Cristo, e fratello di Jacopo, a quegli, che da Dio Padre sono stati amati, e in Cristo Gesù salvati, e chiamati.
 ###### 2
@@ -110,5 +108,7 @@ Versione Martini:
 <span class=vrs>24</span>Ed a colui, che è potente per custodirvi senza peccato, e costituirvi immacolati, ed esultanti nel cospetto della sua gloria alla venuta del Signor nostro Gesù Cristo:
 ###### 25
 <span class=vrs>25</span>Al solo Dio salvatore nostro per Gesù Cristo Signor nostro, gloria, e magnificenza, e imperio, e potestà prima di tutti i secoli, e adesso, e per tutti i secoli de' secoli. Così sia.
+
 ***
+
 [[La Sacra Bibbia/Martini/NT - 72 Giuda/MRT Giuda|Giuda]] | Giuda 1 | [[La Sacra Bibbia/Martini/NT - 73 Apocalisse/MRT Apocalisse|Apocalisse →]]

@@ -14,10 +14,14 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+creato: 31/05/2025 15:32:46
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Mirijana<br>il 18 marzo 2024
 
 ## Cari figli,<br>io sono con voi grazie all’amore misericordioso di Dio.<br>Ed è per questo che, come madre, vi invito a credere nell'amore.<br>L'amore che è comunione con mio Figlio.<br>Con amore aiutate gli altri ad aprire i loro cuori per conoscere mio Figlio e per amarLo.<br>Figli miei, l'amore fa sì che mio Figlio illumini i vostri cuori con la Sua grazia, cresca in voi e vi doni la pace.<br>Figli miei, se vivete l'amore, se vivete mio Figlio, avrete la pace e sarete felici.<br>La vittoria è nell'amore.<br>Vi ringrazio!
+
 ***
+
 > [!4colonne]- [[Messaggi/2024/2024-02-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 18 marzo 2024 | [[Messaggi/2024/2024-03-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

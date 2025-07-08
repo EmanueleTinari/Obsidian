@@ -1,7 +1,9 @@
 ---
-creato: 2025-05-06T09:01:07
+creato: 06/05/2025 09:01:07
 aggiornato: 2025-05-11T01:23:20
+modificato: 09/07/2025 00:16:22
 ---
+
 ```dataviewjs
 const fm = Object.entries(await dv.page("").file.frontmatter)
   .filter(obj => obj[0] != "Tags" )

@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]"
 successore: "[[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]"
 aliases:
- - Papa  Giovanni Paolo II
- - Giovanni Paolo II
- - Ioannes Paulus II
- - Ioannes Paulus PP. II
-tags:
- - Bio
- - Giovanni_Paolo_II
- - Scheda
- - papa
+  - Papa  Giovanni Paolo II
+  - Giovanni Paolo II
+  - Ioannes Paulus II
+  - Ioannes Paulus PP. II
+tags: [Bio, Giovanni_Paolo_II, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 14:01:28
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:12:25
 ---
 
 ***
-

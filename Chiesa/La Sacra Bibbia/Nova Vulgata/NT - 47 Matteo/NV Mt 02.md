@@ -40,7 +40,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
+creato: 27/05/2025 23:53:05
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01| ← Matthæus 1]] | Matthæus 2 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03|Matthæus 3 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -58,7 +61,9 @@ Versione Nova Vulgata:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 02|Matteo 2]]
 
 # Matthæus 2
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Cum autem natus esset Iesus in Bethlehem Iudaeae in diebus Herodis regis, ecce Magi ab oriente venerunt Hierosolymam
 ###### 2
@@ -105,5 +110,7 @@ Versione Nova Vulgata:
 <span class=vrs>22</span>Audiens autem quia Archelaus regnaret in Iudaea pro Herode patre suo, timuit illuc ire; et admonitus in somnis, secessit in partes Galilaeae
 ###### 23
 <span class=vrs>23</span>et veniens habitavit in civitate, quae vocatur Nazareth, ut adimpleretur, quod dictum est per Prophetas: "Nazaraeus vocabitur".
+
 ***
+
 [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01| ← Matthæus 1]] | Matthæus 2 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03| Matthæus 3 → ]]

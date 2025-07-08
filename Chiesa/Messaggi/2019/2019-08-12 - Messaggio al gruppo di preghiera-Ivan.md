@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-12-agosto-2019/)"
+creato: 04/07/2025 06:13:56
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 12 agosto 2019<br>sul Podbrdo, ore 22:00
@@ -22,5 +24,7 @@ Poi ha pregato per un tempo prolungato qui su tutti voi, in particolare su di vo
 
 La Madonna  poi, ci ha benedetto tutti con la sua benedizione materna, ed ha benedetto anche tutto ciò che avete portato perché fosse benedetto.<br>Poi se n’è andata in preghiera, nel segno della luce e della croce, col saluto:
 ## Andate in pace, cari figli miei!
+
 ***
+
 > [!4colonne]- [[Messaggi/2019/2019-08-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 12 agosto 2019 | [[Messaggi/2019/2019-08-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

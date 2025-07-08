@@ -23,20 +23,14 @@ aliases:
   - Genesis 5
   - Liber Genesis 05
   - Liber Genesis 5
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_5
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_5
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_5
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_5, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_5, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_5]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/5)"
+creato: 01/07/2025 21:02:28
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 04| ← Genesis 4]] <span class="bianco">| Genesis 5 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 06|Genesis 6 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -54,7 +48,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 05|Genesi 5]]
 
 # Genesis 5
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Hic est liber generationis Adam. In die qua creavit Deus hominem, ad similitudinem Dei fecit illum.
 ###### 2
@@ -117,5 +113,7 @@ Versione Vulgata Latina:
 <span class=vrs>30</span>Vixitque Lamech, postquam genuit Noë, quingentis nonaginta quinque annis, et genuit filios et filias.
 ###### 31
 <span class=vrs>31</span>Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est. Noë vero cum quingentorum esset annorum, genuit Sem, Cham et Japheth. 
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 04| ← Genesis 4]] | Genesis 5 | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 06|Genesis 6 →]]

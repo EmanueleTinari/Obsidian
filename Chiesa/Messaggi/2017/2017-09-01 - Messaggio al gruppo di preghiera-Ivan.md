@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-1-settembre-2017/)"
+creato: 04/07/2025 21:43:15
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 1 settembre 2017<br>sul Podbrdo, ore 22:00
@@ -21,5 +23,7 @@ Poi ha steso le mani e ha pregato per un periodo di tempo prolungato qui su tutt
 ## Cari figli, anche oggi desidero nuovamente invitarvi a pregare in questo tempo in particolare per le mie intenzioni, per i piani che desidero realizzare con la mia venuta.<br>Pregate, cari figli, e siate perseveranti nella preghiera!<br>La Madre prega per tutti voi ed intercede per tutti voi presso suo Figlio.<br>Grazie, cari figli, per aver risposto anche oggi alla mia chiamata.
 In seguito la Madonna ci ha benedetto tutti con la sua benedizione materna ed ha benedetto anche tutto ciò che avete portato perché venisse benedetto.<br>Poi io ho raccomandato tutti voi, le vostre necessità, le vostre intenzioni, le vostre famiglie ed in particolare tutti i malati.<br>La Madonna ha quindi continuato a pregare qui su tutti noi per un periodo di tempo e in questa preghiera se n’è andata, nel segno della luce e della croce, col saluto:
 ## Andate in pace, cari figli miei!
+
 ***
+
 > [!4colonne]- [[Messaggi/2017/2017-08-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 01 settembre 2017 | [[Messaggi/2017/2017-09-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

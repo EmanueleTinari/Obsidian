@@ -40,7 +40,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/9/)"
+creato: 27/05/2025 09:14:42
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 08| ← Matteo 8]] | Matteo 9 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 10|Matteo 10 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -58,7 +61,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 09|Matteo 9]]
 
 # Matteo 9
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Salito su una barca, Gesù passò all'altra riva e giunse nella sua città.
 ###### 2
@@ -135,5 +140,7 @@ Versione C.E.I. 1974:
 <span class=vrs>37</span>Allora disse ai suoi discepoli: "La messe è molta, ma gli operai sono pochi!
 ###### 38
 <span class=vrs>38</span>Pregate dunque il padrone della messe che mandi operai nella sua messe!".
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 08| ← Matteo 8]] | Matteo 9 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 10|Matteo 10 →]]

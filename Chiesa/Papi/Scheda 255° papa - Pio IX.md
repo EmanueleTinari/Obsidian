@@ -34,15 +34,11 @@ aliases:
   - Pio IX
   - Pius IX
   - Pius PP. IX
-tags:
-  - Bio
-  - Pio_IX
-  - Scheda
-  - papa
+tags: [Bio, Pio_IX, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 13:39:16
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:11:49
 ---
 
 ***
-

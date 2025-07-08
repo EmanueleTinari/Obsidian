@@ -23,20 +23,14 @@ aliases:
   - Genesis 6
   - Liber Genesis 06
   - Liber Genesis 6
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_6
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_6
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_6
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_6, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_6, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_6]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/6)"
+creato: 01/07/2025 21:16:10
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 05| ← Genesis 5]] <span class="bianco">| Genesis 6 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 07|Genesis 7 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -54,7 +48,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 06|Genesi 6]]
 
 # Genesis 6
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Cumque cœpissent homines multiplicari super terram, et filias procreassent,
 ###### 2
@@ -99,5 +95,7 @@ Versione Vulgata Latina:
 <span class=vrs>21</span>Tolles igitur tecum ex omnibus escis, quæ mandi possunt, et comportabis apud te : et erunt tam tibi, quam illis in cibum.
 ###### 22
 <span class=vrs>22</span>Fecit igitur Noë omnia quæ præceperat illi Deus. 
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 05| ← Genesis 5]] | Genesis 6 | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 07|Genesis 7 →]]

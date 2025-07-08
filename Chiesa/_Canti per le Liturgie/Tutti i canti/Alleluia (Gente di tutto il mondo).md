@@ -3,8 +3,10 @@ cssclasses: canti
 titolo: Alleluia (Gente di tutto il mondo)
 tempo:
   - Tempo di Pasqua
-licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-YouTube:  "[Link]()"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+YouTube: "[Link]()"
+creato: 08/07/2025 15:03:06
+modificato: 09/07/2025 00:09:30
 ---
 
 # Alleluia (Gente di tutto il mondo)

@@ -11,43 +11,41 @@ aliases:
   - Gn
   - Liber Genesis
   - Genesis
-tags:
-  - Antico_Testamento/Il_Pentateuco/Genesi
-  - Vecchio_Testamento/Il_Pentateuco/Genesi
-  - Antico_Testamento/Pentateuco/Genesi
-  - Vecchio_Testamento/Pentateuco/Genesi
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
+tags: [Antico_Testamento/Il_Pentateuco/Genesi, Vecchio_Testamento/Il_Pentateuco/Genesi, Antico_Testamento/Pentateuco/Genesi, Vecchio_Testamento/Pentateuco/Genesi, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI2008/at/Gen/introduzione/)"
+creato: 30/06/2025 09:12:40
+modificato: 09/07/2025 00:15:33
 ---
+
 # Genesi
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Versione C.E.I. 2008: </span>
 >
 >> [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 01|Inizia a leggere →]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
 >
 >> [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 01|01]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 02|02]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 03|03]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 04|04]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 05|05]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 06|06]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 07|07]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 08|08]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 09|09]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 10|10]]<br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 11|11]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 12|12]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 13|13]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 14|14]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 15|15]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 16|16]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 17|17]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 18|18]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 19|19]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 20|20]]<br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 21|21]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 22|22]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 23|23]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 24|24]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 25|25]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 26|26]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 27|27]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 28|28]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 29|29]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 30|30]]<br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 31|31]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 32|32]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 33|33]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 34|34]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 35|35]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 36|36]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 37|37]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 38|38]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 39|39]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 40|40]]<br>[[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 41|41]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 42|42]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 43|43]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 44|44]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 45|45]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 46|46]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 47|47]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 48|48]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 49|49]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 50|50]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
 >
 >> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Genesi|Vulgata Latina]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Genesi|Nova Vulgata]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Genesi|CEI 1974]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Genesi|Interconfessionale]] -- [[La Sacra Bibbia/Martini/AT - 01 Genesi/MRT Genesi|Martini]] -- [[La Sacra Bibbia/Ricciotti/AT - 01 Genesi/RCT Genesi|Ricciotti]] -- [[La Sacra Bibbia/Diodati/AT - 01 Genesi/D Genesi|Diodati]] -- [[La Sacra Bibbia/Nuova Diodati/AT - 01 Genesi/ND Genesi|Nuova Diodati]] -- [[La Sacra Bibbia/Riveduta/AT - 01 Genesi/RIV Genesi|Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta/AT - 01 Genesi/NRIV Genesi|Nuova Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Genesi|Nuova Riveduta 2020]]
+>>
 >***
 
-
-
-
 ***
+
 ### I contenuti
 Il titolo "Genesi" significa "Origine" o "Generazione".<br>In ebraico il libro è indicato con l'espressione iniziale Bereshìt, "In principio".<br>Il libro della Genesi si sviluppa come un solo grande affresco aperto dalla descrizione delle origini (*<span class="BibleRef">[[Gn 1,1-11,26|1,1-11,26]]</span>*) e poi, nella parte più vasta (*<span class="BibleRef">[[Gn 11,27-50,26|11,27-50,26]]</span>*), tutto occupato dalla storia dei patriarchi Abramo, Isacco, Giacobbe e Giuseppe.<br>Si conclude con il racconto della emigrazione in Egitto di Giacobbe e della sua famiglia.<br>Nella parte prima, il libro affronta i grandi enigmi dell'esistenza: origini dell'universo e dell'uomo, quale sia il giusto rapporto dell'uomo con Dio, il problema del bene e del male, del dolore, della morte, la crescita dell'umanità e il suo differenziarsi nello scorrere del tempo.<br>Su questo sfondo vengono poi raccontate le vicende di un singolo uomo, Abramo, che Dio sceglie a suo interlocutore, strumento di benedizione per la sua famiglia e "per tutte le famiglie della terra" (*<span class="BibleRef">[[Gn 12,1-3|12,1-3]]</span>*).<br>Il libro narra quindi le vicende dei discendenti di Abramo.<br>Ecco, a grandi linee, uno schema del libro:
 Creazione e riposo divino (*<span class="BibleRef">[[Gn 1,1-2,4a|1,1-2,4a]]</span>*)
@@ -64,9 +62,7 @@ I quesiti dell'esistenza umana non vengono affrontati con riflessioni o ragionam
 ### L'origine
 Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particolare il popolo tornato dall'esilio babilonese.<br>La tradizione d'Israele e quella della Chiesa hanno attribuito l'intero Pentateuco, e quindi anche il libro della Genesi, all'opera di Mosè.<br>Gli studi degli ultimi secoli hanno mostrato, tuttavia, la complessità del processo di scrittura del libro: tradizioni diverse confluiscono nell'ultima redazione, portando con sé la memoria di momenti storici diversi e ambienti diversi del popolo d'Israele e convogliando riflessioni teologiche differenti sull'esperienza del popolo con il suo Dio.<br>Come tutto il Pentateuco, anche la Genesi dovette raggiungere la sua forma attuale verso i secoli V-IV a.C.
 
-
 ***
-
 
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 01|Genesi 01]]:
 
@@ -279,8 +275,6 @@ Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particol
 - Nobiltà di Giuseppe e sua morte.
 - Morte di Giuseppe.
 
-
 ***
-
 
 [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 01|Inizia a leggere →]]

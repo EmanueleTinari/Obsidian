@@ -40,7 +40,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/5/)"
+creato: 26/05/2025 22:18:12
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 04| ← Matteo 4]] | Matteo 5 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 06|Matteo 6 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -58,7 +61,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 05|Matteo 5]]
 
 # Matteo 5
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Vedendo le folle, Gesù salì sulla montagna e, messosi a sedere, gli si avvicinarono i suoi discepoli.
 ###### 2
@@ -156,5 +161,7 @@ Versione C.E.I. 1974:
 <span class=vrs>47</span>E se date il saluto soltanto ai vostri fratelli, che cosa fate di straordinario? Non fanno così anche i pagani?
 ###### 48
 <span class=vrs>48</span>Siate voi dunque perfetti come è perfetto il Padre vostro celeste.
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 04| ← Matteo 4]] | Matteo 5 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 06|Matteo 6 →]]

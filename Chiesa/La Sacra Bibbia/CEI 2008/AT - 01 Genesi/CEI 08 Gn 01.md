@@ -17,28 +17,20 @@ aliases:
   - Libro della Genesi 1
   - Genesi, capitolo 01
   - Genesi, capitolo 1
-  - Libro della Genesi 01
-  - Libro della Genesi 1
   - Genesis 01
   - Genesis 1
   - Liber Genesis 01
   - Liber Genesis 1
   - Gen 01
   - Gen 1
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_1
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_1
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_1, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_1]
 completato: true
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI2008/at/Gen/1/)"
+creato: 30/06/2025 10:16:34
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 2008:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Genesi| ← Genesi]] <span class="bianco">| Genesi 1 |</span> [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 02|Genesi 2 →]] | [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 50|Genesi 50 ⇥]] | [[La Sacra Bibbia/CEI 2008/NT - 02 Esodo/CEI 08 Esodo|Esodo ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -56,7 +48,9 @@ Versione C.E.I. 2008:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 01|Genesi 1]]
 
 # Genesi 1
+
 ***
+
 ##### CREAZIONE E RIPOSO DIVINO. La creazione
 
 ###### 1
@@ -121,11 +115,13 @@ Versione C.E.I. 2008:
 <span class=vrs>30</span>A tutti gli animali selvatici, a tutti gli uccelli del cielo e a tutti gli esseri che strisciano sulla terra e nei quali è alito di vita, io do in cibo ogni erba verde". E così avvenne.
 ###### 31
 <span class=vrs>31</span>Dio vide quanto aveva fatto, ed ecco, era cosa molto buona. E fu sera e fu mattina: sesto giorno.
+
 ***
+
 [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Genesi|Genesi]] | Genesi 1 | [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 02|Genesi 2 →]]
 
-
 ***
+
 NOTE:
 
 [^ftn_cei08_gn1,1]: *<span class="BibleRef">[[Gn 1,1-2,4a|1, 1-2,4a]]</span>* La tonalità di questa prima pagina è quella di un inno. Si possono confrontare inni simili, o paralleli, in

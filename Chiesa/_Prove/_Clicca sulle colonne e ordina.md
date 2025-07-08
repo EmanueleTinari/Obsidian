@@ -1,6 +1,7 @@
 ---
-creato: 2025-05-16T00:20:26
+creato: 16/05/2025 00:20:26
 aggiornato: 2025-05-16T00:20:40
+modificato: 09/07/2025 00:16:15
 ---
 
 Preso [Qui](https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/78)

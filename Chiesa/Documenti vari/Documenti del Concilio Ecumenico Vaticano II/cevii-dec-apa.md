@@ -12,16 +12,13 @@ data-doc: 1965-11-18
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Decreto
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Apostolicam_actuositatem
+tags: [Decreto, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Apostolicam_actuositatem]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_it.html)"
-creato: 2025-06-20T08:20:29
+creato: 20/06/2025 07:23:02
 aggiornato: 2025-06-20T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -259,6 +256,7 @@ Arcivescovo tit. di Samosata
 Segretario Generale del Ss. Concilio
 
 ***
+
 Firme dei Padri<br><br>Io PAOLO Vescovo della Chiesa Cattolica<br><br>† Ego IOSEPHUS titulo S. Ioannis ante Portam Latinam Presbyter Cardinalis FRINGS, Archiepiscopus Coloniensis.<br>† Ego ERNESTUS titulo S. Sabinae Presbyter Cardinalis RUFFINI, Archiepiscopus Panormitanus.<br>† Ego ANTONIUS titulo S. Laurentii in Panisperna Presbyter Cardinalis CAGGIANO, Archiepiscopus Bonaërensis.<br>Ego PETRUS titulo S. Praxedis Presbyter Cardinalis CIRIACI.<br>† Ego MAURITIUS titulo S. Mariae de Pace Presbyter Cardinalis FELTIN, Archiepiscopus Parisiensis.<br>† Ego IOSEPHUS titulo S. Mariae de Victoria Presbyter Cardinalis SIRI, Archiepiscopus Ianuensis.<br>† Ego IACOBUS titulo S. Mariae in Transpontina Presbyter Cardinalis LERCARO, Archiepiscopus Bononiensis.<br>† Ego STEPHANUS titulo S. Mariae Trans Tiberim Presbyter Cardinalis WYSZYNSKI, Archiepiscopus Gnesnensis et Varsaviensis, Primas Poloniae.<br>† Ego BENIAMINUS titulo S. Vitalis Presbyter Cardinalis DE ARRIBA Y CASTRO, Archiepiscopus Tarraconensis.<br>† Ego FERDINANDUS titulo S. Augustini Presbyter Cardinalis QUIROGA Y PALACIOS, Archiepiscopus Compostellanus.<br>† Ego PAULUS AEMILIUS titulo S. Mariae Angelorum in Thermis Presbyter Cardinalis LEGER, Archiepiscopus Marianopolitanus.<br>† Ego VALERIANUS titulo S. Mariae in Via Lata Presbyter Cardinalis GRACIAS, Archiepiscopus Bombayensis.<br>† Ego IOANNES titulo S. Marci Presbyter Cardinalis URBANI, Patriarcha Venetiarum.<br>Ego IOSEPHUS titulo S. Priscae Presbyter Cardinalis DA COSTA NUNES.<br>Ego HILDEBRANDUS titulo S. Sebastiani ad Catacumbas Presbyter Cardinalis ANTONIUTTI.<br>Ego EPHRAEM titulo S. Crucis in Hierusalem Presbyter Cardinalis FORNI.<br>† Ego IOANNES titulo S. Mariae de Aracoeli Presbyter Cardinalis LANDAZURI RICKETTS, Archiepiscopus Limanus, Primas Peruviae.<br>† Ego RADULFUS titulo S. Bernardi ad Thermas Presbyter Cardinalis SILVA HENRIQUEZ, Archiepiscopus S. Iacobi in Chile.<br>† Ego LEO IOSEPHUS titulo S. Petri ad Vincula Presbyter Cardinalis SUENENS, Archiepiscopus Mechliniensis-Bruxellensis.<br>† Ego IOSEPHUS titulo S. Athanasii Presbyter Cardinalis SLIPYI, Archiepiscopus Maior Ucrainorum.<br>† Ego LAURENTIUS titulo S. Leonis I Presbyter Cardinalis JAEGER, Archiepiscopus Paderbornensis.<br>† Ego IOSEPHUS titulo S. Crucis in via Flaminia Presbyter Cardinalis BERAN, Archiepiscopus Pragensis.<br>† Ego MAURITIUS titulo D.nae N.ae de SS. Sacramento et Martyrum Canadensium Presbyter Cardinalis ROY, Archiepiscopus Quebecensis, Primas Canadiae.<br>† Ego IOSEPHUS titulo S. Teresiae Presbyter Cardinalis MARTIN, Archiepiscopus Rothomagensis.<br>† Ego AUDOËNUS titulo S. Praxedis Presbyter Cardinalis MCCANN, Archiepiscopus Civitatis Capitis.<br>† Ego LEO STEPHANUS titulo S. Balbinae Presbyter Cardinalis DUVAL, Archiepiscopus Algeriensis.<br>† Ego ERMENEGILDUS titulo Reginae Apostolorum Presbyter Cardinalis FLORIT, Archiepiscopus Florentinus.<br>† Ego FRANCISCUS titulo Ss. Petri et Pauli in via Ostiensi Presbyter Cardinalis ŠEPER, Archiepiscopus Zagrabiensis.<br>† Ego IOANNES titulo S. Silvestri in Capite Presbyter Cardinalis HEENAN, Archiepiscopus Vestmonasteriensis, Primas Angliae.<br>† Ego IOANNES titulo Ssmae Trinitatis in Monte Pincio Presbyter Cardinalis VILLOT, Archiepiscopus Lugdunensis et Viennensis, Primas Galliae.<br>† Ego ALBERTUS GORI, Patriarcha Hierosolymitanus Latinorum.<br>† Ego Paulus II Cheikho, Patriarcha Babylonensis Chaldaeorum.<br>† Ego IGNATIUS PETRUS XVI BATANIAN, Patriarcha Ciliciae Armenorum.<br>† Ego IOSEPHUS VIEIRA ALVERNAZ, Patriarcha Indiarum Orientalium.<br>† Ego IOANNES CAROLUS MCQUAID, Archiepiscopus Dublinensis, Primas Hiberniae.<br>† Ego ANDREAS ROHRACHER, Archiepiscopus Salisburgensis, Primas Germaniae.<br>† Ego DEMETRIUS MOSCATO, Archiepiscopus Primas Salernitanus et Administrator Perpetuus Acernensis.<br>† Ego HUGO CAMOZZO, Archiepiscopus Pisanus et Primas Sardiniae et Corsicae.<br>† Ego ALEXANDER TOKI , Archiepiscopus Antibarensis et Primas Serbiae.<br>† Ego MICHAEL DARIUS MIRANDA, Archiepiscopus Mexicanus, Primas Mexici.<br>† Ego FRANCISCUS MARIA DA SILVA, Archiepiscopus Bracharensis, Primas Hispaniarum.<br>† Ego PAULUS GOUYON, Archiepiscopus Rhedonensis, Primas Britanniae.<br>† Ego ANDREAS CESARANO, Archiepiscopus Sipontinus.
 
 
@@ -276,12 +274,12 @@ Ss. Concilii Notarius
 † Ego FRANCISCUS HANNIBAL FERRETTI `class: pfirmadx2`
 Ss. Concilii Notarius
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Cfr. Giovanni XXIII, Costituzione Apostolica Humanae Salutis, 25 dicembre 1961: AAS 54 (1962), pp. 7-10.

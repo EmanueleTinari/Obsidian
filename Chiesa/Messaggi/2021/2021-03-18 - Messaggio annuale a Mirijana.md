@@ -14,10 +14,14 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+creato: 31/05/2025 15:32:43
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Mirijana<br>il 18 marzo 2021
 
 ## Cari figli!<br>Vi invito maternamente a ritornare alla gioia e alla verità del Vangelo, a ritornare all’amore di mio Figlio perché Lui vi aspetta a braccia aperte affinché tutto ciò che fate nella vita lo facciate con mio Figlio, con amore, affinché tutto sia benedetto; affinché la vostra spiritualità sia interiore e non soltanto esteriore.<br>Soltanto in questo modo sarete umili, generosi, colmi di amore e gioiosi.<br>E il mio Cuore materno gioirà con voi.<br>Vi ringrazio.
+
 ***
+
 > [!4colonne]- [[Messaggi/2021/2021-02-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 18 marzo 2021 | [[Messaggi/2021/2021-03-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

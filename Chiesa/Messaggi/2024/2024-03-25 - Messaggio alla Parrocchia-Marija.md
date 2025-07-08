@@ -11,10 +11,14 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2024-3-25)"
+creato: 04/06/2025 16:05:18
+modificato: 09/07/2025 00:14:24
 ---
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 marzo 2024
 
 ## Cari figli!<br>In questo tempo di grazia pregate con me affinché il bene vinca in voi ed attorno a voi.<br>In modo particolare, figlioli, pregate uniti a Gesù sulla Sua via crucis.<br>Mettete nelle vostre preghiere quest’umanità che vaga senza Dio e senza il Suo amore.<br>Siate preghiera, siate luce e testimoni per tutti coloro che incontrate, figlioli, affinché Dio misericordioso abbia misericordia di voi.<br>Grazie per aver risposto alla mia chiamata.
+
 ***
+
 > [!4colonne]- [[Messaggi/2024/2024-03-18 - Messaggio annuale a Mirijana| ← Messaggio precedente]] | 25 marzo 2024 | [[Messaggi/2024/2024-04-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

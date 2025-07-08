@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Sacre grotte vaticane (Città del Vaticano)|Grotte vaticane]
 predecessore: "[[Scheda 257° papa - Pio X|Scheda papa Pio X]]"
 successore: "[[Scheda 259° papa - Pio XI|Pio XI]]"
 aliases:
- - Papa Benedetto XV
- - Benedetto XV
- - Benedictus XV
- - Benedictus PP. XV
-tags:
- - Bio
- - Benedetto_XV
- - Scheda
- - papa
+  - Papa Benedetto XV
+  - Benedetto XV
+  - Benedictus XV
+  - Benedictus PP. XV
+tags: [Bio, Benedetto_XV, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 13:39:37
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:11:56
 ---
 
 ***
-

@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-19-ottobre-2018/)"
+creato: 04/07/2025 16:41:02
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 19 ottobre 2018<br>sul Podbrdo, ore 22:00
@@ -23,4 +25,5 @@ Poi la Madonna ci ha benedetto tutti con la sua benedizione materna ed ha benede
 ## Andate in pace, cari figli miei!
 
 ***
+
 > [!4colonne]- [[Messaggi/2018/2018-10-05 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 19 ottobre 2018 | [[Messaggi/2018/2018-10-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

@@ -10,15 +10,13 @@ data-doc: 1741-05-30
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags:
-  - Breve
-  - Benedetto_XIV
-  - Non_ambigimus
+tags: [Breve, Benedetto_XIV, Non_ambigimus]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-non-ambigimus--i---30-maggio-1741--il-pontefice-ricorda.html)"
-creato: 2025-05-02T11:07:45
+creato: 02/05/2025 11:07:45
 aggiornato: 2025-05-18T17:17:43
+modificato: 09/07/2025 00:15:55
 ---
 
 ***
@@ -44,8 +42,8 @@ Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 30 
 
 Benedictus XIV `class: firma-centro`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
 

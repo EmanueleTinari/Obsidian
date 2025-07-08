@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 256° papa - Leone XIII|Leone XIII]]"
 successore: "[[Scheda 258° papa - Benedetto XV|Benedetto XV]]"
 aliases:
- - Papa Pio XI
- - Pio X
- - Pius X
- - Pius PP. X
-tags:
- - Bio
- - Pio_X
- - Scheda
- - papa
+  - Papa Pio XI
+  - Pio X
+  - Pius X
+  - Pius PP. X
+tags: [Bio, Pio_X, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 13:39:36
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:11:54
 ---
 
 ***
-

@@ -14,6 +14,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+creato: 31/05/2025 00:59:41
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Ivanka<br>il 25 giugno 2016
@@ -24,4 +26,5 @@ Ivanka ha avuto l’apparizione nella sua casa.<br>Era presente soltanto la sua 
 La Madonna era gioiosa e ci ha benedetti con la Sua benedizione materna.
 
 ***
+
 > [!4colonne]- [[Messaggi/2016/2016-06-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 giugno 2016 | [[Messaggi/2016/2016-07-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

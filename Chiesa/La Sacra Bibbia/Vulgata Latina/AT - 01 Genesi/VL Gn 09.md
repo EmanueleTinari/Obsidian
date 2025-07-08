@@ -23,20 +23,14 @@ aliases:
   - Genesis 9
   - Liber Genesis 09
   - Liber Genesis 9
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_9
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_9
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_9
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_9, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_9, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_9]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/9)"
+creato: 01/07/2025 23:33:48
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 08| ← Genesis 8]] <span class="bianco">| Genesis 9 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 10|Genesis 10 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -54,7 +48,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 09|Genesi 9]]
 
 # Genesis 9
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Benedixitque Deus Noë et filiis ejus. Et dixit ad eos : Crescite, et multiplicamini, et replete terram.
 ###### 2
@@ -113,5 +109,7 @@ Versione Vulgata Latina:
 <span class=vrs>28</span>Vixit autem Noë post diluvium trecentis quinquaginta annis.
 ###### 29
 <span class=vrs>29</span>Et impleti sunt omnes dies ejus nongentorum quinquaginta annorum : et mortuus est. 
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 08| ← Genesis 8]] | Genesis 9 | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 10|Genesis 10 →]]

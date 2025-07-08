@@ -23,20 +23,14 @@ aliases:
   - Genesis 3
   - Liber Genesis 03
   - Liber Genesis 3
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_3
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_3
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_3
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_3, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_3, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_3]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/3)"
+creato: 01/07/2025 19:42:41
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 02| ← Genesis 2]] <span class="bianco">| Genesis 3 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 04|Genesis 4 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -54,7 +48,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 03|Genesi 3]]
 
 # Genesis 3
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Sed et serpens erat callidior cunctis animantibus terræ quæ fecerat Dominus Deus. Qui dixit ad mulierem : Cur præcepit vobis Deus ut non comederetis de omni ligno paradisi ?
 ###### 2
@@ -103,5 +99,7 @@ Versione Vulgata Latina:
 <span class=vrs>23</span>Et emisit eum Dominus Deus de paradiso voluptatis, ut operaretur terram de qua sumptus est.
 ###### 24
 <span class=vrs>24</span>Ejecitque Adam : et collocavit ante paradisum voluptatis cherubim, et flammeum gladium, atque versatilem, ad custodiendam viam ligni vitæ.
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 02| ← Genesis 2]] | Genesis 3 | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 04|Genesis 4 →]]

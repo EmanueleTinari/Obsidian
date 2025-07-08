@@ -29,19 +29,15 @@ luogo-sepoltura: "[[[[Sacre grotte vaticane (Città del Vaticano)|Grotte vatican
 predecessore: "[[Scheda 262° papa - Paolo VI|Paolo VI]]"
 successore: "[[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]]"
 aliases:
- - Papa Giovanni Paolo I
- - Giovanni Paolo I
- - Ioannes Paulus I
- - Ioannes Paulus PP. I
-tags:
- - Bio
- - Giovanni_Paolo_I
- - Scheda
- - papa
+  - Papa Giovanni Paolo I
+  - Giovanni Paolo I
+  - Ioannes Paulus I
+  - Ioannes Paulus PP. I
+tags: [Bio, Giovanni_Paolo_I, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 14:00:57
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:12:25
 ---
 
 ***
-

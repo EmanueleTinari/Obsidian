@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-2-agosto-2013/)"
+creato: 07/07/2025 16:24:17
+modificato: 09/07/2025 00:14:22
 ---
 
 # Messaggio della Regina della Pace<br>al mondo<br>tramite la veggente Mirijana<br>del 2 agosto 2013
@@ -19,4 +21,5 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-2-agost
 La Madonna ha benedetto tutti i presenti e tutti gli oggetti portati.
 
 ***
+
 > [!4colonne]- [[Messaggi/2013/2013-07-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 02 agosto 2013 | [[Messaggi/2013/2013-08-05 - Messaggio al gruppo di preghiera-Ivan| Messaggio successivo → ]]

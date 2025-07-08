@@ -15,20 +15,14 @@ aliases:
   - Genesi, capitolo 11
   - Genesis 11
   - Liber Genesis 11
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_11
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_11
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_11
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_11, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_11, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_11]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/11)"
+creato: 02/07/2025 15:01:38
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 10| ← Genesis 10]] <span class="bianco">| Genesis 11 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 12|Genesis 12 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -46,7 +40,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 11|Genesi 11]]
 
 # Genesis 11
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Erat autem terra labii unius, et sermonum eorumdem.
 ###### 2
@@ -111,5 +107,7 @@ Versione Vulgata Latina:
 <span class=vrs>31</span>Tulit itaque Thare Abram filium suum, et Lot filium Aran, filium filii sui, et Sarai nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldæorum, ut irent in terram Chanaan : veneruntque usque Haran, et habitaverunt ibi.
 ###### 32
 <span class=vrs>32</span>Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Haran.
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 10| ← Genesis 10]] <span class="bianco">| Genesis 11 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 12|Genesis 12 →]]

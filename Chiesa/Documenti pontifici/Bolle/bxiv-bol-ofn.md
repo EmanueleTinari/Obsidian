@@ -10,15 +10,13 @@ data-doc: 1749-03-15
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags:
-  - Bolla
-  - Benedetto_XIV
-  - Officii_nostri
+tags: [Bolla, Benedetto_XIV, Officii_nostri]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-officii-nostri--i---15-marzo-1749--poiche-sono-sorti-di.html)"
-creato: 2025-05-01T15:33:29
+creato: 01/05/2025 15:33:29
 aggiornato: 2025-05-18T17:17:38
+modificato: 09/07/2025 00:15:55
 ---
 
 ***
@@ -125,8 +123,8 @@ Dato a Roma, presso Santa Maria Maggiore, nell’anno 1749 dell’Incarnazione d
 
 Benedictus XIV `class: firma-centro`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
 

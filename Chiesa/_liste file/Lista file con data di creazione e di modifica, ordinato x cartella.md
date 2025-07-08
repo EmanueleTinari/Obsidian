@@ -1,7 +1,9 @@
 ---
-creato: 2025-05-02T13:35:26
+creato: 02/05/2025 13:35:26
 aggiornato: 2025-05-11T01:23:58
+modificato: 09/07/2025 00:16:22
 ---
+
 ```dataview
 TABLE file.folder AS "Cartella",
 	titolo-doc AS "Eventuale titolo",

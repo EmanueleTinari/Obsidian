@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
+creato: 30/05/2025 15:21:18
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|⇤ Matthæus 1]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 15| ← Matthæus 15]] | Matthæus 16 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17|Matthæus 17 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione Nova Vulgata:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 16|Matteo 16]]
 
 # Matthæus 16
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Et accesserunt ad eum pharisaei et sadducaei tentantes et rogaverunt eum, ut signum de caelo ostenderet eis.
 ###### 2
@@ -104,5 +109,7 @@ Versione Nova Vulgata:
 <span class=vrs>27</span>Filius enim hominis venturus est in gloria Patris sui cum angelis suis, et tunc reddet unicuique secundum opus eius.
 ###### 28
 <span class=vrs>28</span>Amen dico vobis: Sunt quidam de hic stantibus, qui non gustabunt mortem, donec videant Filium hominis venientem in regno suo".
+
 ***
+
 [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 15| ← Matthæus 15]] | Matthæus 16 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17| Matthæus 17 → ]]

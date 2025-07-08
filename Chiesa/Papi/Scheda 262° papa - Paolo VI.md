@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]]"
 successore: "[[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]"
 aliases:
- - Papa Paolo VI
- - Paolo VI
- - Paulus VI
- - Paulus PP. VI
-tags:
- - Bio
- - Paolo_VI
- - Scheda
- - papa
+  - Papa Paolo VI
+  - Paolo VI
+  - Paulus VI
+  - Paulus PP. VI
+tags: [Bio, Paolo_VI, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 13:55:11
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:12:05
 ---
 
 ***
-

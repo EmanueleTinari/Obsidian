@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 251° papa - Pio VII|Papa Pio VII]]"
 successore: "[[Scheda 253° papa - Pio VIII|Papa Pio VIII]]"
 aliases:
- - Papa Leone XII
- - Leone XII
- - Leo XII
- - Leo PP. XII
-tags:
- - Bio
- - Leone_XII
- - Scheda
- - papa
+  - Papa Leone XII
+  - Leone XII
+  - Leo XII
+  - Leo PP. XII
+tags: [Bio, Leone_XII, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-05-22T14:50:37
+creato: 22/05/2025 14:50:37
 aggiornato: 2025-05-22T14:50:37
+modificato: 09/07/2025 00:11:44
 ---
 
 ***
-

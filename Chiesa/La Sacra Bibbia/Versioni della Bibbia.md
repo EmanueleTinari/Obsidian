@@ -1,7 +1,10 @@
 ---
 
 aggiornato: 2025-05-10T21:33:03
+creato: 07/05/2025 22:57:55
+modificato: 09/07/2025 00:15:32
 ---
+
 Su BibleGateway
 Versione CEI (forse 1974 ?)
 https://www.biblegateway.com/versions/Conferenza-Episcopale-Italiana-CEI/#booklist

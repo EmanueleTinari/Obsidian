@@ -5,12 +5,10 @@ tipo-doc: "[[Bolle|Bolla]]"
 titolo-doc: X
 anno-doc: 1
 data-doc: X
-tags:
-  - X
-  - X
-  - X
-creato: 2025-05-01T15:52:51
+tags: [X]
+creato: 01/05/2025 15:52:51
 aggiornato: 2025-05-10T21:38:39
+modificato: 09/07/2025 00:15:55
 ---
 
 ***
@@ -635,5 +633,7 @@ X. `class: paragrafo-normale`
 X. `class: data-luogo`
 
 X. `class: firma-centro`
+
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`

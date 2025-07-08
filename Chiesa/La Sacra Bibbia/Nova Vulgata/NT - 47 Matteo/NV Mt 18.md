@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
+creato: 30/05/2025 15:21:18
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[NV Malachia|↑ Malachiæ]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|⇤ Matthæus 1]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17| ← Matthæus 17]] | Matthæus 18 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 19|Matthæus 19 →]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|Matthæus 28 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Marco|Marcus  ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione Nova Vulgata:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 18|Matteo 18]]
 
 # Matthæus 18
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In illa hora accesserunt discipuli ad Iesum dicentes: "Quis putas maior est in regno caelorum?".
 ###### 2
@@ -119,5 +124,7 @@ Quid vobis videtur? Si fuerint alicui centum oves, et erraverit una ex eis, nonn
 <span class=vrs>34</span>Et iratus dominus eius tradidit eum tortoribus, quoadusque redderet universum debitum.
 ###### 35
 <span class=vrs>35</span>Sic et Pater meus caelestis faciet vobis, si non remiseritis unusquisque fratri suo de cordibus vestris".
+
 ***
+
 [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17| ← Matthæus 17]] | Matthæus 18 | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 19| Matthæus 19 → ]]

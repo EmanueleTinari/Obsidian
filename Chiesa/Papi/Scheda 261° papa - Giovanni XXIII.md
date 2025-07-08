@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 260° papa - Pio XII|Pio XII]]"
 successore: "[[Scheda 262° papa - Paolo VI|Paolo VI]]"
 aliases:
- - Papa Giovanni XXIII
- - Giovanni XXIII
- - Ioannes XXIII
- - Ioannes PP. XXIII
-tags:
- - Bio
- - Giovanni_XXIII
- - Scheda
- - papa
+  - Papa Giovanni XXIII
+  - Giovanni XXIII
+  - Ioannes XXIII
+  - Ioannes PP. XXIII
+tags: [Bio, Giovanni_XXIII, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 13:39:13
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:12:03
 ---
 
 ***
-

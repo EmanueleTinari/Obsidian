@@ -1,3 +1,8 @@
+---
+creato: 16/06/2025 16:53:25
+modificato: 09/07/2025 00:15:55
+---
+
 <!--  (!= this.file.name) esclude questo stesso file dalla lista -->
 ```dataview
 

@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-2-aprile-2015/)"
+creato: 06/07/2025 18:44:50
+modificato: 09/07/2025 00:14:22
 ---
 
 # Messaggio della Regina della Pace<br>al mondo<br>tramite la veggente Mirijana<br>del 2 aprile 2015
@@ -19,4 +21,5 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-2-april
 La Madonna era decisa nella sua intenzione di aiutarci.<br>Mirjana ha detto che ha raccomandato tutti e che la Madonna ha benedetto tutti.
 
 ***
+
 > [!4colonne]- [[Messaggi/2015/2015-03-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 02 aprile 2015 | [[Messaggi/2015/2015-04-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

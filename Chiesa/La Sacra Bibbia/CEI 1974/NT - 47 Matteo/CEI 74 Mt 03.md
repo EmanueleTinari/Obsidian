@@ -40,7 +40,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/3/)"
+creato: 26/05/2025 16:54:46
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 02| ← Matteo 2]] | Matteo 3 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 04|Matteo 4 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -58,7 +61,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 03|Matteo 3]]
 
 # Matteo 3
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In quei giorni comparve Giovanni il Battista a predicare nel deserto della Giudea, dicendo:
 ###### 2
@@ -93,5 +98,7 @@ Versione C.E.I. 1974:
 <span class=vrs>16</span>Appena battezzato, Gesù uscì dall'acqua: ed ecco, si aprirono i cieli ed egli vide lo Spirito di Dio scendere come una colomba e venire su di lui.
 ###### 17
 <span class=vrs>17</span>Ed ecco una voce dal cielo che disse: "Questi è il Figlio mio prediletto, nel quale mi sono compiaciuto".
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 02| ← Matteo 2]] | Matteo 3 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 04|Matteo 4 →]]

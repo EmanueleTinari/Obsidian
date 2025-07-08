@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Sacre grotte vaticane (Città del Vaticano)|Grotte vaticane]
 predecessore: "[[Scheda 249° papa - Clemente XIV|Papa Clemente XIV]]"
 successore: "[[Scheda 251° papa - Pio VII|Papa Pio VII]]"
 aliases:
- - Papa Pio VI
- - Pio VI
- - Pius VI
- - Pius PP. VI
-tags:
- - Bio
- - Pio_VI
- - Scheda
- - papa
+  - Papa Pio VI
+  - Pio VI
+  - Pius VI
+  - Pius PP. VI
+tags: [Bio, Pio_VI, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-05-22T14:50:19
+creato: 22/05/2025 14:50:19
 aggiornato: 2025-05-22T14:50:19
+modificato: 09/07/2025 00:11:40
 ---
 
 ***
-

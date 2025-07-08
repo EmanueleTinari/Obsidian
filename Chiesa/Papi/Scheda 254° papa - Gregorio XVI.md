@@ -1,6 +1,6 @@
 ---
 cssclasses:
- - docVat
+  - docVat
 titolo-doc: Scheda 254° papa - Gregorio XVI
 tipo-doc: Scheda papa
 lingua-doc: Italiano
@@ -30,19 +30,15 @@ luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 253° papa - Pio VIII|Papa Pio VIII]]"
 successore: "[[Scheda 255° papa - Pio IX|Papa Pio IX]]"
 aliases:
- - Papa Gregorio XVI
- - Gregorio XVI
- - Gregorius XVI
- - Gregorius PP. XVI
-tags:
- - Bio
- - Gregorio_XVI
- - Scheda
- - papa
+  - Papa Gregorio XVI
+  - Gregorio XVI
+  - Gregorius XVI
+  - Gregorius PP. XVI
+tags: [Bio, Gregorio_XVI, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 13:39:15
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:11:47
 ---
 
 ***
-

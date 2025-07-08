@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio]()"
+creato: 04/07/2025 21:42:43
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 18 agosto 2017<br>alla Croce blu, ore 22:00
@@ -21,5 +23,7 @@ Poi si è trattenuta per un tempo prolungato a pregare con le mani distese, ha p
 ## Cari figli, anche oggi desidero nuovamente invitarvi a pregare per la pace: pace nei vostri cuori, pace nelle vostre famiglie.<br>Sappiate, cari figli, che prego per tutti voi dinanzi a mio Figlio e intercedo presso mio Figlio per tutti voi.<br>Grazie, cari figli, per la perseveranza, e grazie per aver risposto anche oggi alla mia chiamata.
 Poi la Madonna ci ha benedetto tutti con la sua benedizione materna ed ha benedetto tutto quello che avete portato perché venisse benedetto.<br>Come sempre, anche oggi ho raccomandato tutti voi, le vostre necessità, le vostre intenzioni e le vostre famiglie.<br>Poi la Madonna ha continuato a pregare per un periodo di tempo su tutti noi e in questa preghiera se n’è andata, nel segno della luce e della croce, col saluto:
 ## Andate in pace, cari figli miei!
+
 ***
+
 > [!4colonne]- [[Messaggi/2017/2017-08-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 18 agosto 2017 | [[Messaggi/2017/2017-08-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

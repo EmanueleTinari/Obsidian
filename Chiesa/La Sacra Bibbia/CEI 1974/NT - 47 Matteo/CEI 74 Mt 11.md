@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/11/)"
+creato: 27/05/2025 12:57:18
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 10| ← Matteo 10]] | Matteo 11 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 12|Matteo 12 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 11|Matteo 11]]
 
 # Matteo 11
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Quando Gesù ebbe terminato di dare queste istruzioni ai suoi dodici discepoli, partì di là per insegnare e predicare nelle loro città.
 ###### 2
@@ -108,5 +113,7 @@ Versione C.E.I. 1974:
 <span class=vrs>29</span>Prendete il mio giogo sopra di voi e imparate da me, che sono mite e umile di cuore, e troverete ristoro per le vostre anime.
 ###### 30
 <span class=vrs>30</span>Il mio giogo infatti è dolce e il mio carico leggero".
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 10| ← Matteo 10]] | Matteo 11 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 12|Matteo 12 →]]

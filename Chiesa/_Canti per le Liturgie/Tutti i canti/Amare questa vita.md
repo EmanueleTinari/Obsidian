@@ -3,8 +3,10 @@ cssclasses: canti
 titolo: Amare questa vita
 tempo:
   - Tempo dopo Pentecoste
-licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-YouTube:  "[Link]()"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+YouTube: "[Link]()"
+creato: 08/07/2025 09:42:07
+modificato: 09/07/2025 00:09:41
 ---
 
 # Amare questa vita

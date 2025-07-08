@@ -1,3 +1,8 @@
+---
+creato: 28/06/2025 16:19:51
+modificato: 09/07/2025 00:15:33
+---
+
 # La Sacra Bibbia C.E.I. 1974
 
 ## Antico Testamento
@@ -1525,7 +1530,9 @@
 ### Lettera di Giuda
 
 #### 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Giuda servo di Gesù Cristo, e fratello di Jacopo, a quegli, che da Dio Padre sono stati amati, e in Cristo Gesù salvati, e chiamati.
 ###### 2
@@ -1576,7 +1583,9 @@
 <span class=vrs>24</span>Ed a colui, che è potente per custodirvi senza peccato, e costituirvi immacolati, ed esultanti nel cospetto della sua gloria alla venuta del Signor nostro Gesù Cristo:
 ###### 25
 <span class=vrs>25</span>Al solo Dio salvatore nostro per Gesù Cristo Signor nostro, gloria, e magnificenza, e imperio, e potestà prima di tutti i secoli, e adesso, e per tutti i secoli de' secoli. Così sia.
+
 ***
+
 ### Apocalisse
 
 #### 1

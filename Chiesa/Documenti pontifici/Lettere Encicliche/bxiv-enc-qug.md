@@ -10,15 +10,13 @@ data-doc: 1757-08-02
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags:
-  - Lettera_enciclica
-  - Benedetto_XIV
-  - Quam_grave
+tags: [Lettera_enciclica, Benedetto_XIV, Quam_grave]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-quam-grave--i---2-agosto-1757--il-pontefice-segnala.html)"
-creato: 2025-04-29T23:12:02
+creato: 29/04/2025 23:12:02
 aggiornato: 2025-05-18T17:18:12
+modificato: 09/07/2025 00:15:55
 ---
 
 
@@ -120,8 +118,8 @@ Dato a Roma, presso Santa Maria Maggiore, il 2 agosto 1757, nell’anno diciasse
 
 Benedictus XIV `class: firma-centro`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
 

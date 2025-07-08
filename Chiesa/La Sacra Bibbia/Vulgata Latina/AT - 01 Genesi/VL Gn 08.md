@@ -23,20 +23,14 @@ aliases:
   - Genesis 8
   - Liber Genesis 08
   - Liber Genesis 8
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_8
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_8
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_8
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_8, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_8, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_8]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/8)"
+creato: 01/07/2025 23:18:16
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 07| ← Genesis 7]] <span class="bianco">| Genesis 8 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 09|Genesis 9 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -54,7 +48,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 08|Genesi 8]]
 
 # Genesis 8
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Recordatus autem Deus Noë, cunctorumque animantium, et omnium jumentorum, quæ erant cum eo in arca, adduxit spiritum super terram, et imminutæ sunt aquæ.
 ###### 2
@@ -99,5 +95,7 @@ Versione Vulgata Latina:
 <span class=vrs>21</span>Odoratusque est Dominus odorem suavitatis, et ait : Nequaquam ultra maledicam terræ propter homines : sensus enim et cogitatio humani cordis in malum prona sunt ab adolescentia sua : non igitur ultra percutiam omnem animam viventem sicut feci.
 ###### 22
 <span class=vrs>22</span>Cunctis diebus terræ, sementis et messis, frigus et æstus, æstas et hiems, nox et dies non requiescent. 
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 07| ← Genesis 7]] | Genesis 8 | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 09|Genesis 9 →]]

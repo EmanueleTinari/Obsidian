@@ -29,19 +29,15 @@ aliases:
   - Iud 1
   - Jude 01
   - Jude 1
-tags:
-  - Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1
-  - Nuovo_Testamento
-  - Le_altre_Lettere_Cattoliche
-  - Lettera_di_San_Giuda_Apostolo
-  - Capitolo_1
-  - Lettera_di_San_Giuda
-  - Lettera_di_Giuda
+tags: [Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1, Nuovo_Testamento, Le_altre_Lettere_Cattoliche, Lettera_di_San_Giuda_Apostolo, Capitolo_1, Lettera_di_San_Giuda, Lettera_di_Giuda]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura/r/la/vulgata/iudae/72/1)"
+creato: 28/06/2025 22:21:17
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Vulgata Latina/NT - 71 3 Giovanni/VL 3 Giovanni|↑ Epistola Joannis Tertia]] | [[La Sacra Bibbia/Vulgata Latina/NT - 72 Giuda/VL Giuda| ← Judæ]] | Judæ 1 | [[La Sacra Bibbia/Vulgata Latina/NT - 73 Apocalisse/VL Apocalisse|Apocalypsis →]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV20 Gd 01|Giuda 1]]
 
 # Judæ 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Judas Jesu Christi servus, frater autem Jacobi, his qui sunt in Deo Patre dilectis, et Christo Jesu conservatis, et vocatis.
 ###### 2
@@ -110,5 +108,7 @@ Versione Vulgata Latina:
 <span class=vrs>24</span>Ei autem qui potens est vos conservare sine peccato et constituere ante conspectum gloriæ suæ immaculatos in exsultatione in adventu Domini nostri Jesu Christi,
 ###### 25
 <span class=vrs>25</span>soli Deo Salvatori nostro, per Jesum Christum Dominum nostrum, gloria et magnificentia, imperium et potestas ante omne sæculum, et nunc, et in omnia sæcula sæculorum. Amen.
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/NT - 72 Giuda/VL Giuda| ← Judæ]] | Judæ 1 | [[La Sacra Bibbia/Vulgata Latina/NT - 73 Apocalisse/VL Apocalisse|Apocalypsis →]]

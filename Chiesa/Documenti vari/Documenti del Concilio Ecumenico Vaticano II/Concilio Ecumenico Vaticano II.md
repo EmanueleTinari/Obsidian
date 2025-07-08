@@ -1,3 +1,8 @@
+---
+creato: 18/06/2025 22:12:41
+modificato: 09/07/2025 00:15:48
+---
+
 # DOCUMENTI DEL CONCILIO VATICANO II
 
 ![[_02 - Allegati/Concilio_Ecumenico_Vaticano_II.jpg|Concilio Vaticano II|370]]

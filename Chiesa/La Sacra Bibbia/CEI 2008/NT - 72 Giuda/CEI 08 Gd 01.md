@@ -29,19 +29,15 @@ aliases:
   - Iud 1
   - Jude 01
   - Jude 1
-tags:
-  - Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1
-  - Nuovo_Testamento
-  - Le_altre_Lettere_Cattoliche
-  - Lettera_di_San_Giuda_Apostolo
-  - Capitolo_1
-  - Lettera_di_San_Giuda
-  - Lettera_di_Giuda
+tags: [Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1, Nuovo_Testamento, Le_altre_Lettere_Cattoliche, Lettera_di_San_Giuda_Apostolo, Capitolo_1, Lettera_di_San_Giuda, Lettera_di_Giuda]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI2008/nt/Gd/1/)"
+creato: 28/06/2025 22:08:59
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 2008:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 2008/NT - 71 3 Giovanni/CEI 08 3 Giovanni|↑ 3 Giovanni]] | [[La Sacra Bibbia/CEI 2008/NT - 72 Giuda/CEI 08 Giuda| ← Giuda]] | Giuda 1 | [[La Sacra Bibbia/CEI 2008/NT - 73 Apocalisse/CEI 08 Apocalisse|Apocalisse →]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione C.E.I. 2008:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV20 Gd 01|Giuda 1]]
 
 # Giuda 1
+
 ***
+
 ##### Indirizzo e saluti
 ###### 1
 <span class=vrs>1</span>Giuda, servo di Gesù Cristo e fratello di Giacomo, a coloro che sono prediletti, amati in Dio Padre e custoditi da Gesù Cristo,
@@ -114,5 +112,7 @@ Versione C.E.I. 2008:
 <span class=vrs>24</span>A colui che può preservarvi da ogni caduta e farvi comparire davanti alla sua gloria senza difetti e colmi di gioia,
 ###### 25
 <span class=vrs>25</span>all'unico Dio, nostro salvatore, per mezzo di Gesù Cristo nostro Signore, gloria, maestà, forza e potenza prima di ogni tempo, ora e per sempre. Amen.
+
 ***
+
 [[La Sacra Bibbia/CEI 2008/NT - 72 Giuda/CEI 08 Giuda|Giuda]] | Giuda 1 | [[La Sacra Bibbia/CEI 2008/NT - 73 Apocalisse/CEI 08 Apocalisse|Apocalisse →]]

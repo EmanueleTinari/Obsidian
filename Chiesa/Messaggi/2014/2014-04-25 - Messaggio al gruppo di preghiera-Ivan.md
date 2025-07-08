@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-5-maggio-2006/)"
+creato: 07/07/2025 10:41:44
+modificato: 09/07/2025 00:14:22
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 25 aprile 2014<br>alla Croce blu, ore 22:00
@@ -23,4 +25,5 @@ Poi la Madonna ci ha benedetti tutti con la sua benedizione materna e ha benedet
 ## Andate in pace , cari figli miei.
 
 ***
+
 > [!4colonne]- [[Messaggi/2014/2014-04-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 aprile 2014 | [[Messaggi/2014/2014-05-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

@@ -11,44 +11,40 @@ aliases:
   - Gn
   - Liber Genesis
   - Genesis
-tags:
-  - Antico_Testamento/Il_Pentateuco/Genesi
-  - Vecchio_Testamento/Il_Pentateuco/Genesi
-  - Antico_Testamento/Pentateuco/Genesi
-  - Vecchio_Testamento/Pentateuco/Genesi
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Liber_Genesis
-  - Genesi
-  - Genesis
+tags: [Antico_Testamento/Il_Pentateuco/Genesi, Vecchio_Testamento/Il_Pentateuco/Genesi, Antico_Testamento/Pentateuco/Genesi, Vecchio_Testamento/Pentateuco/Genesi, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Liber_Genesis, Genesi, Genesis]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+creato: 30/06/2025 21:54:39
+modificato: 09/07/2025 00:15:33
 ---
+
 # Genesis
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Versione Nova Vulgata: </span>
 >
 >> [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 01|Inizia a leggere →]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
 >
 >> [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 01|01]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 02|02]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 03|03]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 04|04]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 05|05]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 06|06]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 07|07]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 08|08]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 09|09]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 10|10]]<br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 11|11]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 12|12]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 13|13]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 14|14]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 15|15]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 16|16]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 17|17]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 18|18]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 19|19]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 20|20]]<br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 21|21]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 22|22]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 23|23]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 24|24]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 25|25]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 26|26]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 27|27]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 28|28]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 29|29]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 30|30]]<br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 31|31]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 32|32]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 33|33]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 34|34]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 35|35]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 36|36]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 37|37]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 38|38]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 39|39]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 40|40]]<br>[[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 41|41]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 42|42]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 43|43]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 44|44]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 45|45]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 46|46]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 47|47]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 48|48]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 49|49]] -- [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 50|50]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
 >
 >> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Genesi|Vulgata Latina]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Genesi|CEI 1974]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Genesi|CEI 2008]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Genesi|Interconfessionale]] -- [[La Sacra Bibbia/Martini/AT - 01 Genesi/MRT Genesi|Martini]] -- [[La Sacra Bibbia/Ricciotti/AT - 01 Genesi/RCT Genesi|Ricciotti]] -- [[La Sacra Bibbia/Diodati/AT - 01 Genesi/D Genesi|Diodati]] -- [[La Sacra Bibbia/Nuova Diodati/AT - 01 Genesi/ND Genesi|Nuova Diodati]] -- [[La Sacra Bibbia/Riveduta/AT - 01 Genesi/RIV Genesi|Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta/AT - 01 Genesi/NRIV Genesi|Nuova Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Genesi|Nuova Riveduta 2020]]
+>>
 >***
 
-
-
-
 ***
+
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 01|Genesi 01]]:
 
 - Creazione: Sei giorni di lavoro. (*<span class="BibleRef">[[Gn 1,1-31|Genesis 1, 1-31]]</span>*)
@@ -261,8 +257,6 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 - Nobiltà di Giuseppe e sua morte.
 - Morte di Giuseppe.
 
-
 ***
-
 
 [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 01|Inizia a leggere →]]

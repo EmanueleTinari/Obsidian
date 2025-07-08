@@ -12,16 +12,13 @@ data-doc: 1963-12-04
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Decreto
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Inter_mirifica
+tags: [Decreto, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Inter_mirifica]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_it.html)"
-creato: 2025-06-20T08:20:29
+creato: 20/06/2025 07:20:49
 aggiornato: 2025-06-20T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -169,12 +166,12 @@ Del resto il sacro Concilio confida che questa sua esposizione di principi dottr
 
 4 dicembre 1963 `class: data-luogo`
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: I Padri del Concilio, facendo volentieri proprio il voto del “Segretariato per la Stampa e lo Spettacolo”, chiedono rispettosamente al Sommo Pontefice che l’autorità e le competenze di questo Ufficio siano estese a tutti gli strumenti di comunicazione sociale, non esclusa la stampa, cooptandovi periti di diverse nazioni, anche laici.

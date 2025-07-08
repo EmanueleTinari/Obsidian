@@ -1,4 +1,8 @@
 ---
+creato: 25/06/2025 13:37:16
+modificato: 09/07/2025 00:13:20
+---
+**---
 cssclasses: docVat
 titolo-doc: Scheda 0° papa - @#@
 tipo-doc: "[[Scheda 0° papa - @#@|Scheda papa @#@]]"

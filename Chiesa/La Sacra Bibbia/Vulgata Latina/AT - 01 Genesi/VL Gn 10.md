@@ -15,20 +15,14 @@ aliases:
   - Genesi, capitolo 10
   - Genesis 10
   - Liber Genesis 10
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_10
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_10
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_10
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_10, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_10, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_10]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/10)"
+creato: 02/07/2025 14:34:53
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 09| ← Genesis 9]] <span class="bianco">| Genesis 10 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 11|Genesis 11 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -46,7 +40,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 10|Genesi 10]]
 
 # Genesis 10
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Hæ sunt generationes filiorum Noë, Sem, Cham et Japheth : natique sunt eis filii post diluvium.
 ###### 2
@@ -111,5 +107,7 @@ Versione Vulgata Latina:
 <span class=vrs>31</span>Isti filii Sem secundum cognationes, et linguas, et regiones in gentibus suis.
 ###### 32
 <span class=vrs>32</span>Hæ familiæ Noë juxta populos et nationes suas. Ab his divisæ sunt gentes in terra post diluvium.
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 09| ← Genesis 9]] <span class="bianco">| Genesis 10 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 11|Genesis 11 →]]

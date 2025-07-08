@@ -13,28 +13,36 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/introduzione/)"
+creato: 07/06/2025 15:21:08
+modificato: 09/07/2025 00:15:33
 ---
+
 # Matteo
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Versione Nova Vulgata: </span>
 >
 >> [[La Sacra Bibbia/Nova Vulgata/NT - 46 Malachia/NV Ml 03| ← Malachiæ 3]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Inizia a leggere →]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Capitoli: </span>
 >
 >> [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|01]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02|02]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03|03]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04|04]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05|05]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06|06]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 07|07]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 08|08]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09|09]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10|10]]<br>[[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 11|11]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12|12]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13|13]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 14|14]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 15|15]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 16|16]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17|17]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18|18]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 19|19]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 20|20]]<br>[[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21|21]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 22|22]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 23|23]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24|24]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 25|25]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26|26]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 27|27]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28|28]]
 >
+
 ***
+
 > [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
 >
 >> [[La Sacra Bibbia/Vulgata Latina/NT - 47 Matteo/VL Matteo|Vulgata Latina]] -- [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Matteo|CEI 1974]] -- [[La Sacra Bibbia/CEI 2008/NT - 47 Matteo/CEI 08 Matteo|CEI 2008]] -- [[La Sacra Bibbia/Interconfessionale/NT - 47 Matteo/INT Matteo|Interconfessionale]] -- [[La Sacra Bibbia/Martini/NT - 47 Matteo/MRT Matteo|Martini]] -- [[La Sacra Bibbia/Ricciotti/NT - 47 Matteo/RCT Matteo|Ricciotti]] -- [[La Sacra Bibbia/Diodati/NT - 47 Matteo/D Matteo|Diodati]] -- [[La Sacra Bibbia/Nuova Diodati/NT - 47 Matteo/ND Matteo|Nuova Diodati]] -- [[La Sacra Bibbia/Riveduta/NT - 47 Matteo/RIV Matteo|Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta/NT - 47 Matteo/NRIV Matteo|Nuova Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Matteo|Nuova Riveduta 2020]]
+>>
 >***
 
-
-
-
 ***
+
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Matthæus 1]]:
 
 - L'albero genealogico di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01#v1-17|Matthæus 1,1-17]])
@@ -238,8 +246,6 @@ La resurrezione di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28
 Le guardie subornate ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28#v11-15|Matthæus 28,11-15]])
 La missione degli Apostoli ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28#v16-20|Matthæus 28,16-20]])
 
-
 ***
-
 
 [[La Sacra Bibbia/Nova Vulgata/NT - 46 Malachia/NV Ml 03| ← Malachiæ 3]] | [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Inizia a leggere →]]

@@ -14,6 +14,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
+creato: 31/05/2025 15:32:44
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Mirijana<br>il 18 marzo 2022
@@ -21,5 +23,7 @@ url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-med
 ## Cari figli!<br>Con amore materno vi invito a guardare verso mio Figlio, pieni di forza, fede e fiducia.<br>ApriteGli i vostri cuori e non temete.<br>Perché mio Figlio è la Luce del mondo ed in Lui è la pace e la speranza.<br>Perciò vi invito di nuovo, di nuovo a pregare per i miei figli che non hanno conosciuto l’amore di mio Figlio affinché mio Figlio con la luce del Suo amore e speranza illumini anche i loro cuori e rafforzi voi, figli miei, e vi doni pace e speranza.<br>Sono con voi.<br>Vi ringrazio.
 
 La Madonna ha benedetto tutti.
+
 ***
+
 > [!4colonne]- [[Messaggi/2022/2022-02-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 18 marzo 2022 | [[Messaggi/2022/2022-03-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

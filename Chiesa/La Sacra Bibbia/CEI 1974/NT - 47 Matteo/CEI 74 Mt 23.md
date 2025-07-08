@@ -29,7 +29,10 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/23/)"
+creato: 27/05/2025 21:53:27
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione C.E.I. 1974:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01|⇤ Matteo 1 ]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 22| ← Matteo 22]] | Matteo 23 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 24|Matteo 24 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -47,7 +50,9 @@ Versione C.E.I. 1974:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Mt 23|Matteo 23]]
 
 # Matteo 23
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Allora Gesù si rivolse alla folla e ai suoi discepoli dicendo:
 ###### 2
@@ -126,5 +131,7 @@ Versione C.E.I. 1974:
 <span class=vrs>38</span>Ecco: la vostra casa vi sarà lasciata deserta!
 ###### 39
 <span class=vrs>39</span>Vi dico infatti che non mi vedrete più finché non direte: Benedetto colui che viene nel nome del Signore!".
+
 ***
+
 [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 22| ← Matteo 22]] | Matteo 23 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 24|Matteo 24 →]]

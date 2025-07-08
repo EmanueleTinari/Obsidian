@@ -12,16 +12,13 @@ data-doc: 1964-11-21
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Costituzione
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Lumen_gentium
+tags: [Costituzione, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Lumen_gentium]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)"
-creato: 2025-06-16T08:20:29
+creato: 13/06/2025 19:36:45
 aggiornato: 2025-06-16T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -431,12 +428,12 @@ La commissione ha stabilito di premettere all'esame dei "modi" le seguenti osser
 Arcivescovo tit. di Samosata
 Segretario Generale del Ss. Concilio
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Cfr. San Cipriano, Epistole 64,4: PL 3, 1017; CSEL (Hartel) IIIB, p. 720.

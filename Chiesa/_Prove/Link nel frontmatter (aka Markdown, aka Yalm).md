@@ -18,4 +18,6 @@ multilineList:
   - "[[Wikilink]]"
   - "[Alias](MarkdownLink.md)"
   - https://example.com
+creato: 06/05/2025 19:36:33
+modificato: 09/07/2025 00:16:15
 ---

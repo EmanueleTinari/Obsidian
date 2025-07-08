@@ -11,10 +11,14 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2019-7-25)"
+creato: 11/06/2025 22:30:10
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 luglio 2019
 
 ## Cari figli!<br>La mia chiamata per voi è la preghiera.<br>La preghiera sia per voi gioia e una corona che vi lega a Dio.<br>Figlioli, verranno le prove e voi non sarete forti ed il peccato regnerà ma se siete miei, vincerete perché il vostro rifugio sarà il Cuore di mio Figlio Gesù.<br>Perciò figlioli, ritornate alla preghiera affinché la preghiera diventi vita per voi, di giorno e di notte.<br>Grazie per aver risposto alla mia chiamata.
+
 ***
+
 > [!4colonne]- [[Messaggi/2019/2019-07-05 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 25 luglio 2019 | [[Messaggi/2019/2019-08-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

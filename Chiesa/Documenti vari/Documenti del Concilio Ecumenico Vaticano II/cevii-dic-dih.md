@@ -12,16 +12,13 @@ data-doc: 1965-12-07
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Dichiarazione
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Dignitatis_Humanae
+tags: [Dichiarazione, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Dignitatis_Humanae]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_it.html)"
-creato: 2025-06-19T08:20:29
+creato: 19/06/2025 23:07:32
 aggiornato: 2025-06-19T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -145,12 +142,12 @@ Ss. Concilii Notarius
 † Ego FRANCISCUS HANNIBAL FERRETTI `class: pfirmadx2`
 Ss. Concilii Notarius
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Cfr. Giovanni XXIII, Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 279;

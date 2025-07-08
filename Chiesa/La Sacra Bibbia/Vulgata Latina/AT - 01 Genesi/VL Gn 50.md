@@ -15,20 +15,14 @@ aliases:
   - Genesi, capitolo 50
   - Genesis 50
   - Liber Genesis 50
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_50
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_50
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_50
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_50, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_50, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_50]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/50)"
+creato: 01/07/2025 22:16:53
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia|↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01|⇤ Genesis 1 ]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 49| ← Genesis 49]] <span class="bianco">| Genesis 50 |</span> [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus →]]
 >> <span class="verde">Altre versioni:</span>
@@ -46,7 +40,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 050|Genesi 50]]
 
 # Genesis 50
+
 ***
+
 ###### 1
 <span class=vrs>1</span>Quod cernens Joseph, ruit super faciem patris, flens et deosculans eum.
 ###### 2
@@ -97,5 +93,7 @@ Versione Vulgata Latina:
 <span class=vrs>24</span>Cumque adjurasset eos atque dixisset : Deus visitabit vos, asportate ossa mea vobiscum de loco isto :
 ###### 25
 <span class=vrs>25</span>mortuus est, expletis centum decem vitæ suæ annis. Et conditus aromatibus, repositus est in loculo in Ægypto.
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 049| ← Genesis 49]] | Genesis 50 | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus →]]

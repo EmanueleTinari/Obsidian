@@ -1,3 +1,8 @@
+---
+creato: 28/06/2025 07:33:59
+modificato: 09/07/2025 00:15:33
+---
+
 # H1, Titolo della versione
 ## H2, Nome del Testamento
 ### H3, Nome del Libro

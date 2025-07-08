@@ -4,8 +4,10 @@ titolo: A te, Signore, innalzo l'anima mia
 tempo:
   - Tempo di Quaresima
   - Settimana Santa
-licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-YouTube:  "[Link]()"
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+YouTube: "[Link]()"
+creato: 07/07/2025 23:22:32
+modificato: 09/07/2025 00:08:28
 ---
 
 # A te, Signore, innalzo l'anima mia

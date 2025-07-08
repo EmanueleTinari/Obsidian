@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: true
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2025-5-25)"
+creato: 30/05/2025 15:53:53
+modificato: 09/07/2025 00:14:24
 ---
 
 > [!4colonne]- [[Messaggi/2025/2025-04-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 maggio 2025 | [[Messaggi/2025/2025-06-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
@@ -66,5 +68,7 @@ url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-med
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 maggio 2025
 
 ## Cari figli<br>in questo tempo di grazia vi invito ad essere uomini di speranza, pace e gioia, affinché ogni uomo sia operatore di pace e amante della vita.<br>Pregate, figlioli, lo Spirito Santo affinché vi colmi con la forza del suo Santo Spirito del coraggio e dell’abbandono.<br>Anche questo tempo sarà un dono per voi ed un cammino nella santità verso la vita eterna.<br>Io sono con voi e vi amo.<br>Grazie per aver risposto alla mia chiamata.
+
 ***
+
 > [!4colonne]- [[Messaggi/2025/2025-04-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 maggio 2025 | [[Messaggi/2025/2025-06-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

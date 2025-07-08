@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-29-maggio-2017/)"
+creato: 04/07/2025 21:38:33
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 29 maggio 2017<br>alla Croce blu, ore 22:00
@@ -23,4 +25,5 @@ Poi la Madonna ci ha benedetto tutti con la sua benedizione materna e ha benedet
 ## Andate in pace, cari figli miei!
 
 ***
+
 > [!4colonne]- [[Messaggi/2017/2017-05-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 29 maggio 2017 | [[Messaggi/2017/2017-06-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

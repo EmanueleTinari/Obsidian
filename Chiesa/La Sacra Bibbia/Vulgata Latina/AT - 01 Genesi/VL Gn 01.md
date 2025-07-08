@@ -23,20 +23,14 @@ aliases:
   - Genesis 1
   - Liber Genesis 01
   - Liber Genesis 1
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_1
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_1
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_1, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_1]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/1)"
+creato: 01/07/2025 16:41:24
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Vulgata Latina:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ↑ Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Genesi| ← Genesis]] <span class="bianco">| Genesis 1 |</span> [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 02|Genesis 2 →]] | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Vulgata Latina/NT - 02 Esodo/VL Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -54,7 +48,9 @@ Versione Vulgata Latina:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 01|Genesi 1]]
 
 # Genesis 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In principio creavit Deus cælum et terram.
 ###### 2
@@ -117,5 +113,7 @@ Versione Vulgata Latina:
 <span class=vrs>30</span>et cunctis animantibus terræ, omnique volucri cæli, et universis quæ moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita.
 ###### 31
 <span class=vrs>31</span>Viditque Deus cuncta quæ fecerat, et erant valde bona. Et factum est vespere et mane, dies sextus.
+
 ***
+
 [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Genesi|Genesis]] | Genesis 1 | [[La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 02|Genesis 2 →]]

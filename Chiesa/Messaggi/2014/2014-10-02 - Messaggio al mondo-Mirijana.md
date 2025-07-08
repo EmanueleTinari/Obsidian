@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-2-ottobre-2014/)"
+creato: 07/07/2025 13:28:10
+modificato: 09/07/2025 00:14:22
 ---
 
 # Messaggio della Regina della Pace<br>al mondo<br>tramite la veggente Mirijana<br>del 2 ottobre 2014
@@ -19,4 +21,5 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-2-ottob
 La Madonna ha benedetto tutti i presenti e tutti gli oggetti di devozione che abbiamo portato perché venissero benedetti.
 
 ***
+
 > [!4colonne]- [[Messaggi/2014/2014-09-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 02 ottobre 2014 | [[Messaggi/2014/2014-10-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

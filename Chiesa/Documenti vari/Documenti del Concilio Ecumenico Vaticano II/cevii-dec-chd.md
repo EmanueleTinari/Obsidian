@@ -12,16 +12,13 @@ data-doc: 1965-10-28
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Decreto
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Christus_dominus
+tags: [Decreto, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Christus_dominus]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_it.html)"
-creato: 2025-06-20T08:20:29
+creato: 20/06/2025 07:23:02
 aggiornato: 2025-06-20T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -296,12 +293,12 @@ Ss. Concilii Notarius
 † Ego FRANCISCUS HANNIBAL FERRETTI `class: pfirmadx2`
 Ss. Concilii Notarius
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Cfr. *<span class="BibleRef">[[Mt 1,21|Mt 1, 21]]</span>*

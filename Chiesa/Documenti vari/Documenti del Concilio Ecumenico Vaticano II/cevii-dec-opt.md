@@ -12,16 +12,13 @@ data-doc: 1965-10-28
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Decreto
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Optatam_totius
+tags: [Decreto, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Optatam_totius]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_it.html)"
-creato: 2025-06-20T08:20:29
+creato: 20/06/2025 07:22:25
 aggiornato: 2025-06-20T14:56:10
+modificato: 09/07/2025 00:15:48
 ---
 
 ***
@@ -161,8 +158,8 @@ Io Paolo<br>Vescovo della Chiesa Cattolica `class: firma-centro`
 
 Seguono le firme dei Padri.
 
-
 ***
+
 Firme dei Padri<br><br>† Ego GUILLELMUS titulo S. Patricii ad Villam Ludovisi Presbyter Cardinalis CONWAY, Archiepiscopus Armachanus, totius Hiberniae Primas.<br>† Ego MICHAEL DARIUS MIRANDA, Archiepiscopus Mexicanus, Primas Mexici.<br>† Ego FRANCISCUS MARIA DA SILVA, Archiepiscopus Bracharensis, Primas Hispaniarum.<br>† Ego PAULUS GOUYON, Archiepiscopus Rhedonensis, Primas Britanniae.<br>† Ego HUMBERTUS MALCHIODI, Archiepiscopus Episcopus Placentinus.
 
 
@@ -180,12 +177,12 @@ Ss. Concilii Notarius
 † Ego FRANCISCUS HANNIBAL FERRETTI `class: pfirmadx2`
 Ss. Concilii Notarius
 
-
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
 
-
 ***
+
 NOTE:
 
 [^ftn1]: Che il progresso di tutto il popolo di Dio dipenda, per volontà di Cristo, massimamente dal ministero dei sacerdoti risulta dalle parole con le quali il Signore ha costituito gli Apostoli e i loro successori e collaboratori messaggeri del Vangelo, guide del nuovo popolo eletto e dispensatori dei misteri di Dio; lo stesso è confermato dalle parole dei Padri e dei Santi e da reiterati documenti dei Sommi Pontefici.

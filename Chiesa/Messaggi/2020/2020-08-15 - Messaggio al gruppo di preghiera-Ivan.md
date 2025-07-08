@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-15-agosto-2020/)"
+creato: 03/07/2025 14:30:15
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 15 agosto 2020<br>Festa dell’Assunzione di Maria SS in Cielo in Anima e Corpo<br>nella località di Boston (U.S.A.)
@@ -22,5 +24,7 @@ Con le mani distese ha dato la sua materna benedizione su tutti noi.<br>Poi ha d
 La S. Vergine continua a pregare su di noi fino a che scompare nel segno della luce e della Croce salutandoci con le parole:
 ## Andate in pace cari figli miei!
 Ivan ha avuto anche un colloquio personale e ha sottolineato l’invito della Madre all’amore, la pace e la speranza proprio perché siamo noi che dobbiamo portare al mondo questi valori.<br>Non dobbiamo temere per le sofferenze perché è per la purificazione, perché questo è un atto che ci avvicina al Signore.
+
 ***
+
 > [!4colonne]- [[Messaggi/2020/2020-07-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 15 agosto 2020 | [[Messaggi/2020/2020-08-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

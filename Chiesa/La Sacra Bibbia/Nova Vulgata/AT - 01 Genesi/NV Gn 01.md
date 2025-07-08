@@ -17,28 +17,20 @@ aliases:
   - Libro della Genesi 1
   - Genesi, capitolo 01
   - Genesi, capitolo 1
-  - Libro della Genesi 01
-  - Libro della Genesi 1
   - Genesis 01
   - Genesis 1
   - Liber Genesis 01
   - Liber Genesis 1
   - Gen 01
   - Gen 1
-tags:
-  - Antico_Testamento/Pentateuco/Genesi/Capitolo_1
-  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1
-  - Antico_Testamento
-  - Vecchio_Testamento
-  - Il_Pentateuco
-  - Pentateuco
-  - Libro_della_Genesi
-  - Genesi
-  - Capitolo_1
+tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_1, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_1]
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_vt_genesis_lt.html)"
+creato: 30/06/2025 21:54:52
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nova Vulgata:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Indice generale della Sacra Bibbia| ← Indice generale della Sacra Bibbia]] | [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Genesi| ← Genesis]] <span class="bianco">| Genesis 1 |</span> [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 02|Genesis 2 →]] | [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 50|Genesis 50 ⇥]] | [[La Sacra Bibbia/Nova Vulgata/NT - 02 Esodo/NV Esodo|Exodus ↓]]
 >> <span class="verde">Altre versioni:</span>
@@ -56,7 +48,9 @@ Versione Nova Vulgata:
 >> Nuova Riveduta 2020, [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Gn 01|Genesi 1]]
 
 # Genesis 1
+
 ***
+
 ###### 1
 <span class=vrs>1</span>In principio creavit Deus caelum et terram.
 ###### 2
@@ -121,5 +115,7 @@ masculum et feminam creavit eos.
 <span class=vrs>30</span>et cunctis animantibus terrae omnique volucri caeli et universis, quae moventur in terra et in quibus est anima vivens, omnem herbam virentem ad vescendum”. Et factum est ita.
 ###### 31
 <span class=vrs>31</span>Viditque Deus cuncta, quae fecit, et ecce erant valde bona. Et factum est vespere et mane, dies sextus.
+
 ***
+
 [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Genesi|Genesis]] | Genesis 1 | [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 02|Genesis 2 →]]

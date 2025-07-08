@@ -29,19 +29,15 @@ aliases:
   - Iud 1
   - Jude 01
   - Jude 1
-tags:
-  - Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1
-  - Nuovo_Testamento
-  - Le_altre_Lettere_Cattoliche
-  - Lettera_di_San_Giuda_Apostolo
-  - Capitolo_1
-  - Lettera_di_San_Giuda
-  - Lettera_di_Giuda
+tags: [Nuovo_Testamento/Le_altre_Lettere_Cattoliche/Lettera_di_San_Giuda_Apostolo/Capitolo_1, Nuovo_Testamento, Le_altre_Lettere_Cattoliche, Lettera_di_San_Giuda_Apostolo, Capitolo_1, Lettera_di_San_Giuda, Lettera_di_Giuda]
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.laparola.net/testo.php?riferimento=Giuda&versioni[]=Riveduta+2020)"
+creato: 28/06/2025 22:20:26
+modificato: 09/07/2025 00:15:33
 ---
+
 Versione Nuova Riveduta 2020:
 > [!indice-libro-biblico]- [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 71 3 Giovanni/RIV20 3 Giovanni|↑ 3 Giovanni]] | [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV20 Giuda| ← Giuda]] | Giuda 1 | [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 73 Apocalisse/RIV20 Apocalisse|Apocalisse →]]
 >> <span class="verde">Altre versioni:</span>
@@ -59,7 +55,9 @@ Versione Nuova Riveduta 2020:
 >> Nuova Riveduta, [[La Sacra Bibbia/Nuova Riveduta/NT - 72 Giuda/NRIV Gd 01|Giuda 1]]
 
 # Giuda 1
+
 ***
+
 ##### Indirizzo e saluti
 ###### 1
 <span class=vrs>1</span>Giuda, servo di Gesù Cristo e fratello di Giacomo, ai chiamati che sono amati in Dio Padre e custoditi da Gesù Cristo,
@@ -113,5 +111,7 @@ Versione Nuova Riveduta 2020:
 <span class=vrs>24</span>A colui che può preservarvi da ogni caduta e farvi comparire davanti alla sua gloria irreprensibili, con gioia,
 ###### 25
 <span class=vrs>25</span>al Dio unico, nostro Salvatore, per mezzo di Gesù Cristo nostro Signore, siano gloria, maestà, forza e potere, da ogni eternità, ora e per tutti i secoli. Amen.
+
 ***
+
 [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV20 Giuda|Giuda]] | Giuda 1 | [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 73 Apocalisse/RIV20 Apocalisse|Apocalisse →]]

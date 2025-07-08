@@ -5,12 +5,10 @@ tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: X
 anno-doc: X
 data-doc: X
-tags:
-  - X
-  - X
-  - X
-creato: 2025-05-02T11:03:58
+tags: [X]
+creato: 02/05/2025 11:03:58
 aggiornato: 2025-05-10T21:38:21
+modificato: 09/07/2025 00:15:55
 ---
 
 ***
@@ -635,5 +633,7 @@ X. `class: paragrafo-normale`
 X. `class: data-luogo`
 
 X. `class: firma-centro`
+
 ***
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`

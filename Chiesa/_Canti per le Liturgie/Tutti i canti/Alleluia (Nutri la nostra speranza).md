@@ -5,6 +5,8 @@ tempo:
   - Tempo dopo Pentecoste
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 YouTube:  "[Link]()"
+creato: 08/07/2025 16:33:47
+modificato: 09/07/2025 00:09:34
 ---
 
 # Alleluia (Nutri la nostra speranza)

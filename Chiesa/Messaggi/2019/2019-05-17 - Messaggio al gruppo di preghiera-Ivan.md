@@ -11,6 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-17-maggio-2019/)"
+creato: 03/07/2025 23:11:51
+modificato: 09/07/2025 00:14:23
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 17 maggio 2019<br>alla Croce blu, ore 22:00
@@ -21,5 +23,7 @@ Poi ha steso le mani qui ed ha pregato su tutti noi, ha pregato in particolare s
 ## Cari figli, anche oggi vi invito in modo particolare: pregate per le mie intenzioni, per i miei piani che desidero realizzare con la mia venuta.<br>Pregate specialmente per i pastori, per la Chiesa, per la fede forte dei sacerdoti.<br>Grazie, cari figli, per aver anche oggi risposto alla mia chiamata.
 Poi la Madonna ci ha benedetto con la sua benedizione materna ed ha benedetto tutto quello che avete portato perché venisse benedetto.<br>Come sempre, anche oggi io ho raccomandato tutti voi: le vostre necessità, le vostre intenzioni, le vostre famiglie.<br>Poi la Madonna ha pregato per un periodo di tempo in particolare per la pace nelle famiglie.<br>Poi se n’è andata in preghiera, nel segno della luce e della croce, col saluto:
 ## Andate in pace, cari figli miei!
+
 ***
+
 > [!4colonne]- [[Messaggi/2019/2019-05-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 17 maggio 2019 | [[Messaggi/2019/2019-05-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

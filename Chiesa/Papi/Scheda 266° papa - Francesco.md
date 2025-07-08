@@ -29,19 +29,15 @@ luogo-sepoltura: "[[Basilica di Santa Maria Maggiore (Roma)|Santa Maria Maggiore
 predecessore: "[[Scheda 265° papa - Benedetto XVI|Papa Benedetto XVI]]"
 successore: "[[Scheda 267° papa - Leone XIV|Papa Leone XIV]]"
 aliases:
- - Papa Francesco
- - Francesco I
- - Franciscus
- - Franciscus PP. I
-tags:
- - Bio
- - Francesco_I
- - Scheda
- - papa
+  - Papa Francesco
+  - Francesco I
+  - Franciscus
+  - Franciscus PP. I
+tags: [Bio, Francesco_I, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 2025-06-25T14:50:37
+creato: 25/06/2025 14:02:07
 aggiornato: 2025-06-25T14:50:37
+modificato: 09/07/2025 00:12:25
 ---
 
 ***
-
