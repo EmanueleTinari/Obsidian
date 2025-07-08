@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>In questo tempo di grazia vi invito a prendere fra le mani la croce del mio amato Figlio Gesù e a contemplare la Sua passione e morte.<br>Le vostre sofferenze siano unite alla Sua sofferenza e l’amore vincerà, perché, Lui che è l’Amore, ha dato se stesso per amore per salvare ciascuno di voi.<br>Pregate, pregate, pregate affinché l’amore e la pace comincino a regnare nei vostri cuori.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2013/2013-03-18 - Messaggio annuale a Mirijana| ← Messaggio precedente]] | 25 marzo 2013 | [[Messaggi/2013/2013-04-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

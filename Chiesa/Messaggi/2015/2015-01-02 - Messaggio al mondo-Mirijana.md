@@ -19,4 +19,4 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-2-genna
 La Madonna ha benedetto tutti i presenti e tutti gli oggetti portati perché venissero benedetti.
 
 ***
-> [!4colonne]- [[Messaggi/2014/2014-12-25 - Messaggio annuale a Jakov| ← Messaggio precedente]] | 02 gennaio 2015 | [[Messaggi/2015/2015-01-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+> [!4colonne]- [[Messaggi/2014/2014-12-29 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 02 gennaio 2015 | [[Messaggi/2015/2015-01-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

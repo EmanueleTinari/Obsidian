@@ -20,3 +20,5 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-17-agos
 Poi ha steso le sue mani per un tempo prolungato sopra tutti voi qui presenti.<br>In modo particolare ha pregato per voi malati, poi ha pregato particolarmente per voi sacerdoti presenti.<br>Poi la Madonna ha dato questo messaggio:
 ## Cari figli oggi in modo particolare vi invito a pregare per la pace.<br>Apritevi allo Spirito Santo cari figli, che lo Spirito Santo vi guidi: In modo particolare, cari figli in questo tempo pregate per il mio amatissimo Santo Padre, pregate per la sua missione, la missione della pace.<br>La Madre prega insieme a voi e intercede presso Suo Figlio per ciascuno di voi.<br>Grazie cari figli perché anche oggi avete risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-08-04 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 17 agosto 2014 | [[Messaggi/2014/2014-08-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

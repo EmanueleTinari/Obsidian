@@ -20,3 +20,5 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-16-magg
 Poi la Madonna ha pregato per un periodo di tempo qui su tutti noi con le mani distese e ha pregato in particolare su voi malati presenti.<br>Poi ha detto:
 ## Cari figli, anche oggi in modo particolare vi invito a pregare per le mie intenzioni, per i miei piani che desidero realizzare con il mondo.<br>Pregate, cari figli, e siate perseveranti nella preghiera!<br>La Madre prega con voi e intercede sempre per tutti voi presso suo Figlio.<br>Grazie, cari figli, anche oggi, per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-05-05 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 16 maggio 2014 | [[Messaggi/2014/2014-05-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

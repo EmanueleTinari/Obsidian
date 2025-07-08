@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Con la gioia nel cuore vi amo tutti e vi invito ad avvicinarvi al mio cuore Immacolato affinchè Io possa avvicinarvi ancora di più al mio Figlio Gesù perché Lui vi dia la sua pace e il suo amore che sono il nutrimento per ciascuno di voi.<br>Apritevi, figlioli, alla preghiera, apritevi al mio amore.<br>Io sono vostra Madre e non posso lasciarvi soli nel vagare e nel peccato.<br>Figlioli, siete invitati ad essere i miei figli, i miei amati figli perché possa presentarvi tutti al mio Figlio.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2013/2013-06-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 giugno 2013 | [[Messaggi/2013/2013-06-25 - Messaggio annuale a Ivanka| Messaggio successivo → ]]

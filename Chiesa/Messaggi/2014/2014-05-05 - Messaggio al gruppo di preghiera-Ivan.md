@@ -22,3 +22,5 @@ Poi ha pregato un tempo con le mani distese qui su tutti noi e, in particolare, 
 Poi la Madonna ci ha benedetto tutti con la sua benedizione materna e ha benedetto tutto quello che avete portato perché fosse benedetto.<br>Poi io ho raccomandato tutti voi, tutti i vostri bisogni, le vostre intenzioni e le vostre famiglie.<br>Poi la Madonna ha continuato a pregare qui su tutti noi, e poi in questa preghiera se n’è andata nel segno della luce e della croce col saluto:
 ## Andate in pace, cari figli miei.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-05-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 05 maggio 2014 | [[Messaggi/2014/2014-05-16 - Messaggio al gruppo di preghiera-Ivan| Messaggio successivo → ]]

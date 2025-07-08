@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Pregate e siate coscienti che senza Dio siete polvere.<br>Perciò volgete i vostri pensieri e il vostro cuore a Dio e alla preghiera.<br>Confidate nel Suo amore.<br>Nello Spirito di Dio, figlioli, tutti voi siete invitati ad essere testimoni.<br>Voi siete preziosi e io vi invito, figlioli, alla santità, alla vita eterna.<br>Perciò siate coscienti che questa vita è passeggera.<br>Io vi amo e vi invito alla nuova vita di conversione.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-05-16 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 25 maggio 2014 | [[Messaggi/2014/2014-06-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

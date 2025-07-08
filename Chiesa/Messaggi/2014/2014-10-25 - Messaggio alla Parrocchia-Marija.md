@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Pregate in questo tempo di grazia e chiedete l'intercessione di Tutti i Santi che sono già nella luce.<br>Loro vi siano d' esempio e d' esortazione di giorno in giorno, sul cammino della vostra conversione.<br>Figlioli, siate coscienti che la vostra vita è breve e passeggera.<br>Perciò anelate all'eternità e preparate i vostri cuori nella preghiera.<br>Io sono con voi ed intercedo presso il mio Figlio per ciascuno di voi, soprattutto per coloro che si sono consacrati a Me ed a mio Figlio.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-10-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 ottobre 2014 | [[Messaggi/2014/2014-11-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

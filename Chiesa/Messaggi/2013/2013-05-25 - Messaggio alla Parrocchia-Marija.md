@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Oggi vi invito ad essere forti e decisi nella fede e nella preghiera affinché le vostre preghiere siano tanto forti da aprire il cuore del mio amato Figlio Gesù.<br>Pregate figlioli, senza sosta affinché il vostro cuore si apra all’amore di Dio.<br>Io sono con voi, intercedo per tutti voi e prego per la vostra conversione.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2013/2013-05-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 maggio 2013 | [[Messaggi/2013/2013-06-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

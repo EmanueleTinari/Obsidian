@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Pregate per le mie intenzioni perché Satana desidera distruggere il mio piano che ho qui e rubarvi la pace.<br>Perciò, figlioli, pregate, pregate, pregate affinché Dio possa operare attraverso ciascuno di voi.<br>I vostri cuori siano aperti alla volontà di Dio.<br>Io vi amo e vi benedico con la mia benedizione materna.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-08-17 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 25 agosto 2014 | [[Messaggi/2014/2014-09-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

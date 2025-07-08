@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Pregate, pregate, pregate perché il riflesso della vostra preghiera influisca su tutti coloro che incontrate.<br>Mettete la Sacra Scrittura in un posto visibile nelle vostre famiglie e leggetela perché le parole di pace scorrano nei vostri cuori.<br>Prego con voi e per voi, figlioli, perché di giorno in giorno siate sempre più aperti alla volontà di Dio.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-01-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 gennaio 2014 | [[Messaggi/2014/2014-02-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

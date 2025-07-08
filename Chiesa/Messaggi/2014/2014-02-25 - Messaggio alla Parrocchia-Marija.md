@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Vedete, ascoltate e sentite che nei cuori di molti uomini non c'è Dio.<br>Non lo vogliono perché sono lontani dalla preghiera e non hanno la pace.<br>Voi, figlioli, pregate, vivete i commandamenti di Dio.<br>Voi siate preghiera, voi che fin dallo stesso inizio avete detto „si“ alla mia chiamata.<br>Testimoniate Dio e la mia presenza e non dimenticate figlioli, che Io sono con voi e vi amo.<br>Di giorno in giorno vi presento al mio figlio Gesù.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-02-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 febbraio 2014 | [[Messaggi/2014/2014-03-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

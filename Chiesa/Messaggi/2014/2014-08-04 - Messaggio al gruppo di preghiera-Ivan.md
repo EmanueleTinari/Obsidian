@@ -20,3 +20,5 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-4-agost
 Poi la Madonna ha steso le sue mani ed ha pregato su tutti noi, qui presenti, per un tempo prolungato, nella sua lingua aramaica.<br>In particolare ha pregato sui malati e i giovani.<br>Poi ha detto:
 ## Cari figli, anche oggi gioisco insieme a voi in questo tempo di grazia, particolarmente gioisco quando vedo così tanti miei figli che sono felici durante questi giorni.<br>Vi invito cari figli, a pregare durante questo tempo per la pace.<br>Pregate per la pace, la pace che viene nel cuore dell’uomo e mio Figlio dimorerà nei vostri cuori e vi porterà la pace perché Lui è la vostra pace.<br>Io prego cari figli e intercedo presso mio Figlio per tutti voi.<br>Perciò perseverate nella preghiera e non abbiate paura!<br>Continuate a pregare.<br>Grazie cari figli, per la vostra perseveranza e grazie perché anche oggi avete risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-08-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 04 agosto 2014 | [[Messaggi/2014/2014-08-17 - Messaggio al gruppo di preghiera-Ivan| Messaggio successivo → ]]

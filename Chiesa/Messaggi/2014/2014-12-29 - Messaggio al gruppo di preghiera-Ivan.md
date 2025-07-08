@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-29-dice
 
 ## Cari figli, anche oggi desidero dirvi grazie.<br>Grazie, cari figli, perché avete fatto una scelta, avete deciso di vivere i miei messaggi.<br>Oggi vi invito nuovamente in questo tempo, tempo di grazia, a pregare di più per la famiglia e a pregare per l’evangelizzazione della famiglia.<br>Pregate particolarmente per i giovani.<br>Che Dio dimori nelle famiglie ed occupi il primo posto!<br>Sono con voi, prego insieme a voi.<br>Grazie, cari figli, per aver anche oggi risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-12-25 - Messaggio annuale a Jakov| ← Messaggio precedente]] | 29 dicembre 2014 | [[Messaggi/2015/2015-01-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

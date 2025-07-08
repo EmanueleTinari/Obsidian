@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Aprite i vostri cuori alla grazia che Dio vi dona attraverso di me come il fiore che si apre ai caldi raggi del sole.<br>Siate preghiera ed amore per tutti coloro che sono lontani da Dio e dal Suo amore.<br>Io sono con voi ed intercedo per tutti voi presso il mio Figlio Gesù e vi amo con amore immenso.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-04-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 aprile 2014 | [[Messaggi/2014/2014-04-25 - Messaggio al gruppo di preghiera-Ivan| Messaggio successivo → ]]

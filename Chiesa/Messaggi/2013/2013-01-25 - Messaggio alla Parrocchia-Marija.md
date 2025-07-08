@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Anche oggi vi invito alla preghiera.<br>La vostra preghiera sia forte come pietra viva affinché con le vostre vite diventiate i testimoni.<br>Testimoniate la bellezza della vostra fede.<br>Io sono con voi e intercedo presso il mio Figlio per ognuno di voi.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2013/2013-01-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 gennaio 2013 | [[Messaggi/2013/2013-02-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

@@ -22,3 +22,5 @@ Poi la Madonna ha steso le mani e ha pregato qui su tutti noi per un tempo prolu
 Poi la Madonna ci ha benedetti tutti con la sua benedizione materna e ha benedetto tutto quello che avete portato perché fosse benedetto.<br>Poi ho raccomandato tutti voi, tutti i vostri bisogni, le vostre intenzioni, le vostre famiglie, e in particolare ho raccomandato i malati e tutti voi sacerdoti presenti qui oggi.<br>Poi la Madonna ha continuato a pregare e se ne è andata in questa preghiera nel segno della Luce e della Croce con il saluto:
 ## Andate in pace , cari figli miei.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-04-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 aprile 2014 | [[Messaggi/2014/2014-05-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

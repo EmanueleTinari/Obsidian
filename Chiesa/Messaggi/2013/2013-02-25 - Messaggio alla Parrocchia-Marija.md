@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>Anche oggi vi invito alla preghiera.<br>Il peccato vi attira verso le cose terrene ma io sono venuta per guidarvi verso la santità e verso le cose di Dio ma voi lottate e sprecate le vostre energie nella lotta tra il bene e il male che sono dentro di voi.<br>Perciò figlioli, pregate, pregate, pregate affinché la preghiera diventi gioia per voi e la vostra vita diventerà un semplice cammino verso Dio.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2013/2013-02-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 febbraio 2013 | [[Messaggi/2013/2013-03-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

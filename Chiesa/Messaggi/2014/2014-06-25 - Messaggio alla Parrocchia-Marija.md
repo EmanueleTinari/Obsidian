@@ -17,3 +17,5 @@ url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-me
 
 ## Cari figli!<br>L’Altissimo mi dona la grazia di poter essere ancora con voi e di guidarvi nella preghiera verso la via della pace.<br>Il vostro cuore e la vostra anima hanno sete di pace e d’amore, di Dio e della Sua gioia.<br>Perciò, figlioli, pregate, pregate, pregate e nella preghiera scoprirete la sapienza del vivere.<br>Io vi benedico e intercedo per ciascuno di voi davanti al mio Figlio Gesù.<br>Grazie per aver risposto alla mia chiamata.
 
+***
+> [!4colonne]- [[Messaggi/2014/2014-06-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 25 giugno 2014 | [[Messaggi/2014/2014-06-25 - Messaggio annuale a Ivanka| Messaggio successivo → ]]
