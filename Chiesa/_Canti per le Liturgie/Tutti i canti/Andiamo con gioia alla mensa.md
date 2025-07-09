@@ -6,7 +6,7 @@ tempo:
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 YouTube: "[Link]()"
 creato: 08/07/2025 22:47:55
-modificato: 09/07/2025 00:21:42
+modificato: 09/07/2025 16:30:42
 ---
 
 # Andiamo con gioia alla mensa
