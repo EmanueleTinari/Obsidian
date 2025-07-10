@@ -1,6 +1,6 @@
 ---
-creato: 28/06/2025 16:18:39
-modificato: 09/07/2025 00:15:33
+creato: 2025/06/28 16:18:39
+modificato: 2025/07/09 23:32:47
 ---
 
 # La Sacra Bibbia C.E.I. 1974

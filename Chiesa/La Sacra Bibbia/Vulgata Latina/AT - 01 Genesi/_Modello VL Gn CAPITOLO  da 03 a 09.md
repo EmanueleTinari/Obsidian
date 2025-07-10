@@ -27,8 +27,8 @@ tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_@CAP, Vecchio_Testamento/Pen
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/@CAP)"
-creato: 01/07/2025 19:14:43
-modificato: 09/07/2025 00:15:33
+creato: 2025/07/01 19:14:43
+modificato: 2025/07/09 23:32:48
 ---
 
 Versione Vulgata Latina:

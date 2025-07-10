@@ -11,8 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2018-10-25)"
-creato: 12/06/2025 08:45:44
-modificato: 09/07/2025 00:14:23
+creato: 2025/06/12 08:45:44
+modificato: 2025/07/09 23:33:02
 ---
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 ottobre 2018

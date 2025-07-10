@@ -1,6 +1,5 @@
 ---
 creato: 2025-05-02T14:55:59
-aggiornato: 2025-05-10T21:35:26
 ---
 ```dataviewjs
 let el

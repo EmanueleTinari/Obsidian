@@ -14,9 +14,8 @@ tags: [Bolla, Benedetto_XIV, Peregrinantes_a_Domino]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-peregrinantes-a-domino--i---5-maggio-1749-il-pontefice-.html)"
-creato: 01/05/2025 22:46:41
-aggiornato: 2025-05-18T17:17:35
-modificato: 09/07/2025 00:15:55
+creato: 2025/05/01 22:46:41
+modificato: 2025/07/09 23:32:33
 ---
 
 ***

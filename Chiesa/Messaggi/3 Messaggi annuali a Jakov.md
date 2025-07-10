@@ -11,8 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
-creato: 31/05/2025 00:37:47
-modificato: 09/07/2025 00:14:22
+creato: 2025/05/31 00:37:47
+modificato: 2025/07/09 23:33:01
 ---
 
 # L'ultimo degli incontri giornalieri del veggente Jakov Čolo con la Regina della Pace, il giorno 12 settembre 1998

@@ -11,8 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio:  "[Link al messaggio](https://radiomaria.it/messaggio-del-2-ottobre-2018/)"
-creato: 04/07/2025 16:15:45
-modificato: 09/07/2025 00:14:23
+creato: 2025/07/04 16:15:45
+modificato: 2025/07/09 23:33:02
 ---
 
 # Messaggio della Regina della Pace<br>al resto del mondo<br>tramite la veggente Mirijana<br>del 2 ottobre 2018

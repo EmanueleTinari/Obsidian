@@ -35,9 +35,8 @@ aliases:
   - Benedictus PP. XV
 tags: [Bio, Benedetto_XV, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 25/06/2025 13:39:37
-aggiornato: 2025-06-25T14:50:37
-modificato: 09/07/2025 00:11:56
+creato: 2025/06/25 13:39:37
+modificato: 2025/07/09 23:33:15
 ---
 
 ***

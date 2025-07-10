@@ -16,9 +16,8 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 url-documento:
   - "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/john-paul-ii/it/apost_letters/1997/documents/hf_jp-ii_apl_15081997_laetamur.html)"
   - "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/lettera-apost_it.htm)"
-creato: 16/06/2025 14:59:13
-aggiornato: 2025-06-16T14:56:10
-modificato: 09/07/2025 00:15:55
+creato: 2025/06/16 14:59:13
+modificato: 2025/07/09 23:32:33
 ---
 
 ***

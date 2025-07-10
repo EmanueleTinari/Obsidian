@@ -35,9 +35,8 @@ aliases:
   - Pius PP. VII
 tags: [Bio, Pio_VII, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 22/05/2025 14:50:28
-aggiornato: 2025-05-22T14:50:28
-modificato: 09/07/2025 00:11:42
+creato: 2025/05/22 14:50:28
+modificato: 2025/07/09 23:33:15
 ---
 
 ***

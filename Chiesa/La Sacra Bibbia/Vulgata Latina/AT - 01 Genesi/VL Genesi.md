@@ -15,8 +15,8 @@ tags: [Antico_Testamento/Il_Pentateuco/Genesi, Vecchio_Testamento/Il_Pentateuco/
 stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 01/07/2025 16:43:53
-modificato: 09/07/2025 00:15:33
+creato: 2025/07/01 16:43:53
+modificato: 2025/07/09 23:32:47
 ---
 
 # Genesis
@@ -40,6 +40,7 @@ modificato: 09/07/2025 00:15:33
 > [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
 >
 >> [[La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Genesi|Nova Vulgata]] -- [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Genesi|CEI 1974]] -- [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Genesi|CEI 2008]] -- [[La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Genesi|Interconfessionale]] -- [[La Sacra Bibbia/Martini/AT - 01 Genesi/MRT Genesi|Martini]] -- [[La Sacra Bibbia/Ricciotti/AT - 01 Genesi/RCT Genesi|Ricciotti]] -- [[La Sacra Bibbia/Diodati/AT - 01 Genesi/D Genesi|Diodati]] -- [[La Sacra Bibbia/Nuova Diodati/AT - 01 Genesi/ND Genesi|Nuova Diodati]] -- [[La Sacra Bibbia/Riveduta/AT - 01 Genesi/RIV Genesi|Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta/AT - 01 Genesi/NRIV Genesi|Nuova Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta 2020/AT - 01 Genesi/RIV20 Genesi|Nuova Riveduta 2020]]
+>>
 >>
 >***
 

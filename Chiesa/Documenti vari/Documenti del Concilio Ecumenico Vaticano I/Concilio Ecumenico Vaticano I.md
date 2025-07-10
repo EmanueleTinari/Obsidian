@@ -1,6 +1,6 @@
 ---
-creato: 25/06/2025 11:00:43
-modificato: 09/07/2025 00:15:48
+creato: 2025/06/25 11:00:43
+modificato: 2025/07/09 23:32:41
 ---
 
 # DOCUMENTI DEL CONCILIO VATICANO I

@@ -11,8 +11,8 @@ lingua-orig: Croato
 approvazione: true
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2025-5-25)"
-creato: 30/05/2025 15:53:53
-modificato: 09/07/2025 00:14:24
+creato: 2025/05/30 15:53:53
+modificato: 2025/07/09 23:33:02
 ---
 
 > [!4colonne]- [[Messaggi/2025/2025-04-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 maggio 2025 | [[Messaggi/2025/2025-06-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

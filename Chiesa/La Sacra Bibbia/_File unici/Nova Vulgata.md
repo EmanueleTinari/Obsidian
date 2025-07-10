@@ -1,6 +1,6 @@
 ---
-creato: 28/06/2025 14:22:00
-modificato: 09/07/2025 00:15:33
+creato: 2025/06/28 14:22:00
+modificato: 2025/07/09 23:32:47
 ---
 
 # Nova Vulgata

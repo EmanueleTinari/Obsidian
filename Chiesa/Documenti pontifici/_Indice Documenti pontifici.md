@@ -1,6 +1,6 @@
 ---
-creato: 16/06/2025 16:53:25
-modificato: 09/07/2025 00:15:55
+creato: 2025/06/16 16:53:25
+modificato: 2025/07/09 23:32:33
 ---
 
 <!--  (!= this.file.name) esclude questo stesso file dalla lista -->

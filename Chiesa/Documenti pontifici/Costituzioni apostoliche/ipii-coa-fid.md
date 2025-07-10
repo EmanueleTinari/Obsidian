@@ -16,9 +16,8 @@ licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 
 url-documento:
   - "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html)"
   - "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/aposcons_it.htm)"
-creato: 17/06/2025 11:07:49
-aggiornato: 2025-06-17T14:56:10
-modificato: 09/07/2025 00:15:55
+creato: 2025/06/17 11:07:49
+modificato: 2025/07/09 23:32:33
 ---
 
 ***

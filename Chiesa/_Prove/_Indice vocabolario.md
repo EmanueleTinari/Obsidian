@@ -2,7 +2,6 @@
 cssclasses: vocabolario
   - background
 creato: 17/05/2025 16:34:22
-aggiornato: 2025-05-19T23:05:00
 modificato: 09/07/2025 00:16:15
 ---
 

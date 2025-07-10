@@ -17,8 +17,8 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/introduzione/)"
-creato: 11/05/2025 07:59:28
-modificato: 09/07/2025 00:15:33
+creato: 2025/05/11 07:59:28
+modificato: 2025/07/09 23:32:47
 ---
 
 # Matteo
@@ -42,6 +42,7 @@ modificato: 09/07/2025 00:15:33
 > [!indice-libro-biblico]- <span class="normale">Altre versioni: </span>
 >
 >> [[La Sacra Bibbia/Vulgata Latina/NT - 47 Matteo/VL Matteo|Vulgata Latina]] -- [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Matteo|Nova Vulgata]] -- [[La Sacra Bibbia/CEI 2008/NT - 47 Matteo/CEI 08 Matteo|CEI 2008]] -- [[La Sacra Bibbia/Interconfessionale/NT - 47 Matteo/INT Matteo|Interconfessionale]] -- [[La Sacra Bibbia/Martini/NT - 47 Matteo/MRT Matteo|Martini]] -- [[La Sacra Bibbia/Ricciotti/NT - 47 Matteo/RCT Matteo|Ricciotti]] -- [[La Sacra Bibbia/Diodati/NT - 47 Matteo/D Matteo|Diodati]] -- [[La Sacra Bibbia/Nuova Diodati/NT - 47 Matteo/ND Matteo|Nuova Diodati]] -- [[La Sacra Bibbia/Riveduta/NT - 47 Matteo/RIV Matteo|Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta/NT - 47 Matteo/NRIV Matteo|Nuova Riveduta]] -- [[La Sacra Bibbia/Nuova Riveduta 2020/NT - 47 Matteo/RIV20 Matteo|Nuova Riveduta 2020]]
+>>
 >>
 >***
 

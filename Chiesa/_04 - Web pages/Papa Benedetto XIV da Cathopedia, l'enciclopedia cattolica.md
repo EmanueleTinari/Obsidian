@@ -1,6 +1,5 @@
 
 creato: 2025 05 10T09:02:53
-aggiornato: 2025 05 10T09:02:53
 
 Da Cathopedia, l'enciclopedia cattolica.
 

@@ -17,9 +17,8 @@ tags: [Altri_documenti, Codice_di_Diritto_Canonico, CIC]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_it.html)"
-creato: 02/05/2025 00:23:28
-aggiornato: 2025-05-18T17:17:30
-modificato: 09/07/2025 00:15:48
+creato: 2025/05/02 00:23:28
+modificato: 2025/07/09 23:32:40
 ---
 
 ---

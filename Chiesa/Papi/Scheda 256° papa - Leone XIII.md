@@ -36,9 +36,8 @@ aliases:
   - Leo PP. XIII
 tags: [Bio, Leone_XIII, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 25/06/2025 13:39:34
-aggiornato: 2025-06-25T14:50:37
-modificato: 09/07/2025 00:11:51
+creato: 2025/06/25 13:39:34
+modificato: 2025/07/09 23:33:15
 ---
 
 ***

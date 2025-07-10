@@ -16,9 +16,8 @@ tags: [Costituzione, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Gaudium_et_Spes]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html)"
-creato: 13/06/2025 19:39:07
-aggiornato: 2025-06-14T14:56:10
-modificato: 09/07/2025 00:15:48
+creato: 2025/06/13 19:39:07
+modificato: 2025/07/09 23:32:40
 ---
 
 ***

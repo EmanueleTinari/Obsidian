@@ -16,9 +16,8 @@ tags: [Decreto, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Orientalium_ecclesiari
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_it.html)"
-creato: 20/06/2025 07:21:40
-aggiornato: 2025-06-20T14:56:10
-modificato: 09/07/2025 00:15:48
+creato: 2025/06/20 07:21:40
+modificato: 2025/07/09 23:32:41
 ---
 
 ***

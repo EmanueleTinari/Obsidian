@@ -27,8 +27,8 @@ tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_1, Vecchio_Testamento/Pentat
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/INTERCONFESSIONALE/at/Gn/1/)"
-creato: 30/06/2025 13:13:20
-modificato: 09/07/2025 00:15:33
+creato: 2025/06/30 13:13:20
+modificato: 2025/07/09 23:32:47
 ---
 
 Versione Interconfessionale:

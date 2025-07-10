@@ -16,9 +16,8 @@ tags: [Altri_documenti, Catechismo_della_Chiesa_Cattolica, CCC]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/index_it.htm)"
-creato: 02/05/2025 00:15:45
-aggiornato: 2025-05-20T09:17:14
-modificato: 09/07/2025 00:15:48
+creato: 2025/05/02 00:15:45
+modificato: 2025/07/09 23:32:40
 ---
 
 ***

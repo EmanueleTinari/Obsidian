@@ -11,8 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://radiomaria.it/messaggio-straordinario-del-1-gennaio-2024/)"
-creato: 04/06/2025 15:47:30
-modificato: 09/07/2025 00:14:23
+creato: 2025/06/04 15:47:30
+modificato: 2025/07/09 23:33:02
 ---
 
 La Madonna è venuta gioiosa, ha pregato su di noi, per le nostre intenzioni.<br>Ha detto:

@@ -16,9 +16,8 @@ tags: [Costituzione, Pio_IX, Concilio_Ecumenico_Vaticano_I, Pastor_Aeternus]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/i-vatican-council/documents/vat-i_const_18700718_pastor-aeternus_it.html)"
-creato: 25/06/2025 10:58:56
-aggiornato: 2025-06-25T14:56:10
-modificato: 09/07/2025 00:15:48
+creato: 2025/06/25 10:58:56
+modificato: 2025/07/09 23:32:41
 ---
 
 ***

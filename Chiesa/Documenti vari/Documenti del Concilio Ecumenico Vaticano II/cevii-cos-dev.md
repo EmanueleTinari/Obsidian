@@ -16,9 +16,8 @@ tags: [Costituzione, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Dei_Verbum]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html)"
-creato: 18/06/2025 23:53:19
-aggiornato: 2025-06-18T14:56:10
-modificato: 09/07/2025 00:15:48
+creato: 2025/06/18 23:53:19
+modificato: 2025/07/09 23:32:40
 ---
 
 ***

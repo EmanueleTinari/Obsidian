@@ -1,7 +1,6 @@
 
 cssclasses: background
 creato: 2025 05 10T09:02:25
-aggiornato: 2025 05 10T09:02:27
 
 
 

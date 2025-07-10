@@ -36,9 +36,8 @@ aliases:
   - Clemens PP. XIV
 tags: [Bio, Clemente_XIV, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-creato: 22/05/2025 11:08:23
-aggiornato: 2025-05-22T11:08:23
-modificato: 09/07/2025 00:11:38
+creato: 2025/05/22 11:08:23
+modificato: 2025/07/09 23:33:15
 ---
 
 ***

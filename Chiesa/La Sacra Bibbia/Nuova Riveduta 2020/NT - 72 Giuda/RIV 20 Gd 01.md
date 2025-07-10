@@ -34,8 +34,8 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.laparola.net/testo.php?riferimento=Giuda&versioni[]=Riveduta+2020)"
-creato: 28/06/2025 22:20:26
-modificato: 09/07/2025 00:15:33
+creato: 2025/06/28 22:20:26
+modificato: 2025/07/09 23:32:47
 ---
 
 Versione Nuova Riveduta 2020:

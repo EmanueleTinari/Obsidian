@@ -11,8 +11,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://radiomaria.it/messaggio-della-regina-della-pace-a-ivan-6-luglio-2024/)"
-creato: 02/07/2025 22:25:29
-modificato: 09/07/2025 00:14:24
+creato: 2025/07/02 22:25:29
+modificato: 2025/07/09 23:33:02
 ---
 
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 06 luglio 2024

@@ -14,8 +14,8 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
-creato: 30/05/2025 22:30:16
-modificato: 09/07/2025 00:14:22
+creato: 2025/05/30 22:30:16
+modificato: 2025/07/09 23:33:01
 ---
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso il veggente Jakov<br>il 25 dicembre 2012

@@ -29,8 +29,8 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/nt/Mt/20/)"
-creato: 27/05/2025 21:53:13
-modificato: 09/07/2025 00:15:33
+creato: 2025/05/27 21:53:13
+modificato: 2025/07/09 23:32:47
 ---
 
 Versione C.E.I. 1974:

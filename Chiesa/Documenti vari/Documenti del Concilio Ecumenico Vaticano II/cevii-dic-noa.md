@@ -16,9 +16,8 @@ tags: [Dichiarazione, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Nostra_aetate]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_it.html)"
-creato: 19/06/2025 21:33:43
-aggiornato: 2025-06-19T14:56:10
-modificato: 09/07/2025 00:15:48
+creato: 2025/06/19 21:33:43
+modificato: 2025/07/09 23:32:41
 ---
 
 ***

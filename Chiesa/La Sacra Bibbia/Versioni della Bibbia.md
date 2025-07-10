@@ -1,8 +1,7 @@
 ---
 
-aggiornato: 2025-05-10T21:33:03
-creato: 07/05/2025 22:57:55
-modificato: 09/07/2025 00:15:32
+creato: 2025/05/07 22:57:55
+modificato: 2025/07/09 23:32:47
 ---
 
 Su BibleGateway

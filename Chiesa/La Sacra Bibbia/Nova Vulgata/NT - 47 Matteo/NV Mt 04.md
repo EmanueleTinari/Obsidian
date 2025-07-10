@@ -40,8 +40,8 @@ stato: Mancano ancora i link ai riferimenti.
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-matthaeum_lt.html)"
-creato: 30/05/2025 11:27:56
-modificato: 09/07/2025 00:15:33
+creato: 2025/05/30 11:27:56
+modificato: 2025/07/09 23:32:47
 ---
 
 Versione Nova Vulgata:

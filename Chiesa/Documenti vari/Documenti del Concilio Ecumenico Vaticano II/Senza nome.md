@@ -1,6 +1,6 @@
 ---
-creato: 22/06/2025 23:53:15
-modificato: 09/07/2025 00:15:48
+creato: 2025/06/22 23:53:15
+modificato: 2025/07/09 23:32:41
 ---
 
 # DOCUMENTI DEL CONCILIO VATICANO II
