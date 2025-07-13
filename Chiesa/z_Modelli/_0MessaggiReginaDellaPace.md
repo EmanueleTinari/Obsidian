@@ -821,7 +821,7 @@ else {
 var tmpFileName = dateMess + ' - ' + newFileName + '-' + selectedVeggente;
 newFileName = tmpFileName;
 let nomeFile = await tp.file.title;
-if (nomeFile.startsWith("Untitled")) {
+if (nomeFile.startsWith("Untitled") || nomeFile.startsWith("Senza nome")) {
 	await tp.file.rename(newFileName)
 console.log('File rinominato, contenuto var newFileName : ' + newFileName);
 }

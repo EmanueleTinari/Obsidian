@@ -10,12 +10,16 @@ data-doc: 1741-05-30
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags: [Breve, Benedetto_XIV, Non_ambigimus]
+tags:
+  - Breve
+  - Benedetto_XIV
+  - Non_ambigimus
+  - Documenti_pontifici
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-non-ambigimus--i---30-maggio-1741--il-pontefice-ricorda.html)"
 creato: 2025/05/02 11:07:45
-modificato: 2025/07/09 23:32:33
+modificato: 2025/07/12 22:19:02
 ---
 
 ***

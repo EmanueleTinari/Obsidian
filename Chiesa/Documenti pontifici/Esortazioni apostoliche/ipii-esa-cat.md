@@ -10,12 +10,16 @@ data-doc: 1979-10-16
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: []
-tags: [Esortazione_Apostolica, Giovanni_Paolo_II, Catechesi_Tradendae]
+tags:
+  - Esortazione_Apostolica
+  - Giovanni_Paolo_II
+  - Catechesi_Tradendae
+  - Documenti_pontifici
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/john-paul-ii/it/apost_exhortations/documents/hf_jp-ii_exh_16101979_catechesi-tradendae.html)"
 creato: 2025/06/15 15:11:31
-modificato: 2025/07/09 23:32:33
+modificato: 2025/07/12 22:19:18
 ---
 
 ***

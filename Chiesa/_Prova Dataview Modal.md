@@ -1,3 +1,7 @@
+---
+modificato: 2025/07/11 23:55:27
+creato: 2025/06/06 11:58:11
+---
 
 
 ```dataviewjs
@@ -16,29 +20,36 @@ class openModal extends Modal {
 			text: 'Questa è una riga H1 del Modal'
 		});
 
-		var numElementi = 12;
 		var contatore = 1
-			const containerDiv = document.createElement("div");
-			const containerSpa = document.createElement("span");
-			const containerPar = document.createElement("p");
-			
-			containerDiv.setAttribute("id",   "myDivId"      + contatore);
-			containerDiv.setAttribute("name", "myDivName"    + contatore);
-			containerDiv.setAttribute("class", "myDivClass");
-			
-			containerSpa.setAttribute("id",   "mySpanId"     + contatore);
-			containerSpa.setAttribute("name", "mySpanName"   + contatore);
-			containerSpa.setAttribute("class", "BibleRef");
-			containerSpa.textContent = "Testo dello SPAN";
+		var numElementi = 12;
 
-			containerPar.setAttribute("id",    "myParId"     + contatore);
-			containerPar.setAttribute("name",  "myParName"   + contatore);
-			containerPar.setAttribute("class", "myParClass");
+		while (contatore === numElementi) {
+			const (containerDiv + contatore) = document.createElement("div");
+			const (containerSpa + contatore) = document.createElement("span");
+			const (containerPar + contatore) = document.createElement("p");
+			
+			(containerDiv + contatore).setAttribute("id",   "myDivId"      + contatore);
+			(containerDiv + contatore).setAttribute("name", "myDivName"    + contatore);
+			(containerDiv + contatore).setAttribute("class", "myDivClass");
+			(containerDiv + contatore).style.marginTop = '10px';
+			
+			(containerSpa + contatore).setAttribute("id",		"mySpanId"		+ contatore);
+			(containerSpa + contatore).setAttribute("name",	"mySpanName"	+ contatore);
+			(containerSpa + contatore).setAttribute("class",	"BibleRef");
+			(containerSpa + contatore).textContent = "Testo dello SPAN, id: mySpanId" + contatore + ", name: mySpanName" + contatore + ", class: BibleRef";
 
-			containerSpa.appendChild(containerPar);
-			containerDiv.appendChild(containerSpa);
-			contentEl.appendChild(containerDiv);
-		
+			(containerPar + contatore).setAttribute("id",    "myParId"     + contatore);
+			(containerPar + contatore).setAttribute("name",  "myParName"   + contatore);
+			(containerPar + contatore).setAttribute("class", "myParClass");
+			(containerPar + contatore).textContent = "Testo del PAR, id: myParId" + contatore + ", name: myParName"  + contatore + ", class: myParClass";
+
+			(containerSpa + contatore).appendChild(containerPar + contatore);
+			(containerDiv + contatore).appendChild(containerSpa + contatore);
+			contentEl.appendChild(containerDiv + contatore);
+
+			contatore++;
+		}
+
 		new Setting(contentEl)
 			.addButton((btn) =>
 				btn

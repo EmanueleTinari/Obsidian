@@ -23,3 +23,6 @@ modificato: 2025/07/09 23:33:01
 Ivanka ha avuto l’apparizione nella sua casa.<br>Era presente soltanto la sua famiglia.<br>Dopo di essa la veggente ha detto:<br>La Madonna mi ha parlato del quinto segreto ed alla fine ha detto:<br>Ci ha benedetti con la sua benedizione materna.
 ## Vi do la mia benedizione materna.<br>Pregate per la pace, la pace, la pace.
 
+***
+
+> [!4colonne]- [[Messaggi/2012/2012-06-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 giugno 2012 | [[Messaggi/2012/2012-07-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

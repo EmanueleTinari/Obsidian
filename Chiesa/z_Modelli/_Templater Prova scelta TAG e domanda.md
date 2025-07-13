@@ -1,6 +1,3 @@
----
-creato: 2025-05-05T23:04:45
----
 
 <%*
 var tagSenza = (item => item, Object.keys(app.metadataCache.getTags()).map(x => x.replace("#", "")));

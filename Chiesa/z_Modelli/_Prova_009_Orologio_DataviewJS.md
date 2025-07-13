@@ -1,6 +1,3 @@
----
-creato: 2025-05-02T14:55:59
----
 ```dataviewjs
 let el
 const repeat = setInterval(() => {

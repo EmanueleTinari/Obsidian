@@ -22,3 +22,6 @@ modificato: 2025/07/09 23:33:01
 
 ## Cari figli!<br>Vengo tra di voi perché desidero essere la vostra madre, la vostra interceditrice.<br>Desidero essere il legame tra voi e il Padre celeste, la vostra mediatrice.<br>Desidero prendervi per le mani e camminare con voi nella lotta contro lo spirito impuro.<br>Figli miei consacratevi a me completamente.<br>Io prenderò le vostre vite nelle mie mani materne e vi insegnerò la pace e l’amore affidandole allora a mio Figlio.<br>Vi chiedo di pregare e digiunare perché soltanto così saprete testimoniare il mio Figlio per mezzo del mio cuore materno in modo giusto.<br>Pregate per i vostri pastori perché in mio Figlio possano sempre annunciare gioiosamente la Parola di Dio.<br>Vi ringrazio.
 
+***
+
+> [!4colonne]- [[Messaggi/2012/2012-03-02 - Messaggio al mondo-Mirijana| ← Messaggio precedente]] | 18 marzo 2012 | [[Messaggi/2012/2012-03-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

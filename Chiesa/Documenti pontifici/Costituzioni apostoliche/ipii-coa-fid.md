@@ -10,14 +10,18 @@ data-doc: 1992-10-11
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: false
-tags: [Costituzione_Apostolica, Giovanni_Paolo_II, Fidei_Depositum]
+tags:
+  - Costituzione_Apostolica
+  - Giovanni_Paolo_II
+  - Fidei_Depositum
+  - Documenti_pontifici
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento:
   - "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html)"
   - "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/catechism_it/aposcons_it.htm)"
 creato: 2025/06/17 11:07:49
-modificato: 2025/07/09 23:32:33
+modificato: 2025/07/12 22:19:12
 ---
 
 ***
