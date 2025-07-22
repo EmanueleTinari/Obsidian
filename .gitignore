@@ -25,10 +25,19 @@
 /Chiesa/*.pdf
 /Chiesa/*.epub
 /Chiesa/.trash
+/Chiesa/_00 - OCR
 /Chiesa/_01 - tmpBibleFolderDL
+/Chiesa/_02 - Allegati
 /Chiesa/_03 - PDF/Il Nuovo Testamento Vulgata-Martini-Sales
 /Chiesa/_03 - PDF/Pdf già elaborati
+/Chiesa/_03 - PDF/*.epub
+/Chiesa/_03 - PDF/*.pdf
+/Chiesa/_04 - Web pages
+/Chiesa/_05 - tmpBibbia
+/Chiesa/_06 - Tenda
 /Chiesa/_07 - Errori sito Vaticano
+/Chiesa/_08 - tmpPythonNV
+/Chiesa/_09 - Chat con ChatGPT
 /ChiesaTest
 /habit-tracker-example
 /Ideaverse Lite 1.5
@@ -38,5 +47,3 @@
 /Vault_vuoto1
 /Vault_vuoto2
 /Zettelkasten
-Chiesa/_03 - PDF/*.epub
-Chiesa/_03 - PDF/*.pdf
