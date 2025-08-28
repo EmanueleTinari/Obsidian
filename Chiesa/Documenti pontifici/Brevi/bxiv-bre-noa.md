@@ -15,6 +15,9 @@ tags:
   - Benedetto_XIV
   - Non_ambigimus
   - Documenti_pontifici
+aliases:
+  - Non ambigimus
+  - Breve Non ambigimus
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-non-ambigimus--i---30-maggio-1741--il-pontefice-ricorda.html)"

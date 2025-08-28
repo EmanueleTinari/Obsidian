@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d5a985e28f0a003",
+            "id": "cb6368c078265a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Messaggi/_Elenco messaggi già inseriti.md",
+                "file": "Documenti pontifici/Bolle/_Indice Bolle.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,112 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Elenco messaggi già inseriti"
+              "title": "_Indice Bolle"
             }
           },
           {
-            "id": "0449062ca2a386fc",
+            "id": "5db87846ef3a3f19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Messaggi/2010/2010-03-18 - Messaggio annuale a Mirijana.md",
+                "file": "Documenti pontifici/Brevi/bxiv-bre-isu.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bxiv-bre-isu"
+            }
+          },
+          {
+            "id": "f082d95eef84920d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Brevi/_Indice Brevi.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Brevi"
+            }
+          },
+          {
+            "id": "0e83b5fc30a50a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Brevi Encicliche/_Indice Brevi Encicliche.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Brevi Encicliche"
+            }
+          },
+          {
+            "id": "c88f191faeeff81c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Costituzioni apostoliche/_Indice Costituzioni Apostoliche.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Costituzioni Apostoliche"
+            }
+          },
+          {
+            "id": "3d2098faf939b014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +148,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2010-03-18 - Messaggio annuale a Mirijana"
+              "title": "_Indice Esortazioni apostoliche"
+            }
+          },
+          {
+            "id": "cfbc611a9d6f4b8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere apostoliche/_Indice Lettere apostoliche.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Lettere apostoliche"
+            }
+          },
+          {
+            "id": "9be56bc351ec06d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Encicliche"
+            }
+          },
+          {
+            "id": "646762685f248e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/_Indice Documenti pontifici.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Documenti pontifici"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -88,7 +256,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "format",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +281,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5bc6d9aa97f3564",
@@ -211,8 +380,21 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "9821dedcfe794df5",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -245,34 +427,37 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "0449062ca2a386fc",
+  "active": "646762685f248e1f",
   "lastOpenFiles": [
-    "Messaggi/2010/2010-01-02 - Messaggio al mondo-Mirijana.md",
+    "Documenti pontifici/Brevi/_Indice Brevi.md",
+    "Documenti pontifici/Brevi/bxiv-bre-isu.md",
+    "Documenti pontifici/Template_BREVE vuoto.md",
+    "Documenti pontifici/Bolle/_Indice Bolle.md",
     "Messaggi/_Elenco messaggi già inseriti.md",
-    "Messaggi/2009/2009-12-25 - Messaggio annuale a Jakov.md",
-    "Messaggi/2010/2010-01-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-02-02 - Messaggio al mondo-Mirijana.md",
-    "Messaggi/2010/2010-02-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-03-02 - Messaggio al mondo-Mirijana.md",
-    "Messaggi/2010/2010-03-13 - Messaggio al gruppo di preghiera-Ivan.md",
-    "Messaggi/2010/2010-03-18 - Messaggio annuale a Mirijana.md",
-    "Messaggi/2010/2010-03-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-04-02 - Messaggio al mondo-Mirijana.md",
-    "Messaggi/2010/2010-04-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-05-02 - Messaggio al mondo-Mirijana.md",
-    "Messaggi/2010/2010-05-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-06-02 - Messaggio al mondo-Mirijana.md",
-    "Messaggi/2010/2010-06-18 - Messaggio al gruppo di preghiera-Ivan.md",
-    "Messaggi/2010/2010-06-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-06-25 - Messaggio annuale a Ivanka.md",
-    "Messaggi/2010/2010-07-02 - Messaggio al mondo-Mirijana.md",
-    "Messaggi/2010/2010-07-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-08-02 - Messaggio al mondo-Mirijana.md",
-    "Messaggi/2010/2010-08-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-09-02 - Messaggio al mondo-Mirijana.md",
-    "Messaggi/2010/2010-12-25 - Messaggio annuale a Jakov.md",
-    "Messaggi/2010/2010-09-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/2010/2010-10-02 - Messaggio al mondo-Mirijana.md",
+    "Messaggi/_Template aaaa-03-18 - Messaggio annuale a Mirijana.md",
+    "Documenti pontifici/_Indice Documenti pontifici.md",
+    "_Prove/Senza nome.md",
+    "_Prove/Senza nome 1.md",
+    "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
+    "Documenti pontifici/Lettere apostoliche/_Indice Lettere apostoliche.md",
+    "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
+    "Documenti pontifici/Costituzioni apostoliche/_Indice Costituzioni Apostoliche.md",
+    "Documenti pontifici/Brevi Encicliche/_Indice Brevi Encicliche.md",
+    "Documenti pontifici/Costituzioni apostoliche/ipii-coa-fid.md",
+    "z_Modelli/_1Estrae e crea una tabella coi file e data di modifica DISC.md",
+    "Documenti pontifici/Brevi Encicliche/bxiv-ben-pet.md",
+    "Documenti pontifici/Brevi Encicliche/_modello-ben-.md",
+    "Documenti pontifici/Template_BOLLA vuota.md",
+    "Documenti pontifici/Brevi/bxiv-bre-quc.md",
+    "Documenti pontifici/Brevi/bxiv-bre-quc.jpg",
+    "Documenti pontifici/Bolle/bxiv-bol-prr.md",
+    "Documenti pontifici/Bolle/bxiv-bol-bed.md",
+    "Documenti pontifici/Brevi Encicliche",
+    "Documenti pontifici/Brevi/bxiv-bre-noa.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-ubi.md",
+    "Documenti pontifici/Brevi/bxiv-bre-noa.jpg",
+    "Documenti pontifici/Bolle/bxiv-bol-pad.md",
+    "Documenti pontifici/Bolle/bxiv-bol-ofn.md",
     "Messaggi/1990",
     "Messaggi/1989",
     "Messaggi/1988",
@@ -282,7 +467,6 @@
     "Messaggi/1984",
     "Messaggi/2009",
     "Messaggi/2008",
-    "Messaggi/2007",
     "_02 - Allegati/shopsolar-favicon_32x32.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_003.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_002.png",
@@ -290,8 +474,6 @@
     "_04 - Web pages/2025-07-26 - Capacità galleggiamento bidoni plastica_001.png",
     "_02 - Allegati/07_27_San_Pantaleone_1.jpg",
     "_02 - Allegati/07_27_San_Pantaleone_1_tn.jpg",
-    "_02 - Allegati/Concilio_Ecumenico_Vaticano_II.jpg",
-    "_02 - Allegati/Concilio_Ecumenico_Vaticano_II_tn.jpg",
-    "_02 - Allegati/Concilio_Ecumenico_Vaticano_I.jpg"
+    "_02 - Allegati/Concilio_Ecumenico_Vaticano_II.jpg"
   ]
 }

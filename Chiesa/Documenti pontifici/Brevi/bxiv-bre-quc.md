@@ -10,11 +10,17 @@ data-doc: 1741-06-30
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags: [Breve, Benedetto_XIV, Quanta_cura]
+tags:
+  - Breve
+  - Benedetto_XIV
+  - Quanta_cura
+  - Documenti_pontifici
+aliases:
+  - Quanta cura
+  - Breve Quanta cura
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-url-documento:
-  - "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-quanta-cura--i---30-giugno-1741--sdegnata-condanna-cont.html)"
+url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-quanta-cura--i---30-giugno-1741--sdegnata-condanna-cont.html)"
 creato: 2025/05/06 23:13:55
 modificato: 2025/07/09 23:32:33
 ---

@@ -10,7 +10,14 @@ data-doc: 1749-03-15
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags: [Bolla, Benedetto_XIV, Officii_nostri]
+tags: 
+  - Bolla
+  - Benedetto_XIV
+  - Officii_nostri
+  - Documenti_pontifici
+aliases:
+  - Officii nostri
+  - Bolla Officii nostri
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-officii-nostri--i---15-marzo-1749--poiche-sono-sorti-di.html)"

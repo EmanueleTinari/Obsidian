@@ -10,7 +10,14 @@ data-doc: 1749-05-05
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags: [Bolla, Benedetto_XIV, Peregrinantes_a_Domino]
+tags: 
+  - Bolla
+  - Benedetto_XIV
+  - Peregrinantes_a_Domino
+  - Documenti_pontifici
+aliases:
+  - Peregrinantes a Domino
+  - Bolla Peregrinantes a Domino
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-peregrinantes-a-domino--i---5-maggio-1749-il-pontefice-.html)"

@@ -1,13 +1,28 @@
 ---
 cssclasses: docVat
-autore-doc: "[[XX]]"
+autore-doc: "[[xx]]"
 tipo-doc: "[[Brevi|Breve]]"
-titolo-doc: X
-anno-doc: X
-data-doc: X
-tags: [X]
-creato: 2025/05/02 11:03:58
-modificato: 2025/07/09 23:32:33
+titolo-doc: x
+giorno-doc: xx
+mese-doc: xx
+anno-doc: xxxx
+data-doc: xxxx-xx-xx
+lingua-doc: Italiano
+lingua-orig: Latino
+stato: false
+tags:
+  - Breve
+  - x
+  - x
+  - Documenti_pontifici
+aliases:
+  - x
+  - Breve x
+licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-documento: "[Link al documento sul sito del Vaticano](x)"
+creato: 
+modificato: 
 ---
 
 ***

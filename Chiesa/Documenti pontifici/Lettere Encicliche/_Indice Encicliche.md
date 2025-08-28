@@ -1,18 +1,18 @@
 ---
 creato: 2025/05/03 17:11:52
-modificato: 2025/07/09 23:32:33
+modificato: 2025/08/28 22:30:54
 ---
 
-<!--  (!= this.file.name) esclude questo stesso file dalla lista -->
+
 ```dataview
 TABLE WITHOUT ID
 	autore-doc AS Autore,
-	data-doc AS Data,
+	dateformat(data-doc, "dd MMMM yyyy") AS Data,
 	titolo-doc AS Titolo,
 	link(file.name) AS File
 FROM
 	"Documenti pontifici/Lettere Encicliche"
 WHERE
-	file.name != this.file.name
+	!startswith(file.name, "_")
 SORT data-doc ASC
 ```

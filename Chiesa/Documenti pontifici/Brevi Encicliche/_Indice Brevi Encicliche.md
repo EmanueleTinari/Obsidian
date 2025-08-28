@@ -1,6 +1,6 @@
 ---
-creato: 2025/05/03 16:49:10
-modificato: 2025/08/28 22:26:08
+creato: 2025/08/28 22:14:04
+modificato: 2025/08/28 22:22:25
 ---
 
 
@@ -12,7 +12,7 @@ TABLE WITHOUT ID
 	titolo-doc AS Titolo,
 	link(file.name) AS File
 FROM
-	"Documenti pontifici/Bolle"
+	"Documenti pontifici/Brevi Encicliche"
 WHERE
 	!startswith(file.name, "_")
 SORT data-doc ASC

@@ -4,18 +4,25 @@ autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
 tipo-doc: "[[Bolle|Bolla]]"
 titolo-doc: Providas romanorum
 giorno-doc: 18
-mese-doc: 03
+mese-doc: 3
 anno-doc: 1751
 data-doc: 1751-03-18
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: true
-tags: [Bolla, Benedetto_XIV, Providas_romanorum]
+tags:
+  - Bolla
+  - Benedetto_XIV
+  - Providas_romanorum
+  - Documenti_pontifici
+aliases:
+  - Providas romanorum
+  - Bolla Providas romanorum
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/bolla--i-providas-romanorum--i---18-marzo-1751--il-pontefice-con.html)"
 creato: 2025/05/01 23:21:10
-modificato: 2025/07/09 23:32:33
+modificato: 2025/08/28 16:40:29
 ---
 
 ***
