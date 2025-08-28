@@ -18,6 +18,14 @@ creato: 2025/05/31 00:59:45
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2022/2022-06-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 giugno 2022 | [[Messaggi/2022/2022-07-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Ivanka<br>il 25 giugno 2022
 
 Ivanka ha avuto l’apparizione nella sua casa.<br>Era presente soltanto la sua famiglia.<br>Dopo di essa la veggente ha detto:<br>La Madonna ha detto:

@@ -26,7 +26,7 @@ if (recentFiles.length === 0) {
 }
 else {
     let table = `| File Name | Last Modified |\n`;
-    table += `|-----------|----------------|\n`;
+    table += `| --- | --- |\n`;
 
     for (const file of recentFiles) {
         const fileName = file.basename;

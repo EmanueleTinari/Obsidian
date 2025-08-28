@@ -15,6 +15,14 @@ creato: 2025/06/04 15:44:15
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2024/2024-11-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 dicembre 2024 | [[Messaggi/2024/2024-12-25 - Messaggio annuale a Jakov| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 dicembre 2024
 
 ## Cari figli!<br>Pregate, pregate, pregate affinché la pace regni in ogni cuore e prevalga su ogni male ed inquietudine.<br>Grazie per aver risposto alla mia chiamata.

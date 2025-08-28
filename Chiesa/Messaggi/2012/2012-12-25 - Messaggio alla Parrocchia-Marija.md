@@ -12,7 +12,7 @@ approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2012-12-25)"
 creato: 2025/07/11 20:53:25
-modificato: 2025/07/11 21:20:58
+modificato: 2025/08/27 14:58:38
 ---
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 dicembre 2012

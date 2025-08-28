@@ -15,6 +15,14 @@ creato: 2025/06/10 23:45:55
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2021/2021-12-25 - Messaggio annuale a Jakov| ← Messaggio precedente]] | 25 gennaio 2022 | [[Messaggi/2022/2022-02-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 gennaio 2022
 
 ## Cari figli!<br>Oggi vi invito a ritornare alla preghiera personale.<br>Figlioli, non dimenticate che satana è forte e vuole attirare a sé quante più anime possibili.<br>Perciò voi vegliate nella preghiera e siate decisi nel bene.<br>Io sono con voi e vi benedico tutti con la mia benedizione materna.<br>Grazie per aver risposto alla mia chiamata.

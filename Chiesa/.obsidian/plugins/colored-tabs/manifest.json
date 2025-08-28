@@ -1,0 +1,15 @@
+{
+    "id": "colored-tabs",
+    "name": "Colored Tabs",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Colors the tabs of notes from a specific folder (excluding those starting with '_').",
+    "author": "Emanuele Tinari et Magisterium AI",
+    "authorUrl": "https://github.com/EmanueleTinari",
+    "fundingUrl": "https://example.com/donate",
+    "main": "main.js",
+    "dependencies": [],
+    "devDependencies": [],
+    "isDesktopOnly": false,
+    "type": "module"
+}

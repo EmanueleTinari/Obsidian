@@ -1,0 +1,150 @@
+/**********************************************/
+/** SOLO nei file MD con cssclasses: - santi **/
+/**********************************************/
+
+/* adjust properties label width - default is 9em */
+.santi body {
+	--metadata-label-width: 20em;
+}
+
+/** Titolo **/
+.santi h1,
+.santi .HyperMD-header-1,
+.santi .markdown-rendered h1,
+.santi .markdown-preview-view h1 {
+	color: rgb(202, 54, 225);
+	/**Poi bianco**/
+	letter-spacing: 0.2rem;
+	padding-bottom: 7rem !important;
+	padding-top: 7rem !important;
+	text-align: center;
+}
+
+/** Nome(i) Santo(i) **/
+.santi h2,
+.santi .HyperMD-header-2,
+.santi .markdown-rendered h2,
+.santi .markdown-preview-view h2 {
+	color: rgb(65, 239, 112);
+	/**Poi bianco**/
+	font-weight: bold !important;
+	letter-spacing: 0.1rem;
+	padding-bottom: 1.4rem !important;
+	padding-top: 1.4rem !important;
+	padding-left: 4rem !important;
+	text-align: center;
+}
+
+/** Tipo di ricorrenza **/
+.santi h3,
+.santi .HyperMD-header-3,
+.santi .markdown-rendered h3,
+.santi .markdown-preview-view h3 {
+	color: red;
+	/**Poi bianco**/
+	font-weight: bold !important;
+	letter-spacing: 0.1rem;
+	padding-bottom: 1.4rem !important;
+	padding-top: 1.4rem !important;
+	text-align: center;
+}
+
+/** Martirologio **/
+.santi h4,
+.santi .HyperMD-header-4,
+.santi .markdown-rendered h4,
+.santi .markdown-preview-view h4 {
+	color: #881329;
+	/**Poi bianco**/
+	font-weight: bold !important;
+	letter-spacing: 0.1rem;
+	padding-bottom: 1.4rem !important;
+	padding-top: 1.4rem !important;
+}
+
+.santi h4+div.cm-line,
+.santi .el-h4~div.el-p>p,
+.santi .HyperMD-header-4+div.cm-line,
+.santi .markdown-rendered h4+div.cm-line,
+.santi .markdown-preview-view h4+div.cm-line {
+	color: #70a3fa;
+	/**Poi bianco**/
+	font-weight: bold !important;
+	letter-spacing: 0.1rem;
+	padding-bottom: 1.4rem !important;
+	padding-top: 1.4rem !important;
+}
+
+/** Intestazione 5 per l'eventuale biografia integrativa **/
+.santi h5,
+.santi .HyperMD-header-5,
+.santi .markdown-rendered h5,
+.santi .markdown-preview-view h5 {
+	color: white;
+	/**Poi bianco**/
+	font-weight: bold !important;
+	letter-spacing: 0.1rem;
+	padding-bottom: 1.4rem !important;
+	padding-top: 1.4rem !important;
+}
+
+/** Link fonte **/
+.santi .external-link {
+	display: block;
+	text-align: right !important;
+}
+
+/** ------------- **/
+/** CALLOUTS foto **/
+/** ------------- **/
+
+.santi .callout[data-callout="foto"] {
+	color: #dadada;
+	--callout-color: transparent !important;
+	--callout-icon: none !important;
+	letter-spacing: 0.1rem;
+	padding-bottom: 1.4rem !important;
+	padding-top: 1.4rem !important;
+	text-align: center !important;
+}
+
+.santi .callout[data-callout="foto"] .callout-title {
+	font-size: 1.7rem;
+	font-weight: bold;
+	justify-content: center !important;
+	letter-spacing: 0.1rem;
+	padding-top: 0;
+}
+
+.santi .callout[data-callout="foto"] .callout-fold {
+	display: flex !important;
+	margin-top: 0.25rem;
+}
+
+
+/** -------- **/
+/** Immagini **/
+/** -------- **/
+
+.santi img[alt*="center"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.santi img[alt*="right"] {
+	float: right;
+	clear: right;
+	margin-left: 1rem;
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+
+.santi .image-embed[alt]:after {
+	content: attr(alt);
+	display: block;
+	margin: 0.2rem 1rem 1rem 1rem;
+	font-size: 95%;
+	line-height: 1.4;
+	color: cyan;
+}

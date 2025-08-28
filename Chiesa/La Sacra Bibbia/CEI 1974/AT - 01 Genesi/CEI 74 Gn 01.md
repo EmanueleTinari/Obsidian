@@ -23,12 +23,21 @@ aliases:
   - Liber Genesis 1
   - Gen 01
   - Gen 1
-tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_1, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_1]
+tags:
+  - Antico_Testamento/Pentateuco/Genesi/Capitolo_1
+  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1
+  - Antico_Testamento
+  - Vecchio_Testamento
+  - Il_Pentateuco
+  - Pentateuco
+  - Libro_della_Genesi
+  - Genesi
+  - Capitolo_1
 completato: true
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://www.bibbiaedu.it/CEI1974/at/Gn/1/)"
 creato: 2025/06/30 07:26:19
-modificato: 2025/07/09 23:32:47
+modificato: 2025/08/14 14:18:10
 ---
 
 Versione C.E.I. 1974:
@@ -120,13 +129,13 @@ Versione C.E.I. 1974:
 
 ***
 
-[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Genesi|Genesi]] | Genesi 1 | [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 02|Genesi 2 →]]
+[[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Genesi|Genesi]] <span class="bianco">| Genesi 1 |</span> [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 02|Genesi 2 →]]
 
 ***
 
 NOTE:
 
-[^ftn_cei74_gn1,1]: Poiché la **Sacra** Scrittura non ha lo scopo di dare informazioni scientifiche sulle origini dell’universo e dell’uomo, prima in *<span class="BibleRef">[[Gn 1,1|1,1]]</span>* e *<span class="BibleRef">[[Gn 2,4a|2,4a]]</span>* in maniera schematica, poi in *<span class="BibleRef">[[Gn 2,4b-25|2,4b-25]]</span>* con un racconto più arcaico e vivace, sono inculcate alcune verità fondamentali: unicità di Dio che crea tutto ed è distinto dal mondo, bontà di tutte le cose create, particolare dignità della creatura umana.
+[^ftn_cei74_gn1,1]: Poiché la **Sacra** Scrittura non ha lo scopo di dare informazioni scientifiche sulle origini dell’universo e dell’uomo, prima in *<span class="BibleRef">[[Gn 1,1|Gn 1, 1]]</span>* e *<span class="BibleRef">[[Gn 2,4a|Gn 2, 4a]]</span>* in maniera schematica, poi in *<span class="BibleRef">[[Gn 2,4a-25|Gn 2, 4b-25]]</span>* con un racconto più arcaico e vivace, sono inculcate alcune verità fondamentali: unicità di Dio che crea tutto ed è distinto dal mondo, bontà di tutte le cose create, particolare dignità della creatura umana.
 [^ftn_cei74_gn1,26]: Dio si consiglia con se stesso o con la core celeste, per creare un essere che gli somigli per le sue doti spirituali e lo rappresenti come dominatore delle creature inferiori.
 	Cfr. *<span class="BibleRef">[[Sal 8,6-7|Sal 8, 6-7]]</span>*.
 [^ftn_cei74_gn1,27]: Cfr. *<span class="BibleRef">[[Mt 19,4|Mt 19, 4]]</span>*.

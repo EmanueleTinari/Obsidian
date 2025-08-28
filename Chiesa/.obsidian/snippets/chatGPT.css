@@ -1,0 +1,408 @@
+/************************************************/
+/** SOLO nei file MD con cssclasses: - chatGPT **/
+/************************************************/
+.chatGPT {
+    --table-border-width: 0px;
+    --table-white-space: normal;
+    --table-header-border-width: var(--table-border-width);
+    --table-column-first-border-width: var(--table-border-width);
+    --table-column-last-border-width: var(--table-border-width);
+    --table-row-last-border-width: var(--table-border-width);
+}
+
+/** IL DIV H1: TITOLO CHAT CENTRATO **/
+
+.markdown-preview-view.markdown-rendered.chatGPT h1,
+.markdown-preview-view.markdown-rendered.chatGPT span.cm-header.cm-header-1,
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-rendered h1,
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-preview-view h1 {
+    color: #dadada;
+    font-weight: bold !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+    padding: 0.4em 0.75em !important;
+    text-align: center !important;
+}
+
+/** IL DIV H2 **/
+
+.markdown-preview-view.markdown-rendered.chatGPT h2,
+.markdown-preview-view.markdown-rendered.chatGPT span.cm-header.cm-header-2,
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-rendered h2,
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-preview-view h2 {
+    color: #dadada;
+    font-size: 2rem;
+    font-weight: bold !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+    padding: 0.4em 0.75em !important;
+    text-align: left !important;
+}
+
+/** IL DIV H3 **/
+
+.markdown-preview-view.markdown-rendered.chatGPT h3,
+.markdown-preview-view.markdown-rendered.chatGPT span.cm-header.cm-header-3,
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-rendered h3,
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-preview-view h3 {
+    color: #dadada;
+    font-size: 1.75rem;
+    font-weight: bold !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+    padding: 0.4em 0.75em !important;
+    text-align: left !important;
+}
+
+/** IL DIV H4 **/
+
+.markdown-preview-view.markdown-rendered.chatGPT h4,
+.markdown-preview-view.markdown-rendered.chatGPT span.cm-header.cm-header-4,
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-rendered h4,
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-preview-view h4 {
+    color: #dadada;
+    font-size: 1.5rem;
+    font-weight: bold !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+    padding: 0.4em 0.75em !important;
+    text-align: left !important;
+}
+
+/** FORMULE MATEMATICHE **/
+
+.chatGPT mjx-container[class="MathJax"][jax="CHTML"][display="true"] {
+    background-color: #d9e4f5;
+    background-image: linear-gradient(315deg, #d0f0c0 0%, #e2f6d9 74%);
+    border: 0.1em solid #01ff01;
+    border-radius: 1em;
+    display: block;
+    height: 150%;
+    margin-bottom: 1rem !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem !important;
+    max-width: 100%;
+    overflow-x: auto;
+    text-align: center;
+    width: 90%;
+}
+
+.chatGPT .MJX-TEX {
+    color: red;
+    font-size: 2rem;
+    margin-bottom: 2rem !important;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+    margin-top: 2rem !important;
+}
+
+/* Set color of bold text */
+.markdown-preview-view.markdown-rendered.chatGPT .cm-s-obsidian .cm-strong,
+.markdown-preview-view.markdown-rendered.chatGPT span.cm-header.cm-strong,
+strong {
+    color: rgb(6, 250, 189);
+    font-weight: 600 !important;
+}
+
+.chatGPT table {
+    border: none !important;
+    margin-bottom: 1.7rem !important;
+    min-width: 100%;
+}
+
+.chatGPT table thead th tr td {
+    padding: 15px 20px !important;
+    text-align: left !important;
+}
+
+.chatGPT table th {
+    color: #dadada;
+    font-size: 1.5rem;
+    font-weight: 100%;
+    letter-spacing: 0.1rem;
+    line-height: 0.9em;
+    border-bottom: 0.15em solid #363636 !important;
+    padding: 15px 20px !important;
+}
+
+.chatGPT table tr {
+    border-bottom: 0.05em solid #363636 !important;
+}
+
+.chatGPT table td {
+    color: #dadada;
+    font-size: 1.5rem;
+    font-weight: 100%;
+    letter-spacing: 0.1rem;
+    line-height: 0.9em;
+    padding: 15px 20px !important;
+    word-wrap: break-word;
+}
+
+.chatGPT table tr:last-of-type {
+    border-bottom: 0 !important;
+    padding: 15px 20px !important;
+    word-wrap: break-word;
+}
+
+.chatGPT .markdown-source-view.mod-cm6 .cm-content,
+.chatGPT .mod-cm6 .cm-line {
+    caret-color: black;
+}
+
+/** IL DIV DELL'H2 CONTENENTE LA DOMANDA **/
+
+.markdown-preview-view.markdown-rendered.chatGPT div:has(> h2[data-heading^="❓Domanda"]) {
+    background-color: #303030;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    display: block;
+    margin-left: auto;
+    margin-top: 7rem !important;
+    width: 80%;
+}
+
+/** La parola 'DOMANDA' **/
+
+.markdown-preview-view.markdown-rendered.chatGPT h2[data-heading^="❓Domanda"],
+.markdown-preview-view.markdown-rendered.chatGPT span.cm-header.cm-header-2[data-heading^="❓Domanda"],
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-rendered h2[data-heading^="❓Domanda"],
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-preview-view h2[data-heading^="❓Domanda"],
+.markdown-preview-view.markdown-rendered.chatGPT .cm-line:has(.cm-header.cm-header-2[text^="❓Domanda"]) {
+    color: #dadada;
+    font-weight: bold !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+    padding: 0.4em 0.75em !important;
+    text-align: center !important;
+}
+
+/** IL DIV DELLA DOMANDA **/
+
+.markdown-preview-view.markdown-rendered.chatGPT div:has(> h2[data-heading^="❓Domanda"])+div+div {
+    background-color: #303030;
+    border-bottom-right-radius: 1em;
+    border-bottom-left-radius: 1em;
+    display: block;
+    margin-left: auto;
+    width: 80%;
+}
+
+/** IL TIMESTAMP **/
+
+.markdown-preview-view.markdown-rendered.chatGPT div:has(> h2[data-heading^="❓Domanda"])+div:has(p)> :is(p) {
+    background-color: #303030;
+    border-radius: 18px;
+    color: #dadada;
+    display: block;
+    font-size: 1rem;
+    font-weight: 100% !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+    margin-left: auto;
+    margin-top: -7em;
+    padding: 1em 1.5em !important;
+    text-align: center !important;
+    width: 80%;
+}
+
+/** IL P CONTENENTE LA DOMANDA **/
+
+.markdown-preview-view.markdown-rendered.chatGPT div:has(> h2[data-heading^="❓Domanda"])+div+div:has(p)> :is(p) {
+    background-color: #303030;
+    border-radius: 18px;
+    color: #dadada;
+    font-size: 1.5rem;
+    font-weight: 100% !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+    padding: 1em 1em !important;
+    text-align: left !important;
+}
+
+/* ✅ Tutti i blocchi dopo il titolo DOMANDA: ma prima della RISPOSTA: */
+.markdown-preview-view.markdown-rendered.chatGPT div:has(+ .el-h2 > h2[data-heading^="Risposta"]) {
+    background-color: #303030;
+    border-radius: 18px;
+    color: #dadada;
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 100% !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+    margin-left: auto;
+    margin-top: -2em !important;
+    padding: 1em 0.5em !important;
+    text-align: left !important;
+    width: 80%;
+}
+
+/** La riga con "Risposta CHATGPT" **/
+
+.markdown-preview-view.markdown-rendered.chatGPT h2[data-heading^="Risposta"],
+.markdown-preview-view.markdown-rendered.chatGPT span.cm-header.cm-header-2[data-heading^="Risposta"],
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-rendered h2[data-heading^="Risposta"],
+.markdown-preview-view.markdown-rendered.chatGPT .markdown-preview-view h2[data-heading^="Risposta"],
+.markdown-preview-view.markdown-rendered.chatGPT .cm-line:has(.cm-header.cm-header-2[text^="Risposta"]) {
+    color: #dadada;
+    font-weight: 100% !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+    margin-top: 7rem !important;
+    padding: 0em 0em !important;
+    text-align: left !important;
+}
+
+
+/** IL TIMESTAMP **/
+
+.markdown-preview-view.markdown-rendered.chatGPT div:has(> h2[data-heading^="Risposta"])+div:has(p)> :is(p) {
+    border-radius: 18px;
+    color: #dadada;
+    display: block;
+    font-size: 1rem;
+    font-weight: 100% !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+    margin-left: auto;
+    margin-top: -5.5em;
+    padding: 0em 0em !important;
+    text-align: left !important;
+    width: 100%;
+}
+
+/** LA RISPOSTA **/
+
+.markdown-preview-view.markdown-rendered.chatGPT div:has(> h2[data-heading^="Risposta"])+div+div:has(p)> :is(p) {
+    color: #dadada;
+    font-size: 1.5rem;
+    font-weight: 100% !important;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+    margin-top: 2.5em;
+    padding: 0em 0em !important;
+    text-align: left !important;
+    width: 80%;
+}
+
+/** TUTTO IL CODICE (Inizia e termina con ```) **/
+
+.chatGPT code,
+.chatGPT span.cm-inline-code {
+    color: #ffffff;
+    background-color: #424242;
+}
+
+/** TUTTI I P **/
+
+.chatGPT p,
+.chatGPT .cm-line {
+    color: #dadada;
+    font-size: 1.5rem;
+    font-weight: 100%;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+}
+
+/** LISTE NON ORDINATE **/
+.chatGPT .el-ul .has-list-bullet li {
+    font-size: 1.5rem;
+    font-weight: 100%;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+}
+
+/** LISTE ORDINATE **/
+.chatGPT .el-ol {
+    font-size: 1.5rem;
+    font-weight: 100%;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+}
+
+.chatGPT .el-ol .has-list-bullet li {
+    font-size: 1.5rem;
+    font-weight: 100%;
+    letter-spacing: 0.1rem;
+    line-height: 1.75;
+}
+
+/* ✅ Emoji numeriche 1–10 */
+.chatGPT li span.em1::before {
+    content: "1️⃣ ";
+}
+
+.chatGPT li span.em2::before {
+    content: "2️⃣ ";
+}
+
+.chatGPT li span.em3::before {
+    content: "3️⃣ ";
+}
+
+.chatGPT li span.em4::before {
+    content: "4️⃣ ";
+}
+
+.chatGPT li span.em5::before {
+    content: "5️⃣ ";
+}
+
+.chatGPT li span.em6::before {
+    content: "6️⃣ ";
+}
+
+.chatGPT li span.em7::before {
+    content: "7️⃣ ";
+}
+
+.chatGPT li span.em8::before {
+    content: "8️⃣ ";
+}
+
+.chatGPT li span.em9::before {
+    content: "9️⃣ ";
+}
+
+.chatGPT li span.em10::before {
+    content: "🔟 ";
+}
+
+/* ✅ Aspetto visivo coerente */
+.chatGPT li span[class^="em"] {
+    display: inline-block;
+    font-weight: bold;
+    margin-left: -2em;
+    /* ⬅️ Sposta a sinistra */
+    margin-right: 0.5em;
+    /* ➡️ Distanza dal testo */
+    min-width: 1.5em;
+    /* Per allineamento verticale uniforme */
+    vertical-align: top;
+    /* forza allineamento verticale coerente */
+}
+
+/* ✅ Nasconde bullet e numeri solo nei <li> di primo livello con emoji */
+.chatGPT li:has(> p > span[class^="em"]),
+.chatGPT li:has(> span[class^="em"]) {
+
+    >.list-bullet,
+    >.list-number {
+        display: none !important;
+    }
+}
+
+/* ✅ NASCONDI bullet nei <li> che contengono un <p> con 🔹 all'inizio */
+.chatGPT li:has(> p:first-of-type:has-text("🔹")) {
+
+    >.list-bullet,
+    >.list-number {
+        display: none !important;
+    }
+}
+
+/* ✅ NASCONDI bullet nei <li> che contengono un <p> con 🔹 all'inizio */
+.chatGPT li:has(> p:first-of-type:has-text("🔹"))>.list-bullet {
+    display: none !important;
+}

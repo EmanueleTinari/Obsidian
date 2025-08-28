@@ -1,0 +1,10 @@
+{
+  "id": "vocabolario-indexer",
+  "name": "Vocabolario Indexer",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Indicizza tutte le parole nei file .md del vault e le salva in file per lettera.",
+  "author": "Emanuele Tinari + ChatGPT",
+  "authorUrl": "https://github.com/EmanueleTinari",
+  "main": "main.js"
+}

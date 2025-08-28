@@ -18,6 +18,14 @@ creato: 2025/05/30 22:30:23
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2022/2022-12-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 dicembre 2022 | [[Messaggi/2023/2023-01-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso il veggente Jakov<br>il 25 dicembre 2022
 
 La Madonna e venuta con il Bambino Gesù tra le braccia.

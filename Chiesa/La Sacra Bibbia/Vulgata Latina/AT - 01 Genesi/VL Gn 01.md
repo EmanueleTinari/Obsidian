@@ -3,9 +3,9 @@ cssclasses: bibbia
 versione: Vulgata Latina
 testamento: Antico
 gruppo: Pentateuco
-num-libro: 01
+num-libro: 1
 tit-libro: Liber Genesis
-capitolo: 01
+capitolo: 1
 aliases:
   - Gn-01
   - Gn-1
@@ -23,12 +23,20 @@ aliases:
   - Genesis 1
   - Liber Genesis 01
   - Liber Genesis 1
-tags: [Antico_Testamento/Pentateuco/Genesi/Capitolo_1, Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1, Antico_Testamento, Vecchio_Testamento, Il_Pentateuco, Pentateuco, Libro_della_Genesi, Genesi, Capitolo_1]
+tags:
+  - Antico_Testamento/Pentateuco/Genesi/Capitolo_1
+  - Vecchio_Testamento/Pentateuco/Genesi/Capitolo_1
+  - Antico_Testamento
+  - Vecchio_Testamento
+  - Il_Pentateuco
+  - Pentateuco
+  - Genesi
+  - Genesi_Capitolo_1
 completato: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-testo: "[Link al testo](https://sacrabibbia.altervista.org/index.php/bibbia/lettura//r/la/vulgata/genesis/1/1)"
 creato: 2025/07/01 16:41:24
-modificato: 2025/07/09 23:32:47
+modificato: 2025/07/17 21:24:02
 ---
 
 Versione Vulgata Latina:

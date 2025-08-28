@@ -2,8 +2,8 @@
 cssclasses: messaggio
 destinatario: Mondo
 veggente: "[[1 1 info Mirijana|Mirijana]]"
-giorno-mess: 2
-mese-mess: 1
+giorno-mess: 02
+mese-mess: 01
 anno-mess: 2012
 data-mess: 2012-01-02
 lingua-mess: Italiano
@@ -20,5 +20,4 @@ modificato: 2025/07/11 19:00:19
 ## Cari figli, mentre con materna preoccupazione guardo nei vostri cuori, vedo in essi dolore e sofferenza; vedo un passato ferito e una ricerca continua; vedo i miei figli che desiderano essere felici, ma non sanno come.<br>Apritevi al Padre.<br>Questa è la via alla felicità, la via per la quale io desidero guidarvi.<br>Dio Padre non lascia mai soli i suoi figli e soprattutto non nel dolore e nella disperazione.<br>Quando lo comprenderete ed accetterete sarete felici.<br>La vostra ricerca si concluderà.<br>Amerete e non avrete timore.<br>La vostra vita sarà la speranza e la verità che è mio Figlio.<br>Vi ringrazio.<br>Vi prego: pregate per coloro che mio Figlio ha scelto.<br>Non dovete giudicare, perché tutti saranno giudicati.
 
 ***
-
-> [!4colonne]- [[Messaggi/2011/2011-12-25 - Messaggio annuale a Jakov| ← Messaggio precedente]] | 02 gennaio 2012 | [[Messaggi/2012/2012-01-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+> [!4colonne]- [[Messaggi/2011/2011-12-30 - Messaggio al gruppo di preghiera-Ivan| ← Messaggio precedente]] | 02 gennaio 2012 | [[Messaggi/2012/2012-01-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]

@@ -1,0 +1,36 @@
+/****************************************************/
+/** SOLO nei file MD con cssclasses: - vocabolario **/
+/****************************************************/
+
+.vocabolario .callout[data-callout="indice-vocabolario"] {
+	background-color: rgb(24, 48, 13);
+	--callout-icon: none!important;
+}
+.vocabolario .callout[data-callout="indice-vocabolario"] .callout-title {
+	/* mostra o nasconde l'icona, il titolo, e la freccina */
+	display: always!important;
+	text-align: center!important;
+	justify-content: center;
+	color: hsl(233.09deg 96.49% 66.47%)!important;
+}
+.vocabolario .callout[data-callout="indice-vocabolario"] .callout-icon {
+	/* mostra o nasconde l'icona (mettere always) */
+	display: none!important;
+}
+/* display or don't display (if = none) title for indice-vocabolario callouts */
+.vocabolario .callout[data-callout="indice-vocabolario"] .callout-title-inner {
+	/* mostrare o no il titolo (mettere none) */
+	display: always!important;
+	font-size: 300%;
+	font-weight: bold;
+}
+.vocabolario .callout[data-callout="indice-vocabolario"] .callout-fold {
+	display: flex!important;
+	margin-top: 1.5em;
+}
+.vocabolario .callout[data-callout="indice-vocabolario"] .callout-fold .svg-icon {
+	color: #8A9DFF!important;
+	height: 300%;
+	width: 300%;
+	stroke-width: "black";
+}

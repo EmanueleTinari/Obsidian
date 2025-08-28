@@ -3,7 +3,7 @@ cssclasses: messaggio
 destinatario: Parrocchia
 veggente: "[[1 6 info Marija|Marija]]"
 giorno-mess: 25
-mese-mess: 05
+mese-mess: 5
 anno-mess: 2025
 data-mess: 2025-05-25
 lingua-mess: Italiano
@@ -12,16 +12,15 @@ approvazione: true
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/messaggi-della-madonna/?datum=2025-5-25)"
 creato: 2025/05/30 15:53:53
-modificato: 2025/07/09 23:33:02
+modificato: 2025/08/27 19:16:08
 ---
 
 > [!4colonne]- [[Messaggi/2025/2025-04-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 maggio 2025 | [[Messaggi/2025/2025-06-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
->> <span class="verde">Vai all'anno:</span>
->>
->> -
->> -
->> -
->> -
+>> <span class="verde">Vai all'anno: OK fino a tutto il 2012 compreso, alla fine cancellare! </span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
 >> - [[Messaggi/2025/2025-01-25 - Messaggio alla Parrocchia-Marija|2025]]
 >> - [[Messaggi/2024/2024-01-01 - Messaggio alla Parrocchia-Marija|2024]]
 >> - [[Messaggi/2023/2023-01-25 - Messaggio alla Parrocchia-Marija|2023]]
@@ -34,8 +33,8 @@ modificato: 2025/07/09 23:33:02
 >> - [[Messaggi/2016/2016-01-02 - Messaggio al mondo-Mirijana|2016]]
 >> - [[Messaggi/2015/2015-01-02 - Messaggio al mondo-Mirijana|2015]]
 >> - [[Messaggi/2014/2014-01-02 - Messaggio al mondo-Mirijana|2014]]
->> - OK fino a qui compreso, andando in giù, cancellare! [[Messaggi/2013/2013-01-02 - Messaggio al mondo-Mirijana|2013]]
->> - [[Messaggi/2012/2012-01-25 - Messaggio alla Parrocchia-Marija|2012]]
+>> - [[Messaggi/2013/2013-01-02 - Messaggio al mondo-Mirijana|2013]]
+>> - [[Messaggi/2012/2012-01-02 - Messaggio al mondo-Mirijana|2012]]
 >> - [[Messaggi/2011/2011-01-25 - Messaggio alla Parrocchia-Marija|2011]]
 >> - [[Messaggi/2010/2010-01-25 - Messaggio alla Parrocchia-Marija|2010]]
 >> - [[Messaggi/2009/2009-01-25 - Messaggio alla Parrocchia-Marija|2009]]
@@ -64,6 +63,7 @@ modificato: 2025/07/09 23:33:02
 >> - [[Messaggi/1986/1986-01-25 - Messaggio alla Parrocchia-Marija|1986]]
 >> - [[Messaggi/1985/1985-01-25 - Messaggio alla Parrocchia-Marija|1985]]
 >> - [[Messaggi/1984/1984-01-25 - Messaggio alla Parrocchia-Marija|1984]]
+>
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 maggio 2025
 

@@ -15,6 +15,14 @@ creato: 2025/06/05 21:48:12
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2022/2022-12-25 - Messaggio annuale a Jakov| ← Messaggio precedente]] | 25 gennaio 2023 | [[Messaggi/2023/2023-02-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 gennaio 2023
 
 ## Cari figli!<br>Pregate con me per la pace perché satana vuole la guerra e l’odio nei cuori e nelle nazioni.<br>Perciò pregate e, nelle vostre giornate, fate sacrifici con il digiuno e la penitenza perché Dio vi doni la pace.<br>Il futuro è al bivio perché l’uomo moderno non vuole Dio.<br>Perciò l’umanità va verso la perdizione.<br>Voi, figlioli, siete la mia speranza.<br>Pregate con me affinché si realizzi ciò che ho iniziato a Fatima e qui.<br>Pregate e testimoniate la pace intorno a voi e siate uomini di pace.<br>Grazie per aver risposto alla mia chiamata.

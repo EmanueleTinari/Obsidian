@@ -706,7 +706,8 @@ const sceltaInserimentoUrlMessaggio = await tp.system.suggester(['Si', 'No', 'Es
 								// CHIUDE IL FRONTMATTER
 								//
 
-const txt_RigaChiusura			= '---';
+const txt_RigaChiusura			= 'creato\:\nmodificato\:\n---';
+const txt_RigaMenu			= '\>\> \<span class\=\"verde\"\>Vai all\'anno\:\<\/span\>\n\>\> \- 2029\n\>\> \- 2028\n\>\> \- 2027\n\>\> \- 2026\n\>';
 
 								//
 								// TITOLO DEL MESSAGGIO
@@ -725,7 +726,7 @@ async function replaceText(str_1) {
 	str_1 = '';
  	// Testa se ci siano punti di domanda, punti esclamativi o punti di interruzione nel testo
 	// https://stackoverflow.com/a/23380842/4805093
-	if( str_2.indexOf('?') != -1 || str_2.indexOf('!') != -1  || str_2.indexOf('.') != -1 ) {
+	if( str_2.indexOf('?') != -1 || str_2.indexOf('!') != -1 || str_2.indexOf('.') != -1 ) {
 		// se nel messaggio ci sono punti di domanda, punti esclamativi, punti di interruzione, li sostituisce aggiungendo un <br>
 		str_1 = str_2.replaceAll('?', '?<br>').replaceAll('!', '!<br>').replaceAll('.', '.<br>');
 		// clear str_2 var
@@ -854,6 +855,8 @@ data-mess: <% dateMess %>
 <% licenzaNota %>
 <% urlMessaggio %>
 <% txt_RigaChiusura %>
+
+<% txt_RigaMenu %>
 
 # <% titoloMess %>
 

@@ -15,8 +15,16 @@ approvazione: true
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
 creato: 2025/05/31 15:31:34
-modificato: 2025/07/09 23:33:02
+modificato: 2025/08/27 19:16:08
 ---
+
+> [!4colonne]- [[Messaggi/2025/2025-02-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 18 marzo 2025 | [[Messaggi/2025/2025-03-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
 
 # Messaggio trasmesso dalla Regina della Pace<br>al Mondo<br>attraverso la veggente Mirijana<br>il 18 marzo 2025
 

@@ -15,6 +15,14 @@ creato: 2025/07/02 22:25:29
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2024/2024-06-25 - Messaggio annuale a Ivanka| ← Messaggio precedente]] | 06 luglio 2024 | [[Messaggi/2024/2024-07-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio della Regina della Pace<br>al gruppo di preghiera<br>tramite il veggente Ivan<br>del 06 luglio 2024
 
 ## Cari figli<br>oggi voglio invitarvi in modo speciale a pregare per i miei amati figli: per i sacerdoti; perché possano annunciare in modo semplice la parola viva del Vangelo.<br>Perché il loro cammino sia il cammino della santità, perché in questo tempo diano testimonianza come mai prima; affinché possano essere portatori dei miei messaggi come mai prima d’ora, senza paura, senza paura.<br>Grazie, cari figli, per aver risposto anche oggi alla mia chiamata.

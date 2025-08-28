@@ -1,0 +1,20 @@
+{
+  "global-search-and-replace:search-and-replace": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "marker-api:marker-convert-to-md": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}

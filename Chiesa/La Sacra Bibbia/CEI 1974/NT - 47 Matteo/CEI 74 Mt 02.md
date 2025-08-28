@@ -45,7 +45,7 @@ modificato: 2025/07/09 23:32:47
 ---
 
 Versione C.E.I. 1974:
-> [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01| ← Matteo 1]] | Matteo 2 | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 03|Matteo 3 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
+> [!indice-libro-biblico]- [[La Sacra Bibbia/CEI 1974/NT - 46 Malachia/CEI 74 Malachia|↑ Malachia]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01| ← Matteo 1]] <span class="bianco">| Matteo 2 |</span> [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 03|Matteo 3 →]] | [[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28|Matteo 28 ⇥]] | [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco|Marco ↓]]
 >> <span class="verde">Altre versioni:</span>
 >>
 >> Vulgata Latina, [[La Sacra Bibbia/Vulgata Latina/NT - 47 Matteo/VL Mt 02|Matthæus 2]]

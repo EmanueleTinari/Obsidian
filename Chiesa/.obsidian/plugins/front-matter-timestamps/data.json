@@ -1,0 +1,16 @@
+{
+  "autoUpdate": true,
+  "autoAddTimestamps": true,
+  "createdPropertyName": "creato",
+  "modifiedPropertyName": "modificato",
+  "dateFormat": "YYYY/MM/DD HH:mm:ss",
+  "allowNonEmptyNewFile": true,
+  "delayAddingTimestamps": 3000,
+  "excludedFolders": [
+    "_04 - Web pages",
+    "_07 - Errori sito Vaticano",
+    "z_Modelli"
+  ],
+  "customCommand": "",
+  "debug": true
+}

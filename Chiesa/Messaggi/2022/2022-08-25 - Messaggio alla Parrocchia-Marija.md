@@ -15,6 +15,14 @@ creato: 2025/06/11 00:03:03
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2022/2022-07-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 agosto 2022 | [[Messaggi/2022/2022-09-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 agosto 2022
 
 ## Cari figli Dio mi permette di stare con voi e di guidarvi sulla via della pace affinché attraverso la pace personale, possiate costruire la pace nel mondo.<br>Io sono con voi ed intercedo per voi presso mio Figlio Gesù affinché vi doni la fede forte e la speranza nel futuro migliore che desidero costruire con voi.<br>Voi, siate coraggiosi e non temete perché Dio è con voi.<br>Grazie per aver risposto alla mia chiamata.

@@ -15,6 +15,14 @@ creato: 2025/06/05 21:29:52
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2023/2023-04-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 maggio 2023 | [[Messaggi/2023/2023-06-23 - Messaggio al gruppo di preghiera-Ivan| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 maggio 2023
 
 ## Cari figli!<br>Vi invito ad andare nella natura e a pregare perché l’Altissimo parli al vostro cuore e perché sentiate la forza dello Spirito Santo per testimoniare l’amore che Dio ha per ogni creatura.<br>Io sono con voi ed intercedo per tutti voi.<br>Grazie per aver risposto alla mia chiamata.

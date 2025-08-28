@@ -536,21 +536,21 @@ NOTE:
 [^ftn67]: Cfr. *<span class="BibleRef">[[1*<span class="BibleRef">[[Cor 9,15|Cor 9, 15]]</span>*|1Cor 9, 15]]</span>*;
 	*<span class="BibleRef">[[Rm 10,14|Rm 10, 14]]</span>*.
 
-[^ftn68]: Cfr. *<span class="BibleRef">[[1*<span class="BibleRef">[[Ts 1,9|Ts 1, 9]]</span>*-10|1Ts 1, 9-10]]</span>*;
-	*<span class="BibleRef">[[1*<span class="BibleRef">[[Cor 1,18|Cor 1, 18]]</span>*-21|1Cor 1, 18-21]]</span>*;
+[^ftn68]: Cfr. *<span class="BibleRef">[[1Ts 1,9|1 Ts 1, 9-10]]</span>*;
+	*<span class="BibleRef">[[1Cor 1,18-21|1Cor 1, 18-21]]</span>*;
 	*<span class="BibleRef">[[Gal 3,1|Gal 3, 1]]</span>*;
-	*<span class="BibleRef">[[*<span class="BibleRef">[[At 14,15|At 14, 15]]</span>*-17|At 14, 15-17]]</span>*;
-	*<span class="BibleRef">[[*<span class="BibleRef">[[At 17,22|At 17, 22]]</span>*-31|At 17, 22-31]]</span>*.
+	*<span class="BibleRef">[[At 14,15-17|At 14, 15-17]]</span>*;
+	*<span class="BibleRef">[[At 17,22-31|At 17, 22-31]]</span>*.
 
 [^ftn69]: Cfr. *<span class="BibleRef">[[At 16,14|At 16, 14]]</span>*.
 
-[^ftn70]: Cfr. *<span class="BibleRef">[[*<span class="BibleRef">[[Col 3,5|Col 3, 5]]</span>*-10|Col 3, 5-10]]</span>*;
-	*<span class="BibleRef">[[*<span class="BibleRef">[[Ef 4,20|Ef 4, 20]]</span>*-24|Ef 4, 20-24]]</span>*.
+[^ftn70]: Cfr. *<span class="BibleRef">[[Col 3,5-10|Col 3, 5-10]]</span>*;
+	*<span class="BibleRef">[[Ef 4,20-24|Ef 4, 20-24]]</span>*.
 
 [^ftn71]: Cfr. *<span class="BibleRef">[[Lc 2,34|Lc 2, 34]]</span>*;
-	*<span class="BibleRef">[[*<span class="BibleRef">[[Mt 10,34|Mt 10, 34]]</span>*-39|Mt 10, 34-39]]</span>*.
+	*<span class="BibleRef">[[Mt 10,34-39|Mt 10, 34-39]]</span>*.
 
-[^ftn72]: Cfr. *<span class="BibleRef">[[1*<span class="BibleRef">[[Ts 1,6|Ts 1, 6]]</span>*|1Ts 1, 6]]</span>*.
+[^ftn72]: Cfr. *<span class="BibleRef">[[1Ts 1,6|1Ts 1, 6]]</span>*.
 
 [^ftn73]: Cfr. Concilio Ecumenico Vaticano II, Dichiarazione sulla Libertà Religiosa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-dih#<span class="art" id="dic-dih_art2" name="dic-dih_art2">2</span>.|Dignitatis Humanae, nn. 2]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-dih#<span class="art" id="dic-dih_art4" name="dic-dih_art4">4</span>.|4]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-dih#<span class="art" id="dic-dih_art10" name="dic-dih_art10">10</span>.|10]]* (07 dicembre 1965) [pag. 627ss, 633, 641ss];
 	Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art21" name="cos-ges_art21">21</span>. Atteggiamento della Chiesa di fronte all'ateismo.|Gaudium et Spes, n. 21]]* (07 dicembre 1965) p. 847.

@@ -15,6 +15,14 @@ creato: 2025/06/04 16:05:21
 modificato: 2025/07/09 23:33:02
 ---
 
+> [!4colonne]- [[Messaggi/2024/2024-06-25 - Messaggio annuale a Ivanka| ← Messaggio precedente]] | 25 luglio 2024 | [[Messaggi/2024/2024-08-25 - Messaggio alla Parrocchia-Marija| Messaggio successivo → ]]
+>> <span class="verde">Vai all'anno:</span>
+>> - 2029
+>> - 2028
+>> - 2027
+>> - 2026
+>
+
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 luglio 2024
 
 ## Cari figli miei!<br>Con gioia vi ho scelti e vi guido perché in voi, figlioli, vedo uomini di fede, speranza e preghiera.<br>Figlioli, vi guidi la fierezza di essere miei, e io vi guido a Lui che è via, verità e vita.<br>Sono anche con voi affinché la pace vinca in voi ed attorno a voi perché Dio mi ha mandato a voi per questa intenzione.<br>Grazie per aver risposto alla mia chiamata.
