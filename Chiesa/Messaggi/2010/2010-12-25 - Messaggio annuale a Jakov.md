@@ -15,7 +15,7 @@ approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
 creato: 2025/08/28 01:38:46
-modificato: 2025/08/28 11:15:39
+modificato: 2025/08/28 16:19:43
 ---
 
 > [!4colonne]- [[Messaggi/2010/2010-12-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 dicembre 2010 | [[Messaggi/2011/2011-01-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]
@@ -32,4 +32,5 @@ La Madonna e venuta con il Bambino Gesù tra le braccia.<br>Jakov ha detto: La M
 ##  Pregate, pregate, pregate.
 
 ***
+
 > [!4colonne]- [[Messaggi/2010/2010-12-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 dicembre 2010 | [[Messaggi/2011/2011-01-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]

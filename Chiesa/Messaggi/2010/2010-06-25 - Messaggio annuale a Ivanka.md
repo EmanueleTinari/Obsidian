@@ -14,10 +14,11 @@ lingua-orig: Croato
 approvazione: false
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-messaggio: "[Link al messaggio](https://www.medjugorje.hr/it/fenomeno-di-medjugorje/apparizioni-annuali/)"
-creato: 31/05/2025 00:59:37
-modificato: 09/07/2025 00:16:23
+creato: 2025/08/28 01:38:46
+modificato: 2025/08/28 16:19:43
 ---
 
+> [!4colonne]- [[Messaggi/2010/2010-06-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 giugno 2010 | [[Messaggi/2010/2010-07-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]
 >> <span class="verde">Vai all'anno:</span>
 >> - 2029
 >> - 2028
@@ -30,3 +31,6 @@ modificato: 09/07/2025 00:16:23
 Ivanka ha avuto l’apparizione nella sua casa.<br>Era presente soltanto la sua famiglia.<br>Dopo di essa la veggente ha detto:<br>La Madonna mi ha parlato del quinto segreto ed alla fine ha detto:
 ## Cari figli,<br>ricevete la mia benedizione materna.
 
+***
+
+> [!4colonne]- [[Messaggi/2010/2010-06-25 - Messaggio alla Parrocchia-Marija| ← Messaggio precedente]] | 25 giugno 2010 | [[Messaggi/2010/2010-07-02 - Messaggio al mondo-Mirijana| Messaggio successivo → ]]
