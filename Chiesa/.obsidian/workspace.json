@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a2b493432dab95dd",
+            "id": "8fc3144372d56305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Messaggi/2021/2021-01-21 - Messaggio al gruppo di preghiera-Ivan.md",
+                "file": "Messaggi/2010/2010-12-25 - Messaggio alla Parrocchia-Marija.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2021-01-21 - Messaggio al gruppo di preghiera-Ivan"
+              "title": "2010-12-25 - Messaggio alla Parrocchia-Marija"
             }
           },
           {
-            "id": "1fc2b321c1aa4f59",
+            "id": "0449062ca2a386fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,12 +269,14 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "1fc2b321c1aa4f59",
+  "active": "8fc3144372d56305",
   "lastOpenFiles": [
+    "Messaggi/2010/2010-12-25 - Messaggio annuale a Jakov.md",
+    "Messaggi/2010/2010-12-25 - Messaggio alla Parrocchia-Marija.md",
+    "Messaggi/_Elenco messaggi già inseriti.md",
     "Messaggi/2021/2021-01-21 - Messaggio al gruppo di preghiera-Ivan.md",
     "Messaggi/2022/2022-01-25 - Messaggio alla Parrocchia-Marija.md",
     "Messaggi/2022/2022-12-25 - Messaggio annuale a Jakov.md",
-    "Messaggi/2010/2010-12-25 - Messaggio annuale a Jakov.md",
     "Messaggi/2011/2011-01-02 - Messaggio al mondo-Mirijana.md",
     "Messaggi/2023/2023-01-25 - Messaggio alla Parrocchia-Marija.md",
     "Messaggi/2023/2023-02-25 - Messaggio alla Parrocchia-Marija.md",
@@ -293,10 +295,8 @@
     "Messaggi/2023/2023-11-25 - Messaggio alla Parrocchia-Marija.md",
     "Messaggi/2023/2023-12-25 - Messaggio alla Parrocchia-Marija.md",
     "Messaggi/2023/2023-12-25 - Messaggio annuale a Jakov.md",
-    "Messaggi/_Elenco messaggi già inseriti.md",
     "z_Modelli/_0MessaggiReginaDellaPace.md",
     "Messaggi/2025/2025-01-25 - Messaggio alla Parrocchia-Marija.md",
-    "Messaggi/3 Messaggi annuali a Jakov.md",
     "Messaggi/1990",
     "Messaggi/1989",
     "Messaggi/1988",
