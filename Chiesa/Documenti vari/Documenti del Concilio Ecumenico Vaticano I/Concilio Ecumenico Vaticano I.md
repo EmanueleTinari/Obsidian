@@ -1,9 +1,9 @@
 ---
 creato: 2025/06/25 11:00:43
-modificato: 2025/07/09 23:32:41
+modificato: 2025/09/01 22:30:13
 ---
 
-# DOCUMENTI DEL CONCILIO VATICANO I
+# DOCUMENTI DEL CONCILIO ECUMENICO VATICANO I
 
 ![[_02 - Allegati/Concilio_Ecumenico_Vaticano_I.jpg|Concilio Vaticano I|370]]
 

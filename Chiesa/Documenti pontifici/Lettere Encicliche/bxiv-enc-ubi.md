@@ -9,8 +9,15 @@ anno-doc: 1740
 data-doc: 1740-12-03
 lingua-doc: Italiano
 lingua-orig: Latino
-stato: []
-tags: [Lettera_enciclica, Benedetto_XIV, Ubi_primum]
+stato: false
+tags:
+  - Lettera_enciclica
+  - Benedetto_XIV
+  - Ubi_primum
+  - Documenti_pontifici
+aliases:
+  - Ubi primum
+  - Lettera enciclica Ubi primum
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-ubi-primum--i---3-dicembre-1740--nell--8217-ambito-.html)"

@@ -3,10 +3,8 @@
   "enabledCssSnippets": [
     "tableStyles",
     "sidenote-callout",
-    "chatGPT",
-    "bibbia",
-    "messaggio",
-    "docVat"
+    "docVat",
+    "background"
   ],
   "baseFontSizeAction": true,
   "accentColor": "#7cdfc1",

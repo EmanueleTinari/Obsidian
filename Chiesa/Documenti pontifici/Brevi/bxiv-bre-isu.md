@@ -31,7 +31,7 @@ Breve `class: tipo-documento`
 
 del sommo pontefice `class: tipo-autorita`
 
-Benedetto XIV  `class: nome-autorita`
+Benedetto XIV `class: nome-autorita`
 
 
 # In suprema universalis

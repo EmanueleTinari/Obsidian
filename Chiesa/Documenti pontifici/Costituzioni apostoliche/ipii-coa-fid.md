@@ -74,7 +74,7 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class
 
 NOTE:
 
-[^ftn1]: Cfr. *<span class="BibleRef">[[Ef 3,19|Ef 3, 19]]</span>*.
+[^ftn1]: Cfr. *<span class="BibleRef">[[Ef 3,19|Ef 3,19]]</span>*.
 
 [^ftn2]: Giovanni XXIII, Discorso di apertura del Concilio Ecumenico Vaticano II, 11 ottobre 1962: AAS 54 (1962), pp. 788-791.
 
@@ -86,17 +86,17 @@ NOTE:
 
 [^ftn6]: Discorso ai Padri riuniti per la chiusura del Sinodo dei Vescovi (assemblea generale straordinaria), 7 dicembre 1985, n. 6: AAS 78 (1986), p. 435.
 
-[^ftn7]: Cfr. *<span class="BibleRef">[[Mt 13,52|Mt 13, 52]]</span>*.
+[^ftn7]: Cfr. *<span class="BibleRef">[[Mt 13,52|Mt 13,52]]</span>*.
 
-[^ftn8]: Cfr. *<span class="BibleRef">[[Gc 2,14-26|Gc 2, 14-26]]</span>*.
+[^ftn8]: Cfr. *<span class="BibleRef">[[Gc 2,14-26|Gc 2,14-26]]</span>*.
 
-[^ftn9]: Cfr. *<span class="BibleRef">[[Lc 22,32|Lc 22, 32]]</span>*.
+[^ftn9]: Cfr. *<span class="BibleRef">[[Lc 22,32|Lc 22,32]]</span>*.
 
-[^ftn10]: Cfr. *<span class="BibleRef">[[Ef 3,8|Ef 3, 8]]</span>*.
+[^ftn10]: Cfr. *<span class="BibleRef">[[Ef 3,8|Ef 3,8]]</span>*.
 
-[^ftn11]: Cfr. *<span class="BibleRef">[[1Pt 3,15|1Pt 3, 15]]</span>*.
+[^ftn11]: Cfr. *<span class="BibleRef">[[1Pt 3,15|1Pt 3,15]]</span>*.
 
-[^ftn12]: Cfr. *<span class="BibleRef">[[Gv 8,32|Gv 8, 32]]</span>*.
+[^ftn12]: Cfr. *<span class="BibleRef">[[Gv 8,32|Gv 8,32]]</span>*.
 
-[^ftn13]: Cfr. *<span class="BibleRef">[[1Cor 13,12|1Cor 13, 12]]</span>*;
-	*<span class="BibleRef">[[2Cor 5,6-8|2Cor 5, 6-8]]</span>*.
+[^ftn13]: Cfr. *<span class="BibleRef">[[1Cor 13,12|1Cor 13,12]]</span>*;
+	*<span class="BibleRef">[[2Cor 5,6-8|2Cor 5,6-8]]</span>*.

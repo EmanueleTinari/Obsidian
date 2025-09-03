@@ -3,21 +3,29 @@ cssclasses: docVat
 autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Quam grave
-giorno-doc: 02
-mese-doc: 08
+giorno-doc: 2
+mese-doc: 8
 anno-doc: 1757
 data-doc: 1757-08-02
 lingua-doc: Italiano
 lingua-orig: Latino
-stato: true
-tags: [Lettera_enciclica, Benedetto_XIV, Quam_grave]
+stato: false
+tags:
+  - Lettera_enciclica
+  - Benedetto_XIV
+  - Quam_grave
+  - Documenti_pontifici
+aliases:
+  - Quam grave
+  - Lettera Enciclica Quam grave
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-quam-grave--i---2-agosto-1757--il-pontefice-segnala.html)"
 creato: 2025/04/29 23:12:02
-modificato: 2025/07/09 23:32:33
+modificato: 2025/08/29 09:49:06
 ---
 
+***
 
 Lettera Enciclica `class: tipo-documento`
 
@@ -27,7 +35,7 @@ del sommo pontefice `class: tipo-autorita`
 
 Benedetto XIV `class: nome-autorita`
 
- Ai Patriarchi,<br>Arcivescovi e Vescovi Ordinari<br>delle singole località. `class: centrato-maiuscolo`
+Ai Patriarchi,<br>Arcivescovi e Vescovi Ordinari<br>delle singole località. `class: centrato-maiuscolo`
 
 Il Papa Benedetto XIV.<br>Venerabile Fratello, salute e Apostolica Benedizione. `class: incipit`
 

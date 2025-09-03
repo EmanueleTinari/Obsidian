@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "5db87846ef3a3f19",
+            "id": "a3b03168c3a04c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Brevi/bxiv-bre-isu.md",
+                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-liq.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,127 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bxiv-bre-isu"
+              "title": "bxiv-enc-liq"
+            }
+          },
+          {
+            "id": "a741038524bed095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/_Indice Documenti pontifici.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Documenti pontifici"
+            }
+          },
+          {
+            "id": "861ebe3cafed71ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/Concilio Ecumenico Tridentino.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Concilio Ecumenico Tridentino"
+            }
+          },
+          {
+            "id": "72bfe14fcde59902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti vari/_Indice documenti vari.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice documenti vari"
+            }
+          },
+          {
+            "id": "43578baf456d3cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dpo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cet-dec-dpo"
+            }
+          },
+          {
+            "id": "a49d6a37562a3534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti vari/_Indice documenti vari.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice documenti vari"
             }
           },
           {
@@ -174,57 +294,9 @@
               "icon": "lucide-file",
               "title": "_Indice Lettere apostoliche"
             }
-          },
-          {
-            "id": "9be56bc351ec06d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Encicliche"
-            }
-          },
-          {
-            "id": "646762685f248e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/_Indice Documenti pontifici.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Documenti pontifici"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,7 +328,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "format",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "d5bc6d9aa97f3564",
@@ -375,7 +446,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Messaggi/2010/2010-12-25 - Messaggio annuale a Jakov.md"
+                "file": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dei.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -394,11 +465,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 505.5,
+    "width": 318.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -427,53 +498,53 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "646762685f248e1f",
+  "active": "a3b03168c3a04c69",
   "lastOpenFiles": [
-    "Documenti pontifici/Brevi/_Indice Brevi.md",
-    "Documenti pontifici/Brevi/bxiv-bre-isu.md",
-    "Documenti pontifici/Template_BREVE vuoto.md",
-    "Documenti pontifici/Bolle/_Indice Bolle.md",
-    "Messaggi/_Elenco messaggi già inseriti.md",
-    "Messaggi/_Template aaaa-03-18 - Messaggio annuale a Mirijana.md",
-    "Documenti pontifici/_Indice Documenti pontifici.md",
-    "_Prove/Senza nome.md",
-    "_Prove/Senza nome 1.md",
     "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
-    "Documenti pontifici/Lettere apostoliche/_Indice Lettere apostoliche.md",
-    "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
-    "Documenti pontifici/Costituzioni apostoliche/_Indice Costituzioni Apostoliche.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-liq.md",
+    "Documenti pontifici/Bolle/_Indice Bolle.md",
+    "Documenti pontifici/_Indice Documenti pontifici.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/Concilio Ecumenico Tridentino.md",
+    "Documenti vari/_Indice documenti vari.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dpo.md",
     "Documenti pontifici/Brevi Encicliche/_Indice Brevi Encicliche.md",
-    "Documenti pontifici/Costituzioni apostoliche/ipii-coa-fid.md",
-    "z_Modelli/_1Estrae e crea una tabella coi file e data di modifica DISC.md",
-    "Documenti pontifici/Brevi Encicliche/bxiv-ben-pet.md",
-    "Documenti pontifici/Brevi Encicliche/_modello-ben-.md",
-    "Documenti pontifici/Template_BOLLA vuota.md",
-    "Documenti pontifici/Brevi/bxiv-bre-quc.md",
-    "Documenti pontifici/Brevi/bxiv-bre-quc.jpg",
-    "Documenti pontifici/Bolle/bxiv-bol-prr.md",
-    "Documenti pontifici/Bolle/bxiv-bol-bed.md",
-    "Documenti pontifici/Brevi Encicliche",
-    "Documenti pontifici/Brevi/bxiv-bre-noa.md",
+    "Documenti pontifici/Brevi/_Indice Brevi.md",
+    "Documenti pontifici/Costituzioni apostoliche/_Indice Costituzioni Apostoliche.md",
+    "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-ubi.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-svc.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qug.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qpr.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qpa.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-ino.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-etm.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cso.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cis.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cee.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-pss.md",
+    "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
+    "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
+    "_02 - Allegati/Concilio_Ecumenico_Tridentino_1.jpg",
+    "_02 - Allegati/~oncilio_Ecumenico_Tridentino.tmp",
+    "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/Concilio Ecumenico Vaticano I.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-del.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dei.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.Decr. Trid. Giustificazione 2.pdf",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/CTridentinum.pdf",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/1545-1563-,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf",
+    "CEI 74 Gn 05.pdf",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.Decr. Trid. Giustificazione 2",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino",
+    "Documenti vari/Nuova cartella",
+    "Documenti pontifici/Brevi/bxiv-bre-quc.jpg",
+    "Documenti pontifici/Brevi Encicliche",
     "Documenti pontifici/Brevi/bxiv-bre-noa.jpg",
-    "Documenti pontifici/Bolle/bxiv-bol-pad.md",
-    "Documenti pontifici/Bolle/bxiv-bol-ofn.md",
     "Messaggi/1990",
-    "Messaggi/1989",
-    "Messaggi/1988",
-    "Messaggi/1987",
-    "Messaggi/1986",
-    "Messaggi/1985",
-    "Messaggi/1984",
-    "Messaggi/2009",
-    "Messaggi/2008",
     "_02 - Allegati/shopsolar-favicon_32x32.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_003.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_002.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_001.png",
-    "_04 - Web pages/2025-07-26 - Capacità galleggiamento bidoni plastica_001.png",
-    "_02 - Allegati/07_27_San_Pantaleone_1.jpg",
-    "_02 - Allegati/07_27_San_Pantaleone_1_tn.jpg",
-    "_02 - Allegati/Concilio_Ecumenico_Vaticano_II.jpg"
+    "_04 - Web pages/2025-07-26 - Capacità galleggiamento bidoni plastica_001.png"
   ]
 }

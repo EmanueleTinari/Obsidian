@@ -3,11 +3,11 @@ creato: 2025/07/10 16:56:05
 modificato: 2025/07/11 21:44:31
 ---
 
-> [!info]- - [x] Canti per le Liturgie
+> [!info]- - [ ] Canti per le Liturgie
 
-> [!info]- - [x] Messaggi
+> [!info]- - [ ] Messaggi
 
-> [!info]- - [x] Santi del giorno
+> [!info]- - [ ] Santi del giorno
 >
 >> [!indice-generale]- Gennaio
 >>>[[Santi/01/01-01|Santi del giorno 01-01]] - - [[Santi/01/01-02|Santi del giorno 02-01]] - - [[Santi/01/01-03|Santi del giorno 03-01]] - - [[Santi/01/01-04|Santi del giorno 04-01]]<br>[[Santi/01/01-05|Santi del giorno 05-01]] - - [[Santi/01/01-06|Santi del giorno 06-01]] - - [[Santi/01/01-07|Santi del giorno 07-01]] - - [[Santi/01/01-08|Santi del giorno 08-01]]<br>[[Santi/01/01-09|Santi del giorno 09-01]] - - [[Santi/01/01-10|Santi del giorno 10-01]] - - [[Santi/01/01-11|Santi del giorno 11-01]] - - [[Santi/01/01-12|Santi del giorno 12-01]]<br>[[Santi/01/01-13|Santi del giorno 13-01]] - - [[Santi/01/01-14|Santi del giorno 14-01]] - - [[Santi/01/01-15|Santi del giorno 15-01]] - - [[Santi/01/01-16|Santi del giorno 16-01]]<br>[[Santi/01/01-17|Santi del giorno 17-01]] - - [[Santi/01/01-18|Santi del giorno 18-01]] - - [[Santi/01/01-19|Santi del giorno 19-01]] - - [[Santi/01/01-20|Santi del giorno 20-01]]<br>[[Santi/01/01-21|Santi del giorno 21-01]] - - [[Santi/01/01-22|Santi del giorno 22-01]] - - [[Santi/01/01-23|Santi del giorno 23-01]] - - [[Santi/01/01-24|Santi del giorno 24-01]]<br>[[Santi/01/01-25|Santi del giorno 25-01]] - - [[Santi/01/01-26|Santi del giorno 26-01]] - - [[Santi/01/01-27|Santi del giorno 27-01]] - - [[Santi/01/01-28|Santi del giorno 28-01]]<br>[[Santi/01/01-29|Santi del giorno 29-01]] - - [[Santi/01/01-30|Santi del giorno 30-01]] - - [[Santi/01/01-31|Santi del giorno 31-01]]
