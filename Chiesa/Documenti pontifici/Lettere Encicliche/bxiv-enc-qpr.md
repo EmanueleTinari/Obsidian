@@ -69,7 +69,7 @@ Se invece (ma stentiamo a crederlo) qualche potere laicale, in forza di qualche 
 
 ###### 7.
 
-Che se poi alle vostre parole non si presta fede, né Voi giudicate che sia opportuno procedere verso di essi conforme ai dettami della disciplina ecclesiastica, a Voi tassativamente prescriviamo di renderci quanto prima edotti su tali questioni, anche trasmettendo nelle Nostre mani l’opportuna documentazione: Noi siamo infatti pronti a compiere tutti quegli atti che i Nostri insigni Predecessori erano soliti affrontare in analoghe circostanze.<br>Non vogliamo infatti, una volta chiamati davanti al supremo tribunale di Dio, essere accusati d’aver negletto i diritti della Santa Sede.<br>Frattanto Vi abbracciamo con paterno amore e Vi impartiamo l’Apostolica Benedizione.<br> `class: paragrafo-normale`
+Che se poi alle vostre parole non si presta fede, né Voi giudicate che sia opportuno procedere verso di essi conforme ai dettami della disciplina ecclesiastica, a Voi tassativamente prescriviamo di renderci quanto prima edotti su tali questioni, anche trasmettendo nelle Nostre mani l’opportuna documentazione: Noi siamo infatti pronti a compiere tutti quegli atti che i Nostri insigni Predecessori erano soliti affrontare in analoghe circostanze.<br>Non vogliamo infatti, una volta chiamati davanti al supremo tribunale di Dio, essere accusati d’aver negletto i diritti della Santa Sede.<br>Frattanto Vi abbracciamo con paterno amore e Vi impartiamo l’Apostolica Benedizione. `class: paragrafo-normale`
 
 
 Dato a Roma, presso Santa Maria Maggiore, il 23 marzo 1743, nell’anno terzo del Nostro Pontificato. `class: data-luogo`

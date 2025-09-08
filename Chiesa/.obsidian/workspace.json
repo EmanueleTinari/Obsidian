@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-liq.md",
+                "file": "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,127 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bxiv-enc-liq"
+              "title": "_Indice Encicliche"
+            }
+          },
+          {
+            "id": "43e830d7f90aaea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-eqp.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bxiv-enc-eqp"
+            }
+          },
+          {
+            "id": "cac407f6b25570eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-mca.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bxiv-enc-mca"
+            }
+          },
+          {
+            "id": "cee9be7f4b2a534f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-inp.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bxiv-enc-inp"
+            }
+          },
+          {
+            "id": "3d9a1776f0097625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-prj.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bxiv-enc-prj"
+            }
+          },
+          {
+            "id": "1068e47d327a65ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-cem.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bxiv-enc-cem"
             }
           },
           {
@@ -110,7 +230,7 @@
               "type": "markdown",
               "state": {
                 "file": "Documenti vari/_Indice documenti vari.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -149,30 +269,6 @@
               },
               "icon": "lucide-file",
               "title": "cet-dec-dpo"
-            }
-          },
-          {
-            "id": "a49d6a37562a3534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti vari/_Indice documenti vari.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice documenti vari"
             }
           },
           {
@@ -254,7 +350,7 @@
               "type": "markdown",
               "state": {
                 "file": "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -296,7 +392,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -498,41 +594,41 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "a3b03168c3a04c69",
+  "active": "cee9be7f4b2a534f",
   "lastOpenFiles": [
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-mca.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-eqp.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-prj.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cem.md",
     "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-liq.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-als.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-aqp.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qup.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cra.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-epa.md",
     "Documenti pontifici/Bolle/_Indice Bolle.md",
-    "Documenti pontifici/_Indice Documenti pontifici.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/Concilio Ecumenico Tridentino.md",
-    "Documenti vari/_Indice documenti vari.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dpo.md",
-    "Documenti pontifici/Brevi Encicliche/_Indice Brevi Encicliche.md",
-    "Documenti pontifici/Brevi/_Indice Brevi.md",
-    "Documenti pontifici/Costituzioni apostoliche/_Indice Costituzioni Apostoliche.md",
-    "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-ubi.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-svc.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-qug.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-qpr.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-qpa.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-man.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-liq.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-ino.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-inc.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-grs.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-gra.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-etm.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-eoc.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-cso.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-cis.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-cee.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-pss.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/1545-1563-,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino_1.jpg",
     "_02 - Allegati/~oncilio_Ecumenico_Tridentino.tmp",
-    "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/Concilio Ecumenico Vaticano I.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-del.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dei.md",
     "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.Decr. Trid. Giustificazione 2.pdf",
     "Documenti vari/Documenti del Concilio Ecumenico Tridentino/CTridentinum.pdf",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/1545-1563-,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf",
     "CEI 74 Gn 05.pdf",
     "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.Decr. Trid. Giustificazione 2",
     "Documenti vari/Documenti del Concilio Ecumenico Tridentino",

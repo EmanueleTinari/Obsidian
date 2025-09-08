@@ -10,11 +10,7 @@ data-doc: 1742-12-14
 lingua-doc: Italiano
 lingua-orig: Latino
 stato: false
-tags:
-  - Lettera_enciclica
-  - Benedetto_XIV
-  - Cum_illud_semper
-  - Documenti_pontifici
+tags: [Lettera_enciclica, Benedetto_XIV, Cum_illud_semper, Documenti_pontifici]
 aliases:
   - Cum illud semper
   - Lettera Enciclica Cum illud semper
@@ -22,7 +18,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-cum-illud-semper--i---14-dicembre-1742--desiderando.html)"
 creato: 2025/08/29 15:48:25
-modificato: 2025/08/29 18:26:48
+modificato: 2025/09/04 11:22:08
 ---
 
 ***

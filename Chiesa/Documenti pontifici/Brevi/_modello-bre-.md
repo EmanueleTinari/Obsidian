@@ -36,9 +36,9 @@ X `class: nome-autorita`
 
 # titolo doc
 
+x. `class: centrato-maiuscolo`
 
-X.<br> `class: incipit`
-
+Il Papa Benedetto XIV.<br>Venerabili Fratelli, salute e Apostolica Benedizione. `class: incipit`
 
 ###### Proemio
 

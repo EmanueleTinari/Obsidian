@@ -1,13 +1,13 @@
 ---
 creato: 2025/06/16 08:37:29
-modificato: 2025/08/28 22:30:24
+modificato: 2025/09/04 21:26:11
 ---
 
 
 ```dataview
 TABLE WITHOUT ID
 	autore-doc AS Autore,
-	dateformat(data-doc, "dd MMMM yyyy") AS Data,
+	dateformat(data-doc, "dd-MM-yyyy") AS Data,
 	titolo-doc AS Titolo,
 	link(file.name) AS File
 FROM

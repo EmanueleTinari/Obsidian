@@ -1,6 +1,6 @@
 ---
 creato: 2025/05/03 17:11:11
-modificato: 2025/08/28 22:21:48
+modificato: 2025/09/04 21:25:31
 ---
 
 
@@ -8,7 +8,7 @@ modificato: 2025/08/28 22:21:48
 
 TABLE WITHOUT ID
 	autore-doc AS Autore,
-	dateformat(data-doc, "dd MMMM yyyy")	AS Data,
+	dateformat(data-doc, "dd-MM-yyyy")	AS Data,
 	titolo-doc AS Titolo,
 	link(file.name) AS File
 FROM
