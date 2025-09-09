@@ -56,55 +56,7 @@
             }
           },
           {
-            "id": "43e830d7f90aaea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-eqp.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bxiv-enc-eqp"
-            }
-          },
-          {
-            "id": "cac407f6b25570eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-mca.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bxiv-enc-mca"
-            }
-          },
-          {
-            "id": "cee9be7f4b2a534f",
+            "id": "72c38fbd0ebcbbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -125,54 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "bxiv-enc-inp"
-            }
-          },
-          {
-            "id": "3d9a1776f0097625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-prj.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bxiv-enc-prj"
-            }
-          },
-          {
-            "id": "1068e47d327a65ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-cem.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bxiv-enc-cem"
             }
           },
           {
@@ -392,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -594,13 +498,19 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "cee9be7f4b2a534f",
+  "active": "a3b03168c3a04c69",
   "lastOpenFiles": [
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-mca.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-eqp.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-prj.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cem.md",
     "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-prj.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-inp.md",
+    "Documenti pontifici/_Indice Documenti pontifici.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-eqp.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cem.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-apc.md",
+    "Documenti pontifici/_tmpHTML.html",
+    "Documenti pontifici/_tmpAI.md",
+    "Documenti pontifici/Lettere Encicliche/_tmpAI.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-als.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-aqp.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-qup.md",
@@ -617,11 +527,6 @@
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-inc.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-grs.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-gra.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-etm.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-eoc.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cso.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cis.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cee.md",
     "Documenti vari/Documenti del Concilio Ecumenico Tridentino/1545-1563-,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
@@ -636,7 +541,6 @@
     "Documenti pontifici/Brevi/bxiv-bre-quc.jpg",
     "Documenti pontifici/Brevi Encicliche",
     "Documenti pontifici/Brevi/bxiv-bre-noa.jpg",
-    "Messaggi/1990",
     "_02 - Allegati/shopsolar-favicon_32x32.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_003.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_002.png",

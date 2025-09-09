@@ -2,6 +2,11 @@
 creato: 2025/09/05 07:18:08
 modificato: 2025/09/05 07:30:57
 ---
+
+Ti invio questo spezzone in HTML:
+
+
+
 ### 📌 Prompt ottimizzato per estrazione da HTML (Markdown + regole di formattazione)
 
 **Obiettivo:** Estrai tutto il testo contenuto nei tag `<p>` della pagina HTML, formattato in Markdown, in un blocco di codice continuo.
@@ -21,13 +26,13 @@ modificato: 2025/09/05 07:30:57
 - Se ci sono **paragrafi numerati** (numeri arabi o numeri romani), usa questa struttura:
 
 ```
-(RIGA VUOTA)
-###### [numero].
-(RIGA VUOTA)
-[testo del paragrafo]\n
+{Qui inserisci una RIGA VUOTA}
+###### [numero].{Qui inserisci il FINE RIGA}
+{Qui inserisci una RIGA VUOTA}
+[testo del paragrafo]{Qui inserisci il FINE RIGA}
 ```
 
-- Non inserire `<br>` dopo il punto che segue il numero (es. `4.`).
+- Non inserire `<br>` dopo il punto che segue il numero di paragrafo/capitolo (es. `4.`).
 
 ---
 
@@ -63,7 +68,5 @@ modificato: 2025/09/05 07:30:57
 3. Non inserire **ritorni a capo** dopo `<br>` (niente `\n` dopo `<br>`)
 4. Il testo dopo `<br>` deve **continuare sulla stessa riga**
 5. Quando finisce un <p> nel codice, andare a capo
-
-
-
-Qui di seguito l'HTML da esaminare col testo da estrarre:
+6. ricorda di trasformare gli <i>...</i> in *...* come il Markdown esige
+7. Ad ogni punto di interruzione FRASE, inserire un <br> (es xxx.[Inserire qui il <br>]Xxxxxxx
