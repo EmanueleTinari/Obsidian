@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb6368c078265a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Bolle/_Indice Bolle.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Bolle"
-            }
-          },
-          {
             "id": "a3b03168c3a04c69",
             "type": "leaf",
             "state": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "_Indice Encicliche"
+            }
+          },
+          {
+            "id": "0bb478dcff419910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-inp.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bxiv-enc-inp"
             }
           },
           {
@@ -80,78 +80,6 @@
             }
           },
           {
-            "id": "a741038524bed095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/_Indice Documenti pontifici.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Documenti pontifici"
-            }
-          },
-          {
-            "id": "861ebe3cafed71ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/Concilio Ecumenico Tridentino.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Concilio Ecumenico Tridentino"
-            }
-          },
-          {
-            "id": "72bfe14fcde59902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti vari/_Indice documenti vari.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice documenti vari"
-            }
-          },
-          {
             "id": "43578baf456d3cbe",
             "type": "leaf",
             "state": {
@@ -173,126 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "cet-dec-dpo"
-            }
-          },
-          {
-            "id": "f082d95eef84920d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Brevi/_Indice Brevi.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Brevi"
-            }
-          },
-          {
-            "id": "0e83b5fc30a50a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Brevi Encicliche/_Indice Brevi Encicliche.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Brevi Encicliche"
-            }
-          },
-          {
-            "id": "c88f191faeeff81c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Costituzioni apostoliche/_Indice Costituzioni Apostoliche.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Costituzioni Apostoliche"
-            }
-          },
-          {
-            "id": "3d2098faf939b014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Esortazioni apostoliche"
-            }
-          },
-          {
-            "id": "cfbc611a9d6f4b8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Lettere apostoliche/_Indice Lettere apostoliche.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Lettere apostoliche"
             }
           }
         ],
@@ -498,14 +306,26 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "a3b03168c3a04c69",
+  "active": "0bb478dcff419910",
   "lastOpenFiles": [
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-mca.md",
     "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-prj.md",
+    "Documenti pontifici/Brevi/_Indice Brevi.md",
+    "Documenti pontifici/Brevi/bxiv-bre-qes.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-inp.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dpo.md",
+    "Documenti pontifici/Brevi Encicliche/_Indice Brevi Encicliche.md",
+    "Documenti vari/_Indice documenti vari.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/Concilio Ecumenico Tridentino.md",
     "Documenti pontifici/_Indice Documenti pontifici.md",
+    "Documenti pontifici/Bolle/_Indice Bolle.md",
+    "Documenti pontifici/Bolle/bxiv-bol-prr.md",
+    "Documenti pontifici/Bolle/bxiv-bol-bed.md",
+    "Documenti pontifici/Bolle/bxiv-bol-pad.md",
+    "Documenti pontifici/Bolle/bxiv-bol-ofn.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-eqp.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qug.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-mca.md",
+    "Documenti pontifici/Lettere Encicliche/bxiv-enc-prj.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-cem.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-apc.md",
     "Documenti pontifici/_tmpHTML.html",
@@ -515,18 +335,6 @@
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-aqp.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-qup.md",
     "Documenti pontifici/Lettere Encicliche/bxiv-enc-cra.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-epa.md",
-    "Documenti pontifici/Bolle/_Indice Bolle.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-svc.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qug.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qpr.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qpa.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-man.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-liq.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-ino.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-inc.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-grs.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-gra.md",
     "Documenti vari/Documenti del Concilio Ecumenico Tridentino/1545-1563-,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
