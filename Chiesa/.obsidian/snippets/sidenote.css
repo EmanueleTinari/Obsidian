@@ -46,7 +46,7 @@ settings:
         label: right
         value: r-right-callout-title
   -
-    id: sidenote-backgound
+    id: sidenote-background
     title: Callout Background
     description: enable background color
     type: class-toggle
@@ -149,7 +149,7 @@ body {
     border: none;
 }
 
-.sidenote-backgound .callout[data-callout-metadata*="aside"] {
+.sidenote-background .callout[data-callout-metadata*="aside"] {
     background-color: rgba(var(--callout-color), 0.1) !important;
     padding-bottom: 10px;
 }
