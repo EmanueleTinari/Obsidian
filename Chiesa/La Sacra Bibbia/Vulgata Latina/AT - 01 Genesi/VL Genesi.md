@@ -50,14 +50,14 @@ modificato: 2025/07/09 23:32:47
 
 - Creazione: Sei giorni di lavoro. (*<span class="BibleRef">[[Gn 1,1-31|Genesis 1, 1-31]]</span>*)
 - Ornato del cielo e della terra. (*<span class="BibleRef">[[Gn 1,14-25|Genesis 1, 14-25]]</span>*)
-- Creazione dell'uomo a immagine di Dio. (*<span class="BibleRef">[[Gn 1,26-31|Genesis 1, 26-31]]</span>*)
+- Creazione dell’uomo a immagine di Dio. (*<span class="BibleRef">[[Gn 1,26-31|Genesis 1, 26-31]]</span>*)
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 02 Genesi/VL Gn 02|Genesi 02]]:
 
-- L'istituzione del Sabato.
+- L’istituzione del Sabato.
 - La creazione della donna.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 03 Genesi/VL Gn 03|Genesi 03]]:
 
-- La caduta dell'uomo.
+- La caduta dell’uomo.
 - Espulsione dal Paradiso.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 04 Genesi/VL Gn 04|Genesi 04]]:
 
@@ -69,12 +69,12 @@ modificato: 2025/07/09 23:32:47
 - Genealogia da Adamo a Noè.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 06 Genesi/VL Gn 06|Genesi 06]]:
 
-- Figli di Dio e figlie dell'uomo.
-- Annuncio del Diluvio. Elezione di Noè. Costruzione dell'Arca.
+- Figli di Dio e figlie dell’uomo.
+- Annuncio del Diluvio. Elezione di Noè. Costruzione dell’Arca.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 07 Genesi/VL Gn 07|Genesi 07]]:
 
 - Il Diluvio.
-- L'irruzione del Diluvio.
+- L’irruzione del Diluvio.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 08 Genesi/VL Gn 08|Genesi 08]]:
 
 - Fine del Diluvio. Sacrificio di Noè. Promessa del Signore.
@@ -105,7 +105,7 @@ modificato: 2025/07/09 23:32:47
 - Abramo salva Lot ed è benedetto da Melchisedec.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 015 Genesi/VL Gn 15|Genesi 15]]:
 
-- Dio promette ad Abramo un figlio e gli concede l'Alleanza.
+- Dio promette ad Abramo un figlio e gli concede l’Alleanza.
 - La fede di Abramo.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 016 Genesi/VL Gn 16|Genesi 16]]:
 
@@ -137,7 +137,7 @@ modificato: 2025/07/09 23:32:47
 - I discendenti di Nacor.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 023 Genesi/VL Gn 23|Genesi 23]]:
 
-- Morte di Sara. Abramo acquisisce un'eredità.
+- Morte di Sara. Abramo acquisisce un’eredità.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 024 Genesi/VL Gn 24|Genesi 24]]:
 
 - Rebecca diventa moglie di Isacco.
@@ -155,7 +155,7 @@ modificato: 2025/07/09 23:32:47
 - Mogli di Esaù.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 027 Genesi/VL Gn 27|Genesi 27]]:
 
-- Giacobbe ottiene la benedizione del diritto di primogenitura con l'astuzia.
+- Giacobbe ottiene la benedizione del diritto di primogenitura con l’astuzia.
 - Fuga di Giacobbe ad Haran.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 028 Genesi/VL Gn 28|Genesi 28]]:
 
@@ -185,7 +185,7 @@ modificato: 2025/07/09 23:32:47
 - Giacobbe si stabilisce vicino a Sichem.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 034 Genesi/VL Gn 34|Genesi 34]]:
 
-- L'oltraggio contro Dina e il massacro di Sichem.
+- L’oltraggio contro Dina e il massacro di Sichem.
 - Massacro di Sichem.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 035 Genesi/VL Gn 35|Genesi 35]]:
 
@@ -217,8 +217,8 @@ modificato: 2025/07/09 23:32:47
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 041 Genesi/VL Gn 41|Genesi 41]]:
 
 - Giuseppe interpreta i sogni del Faraone.
-- L'esaltazione di Giuseppe.
-- La cura di Giuseppe per l'Egitto. La nascita dei suoi figli.
+- L’esaltazione di Giuseppe.
+- La cura di Giuseppe per l’Egitto. La nascita dei suoi figli.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 042 Genesi/VL Gn 42|Genesi 42]]:
 
 - Primo viaggio dei figli di Giacobbe in Egitto.
@@ -243,7 +243,7 @@ modificato: 2025/07/09 23:32:47
 
 - Giacobbe davanti al Faraone.
 - Gli egiziani vendono i loro beni e se stessi al Faraone.
-- L'ultimo desiderio di Giacobbe.
+- L’ultimo desiderio di Giacobbe.
 ## Punti salienti di [[La Sacra Bibbia/Vulgata Latina/AT - 048 Genesi/VL Gn 48|Genesi 48]]:
 
 - Benedizione di Giacobbe su Efraim e Manasse.

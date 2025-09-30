@@ -55,14 +55,14 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 
 - Creazione: Sei giorni di lavoro. (*<span class="BibleRef">[[Gn 1,1-31|Genesi 1, 1-31]]</span>*)
 - Ornato del cielo e della terra. (*<span class="BibleRef">[[Gn 1,14-25|Genesi 1, 14-25]]</span>*)
-- Creazione dell'uomo a immagine di Dio. (*<span class="BibleRef">[[Gn 1,26-31|Genesi 1, 26-31]]</span>*)
+- Creazione dell’uomo a immagine di Dio. (*<span class="BibleRef">[[Gn 1,26-31|Genesi 1, 26-31]]</span>*)
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 02|Genesi 02]]:
 
-- L'istituzione del Sabato.
+- L’istituzione del Sabato.
 - La creazione della donna.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 03|Genesi 03]]:
 
-- La caduta dell'uomo.
+- La caduta dell’uomo.
 - Espulsione dal Paradiso.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 04|Genesi 04]]:
 
@@ -74,12 +74,12 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 - Genealogia da Adamo a Noè.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 06|Genesi 06]]:
 
-- Figli di Dio e figlie dell'uomo.
-- Annuncio del Diluvio. Elezione di Noè. Costruzione dell'Arca.
+- Figli di Dio e figlie dell’uomo.
+- Annuncio del Diluvio. Elezione di Noè. Costruzione dell’Arca.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 07|Genesi 07]]:
 
 - Il Diluvio.
-- L'irruzione del Diluvio.
+- L’irruzione del Diluvio.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 08|Genesi 08]]:
 
 - Fine del Diluvio. Sacrificio di Noè. Promessa del Signore.
@@ -110,7 +110,7 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 - Abramo salva Lot ed è benedetto da Melchisedec.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 15|Genesi 15]]:
 
-- Dio promette ad Abramo un figlio e gli concede l'Alleanza.
+- Dio promette ad Abramo un figlio e gli concede l’Alleanza.
 - La fede di Abramo.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 16|Genesi 16]]:
 
@@ -142,7 +142,7 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 - I discendenti di Nacor.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 23|Genesi 23]]:
 
-- Morte di Sara. Abramo acquisisce un'eredità.
+- Morte di Sara. Abramo acquisisce un’eredità.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 24|Genesi 24]]:
 
 - Rebecca diventa moglie di Isacco.
@@ -160,7 +160,7 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 - Mogli di Esaù.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 27|Genesi 27]]:
 
-- Giacobbe ottiene la benedizione del diritto di primogenitura con l'astuzia.
+- Giacobbe ottiene la benedizione del diritto di primogenitura con l’astuzia.
 - Fuga di Giacobbe ad Haran.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 28|Genesi 28]]:
 
@@ -190,7 +190,7 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 - Giacobbe si stabilisce vicino a Sichem.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 34|Genesi 34]]:
 
-- L'oltraggio contro Dina e il massacro di Sichem.
+- L’oltraggio contro Dina e il massacro di Sichem.
 - Massacro di Sichem.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 35|Genesi 35]]:
 
@@ -222,8 +222,8 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 41|Genesi 41]]:
 
 - Giuseppe interpreta i sogni del Faraone.
-- L'esaltazione di Giuseppe.
-- La cura di Giuseppe per l'Egitto. La nascita dei suoi figli.
+- L’esaltazione di Giuseppe.
+- La cura di Giuseppe per l’Egitto. La nascita dei suoi figli.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 42|Genesi 42]]:
 
 - Primo viaggio dei figli di Giacobbe in Egitto.
@@ -248,7 +248,7 @@ I primi "cinque libri" – in greco: Pentateuco – della Bibbia sono globalment
 
 - Giacobbe davanti al Faraone.
 - Gli egiziani vendono i loro beni e se stessi al Faraone.
-- L'ultimo desiderio di Giacobbe.
+- L’ultimo desiderio di Giacobbe.
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 48|Genesi 48]]:
 
 - Benedizione di Giacobbe su Efraim e Manasse.

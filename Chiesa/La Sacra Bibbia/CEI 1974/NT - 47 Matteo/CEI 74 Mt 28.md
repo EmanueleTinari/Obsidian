@@ -54,7 +54,7 @@ Versione C.E.I. 1974:
 ***
 
 ###### 1
-<span class=vrs>1</span>Sabato, all'alba del primo giorno della settimana, Maria di Màgdala e l'altra Maria andarono a visitare il sepolcro.
+<span class=vrs>1</span>Sabato, all’alba del primo giorno della settimana, Maria di Màgdala e l’altra Maria andarono a visitare il sepolcro.
 ###### 2
 <span class=vrs>2</span>Ed ecco che vi fu un gran terremoto: un angelo del Signore, sceso dal cielo, si accostò, rotolò la pietra e si pose a sedere su di essa.
 ###### 3
@@ -62,13 +62,13 @@ Versione C.E.I. 1974:
 ###### 4
 <span class=vrs>4</span>Per lo spavento che ebbero di lui le guardie tremarono tramortite.
 ###### 5
-<span class=vrs>5</span>Ma l'angelo disse alle donne: "Non abbiate paura, voi! So che cercate Gesù il crocifisso.
+<span class=vrs>5</span>Ma l’angelo disse alle donne: "Non abbiate paura, voi! So che cercate Gesù il crocifisso.
 ###### 6
 <span class=vrs>6</span>Non è qui. È risorto, come aveva detto; venite a vedere il luogo dove era deposto.
 ###### 7
-<span class=vrs>7</span>Presto, andate a dire ai suoi discepoli: È risuscitato dai morti, e ora vi precede in Galilea; là lo vedrete. Ecco, io ve l'ho detto".
+<span class=vrs>7</span>Presto, andate a dire ai suoi discepoli: È risuscitato dai morti, e ora vi precede in Galilea; là lo vedrete. Ecco, io ve l’ho detto".
 ###### 8
-<span class=vrs>8</span>Abbandonato in fretta il sepolcro, con timore e gioia grande, le donne corsero a dare l'annunzio ai suoi discepoli.
+<span class=vrs>8</span>Abbandonato in fretta il sepolcro, con timore e gioia grande, le donne corsero a dare l’annunzio ai suoi discepoli.
 ###### 9
 <span class=vrs>9</span>Ed ecco Gesù venne loro incontro dicendo: "Salute a voi". Ed esse, avvicinatesi, gli cinsero i piedi e lo adorarono.
 ###### 10
@@ -78,9 +78,9 @@ Versione C.E.I. 1974:
 ###### 12
 <span class=vrs>12</span>Questi si riunirono allora con gli anziani e deliberarono di dare una buona somma di denaro ai soldati dicendo:
 ###### 13
-<span class=vrs>13</span>"Dichiarate: i suoi discepoli sono venuti di notte e l'hanno rubato, mentre noi dormivamo.
+<span class=vrs>13</span>"Dichiarate: i suoi discepoli sono venuti di notte e l’hanno rubato, mentre noi dormivamo.
 ###### 14
-<span class=vrs>14</span>E se mai la cosa verrà all'orecchio del governatore noi lo persuaderemo e vi libereremo da ogni noia".
+<span class=vrs>14</span>E se mai la cosa verrà all’orecchio del governatore noi lo persuaderemo e vi libereremo da ogni noia".
 ###### 15
 <span class=vrs>15</span>Quelli, preso il denaro, fecero secondo le istruzioni ricevute. Così questa diceria si è divulgata fra i Giudei fino ad oggi.
 ###### 16

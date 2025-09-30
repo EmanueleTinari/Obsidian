@@ -37,7 +37,7 @@ Os:
 What you can suggest me?
 
 
-Your setup is solid, and you have a pretty clear plan for the tasks you want to tackle. Let me break down some suggestions and tools you can use to meet your needs for both tasks. Since you're working locally (and sometimes online), I'll focus on efficient and flexible solutions that respect your offline-first approach. Also, I'll suggest options for your development environment to maximize productivity.
+Your setup is solid, and you have a pretty clear plan for the tasks you want to tackle. Let me break down some suggestions and tools you can use to meet your needs for both tasks. Since yoÙre working locally (and sometimes online), I'll focus on efficient and flexible solutions that respect your offline-first approach. Also, I'll suggest options for your development environment to maximize productivity.
 
 ## Risposta CHATGPT on 13/07/2025:
 
@@ -60,7 +60,7 @@ Since you want to use local LLMs, there are a few options you can explore for ru
 
 Obsidian is a great choice for knowledge management, and there are some tools and plugins you can integrate to optimize the indexing:
 
-- **Obsidian Plugin: "Link Suggestion"**: This plugin can automatically suggest relevant internal links while you're writing. It might help you organize your 1k Italian files into relevant clusters. You can even use custom query blocks in Obsidian to list notes on specific topics, making it easier to navigate.
+- **Obsidian Plugin: "Link Suggestion"**: This plugin can automatically suggest relevant internal links while yoÙre writing. It might help you organize your 1k Italian files into relevant clusters. You can even use custom query blocks in Obsidian to list notes on specific topics, making it easier to navigate.
     
 - **Zettelkasten**: If you’re into linking ideas between notes (Zettelkasten method), you can use plugins like **Zettelkasten Prefixer** or just rely on your own approach to tagging and linking related notes.
     
@@ -77,7 +77,7 @@ Obsidian is a great choice for knowledge management, and there are some tools an
 
 #### **Text Transformation (OCR) for Scanned Documents**
 
-For OCR and text extraction, you'll need tools that can handle multiple formats (JPG, PNG, PDF, ePub) and multiple languages, including Latin and Ancient Greek. Here are some tools you can set up locally:
+For OCR and text extraction, yoÙll need tools that can handle multiple formats (JPG, PNG, PDF, ePub) and multiple languages, including Latin and Ancient Greek. Here are some tools you can set up locally:
 
 - **Tesseract OCR**: This is a powerful open-source OCR tool that can recognize Italian, Latin, and Ancient Greek with proper language models. It's best used in combination with Python scripts to automate the process.
     
@@ -160,7 +160,7 @@ You could set up isolated environments for each language:
 
 ### **Hardware & Performance Optimization**
 
-Given your powerful hardware setup (especially your GPU), you'll be able to handle LLMs like Code Llama or GPT-NeoX quite efficiently. Here's how to optimize:
+Given your powerful hardware setup (especially your GPU), yoÙll be able to handle LLMs like Code Llama or GPT-NeoX quite efficiently. Here's how to optimize:
 
 - **GPU Utilization**: Make sure you have CUDA installed for PyTorch and TensorFlow (if using these libraries for LLMs).
     

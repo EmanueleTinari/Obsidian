@@ -1,11 +1,22 @@
 ---
 creato: 2025/07/10 16:56:05
-modificato: 2025/07/11 21:44:31
+modificato: 2025/09/29 15:20:40
 ---
+
+# OPERAZIONI QUOTIDIANE
+<br>
+
+> [!info]- - [ ] Capitolo della Sacra Bibbia
+
+> [!info]- - [x] Documento papa Leone XIV
+
+> [!info]- - [ ] Documento pontefice passato
 
 > [!info]- - [ ] Canti per le Liturgie
 
-> [!info]- - [ ] Messaggi
+> [!info]- - [ ] Messaggi Medjugorje
+
+> [!info]- - [ ] Santo
 
 > [!info]- - [ ] Santi del giorno
 >

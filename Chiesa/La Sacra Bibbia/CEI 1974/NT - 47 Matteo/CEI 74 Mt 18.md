@@ -66,7 +66,7 @@ Versione C.E.I. 1974:
 ###### 6
 <span class=vrs>6</span>Chi invece scandalizza anche uno solo di questi piccoli che credono in me, sarebbe meglio per lui che gli fosse appesa al collo una macina girata da asino, e fosse gettato negli abissi del mare.
 ###### 7
-<span class=vrs>7</span>Guai al mondo per gli scandali! È inevitabile che avvengano scandali, ma guai all'uomo per colpa del quale avviene lo scandalo!
+<span class=vrs>7</span>Guai al mondo per gli scandali! È inevitabile che avvengano scandali, ma guai all’uomo per colpa del quale avviene lo scandalo!
 ###### 8
 <span class=vrs>8</span>Se la tua mano o il tuo piede ti è occasione di scandalo, taglialo e gettalo via da te; è meglio per te entrare nella vita monco o zoppo, che avere due mani o due piedi ed essere gettato nel fuoco eterno.
 ###### 9
@@ -74,7 +74,7 @@ Versione C.E.I. 1974:
 ###### 10
 <span class=vrs>10</span>Guardatevi dal disprezzare uno solo di questi piccoli, perché vi dico che i loro angeli nel cielo vedono sempre la faccia del Padre mio che è nei cieli.
 ###### 11
-<span class=vrs>11</span>[È venuto infatti il Figlio dell'uomo a salvare ciò che era perduto].
+<span class=vrs>11</span>[È venuto infatti il Figlio dell’uomo a salvare ciò che era perduto].
 ###### 12
 <span class=vrs>12</span>Che ve ne pare? Se un uomo ha cento pecore e ne smarrisce una, non lascerà forse le novantanove sui monti, per andare in cerca di quella perduta?
 ###### 13
@@ -86,7 +86,7 @@ Versione C.E.I. 1974:
 ###### 16
 <span class=vrs>16</span>se non ti ascolterà, prendi con te una o due persone, perché ogni cosa sia risolta sulla parola di due o tre testimoni.
 ###### 17
-<span class=vrs>17</span>Se poi non ascolterà neppure costoro, dillo all'assemblea; e se non ascolterà neanche l'assemblea, sia per te come un pagano e un pubblicano.
+<span class=vrs>17</span>Se poi non ascolterà neppure costoro, dillo all’assemblea; e se non ascolterà neanche l’assemblea, sia per te come un pagano e un pubblicano.
 ###### 18
 <span class=vrs>18</span>In verità vi dico: tutto quello che legherete sopra la terra sarà legato anche in cielo e tutto quello che scioglierete sopra la terra sarà sciolto anche in cielo.
 ###### 19
@@ -114,9 +114,9 @@ Versione C.E.I. 1974:
 ###### 30
 <span class=vrs>30</span>Ma egli non volle esaudirlo, andò e lo fece gettare in carcere, fino a che non avesse pagato il debito.
 ###### 31
-<span class=vrs>31</span>Visto quel che accadeva, gli altri servi furono addolorati e andarono a riferire al loro padrone tutto l'accaduto.
+<span class=vrs>31</span>Visto quel che accadeva, gli altri servi furono addolorati e andarono a riferire al loro padrone tutto l’accaduto.
 ###### 32
-<span class=vrs>32</span>Allora il padrone fece chiamare quell'uomo e gli disse: Servo malvagio, io ti ho condonato tutto il debito perché mi hai pregato.
+<span class=vrs>32</span>Allora il padrone fece chiamare quell’uomo e gli disse: Servo malvagio, io ti ho condonato tutto il debito perché mi hai pregato.
 ###### 33
 <span class=vrs>33</span>Non dovevi forse anche tu aver pietà del tuo compagno, così come io ho avuto pietà di te?
 ###### 34

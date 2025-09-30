@@ -625,7 +625,7 @@ arrVers = [
     ['Numero libro','1', 'Testamento','Antico Testamento', 'Gruppo','Il Pentateuco', 'Nome libro IT','Genesi','AbbrIT','Gn;Gen;Ge','Nome libro LT','Liber Genesis','AbbrLT','Gen','Nome libro EN','Genesis','AbbrEN','Gen'],
     ['Numero libro','2', 'Testamento','Antico Testamento', 'Gruppo','Il Pentateuco', 'Nome libro IT','Esodo','AbbrIT','Es;Eso;Eo','Nome libro LT','Liber Exodus','AbbrLT','Ex','Nome libro EN','Exodus','AbbrEN','Exod'],
     ['Numero libro','3', 'Testamento','Antico Testamento', 'Gruppo','Il Pentateuco', 'Nome libro IT','Levitico','AbbrIT','Lv;Le','Nome libro LT','Liber Leviticus','AbbrLT','Lev','Nome libro EN','Leviticus','AbbrEN','Lev'],
-    ['Numero libro','4', 'Testamento','Antico Testamento', 'Gruppo','Il Pentateuco', 'Nome libro IT','Numeri','AbbrIT','Nm;Nu','Nome libro LT','Liber Numeri','AbbrLT','Num','Nome libro EN','Numbers','AbbrEN','Nun'],
+    ['Numero libro','4', 'Testamento','Antico Testamento', 'Gruppo','Il Pentateuco', 'Nome libro IT','Numeri','AbbrIT','Nm;NÙ,'Nome libro LT','Liber Numeri','AbbrLT','Num','Nome libro EN','Numbers','AbbrEN','Nun'],
     ['Numero libro','5', 'Testamento','Antico Testamento', 'Gruppo','Il Pentateuco', 'Nome libro IT','Deuteronomio','AbbrIT','Dt;Deut;De','Nome libro LT','Liber Deuteronomii','AbbrLT','Deut','Nome libro EN','Deuteronomy','AbbrEN','Deut'],
 
 L'array inviato non è completo né come puoi vedere, chiuso. L'import lo richiama totalmente, è per farti capire come è strutturato e dove trovare i dati richiesti.

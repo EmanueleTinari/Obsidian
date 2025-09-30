@@ -58,11 +58,11 @@ Versione C.E.I. 1974:
 ###### 2
 <span class=vrs>2</span>Ma egli rispose: "Quando si fa sera, voi dite: Bel tempo, perché il cielo rosseggia;
 ###### 3
-<span class=vrs>3</span>e al mattino: Oggi burrasca, perché il cielo è rosso cupo. Sapete dunque interpretare l'aspetto del cielo e non sapete distinguere i segni dei tempi?
+<span class=vrs>3</span>e al mattino: Oggi burrasca, perché il cielo è rosso cupo. Sapete dunque interpretare l’aspetto del cielo e non sapete distinguere i segni dei tempi?
 ###### 4
 <span class=vrs>4</span>Una generazione perversa e adultera cerca un segno, ma nessun segno le sarà dato se non il segno di Giona". E lasciatili, se ne andò.
 ###### 5
-<span class=vrs>5</span>Nel passare però all'altra riva, i discepoli avevano dimenticato di prendere il pane.
+<span class=vrs>5</span>Nel passare però all’altra riva, i discepoli avevano dimenticato di prendere il pane.
 ###### 6
 <span class=vrs>6</span>Gesù disse loro: "Fate bene attenzione e guardatevi dal lievito dei farisei e dei sadducei".
 ###### 7
@@ -78,7 +78,7 @@ Versione C.E.I. 1974:
 ###### 12
 <span class=vrs>12</span>Allora essi compresero che egli non aveva detto che si guardassero dal lievito del pane, ma dalla dottrina dei farisei e dei sadducei.
 ###### 13
-<span class=vrs>13</span>Essendo giunto Gesù nella regione di Cesarèa di Filippo, chiese ai suoi discepoli: "La gente chi dice che sia il Figlio dell'uomo?".
+<span class=vrs>13</span>Essendo giunto Gesù nella regione di Cesarèa di Filippo, chiese ai suoi discepoli: "La gente chi dice che sia il Figlio dell’uomo?".
 ###### 14
 <span class=vrs>14</span>Risposero: "Alcuni Giovanni il Battista, altri Elia, altri Geremia o qualcuno dei profeti".
 ###### 15
@@ -86,7 +86,7 @@ Versione C.E.I. 1974:
 ###### 16
 <span class=vrs>16</span>Rispose Simon Pietro: "Tu sei il Cristo, il Figlio del Dio vivente".
 ###### 17
-<span class=vrs>17</span>E Gesù: "Beato te, Simone figlio di Giona, perché né la carne né il sangue te l'hanno rivelato, ma il Padre mio che sta nei cieli.
+<span class=vrs>17</span>E Gesù: "Beato te, Simone figlio di Giona, perché né la carne né il sangue te l’hanno rivelato, ma il Padre mio che sta nei cieli.
 ###### 18
 <span class=vrs>18</span>E io ti dico: Tu sei Pietro e su questa pietra edificherò la mia chiesa e le porte degli inferi non prevarranno contro di essa.
 ###### 19
@@ -104,9 +104,9 @@ Versione C.E.I. 1974:
 ###### 25
 <span class=vrs>25</span>Perché chi vorrà salvare la propria vita, la perderà; ma chi perderà la propria vita per causa mia, la troverà.
 ###### 26
-<span class=vrs>26</span>Qual vantaggio infatti avrà l'uomo se guadagnerà il mondo intero, e poi perderà la propria anima? O che cosa l'uomo potrà dare in cambio della propria anima?
+<span class=vrs>26</span>Qual vantaggio infatti avrà l’uomo se guadagnerà il mondo intero, e poi perderà la propria anima? O che cosa l’uomo potrà dare in cambio della propria anima?
 ###### 27
-<span class=vrs>27</span>Poiché il Figlio dell'uomo verrà nella gloria del Padre suo, con i suoi angeli, e renderà a ciascuno secondo le sue azioni. In verità vi dico: vi sono alcuni tra i presenti che non morranno finché non vedranno il Figlio dell'uomo venire nel suo regno".
+<span class=vrs>27</span>Poiché il Figlio dell’uomo verrà nella gloria del Padre suo, con i suoi angeli, e renderà a ciascuno secondo le sue azioni. In verità vi dico: vi sono alcuni tra i presenti che non morranno finché non vedranno il Figlio dell’uomo venire nel suo regno".
 
 ***
 

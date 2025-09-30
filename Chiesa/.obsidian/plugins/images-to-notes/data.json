@@ -1,11 +1,14 @@
 {
   "provider": "openai",
   "openaiApiKey": "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",
+  "openaiBaseUrl": "https://api.openai.com",
   "anthropicApiKey": "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",
   "googleApiKey": "AIzaSyCMPXdtGG6Fxc7PeY1fcEk9mqfS2h-ZEDw",
+  "mistralApiKey": "",
   "openaiModel": "gpt-4.1-mini",
   "anthropicModel": "claude-3-7-sonnet-latest",
   "googleModel": "gemini-2.0-flash",
+  "mistralModel": "mistral-medium-2508",
   "systemPrompt": "You are an expert at transcribing handwritten notes and typed text from images. Convert the image content to clean markdown format, preserving the structure and organization of the original notes.",
   "userPrompt": "Please transcribe all text visible in this image into markdown format.\nPreserve the structure, headings, lists, and any other formatting from the original text.\nDo not add any mention or indication that the transcript is in markdown format at the beginning of the document.\nJoin all text in a single line.\nSepare every dot (.), question mark (?) or Exclamation point (!) with the same char, a <br> tag without any space after.\nEvery line of divided word (-) eliminate it and join all letters of the word.\nEnd paragraph with a end line char and start a new line.\nDo not retrieve any internet link or price in text.",
   "noteNamingOption": "image-name",
@@ -101,5 +104,6 @@
   "specificImageFolderPath": "_00 - OCR/Immagini già elaborate",
   "noteDestinationOption": "specificFolder",
   "specificNoteFolderPath": "_00 - OCR/File MD creati con OCR",
-  "includeImageInNote": true
+  "includeImageInNote": true,
+  "transcriptionPlacement": "above"
 }

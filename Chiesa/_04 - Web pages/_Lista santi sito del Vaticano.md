@@ -1,7 +1,7 @@
 
 da: https://www.vatican.va/roman_curia/pontifical_academies/cult-martyrum/martiri/009.html#luglio%7CLa
 
-# EVIDENZIATI I SANTI GIA' PRESENTI NELLA CARTELLA SANTI - A, B, C, ...
+# EVIDENZIATI I SANTI GIÀ PRESENTI NELLA CARTELLA SANTI - A, B, C, ...
 
 
 **GENNAIO.**  
@@ -184,7 +184,7 @@ Nel villaggio di Rodez in Francia, ricordo di S. Tarsicia, vergine e martire.
 Nei pressi di Saint-Gilles sul Rodano, in Provenza, ricordo del B. Pietro da Castelnau, presbitero e martire, il quale, entrato nel monastero cistercense di Fontfroide, fu scelto da papa Innocenzo III per evangelizzare e diffondere la fede in Provenza, dove morì trafitto dalla lancia degli eretici.
 
 **S. Francesco Fernandez de Capillas**  
-Nella città di Fu'an, nella provincia di Fujian in Cina, ricordo di S. Francesco Fernandez de Capillas, presbitero dell'Ordine dei Frati Predicatori e martire, il quale, poiché aveva portato il nome di Cristo nelle Filippine e quindi nel Fujian, proprio lì durante la persecuzione dei Tatari venne a lungo incarcerato ed infine decapitato.
+Nella città di FÙan, nella provincia di Fujian in Cina, ricordo di S. Francesco Fernandez de Capillas, presbitero dell'Ordine dei Frati Predicatori e martire, il quale, poiché aveva portato il nome di Cristo nelle Filippine e quindi nel Fujian, proprio lì durante la persecuzione dei Tatari venne a lungo incarcerato ed infine decapitato.
 
   
 **16 gennaio.**

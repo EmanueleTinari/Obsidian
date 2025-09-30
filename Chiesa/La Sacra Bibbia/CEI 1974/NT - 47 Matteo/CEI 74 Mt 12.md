@@ -60,25 +60,25 @@ Versione C.E.I. 1974:
 ###### 3
 <span class=vrs>3</span>Ed egli rispose: "Non avete letto quello che fece Davide quando ebbe fame insieme ai suoi compagni?
 ###### 4
-<span class=vrs>4</span>Come entrò nella casa di Dio e mangiarono i pani dell'offerta, che non era lecito mangiare né a lui né ai suoi compagni, ma solo ai sacerdoti?
+<span class=vrs>4</span>Come entrò nella casa di Dio e mangiarono i pani dell’offerta, che non era lecito mangiare né a lui né ai suoi compagni, ma solo ai sacerdoti?
 ###### 5
 <span class=vrs>5</span>O non avete letto nella Legge che nei giorni di sabato i sacerdoti nel tempio infrangono il sabato e tuttavia sono senza colpa?
 ###### 6
-<span class=vrs>6</span>Ora io vi dico che qui c'è qualcosa più grande del tempio.
+<span class=vrs>6</span>Ora io vi dico che qui c’è qualcosa più grande del tempio.
 ###### 7
 <span class=vrs>7</span>Se aveste compreso che cosa significa: Misericordia io voglio e non sacrificio, non avreste condannato persone senza colpa.
 ###### 8
-<span class=vrs>8</span>Perché il Figlio dell'uomo è signore del sabato".
+<span class=vrs>8</span>Perché il Figlio dell’uomo è signore del sabato".
 ###### 9
 <span class=vrs>9</span>Allontanatosi di là, andò nella loro sinagoga.
 ###### 10
-<span class=vrs>10</span>Ed ecco, c'era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "È permesso curare di sabato?". Dicevano ciò per accusarlo.
+<span class=vrs>10</span>Ed ecco, c’era un uomo che aveva una mano inaridita, ed essi chiesero a Gesù: "È permesso curare di sabato?". Dicevano ciò per accusarlo.
 ###### 11
-<span class=vrs>11</span>Ed egli disse loro: "Chi tra voi, avendo una pecora, se questa gli cade di sabato in una fossa, non l'afferra e la tira fuori?
+<span class=vrs>11</span>Ed egli disse loro: "Chi tra voi, avendo una pecora, se questa gli cade di sabato in una fossa, non l’afferra e la tira fuori?
 ###### 12
 <span class=vrs>12</span>Ora, quanto è più prezioso un uomo di una pecora! Perciò è permesso fare del bene anche di sabato".
 ###### 13
-<span class=vrs>13</span>E rivolto all'uomo, gli disse: "Stendi la mano". Egli la stese, e quella ritornò sana come l'altra.
+<span class=vrs>13</span>E rivolto all’uomo, gli disse: "Stendi la mano". Egli la stese, e quella ritornò sana come l’altra.
 ###### 14
 <span class=vrs>14</span>I farisei però, usciti, tennero consiglio contro di lui per toglierlo di mezzo.
 ###### 15
@@ -110,19 +110,19 @@ Versione C.E.I. 1974:
 ###### 28
 <span class=vrs>28</span>Ma se io scaccio i demòni per virtù dello Spirito di Dio, è certo giunto fra voi il regno di Dio.
 ###### 29
-<span class=vrs>29</span>Come potrebbe uno penetrare nella casa dell'uomo forte e rapirgli le sue cose, se prima non lo lega? Allora soltanto gli potrà saccheggiare la casa.
+<span class=vrs>29</span>Come potrebbe uno penetrare nella casa dell’uomo forte e rapirgli le sue cose, se prima non lo lega? Allora soltanto gli potrà saccheggiare la casa.
 ###### 30
 <span class=vrs>30</span>Chi non è con me è contro di me, e chi non raccoglie con me, disperde.
 ###### 31
 <span class=vrs>31</span>Perciò io vi dico: Qualunque peccato e bestemmia sarà perdonata agli uomini, ma la bestemmia contro lo Spirito non sarà perdonata.
 ###### 32
-<span class=vrs>32</span>A chiunque parlerà male del Figlio dell'uomo sarà perdonato; ma la bestemmia contro lo Spirito, non gli sarà perdonata né in questo secolo, né in quello futuro.
+<span class=vrs>32</span>A chiunque parlerà male del Figlio dell’uomo sarà perdonato; ma la bestemmia contro lo Spirito, non gli sarà perdonata né in questo secolo, né in quello futuro.
 ###### 33
-<span class=vrs>33</span>Se prendete un albero buono, anche il suo frutto sarà buono; se prendete un albero cattivo, anche il suo frutto sarà cattivo: dal frutto infatti si conosce l'albero.
+<span class=vrs>33</span>Se prendete un albero buono, anche il suo frutto sarà buono; se prendete un albero cattivo, anche il suo frutto sarà cattivo: dal frutto infatti si conosce l’albero.
 ###### 34
 <span class=vrs>34</span>Razza di vipere, come potete dire cose buone, voi che siete cattivi? Poiché la bocca parla dalla pienezza del cuore.
 ###### 35
-<span class=vrs>35</span>L'uomo buono dal suo buon tesoro trae cose buone, mentre l'uomo cattivo dal suo cattivo tesoro trae cose cattive.
+<span class=vrs>35</span>L’uomo buono dal suo buon tesoro trae cose buone, mentre l’uomo cattivo dal suo cattivo tesoro trae cose cattive.
 ###### 36
 <span class=vrs>36</span>Ma io vi dico che di ogni parola infondata gli uomini renderanno conto nel giorno del giudizio;
 ###### 37
@@ -132,17 +132,17 @@ Versione C.E.I. 1974:
 ###### 39
 <span class=vrs>39</span>"Una generazione perversa e adultera pretende un segno! Ma nessun segno le sarà dato, se non il segno di Giona profeta.
 ###### 40
-<span class=vrs>40</span>Come infatti Giona rimase tre giorni e tre notti nel ventre del pesce, così il Figlio dell'uomo resterà tre giorni e tre notti nel cuore della terra.
+<span class=vrs>40</span>Come infatti Giona rimase tre giorni e tre notti nel ventre del pesce, così il Figlio dell’uomo resterà tre giorni e tre notti nel cuore della terra.
 ###### 41
-<span class=vrs>41</span>Quelli di Nìnive si alzeranno a giudicare questa generazione e la condanneranno, perché essi si convertirono alla predicazione di Giona. Ecco, ora qui c'è più di Giona!
+<span class=vrs>41</span>Quelli di Nìnive si alzeranno a giudicare questa generazione e la condanneranno, perché essi si convertirono alla predicazione di Giona. Ecco, ora qui c’è più di Giona!
 ###### 42
-<span class=vrs>42</span>La regina del sud si leverà a giudicare questa generazione e la condannerà, perché essa venne dall'estremità della terra per ascoltare la sapienza di Salomone; ecco, ora qui c'è più di Salomone!
+<span class=vrs>42</span>La regina del sud si leverà a giudicare questa generazione e la condannerà, perché essa venne dall’estremità della terra per ascoltare la sapienza di Salomone; ecco, ora qui c’è più di Salomone!
 ###### 43
 <span class=vrs>43</span>Quando lo spirito immondo esce da un uomo, se ne va per luoghi aridi cercando sollievo, ma non ne trova.
 ###### 44
 <span class=vrs>44</span>Allora dice: Ritornerò alla mia abitazione, da cui sono uscito. E tornato la trova vuota, spazzata e adorna.
 ###### 45
-<span class=vrs>45</span>Allora va, si prende sette altri spiriti peggiori ed entra a prendervi dimora; e la nuova condizione di quell'uomo diventa peggiore della prima. Così avverrà anche a questa generazione perversa".
+<span class=vrs>45</span>Allora va, si prende sette altri spiriti peggiori ed entra a prendervi dimora; e la nuova condizione di quell’uomo diventa peggiore della prima. Così avverrà anche a questa generazione perversa".
 ###### 46
 <span class=vrs>46</span>Mentre egli parlava ancora alla folla, sua madre e i suoi fratelli, stando fuori in disparte, cercavano di parlargli.
 ###### 47

@@ -1,7 +1,7 @@
 ---
 cssclass: chatGPT
 creato: 2025/07/30 15:51:28
-modificato: 2025/07/30 15:51:28
+modificato: 2025/09/14 02:04:35
 ---
 
 # Correzioni script scarica_nv_02
@@ -88,7 +88,7 @@ def estrai_capitoli(html_text):
 
     # Il contenuto dei capitoli è dentro <div class="capitoli"> oppure similare
     # Nova Vulgata Esodo ha tutte le sezioni in <h3> Capitolo X
-    # Ogni versetto dentro <p> o <span> con class "versetto" o simile
+    # Ogni versetto dentro <p> o  con class "versetto" o simile
 
     capitoli = []
 

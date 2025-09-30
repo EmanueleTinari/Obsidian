@@ -63,7 +63,7 @@ Versione C.E.I. 1974:
 ###### 1
 <span class=vrs>1</span>In principio Dio creò il cielo e la terra. [^ftn_cei74_gn1,1]
 ###### 2
-<span class=vrs>2</span>La terra era informe e deserta e le tenebre ricoprivano l'abisso e lo spirito di Dio aleggiava sulle acque.
+<span class=vrs>2</span>La terra era informe e deserta e le tenebre ricoprivano l’abisso e lo spirito di Dio aleggiava sulle acque.
 ###### 3
 <span class=vrs>3</span>Dio disse: "Sia la luce!". E la luce fu.
 ###### 4
@@ -77,9 +77,9 @@ Versione C.E.I. 1974:
 ###### 8
 <span class=vrs>8</span>Dio chiamò il firmamento cielo. E fu sera e fu mattina: secondo giorno.
 ###### 9
-<span class=vrs>9</span>Dio disse: "Le acque che sono sotto il cielo, si raccolgano in un solo luogo e appaia l'asciutto". E così avvenne.
+<span class=vrs>9</span>Dio disse: "Le acque che sono sotto il cielo, si raccolgano in un solo luogo e appaia l’asciutto". E così avvenne.
 ###### 10
-<span class=vrs>10</span>Dio chiamò l'asciutto terra e la massa delle acque mare. E Dio vide che era cosa buona.
+<span class=vrs>10</span>Dio chiamò l’asciutto terra e la massa delle acque mare. E Dio vide che era cosa buona.
 ###### 11
 <span class=vrs>11</span>E Dio disse: "La terra produca germogli, erbe che producono seme e alberi da frutto, che facciano sulla terra frutto con il seme, ciascuno secondo la sua specie". E così avvenne:
 ###### 12
@@ -112,12 +112,12 @@ Versione C.E.I. 1974:
 <span class=vrs>24</span>Dio disse: "La terra produca esseri viventi secondo la loro specie: bestiame, rettili e bestie selvatiche secondo la loro specie". E così avvenne:
 ###### 25
 <span class=vrs>25</span>Dio fece le bestie selvatiche secondo la loro specie e il bestiame secondo la propria specie e tutti i rettili del suolo secondo la loro specie. E Dio vide che era cosa buona.
-##### Creazione dell'uomo.
+##### Creazione dell’uomo.
 
 ###### 26
-<span class=vrs>26</span>E Dio disse: "Facciamo l'uomo a nostra immagine, a nostra somiglianza, e domini sui pesci del mare e sugli uccelli del cielo, sul bestiame, su tutte le bestie selvatiche e su tutti i rettili che strisciano sulla terra". [^ftn_cei74_gn1,26]
+<span class=vrs>26</span>E Dio disse: "Facciamo l’uomo a nostra immagine, a nostra somiglianza, e domini sui pesci del mare e sugli uccelli del cielo, sul bestiame, su tutte le bestie selvatiche e su tutti i rettili che strisciano sulla terra". [^ftn_cei74_gn1,26]
 ###### 27
-<span class=vrs>27</span>Dio creò l'uomo a sua immagine;<br>a immagine di Dio lo creò;<br>maschio e femmina li creò. [^ftn_cei74_gn1,27]
+<span class=vrs>27</span>Dio creò l’uomo a sua immagine;<br>a immagine di Dio lo creò;<br>maschio e femmina li creò. [^ftn_cei74_gn1,27]
 ###### 28
 <span class=vrs>28</span>Dio li benedisse e disse loro:<br>"Siate fecondi e moltiplicatevi,<br>riempite la terra;<br>soggiogatela e dominate<br>sui pesci del mare<br>e sugli uccelli del cielo<br>e su ogni essere vivente,<br>che striscia sulla terra".
 ###### 29

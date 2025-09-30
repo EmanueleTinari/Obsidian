@@ -1,5 +1,7 @@
 ---
 cssclasses: docVat
+progr-doc: 5
+num-doc: 5
 autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: In suprema universalis
@@ -27,11 +29,11 @@ modificato: 2025/08/28 23:12:35
 
 ***
 
-Breve `class: tipo-documento`
+Breve `class: tipoDoc`
 
-del sommo pontefice `class: tipo-autorita`
+del sommo pontefice `class: tipoAut`
 
-Benedetto XIV `class: nome-autorita`
+Benedetto XIV `class: nomeAut`
 
 
 # In suprema universalis
@@ -47,25 +49,25 @@ Noi, benché senza alcun merito, per l’ineffabile ricchezza della bontà divin
 
 ###### 1.
 
-A questo proposito abbiamo saputo che alcuni, con una logica tutta umana, degna soltanto di coloro che rifuggono dalla penitenza cristiana, cercano di persuadere se stessi e gli altri che il pasto unico, senza aggiunta di refezioni con cibi consentiti e non consentiti, si deve osservare soprattutto quando, per un’urgente e gravissima necessità, è dispensata indistintamente una moltitudine di persone, non già quando, per giusta causa e per consiglio dell’uno e dell’altro medico, sono dispensati i singoli. `class: paragrafo-normale`
+A questo proposito abbiamo saputo che alcuni, con una logica tutta umana, degna soltanto di coloro che rifuggono dalla penitenza cristiana, cercano di persuadere se stessi e gli altri che il pasto unico, senza aggiunta di refezioni con cibi consentiti e non consentiti, si deve osservare soprattutto quando, per un’urgente e gravissima necessità, è dispensata indistintamente una moltitudine di persone, non già quando, per giusta causa e per consiglio dell’uno e dell’altro medico, sono dispensati i singoli. `class: paragrafoNorm`
 
 ###### 2.
 
-Per togliere completamente dalla mente di tutti questa convinzione estranea al nostro pensiero, Noi dichiariamo e stabiliamo che tutti coloro ai quali è accaduto di essere dispensati, per qualunque causa, sia indistintamente come moltitudine per un’urgente e gravissima necessità, sia come singoli per un giusto motivo e per consiglio dell’uno e dell’altro medico, nei tempi di Quaresima e in altri tempi dell’anno e nei giorni in cui è proibito l’uso delle carni, delle uova e dei latticini, tutti, nessuno eccettuato, devono osservare l’unico pasto senza aggiunta alcuna di refezioni con cibi consentiti e non consentiti, a meno che non intervenga una certa e rischiosa ragione di malattia ad esigere che si faccia altrimenti.<br>La stessa cosa prescriviamo e comandiamo espressamente ai singoli fedeli dell’uno e dell’altro sesso per mezzo di singole Lettere, sempre in forma di Breve, che danno a loro, a causa della malattia in cui si trovano, il permesso di mangiare durante la santa Quaresima e negli altri giorni consacrati al digiuno. `class: paragrafo-normale`
+Per togliere completamente dalla mente di tutti questa convinzione estranea al nostro pensiero, Noi dichiariamo e stabiliamo che tutti coloro ai quali è accaduto di essere dispensati, per qualunque causa, sia indistintamente come moltitudine per un’urgente e gravissima necessità, sia come singoli per un giusto motivo e per consiglio dell’uno e dell’altro medico, nei tempi di Quaresima e in altri tempi dell’anno e nei giorni in cui è proibito l’uso delle carni, delle uova e dei latticini, tutti, nessuno eccettuato, devono osservare l’unico pasto senza aggiunta alcuna di refezioni con cibi consentiti e non consentiti, a meno che non intervenga una certa e rischiosa ragione di malattia ad esigere che si faccia altrimenti.<br>La stessa cosa prescriviamo e comandiamo espressamente ai singoli fedeli dell’uno e dell’altro sesso per mezzo di singole Lettere, sempre in forma di Breve, che danno a loro, a causa della malattia in cui si trovano, il permesso di mangiare durante la santa Quaresima e negli altri giorni consacrati al digiuno. `class: paragrafoNorm`
 
 ###### 3.
 
-Perciò preghiamo e scongiuriamo nel Signore le Vostre Fraternità ad ammonire premurosamente e paternamente i popoli affidati alle Vostre cure, esortandoli a prendere con sollecitudine la medicina del santo digiuno così adatta a sanare quelle ferite, di cui per umana debolezza ogni uomo è colpito.<br>Avvertiteli che non si tratta di una cosa di poco conto, ma di estrema gravità, cioè di osservare e mantenere il digiuno adatto a purificare anime e corpi.<br>Rianimateli, dunque, con la speranza dei beni celesti, a conseguire i quali le sofferenze del momento presente non sono paragonabili; anzi il momentaneo e leggero incomodo non di tribolazione, ma di una piccola astinenza procura una quantità smisurata di gloria in cielo.<br>Gli atleti che gareggiano sono temperanti in tutto pur di ottenere una corona corruttibile: si vergognino i soldati dell’esercito cristiano così inetti e delicati se rifuggono dalla comunione con la croce di Cristo, il quale fa sperare una corona incorruttibile, preparata per coloro che lottano a dovere.<br>Come auspicio e pegno di tale corona, con grande affetto elargiamo alle Vostre Fraternità l’Apostolica Benedizione da impartirsi, a nome Nostro, anche ai vostri popoli. `class: paragrafo-normale`
+Perciò preghiamo e scongiuriamo nel Signore le Vostre Fraternità ad ammonire premurosamente e paternamente i popoli affidati alle Vostre cure, esortandoli a prendere con sollecitudine la medicina del santo digiuno così adatta a sanare quelle ferite, di cui per umana debolezza ogni uomo è colpito.<br>Avvertiteli che non si tratta di una cosa di poco conto, ma di estrema gravità, cioè di osservare e mantenere il digiuno adatto a purificare anime e corpi.<br>Rianimateli, dunque, con la speranza dei beni celesti, a conseguire i quali le sofferenze del momento presente non sono paragonabili; anzi il momentaneo e leggero incomodo non di tribolazione, ma di una piccola astinenza procura una quantità smisurata di gloria in cielo.<br>Gli atleti che gareggiano sono temperanti in tutto pur di ottenere una corona corruttibile: si vergognino i soldati dell’esercito cristiano così inetti e delicati se rifuggono dalla comunione con la croce di Cristo, il quale fa sperare una corona incorruttibile, preparata per coloro che lottano a dovere.<br>Come auspicio e pegno di tale corona, con grande affetto elargiamo alle Vostre Fraternità l’Apostolica Benedizione da impartirsi, a nome Nostro, anche ai vostri popoli. `class: paragrafoNorm`
 
 ###### 4.
 
-Vogliamo poi che agli estratti, o agli esemplari della presente Lettera, anche stampati, firmati a mano da un notaio pubblico e muniti del sigillo di una persona costituita in dignità ecclesiastica, si presti ovunque la stessa fede che si darebbe e si potrebbe dare alla presente Lettera se fosse esibita o mostrata. `class: paragrafo-normale`
+Vogliamo poi che agli estratti, o agli esemplari della presente Lettera, anche stampati, firmati a mano da un notaio pubblico e muniti del sigillo di una persona costituita in dignità ecclesiastica, si presti ovunque la stessa fede che si darebbe e si potrebbe dare alla presente Lettera se fosse esibita o mostrata. `class: paragrafoNorm`
 
 
-Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il giorno 22 agosto 1741, nel secondo anno del Nostro Pontificato. `class: data-luogo`
+Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il giorno 22 agosto 1741, nel secondo anno del Nostro Pontificato. `class: dataLuogo`
 
-Benedictus XIV `class: firma-centro`
+Benedictus XIV `class: firmaC`
 
 ***
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`

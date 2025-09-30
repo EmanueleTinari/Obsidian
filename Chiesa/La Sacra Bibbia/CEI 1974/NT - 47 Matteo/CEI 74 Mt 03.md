@@ -77,7 +77,7 @@ Versione C.E.I. 1974:
 ###### 6
 <span class=vrs>6</span>e, confessando i loro peccati, si facevano battezzare da lui nel fiume Giordano.
 ###### 7
-<span class=vrs>7</span>Vedendo però molti farisei e sadducei venire al suo battesimo, disse loro: "Razza di vipere! Chi vi ha suggerito di sottrarvi all'ira imminente?
+<span class=vrs>7</span>Vedendo però molti farisei e sadducei venire al suo battesimo, disse loro: "Razza di vipere! Chi vi ha suggerito di sottrarvi all’ira imminente?
 ###### 8
 <span class=vrs>8</span>Fate dunque frutti degni di conversione,
 ###### 9
@@ -95,7 +95,7 @@ Versione C.E.I. 1974:
 ###### 15
 <span class=vrs>15</span>Ma Gesù gli disse: "Lascia fare per ora, poiché conviene che così adempiamo ogni giustizia". Allora Giovanni acconsentì.
 ###### 16
-<span class=vrs>16</span>Appena battezzato, Gesù uscì dall'acqua: ed ecco, si aprirono i cieli ed egli vide lo Spirito di Dio scendere come una colomba e venire su di lui.
+<span class=vrs>16</span>Appena battezzato, Gesù uscì dall’acqua: ed ecco, si aprirono i cieli ed egli vide lo Spirito di Dio scendere come una colomba e venire su di lui.
 ###### 17
 <span class=vrs>17</span>Ed ecco una voce dal cielo che disse: "Questi è il Figlio mio prediletto, nel quale mi sono compiaciuto".
 

@@ -62,13 +62,13 @@ Versione C.E.I. 1974:
 ###### 4
 <span class=vrs>4</span>E mentre seminava una parte del seme cadde sulla strada e vennero gli uccelli e la divorarono.
 ###### 5
-<span class=vrs>5</span>Un'altra parte cadde in luogo sassoso, dove non c'era molta terra; subito germogliò, perché il terreno non era profondo.
+<span class=vrs>5</span>Un’altra parte cadde in luogo sassoso, dove non c’era molta terra; subito germogliò, perché il terreno non era profondo.
 ###### 6
 <span class=vrs>6</span>Ma, spuntato il sole, restò bruciata e non avendo radici si seccò.
 ###### 7
-<span class=vrs>7</span>Un'altra parte cadde sulle spine e le spine crebbero e la soffocarono.
+<span class=vrs>7</span>Un’altra parte cadde sulle spine e le spine crebbero e la soffocarono.
 ###### 8
-<span class=vrs>8</span>Un'altra parte cadde sulla terra buona e diede frutto, dove il cento, dove il sessanta, dove il trenta.
+<span class=vrs>8</span>Un’altra parte cadde sulla terra buona e diede frutto, dove il cento, dove il sessanta, dove il trenta.
 ###### 9
 <span class=vrs>9</span>Chi ha orecchi intenda".
 ###### 10
@@ -76,7 +76,7 @@ Versione C.E.I. 1974:
 ###### 11
 <span class=vrs>11</span>Egli rispose: "Perché a voi è dato di conoscere i misteri del regno dei cieli, ma a loro non è dato.
 ###### 12
-<span class=vrs>12</span>Così a chi ha sarà dato e sarà nell'abbondanza; e a chi non ha sarà tolto anche quello che ha.
+<span class=vrs>12</span>Così a chi ha sarà dato e sarà nell’abbondanza; e a chi non ha sarà tolto anche quello che ha.
 ###### 13
 <span class=vrs>13</span>Per questo parlo loro in parabole: perché pur vedendo non vedono, e pur udendo non odono e non comprendono.
 ###### 14
@@ -86,22 +86,22 @@ Versione C.E.I. 1974:
 ###### 16
 <span class=vrs>16</span>Ma beati i vostri occhi perché vedono e i vostri orecchi perché sentono.
 ###### 17
-<span class=vrs>17</span>In verità vi dico: molti profeti e giusti hanno desiderato vedere ciò che voi vedete, e non lo videro, e ascoltare ciò che voi ascoltate, e non l'udirono!
+<span class=vrs>17</span>In verità vi dico: molti profeti e giusti hanno desiderato vedere ciò che voi vedete, e non lo videro, e ascoltare ciò che voi ascoltate, e non l’udirono!
 ###### 18
 <span class=vrs>18</span>Voi dunque intendete la parabola del seminatore:
 ###### 19
 <span class=vrs>19</span>tutte le volte che uno ascolta la parola del regno e non la comprende, viene il maligno e ruba ciò che è stato seminato nel suo cuore: questo è il seme seminato lungo la strada.
 ###### 20
-<span class=vrs>20</span>Quello che è stato seminato nel terreno sassoso è l'uomo che ascolta la parola e subito l'accoglie con gioia,
+<span class=vrs>20</span>Quello che è stato seminato nel terreno sassoso è l’uomo che ascolta la parola e subito l’accoglie con gioia,
 ###### 21
 <span class=vrs>21</span>ma non ha radice in sé ed è incostante, sicché appena giunge una tribolazione o persecuzione a causa della parola, egli ne resta scandalizzato.
 ###### 22
-<span class=vrs>22</span>Quello seminato tra le spine è colui che ascolta la parola, ma la preoccupazione del mondo e l'inganno della ricchezza soffocano la parola ed essa non dà frutto.
+<span class=vrs>22</span>Quello seminato tra le spine è colui che ascolta la parola, ma la preoccupazione del mondo e l’inganno della ricchezza soffocano la parola ed essa non dà frutto.
 ###### 23
 <span class=vrs>23</span>Quello seminato nella terra buona è colui che ascolta la parola e la comprende; questi dà frutto e produce ora il cento, ora il sessanta, ora il trenta".
 
 ###### 24
-<span class=vrs>24</span>Un'altra parabola espose loro così: "Il regno dei cieli si può paragonare a un uomo che ha seminato del buon seme nel suo campo.
+<span class=vrs>24</span>Un’altra parabola espose loro così: "Il regno dei cieli si può paragonare a un uomo che ha seminato del buon seme nel suo campo.
 ###### 25
 <span class=vrs>25</span>Ma mentre tutti dormivano venne il suo nemico, seminò zizzania in mezzo al grano e se ne andò.
 ###### 26
@@ -113,15 +113,15 @@ Versione C.E.I. 1974:
 ###### 29
 <span class=vrs>29</span>No, rispose, perché non succeda che, cogliendo la zizzania, con essa sradichiate anche il grano.
 ###### 30
-<span class=vrs>30</span>Lasciate che l'una e l'altro crescano insieme fino alla mietitura e al momento della mietitura dirò ai mietitori: Cogliete prima la zizzania e legatela in fastelli per bruciarla; il grano invece riponetelo nel mio granaio".
+<span class=vrs>30</span>Lasciate che l’una e l’altro crescano insieme fino alla mietitura e al momento della mietitura dirò ai mietitori: Cogliete prima la zizzania e legatela in fastelli per bruciarla; il grano invece riponetelo nel mio granaio".
 
 ###### 31
-<span class=vrs>31</span>Un'altra parabola espose loro: "Il regno dei cieli si può paragonare a un granellino di senapa, che un uomo prende e semina nel suo campo.
+<span class=vrs>31</span>Un’altra parabola espose loro: "Il regno dei cieli si può paragonare a un granellino di senapa, che un uomo prende e semina nel suo campo.
 ###### 32
 <span class=vrs>32</span>Esso è il più piccolo di tutti i semi ma, una volta cresciuto, è più grande degli altri legumi e diventa un albero, tanto che vengono gli uccelli del cielo e si annidano fra i suoi rami".
 
 ###### 33
-<span class=vrs>33</span>Un'altra parabola disse loro: "Il regno dei cieli si può paragonare al lievito, che una donna ha preso e impastato con tre misure di farina perché tutta si fermenti".
+<span class=vrs>33</span>Un’altra parabola disse loro: "Il regno dei cieli si può paragonare al lievito, che una donna ha preso e impastato con tre misure di farina perché tutta si fermenti".
 ###### 34
 <span class=vrs>34</span>Tutte queste cose Gesù disse alla folla in parabole e non parlava ad essa se non in parabole,
 ###### 35
@@ -130,15 +130,15 @@ Versione C.E.I. 1974:
 ###### 36
 <span class=vrs>36</span>Poi Gesù lasciò la folla ed entrò in casa; i suoi discepoli gli si accostarono per dirgli: "Spiegaci la parabola della zizzania nel campo".
 ###### 37
-<span class=vrs>37</span>Ed egli rispose: "Colui che semina il buon seme è il Figlio dell'uomo.
+<span class=vrs>37</span>Ed egli rispose: "Colui che semina il buon seme è il Figlio dell’uomo.
 ###### 38
 <span class=vrs>38</span>Il campo è il mondo. Il seme buono sono i figli del regno; la zizzania sono i figli del maligno,
 ###### 39
-<span class=vrs>39</span>e il nemico che l'ha seminata è il diavolo. La mietitura rappresenta la fine del mondo, e i mietitori sono gli angeli.
+<span class=vrs>39</span>e il nemico che l’ha seminata è il diavolo. La mietitura rappresenta la fine del mondo, e i mietitori sono gli angeli.
 ###### 40
 <span class=vrs>40</span>Come dunque si raccoglie la zizzania e si brucia nel fuoco, così avverrà alla fine del mondo.
 ###### 41
-<span class=vrs>41</span>Il Figlio dell'uomo manderà i suoi angeli, i quali raccoglieranno dal suo regno tutti gli scandali e tutti gli operatori di iniquità
+<span class=vrs>41</span>Il Figlio dell’uomo manderà i suoi angeli, i quali raccoglieranno dal suo regno tutti gli scandali e tutti gli operatori di iniquità
 ###### 42
 <span class=vrs>42</span>e li getteranno nella fornace ardente dove sarà pianto e stridore di denti.
 ###### 43

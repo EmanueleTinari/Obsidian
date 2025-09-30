@@ -69,29 +69,29 @@ Versione Nuova Riveduta:
 ###### 4
 <span class=vrs>4</span>Perché si sono infiltrati fra di voi certi uomini (per i quali già da tempo è scritta questa condanna); empi che volgono in dissolutezza la grazia del nostro Dio e negano il nostro unico Padrone e Signore Gesù Cristo.
 ###### 5
-<span class=vrs>5</span>Ora voglio ricordare a voi che avete da tempo conosciuto tutto questo, che il Signore, dopo aver tratto in salvo il popolo dal paese d'Egitto, fece in seguito perire quelli che non credettero.
+<span class=vrs>5</span>Ora voglio ricordare a voi che avete da tempo conosciuto tutto questo, che il Signore, dopo aver tratto in salvo il popolo dal paese d’Egitto, fece in seguito perire quelli che non credettero.
 ###### 6
 <span class=vrs>6</span>Egli ha pure custodito nelle tenebre e in catene eterne, per il gran giorno del giudizio, gli angeli che non conservarono la loro dignità e abbandonarono la loro dimora.
 ###### 7
 <span class=vrs>7</span>Allo stesso modo Sodoma e Gomorra e le città vicine, che si abbandonarono, come loro, alla fornicazione e ai vizi contro natura, sono date come esempio, portando la pena di un fuoco eterno.
 ###### 8
-<span class=vrs>8</span>Ciò nonostante, anche questi visionari contaminano la carne nello stesso modo, disprezzano l'autorità e parlano male delle dignità.
+<span class=vrs>8</span>Ciò nonostante, anche questi visionari contaminano la carne nello stesso modo, disprezzano l’autorità e parlano male delle dignità.
 ###### 9
-<span class=vrs>9</span>Invece, l'arcangelo Michele, quando contendeva con il diavolo disputando per il corpo di Mosè, non osò pronunciare contro di lui un giudizio ingiurioso, ma disse: «Ti sgridi il Signore!»
+<span class=vrs>9</span>Invece, l’arcangelo Michele, quando contendeva con il diavolo disputando per il corpo di Mosè, non osò pronunciare contro di lui un giudizio ingiurioso, ma disse: «Ti sgridi il Signore!»
 ###### 10
 <span class=vrs>10</span>Questi, invece, parlano in maniera oltraggiosa di quello che ignorano, e si corrompono in tutto ciò che sanno per istinto, come bestie prive di ragione.
 ###### 11
 <span class=vrs>11</span>Guai a loro! Perché si sono incamminati per la via di Caino, e per amor di lucro si sono gettati nei traviamenti di Balaam, e sono periti per la ribellione di Core.
 ###### 12
-<span class=vrs>12</span>Essi sono delle macchie nelle vostre agapi quando banchettano con voi senza ritegno, pascendo se stessi; nuvole senza acqua, portate qua e là dai venti; alberi d'autunno senza frutti, due volte morti, sradicati;
+<span class=vrs>12</span>Essi sono delle macchie nelle vostre agapi quando banchettano con voi senza ritegno, pascendo se stessi; nuvole senza acqua, portate qua e là dai venti; alberi d’autunno senza frutti, due volte morti, sradicati;
 ###### 13
-<span class=vrs>13</span>onde furiose del mare, schiumanti la loro bruttura; stelle erranti, a cui è riservata l'oscurità delle tenebre in eterno.
+<span class=vrs>13</span>onde furiose del mare, schiumanti la loro bruttura; stelle erranti, a cui è riservata l’oscurità delle tenebre in eterno.
 ###### 14
 <span class=vrs>14</span>Anche per costoro profetizzò Enoc, settimo dopo Adamo, dicendo: «Ecco, il Signore è venuto con le sue sante miriadi
 ###### 15
 <span class=vrs>15</span>per giudicare tutti; per convincere tutti gli empi in mezzo a loro di tutte le loro opere di empietà che hanno empiamente commesse e di tutti gli insulti che gli empi peccatori hanno pronunciati contro di lui».
 ###### 16
-<span class=vrs>16</span>Sono dei mormoratori, degli scontenti; camminano secondo le loro passioni; la loro bocca proferisce cose incredibilmente gonfie, e circondano d'ammirazione le persone per interesse.
+<span class=vrs>16</span>Sono dei mormoratori, degli scontenti; camminano secondo le loro passioni; la loro bocca proferisce cose incredibilmente gonfie, e circondano d’ammirazione le persone per interesse.
 ###### 17
 <span class=vrs>17</span>Ma voi, carissimi, ricordatevi di ciò che gli apostoli del Signore nostro Gesù Cristo hanno predetto,
 ###### 18
@@ -102,7 +102,7 @@ Versione Nuova Riveduta:
 ###### 20
 <span class=vrs>20</span>Ma voi, carissimi, edificando voi stessi nella vostra santissima fede, pregando mediante lo Spirito Santo,
 ###### 21
-<span class=vrs>21</span>conservatevi nell'amore di Dio, aspettando la misericordia del nostro Signore Gesù Cristo, a vita eterna.
+<span class=vrs>21</span>conservatevi nell’amore di Dio, aspettando la misericordia del nostro Signore Gesù Cristo, a vita eterna.
 ###### 22
 <span class=vrs>22</span>Abbiate pietà di quelli che sono nel dubbio;
 ###### 23

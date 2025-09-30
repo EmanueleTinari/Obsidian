@@ -67,11 +67,11 @@ Versione C.E.I. 1974:
 ###### 1
 <span class=vrs>1</span>Gesù nacque a Betlemme di Giudea, al tempo del re Erode. Alcuni Magi giunsero da oriente a Gerusalemme e domandavano:
 ###### 2
-<span class=vrs>2</span>"Dov'è il re dei Giudei che è nato? Abbiamo visto sorgere la sua stella, e siamo venuti per adorarlo".
+<span class=vrs>2</span>"Dov’è il re dei Giudei che è nato? Abbiamo visto sorgere la sua stella, e siamo venuti per adorarlo".
 ###### 3
-<span class=vrs>3</span>All'udire queste parole, il re Erode restò turbato e con lui tutta Gerusalemme.
+<span class=vrs>3</span>All’udire queste parole, il re Erode restò turbato e con lui tutta Gerusalemme.
 ###### 4
-<span class=vrs>4</span>Riuniti tutti i sommi sacerdoti e gli scribi del popolo, s'informava da loro sul luogo in cui doveva nascere il Messia.
+<span class=vrs>4</span>Riuniti tutti i sommi sacerdoti e gli scribi del popolo, s’informava da loro sul luogo in cui doveva nascere il Messia.
 ###### 5
 <span class=vrs>5</span>Gli risposero: "A Betlemme di Giudea, perché così è scritto per mezzo del profeta:
 ###### 6
@@ -79,7 +79,7 @@ Versione C.E.I. 1974:
 ###### 7
 <span class=vrs>7</span>Allora Erode, chiamati segretamente i Magi, si fece dire con esattezza da loro il tempo in cui era apparsa la stella
 ###### 8
-<span class=vrs>8</span>e li inviò a Betlemme esortandoli: "Andate e informatevi accuratamente del bambino e, quando l'avrete trovato, fatemelo sapere, perché anch'io venga ad adorarlo".
+<span class=vrs>8</span>e li inviò a Betlemme esortandoli: "Andate e informatevi accuratamente del bambino e, quando l’avrete trovato, fatemelo sapere, perché anch’io venga ad adorarlo".
 ###### 9
 <span class=vrs>9</span>Udite le parole del re, essi partirono. Ed ecco la stella, che avevano visto nel suo sorgere, li precedeva, finché giunse e si fermò sopra il luogo dove si trovava il bambino.
 ###### 10
@@ -87,16 +87,16 @@ Versione C.E.I. 1974:
 ###### 11
 <span class=vrs>11</span>Entrati nella casa, videro il bambino con Maria sua madre, e prostratisi lo adorarono. Poi aprirono i loro scrigni e gli offrirono in dono oro, incenso e mirra.
 ###### 12
-<span class=vrs>12</span>Avvertiti poi in sogno di non tornare da Erode, per un'altra strada fecero ritorno al loro paese.
+<span class=vrs>12</span>Avvertiti poi in sogno di non tornare da Erode, per un’altra strada fecero ritorno al loro paese.
 ###### 13
 <span class=vrs>13</span>Essi erano appena partiti, quando un angelo del Signore apparve in sogno a Giuseppe e gli disse: "Alzati, prendi con te il bambino e sua madre e fuggi in Egitto, e resta là finché non ti avvertirò, perché Erode sta cercando il bambino per ucciderlo".
 ###### 14
 <span class=vrs>14</span>Giuseppe, destatosi, prese con sé il bambino e sua madre nella notte e fuggì in Egitto,
 ###### 15
-<span class=vrs>15</span>dove rimase fino alla morte di Erode, perché si adempisse ciò che era stato detto dal Signore per mezzo del profeta: Dall'Egitto ho chiamato il mio figlio.
+<span class=vrs>15</span>dove rimase fino alla morte di Erode, perché si adempisse ciò che era stato detto dal Signore per mezzo del profeta: Dall’Egitto ho chiamato il mio figlio.
 
 ###### 16
-<span class=vrs>16</span>Erode, accortosi che i Magi si erano presi gioco di lui, s'infuriò e mandò ad uccidere tutti i bambini di Betlemme e del suo territorio dai due anni in giù, corrispondenti al tempo su cui era stato informato dai Magi.
+<span class=vrs>16</span>Erode, accortosi che i Magi si erano presi gioco di lui, s’infuriò e mandò ad uccidere tutti i bambini di Betlemme e del suo territorio dai due anni in giù, corrispondenti al tempo su cui era stato informato dai Magi.
 ###### 17
 <span class=vrs>17</span>Allora si adempì quel che era stato detto per mezzo del profeta Geremia:
 ###### 18
@@ -104,9 +104,9 @@ Versione C.E.I. 1974:
 ###### 19
 <span class=vrs>19</span>Morto Erode, un angelo del Signore apparve in sogno a Giuseppe in Egitto
 ###### 20
-<span class=vrs>20</span>e gli disse: "Alzati, prendi con te il bambino e sua madre e và nel paese d'Israele; perché sono morti coloro che insidiavano la vita del bambino".
+<span class=vrs>20</span>e gli disse: "Alzati, prendi con te il bambino e sua madre e và nel paese d’Israele; perché sono morti coloro che insidiavano la vita del bambino".
 ###### 21
-<span class=vrs>21</span>Egli, alzatosi, prese con sé il bambino e sua madre, ed entrò nel paese d'Israele.
+<span class=vrs>21</span>Egli, alzatosi, prese con sé il bambino e sua madre, ed entrò nel paese d’Israele.
 ###### 22
 <span class=vrs>22</span>Avendo però saputo che era re della Giudea Archelào al posto di suo padre Erode, ebbe paura di andarvi. Avvertito poi in sogno, si ritirò nelle regioni della Galilea
 ###### 23

@@ -46,20 +46,20 @@ modificato: 2025/07/09 23:32:47
 
 ---
 
-@ Incollare qui il testo, lasciare 3 righe vuote prima ed una sotto, tra il testo stesso e l'inizio dei punti salienti
+@ Incollare qui il testo, lasciare 3 righe vuote prima ed una sotto, tra il testo stesso e l’inizio dei punti salienti
 
 ***
 
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 01|Marco 1]]:
 
-- L'albero genealogico di Gesù ([[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01#v1-17|Matteo 1,1-17]])
+- L’albero genealogico di Gesù ([[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01#v1-17|Matteo 1,1-17]])
 - Nascita di Gesù ([[La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01#v18-25|Matteo 1,18-25]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 02|Marco 2]]:
 
-- I Re Magi d'Oriente ([[CEI 74 Mt 02#v1-12|Matteo 2,1-12]])
+- I Re Magi d’Oriente ([[CEI 74 Mt 02#v1-12|Matteo 2,1-12]])
 - La fuga in Egitto ([[CEI 74 Mt 02#v13-15|Matteo 2,13-15]])
 - La strage degli innocenti di Erode ([[CEI 74 Mt 02#v16-18|Matteo 2,16-18]])
-- Il ritorno dall'Egitto ([[CEI 74 Mt 02#v19-23|Matteo 2,19-23]])
+- Il ritorno dall’Egitto ([[CEI 74 Mt 02#v19-23|Matteo 2,19-23]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 03|Marco 3]]
 
 - Giovanni Battista ([[CEI 74 Mt 03#v1-12|Matteo 3,1-12]])
@@ -67,7 +67,7 @@ modificato: 2025/07/09 23:32:47
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 04|Marco 4]]
 
 - Tentazioni di Gesù ([[CEI 74 Mt 04#v1-11|Matteo 4,1-11]])
-- L'inizio del ministero di Gesù in Galilea, Gesù a Cafarnao ([[CEI 74 Mt 04#v12-17|Matteo 4,12-17]])
+- L’inizio del ministero di Gesù in Galilea, Gesù a Cafarnao ([[CEI 74 Mt 04#v12-17|Matteo 4,12-17]])
 - La chiamata dei primi discepoli, i primi quattro Apostoli ([[CEI 74 Mt 04#v18-22|Matteo 4,18-22]])
 - Prima predicazione di Gesù ([[CEI 74 Mt 04#v23|Matteo 4,23]])
 - Guarigioni dei malati in Galilea ([[CEI 74 Mt 04#v24-25|Matteo 4,24-25]])
@@ -81,10 +81,10 @@ modificato: 2025/07/09 23:32:47
 	- A proposito di adulterio ([[CEI 74 Mt 05#v27-32|Matteo 6,27-32]])
 	- A proposito dello spergiuro ([[CEI 74 Mt 05#v33-37|Matteo 6,33-37]])
 	- A proposito della vendetta ([[CEI 74 Mt 05#v38-42|Matteo 6,38-42]])
-	- Sull'amare i propri nemici ([[CEI 74 Mt 05#v43-48|Matteo 6,43-48]])
+	- Sull’amare i propri nemici ([[CEI 74 Mt 05#v43-48|Matteo 6,43-48]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 06|Marco 6]]
 
-- A proposito dell'elemosina ([[CEI 74 Mt 06#v1-4|Matteo 6,1-4]])
+- A proposito dell’elemosina ([[CEI 74 Mt 06#v1-4|Matteo 6,1-4]])
 - A proposito della preghiera ([[CEI 74 Mt 06#v5-8|Matteo 6,5-8]])
 - Il Padre nostro ([[CEI 74 Mt 06#v9-15|Matteo 6,9-15]])
 - A proposito del digiuno ([[CEI 74 Mt 06#v16-18|Matteo 6,16-18]])
@@ -103,20 +103,20 @@ modificato: 2025/07/09 23:32:47
 - La suocera di Pietro ([[CEI 74 Mt 08#v14-17|Matteo 8,14-17]])
 - Come seguire Gesù ([[CEI 74 Mt 08#v18-22|Matteo 8,18-22]])
 - La tempesta sedata ([[CEI 74 Mt 08#v23-27|Matteo 8,23-27]])
-- Gl'indemoniati di Gadara ([[CEI 74 Mt 08#v28-34|Matteo 8,28-34]])
+- Gl’indemoniati di Gadara ([[CEI 74 Mt 08#v28-34|Matteo 8,28-34]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 09|Marco 9]]
 - La guarigione di un paralitico ([[CEI 74 Mt 09#v1-8|Matteo 9,1-8]])
 - La vocazione di Matteo e il pranzo con i pubblicani ([[CEI 74 Mt 09#v9-13|Matteo 9,9-13]])
 - Il digiuno cristiano ([[CEI 74 Mt 09#v14-17|Matteo 9,14-17]])
-- La guarigione dell'emorroissa e la resurrezione della figlia di Giairo ([[CEI 74 Mt 09#v18-26|Matteo 9,18-26]])
+- La guarigione dell’emorroissa e la resurrezione della figlia di Giairo ([[CEI 74 Mt 09#v18-26|Matteo 9,18-26]])
 - La guarigione di due ciechi e il muto indemoniato ([[CEI 74 Mt 09#v27-34|Matteo 9,27-34]])
 - Gesù passa predicando: Il grande raccolto ([[CEI 74 Mt 09#v35-38|Matteo 9,35-38]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 10|Marco 10]]
 
 - La chiamata dei Dodici ([[CEI 74 Mt 10#v1-4|Matteo 10,1-4]])
-- L'invio dei dodici: istruzione degli Apostoli  ([[CEI 74 Mt 10#v5-15|Matteo 10,5-15]])
-- L'annuncio delle persecuzioni imminenti ([[CEI 74 Mt 10#v16-27|Matteo 10,16-27]])
-- Paura dell'uomo e timore di Dio ([[CEI 74 Mt 10#v28-33|Matteo 10,28-33]])
+- L’invio dei dodici: istruzione degli Apostoli  ([[CEI 74 Mt 10#v5-15|Matteo 10,5-15]])
+- L’annuncio delle persecuzioni imminenti ([[CEI 74 Mt 10#v16-27|Matteo 10,16-27]])
+- Paura dell’uomo e timore di Dio ([[CEI 74 Mt 10#v28-33|Matteo 10,28-33]])
 - Divisioni per amore di Gesù ([[CEI 74 Mt 10#v34-39|Matteo 10,34-39]])
 - Ingresso per amore di Gesù ([[CEI 74 Mt 10#v40-42|Matteo 10,40-42]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 11|Marco 11]]
@@ -132,7 +132,7 @@ modificato: 2025/07/09 23:32:47
 - Dolcezza di Gesù ([[CEI 74 Mt 12#v15-21|Matteo 12,15-21]])
 - Il potere di Gesù sugli spiriti maligni ([[CEI 74 Mt 12#v22-30|Matteo 12,22-30]])
 - Il peccato contro lo Spirito Santo ([[CEI 74 Mt 12#v31-32|Matteo 12,31-32]])
-- Dell'albero e dei suoi frutti ([[CEI 74 Mt 12#v33-37|Matteo 12,33-37]])
+- Dell’albero e dei suoi frutti ([[CEI 74 Mt 12#v33-37|Matteo 12,33-37]])
 - La richiesta di un segno da parte dei farisei ([[CEI 74 Mt 12#v38-42|Matteo 12,38-42]])
 - Del ritorno dello spirito maligno ([[CEI 74 Mt 12#v43-45|Matteo 12,43-45]])
 - I parenti di Gesù ([[CEI 74 Mt 12#v46-50|Matteo 12,46-50]])
@@ -140,7 +140,7 @@ modificato: 2025/07/09 23:32:47
 
 - Dal seminatore ([[CEI 74 Mt 13#v1-9|Matteo 13,1-9]])
 - Sul significato delle parabole ([[CEI 74 Mt 13#v10-18|Matteo 13,10-18]])
-- L'interpretazione della parabola del seminatore ([[CEI 74 Mt 13#v19-23|Matteo 13,19-23]])
+- L’interpretazione della parabola del seminatore ([[CEI 74 Mt 13#v19-23|Matteo 13,19-23]])
 - Il buon grano e la zizzania ([[CEI 74 Mt 13#v24-30|Matteo 13,24-30]])
 - Il granello di senapa ([[CEI 74 Mt 13#v31-32|Matteo 13,31-32]])
 - Il lievito ([[CEI 74 Mt 13#v33|Matteo 13,33]])
@@ -169,13 +169,13 @@ modificato: 2025/07/09 23:32:47
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 17|Marco 17]]
 
 - La Trasfigurazione di Gesù ([[CEI 74 Mt 17#v1-13|Matteo 17,1-13]])
-- La guarigione di un ragazzo lunatico: L'epilettico guarito ([[CEI 74 Mt 17#v14-21|Matteo 17,14-21]])
+- La guarigione di un ragazzo lunatico: L’epilettico guarito ([[CEI 74 Mt 17#v14-21|Matteo 17,14-21]])
 - Il secondo annuncio della sofferenza e della resurrezione di Gesù: Seconda profezia della passione ([[CEI 74 Mt 17#v22-23|Matteo 17,22-23]])
 - Sul pagamento del tributo per il tempio ([[CEI 74 Mt 17#v24-27|Matteo 17,24-27]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 18|Marco 18]]
 
 - La disputa dei discepoli sul rango ([[CEI 74 Mt 18#v1-5|Matteo 18,1-5]])
-- Messa in guardia contro la tentazione dell'apostasia: Contro lo scandalo ([[CEI 74 Mt 18#v6-11|Matteo 18,6-11]])
+- Messa in guardia contro la tentazione dell’apostasia: Contro lo scandalo ([[CEI 74 Mt 18#v6-11|Matteo 18,6-11]])
 - La pecorella smarrita ([[CEI 74 Mt 18#v12-14|Matteo 18,12-14]])
 - Correzione fraterna ([[CEI 74 Mt 18#v15-17|Matteo 18,15-17]])
 - Il perdono cristiano ([[CEI 74 Mt 18#v18-22|Matteo 18,18-22]])
@@ -194,7 +194,7 @@ modificato: 2025/07/09 23:32:47
 - La guarigione di due ciechi nei pressi di Gerico ([[CEI 74 Mt 20#v29-34|Matteo 20,29-34]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 21|Marco 21]]
 
-- L'ingresso di Gesù a Gerusalemme ([[CEI 74 Mt 21#v1-11|Matteo 21,1-11]])
+- L’ingresso di Gesù a Gerusalemme ([[CEI 74 Mt 21#v1-11|Matteo 21,1-11]])
 - La purificazione del tempio: I profanatori cacciati dal tempio ([[CEI 74 Mt 21#v12-17|Matteo 21,12-17]])
 - Il fico maledetto ([[CEI 74 Mt 21#v18-22|Matteo 21,18-22]])
 - La questione dell’autorità di Gesù ([[CEI 74 Mt 21#v23-27|Matteo 21,23-27]])
@@ -214,10 +214,10 @@ modificato: 2025/07/09 23:32:47
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 24|Marco 24]]
 
 - La fine del tempio ([[CEI 74 Mt 24#v1-2|Matteo 24,1-2]])
-- L'inizio del travaglio ([[CEI 74 Mt 24#v3-8|Matteo 24,3-8]])
+- L’inizio del travaglio ([[CEI 74 Mt 24#v3-8|Matteo 24,3-8]])
 - La grande tribolazione ([[CEI 74 Mt 24#v9-14|Matteo 24,9-14]])
 - Distruzione di Gerusalemme ([[CEI 74 Mt 24#v15-22|Matteo 24,15-22]])
-- La venuta del Figlio dell'uomo: Il ritorno di Cristo ([[CEI 74 Mt 24#v23-41|Matteo 24,23-41]])
+- La venuta del Figlio dell’uomo: Il ritorno di Cristo ([[CEI 74 Mt 24#v23-41|Matteo 24,23-41]])
 - Un invito alla vigilanza ([[CEI 74 Mt 24#v42-44|Matteo 24,42-44]])
 - Del servo fedele e del servo malvagio ([[CEI 74 Mt 24#v45-51|Matteo 24,45-51]])
 ## Punti salienti di [[La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Mc 25|Marco 25]]
@@ -230,10 +230,10 @@ modificato: 2025/07/09 23:32:47
 - Il piano dei sommi sacerdoti e degli anziani ([[CEI 74 Mt 26#v1-5|Matteo 26,1-5]])
 - La cena di Betania ([[CEI 74 Mt 26#v6-13|Matteo 26,6-13]])
 - Il patto di Giuda ([[CEI 74 Mt 26#v14-16|Matteo 26,14-16]])
-- L'Ultima Cena ([[CEI 74 Mt 26#v17-19|Matteo 26,17-19]])
+- L’Ultima Cena ([[CEI 74 Mt 26#v17-19|Matteo 26,17-19]])
 - Il traditore svelato ([[CEI 74 Mt 26#v20-25|Matteo 26,20-25]])
 - Istituzione della SS. Eucaristia ([[CEI 74 Mt 26#v26-29|Matteo 26,26-29]])
-- Gesù predice il rinnegamento di Pietro e l'abbandono dei discepoli ([[CEI 74 Mt 26#v30-35|Matteo 26,30-35]])
+- Gesù predice il rinnegamento di Pietro e l’abbandono dei discepoli ([[CEI 74 Mt 26#v30-35|Matteo 26,30-35]])
 - Gesù nel Getsemani ([[CEI 74 Mt 26#v36-46|Matteo 26,36-46]])
 - Cattura e arresto di Gesù ([[CEI 74 Mt 26#v47-56|Matteo 26,47-56]])
 - Gesù davanti al sinedro ([[CEI 74 Mt 26#v57-68|Matteo 26,57-68]])

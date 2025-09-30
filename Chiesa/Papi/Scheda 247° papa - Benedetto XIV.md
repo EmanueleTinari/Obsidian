@@ -8,19 +8,19 @@ nome-papa: Benedetto XIV
 nome-secolare: Prospero Lorenzo Lambertini
 luogo-nascita: Bologna
 giorno-nascita: 31
-mese-nascita: 03
+mese-nascita: 3
 anno-nascita: 1675
 data-nascita: 1675-03-31
 giorno-elezione: 17
-mese-elezione: 08
+mese-elezione: 8
 anno-elezione: 1740
 data-elezione: 1740-08-17
 giorno-consacr: 25
-mese-consacr: 08
+mese-consacr: 8
 anno-consacr: 1740
 data-consacr: 1740-08-25
-giorno-fine: 03
-mese-fine: 05
+giorno-fine: 3
+mese-fine: 5
 anno-fine: 1758
 fine-pontificato: 1758-05-03
 causa-morte: Decesso
@@ -33,10 +33,14 @@ aliases:
   - Benedetto XIV
   - Benedictus XIV
   - Benedictus PP. XIV
-tags: [Bio, Benedetto_XIV, Scheda, papa]
+tags:
+  - Bio
+  - Benedetto_XIV
+  - Scheda
+  - papa
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 creato: 2025/04/29 23:29:01
-modificato: 2025/07/09 23:33:15
+modificato: 2025/09/14 21:06:19
 ---
 
 ***
@@ -358,58 +362,114 @@ modificato: 2025/07/09 23:33:15
 > [!info]- Foto
 > ![[Benedictus XIV_foto.jpg|Pierre-Hubert Subleyras, Ritratto di papa Benedetto XIV, olio su tela, 1745 ca.; Parigi, museo Condé|200]]
 
-> [!seealso]- Scritti di [[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]:
->> [!seealso]- [[Bolle|Bolle]] 
->> |                    Stato | Progr. | Num | Titolo | Data | File name |
-| :------------------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |
-| <input id="hc-7759" type="checkbox" checked> |     25 |   1 | [[bxiv-bol-ofn\|Officii nostri]] | {{date:15/03/1749}} | [[bxiv-bol-ofn\|bxiv-bol-ofn.md]] |
-| <input id="hc-2700" type="checkbox" checked> |     26 |   2 | [[bxiv-bol-pad\|Peregrinantes a Domino]] | {{date:05/05/1749}} | [[bxiv-bol-pad\|bxiv-bol-pad.md]] |
-| <input id="hc-8668" type="checkbox" checked> |     30 |   3 | [[bxiv-bol-bed\|Benedictus Deus]] | {{date:25/12/1750}} | [[bxiv-bol-bed\|bxiv-bol-bed.md]] |
-| <input id="hc-6859" type="checkbox" checked> |     34 |   4 | [[bxiv-bol-prr\|Providas romanorum]] | {{date:18/03/1751}} | [[bxiv-bol-prr\|bxiv-bol-prr.md]] |
->
->> [!seealso]- [[Brevi|Brevi]] 
->> |                    Stato | Progr. | Num | Titolo | Data | File name |
-| :------------------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |
-| <input id="hc-2276" type="checkbox" checked> |      2 |   1 | [[bxiv-bre-noa\|Non Ambigimus]] | {{date:30/05/1741}} | [[bxiv-bre-noa\|bxiv-bre-noa.md]] |
-|     <input id="hc-5530" type="checkbox" checked> |      3 |   2 | [[bxiv-bre-quc\|Quanta Cura]] | {{date:30/06/1741}} | [[bxiv-bre-quc\|bxiv-bre-quc.md]] |
-|     <input id="hc-4804" type="checkbox"> |      5 |   3 | [[bxiv-bre-isu\|In Suprema Universalis]] | {{date:22/08/1741}} | [[bxiv-bre-isu\|bxiv-bre-isu.md]] |
-|     <input id="hc-3152" type="checkbox"> |     12 |   4 | [[bxiv-bre-nil\|Nimiam Licentiam]] | {{date:18/05/1743}} | [[bxiv-bre-nil\|bxiv-bre-nil.md]] |
-|     <input id="hc-4482" type="checkbox"> |     15 |   5 | [[bxiv-bre-isc\|In Suprema Catholicae]] | {{date:20/11/1744}} | [[bxiv-bre-isc\|bxiv-bre-isc.md]] |
-|     <input id="hc-4091" type="checkbox"> |     16 |   6 | [[bxiv-bre-cmc\|Cum Multorum Charitate]] | {{date:18/02/1745}} | [[bxiv-bre-cmc\|bxiv-bre-cmc.md]] |
-|     <input id="hc-3718" type="checkbox"> |     21 |   7 | [[bxiv-bre-qun\|Quemadmodum Nihil]] | {{date:16/12/1746}} | [[bxiv-bre-qun\|bxiv-bre-qun.md]] |
-|     <input id="hc-5792" type="checkbox"> |     40 |   8 | [[bxiv-bre-qes\|Quam Ex Sublimi]] | {{date:08/08/1755}} | [[bxiv-bre-qes\|bxiv-bre-qes.md]] |
->
->> [!seealso]- [[Lettere encicliche|Lettere Encicliche]] 
->> |                Stato | Progr. | Num | Titolo | Data | File name |
-| :----------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |
-| <input id="hc-9871" type="checkbox" checked> |      1 |   1 | [[bxiv-enc-ubi\|Ubi primum]] | {{date:03/12/1740}} | [[bxiv-enc-ubi\|bxiv-enc-ubi.md]] |
-| <input id="hc-5527" type="checkbox"> |      4 |   2 | [[bxiv-ben-pet\|Pro Eximia Tua]] | {{date:30/06/1741}} | [[bxiv-ben-pet\|bxiv-ben-pet.md]] |
-| <input id="hc-3366" type="checkbox"> |      6 |   3 | [[bxiv-enc-qpa\|Quamvis Paternae]] | {{date:26/08/1741}} | [[bxiv-enc-qpa\|bxiv-enc-qpa.md]] |
-| <input id="hc-2337" type="checkbox"> |      7 |   4 | [[bxiv-enc-svc\|Satis Vobis Compertum]] | {{date:17/11/1741}} | [[bxiv-enc-svc\|bxiv-enc-svc.md]] |
-| <input id="hc-3045" type="checkbox"> |      8 |   5 | [[bxiv-enc-etm\|Etsi Minime]] | {{date:07/02/1742}} | [[bxiv-enc-etm\|bxiv-enc-etm.md]] |
-| <input id="hc-7173" type="checkbox"> |      9 |   6 | [[bxiv-enc-cee\|Certiores Effecti]] | {{date:13/11/1742}} | [[bxiv-enc-cee\|bxiv-enc-cee.md]] |
-| <input id="hc-6633" type="checkbox"> |     10 |   7 | [[bxiv-enc-cis\|Cum Illud Semper]] | {{date:14/12/1742}} | [[bxiv-enc-cis\|bxiv-enc-cis.md]] |
-| <input id="hc-6147" type="checkbox"> |     11 |   8 | [[bxiv-enc-qpr\|Quemadmodum Preces]] | {{date:23/03/1743}} | [[bxiv-enc-qpr\|bxiv-enc-qpr.md]] |
-| <input id="hc-6367" type="checkbox"> |     13 |   9 | [[bxiv-enc-ino\|Inter Omnigenas]] | {{date:02/02/1744}} | [[bxiv-enc-ino\|bxiv-enc-ino.md]] |
-| <input id="hc-5269" type="checkbox"> |     14 |  10 | [[bxiv-enc-cso\|Cum Semper Oblatas]] | {{date:19/08/1744}} | [[bxiv-enc-cso\|bxiv-enc-cso.md]] |
-| <input id="hc-6474" type="checkbox"> |     17 |  11 | [[bxiv-enc-liq\|Libentissime Quidem]] | {{date:10/06/1745}} | [[bxiv-enc-liq\|bxiv-enc-liq.md]] |
-| <input id="hc-5456" type="checkbox"> |     18 |  12 | [[bxiv-enc-grs\|Gravissimum Supremi]] | {{date:08/09/1745}} | [[bxiv-enc-grs\|bxiv-enc-grs.md]] |
-| <input id="hc-7963" type="checkbox"> |     19 |  13 | [[bxiv-enc-vip\|Vix Pervenit]] | {{date:01/11/1745}} | [[bxiv-enc-vip\|bxiv-enc-vip.md]] |
-| <input id="hc-1385" type="checkbox"> |     20 |  14 | [[bxiv-enc-acp\|Accepimus Praestantium]] | {{date:16/07/1746}} | [[bxiv-enc-acp\|bxiv-enc-acp.md]] |
-| <input id="hc-4072" type="checkbox"> |     22 |  15 | [[bxiv-enc-inc\|Inter Caetera]] | {{date:01/01/1748}} | [[bxiv-enc-inc\|bxiv-enc-inc.md]] |
-| <input id="hc-3211" type="checkbox"> |     23 |  16 | [[bxiv-enc-man\|Magnae Nobis]] | {{date:29/06/1748}} | [[bxiv-enc-man\|bxiv-enc-man.md]] |
-| <input id="hc-3891" type="checkbox"> |     24 |  17 | [[bxiv-enc-aqh\|Annus Qui Hunc]] | {{date:19/02/1749}} | [[bxiv-enc-aqh\|bxiv-enc-aqh.md]] |
-| <input id="hc-9622" type="checkbox"> |     27 |  18 | [[bxiv-enc-apc\|Apostolica Constitutio]] | {{date:26/06/1749}} | [[bxiv-enc-apc\|bxiv-enc-apc.md]] |
-| <input id="hc-1539" type="checkbox"> |     28 |  19 | [[bxiv-enc-gra\|Gravissimo Animi]] | {{date:31/10/1749}} | [[bxiv-enc-gra\|bxiv-enc-gra.md]] |
-| <input id="hc-5199" type="checkbox"> |     29 |  20 | [[bxiv-enc-inp\|Inter praeteritos]] | {{date:03/12/1749}} | [[bxiv-enc-inp\|bxiv-enc-inp.md]] |
-| <input id="hc-8815" type="checkbox"> |     31 |  21 | [[bxiv-enc-cem\|Celebrationem Magni]] | {{date:01/01/1751}} | [[bxiv-enc-cem\|bxiv-enc-cem.md]] |
-| <input id="hc-3142" type="checkbox"> |     32 |  22 | [[bxiv-enc-prj\|Prodiit Jamdudum]] | {{date:30/01/1751}} | [[bxiv-enc-prj\|bxiv-enc-prj.md]] |
-| <input id="hc-3913" type="checkbox"> |     33 |  23 | [[bxiv-enc-epa\|Elapso Proxime Anno]] | {{date:20/02/1751}} | [[bxiv-enc-epa\|bxiv-enc-epa.md]] |
-| <input id="hc-1739" type="checkbox"> |     35 |  24 | [[bxiv-enc-mca\|Magno Cum Animi]] | {{date:02/06/1751}} | [[bxiv-enc-mca\|bxiv-enc-mca.md]] |
-| <input id="hc-2673" type="checkbox"> |     36 |  25 | [[bxiv-enc-aqp\|A Quo Primum]] | {{date:14/06/1751}} | [[bxiv-enc-aqp\|bxiv-enc-aqp.md]] |
-| <input id="hc-3265" type="checkbox"> |     37 |  26 | [[bxiv-enc-cra\|Cum Religiosi Aeque]] | {{date:26/06/1754}} | [[bxiv-enc-cra\|bxiv-enc-cra.md]] |
-| <input id="hc-1578" type="checkbox"> |     38 |  27 | [[bxiv-enc-qup\|Quod Provinciale]] | {{date:01/08/1754}} | [[bxiv-enc-qup\|bxiv-enc-qup.md]] |
-| <input id="hc-7146" type="checkbox"> |     39 |  28 | [[bxiv-enc-als\|Allatae Sunt]] | {{date:26/07/1755}} | [[bxiv-enc-als\|bxiv-enc-als.md]] |
-| <input id="hc-4062" type="checkbox"> |     41 |  29 | [[bxiv-enc-eqp\|Ex Quo Primum]] | {{date:01/03/1756}} | [[bxiv-enc-eqp\|bxiv-enc-eqp.md]] |
-| <input id="hc-4319" type="checkbox"> |     42 |  30 | [[bxiv-enc-eoc\|Ex Omnibus Christiani]] | {{date:16/10/1756}} | [[bxiv-enc-eoc\|bxiv-enc-eoc.md]] |
-| <input id="hc-5153" type="checkbox" checked> |     43 |  31 | [[bxiv-enc-qug\|Quam grave]] | {{date:02/08/1757}} | [[bxiv-enc-qug\|bxiv-enc-qug.md]] |
+```dataviewjs
+// Nome del file corrente
+const currentFile = dv.current().file.name;
+// Prende tutti gli alias del file corrente, o fallback al nome del file
+let autoreAliases = dv.current().aliases && dv.current().aliases.length > 0 
+    ? dv.current().aliases 
+    : [currentFile];
+// Funzione per normalizzare autore-doc
+function normalizeAutore(val) {
+    if (!val) return "";
+    if (typeof val === "string") {
+        const match = val.match(/\[\[.*?\|(.*?)\]\]/);
+        return match ? match[1].trim() : val.replace(/\[\[|\]\]/g, "").trim();
+    }
+    if (val && (val.path || val.display)) {
+        return val.display ? val.display.trim() : val.path.trim();
+    }
+    return String(val).trim();
+}
+// Helper per attributi HTML
+function escAttr(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+// Filtra i file nella cartella Documenti per autore-doc
+const allDocs = dv.pages()
+    .where(p => 
+        p.file.ext === "md" &&
+        !p.file.name.startsWith("_") &&
+        p.file.folder && p.file.folder.startsWith("Documenti") &&
+        p["autore-doc"] &&
+        autoreAliases.some(alias => {
+            const ad = p["autore-doc"];
+            if (Array.isArray(ad)) return ad.some(a => normalizeAutore(a) === alias);
+            return normalizeAutore(ad) === alias;
+        })
+    );
+if (allDocs.length === 0) {
+    dv.paragraph(`> [!warning] Nessun documento trovato per ${autoreAliases.join(", ")}`);
+} else {
+    // Raggruppa e ordina tipi-doc
+    const grouped = {};
+    allDocs.forEach(p => {
+        let tipo = p["tipo-doc"] || "Altro";
+        if (!grouped[tipo]) grouped[tipo] = [];
+        grouped[tipo].push(p);
+    });
+    const tipiOrdinati = Object.keys(grouped).sort((a,b) => a.localeCompare(b, undefined, {sensitivity:'base'}));
+    // --- Costruzione blocco unico ---
+    let tableBlock = `> [!seealso]- Scritti di **${autoreAliases[0]}**:\n`;
+    tipiOrdinati.forEach(tipo => {
+        const docs = grouped[tipo].sort((a,b) => a["data-doc"] && b["data-doc"] ? dv.date(a["data-doc"]).epoch - dv.date(b["data-doc"]).epoch : 0);
+        tableBlock += `> > [!seealso]- **${tipo}**\n`; // titolo sotto-callout
+        tableBlock += `> > | Stato | Progr. | Num | Titolo | Data | File name |\n`;
+        tableBlock += `| :------------------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |\n`;
+        docs.forEach((p,index) => {
+            const pathEsc = escAttr(p.file.path);
+            const fnameEsc = escAttr(p.file.name);
+            const statoIcon = p["stato"] === "completato" ? "✅" : "⬜";
+            const progr = (p["progr-doc"] || "").toString().replace(/\|/g,'\\|');
+            const num = index + 1;
+            const titolo = (p["titolo-doc"] || "").toString().replace(/\|/g,'\\|');
+            const dataStr = p["data-doc"] ? dv.date(p["data-doc"]).toFormat("dd-MM-yyyy") : "";
+			const a = `<a href="#" onclick="app.workspace.openLinkText('${p.file.path}','${dv.current().file.path}',false)">${p.file.name}</a>`;
+            tableBlock += `| <span class="dv-autocb" data-path="${pathEsc}" data-fname="${fnameEsc}">${statoIcon}</span> | ${progr} | ${num} | ${titolo} | ${dataStr} | ${a} |\n`;
+        });
+        tableBlock += `> \n`; // chiude sotto-callout
+    });
+    // Una sola chiamata di output alla fine
+    dv.paragraph(tableBlock);
+    // --- Trasformazione checkbox ---
+    setTimeout(async () => {
+        const spans = document.querySelectorAll('.dv-autocb');
+        for (const span of spans) {
+            const path = span.dataset.path;
+            const pages = dv.pages().where(p => p.file.path === path);
+            const page = (pages && pages.length) ? pages[0] : null;
+            const checked = page && page["stato"] === "completato";
+            const cb = document.createElement('input');
+            cb.type = 'checkbox';
+            cb.checked = !!checked;
+            cb.style.marginRight = '6px';
+            cb.addEventListener('change', async () => {
+                try {
+                    const file = await dv.app.vault.getAbstractFileByPath(path);
+                    if(file && file instanceof dv.app.vault.MarkdownFile) {
+                        let content = await dv.app.vault.read(file);
+                        const newVal = cb.checked ? "completato" : "";
+                        const fmRegex = /^---\s*\n([\s\S]*?)\n---\s*\n/;
+                        const fmMatch = content.match(fmRegex);
+                        if(fmMatch) {
+                            let fm = fmMatch[1];
+                            if(/^stato:.*$/m.test(fm)) fm = fm.replace(/^stato:.*$/m, `stato: ${newVal}`);
+                            else fm = `stato: ${newVal}\n` + fm;
+                            const newContent = content.replace(fmRegex, `---\n${fm}\n---\n`);
+                            await dv.app.vault.modify(file, newContent);
+                        } else {
+                            const newContent = `---\nstato: ${newVal}\n---\n` + content;
+                            await dv.app.vault.modify(file, newContent);
+                        }
+                    }
+                } catch(e) { console.error(e); }
+            });
+            span.innerHTML = '';
+            span.appendChild(cb);
+        }
+    }, 200);
+}
+
+```
+
+

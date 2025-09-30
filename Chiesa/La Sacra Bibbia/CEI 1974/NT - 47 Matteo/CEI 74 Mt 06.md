@@ -67,9 +67,9 @@ Versione C.E.I. 1974:
 ###### 1
 <span class=vrs>1</span>Guardatevi dal praticare le vostre buone opere davanti agli uomini per essere da loro ammirati, altrimenti non avrete ricompensa presso il Padre vostro che è nei cieli.
 ###### 2
-<span class=vrs>2</span>Quando dunque fai l'elemosina, non suonare la tromba davanti a te, come fanno gli ipocriti nelle sinagoghe e nelle strade per essere lodati dagli uomini. In verità vi dico: hanno già ricevuto la loro ricompensa.
+<span class=vrs>2</span>Quando dunque fai l’elemosina, non suonare la tromba davanti a te, come fanno gli ipocriti nelle sinagoghe e nelle strade per essere lodati dagli uomini. In verità vi dico: hanno già ricevuto la loro ricompensa.
 ###### 3
-<span class=vrs>3</span>Quando invece tu fai l'elemosina, non sappia la tua sinistra ciò che fa la tua destra,
+<span class=vrs>3</span>Quando invece tu fai l’elemosina, non sappia la tua sinistra ciò che fa la tua destra,
 ###### 4
 <span class=vrs>4</span>perché la tua elemosina resti segreta; e il Padre tuo, che vede nel segreto, ti ricompenserà.
 ###### 5
@@ -105,25 +105,25 @@ Versione C.E.I. 1974:
 ###### 20
 <span class=vrs>20</span>accumulatevi invece tesori nel cielo, dove né tignola né ruggine consumano, e dove ladri non scassinano e non rubano.
 ###### 21
-<span class=vrs>21</span>Perché là dov'è il tuo tesoro, sarà anche il tuo cuore.
+<span class=vrs>21</span>Perché là dov’è il tuo tesoro, sarà anche il tuo cuore.
 ###### 22
-<span class=vrs>22</span>La lucerna del corpo è l'occhio; se dunque il tuo occhio è chiaro, tutto il tuo corpo sarà nella luce;
+<span class=vrs>22</span>La lucerna del corpo è l’occhio; se dunque il tuo occhio è chiaro, tutto il tuo corpo sarà nella luce;
 ###### 23
 <span class=vrs>23</span>ma se il tuo occhio è malato, tutto il tuo corpo sarà tenebroso. Se dunque la luce che è in te è tenebra, quanto grande sarà la tenebra!
 ###### 24
-<span class=vrs>24</span>Nessuno può servire a due padroni: o odierà l'uno e amerà l'altro, o preferirà l'uno e disprezzerà l'altro: non potete servire a Dio e a mammona.
+<span class=vrs>24</span>Nessuno può servire a due padroni: o odierà l’uno e amerà l’altro, o preferirà l’uno e disprezzerà l’altro: non potete servire a Dio e a mammona.
 ###### 25
 <span class=vrs>25</span>Perciò vi dico: per la vostra vita non affannatevi di quello che mangerete o berrete, e neanche per il vostro corpo, di quello che indosserete; la vita forse non vale più del cibo e il corpo più del vestito?
 ###### 26
 <span class=vrs>26</span>Guardate gli uccelli del cielo: non seminano, né mietono, né ammassano nei granai; eppure il Padre vostro celeste li nutre. Non contate voi forse più di loro?
 ###### 27
-<span class=vrs>27</span>E chi di voi, per quanto si dia da fare, può aggiungere un'ora sola alla sua vita?
+<span class=vrs>27</span>E chi di voi, per quanto si dia da fare, può aggiungere un’ora sola alla sua vita?
 ###### 28
 <span class=vrs>28</span>E perché vi affannate per il vestito? Osservate come crescono i gigli del campo: non lavorano e non filano.
 ###### 29
 <span class=vrs>29</span>Eppure io vi dico che neanche Salomone, con tutta la sua gloria, vestiva come uno di loro.
 ###### 30
-<span class=vrs>30</span>Ora se Dio veste così l'erba del campo, che oggi c'è e domani verrà gettata nel forno, non farà assai più per voi, gente di poca fede?
+<span class=vrs>30</span>Ora se Dio veste così l’erba del campo, che oggi c’è e domani verrà gettata nel forno, non farà assai più per voi, gente di poca fede?
 ###### 31
 <span class=vrs>31</span>Non affannatevi dunque dicendo: Che cosa mangeremo? Che cosa berremo? Che cosa indosseremo?
 ###### 32

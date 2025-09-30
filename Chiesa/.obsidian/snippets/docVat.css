@@ -9,7 +9,7 @@
 /***********************************************/
 
 /** TIPO DI DOCUMENTO: MAIUSCOLO, grassetto e centrato **/
-.docVat .tipo-documento {
+.docVat .tipoDoc {
 	color: salmon !important;
 	/** era #630 **/
 	font-size: 1.6rem !important;
@@ -20,7 +20,7 @@
 }
 
 /** TIPO di AUTORITA' che ha emesso il documento: MAIUSCOLO, centrato **/
-.docVat .tipo-autorita {
+.docVat .tipoAut {
 	color: #630 !important;
 	font-size: 1.2rem !important;
 	line-height: 0.5rem;
@@ -30,7 +30,7 @@
 
 /** AUTORE del documento: **/
 /** Testo MAIUSCOLO, centrato e grassetto **/
-.docVat .nome-autorita {
+.docVat .nomeAut {
 	color: #630 !important;
 	font-size: 1.6rem !important;
 	font-weight: bold !important;
@@ -79,7 +79,7 @@
 	vertical-align: top !important;
 }
 
-.docVat .paragrafo-normale {
+.docVat .paragrafoNorm {
 	color: white !important;
 	font-family: Times New Roman, times, serif;
 	font-size: 1.6rem !important;
@@ -94,7 +94,7 @@
 
 /** DATA e LUOGO del documento: **/
 /** Testo corsivo, a sinistra **/
-.docVat .data-luogo {
+.docVat .dataLuogo {
 	color: green !important;
 	font-family: Times New Roman, times, serif;
 	font-size: 1.6rem !important;
@@ -109,7 +109,7 @@
 
 /** FIRMATARIO centrato del documento: **/
 /** Testo MAIUSCOLO, centrato e grassetto **/
-.docVat .firma-centro {
+.docVat .firmaC {
 	color: #630 !important;
 	font-family: Times New Roman, times, serif;
 	font-size: 1.6rem !important;
@@ -234,7 +234,7 @@
 }
 
 /** COPYRIGHT **/
-.docVat .diritti-autore {
+.docVat .dirittiAut {
 	color: #630 !important;
 	font-size: 1.6rem !important;
 	font-weight: bold;

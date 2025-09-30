@@ -1,5 +1,7 @@
 ---
 cssclasses: docVat
+progr-doc: 4
+num-doc: 4
 autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
 tipo-doc: "[[Brevi Encicliche|Breve Enciclica]]"
 titolo-doc: Pro eximia tua
@@ -27,11 +29,11 @@ modificato: 2025/08/28 22:01:00
 
 ***
 
-Breve Enciclica `class: tipo-documento`
+Breve Enciclica `class: tipoDoc`
 
-del sommo pontefice `class: tipo-autorita`
+del sommo pontefice `class: tipoAut`
 
-Benedetto XIV `class: nome-autorita`
+Benedetto XIV `class: nomeAut`
 
 
 # Pro eximia tua
@@ -48,24 +50,24 @@ Per l’esimio tuo spirito religioso ed il rispetto che devi portare alla discip
 
 ###### 1.
 
-Pertanto, se da ciò puoi facilmente dedurre, Venerabile Fratello, la particolare testimonianza di carità verso ciascun Vescovo del Piemonte, così è necessario che grandemente ti adoperi perché, sia per la gravità della situazione, sia a motivo del Nostro intervento, tu ponga ogni sforzo in modo che possiamo congratularci con te della completa estinzione del contagio di mercatura. `class: paragrafo-normale`
+Pertanto, se da ciò puoi facilmente dedurre, Venerabile Fratello, la particolare testimonianza di carità verso ciascun Vescovo del Piemonte, così è necessario che grandemente ti adoperi perché, sia per la gravità della situazione, sia a motivo del Nostro intervento, tu ponga ogni sforzo in modo che possiamo congratularci con te della completa estinzione del contagio di mercatura. `class: paragrafoNorm`
 
 ###### 2.
 
-Se poi la pervicacia delle persone cattive sarà tanto resistente che non siano per nulla preoccupate delle pene comminate dalle medesime Nostre lettere, e ci sia bisogno di ricorrere all’aiuto del Braccio secolare per estirparla, non tralasciare di farlo intervenire, sicuro che ti sarà accanto più volentieri di quanto tu non pensi. `class: paragrafo-normale`
+Se poi la pervicacia delle persone cattive sarà tanto resistente che non siano per nulla preoccupate delle pene comminate dalle medesime Nostre lettere, e ci sia bisogno di ricorrere all’aiuto del Braccio secolare per estirparla, non tralasciare di farlo intervenire, sicuro che ti sarà accanto più volentieri di quanto tu non pensi. `class: paragrafoNorm`
 
 ###### 3.
 
-Sì grande infatti è, e tanto spesso dimostrato dai fatti stessi, l’ossequio verso di Noi e verso questa Apostolica Sede da parte del Nostro Figlio carissimo in Cristo Carlo Emmanuele, illustre Re di Sardegna, che ogni giorno Ci attendiamo maggiori e sicure attestazioni di regale osservanza e di zelo (non solo verso Noi stessi, ma anche verso la Fraternità Tua) per quanto si riferisce alla disciplina ecclesiastica, e di patrocinio verso di Noi.<br><br>Frattanto impartiamo con molta benevolenza l’Apostolica Benedizione alla Tua Fraternità.<br> `class: paragrafo-normale`
+Sì grande infatti è, e tanto spesso dimostrato dai fatti stessi, l’ossequio verso di Noi e verso questa Apostolica Sede da parte del Nostro Figlio carissimo in Cristo Carlo Emmanuele, illustre Re di Sardegna, che ogni giorno Ci attendiamo maggiori e sicure attestazioni di regale osservanza e di zelo (non solo verso Noi stessi, ma anche verso la Fraternità Tua) per quanto si riferisce alla disciplina ecclesiastica, e di patrocinio verso di Noi.<br><br>Frattanto impartiamo con molta benevolenza l’Apostolica Benedizione alla Tua Fraternità.<br> `class: paragrafoNorm`
 
 
-Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 30 giugno 1741, nell’anno primo del Nostro Pontificato. `class: data-luogo`
+Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 30 giugno 1741, nell’anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firma-centro`
+Benedictus XIV `class: firmaC`
 
 ***
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
 
 

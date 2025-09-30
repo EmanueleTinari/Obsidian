@@ -69,11 +69,11 @@ Versione C.E.I. 1974:
 ###### 2
 <span class=vrs>2</span>perché col giudizio con cui giudicate sarete giudicati, e con la misura con la quale misurate sarete misurati.
 ###### 3
-<span class=vrs>3</span>Perché osservi la pagliuzza nell'occhio del tuo fratello, mentre non ti accorgi della trave che hai nel tuo occhio?
+<span class=vrs>3</span>Perché osservi la pagliuzza nell’occhio del tuo fratello, mentre non ti accorgi della trave che hai nel tuo occhio?
 ###### 4
-<span class=vrs>4</span>O come potrai dire al tuo fratello: permetti che tolga la pagliuzza dal tuo occhio, mentre nell'occhio tuo c'è la trave?
+<span class=vrs>4</span>O come potrai dire al tuo fratello: permetti che tolga la pagliuzza dal tuo occhio, mentre nell’occhio tuo c’è la trave?
 ###### 5
-<span class=vrs>5</span>Ipocrita, togli prima la trave dal tuo occhio e poi ci vedrai bene per togliere la pagliuzza dall'occhio del tuo fratello.
+<span class=vrs>5</span>Ipocrita, togli prima la trave dal tuo occhio e poi ci vedrai bene per togliere la pagliuzza dall’occhio del tuo fratello.
 ###### 6
 <span class=vrs>6</span>Non date le cose sante ai cani e non gettate le vostre perle davanti ai porci, perché non le calpestino con le loro zampe e poi si voltino per sbranarvi.
 ###### 7

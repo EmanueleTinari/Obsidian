@@ -197,8 +197,8 @@
       "filename": "bxiv-bol-prr"
     },
     {
-      "path": "Documenti pontifici/Bolle/_Indice Bolle.md",
-      "filename": "_Indice Bolle"
+      "path": "Documenti pontifici/Bolle/_Indice Bolle1.md",
+      "filename": "_Indice Bolle1"
     },
     {
       "path": "Documenti pontifici/Costituzioni apostoliche/ipii-coa-fid.md",
@@ -233,8 +233,8 @@
       "filename": "_Indice Esortazioni apostoliche"
     },
     {
-      "path": "Documenti pontifici/Lettere Encicliche/bxiv-enc-ubi.md",
-      "filename": "bxiv-enc-ubi"
+      "path": "Documenti pontifici/Lettere Encicliche/bxiv-enc-ubp.md",
+      "filename": "bxiv-enc-ubp"
     },
     {
       "path": "Documenti pontifici/Lettere Encicliche/bxiv-enc-qug.md",
@@ -2869,7 +2869,7 @@
       "filename": "NV Web Scraper - Prompt"
     },
     {
-      "path": "Chats/New Chat.md",
+      "path": "_09 - LLMs/New Chat.md",
       "filename": "New Chat"
     },
     {
@@ -3521,8 +3521,8 @@
       "filename": "bxiv-enc-cis"
     },
     {
-      "path": "Documenti pontifici/Senza nome.md",
-      "filename": "Senza nome"
+      "path": "Documenti pontifici/Lettere/_Indice Lettere.md",
+      "filename": "_Indice Lettere"
     },
     {
       "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dei.md",
@@ -3657,7 +3657,7 @@
       "filename": "bxiv-bre-cmc"
     },
     {
-      "path": "Documenti pontifici/_Prompt IA per estrazione Documenti pontifici.md",
+      "path": "_09 - LLMs/_Prompt IA per estrazione Documenti pontifici.md",
       "filename": "_Prompt IA per estrazione Documenti pontifici"
     },
     {
@@ -3721,7 +3721,7 @@
       "filename": "_tmpAI"
     },
     {
-      "path": "Documenti pontifici/_tmpAI.md",
+      "path": "_09 - LLMs/_tmpAI.md",
       "filename": "_tmpAI"
     },
     {
@@ -3731,6 +3731,754 @@
     {
       "path": "Documenti pontifici/Brevi/bxiv-bre-qes.md",
       "filename": "bxiv-bre-qes"
+    },
+    {
+      "path": "_Prove/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Vocaboli/a.md",
+      "filename": "a"
+    },
+    {
+      "path": "Vocaboli/b.md",
+      "filename": "b"
+    },
+    {
+      "path": "Vocaboli/c.md",
+      "filename": "c"
+    },
+    {
+      "path": "Vocaboli/d.md",
+      "filename": "d"
+    },
+    {
+      "path": "Vocaboli/e.md",
+      "filename": "e"
+    },
+    {
+      "path": "Vocaboli/f.md",
+      "filename": "f"
+    },
+    {
+      "path": "Vocaboli/g.md",
+      "filename": "g"
+    },
+    {
+      "path": "Vocaboli/h.md",
+      "filename": "h"
+    },
+    {
+      "path": "Vocaboli/i.md",
+      "filename": "i"
+    },
+    {
+      "path": "Vocaboli/j.md",
+      "filename": "j"
+    },
+    {
+      "path": "Vocaboli/k.md",
+      "filename": "k"
+    },
+    {
+      "path": "Vocaboli/l.md",
+      "filename": "l"
+    },
+    {
+      "path": "Vocaboli/m.md",
+      "filename": "m"
+    },
+    {
+      "path": "Vocaboli/n.md",
+      "filename": "n"
+    },
+    {
+      "path": "Vocaboli/o.md",
+      "filename": "o"
+    },
+    {
+      "path": "Vocaboli/p.md",
+      "filename": "p"
+    },
+    {
+      "path": "Vocaboli/q.md",
+      "filename": "q"
+    },
+    {
+      "path": "Vocaboli/r.md",
+      "filename": "r"
+    },
+    {
+      "path": "Vocaboli/s.md",
+      "filename": "s"
+    },
+    {
+      "path": "Vocaboli/t.md",
+      "filename": "t"
+    },
+    {
+      "path": "Vocaboli/u.md",
+      "filename": "u"
+    },
+    {
+      "path": "Vocaboli/v.md",
+      "filename": "v"
+    },
+    {
+      "path": "Vocaboli/w.md",
+      "filename": "w"
+    },
+    {
+      "path": "Vocaboli/x.md",
+      "filename": "x"
+    },
+    {
+      "path": "Vocaboli/y.md",
+      "filename": "y"
+    },
+    {
+      "path": "Vocaboli/z.md",
+      "filename": "z"
+    },
+    {
+      "path": "Vocaboli/_already_scanned.md",
+      "filename": "_already_scanned"
+    },
+    {
+      "path": "_Prove/_Indice vocabolario.md",
+      "filename": "_Indice vocabolario"
+    },
+    {
+      "path": "_Prove/^z1.md",
+      "filename": "^z1"
+    },
+    {
+      "path": "_Prove/Torna.md",
+      "filename": "Torna"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/_Indice Bolle.md",
+      "filename": "_Indice Bolle"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiii-bre-via.md",
+      "filename": "clxiii-bre-via"
+    },
+    {
+      "path": "Documenti vari/_Indice Documenti vari1.md",
+      "filename": "_Indice Documenti vari1"
+    },
+    {
+      "path": "z_Script/invocableScripts/documentiPapa.js",
+      "filename": "documentiPapa"
+    },
+    {
+      "path": "z_Script/invocableScripts/Nuovo Documento di testo.txt",
+      "filename": "Nuovo Documento di testo"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/piviii-bre-inm.md",
+      "filename": "piviii-bre-inm"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/piviii-bre-imu.md",
+      "filename": "piviii-bre-imu"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/piviii-bre-coa.md",
+      "filename": "piviii-bre-coa"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/piviii-bre-lif.md",
+      "filename": "piviii-bre-lif"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/piviii-bre-ins.md",
+      "filename": "piviii-bre-ins"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/piviii-bre-itm.md",
+      "filename": "piviii-bre-itm"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/piviii-enc-trh.md",
+      "filename": "piviii-enc-trh"
+    },
+    {
+      "path": "z_Script/pythonScripts/TrovaVersettiNonBenFormattati.py",
+      "filename": "TrovaVersettiNonBenFormattati"
+    },
+    {
+      "path": "z_Script/pythonScripts/Trova.py",
+      "filename": "Trova"
+    },
+    {
+      "path": "z_Script/pythonScripts/TrovaVersettiNonBenFormattati1.py",
+      "filename": "TrovaVersettiNonBenFormattati1"
+    },
+    {
+      "path": "z_Script/pythonScripts/TrovaVersettiDebug.txt",
+      "filename": "TrovaVersettiDebug"
+    },
+    {
+      "path": "z_Script/pythonScripts/TrovaVersettiDebug.py",
+      "filename": "TrovaVersettiDebug"
+    },
+    {
+      "path": "File con Rif non formattati.md",
+      "filename": "File con Rif non formattati"
+    },
+    {
+      "path": "15-09-2025 File con Rif non formattati.md",
+      "filename": "15-09-2025 File con Rif non formattati"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-27-08-1978.md",
+      "filename": "ipi-ang-27-08-1978"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/_modello-ang-.md",
+      "filename": "_modello-ang-"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/_Indice Angelus.md",
+      "filename": "_Indice Angelus"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-03-09-1978.md",
+      "filename": "ipi-ang-03-09-1978"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-10-09-1978.md",
+      "filename": "ipi-ang-10-09-1978"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-1978-09-17.md",
+      "filename": "ipi-ang-1978-09-17"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-1978-09-24.md",
+      "filename": "ipi-ang-1978-09-24"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-1978-09-03.md",
+      "filename": "ipi-ang-1978-09-03"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-1978-08-27.md",
+      "filename": "ipi-ang-1978-08-27"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-1978-09-10.md",
+      "filename": "ipi-ang-1978-09-10"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/_Indice Discorsi.md",
+      "filename": "_Indice Discorsi"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/_modello-dis-.md",
+      "filename": "_modello-dis-"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/ipi-dis-asr1978-09-23.md",
+      "filename": "ipi-dis-asr1978-09-23"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/_Indice Omelie.md",
+      "filename": "_Indice Omelie"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/_Indice Udienze.md",
+      "filename": "_Indice Udienze"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/_Indice Messaggi.md",
+      "filename": "_Indice Messaggi"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/_modello-mes-.md",
+      "filename": "_modello-mes-"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/ipi-mes-1978-08-27ueo.md",
+      "filename": "ipi-mes-1978-08-27ueo"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/ipi-ome-imp1978-09-03.md",
+      "filename": "ipi-ome-imp1978-09-03"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/ipi-ome-ppc1978-09-23.md",
+      "filename": "ipi-ome-ppc1978-09-23"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/_modello-ome-.md",
+      "filename": "_modello-ome-"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/_modello-udi-.md",
+      "filename": "_modello-udi-"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/ipi-udi-gen1978-09-27.md",
+      "filename": "ipi-udi-gen1978-09-27"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/ipi-udi-gen1978-09-20.md",
+      "filename": "ipi-udi-gen1978-09-20"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/ipi-udi-gen1978-09-13.md",
+      "filename": "ipi-udi-gen1978-09-13"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/ipi-udi-gen1978-09-06.md",
+      "filename": "ipi-udi-gen1978-09-06"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/ipi-dis-acr1978-09-07.md",
+      "filename": "ipi-dis-acr1978-09-07"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/ipi-dis-ars1978-09-01.md",
+      "filename": "ipi-dis-ars1978-09-01"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/ipi-dis-acc1978-08-30.md",
+      "filename": "ipi-dis-acc1978-08-30"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/ipi-dis-nss1978-08-27.md",
+      "filename": "ipi-dis-nss1978-08-27"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-05-11.md",
+      "filename": "lxiv-rec-rec2025-05-11"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-05-18.md",
+      "filename": "lxiv-rec-rec2025-05-18"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-05-25.md",
+      "filename": "lxiv-rec-rec2025-05-25"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-06-01.md",
+      "filename": "lxiv-rec-rec2025-06-01"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-06-08.md",
+      "filename": "lxiv-rec-rec2025-06-08"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-2025-06-08.md",
+      "filename": "lxiv-rec-2025-06-08"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-2025-06-01.md",
+      "filename": "lxiv-rec-2025-06-01"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-2025-05-25.md",
+      "filename": "lxiv-rec-2025-05-25"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-2025-05-18.md",
+      "filename": "lxiv-rec-2025-05-18"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-2025-05-11.md",
+      "filename": "lxiv-rec-2025-05-11"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-06-15.md",
+      "filename": "lxiv-ang-2025-06-15"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-06-22.md",
+      "filename": "lxiv-ang-2025-06-22"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-06-29.md",
+      "filename": "lxiv-ang-2025-06-29"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-07-06.md",
+      "filename": "lxiv-ang-2025-07-06"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-07-13.md",
+      "filename": "lxiv-ang-2025-07-13"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-07-20.md",
+      "filename": "lxiv-ang-2025-07-20"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-07-27.md",
+      "filename": "lxiv-ang-2025-07-27"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-08-03.md",
+      "filename": "lxiv-ang-2025-08-03"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-08-10.md",
+      "filename": "lxiv-ang-2025-08-10"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-08-15.md",
+      "filename": "lxiv-ang-2025-08-15"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-08-17.md",
+      "filename": "lxiv-ang-2025-08-17"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-08-24.md",
+      "filename": "lxiv-ang-2025-08-24"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-08-31.md",
+      "filename": "lxiv-ang-2025-08-31"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-09-07.md",
+      "filename": "lxiv-ang-2025-09-07"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-09-14.md",
+      "filename": "lxiv-ang-2025-09-14"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-05-09.md",
+      "filename": "lxiv-ome-2025-05-09"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-05-11.md",
+      "filename": "lxiv-ome-2025-05-11"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-05-18.md",
+      "filename": "lxiv-ome-2025-05-18"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-05-20.md",
+      "filename": "lxiv-ome-2025-05-20"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-05-25.md",
+      "filename": "lxiv-ome-2025-05-25"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-05-31.md",
+      "filename": "lxiv-ome-2025-05-31"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-06-01.md",
+      "filename": "lxiv-ome-2025-06-01"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-06-07.md",
+      "filename": "lxiv-ome-2025-06-07"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-06-08.md",
+      "filename": "lxiv-ome-2025-06-08"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-06-09.md",
+      "filename": "lxiv-ome-2025-06-09"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-06-15.md",
+      "filename": "lxiv-ome-2025-06-15"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-06-22.md",
+      "filename": "lxiv-ome-2025-06-22"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-06-27.md",
+      "filename": "lxiv-ome-2025-06-27"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-06-29.md",
+      "filename": "lxiv-ome-2025-06-29"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-07-09.md",
+      "filename": "lxiv-ome-2025-07-09"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-07-13.md",
+      "filename": "lxiv-ome-2025-07-13"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-07-15.md",
+      "filename": "lxiv-ome-2025-07-15"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-07-20.md",
+      "filename": "lxiv-ome-2025-07-20"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-08-03.md",
+      "filename": "lxiv-ome-2025-08-03"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-08-15.md",
+      "filename": "lxiv-ome-2025-08-15"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-08-17.md",
+      "filename": "lxiv-ome-2025-08-17"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-01.md",
+      "filename": "lxiv-ome-2025-09-01"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-05.md",
+      "filename": "lxiv-ome-2025-09-05"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-07.md",
+      "filename": "lxiv-ome-2025-09-07"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-14.md",
+      "filename": "lxiv-ome-2025-09-14"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-15.md",
+      "filename": "lxiv-ome-2025-09-15"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/_modello-rec.md",
+      "filename": "_modello-rec"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-05-21.md",
+      "filename": "lxiv-udi-gen2025-05-21"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-05-28.md",
+      "filename": "lxiv-udi-gen2025-05-28"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-04.md",
+      "filename": "lxiv-udi-gen2025-06-04"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-11.md",
+      "filename": "lxiv-udi-gen2025-06-11"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-14.md",
+      "filename": "lxiv-udi-gen2025-06-14"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-18.md",
+      "filename": "lxiv-udi-gen2025-06-18"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-25.md",
+      "filename": "lxiv-udi-gen2025-06-25"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-07-30.md",
+      "filename": "lxiv-udi-gen2025-07-30"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-08-06.md",
+      "filename": "lxiv-udi-gen2025-08-06"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-08-13.md",
+      "filename": "lxiv-udi-gen2025-08-13"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-08-20.md",
+      "filename": "lxiv-udi-gen2025-08-20"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-08-27.md",
+      "filename": "lxiv-udi-gen2025-08-27"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-03.md",
+      "filename": "lxiv-udi-gen2025-09-03"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-06.md",
+      "filename": "lxiv-udi-gen2025-09-06"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-10.md",
+      "filename": "lxiv-udi-gen2025-09-10"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-17.md",
+      "filename": "lxiv-udi-gen2025-09-17"
+    },
+    {
+      "path": "_09 - LLMs/Prompt lettura pagina scrutatio.it.md",
+      "filename": "Prompt lettura pagina scrutatio.it"
+    },
+    {
+      "path": "Documenti pontifici/Messsaggi/Nuovo Documento di testo.txt",
+      "filename": "Nuovo Documento di testo"
+    },
+    {
+      "path": "Documenti pontifici/Messsaggi/lxiv-mes-ueo2025-05-08.txt",
+      "filename": "lxiv-mes-ueo2025-05-08"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/lxiv-mes-2025-05-08ueo.md",
+      "filename": "lxiv-mes-2025-05-08ueo"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/_Indice Regina Cæli.md",
+      "filename": "_Indice Regina Cæli"
+    },
+    {
+      "path": "Documenti vari/Trattato della vera devozione a Maria.md",
+      "filename": "Trattato della vera devozione a Maria"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiii-enc-aqd.md",
+      "filename": "clxiii-enc-aqd"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiii-bre-pao.md",
+      "filename": "clxiii-bre-pao"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiii-bre-qid.md",
+      "filename": "clxiii-bre-qid"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiii-bre-upa.md",
+      "filename": "clxiii-bre-upa"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiii-bre-qua.md",
+      "filename": "clxiii-bre-qua"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiii-bre-suq.md",
+      "filename": "clxiii-bre-suq"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiii-bre-acf.md",
+      "filename": "clxiii-bre-acf"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiv-bre-ind.md",
+      "filename": "clxiv-bre-ind"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiv-bre-maa.md",
+      "filename": "clxiv-bre-maa"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/clxiv-bre-dar.md",
+      "filename": "clxiv-bre-dar"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/clxiv-bol-san.md",
+      "filename": "clxiv-bol-san"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiii-enc-cup.md",
+      "filename": "clxiii-enc-cup"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiii-enc-aps.md",
+      "filename": "clxiii-enc-aps"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiii-enc-qug.md",
+      "filename": "clxiii-enc-qug"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiii-enc-chr.md",
+      "filename": "clxiii-enc-chr"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiv-enc-csa.md",
+      "filename": "clxiv-enc-csa"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiv-enc-dqm.md",
+      "filename": "clxiv-enc-dqm"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiii-enc-ida.md",
+      "filename": "clxiii-enc-ida"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiv-enc-dqm1.md",
+      "filename": "clxiv-enc-dqm1"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiv-enc-dqm 1.md",
+      "filename": "clxiv-enc-dqm 1"
+    },
+    {
+      "path": "2024-09-01 - Meditazione.md",
+      "filename": "2024-09-01 - Meditazione"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/pivi-bol-sud.md",
+      "filename": "pivi-bol-sud"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2024/06 settembre 2024.md",
+      "filename": "06 settembre 2024"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-21.md",
+      "filename": "lxiv-ome-2025-09-21"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-28_OLD.md",
+      "filename": "lxiv-ome-2025-09-28_OLD"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-28.md",
+      "filename": "lxiv-ome-2025-09-28"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-09-28.md",
+      "filename": "lxiv-ang-2025-09-28"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/lxiv-ang-2025-09-21.md",
+      "filename": "lxiv-ang-2025-09-21"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/lxiv-mes-2025-06-30gcc.md",
+      "filename": "lxiv-mes-2025-06-30gcc"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/lxiv-mes-2025-07-25gmr.md",
+      "filename": "lxiv-mes-2025-07-25gmr"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/lxiv-mes-2025-06-30pcc.md",
+      "filename": "lxiv-mes-2025-06-30pcc"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/lxiv-mes-2025-06-26gna.md",
+      "filename": "lxiv-mes-2025-06-26gna"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/lxiv-mes-2025-06-13gmp.md",
+      "filename": "lxiv-mes-2025-06-13gmp"
     }
   ]
 }

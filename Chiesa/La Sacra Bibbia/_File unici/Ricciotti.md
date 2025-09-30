@@ -1543,21 +1543,21 @@ modificato: 2025/07/09 23:32:47
 ###### 4
 <span class=vrs>4</span>Poichè tra noi si sono intrusi certi uomini empi (la cui condanna è già scritta da tempo), i quali mutano in lussuria la grazia del nostro Dio, e negano il solo Dominatore e Signor nostro Gesù Cristo.
 ###### 5
-<span class=vrs>5</span>Ora io voglio ricordarvi, quantunque conosciate già tutte queste cose, che Gesù, liberando il popolo dalla terra d'Egitto, sterminò poi quelli che non credettero;
+<span class=vrs>5</span>Ora io voglio ricordarvi, quantunque conosciate già tutte queste cose, che Gesù, liberando il popolo dalla terra d’Egitto, sterminò poi quelli che non credettero;
 ###### 6
 <span class=vrs>6</span>e che gli angeli, che non conoscevano la loro dignità, ma abbandonarono la loro dimora, li riserbò per il giudizio del gran giorno, nelle tenebre, stretti in eterne catene.
 ###### 7
 <span class=vrs>7</span>Così pure Sodoma e Gomorra e le città attorno, re e allo stesso modo di fornicazione e di vizi contro natura, ci restano a esempio, soffrendo la pena di un fuoco eterno.
 ###### 8
-<span class=vrs>8</span>Nella stessa guisa anche questi contaminano la [loro] carne, disprezzano l'autorità, bestemmiano la maestà.
+<span class=vrs>8</span>Nella stessa guisa anche questi contaminano la [loro] carne, disprezzano l’autorità, bestemmiano la maestà.
 ###### 9
-<span class=vrs>9</span>Quando Michele l'arcangelo disputando altercava col diavolo relativamente al corpo di Mosè, non ardì di pronunciare sentenza di maledizione, ma disse: «Ti reprima il Signore».
+<span class=vrs>9</span>Quando Michele l’arcangelo disputando altercava col diavolo relativamente al corpo di Mosè, non ardì di pronunciare sentenza di maledizione, ma disse: «Ti reprima il Signore».
 ###### 10
 <span class=vrs>10</span>Invece questi bestemmiano tutto quello che non conoscono; e tutte quelle cose, che come i muti animali naturalmente conoscono, son quelle che li conducono a perdizione.
 ###### 11
-<span class=vrs>11</span>Guai a loro, perchè hanno già presa la via di Caino, e per sete di guadagno si sono gettati nell'errore di Balaam, e sono periti nella ribellione di Core.
+<span class=vrs>11</span>Guai a loro, perchè hanno già presa la via di Caino, e per sete di guadagno si sono gettati nell’errore di Balaam, e sono periti nella ribellione di Core.
 ###### 12
-<span class=vrs>12</span>Questi sono macchie nelle loro àgapi, ponendosi insieme a mensa, senza rispetto, pascendo se stessi, nuvole senz'acqua, portate qua e là dai vènti, alberi d'autunno, senza frutti, due volte morti, sradicati,
+<span class=vrs>12</span>Questi sono macchie nelle loro àgapi, ponendosi insieme a mensa, senza rispetto, pascendo se stessi, nuvole senz’acqua, portate qua e là dai vènti, alberi d’autunno, senza frutti, due volte morti, sradicati,
 ###### 13
 <span class=vrs>13</span>onde furiose del mare, che spumano le proprie turpitudini, astri erranti, ai quali son serbate in eterno le tenebre più profonde.
 ###### 14
@@ -1576,7 +1576,7 @@ modificato: 2025/07/09 23:32:47
 ###### 20
 <span class=vrs>20</span>Ma voi, carissimi, edificando voi stessi sopra la santissima vostra fede e pregando per virtù dello Spirito Santo,
 ###### 21
-<span class=vrs>21</span>conservatevi nell'amore di Dio, aspettando che la misericordia del Signor nostro Gesù Cristo vi dia la vita eterna.
+<span class=vrs>21</span>conservatevi nell’amore di Dio, aspettando che la misericordia del Signor nostro Gesù Cristo vi dia la vita eterna.
 ###### 22
 <span class=vrs>22</span>Intanto correggete gli uni, dopo averli convinti;
 ###### 23

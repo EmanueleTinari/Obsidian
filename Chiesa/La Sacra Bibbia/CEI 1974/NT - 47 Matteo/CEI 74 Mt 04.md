@@ -71,7 +71,7 @@ Versione C.E.I. 1974:
 ###### 3
 <span class=vrs>3</span>Il tentatore allora gli si accostò e gli disse: "Se sei Figlio di Dio, dì che questi sassi diventino pane".
 ###### 4
-<span class=vrs>4</span>Ma egli rispose: "Sta scritto: Non di solo pane vivrà l'uomo, ma di ogni parola che esce dalla bocca di Dio".
+<span class=vrs>4</span>Ma egli rispose: "Sta scritto: Non di solo pane vivrà l’uomo, ma di ogni parola che esce dalla bocca di Dio".
 ###### 5
 <span class=vrs>5</span>Allora il diavolo lo condusse con sé nella città santa, lo depose sul pinnacolo del tempio
 ###### 6

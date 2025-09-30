@@ -90,7 +90,7 @@ Versione C.E.I. 1974:
 ###### 12
 <span class=vrs>12</span>Rallegratevi ed esultate, perché grande è la vostra ricompensa nei cieli. Così infatti hanno perseguitato i profeti prima di voi.
 ###### 13
-<span class=vrs>13</span>Voi siete il sale della terra; ma se il sale perdesse il sapore, con che cosa lo si potrà render salato? A null'altro serve che ad essere gettato via e calpestato dagli uomini.
+<span class=vrs>13</span>Voi siete il sale della terra; ma se il sale perdesse il sapore, con che cosa lo si potrà render salato? A null’altro serve che ad essere gettato via e calpestato dagli uomini.
 ###### 14
 <span class=vrs>14</span>Voi siete la luce del mondo; non può restare nascosta una città collocata sopra un monte,
 ###### 15
@@ -110,13 +110,13 @@ Versione C.E.I. 1974:
 ###### 22
 <span class=vrs>22</span>Ma io vi dico: chiunque si adira con il proprio fratello, sarà sottoposto a giudizio. Chi poi dice al fratello: stupido, sarà sottoposto al sinedrio; e chi gli dice: pazzo, sarà sottoposto al fuoco della Geenna.
 ###### 23
-<span class=vrs>23</span>Se dunque presenti la tua offerta sull'altare e lì ti ricordi che tuo fratello ha qualche cosa contro di te,
+<span class=vrs>23</span>Se dunque presenti la tua offerta sull’altare e lì ti ricordi che tuo fratello ha qualche cosa contro di te,
 ###### 24
-<span class=vrs>24</span>lascia lì il tuo dono davanti all'altare e và prima a riconciliarti con il tuo fratello e poi torna ad offrire il tuo dono.
+<span class=vrs>24</span>lascia lì il tuo dono davanti all’altare e và prima a riconciliarti con il tuo fratello e poi torna ad offrire il tuo dono.
 ###### 25
-<span class=vrs>25</span>Mettiti presto d'accordo con il tuo avversario mentre sei per via con lui, perché l'avversario non ti consegni al giudice e il giudice alla guardia e tu venga gettato in prigione.
+<span class=vrs>25</span>Mettiti presto d’accordo con il tuo avversario mentre sei per via con lui, perché l’avversario non ti consegni al giudice e il giudice alla guardia e tu venga gettato in prigione.
 ###### 26
-<span class=vrs>26</span>In verità ti dico: non uscirai di là finché tu non abbia pagato fino all'ultimo spicciolo!
+<span class=vrs>26</span>In verità ti dico: non uscirai di là finché tu non abbia pagato fino all’ultimo spicciolo!
 ###### 27
 <span class=vrs>27</span>Avete inteso che fu detto: Non commettere adulterio;
 ###### 28
@@ -126,9 +126,9 @@ Versione C.E.I. 1974:
 ###### 30
 <span class=vrs>30</span>E se la tua mano destra ti è occasione di scandalo, tagliala e gettala via da te: conviene che perisca uno dei tuoi membri, piuttosto che tutto il tuo corpo vada a finire nella Geenna.
 ###### 31
-<span class=vrs>31</span>Fu pure detto: Chi ripudia la propria moglie, le dia l'atto di ripudio;
+<span class=vrs>31</span>Fu pure detto: Chi ripudia la propria moglie, le dia l’atto di ripudio;
 ###### 32
-<span class=vrs>32</span>ma io vi dico: chiunque ripudia sua moglie, eccetto il caso di concubinato, la espone all'adulterio e chiunque sposa una ripudiata, commette adulterio.
+<span class=vrs>32</span>ma io vi dico: chiunque ripudia sua moglie, eccetto il caso di concubinato, la espone all’adulterio e chiunque sposa una ripudiata, commette adulterio.
 ###### 33
 <span class=vrs>33</span>Avete anche inteso che fu detto agli antichi: Non spergiurare, ma adempi con il Signore i tuoi giuramenti;
 ###### 34
@@ -142,7 +142,7 @@ Versione C.E.I. 1974:
 ###### 38
 <span class=vrs>38</span>Avete inteso che fu detto: Occhio per occhio e dente per dente;
 ###### 39
-<span class=vrs>39</span>ma io vi dico di non opporvi al malvagio; anzi se uno ti percuote la guancia destra, tu porgigli anche l'altra;
+<span class=vrs>39</span>ma io vi dico di non opporvi al malvagio; anzi se uno ti percuote la guancia destra, tu porgigli anche l’altra;
 ###### 40
 <span class=vrs>40</span>e a chi ti vuol chiamare in giudizio per toglierti la tunica, tu lascia anche il mantello.
 ###### 41

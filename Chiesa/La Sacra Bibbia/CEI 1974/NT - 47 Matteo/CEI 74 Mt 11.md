@@ -62,7 +62,7 @@ Versione C.E.I. 1974:
 ###### 4
 <span class=vrs>4</span>Gesù rispose: "Andate e riferite a Giovanni ciò che voi udite e vedete:
 ###### 5
-<span class=vrs>5</span>I ciechi ricuperano la vista, gli storpi camminano, i lebbrosi sono guariti, i sordi riacquistano l'udito, i morti risuscitano, ai poveri è predicata la buona novella,
+<span class=vrs>5</span>I ciechi ricuperano la vista, gli storpi camminano, i lebbrosi sono guariti, i sordi riacquistano l’udito, i morti risuscitano, ai poveri è predicata la buona novella,
 ###### 6
 <span class=vrs>6</span>e beato colui che non si scandalizza di me".
 ###### 7
@@ -80,7 +80,7 @@ Versione C.E.I. 1974:
 ###### 13
 <span class=vrs>13</span>La Legge e tutti i Profeti infatti hanno profetato fino a Giovanni.
 ###### 14
-<span class=vrs>14</span>E se lo volete accettare, egli è quell'Elia che deve venire.
+<span class=vrs>14</span>E se lo volete accettare, egli è quell’Elia che deve venire.
 ###### 15
 <span class=vrs>15</span>Chi ha orecchi intenda.
 ###### 16
@@ -90,7 +90,7 @@ Versione C.E.I. 1974:
 ###### 18
 <span class=vrs>18</span>È venuto Giovanni, che non mangia e non beve, e hanno detto: Ha un demonio.
 ###### 19
-<span class=vrs>19</span>È venuto il Figlio dell'uomo, che mangia e beve, e dicono: Ecco un mangione e un beone, amico dei pubblicani e dei peccatori. Ma alla sapienza è stata resa giustizia dalle sue opere".
+<span class=vrs>19</span>È venuto il Figlio dell’uomo, che mangia e beve, e dicono: Ecco un mangione e un beone, amico dei pubblicani e dei peccatori. Ma alla sapienza è stata resa giustizia dalle sue opere".
 ###### 20
 <span class=vrs>20</span>Allora si mise a rimproverare le città nelle quali aveva compiuto il maggior numero di miracoli, perché non si erano convertite:
 ###### 21

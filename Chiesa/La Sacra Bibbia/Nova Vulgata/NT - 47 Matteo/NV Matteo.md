@@ -46,14 +46,14 @@ modificato: 2025/07/09 23:32:47
 
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01|Matthæus 1]]:
 
-- L'albero genealogico di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01#v1-17|Matthæus 1,1-17]])
+- L’albero genealogico di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01#v1-17|Matthæus 1,1-17]])
 - Nascita di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01#v18-25|Matthæus 1,18-25]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02|Matthæus 2]]:
 
-- I Re Magi d'Oriente ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02#v1-12|Matthæus 2,1-12]])
+- I Re Magi d’Oriente ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02#v1-12|Matthæus 2,1-12]])
 - La fuga in Egitto ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02#v13-15|Matthæus 2,13-15]])
 - La strage degli innocenti di Erode ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02#v16-18|Matthæus 2,16-18]])
-- Il ritorno dall'Egitto ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02#v19-23|Matthæus 2,19-23]])
+- Il ritorno dall’Egitto ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02#v19-23|Matthæus 2,19-23]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03|Matthæus 3]]
 
 - Giovanni Battista ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03#v1-12|Matthæus 3,1-12]])
@@ -61,7 +61,7 @@ modificato: 2025/07/09 23:32:47
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04|Matthæus 4]]
 
 - Tentazioni di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04#v1-11|Matthæus 4,1-11]])
-- L'inizio del ministero di Gesù in Galilea, Gesù a Cafarnao ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04#v12-17|Matthæus 4,12-17]])
+- L’inizio del ministero di Gesù in Galilea, Gesù a Cafarnao ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04#v12-17|Matthæus 4,12-17]])
 - La chiamata dei primi discepoli, i primi quattro Apostoli ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04#v18-22|Matthæus 4,18-22]])
 - Prima predicazione di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04#v23|Matthæus 4,23]])
 - Guarigioni dei malati in Galilea ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04#v24-25|Matthæus 4,24-25]])
@@ -75,10 +75,10 @@ modificato: 2025/07/09 23:32:47
 	- A proposito di adulterio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05#v27-32|Matthæus 6,27-32]])
 	- A proposito dello spergiuro ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05#v33-37|Matthæus 6,33-37]])
 	- A proposito della vendetta ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05#v38-42|Matthæus 6,38-42]])
-	- Sull'amare i propri nemici ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05#v43-48|Matthæus 6,43-48]])
+	- Sull’amare i propri nemici ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05#v43-48|Matthæus 6,43-48]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06|Matthæus 6]]
 
-- A proposito dell'elemosina ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06#v1-4|Matthæus 6,1-4]])
+- A proposito dell’elemosina ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06#v1-4|Matthæus 6,1-4]])
 - A proposito della preghiera ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06#v5-8|Matthæus 6,5-8]])
 - Il Padre nostro ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06#v9-15|Matthæus 6,9-15]])
 - A proposito del digiuno ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06#v16-18|Matthæus 6,16-18]])
@@ -97,20 +97,20 @@ modificato: 2025/07/09 23:32:47
 - La suocera di Pietro ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 08#v14-17|Matthæus 8,14-17]])
 - Come seguire Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 08#v18-22|Matthæus 8,18-22]])
 - La tempesta sedata ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 08#v23-27|Matthæus 8,23-27]])
-- Gl'indemoniati di Gadara ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 08#v28-34|Matthæus 8,28-34]])
+- Gl’indemoniati di Gadara ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 08#v28-34|Matthæus 8,28-34]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09|Matthæus 9]]
 - La guarigione di un paralitico ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09#v1-8|Matthæus 9,1-8]])
 - La vocazione di Matteo e il pranzo con i pubblicani ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09#v9-13|Matthæus 9,9-13]])
 - Il digiuno cristiano ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09#v14-17|Matthæus 9,14-17]])
-- La guarigione dell'emorroissa e la resurrezione della figlia di Giairo ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09#v18-26|Matthæus 9,18-26]])
+- La guarigione dell’emorroissa e la resurrezione della figlia di Giairo ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09#v18-26|Matthæus 9,18-26]])
 - La guarigione di due ciechi e il muto indemoniato ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09#v27-34|Matthæus 9,27-34]])
 - Gesù passa predicando: Il grande raccolto ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09#v35-38|Matthæus 9,35-38]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10|Matthæus 10]]
 
 - La chiamata dei Dodici ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v1-4|Matthæus 10,1-4]])
-- L'invio dei dodici: istruzione degli Apostoli  ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v5-15|Matthæus 10,5-15]])
-- L'annuncio delle persecuzioni imminenti ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v16-27|Matthæus 10,16-27]])
-- Paura dell'uomo e timore di Dio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v28-33|Matthæus 10,28-33]])
+- L’invio dei dodici: istruzione degli Apostoli  ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v5-15|Matthæus 10,5-15]])
+- L’annuncio delle persecuzioni imminenti ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v16-27|Matthæus 10,16-27]])
+- Paura dell’uomo e timore di Dio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v28-33|Matthæus 10,28-33]])
 - Divisioni per amore di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v34-39|Matthæus 10,34-39]])
 - Ingresso per amore di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10#v40-42|Matthæus 10,40-42]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 11|Matthæus 11]]
@@ -126,7 +126,7 @@ modificato: 2025/07/09 23:32:47
 - Dolcezza di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12#v15-21|Matthæus 12,15-21]])
 - Il potere di Gesù sugli spiriti maligni ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12#v22-30|Matthæus 12,22-30]])
 - Il peccato contro lo Spirito Santo ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12#v31-32|Matthæus 12,31-32]])
-- Dell'albero e dei suoi frutti ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12#v33-37|Matthæus 12,33-37]])
+- Dell’albero e dei suoi frutti ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12#v33-37|Matthæus 12,33-37]])
 - La richiesta di un segno da parte dei farisei ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12#v38-42|Matthæus 12,38-42]])
 - Del ritorno dello spirito maligno ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12#v43-45|Matthæus 12,43-45]])
 - I parenti di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12#v46-50|Matthæus 12,46-50]])
@@ -134,7 +134,7 @@ modificato: 2025/07/09 23:32:47
 
 - Dal seminatore ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13#v1-9|Matthæus 13,1-9]])
 - Sul significato delle parabole ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13#v10-18|Matthæus 13,10-18]])
-- L'interpretazione della parabola del seminatore ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13#v19-23|Matthæus 13,19-23]])
+- L’interpretazione della parabola del seminatore ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13#v19-23|Matthæus 13,19-23]])
 - Il buon grano e la zizzania ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13#v24-30|Matthæus 13,24-30]])
 - Il granello di senapa ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13#v31-32|Matthæus 13,31-32]])
 - Il lievito ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13#v33|Matthæus 13,33]])
@@ -163,13 +163,13 @@ modificato: 2025/07/09 23:32:47
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17|Matthæus 17]]
 
 - La Trasfigurazione di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17#v1-13|Matthæus 17,1-13]])
-- La guarigione di un ragazzo lunatico: L'epilettico guarito ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17#v14-21|Matthæus 17,14-21]])
+- La guarigione di un ragazzo lunatico: L’epilettico guarito ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17#v14-21|Matthæus 17,14-21]])
 - Il secondo annuncio della sofferenza e della resurrezione di Gesù: Seconda profezia della passione ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17#v22-23|Matthæus 17,22-23]])
 - Sul pagamento del tributo per il tempio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17#v24-27|Matthæus 17,24-27]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18|Matthæus 18]]
 
 - La disputa dei discepoli sul rango ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18#v1-5|Matthæus 18,1-5]])
-- Messa in guardia contro la tentazione dell'apostasia: Contro lo scandalo ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18#v6-11|Matthæus 18,6-11]])
+- Messa in guardia contro la tentazione dell’apostasia: Contro lo scandalo ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18#v6-11|Matthæus 18,6-11]])
 - La pecorella smarrita ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18#v12-14|Matthæus 18,12-14]])
 - Correzione fraterna ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18#v15-17|Matthæus 18,15-17]])
 - Il perdono cristiano ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18#v18-22|Matthæus 18,18-22]])
@@ -188,7 +188,7 @@ modificato: 2025/07/09 23:32:47
 - La guarigione di due ciechi nei pressi di Gerico ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 20#v29-34|Matthæus 20,29-34]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21|Matthæus 21]]
 
-- L'ingresso di Gesù a Gerusalemme ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21#v1-11|Matthæus 21,1-11]])
+- L’ingresso di Gesù a Gerusalemme ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21#v1-11|Matthæus 21,1-11]])
 - La purificazione del tempio: I profanatori cacciati dal tempio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21#v12-17|Matthæus 21,12-17]])
 - Il fico maledetto ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21#v18-22|Matthæus 21,18-22]])
 - La questione dell’autorità di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21#v23-27|Matthæus 21,23-27]])
@@ -208,10 +208,10 @@ modificato: 2025/07/09 23:32:47
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24|Matthæus 24]]
 
 - La fine del tempio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v1-2|Matthæus 24,1-2]])
-- L'inizio del travaglio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v3-8|Matthæus 24,3-8]])
+- L’inizio del travaglio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v3-8|Matthæus 24,3-8]])
 - La grande tribolazione ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v9-14|Matthæus 24,9-14]])
 - Distruzione di Gerusalemme ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v15-22|Matthæus 24,15-22]])
-- La venuta del Figlio dell'uomo: Il ritorno di Cristo ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v23-41|Matthæus 24,23-41]])
+- La venuta del Figlio dell’uomo: Il ritorno di Cristo ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v23-41|Matthæus 24,23-41]])
 - Un invito alla vigilanza ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v42-44|Matthæus 24,42-44]])
 - Del servo fedele e del servo malvagio ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24#v45-51|Matthæus 24,45-51]])
 ## Punti salienti di [[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 25|Matthæus 25]]
@@ -224,10 +224,10 @@ modificato: 2025/07/09 23:32:47
 - Il piano dei sommi sacerdoti e degli anziani ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v1-5|Matthæus 26,1-5]])
 - La cena di Betania ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v6-13|Matthæus 26,6-13]])
 - Il patto di Giuda ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v14-16|Matthæus 26,14-16]])
-- L'Ultima Cena ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v17-19|Matthæus 26,17-19]])
+- L’Ultima Cena ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v17-19|Matthæus 26,17-19]])
 - Il traditore svelato ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v20-25|Matthæus 26,20-25]])
 - Istituzione della SS. Eucaristia ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v26-29|Matthæus 26,26-29]])
-- Gesù predice il rinnegamento di Pietro e l'abbandono dei discepoli ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v30-35|Matthæus 26,30-35]])
+- Gesù predice il rinnegamento di Pietro e l’abbandono dei discepoli ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v30-35|Matthæus 26,30-35]])
 - Gesù nel Getsemani ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v36-46|Matthæus 26,36-46]])
 - Cattura e arresto di Gesù ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v47-56|Matthæus 26,47-56]])
 - Gesù davanti al sinedro ([[La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26#v57-68|Matthæus 26,57-68]])

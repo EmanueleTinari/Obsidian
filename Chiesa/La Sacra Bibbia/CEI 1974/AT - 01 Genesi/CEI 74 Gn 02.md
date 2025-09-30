@@ -73,49 +73,49 @@ Versione C.E.I. 1974:
 ###### 5
 <span class=vrs>5</span>nessun cespuglio campestre era sulla terra, nessuna erba campestre era spuntata - perché il Signore Dio non aveva fatto piovere sulla terra e nessuno lavorava il suolo
 ###### 6
-<span class=vrs>6</span>e faceva salire dalla terra l'acqua dei canali per irrigare tutto il suolo -;
+<span class=vrs>6</span>e faceva salire dalla terra l’acqua dei canali per irrigare tutto il suolo -;
 ###### 7
-<span class=vrs>7</span>allora il Signore Dio plasmò l'uomo con polvere del suolo e soffiò nelle sue narici un alito di vita e l'uomo divenne un essere vivente. [^ftn_cei74_gn2,7]
-##### L'uomo nel paradiso terrestre.
+<span class=vrs>7</span>allora il Signore Dio plasmò l’uomo con polvere del suolo e soffiò nelle sue narici un alito di vita e l’uomo divenne un essere vivente. [^ftn_cei74_gn2,7]
+##### L’uomo nel paradiso terrestre.
 
 ###### 8
-<span class=vrs>8</span>Poi il Signore Dio piantò un giardino in Eden, a oriente, e vi collocò l'uomo che aveva plasmato. [^ftn_cei74_gn2,8]
+<span class=vrs>8</span>Poi il Signore Dio piantò un giardino in Eden, a oriente, e vi collocò l’uomo che aveva plasmato. [^ftn_cei74_gn2,8]
 ###### 9
-<span class=vrs>9</span>Il Signore Dio fece germogliare dal suolo ogni sorta di alberi graditi alla vista e buoni da mangiare, tra cui l'albero della vita in mezzo al giardino e l'albero della conoscenza del bene e del male. [^ftn_cei74_gn2,9]
+<span class=vrs>9</span>Il Signore Dio fece germogliare dal suolo ogni sorta di alberi graditi alla vista e buoni da mangiare, tra cui l’albero della vita in mezzo al giardino e l’albero della conoscenza del bene e del male. [^ftn_cei74_gn2,9]
 ###### 10
 <span class=vrs>10</span>Un fiume usciva da Eden per irrigare il giardino, poi di lì si divideva e formava quattro corsi.
 ###### 11
-<span class=vrs>11</span>Il primo fiume si chiama Pison: esso scorre intorno a tutto il paese di Avìla, dove c'è l'oro
+<span class=vrs>11</span>Il primo fiume si chiama Pison: esso scorre intorno a tutto il paese di Avìla, dove c’è l’oro
 ###### 12
-<span class=vrs>12</span>e l'oro di quella terra è fine; qui c'è anche la resina odorosa e la pietra d'ònice.
+<span class=vrs>12</span>e l’oro di quella terra è fine; qui c’è anche la resina odorosa e la pietra d’ònice.
 ###### 13
-<span class=vrs>13</span>Il secondo fiume si chiama Ghicon: esso scorre intorno a tutto il paese d'Etiopia.
+<span class=vrs>13</span>Il secondo fiume si chiama Ghicon: esso scorre intorno a tutto il paese d’Etiopia.
 ###### 14
-<span class=vrs>14</span>Il terzo fiume si chiama Tigri: esso scorre ad oriente di Assur. Il quarto fiume è l'Eufrate.
+<span class=vrs>14</span>Il terzo fiume si chiama Tigri: esso scorre ad oriente di Assur. Il quarto fiume è l’Eufrate.
 ###### 15
-<span class=vrs>15</span>Il Signore Dio prese l'uomo e lo pose nel giardino di Eden, perché lo coltivasse e lo custodisse.
+<span class=vrs>15</span>Il Signore Dio prese l’uomo e lo pose nel giardino di Eden, perché lo coltivasse e lo custodisse.
 ###### 16
-<span class=vrs>16</span>Il Signore Dio diede questo comando all'uomo: "Tu potrai mangiare di tutti gli alberi del giardino,
+<span class=vrs>16</span>Il Signore Dio diede questo comando all’uomo: "Tu potrai mangiare di tutti gli alberi del giardino,
 ###### 17
-<span class=vrs>17</span>ma dell'albero della conoscenza del bene e del male non devi mangiare, perché, quando tu ne mangiassi, certamente moriresti".
+<span class=vrs>17</span>ma dell’albero della conoscenza del bene e del male non devi mangiare, perché, quando tu ne mangiassi, certamente moriresti".
 ##### Creazione della donna.
 
 ###### 18
-<span class=vrs>18</span>E il Signore Dio disse: "Non è bene che l'uomo sia solo: gli voglio fare un aiuto che gli sia simile".
+<span class=vrs>18</span>E il Signore Dio disse: "Non è bene che l’uomo sia solo: gli voglio fare un aiuto che gli sia simile".
 ###### 19
-<span class=vrs>19</span>Allora il Signore Dio plasmò dal suolo ogni sorta di bestie selvatiche e tutti gli uccelli del cielo e li condusse all'uomo, per vedere come li avrebbe chiamati: in qualunque modo l'uomo avesse chiamato ognuno degli esseri viventi, quello doveva essere il suo nome. [^ftn_cei74_gn2,19]
+<span class=vrs>19</span>Allora il Signore Dio plasmò dal suolo ogni sorta di bestie selvatiche e tutti gli uccelli del cielo e li condusse all’uomo, per vedere come li avrebbe chiamati: in qualunque modo l’uomo avesse chiamato ognuno degli esseri viventi, quello doveva essere il suo nome. [^ftn_cei74_gn2,19]
 ###### 20
-<span class=vrs>20</span>Così l'uomo impose nomi a tutto il bestiame, a tutti gli uccelli del cielo e a tutte le bestie selvatiche, ma l'uomo non trovò un aiuto che gli fosse simile.
+<span class=vrs>20</span>Così l’uomo impose nomi a tutto il bestiame, a tutti gli uccelli del cielo e a tutte le bestie selvatiche, ma l’uomo non trovò un aiuto che gli fosse simile.
 ###### 21
-<span class=vrs>21</span>Allora il Signore Dio fece scendere un torpore sull'uomo, che si addormentò; gli tolse una delle costole e rinchiuse la carne al suo posto.
+<span class=vrs>21</span>Allora il Signore Dio fece scendere un torpore sull’uomo, che si addormentò; gli tolse una delle costole e rinchiuse la carne al suo posto.
 ###### 22
-<span class=vrs>22</span>Il Signore Dio plasmò con la costola, che aveva tolta all'uomo, una donna e la condusse all'uomo.
+<span class=vrs>22</span>Il Signore Dio plasmò con la costola, che aveva tolta all’uomo, una donna e la condusse all’uomo.
 ###### 23
-<span class=vrs>23</span>Allora l'uomo disse:<br>"Questa volta essa<br>è carne dalla mia carne<br>e osso dalle mie ossa.<br>La si chiamerà donna<br>perché dall'uomo è stata tolta".
+<span class=vrs>23</span>Allora l’uomo disse:<br>"Questa volta essa<br>è carne dalla mia carne<br>e osso dalle mie ossa.<br>La si chiamerà donna<br>perché dall’uomo è stata tolta".
 ###### 24
-<span class=vrs>24</span>Per questo l'uomo abbandonerà suo padre e sua madre e si unirà a sua moglie e i due saranno una sola carne.
+<span class=vrs>24</span>Per questo l’uomo abbandonerà suo padre e sua madre e si unirà a sua moglie e i due saranno una sola carne.
 ###### 25
-<span class=vrs>25</span>Ora tutti e due erano nudi, l'uomo e sua moglie, ma non ne provavano vergogna.
+<span class=vrs>25</span>Ora tutti e due erano nudi, l’uomo e sua moglie, ma non ne provavano vergogna.
 
 ***
 

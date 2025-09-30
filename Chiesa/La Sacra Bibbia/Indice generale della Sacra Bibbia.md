@@ -56,7 +56,7 @@ modificato: 2025/07/09 23:32:47
 >>>>> <span class="verde">Capitolo:</span><br><br>
 >>>>
 >>>
->>>> [!indice-generale]- [[Esodo|Il libro dell'Esodo]]
+>>>> [!indice-generale]- [[Esodo|Il libro dell’Esodo]]
 >>>>
 >>>>> [!indice-generale]- [[CEI 74 Esodo|Versione C.E.I. 1974]]
 >>>>> <span class="verde">Capitolo:</span><br><br>

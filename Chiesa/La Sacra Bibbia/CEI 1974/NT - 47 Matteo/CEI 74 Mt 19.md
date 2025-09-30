@@ -62,17 +62,17 @@ Versione C.E.I. 1974:
 ###### 4
 <span class=vrs>4</span>Ed egli rispose: "Non avete letto che il Creatore da principio li creò maschio e femmina e disse:
 ###### 5
-<span class=vrs>5</span>Per questo l'uomo lascerà suo padre e sua madre e si unirà a sua moglie e i due saranno una carne sola?
+<span class=vrs>5</span>Per questo l’uomo lascerà suo padre e sua madre e si unirà a sua moglie e i due saranno una carne sola?
 ###### 6
-<span class=vrs>6</span>Così che non sono più due, ma una carne sola. Quello dunque che Dio ha congiunto, l'uomo non lo separi".
+<span class=vrs>6</span>Così che non sono più due, ma una carne sola. Quello dunque che Dio ha congiunto, l’uomo non lo separi".
 ###### 7
-<span class=vrs>7</span>Gli obiettarono: "Perché allora Mosè ha ordinato di darle l'atto di ripudio e mandarla via?".
+<span class=vrs>7</span>Gli obiettarono: "Perché allora Mosè ha ordinato di darle l’atto di ripudio e mandarla via?".
 ###### 8
 <span class=vrs>8</span>Rispose loro Gesù: "Per la durezza del vostro cuore Mosè vi ha permesso di ripudiare le vostre mogli, ma da principio non fu così.
 ###### 9
-<span class=vrs>9</span>Perciò io vi dico: Chiunque ripudia la propria moglie, se non in caso di concubinato, e ne sposa un'altra commette adulterio".
+<span class=vrs>9</span>Perciò io vi dico: Chiunque ripudia la propria moglie, se non in caso di concubinato, e ne sposa un’altra commette adulterio".
 ###### 10
-<span class=vrs>10</span>Gli dissero i discepoli: "Se questa è la condizione dell'uomo rispetto alla donna, non conviene sposarsi".
+<span class=vrs>10</span>Gli dissero i discepoli: "Se questa è la condizione dell’uomo rispetto alla donna, non conviene sposarsi".
 ###### 11
 <span class=vrs>11</span>Egli rispose loro: "Non tutti possono capirlo, ma solo coloro ai quali è stato concesso.
 ###### 12
@@ -108,7 +108,7 @@ Versione C.E.I. 1974:
 ###### 27
 <span class=vrs>27</span>Allora Pietro prendendo la parola disse: "Ecco, noi abbiamo lasciato tutto e ti abbiamo seguito; che cosa dunque ne otterremo?".
 ###### 28
-<span class=vrs>28</span>E Gesù disse loro: "In verità vi dico: voi che mi avete seguito, nella nuova creazione, quando il Figlio dell'uomo sarà seduto sul trono della sua gloria, siederete anche voi su dodici troni a giudicare le dodici tribù di Israele.
+<span class=vrs>28</span>E Gesù disse loro: "In verità vi dico: voi che mi avete seguito, nella nuova creazione, quando il Figlio dell’uomo sarà seduto sul trono della sua gloria, siederete anche voi su dodici troni a giudicare le dodici tribù di Israele.
 ###### 29
 <span class=vrs>29</span>Chiunque avrà lasciato case, o fratelli, o sorelle, o padre, o madre, o figli, o campi per il mio nome, riceverà cento volte tanto e avrà in eredità la vita eterna.
 ###### 30

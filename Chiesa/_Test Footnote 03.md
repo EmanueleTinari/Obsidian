@@ -1,6 +1,6 @@
 # Footnote How-To
 ## Method 1
-The standard syntax for a footnote[^fn1] indicator in Markdown is ``[^fn1]``. The footnote resides in the same document as the primary text. You'll likely wish to put these at the end of the document. Preface each footnote with similar code, but with a terminal colon, e.g.:  ``[^fn1]:``
+The standard syntax for a footnote[^fn1] indicator in Markdown is ``[^fn1]``. The footnote resides in the same document as the primary text. YoÙll likely wish to put these at the end of the document. Preface each footnote with similar code, but with a terminal colon, e.g.:  ``[^fn1]:``
 
 In Read mode[^fn3], these placeholders will be replaced with sequential numbers from 1, no matter what numbers you actually use. This makes it impossible to have numbering continue from one document to the next.
 

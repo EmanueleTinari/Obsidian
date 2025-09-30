@@ -74,9 +74,9 @@ Versione C.E.I. 1974:
 ###### 10
 <span class=vrs>10</span>Usciti nelle strade, quei servi raccolsero quanti ne trovarono, buoni e cattivi, e la sala si riempì di commensali.
 ###### 11
-<span class=vrs>11</span>Il re entrò per vedere i commensali e, scorto un tale che non indossava l'abito nuziale,
+<span class=vrs>11</span>Il re entrò per vedere i commensali e, scorto un tale che non indossava l’abito nuziale,
 ###### 12
-<span class=vrs>12</span>gli disse: Amico, come hai potuto entrare qui senz'abito nuziale? Ed egli ammutolì.
+<span class=vrs>12</span>gli disse: Amico, come hai potuto entrare qui senz’abito nuziale? Ed egli ammutolì.
 ###### 13
 <span class=vrs>13</span>Allora il re ordinò ai servi: Legatelo mani e piedi e gettatelo fuori nelle tenebre; là sarà pianto e stridore di denti.
 ###### 14
@@ -92,23 +92,23 @@ Versione C.E.I. 1974:
 ###### 19
 <span class=vrs>19</span>Mostratemi la moneta del tributo". Ed essi gli presentarono un denaro.
 ###### 20
-<span class=vrs>20</span>Egli domandò loro: "Di chi è questa immagine e l'iscrizione?".
+<span class=vrs>20</span>Egli domandò loro: "Di chi è questa immagine e l’iscrizione?".
 ###### 21
 <span class=vrs>21</span>Gli risposero: "Di Cesare". Allora disse loro: "Rendete dunque a Cesare quello che è di Cesare e a Dio quello che è di Dio".
 ###### 22
 <span class=vrs>22</span>A queste parole rimasero sorpresi e, lasciatolo, se ne andarono.
 ###### 23
-<span class=vrs>23</span>In quello stesso giorno vennero a lui dei sadducei, i quali affermano che non c'è risurrezione, e lo interrogarono:
+<span class=vrs>23</span>In quello stesso giorno vennero a lui dei sadducei, i quali affermano che non c’è risurrezione, e lo interrogarono:
 ###### 24
 <span class=vrs>24</span>"Maestro, Mosè ha detto: Se qualcuno muore senza figli, il fratello ne sposerà la vedova e così susciterà una discendenza al suo fratello.
 ###### 25
-<span class=vrs>25</span>Ora, c'erano tra noi sette fratelli; il primo appena sposato morì e, non avendo discendenza, lasciò la moglie a suo fratello.
+<span class=vrs>25</span>Ora, c’erano tra noi sette fratelli; il primo appena sposato morì e, non avendo discendenza, lasciò la moglie a suo fratello.
 ###### 26
 <span class=vrs>26</span>Così anche il secondo, e il terzo, fino al settimo.
 ###### 27
 <span class=vrs>27</span>Alla fine, dopo tutti, morì anche la donna.
 ###### 28
-<span class=vrs>28</span>Alla risurrezione, di quale dei sette essa sarà moglie? Poiché tutti l'hanno avuta".
+<span class=vrs>28</span>Alla risurrezione, di quale dei sette essa sarà moglie? Poiché tutti l’hanno avuta".
 ###### 29
 <span class=vrs>29</span>E Gesù rispose loro: "Voi vi ingannate, non conoscendo né le Scritture né la potenza di Dio.
 ###### 30

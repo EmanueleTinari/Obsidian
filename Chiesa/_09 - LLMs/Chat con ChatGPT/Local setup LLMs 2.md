@@ -41,7 +41,7 @@ What can you suggest me?<br> Explain me exactly step by step because i'm not a p
 ## 💬Risposta CHATGPT modello GPT-4o:
 🕓Timestamp: 2025-07-13 09:51 (UTC+2)
 
-Your setup is solid, and you have a pretty clear plan for the tasks you want to tackle.<br>Let me break down some suggestions and tools you can use to meet your needs for both tasks.<br>Since you're working locally (and sometimes online), I'll focus on efficient and flexible solutions that respect your offline-first approach.<br>Also, I'll suggest options for your development environment to maximize productivity.<br>User works with ~1,000 Markdown files in Italian (for Obsidian), transforms scanned texts (Italian, Latin, Ancient Greek) into Markdown, and programs in JavaScript, CSS, PowerShell, and Python using Visual Studio Code.<br>They want to run two local LLMs (not simultaneously) on a Windows 11 Pro laptop with strong hardware.<br>They are not a programmer and need step-by-step instructions with full code lines.
+Your setup is solid, and you have a pretty clear plan for the tasks you want to tackle.<br>Let me break down some suggestions and tools you can use to meet your needs for both tasks.<br>Since yoÙre working locally (and sometimes online), I'll focus on efficient and flexible solutions that respect your offline-first approach.<br>Also, I'll suggest options for your development environment to maximize productivity.<br>User works with ~1,000 Markdown files in Italian (for Obsidian), transforms scanned texts (Italian, Latin, Ancient Greek) into Markdown, and programs in JavaScript, CSS, PowerShell, and Python using Visual Studio Code.<br>They want to run two local LLMs (not simultaneously) on a Windows 11 Pro laptop with strong hardware.<br>They are not a programmer and need step-by-step instructions with full code lines.
 
 ### **1st Task: Work with Obsidian.md (Offline, Italian Language, Local LLMs)**
 
@@ -61,7 +61,7 @@ Since you want to use local LLMs, there are a few options you can explore for ru
 
 Obsidian is a great choice for knowledge management, and there are some tools and plugins you can integrate to optimize the indexing:
 
-- **Obsidian Plugin: "Link Suggestion"**: This plugin can automatically suggest relevant internal links while you're writing. It might help you organize your 1k Italian files into relevant clusters. You can even use custom query blocks in Obsidian to list notes on specific topics, making it easier to navigate.
+- **Obsidian Plugin: "Link Suggestion"**: This plugin can automatically suggest relevant internal links while yoÙre writing. It might help you organize your 1k Italian files into relevant clusters. You can even use custom query blocks in Obsidian to list notes on specific topics, making it easier to navigate.
 
 - **Zettelkasten**: If you’re into linking ideas between notes (Zettelkasten method), you can use plugins like **Zettelkasten Prefixer** or just rely on your own approach to tagging and linking related notes.
 
@@ -78,7 +78,7 @@ Obsidian is a great choice for knowledge management, and there are some tools an
 
 #### **Text Transformation (OCR) for Scanned Documents**
 
-For OCR and text extraction, you'll need tools that can handle multiple formats (JPG, PNG, PDF, ePub) and multiple languages, including Latin and Ancient Greek. Here are some tools you can set up locally:
+For OCR and text extraction, yoÙll need tools that can handle multiple formats (JPG, PNG, PDF, ePub) and multiple languages, including Latin and Ancient Greek. Here are some tools you can set up locally:
 
 - **Tesseract OCR**: This is a powerful open-source OCR tool that can recognize Italian, Latin, and Ancient Greek with proper language models. It's best used in combination with Python scripts to automate the process.
 
@@ -161,7 +161,7 @@ You could set up isolated environments for each language:
 
 ### **Hardware & Performance Optimization**
 
-Given your powerful hardware setup (especially your GPU), you'll be able to handle LLMs like Code Llama or GPT-NeoX quite efficiently. Here's how to optimize:
+Given your powerful hardware setup (especially your GPU), yoÙll be able to handle LLMs like Code Llama or GPT-NeoX quite efficiently. Here's how to optimize:
 
 - **GPU Utilization**: Make sure you have CUDA installed for PyTorch and TensorFlow (if using these libraries for LLMs).
     
@@ -4498,7 +4498,7 @@ You can repeat this for multiple pages.
 
 #### 2. Transform content into Markdown
 
-Since you work in Obsidian, you'll want the scraped/collected content to become ```*.md``` files:
+Since you work in Obsidian, yoÙll want the scraped/collected content to become ```*.md``` files:
 
 - Clean the HTML
 
@@ -4507,7 +4507,7 @@ Since you work in Obsidian, you'll want the scraped/collected content to become 
 You can automate this transformation too.
 #### 3. Feed the content to your local LLM
 
-Depending on the LLM you're running (e.g., **llama.cpp**, **GPT4All**, **Ollama**, etc.), you can:
+Depending on the LLM yoÙre running (e.g., **llama.cpp**, **GPT4All**, **Ollama**, etc.), you can:
 
 - Place ```*.md``` files inside a "knowledge folder"
 
@@ -9058,7 +9058,7 @@ After running that script, the `.md` file will appear in your Obsidian vault and
 
 #### 🧠 How to connect this to a **local LLM**
 
-If you're using **LM Studio**, **Ollama**, or **TextGen WebUI**, you can:
+If yoÙre using **LM Studio**, **Ollama**, or **TextGen WebUI**, you can:
 
 - Send a prompt from your Python script to the local model (via an API or subprocess)
 - Capture the model’s text output

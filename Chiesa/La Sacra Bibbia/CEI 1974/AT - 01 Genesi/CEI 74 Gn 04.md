@@ -77,7 +77,7 @@ Versione C.E.I. 1974:
 ###### 8
 <span class=vrs>8</span>Caino disse al fratello Abele: "Andiamo in campagna!". Mentre erano in campagna, Caino alzò la mano contro il fratello Abele e lo uccise. [^ftn_cei74_gn4,8]
 ###### 9
-<span class=vrs>9</span>Allora il Signore disse a Caino: "Dov'è Abele, tuo fratello?". Egli rispose: "Non lo so. Sono forse il guardiano di mio fratello?".
+<span class=vrs>9</span>Allora il Signore disse a Caino: "Dov’è Abele, tuo fratello?". Egli rispose: "Non lo so. Sono forse il guardiano di mio fratello?".
 ###### 10
 <span class=vrs>10</span>Riprese: "Che hai fatto? La voce del sangue di tuo fratello grida a me dal suolo!"
 ###### 11
@@ -89,7 +89,7 @@ Versione C.E.I. 1974:
 ###### 14
 <span class=vrs>14</span>Ecco, tu mi scacci oggi da questo suolo e io mi dovrò nascondere lontano da te; io sarò ramingo e fuggiasco sulla terra e chiunque mi incontrerà mi potrà uccidere".
 ###### 15
-<span class=vrs>15</span>Ma il Signore gli disse: "Però chiunque ucciderà Caino subirà la vendetta sette volte!". Il Signore impose a Caino un segno, perché non lo colpisse chiunque l'avesse incontrato.
+<span class=vrs>15</span>Ma il Signore gli disse: "Però chiunque ucciderà Caino subirà la vendetta sette volte!". Il Signore impose a Caino un segno, perché non lo colpisse chiunque l’avesse incontrato.
 ###### 16
 <span class=vrs>16</span>Caino si allontanò dal Signore e abitò nel paese di Nod, ad oriente di Eden.
 ##### Stirpe di Caino.
@@ -99,7 +99,7 @@ Versione C.E.I. 1974:
 ###### 18
 <span class=vrs>18</span>A Enoch nacque Irad; Irad generò Mecuiael e Mecuiael generò Metusael e Metusaèl generò Lamech.
 ###### 19
-<span class=vrs>19</span>Lamech si prese due mogli: una chiamata Ada e l'altra chiamata Zilla. [^ftn_cei74_gn4,19]
+<span class=vrs>19</span>Lamech si prese due mogli: una chiamata Ada e l’altra chiamata Zilla. [^ftn_cei74_gn4,19]
 ###### 20
 <span class=vrs>20</span>Ada partorì Iabal: egli fu il padre di quanti abitano sotto le tende presso il bestiame.
 ###### 21
@@ -109,14 +109,14 @@ Versione C.E.I. 1974:
 ###### 23
 <span class=vrs>23</span>Lamech disse alle mogli:
 Ada e Zilla, ascoltate la mia voce;
-mogli di Lamech, porgete l'orecchio al mio dire:
+mogli di Lamech, porgete l’orecchio al mio dire:
 Ho ucciso un uomo per una mia scalfittura
 e un ragazzo per un mio livido. [^ftn_cei74_gn4,23]
 ###### 24
 <span class=vrs>24</span>Sette volte sarà vendicato Caino
 ma Lamech settantasette".
 ###### 25
-<span class=vrs>25</span>Adamo si unì di nuovo alla moglie, che partorì un figlio e lo chiamò Set. "Perché - disse - Dio mi ha concesso un'altra discendenza al posto di Abele, poiché Caino l'ha ucciso".
+<span class=vrs>25</span>Adamo si unì di nuovo alla moglie, che partorì un figlio e lo chiamò Set. "Perché - disse - Dio mi ha concesso un’altra discendenza al posto di Abele, poiché Caino l’ha ucciso".
 ###### 26
 <span class=vrs>26</span>Anche a Set nacque un figlio, che egli chiamò Enos. Allora si cominciò ad invocare il nome del Signore.
 

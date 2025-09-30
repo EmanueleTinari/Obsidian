@@ -148,7 +148,7 @@ for(var myFileCounter = 0; myFileCounter < ((myFiles.length)-9); myFileCounter++
 	//const allWords = myFileContent.match(/[\p{L}\p{N}\p{S}\p{M}]+/gu);
 	//const filteredWords = allWords.filter( word => /^a/i.test(word) );
 	//console.log("filteredWords: " + filteredWords);
-//                                                ^ words starting with letter 'a'
+//                                                ^ words starting with letter 'A'
 
 	//var string = "0,1";
 	//var stringArray = (new Function("return [" + wordArray + "];")());
@@ -162,7 +162,7 @@ for(var myFileCounter = 0; myFileCounter < ((myFiles.length)-9); myFileCounter++
 	//splitArray = wordArray.split(/\s*,\s*(?:,\s*)*/);
 	//console.log("splitArray: " + splitArray);
 	//let uniqueArray = [...new Set(wordArray)];
-	//console.log(uniqueArray); // unique is ['a', 1, 2, '1']
+	//console.log(uniqueArray); // unique is ['A', 1, 2, '1']
 
 //str.split(/[ ,.!?]+/).filter(Boolean);
 }

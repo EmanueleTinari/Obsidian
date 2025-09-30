@@ -65,25 +65,25 @@ Versione C.E.I. 1974:
 ###### 2
 <span class=vrs>2</span>Rispose la donna al serpente: "Dei frutti degli alberi del giardino noi possiamo mangiare,
 ###### 3
-<span class=vrs>3</span>ma del frutto dell'albero che sta in mezzo al giardino Dio ha detto: Non ne dovete mangiare e non lo dovete toccare, altrimenti morirete".
+<span class=vrs>3</span>ma del frutto dell’albero che sta in mezzo al giardino Dio ha detto: Non ne dovete mangiare e non lo dovete toccare, altrimenti morirete".
 ###### 4
 <span class=vrs>4</span>Ma il serpente disse alla donna: "Non morirete affatto!
 ###### 5
 <span class=vrs>5</span>Anzi, Dio sa che quando voi ne mangiaste, si aprirebbero i vostri occhi e diventereste come Dio, conoscendo il bene e il male".
 ###### 6
-<span class=vrs>6</span>Allora la donna vide che l'albero era buono da mangiare, gradito agli occhi e desiderabile per acquistare saggezza; prese del suo frutto e ne mangiò, poi ne diede anche al marito, che era con lei, e anch'egli ne mangiò.
+<span class=vrs>6</span>Allora la donna vide che l’albero era buono da mangiare, gradito agli occhi e desiderabile per acquistare saggezza; prese del suo frutto e ne mangiò, poi ne diede anche al marito, che era con lei, e anch’egli ne mangiò.
 ###### 7
 <span class=vrs>7</span>Allora si aprirono gli occhi di tutti e due e si accorsero di essere nudi; intrecciarono foglie di fico e se ne fecero cinture.
 ###### 8
-<span class=vrs>8</span>Poi udirono il Signore Dio che passeggiava nel giardino alla brezza del giorno e l'uomo con sua moglie si nascosero dal Signore Dio, in mezzo agli alberi del giardino.
+<span class=vrs>8</span>Poi udirono il Signore Dio che passeggiava nel giardino alla brezza del giorno e l’uomo con sua moglie si nascosero dal Signore Dio, in mezzo agli alberi del giardino.
 ###### 9
-<span class=vrs>9</span>Ma il Signore Dio chiamò l'uomo e gli disse: "Dove sei?".
+<span class=vrs>9</span>Ma il Signore Dio chiamò l’uomo e gli disse: "Dove sei?".
 ###### 10
 <span class=vrs>10</span>Rispose: "Ho udito il tuo passo nel giardino: ho avuto paura, perché sono nudo, e mi sono nascosto".
 ###### 11
-<span class=vrs>11</span>Riprese: "Chi ti ha fatto sapere che eri nudo? Hai forse mangiato dell'albero di cui ti avevo comandato di non mangiare?".
+<span class=vrs>11</span>Riprese: "Chi ti ha fatto sapere che eri nudo? Hai forse mangiato dell’albero di cui ti avevo comandato di non mangiare?".
 ###### 12
-<span class=vrs>12</span>Rispose l'uomo: "La donna che tu mi hai posta accanto mi ha dato dell'albero e io ne ho mangiato".
+<span class=vrs>12</span>Rispose l’uomo: "La donna che tu mi hai posta accanto mi ha dato dell’albero e io ne ho mangiato".
 ###### 13
 <span class=vrs>13</span>Il Signore Dio disse alla donna: "Che hai fatto?". Rispose la donna: "Il serpente mi ha ingannata e io ho mangiato".
 ##### Castigo e promessa.
@@ -95,21 +95,21 @@ Versione C.E.I. 1974:
 ###### 16
 <span class=vrs>16</span>Alla donna disse:<br>"Moltiplicherò<br>i tuoi dolori e le tue gravidanze,<br>con dolore partorirai figli.<br>Verso tuo marito sarà il tuo istinto,<br>ma egli ti dominerà".
 ###### 17
-<span class=vrs>17</span>All'uomo disse: "Poiché hai ascoltato la voce di tua moglie e hai mangiato dell'albero, di cui ti avevo comandato: Non ne devi mangiare, maledetto sia il suolo per causa tua!<br>Con dolore ne trarrai il cibo<br>per tutti i giorni della tua vita.
+<span class=vrs>17</span>All’uomo disse: "Poiché hai ascoltato la voce di tua moglie e hai mangiato dell’albero, di cui ti avevo comandato: Non ne devi mangiare, maledetto sia il suolo per causa tua!<br>Con dolore ne trarrai il cibo<br>per tutti i giorni della tua vita.
 ###### 18
-<span class=vrs>18</span>Spine e cardi produrrà per te<br>e mangerai l'erba campestre.
+<span class=vrs>18</span>Spine e cardi produrrà per te<br>e mangerai l’erba campestre.
 ###### 19
 <span class=vrs>19</span>Con il sudore del tuo volto mangerai il pane;<br>finchè tornerai alla terra,<br>perchè da essa sei stato tratto:<br>polvere tu sei e in polvere tornerai!".
 ###### 20
-<span class=vrs>20</span>L'uomo chiamò la moglie Eva, perché essa fu la madre di tutti i viventi. [^ftn_cei74_gn3,20]
+<span class=vrs>20</span>L’uomo chiamò la moglie Eva, perché essa fu la madre di tutti i viventi. [^ftn_cei74_gn3,20]
 ###### 21
-<span class=vrs>21</span>Il Signore Dio fece all'uomo e alla donna tuniche di pelli e le vestì.
+<span class=vrs>21</span>Il Signore Dio fece all’uomo e alla donna tuniche di pelli e le vestì.
 ###### 22
-<span class=vrs>22</span>Il Signore Dio disse allora: "Ecco l'uomo è diventato come uno di noi, per la conoscenza del bene e del male. Ora, egli non stenda più la mano e non prenda anche dell'albero della vita, ne mangi e viva sempre!".
+<span class=vrs>22</span>Il Signore Dio disse allora: "Ecco l’uomo è diventato come uno di noi, per la conoscenza del bene e del male. Ora, egli non stenda più la mano e non prenda anche dell’albero della vita, ne mangi e viva sempre!".
 ###### 23
 <span class=vrs>23</span>Il Signore Dio lo scacciò dal giardino di Eden, perché lavorasse il suolo da dove era stato tratto.
 ###### 24
-<span class=vrs>24</span>Scacciò l'uomo e pose ad oriente del giardino di Eden i cherubini e la fiamma della spada folgorante, per custodire la via all'albero della vita. [^ftn_cei74_gn3,24]
+<span class=vrs>24</span>Scacciò l’uomo e pose ad oriente del giardino di Eden i cherubini e la fiamma della spada folgorante, per custodire la via all’albero della vita. [^ftn_cei74_gn3,24]
 
 ***
 

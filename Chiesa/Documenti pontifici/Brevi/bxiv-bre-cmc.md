@@ -1,5 +1,7 @@
 ---
 cssclasses: docVat
+progr-doc: 16
+num-doc: 16
 autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Cum multorum Charitate
@@ -27,11 +29,11 @@ modificato: 2025/09/04 22:43:02
 
 ***
 
-Breve `class: tipo-documento`
+Breve `class: tipoDoc`
 
-del sommo pontefice `class: tipo-autorita`
+del sommo pontefice `class: tipoAut`
 
-Benedetto XIV `class: nome-autorita`
+Benedetto XIV `class: nomeAut`
 
 
 # Cum multorum Charitate
@@ -44,22 +46,22 @@ Mentre langue la carità di molti, abbonda talmente spesso la malizia degli uomi
 
 ###### 1.
 
-[Il documento rinvia al Breve di Benedetto XIV, In Suprema Catholicae Ecclesiae administratione del 20 novembre 1744]. `class: paragrafo-normale`
+[Il documento rinvia al Breve di Benedetto XIV, In Suprema Catholicae Ecclesiae administratione del 20 novembre 1744]. `class: paragrafoNorm`
 
 ###### 2.
 
-È Nostro impegno far affluire le copiose sorgenti della Divina misericordia anche nel Regno di Francia e nelle sue Province, principalmente allo scopo che colà siano rese fervide grazie a Dio onnipotente da parte di tutti coloro che vogliono essere partecipi di questi doni celesti, oltre che dei doveri da Noi prescritti: a Dio, poiché per Sua intercessione il figlio Nostro carissimo in Cristo, il Cristianissimo Re Lodovico, di recente guarì da malattia assai grave e deplorata.<br>Pertanto tutte le genti di Francia, nel pronunciare solenni voti per la salute del Principe e per la duratura stabilità del Regno, si effondano in preci affinché Colui che è il solo Signore dei regnanti accumuli sul Re giorni su giorni e, tenendo in mano il suo cuore, faccia in modo ch’egli proceda secondo i Suoi comandamenti, speri sempre nel Signore e riposi nella misericordia dell’Altissimo. `class: paragrafo-normale`
+È Nostro impegno far affluire le copiose sorgenti della Divina misericordia anche nel Regno di Francia e nelle sue Province, principalmente allo scopo che colà siano rese fervide grazie a Dio onnipotente da parte di tutti coloro che vogliono essere partecipi di questi doni celesti, oltre che dei doveri da Noi prescritti: a Dio, poiché per Sua intercessione il figlio Nostro carissimo in Cristo, il Cristianissimo Re Lodovico, di recente guarì da malattia assai grave e deplorata.<br>Pertanto tutte le genti di Francia, nel pronunciare solenni voti per la salute del Principe e per la duratura stabilità del Regno, si effondano in preci affinché Colui che è il solo Signore dei regnanti accumuli sul Re giorni su giorni e, tenendo in mano il suo cuore, faccia in modo ch’egli proceda secondo i Suoi comandamenti, speri sempre nel Signore e riposi nella misericordia dell’Altissimo. `class: paragrafoNorm`
 
 ###### 3.
 
-Affinché poi la Nostra presente Lettera (che non può essere recapitata in ogni singolo luogo) più facilmente pervenga a conoscenza di tutti, vogliamo che, ricevuta la stessa, oppure una copia di essa, anche stampata, sottoscritta di pugno da un pubblico notaio e munita del sigillo di persona investita di dignità Ecclesiastica, sia considerata del tutto degna di fede, come se fosse mostrata e presentata la presente. `class: paragrafo-normale`
+Affinché poi la Nostra presente Lettera (che non può essere recapitata in ogni singolo luogo) più facilmente pervenga a conoscenza di tutti, vogliamo che, ricevuta la stessa, oppure una copia di essa, anche stampata, sottoscritta di pugno da un pubblico notaio e munita del sigillo di persona investita di dignità Ecclesiastica, sia considerata del tutto degna di fede, come se fosse mostrata e presentata la presente. `class: paragrafoNorm`
 
 
 Dato in Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 18 febbraio 1745, anno quinto del Nostro Pontificato.
- `class: data-luogo`
+ `class: dataLuogo`
 
-Benedictus XIV `class: firma-centro`
+Benedictus XIV `class: firmaC`
 
 ***
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`

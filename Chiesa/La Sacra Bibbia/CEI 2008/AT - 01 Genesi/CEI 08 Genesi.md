@@ -48,34 +48,34 @@ modificato: 2025/07/09 23:32:47
 ***
 
 ### I contenuti
-Il titolo "Genesi" significa "Origine" o "Generazione".<br>In ebraico il libro è indicato con l'espressione iniziale Bereshìt, "In principio".<br>Il libro della Genesi si sviluppa come un solo grande affresco aperto dalla descrizione delle origini (*<span class="BibleRef">[[Gn 1,1-11,26|1,1-11,26]]</span>*) e poi, nella parte più vasta (*<span class="BibleRef">[[Gn 11,27-50,26|11,27-50,26]]</span>*), tutto occupato dalla storia dei patriarchi Abramo, Isacco, Giacobbe e Giuseppe.<br>Si conclude con il racconto della emigrazione in Egitto di Giacobbe e della sua famiglia.<br>Nella parte prima, il libro affronta i grandi enigmi dell'esistenza: origini dell'universo e dell'uomo, quale sia il giusto rapporto dell'uomo con Dio, il problema del bene e del male, del dolore, della morte, la crescita dell'umanità e il suo differenziarsi nello scorrere del tempo.<br>Su questo sfondo vengono poi raccontate le vicende di un singolo uomo, Abramo, che Dio sceglie a suo interlocutore, strumento di benedizione per la sua famiglia e "per tutte le famiglie della terra" (*<span class="BibleRef">[[Gn 12,1-3|12,1-3]]</span>*).<br>Il libro narra quindi le vicende dei discendenti di Abramo.<br>Ecco, a grandi linee, uno schema del libro:
+Il titolo "Genesi" significa "Origine" o "Generazione".<br>In ebraico il libro è indicato con l’espressione iniziale Bereshìt, "In principio".<br>Il libro della Genesi si sviluppa come un solo grande affresco aperto dalla descrizione delle origini (*<span class="BibleRef">[[Gn 1,1-11,26|1,1-11,26]]</span>*) e poi, nella parte più vasta (*<span class="BibleRef">[[Gn 11,27-50,26|11,27-50,26]]</span>*), tutto occupato dalla storia dei patriarchi Abramo, Isacco, Giacobbe e Giuseppe.<br>Si conclude con il racconto della emigrazione in Egitto di Giacobbe e della sua famiglia.<br>Nella parte prima, il libro affronta i grandi enigmi dell’esistenza: origini dell’universo e dell’uomo, quale sia il giusto rapporto dell’uomo con Dio, il problema del bene e del male, del dolore, della morte, la crescita dell’umanità e il suo differenziarsi nello scorrere del tempo.<br>Su questo sfondo vengono poi raccontate le vicende di un singolo uomo, Abramo, che Dio sceglie a suo interlocutore, strumento di benedizione per la sua famiglia e "per tutte le famiglie della terra" (*<span class="BibleRef">[[Gn 12,1-3|12,1-3]]</span>*).<br>Il libro narra quindi le vicende dei discendenti di Abramo.<br>Ecco, a grandi linee, uno schema del libro:
 Creazione e riposo divino (*<span class="BibleRef">[[Gn 1,1-2,4a|1,1-2,4a]]</span>*)
-Gli inizi dell'umanità: dalla creazione al diluvio (*<span class="BibleRef">[[Gn 2,4b-5,32|2,4b-5,32]]</span>*)
+Gli inizi dell’umanità: dalla creazione al diluvio (*<span class="BibleRef">[[Gn 2,4b-5,32|2,4b-5,32]]</span>*)
 Noè e il diluvio (*<span class="BibleRef">[[Gn 6,1-9,29|6,1-9,29]]</span>*)
-L'umanità dopo il diluvio (*<span class="BibleRef">[[Gn 10,1-11,26|10,1-11,26]]</span>*)
+L’umanità dopo il diluvio (*<span class="BibleRef">[[Gn 10,1-11,26|10,1-11,26]]</span>*)
 Abramo (*<span class="BibleRef">[[Gn 11,27-25,18|11,27-25,18]]</span>*)
 Isacco e i suoi figli Esaù e Giacobbe (*<span class="BibleRef">[[Gn 25,19-37,1|25,19-37,1]]</span>*)
 Giuseppe e i suoi fratelli (*<span class="BibleRef">[[Gn 37,2-50,26|37,2-50,26]]</span>*).
 
 ### Le caratteristiche
-I quesiti dell'esistenza umana non vengono affrontati con riflessioni o ragionamenti teorici, ma attraverso il racconto.<br>Le genealogie servono a esprimere lo scorrere della storia attraverso le generazioni e a collocare in rapporto tra loro i diversi popoli.<br>In ogni momento, il protagonista delle vicende è sempre e soltanto Dio che, con la sua presenza e la sua parola, proietta una luce di speranza anche sulle situazioni più angosciose.<br>Nell'insieme del libro compaiono alcune grandi tematiche, che si ritrovano poi nell'intera Bibbia: alleanza, promessa, peccato, salvezza, benedizione, terra come dono di Dio, circoncisione, discendenza di Abramo.
+I quesiti dell’esistenza umana non vengono affrontati con riflessioni o ragionamenti teorici, ma attraverso il racconto.<br>Le genealogie servono a esprimere lo scorrere della storia attraverso le generazioni e a collocare in rapporto tra loro i diversi popoli.<br>In ogni momento, il protagonista delle vicende è sempre e soltanto Dio che, con la sua presenza e la sua parola, proietta una luce di speranza anche sulle situazioni più angosciose.<br>Nell’insieme del libro compaiono alcune grandi tematiche, che si ritrovano poi nell’intera Bibbia: alleanza, promessa, peccato, salvezza, benedizione, terra come dono di Dio, circoncisione, discendenza di Abramo.
 
-### L'origine
-Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particolare il popolo tornato dall'esilio babilonese.<br>La tradizione d'Israele e quella della Chiesa hanno attribuito l'intero Pentateuco, e quindi anche il libro della Genesi, all'opera di Mosè.<br>Gli studi degli ultimi secoli hanno mostrato, tuttavia, la complessità del processo di scrittura del libro: tradizioni diverse confluiscono nell'ultima redazione, portando con sé la memoria di momenti storici diversi e ambienti diversi del popolo d'Israele e convogliando riflessioni teologiche differenti sull'esperienza del popolo con il suo Dio.<br>Come tutto il Pentateuco, anche la Genesi dovette raggiungere la sua forma attuale verso i secoli V-IV a.C.
+### L’origine
+Il primo destinatario del libro della Genesi fu il popolo d’Israele, in particolare il popolo tornato dall’esilio babilonese.<br>La tradizione d’Israele e quella della Chiesa hanno attribuito l’intero Pentateuco, e quindi anche il libro della Genesi, all’opera di Mosè.<br>Gli studi degli ultimi secoli hanno mostrato, tuttavia, la complessità del processo di scrittura del libro: tradizioni diverse confluiscono nell’ultima redazione, portando con sé la memoria di momenti storici diversi e ambienti diversi del popolo d’Israele e convogliando riflessioni teologiche differenti sull’esperienza del popolo con il suo Dio.<br>Come tutto il Pentateuco, anche la Genesi dovette raggiungere la sua forma attuale verso i secoli V-IV a.C.
 
 ***
 
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 01|Genesi 01]]:
 
 - Creazione: Sei giorni di lavoro.
-- L'uomo a immagine di Dio.
+- L’uomo a immagine di Dio.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 02 Genesi/CEI 08 Gn 02|Genesi 02]]:
 
-- L'istituzione del Sabato.
+- L’istituzione del Sabato.
 - La creazione della donna.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 03 Genesi/CEI 08 Gn 03|Genesi 03]]:
 
-- La caduta dell'uomo.
+- La caduta dell’uomo.
 - Espulsione dal Paradiso.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 04 Genesi/CEI 08 Gn 04|Genesi 04]]:
 
@@ -87,12 +87,12 @@ Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particol
 - Genealogia da Adamo a Noè.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 06 Genesi/CEI 08 Gn 06|Genesi 06]]:
 
-- Figli di Dio e figlie dell'uomo.
-- Annuncio del Diluvio. Elezione di Noè. Costruzione dell'Arca.
+- Figli di Dio e figlie dell’uomo.
+- Annuncio del Diluvio. Elezione di Noè. Costruzione dell’Arca.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 07 Genesi/CEI 08 Gn 07|Genesi 07]]:
 
 - Il Diluvio.
-- L'irruzione del Diluvio.
+- L’irruzione del Diluvio.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 08 Genesi/CEI 08 Gn 08|Genesi 08]]:
 
 - Fine del Diluvio. Sacrificio di Noè. Promessa del Signore.
@@ -123,7 +123,7 @@ Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particol
 - Abramo salva Lot ed è benedetto da Melchisedec.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 015 Genesi/CEI 08 Gn 15|Genesi 15]]:
 
-- Dio promette ad Abramo un figlio e gli concede l'Alleanza.
+- Dio promette ad Abramo un figlio e gli concede l’Alleanza.
 - La fede di Abramo.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 016 Genesi/CEI 08 Gn 16|Genesi 16]]:
 
@@ -155,7 +155,7 @@ Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particol
 - I discendenti di Nacor.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 023 Genesi/CEI 08 Gn 23|Genesi 23]]:
 
-- Morte di Sara. Abramo acquisisce un'eredità.
+- Morte di Sara. Abramo acquisisce un’eredità.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 024 Genesi/CEI 08 Gn 24|Genesi 24]]:
 
 - Rebecca diventa moglie di Isacco.
@@ -173,7 +173,7 @@ Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particol
 - Mogli di Esaù.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 027 Genesi/CEI 08 Gn 27|Genesi 27]]:
 
-- Giacobbe ottiene la benedizione del diritto di primogenitura con l'astuzia.
+- Giacobbe ottiene la benedizione del diritto di primogenitura con l’astuzia.
 - Fuga di Giacobbe ad Haran.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 028 Genesi/CEI 08 Gn 28|Genesi 28]]:
 
@@ -203,7 +203,7 @@ Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particol
 - Giacobbe si stabilisce vicino a Sichem.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 034 Genesi/CEI 08 Gn 34|Genesi 34]]:
 
-- L'oltraggio contro Dina e il massacro di Sichem.
+- L’oltraggio contro Dina e il massacro di Sichem.
 - Massacro di Sichem.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 035 Genesi/CEI 08 Gn 35|Genesi 35]]:
 
@@ -235,8 +235,8 @@ Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particol
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 041 Genesi/CEI 08 Gn 41|Genesi 41]]:
 
 - Giuseppe interpreta i sogni del Faraone.
-- L'esaltazione di Giuseppe.
-- La cura di Giuseppe per l'Egitto. La nascita dei suoi figli.
+- L’esaltazione di Giuseppe.
+- La cura di Giuseppe per l’Egitto. La nascita dei suoi figli.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 042 Genesi/CEI 08 Gn 42|Genesi 42]]:
 
 - Primo viaggio dei figli di Giacobbe in Egitto.
@@ -261,7 +261,7 @@ Il primo destinatario del libro della Genesi fu il popolo d'Israele, in particol
 
 - Giacobbe davanti al Faraone.
 - Gli egiziani vendono i loro beni e se stessi al Faraone.
-- L'ultimo desiderio di Giacobbe.
+- L’ultimo desiderio di Giacobbe.
 ## Punti salienti di [[La Sacra Bibbia/CEI 2008/AT - 048 Genesi/CEI 08 Gn 48|Genesi 48]]:
 
 - Benedizione di Giacobbe su Efraim e Manasse.

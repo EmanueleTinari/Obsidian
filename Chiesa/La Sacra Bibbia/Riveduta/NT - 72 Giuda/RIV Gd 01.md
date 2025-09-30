@@ -73,35 +73,35 @@ Versione Riveduta:
 ###### 6
 <span class=vrs>6</span>e che Egli ha serbato in catene eterne, nelle tenebre, per il giudicio del gran giorno, gli angeli che non serbarono la loro dignità primiera, ma lasciarono la loro propria dimora.
 ###### 7
-<span class=vrs>7</span>Nello stesso modo Sodoma e Gomorra e le città circonvicine, essendosi abbandonate alla fornicazione nella stessa maniera di costoro ed essendo andate dietro a vizî contro natura, sono poste come un esempio, portando la pena d'un fuoco eterno.
+<span class=vrs>7</span>Nello stesso modo Sodoma e Gomorra e le città circonvicine, essendosi abbandonate alla fornicazione nella stessa maniera di costoro ed essendo andate dietro a vizî contro natura, sono poste come un esempio, portando la pena d’un fuoco eterno.
 ###### 8
-<span class=vrs>8</span>E ciò nonostante, anche costoro, nello stesso modo, trasognati, mentre contaminano la carne, disprezzano l'autorità e dicon male della dignità.
+<span class=vrs>8</span>E ciò nonostante, anche costoro, nello stesso modo, trasognati, mentre contaminano la carne, disprezzano l’autorità e dicon male della dignità.
 ###### 9
-<span class=vrs>9</span>Invece, l'arcangelo Michele quando, contendendo col diavolo, disputava circa il corpo di Mosè, non ardì lanciare contro a lui un giudizio ingiurioso, ma disse: Ti sgridi il Signore!
+<span class=vrs>9</span>Invece, l’arcangelo Michele quando, contendendo col diavolo, disputava circa il corpo di Mosè, non ardì lanciare contro a lui un giudizio ingiurioso, ma disse: Ti sgridi il Signore!
 ###### 10
 <span class=vrs>10</span>Ma costoro dicon male di tutte le cose che non sanno; e in quelle che sanno per natura, come le bestie senza ragione, si corrompono.
 ###### 11
 <span class=vrs>11</span>Guai a loro! Perché si sono incamminati per la via di Caino, e per amor di lucro si son gettati nei traviamenti di Balaam, e son periti per la ribellione di Core.
 ###### 12
-<span class=vrs>12</span>Costoro son delle macchie nelle vostre agapi quando banchettano con voi senza ritegno, pascendo se stessi; nuvole senz'acqua, portate qua e là dai venti; alberi d'autunno senza frutti, due volte morti, sradicati;
+<span class=vrs>12</span>Costoro son delle macchie nelle vostre agapi quando banchettano con voi senza ritegno, pascendo se stessi; nuvole senz’acqua, portate qua e là dai venti; alberi d’autunno senza frutti, due volte morti, sradicati;
 ###### 13
 <span class=vrs>13</span>furiose onde del mare, schiumanti la lor bruttura; stelle erranti, a cui è riserbata la caligine delle tenebre in eterno.
 ###### 14
 <span class=vrs>14</span>Per loro pure profetizzò Enoc, il settimo da Adamo, dicendo: Ecco, il Signore è venuto con le sue sante miriadi per far giudicio contro tutti,
 ###### 15
-<span class=vrs>15</span>e per convincere tutti gli empî di tutte le opere d'empietà che hanno empiamente commesse, e di tutti gli insulti che gli empî peccatori hanno proferiti contro di lui.
+<span class=vrs>15</span>e per convincere tutti gli empî di tutte le opere d’empietà che hanno empiamente commesse, e di tutti gli insulti che gli empî peccatori hanno proferiti contro di lui.
 ###### 16
-<span class=vrs>16</span>Costoro son mormoratori, querimoniosi; camminano secondo le loro concupiscenze; la loro bocca proferisce cose sopra modo gonfie, e circondano d'ammirazione le persone per motivi interessati.
+<span class=vrs>16</span>Costoro son mormoratori, querimoniosi; camminano secondo le loro concupiscenze; la loro bocca proferisce cose sopra modo gonfie, e circondano d’ammirazione le persone per motivi interessati.
 ###### 17
 <span class=vrs>17</span>Ma voi, diletti, ricordatevi delle parole dette innanzi dagli apostoli del Signor nostro Gesù Cristo;
 ###### 18
-<span class=vrs>18</span>com'essi vi dicevano: Nell'ultimo tempo vi saranno degli schernitori che cammineranno secondo le loro empie concupiscenze.
+<span class=vrs>18</span>com’essi vi dicevano: Nell’ultimo tempo vi saranno degli schernitori che cammineranno secondo le loro empie concupiscenze.
 ###### 19
 <span class=vrs>19</span>Costoro son quelli che provocano le divisioni, gente sensuale, che non ha lo Spirito.
 ###### 20
 <span class=vrs>20</span>Ma voi, diletti, edificando voi stessi sulla vostra santissima fede, pregando mediante lo Spirito Santo,
 ###### 21
-<span class=vrs>21</span>conservatevi nell'amor di Dio, aspettando la misericordia del Signor nostro Gesù Cristo per aver la vita eterna.
+<span class=vrs>21</span>conservatevi nell’amor di Dio, aspettando la misericordia del Signor nostro Gesù Cristo per aver la vita eterna.
 ###### 22
 <span class=vrs>22</span>E abbiate pietà degli uni che sono nel dubbio;
 ###### 23
@@ -109,7 +109,7 @@ Versione Riveduta:
 ###### 24
 <span class=vrs>24</span>Or a Colui che è potente da preservarvi da ogni caduta e da farvi comparire davanti alla sua gloria irreprensibili, con giubilo,
 ###### 25
-<span class=vrs>25</span>all'Iddio unico, Salvator nostro per mezzo di Gesù Cristo nostro Signore, siano gloria, maestà, forza e potestà, da ogni eternità, ora e per tutti i secoli. Amen.
+<span class=vrs>25</span>all’Iddio unico, Salvator nostro per mezzo di Gesù Cristo nostro Signore, siano gloria, maestà, forza e potestà, da ogni eternità, ora e per tutti i secoli. Amen.
 
 ***
 

@@ -67,7 +67,7 @@ Versione C.E.I. 1974:
 ###### 1
 <span class=vrs>1</span>Quando Gesù fu sceso dal monte, molta folla lo seguiva. Ed ecco venire un lebbroso e prostrarsi a lui dicendo: "Signore, se vuoi, tu puoi sanarmi".
 ###### 3
-<span class=vrs>3</span>E Gesù stese la mano e lo toccò dicendo: "Lo voglio, sii sanato". E subito la sua lebbra scomparve. Poi Gesù gli disse: "Guardati dal dirlo a qualcuno, ma và a mostrarti al sacerdote e presenta l'offerta prescritta da Mosè, e ciò serva come testimonianza per loro".
+<span class=vrs>3</span>E Gesù stese la mano e lo toccò dicendo: "Lo voglio, sii sanato". E subito la sua lebbra scomparve. Poi Gesù gli disse: "Guardati dal dirlo a qualcuno, ma và a mostrarti al sacerdote e presenta l’offerta prescritta da Mosè, e ciò serva come testimonianza per loro".
 ###### 5
 <span class=vrs>5</span>Entrato in Cafarnao, gli venne incontro un centurione che lo scongiurava:
 ###### 6
@@ -77,15 +77,15 @@ Versione C.E.I. 1974:
 ###### 8
 <span class=vrs>8</span>Ma il centurione riprese: "Signore, io non son degno che tu entri sotto il mio tetto, dì soltanto una parola e il mio servo sarà guarito.
 ###### 9
-<span class=vrs>9</span>Perché anch'io, che sono un subalterno, ho soldati sotto di me e dico a uno: Va', ed egli va; e a un altro; Vieni, ed egli viene, e al mio servo: Fa' questo, ed egli lo fa".
+<span class=vrs>9</span>Perché anch’io, che sono un subalterno, ho soldati sotto di me e dico a uno: Va’, ed egli va; e a un altro; Vieni, ed egli viene, e al mio servo: Fa’ questo, ed egli lo fa".
 ###### 10
-<span class=vrs>10</span>All'udire ciò, Gesù ne fu ammirato e disse a quelli che lo seguivano: "In verità vi dico, in Israele non ho trovato nessuno con una fede così grande.
+<span class=vrs>10</span>All’udire ciò, Gesù ne fu ammirato e disse a quelli che lo seguivano: "In verità vi dico, in Israele non ho trovato nessuno con una fede così grande.
 ###### 11
-<span class=vrs>11</span>Ora vi dico che molti verranno dall'oriente e dall'occidente e siederanno a mensa con Abramo, Isacco e Giacobbe nel regno dei cieli,
+<span class=vrs>11</span>Ora vi dico che molti verranno dall’oriente e dall’occidente e siederanno a mensa con Abramo, Isacco e Giacobbe nel regno dei cieli,
 ###### 12
 <span class=vrs>12</span>mentre i figli del regno saranno cacciati fuori nelle tenebre, ove sarà pianto e stridore di denti".
 ###### 13
-<span class=vrs>13</span>E Gesù disse al centurione: "Và, e sia fatto secondo la tua fede". In quell'istante il servo guarì.
+<span class=vrs>13</span>E Gesù disse al centurione: "Và, e sia fatto secondo la tua fede". In quell’istante il servo guarì.
 ###### 14
 <span class=vrs>14</span>Entrato Gesù nella casa di Pietro, vide la suocera di lui che giaceva a letto con la febbre.
 ###### 15
@@ -95,11 +95,11 @@ Versione C.E.I. 1974:
 ###### 17
 <span class=vrs>17</span>perché si adempisse ciò che era stato detto per mezzo del profeta Isaia: Egli ha preso le nostre infermità e si è addossato le nostre malattie.
 ###### 18
-<span class=vrs>18</span>Vedendo Gesù una gran folla intorno a sé, ordinò di passare all'altra riva.
+<span class=vrs>18</span>Vedendo Gesù una gran folla intorno a sé, ordinò di passare all’altra riva.
 ###### 19
 <span class=vrs>19</span>Allora uno scriba si avvicinò e gli disse: "Maestro, io ti seguirò dovunque tu andrai".
 ###### 20
-<span class=vrs>20</span>Gli rispose Gesù: "Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio dell'uomo non ha dove posare il capo".
+<span class=vrs>20</span>Gli rispose Gesù: "Le volpi hanno le loro tane e gli uccelli del cielo i loro nidi, ma il Figlio dell’uomo non ha dove posare il capo".
 ###### 21
 <span class=vrs>21</span>E un altro dei discepoli gli disse: "Signore, permettimi di andar prima a seppellire mio padre".
 ###### 22
@@ -115,11 +115,11 @@ Versione C.E.I. 1974:
 ###### 27
 <span class=vrs>27</span>I presenti furono presi da stupore e dicevano: "Chi è mai costui al quale i venti e il mare obbediscono?".
 ###### 28
-<span class=vrs>28</span>Giunto all'altra riva, nel paese dei Gadarèni, due indemoniati, uscendo dai sepolcri, gli vennero incontro; erano tanto furiosi che nessuno poteva più passare per quella strada.
+<span class=vrs>28</span>Giunto all’altra riva, nel paese dei Gadarèni, due indemoniati, uscendo dai sepolcri, gli vennero incontro; erano tanto furiosi che nessuno poteva più passare per quella strada.
 ###### 29
 <span class=vrs>29</span>Cominciarono a gridare: "Che cosa abbiamo noi in comune con te, Figlio di Dio? Sei venuto qui prima del tempo a tormentarci?".
 ###### 30
-<span class=vrs>30</span>A qualche distanza da loro c'era una numerosa mandria di porci a pascolare;
+<span class=vrs>30</span>A qualche distanza da loro c’era una numerosa mandria di porci a pascolare;
 ###### 31
 <span class=vrs>31</span>e i demòni presero a scongiurarlo dicendo: "Se ci scacci, mandaci in quella mandria".
 ###### 32

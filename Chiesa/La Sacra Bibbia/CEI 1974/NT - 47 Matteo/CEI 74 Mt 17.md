@@ -64,27 +64,27 @@ Versione C.E.I. 1974:
 ###### 5
 <span class=vrs>5</span>Egli stava ancora parlando quando una nube luminosa li avvolse con la sua ombra. Ed ecco una voce che diceva: "Questi è il Figlio mio prediletto, nel quale mi sono compiaciuto. Ascoltatelo".
 ###### 6
-<span class=vrs>6</span>All'udire ciò, i discepoli caddero con la faccia a terra e furono presi da grande timore.
+<span class=vrs>6</span>All’udire ciò, i discepoli caddero con la faccia a terra e furono presi da grande timore.
 ###### 7
 <span class=vrs>7</span>Ma Gesù si avvicinò e, toccatili, disse: "Alzatevi e non temete".
 ###### 8
 <span class=vrs>8</span>Sollevando gli occhi non videro più nessuno, se non Gesù solo.
 ###### 9
-<span class=vrs>9</span>E mentre discendevano dal monte, Gesù ordinò loro: "Non parlate a nessuno di questa visione, finché il Figlio dell'uomo non sia risorto dai morti".
+<span class=vrs>9</span>E mentre discendevano dal monte, Gesù ordinò loro: "Non parlate a nessuno di questa visione, finché il Figlio dell’uomo non sia risorto dai morti".
 ###### 10
 <span class=vrs>10</span>Allora i discepoli gli domandarono: "Perché dunque gli scribi dicono che prima deve venire Elia?".
 ###### 11
 <span class=vrs>11</span>Ed egli rispose: "Sì, verrà Elia e ristabilirà ogni cosa.
 ###### 12
-<span class=vrs>12</span>Ma io vi dico: Elia è già venuto e non l'hanno riconosciuto; anzi, l'hanno trattato come hanno voluto. Così anche il Figlio dell'uomo dovrà soffrire per opera loro".
+<span class=vrs>12</span>Ma io vi dico: Elia è già venuto e non l’hanno riconosciuto; anzi, l’hanno trattato come hanno voluto. Così anche il Figlio dell’uomo dovrà soffrire per opera loro".
 ###### 13
 <span class=vrs>13</span>Allora i discepoli compresero che egli parlava di Giovanni il Battista.
 ###### 14
 <span class=vrs>14</span>Appena ritornati presso la folla, si avvicinò a Gesù un uomo
 ###### 15
-<span class=vrs>15</span>che, gettatosi in ginocchio, gli disse: "Signore, abbi pietà di mio figlio. Egli è epilettico e soffre molto; cade spesso nel fuoco e spesso anche nell'acqua;
+<span class=vrs>15</span>che, gettatosi in ginocchio, gli disse: "Signore, abbi pietà di mio figlio. Egli è epilettico e soffre molto; cade spesso nel fuoco e spesso anche nell’acqua;
 ###### 16
-<span class=vrs>16</span>l'ho già portato dai tuoi discepoli, ma non hanno potuto guarirlo".
+<span class=vrs>16</span>l’ho già portato dai tuoi discepoli, ma non hanno potuto guarirlo".
 ###### 17
 <span class=vrs>17</span>E Gesù rispose: "O generazione incredula e perversa! Fino a quando starò con voi? Fino a quando dovrò sopportarvi? Portatemelo qui".
 ###### 18
@@ -96,7 +96,7 @@ Versione C.E.I. 1974:
 ###### 21
 <span class=vrs>21</span>[Questa razza di demòni non si scaccia se non con la preghiera e il digiuno]".
 ###### 22
-<span class=vrs>22</span>Mentre si trovavano insieme in Galilea, Gesù disse loro: "Il Figlio dell'uomo sta per esser consegnato nelle mani degli uomini
+<span class=vrs>22</span>Mentre si trovavano insieme in Galilea, Gesù disse loro: "Il Figlio dell’uomo sta per esser consegnato nelle mani degli uomini
 ###### 23
 <span class=vrs>23</span>e lo uccideranno, ma il terzo giorno risorgerà". Ed essi furono molto rattristati.
 ###### 24
@@ -106,7 +106,7 @@ Versione C.E.I. 1974:
 ###### 26
 <span class=vrs>26</span>Rispose: "Dagli estranei". E Gesù: "Quindi i figli sono esenti.
 ###### 27
-<span class=vrs>27</span>Ma perché non si scandalizzino, và al mare, getta l'amo e il primo pesce che viene prendilo, aprigli la bocca e vi troverai una moneta d'argento. Prendila e consegnala a loro per me e per te".
+<span class=vrs>27</span>Ma perché non si scandalizzino, và al mare, getta l’amo e il primo pesce che viene prendilo, aprigli la bocca e vi troverai una moneta d’argento. Prendila e consegnala a loro per me e per te".
 
 ***
 

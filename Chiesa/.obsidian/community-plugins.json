@@ -1,6 +1,5 @@
 [
   "color-picker",
-  "dataview",
   "templater-obsidian",
   "reveal-folded",
   "global-search-and-replace",
@@ -19,9 +18,11 @@
   "metaedit",
   "vocabolario-indexer",
   "modalforms",
-  "modal4biblerefs",
   "obsidian-style-settings",
   "notemd",
   "chatgpt-md",
-  "smart-second-brain"
+  "smart-second-brain",
+  "obsidian-modal-4bible-refs",
+  "obsidian-build-vocabulary",
+  "dataview"
 ]

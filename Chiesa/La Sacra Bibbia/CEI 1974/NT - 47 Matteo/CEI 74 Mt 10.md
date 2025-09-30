@@ -54,17 +54,17 @@ Versione C.E.I. 1974:
 ***
 
 ###### 1
-<span class=vrs>1</span>Chiamati a sé i dodici discepoli, diede loro il potere di scacciare gli spiriti immondi e di guarire ogni sorta di malattie e d'infermità.
+<span class=vrs>1</span>Chiamati a sé i dodici discepoli, diede loro il potere di scacciare gli spiriti immondi e di guarire ogni sorta di malattie e d’infermità.
 ###### 2
 <span class=vrs>2</span>I nomi dei dodici apostoli sono: primo, Simone, chiamato Pietro, e Andrea, suo fratello; Giacomo di Zebedèo e Giovanni suo fratello,
 ###### 3
 <span class=vrs>3</span>Filippo e Bartolomeo, Tommaso e Matteo il pubblicano, Giacomo di Alfeo e Taddeo,
 ###### 4
-<span class=vrs>4</span>Simone il Cananeo e Giuda l'Iscariota, che poi lo tradì.
+<span class=vrs>4</span>Simone il Cananeo e Giuda l’Iscariota, che poi lo tradì.
 ###### 5
 <span class=vrs>5</span>Questi dodici Gesù li inviò dopo averli così istruiti: "Non andate fra i pagani e non entrate nelle città dei Samaritani;
 ###### 6
-<span class=vrs>6</span>rivolgetevi piuttosto alle pecore perdute della casa d'Israele.
+<span class=vrs>6</span>rivolgetevi piuttosto alle pecore perdute della casa d’Israele.
 ###### 7
 <span class=vrs>7</span>E strada facendo, predicate che il regno dei cieli è vicino.
 ###### 8
@@ -72,7 +72,7 @@ Versione C.E.I. 1974:
 ###### 9
 <span class=vrs>9</span>Non procuratevi oro, né argento, né moneta di rame nelle vostre cinture,
 ###### 10
-<span class=vrs>10</span>né bisaccia da viaggio, né due tuniche, né sandali, né bastone, perché l'operaio ha diritto al suo nutrimento.
+<span class=vrs>10</span>né bisaccia da viaggio, né due tuniche, né sandali, né bastone, perché l’operaio ha diritto al suo nutrimento.
 ###### 11
 <span class=vrs>11</span>In qualunque città o villaggio entriate, fatevi indicare se vi sia qualche persona degna, e lì rimanete fino alla vostra partenza.
 ###### 12
@@ -98,17 +98,17 @@ Versione C.E.I. 1974:
 ###### 22
 <span class=vrs>22</span>E sarete odiati da tutti a causa del mio nome; ma chi persevererà sino alla fine sarà salvato.
 ###### 23
-<span class=vrs>23</span>Quando vi perseguiteranno in una città, fuggite in un'altra; in verità vi dico: non avrete finito di percorrere le città di Israele, prima che venga il Figlio dell'uomo.
+<span class=vrs>23</span>Quando vi perseguiteranno in una città, fuggite in un’altra; in verità vi dico: non avrete finito di percorrere le città di Israele, prima che venga il Figlio dell’uomo.
 ###### 24
 <span class=vrs>24</span>Un discepolo non è da più del maestro, né un servo da più del suo padrone;
 ###### 25
 <span class=vrs>25</span>è sufficiente per il discepolo essere come il suo maestro e per il servo come il suo padrone. Se hanno chiamato Beelzebùl il padrone di casa, quanto più i suoi familiari!
 ###### 26
-<span class=vrs>26</span>Non li temete dunque, poiché non v'è nulla di nascosto che non debba essere svelato, e di segreto che non debba essere manifestato.
+<span class=vrs>26</span>Non li temete dunque, poiché non v’è nulla di nascosto che non debba essere svelato, e di segreto che non debba essere manifestato.
 ###### 27
-<span class=vrs>27</span>Quello che vi dico nelle tenebre ditelo nella luce, e quello che ascoltate all'orecchio predicatelo sui tetti.
+<span class=vrs>27</span>Quello che vi dico nelle tenebre ditelo nella luce, e quello che ascoltate all’orecchio predicatelo sui tetti.
 ###### 28
-<span class=vrs>28</span>E non abbiate paura di quelli che uccidono il corpo, ma non hanno potere di uccidere l'anima; temete piuttosto colui che ha il potere di far perire e l'anima e il corpo nella Geenna.
+<span class=vrs>28</span>E non abbiate paura di quelli che uccidono il corpo, ma non hanno potere di uccidere l’anima; temete piuttosto colui che ha il potere di far perire e l’anima e il corpo nella Geenna.
 ###### 29
 <span class=vrs>29</span>Due passeri non si vendono forse per un soldo? Eppure neanche uno di essi cadrà a terra senza che il Padre vostro lo voglia.
 ###### 30
@@ -116,15 +116,15 @@ Versione C.E.I. 1974:
 ###### 31
 <span class=vrs>31</span>non abbiate dunque timore: voi valete più di molti passeri!
 ###### 32
-<span class=vrs>32</span>Chi dunque mi riconoscerà davanti agli uomini, anch'io lo riconoscerò davanti al Padre mio che è nei cieli;
+<span class=vrs>32</span>Chi dunque mi riconoscerà davanti agli uomini, anch’io lo riconoscerò davanti al Padre mio che è nei cieli;
 ###### 33
-<span class=vrs>33</span>chi invece mi rinnegherà davanti agli uomini, anch'io lo rinnegherò davanti al Padre mio che è nei cieli.
+<span class=vrs>33</span>chi invece mi rinnegherà davanti agli uomini, anch’io lo rinnegherò davanti al Padre mio che è nei cieli.
 ###### 34
 <span class=vrs>34</span>Non crediate che io sia venuto a portare pace sulla terra; non sono venuto a portare pace, ma una spada.
 ###### 35
 <span class=vrs>35</span>Sono venuto infatti a separare il figlio dal padre, la figlia dalla madre, la nuora dalla suocera:
 ###### 36
-<span class=vrs>36</span>e i nemici dell'uomo saranno quelli della sua casa.
+<span class=vrs>36</span>e i nemici dell’uomo saranno quelli della sua casa.
 ###### 37
 <span class=vrs>37</span>Chi ama il padre o la madre più di me non è degno di me; chi ama il figlio o la figlia più di me non è degno di me;
 ###### 38

@@ -1,5 +1,7 @@
 ---
 cssclasses: docVat
+progr-doc: x
+num-doc: x
 autore-doc: "[[x|x]]"
 tipo-doc: "[[Brevi Encicliche|Breve Enciclica]]"
 titolo-doc: x
@@ -26,11 +28,11 @@ modificato: 2025/08/28 22:12:53
 
 ***
 
-Breve Enciclica `class: tipo-documento`
+Breve Enciclica `class: tipoDoc`
 
-del sommo pontefice `class: tipo-autorita`
+del sommo pontefice `class: tipoAut`
 
-X `class: nome-autorita`
+X `class: nomeAut`
 
 # X
 
@@ -43,12 +45,12 @@ x `class: incipit`
 x `class: proemio`
 
 
-Dato x `class: data-luogo`
+Dato x `class: dataLuogo`
 
-x `class: firma-centro`
+x `class: firmaC`
 
 ***
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
 
 

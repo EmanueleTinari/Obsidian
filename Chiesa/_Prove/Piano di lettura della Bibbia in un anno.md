@@ -7,14 +7,14 @@ modificato: 2025/08/11 22:25:05
 
 ## Introduzione
 
-Questo piano porta a leggere l'intera Bibbia in un anno, secondo il tracciato indicato da don Mike Schmitz, a sua volta ispirato da "La grande avventura della linea del tempo biblica", del noto insegnante cattolico di Sacra Scrittura Jeff Cavins.
+Questo piano porta a leggere l’intera Bibbia in un anno, secondo il tracciato indicato da don Mike Schmitz, a sua volta ispirato da "La grande avventura della linea del tempo biblica", del noto insegnante cattolico di Sacra Scrittura Jeff Cavins.
 Consigliamo di munirsi di un quaderno su cui trascrivere tutti i versetti che ci appaiono più importanti da ricordare e tutte le domande che pian piano sorgono per una più profonda comprensione del testo, per poi rivolgerle ad un esperto, ad un sacerdote, ad un padre spirituale.
 La versione che consigliamo è quella della Bibbia di Gerusalemme che unisce al testo della CEI (Conferenza Episcopale Italiana, cioè il testo che viene letto nella liturgia della Chiesa italiana, testo che cerca di rispettare la lettera del testo biblico senza aggiungere né togliere) un apparato critico di note e di riferimenti di grande utilità per la comprensione di tutti i passi più difficili.
 La PAROLA di DIO secondo il Catechismo della Chiesa Cattolica.
 N. 103 La Chiesa ha sempre venerato le divine Scritture, come venera il Corpo stesso del Signore. Essa non cessa di porgere ai fedeli il Pane di vita preso dalla mensa della Parola di Dio e del Corpo di Cristo [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev#<span class="art" id="cos-dev_art21" name="cos-dev_art21">21</span>.|Cfr. Concilio Ecumenico Vaticano II, Dei Verbum, 21]].
 N. 104 Nella Sacra Scrittura, la Chiesa trova incessantemente il suo nutrimento e il suo vigore; [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev#<span class="art" id="cos-dev_art24" name="cos-dev_art24">24</span>.|Cfr. ibidem, 24]] infatti attraverso la divina Scrittura essa non accoglie soltanto una parola umana, ma quello che è realmente: la Parola di Dio [Cfr. 1Ts 2,13 ]. “Nei Libri Sacri, infatti, il Padre che è nei cieli viene con molta amorevolezza incontro ai suoi figli ed entra in conversazione con loro”  [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev#<span class="art" id="cos-dev_art21" name="cos-dev_art21">21</span>.|Concilio Ecumenico Vaticano II, Dei Verbum, 21]].
-N. 105 Dio è l'Autore della Sacra Scrittura. “Le cose divinamente rivelate, che nei libri della Sacra Scrittura sono contenute e presentate, furono consegnate sotto l'ispirazione dello Spirito Santo.
-La Santa Madre Chiesa, per fede apostolica, ritiene sacri e canonici tutti interi i libri sia dell'Antico che del Nuovo Testamento, con tutte le loro parti, perché, scritti sotto ispirazione dello Spirito Santo, hanno Dio per autore e come tali sono stati consegnati alla Chiesa” [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev#<span class="art" id="cos-dev_art21" name="cos-dev_art21">21</span>.|Concilio Ecumenico Vaticano II, Dei Verbum, 21]].
+N. 105 Dio è l’Autore della Sacra Scrittura. “Le cose divinamente rivelate, che nei libri della Sacra Scrittura sono contenute e presentate, furono consegnate sotto l’ispirazione dello Spirito Santo.
+La Santa Madre Chiesa, per fede apostolica, ritiene sacri e canonici tutti interi i libri sia dell’Antico che del Nuovo Testamento, con tutte le loro parti, perché, scritti sotto ispirazione dello Spirito Santo, hanno Dio per autore e come tali sono stati consegnati alla Chiesa” [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev#<span class="art" id="cos-dev_art21" name="cos-dev_art21">21</span>.|Concilio Ecumenico Vaticano II, Dei Verbum, 21]].
 
 ## Struttura
 
@@ -32,33 +32,33 @@ Le letture in grassetto indicano i 14 libri narrativi della Bibbia. I Salmi e i 
 | Giorno | Prima Lettura | Seconda Lettura | Salmi / Proverbi / Cantico |
 | --- | --- | --- | --- |
 | Primo periodo storico: | **Origini del mondo** |  |  |
-| **Giorno 1** | *<span class="BibleRef">[[Gen 1-2\|Genesi 1-2]]</span>* | | *<span class="BibleRef">[[Sal 19\|Salmo 19]]</span>* |
-| **Giorno 2** | *<span class="BibleRef">[[Gen 3-4\|Genesi 3-4]]</span>* | | *<span class="BibleRef">[[Sal 104\|Salmo 104]]</span>* |
-| **Giorno 3** | *<span class="BibleRef">[[Gen 5-6\|Genesi 5-6]]</span>* | | *<span class="BibleRef">[[Sal 136\|Salmo 136]]</span>* |
-| **Giorno 4** | *<span class="BibleRef">[[Gen 7-9\|Genesi 7-9]]</span>* | | *<span class="BibleRef">[[Sal 1\|Salmo 1]]</span>* |
-| **Giorno 5** | *<span class="BibleRef">[[Gen 10-11\|Genesi 10-11]]</span>* | | *<span class="BibleRef">[[Sal 2\|Salmo 2]]</span>* |
+| **Giorno 1** | *<span class="BibleRef">[[Gn 1-2\|Genesi 1-2]]</span>* | | *<span class="BibleRef">[[Sal 19\|Salmo 19]]</span>* |
+| **Giorno 2** | *<span class="BibleRef">[[Gn 3-4\|Genesi 3-4]]</span>* | | *<span class="BibleRef">[[Sal 104\|Salmo 104]]</span>* |
+| **Giorno 3** | *<span class="BibleRef">[[Gn 5-6\|Genesi 5-6]]</span>* | | *<span class="BibleRef">[[Sal 136\|Salmo 136]]</span>* |
+| **Giorno 4** | *<span class="BibleRef">[[Gn 7-9\|Genesi 7-9]]</span>* | | *<span class="BibleRef">[[Sal 1\|Salmo 1]]</span>* |
+| **Giorno 5** | *<span class="BibleRef">[[Gn 10-11\|Genesi 10-11]]</span>* | | *<span class="BibleRef">[[Sal 2\|Salmo 2]]</span>* |
 | Secondo periodo storico: | **I Patriarchi** |  |  |
-| **Giorno 6** | *<span class="BibleRef">[[Gen 12-13\|Genesi 12-13]]</span>* | *<span class="BibleRef">[[Gb 1-2\|Giobbe 1-2]]</span>* | *<span class="BibleRef">[[Prov 1,1-7\|Proverbi 1,1-7]]</span>* |
-| **Giorno 7** | *<span class="BibleRef">[[Gen 14-15\|Genesi 14-15]]</span>* | *<span class="BibleRef">[[Gb 3-4\|Giobbe 3-4]]</span>* | *<span class="BibleRef">[[Prov 1,8-19\|Proverbi 1,8-19]]</span>* |
-| **Giorno 8** | *<span class="BibleRef">[[Gen 16-17\|Genesi 16-17]]</span>* | *<span class="BibleRef">[[Gb 5-6\|Giobbe 5-6]]</span>* | *<span class="BibleRef">[[Prov 1,20-33\|Proverbi 1,20-33]]</span>* |
-| **Giorno 9** | *<span class="BibleRef">[[Gen 18-19\|Genesi 18-19]]</span>* | *<span class="BibleRef">[[Gb 7-8\|Giobbe 7-8]]</span>* | *<span class="BibleRef">[[Prov 2,1-5\|Proverbi 2,1-5]]</span>* |
-| **Giorno 10** | *<span class="BibleRef">[[Gen 20-21\|Genesi 20-21]]</span>* | *<span class="BibleRef">[[Gb 9-10\|Giobbe 9-10]]</span>* | *<span class="BibleRef">[[Prov 2,6-8\|Proverbi 2,6-8]]</span>* |
-| **Giorno 11** | *<span class="BibleRef">[[Gen 22-23\|Genesi 22-23]]</span>* | *<span class="BibleRef">[[Gb 11-12\|Giobbe 11-12]]</span>* | *<span class="BibleRef">[[Prov 2,9-15\|Proverbi 2,9-15]]</span>* |
-| **Giorno 12** | *<span class="BibleRef">[[Gen 24\|Genesi 24]]</span>* | *<span class="BibleRef">[[Gb 13-14\|Giobbe 13-14]]</span>* | *<span class="BibleRef">[[Prov 2,16-19\|Proverbi 2,16-19]]</span>* |
-| **Giorno 13** | *<span class="BibleRef">[[Gen 25-26\|Genesi 25-26]]</span>* | *<span class="BibleRef">[[Gb 15-16\|Giobbe 15-16]]</span>* | *<span class="BibleRef">[[Prov 2,20-22\|Proverbi 2,20-22]]</span>* |
-| **Giorno 14** | *<span class="BibleRef">[[Gen 27-28\|Genesi 27-28]]</span>* | *<span class="BibleRef">[[Gb 17-18\|Giobbe 17-18]]</span>* | *<span class="BibleRef">[[Prov 3,1-4\|Proverbi 3,1-4]]</span>* |
-| **Giorno 15** | *<span class="BibleRef">[[Gen 29-30\|Genesi 29-30]]</span>* | *<span class="BibleRef">[[Gb 19-20\|Giobbe 19-20]]</span>* | *<span class="BibleRef">[[Prov 3,5-8\|Proverbi 3,5-8]]</span>* |
-| **Giorno 16** | *<span class="BibleRef">[[Gen 31-32\|Genesi 31-32]]</span>* | *<span class="BibleRef">[[Gb 21-22\|Giobbe 21-22]]</span>* | *<span class="BibleRef">[[Prov 3,9-12\|Proverbi 3,9-12]]</span>* |
-| **Giorno 17** | *<span class="BibleRef">[[Gen 33-34\|Genesi 33-34]]</span>* | *<span class="BibleRef">[[Gb 23-24\|Giobbe 23-24]]</span>* | *<span class="BibleRef">[[Prov 3,13-18\|Proverbi 3,13-18]]</span>* |
-| **Giorno 18** | *<span class="BibleRef">[[Gen 35-36\|Genesi 35-36]]</span>* | *<span class="BibleRef">[[Gb 25-26\|Giobbe 25-26]]</span>* | *<span class="BibleRef">[[Prov 3,19-24\|Proverbi 3,19-24]]</span>* |
-| **Giorno 19** | *<span class="BibleRef">[[Gen 37\|Genesi 37]]</span>* | *<span class="BibleRef">[[Gb 27-28\|Giobbe 27-28]]</span>* | *<span class="BibleRef">[[Prov 3,25-27\|Proverbi 3,25-27]]</span>* |
-| **Giorno 20** | *<span class="BibleRef">[[Gen 38\|Genesi 38]]</span>* | *<span class="BibleRef">[[Gb 29-30\|Giobbe 29-30]]</span>* | *<span class="BibleRef">[[Prov 3,28-32\|Proverbi 3,28-32]]</span>* |
-| **Giorno 21** | *<span class="BibleRef">[[Gen 39-40\|Genesi 39-40]]</span>* | *<span class="BibleRef">[[Gb 31-32\|Giobbe 31-32]]</span>* | *<span class="BibleRef">[[Prov 3,33-35\|Proverbi 3,33-35]]</span>* |
-| **Giorno 22** | *<span class="BibleRef">[[Gen 41-42\|Genesi 41-42]]</span>* | *<span class="BibleRef">[[Gb 33-34\|Giobbe 33-34]]</span>* | *<span class="BibleRef">[[Prov 4,1-9\|Proverbi 4,1-9]]</span>* |
-| **Giorno 23** | *<span class="BibleRef">[[Gen 43-44\|Genesi 43-44]]</span>* | *<span class="BibleRef">[[Gb 35-36\|Giobbe 35-36]]</span>* | *<span class="BibleRef">[[Prov 4,10-19\|Proverbi 4,10-19]]</span>* |
-| **Giorno 24** | *<span class="BibleRef">[[Gen 45-46\|Genesi 45-46]]</span>* | *<span class="BibleRef">[[Gb 37-38\|Giobbe 37-38]]</span>* | *<span class="BibleRef">[[Prov 4,20-27\|Proverbi 4,20-27]]</span>* |
-| **Giorno 25** | *<span class="BibleRef">[[Gen 47-48\|Genesi 47-48]]</span>* | *<span class="BibleRef">[[Gb 39-40\|Giobbe 39-40]]</span>* | *<span class="BibleRef">[[Sal 16\|Salmo 16]]</span>* |
-| **Giorno 26** | *<span class="BibleRef">[[Gen 49-50\|Genesi 49-50]]</span>* | *<span class="BibleRef">[[Gb 41-42\|Giobbe 41-42]]</span>* | *<span class="BibleRef">[[Sal 17\|Salmo 17]]</span>* |
+| **Giorno 6** | *<span class="BibleRef">[[Gn 12-13\|Genesi 12-13]]</span>* | *<span class="BibleRef">[[Gb 1-2\|Giobbe 1-2]]</span>* | *<span class="BibleRef">[[Prov 1,1-7\|Proverbi 1,1-7]]</span>* |
+| **Giorno 7** | *<span class="BibleRef">[[Gn 14-15\|Genesi 14-15]]</span>* | *<span class="BibleRef">[[Gb 3-4\|Giobbe 3-4]]</span>* | *<span class="BibleRef">[[Prov 1,8-19\|Proverbi 1,8-19]]</span>* |
+| **Giorno 8** | *<span class="BibleRef">[[Gn 16-17\|Genesi 16-17]]</span>* | *<span class="BibleRef">[[Gb 5-6\|Giobbe 5-6]]</span>* | *<span class="BibleRef">[[Prov 1,20-33\|Proverbi 1,20-33]]</span>* |
+| **Giorno 9** | *<span class="BibleRef">[[Gn 18-19\|Genesi 18-19]]</span>* | *<span class="BibleRef">[[Gb 7-8\|Giobbe 7-8]]</span>* | *<span class="BibleRef">[[Prov 2,1-5\|Proverbi 2,1-5]]</span>* |
+| **Giorno 10** | *<span class="BibleRef">[[Gn 20-21\|Genesi 20-21]]</span>* | *<span class="BibleRef">[[Gb 9-10\|Giobbe 9-10]]</span>* | *<span class="BibleRef">[[Prov 2,6-8\|Proverbi 2,6-8]]</span>* |
+| **Giorno 11** | *<span class="BibleRef">[[Gn 22-23\|Genesi 22-23]]</span>* | *<span class="BibleRef">[[Gb 11-12\|Giobbe 11-12]]</span>* | *<span class="BibleRef">[[Prov 2,9-15\|Proverbi 2,9-15]]</span>* |
+| **Giorno 12** | *<span class="BibleRef">[[Gn 24\|Genesi 24]]</span>* | *<span class="BibleRef">[[Gb 13-14\|Giobbe 13-14]]</span>* | *<span class="BibleRef">[[Prov 2,16-19\|Proverbi 2,16-19]]</span>* |
+| **Giorno 13** | *<span class="BibleRef">[[Gn 25-26\|Genesi 25-26]]</span>* | *<span class="BibleRef">[[Gb 15-16\|Giobbe 15-16]]</span>* | *<span class="BibleRef">[[Prov 2,20-22\|Proverbi 2,20-22]]</span>* |
+| **Giorno 14** | *<span class="BibleRef">[[Gn 27-28\|Genesi 27-28]]</span>* | *<span class="BibleRef">[[Gb 17-18\|Giobbe 17-18]]</span>* | *<span class="BibleRef">[[Prov 3,1-4\|Proverbi 3,1-4]]</span>* |
+| **Giorno 15** | *<span class="BibleRef">[[Gn 29-30\|Genesi 29-30]]</span>* | *<span class="BibleRef">[[Gb 19-20\|Giobbe 19-20]]</span>* | *<span class="BibleRef">[[Prov 3,5-8\|Proverbi 3,5-8]]</span>* |
+| **Giorno 16** | *<span class="BibleRef">[[Gn 31-32\|Genesi 31-32]]</span>* | *<span class="BibleRef">[[Gb 21-22\|Giobbe 21-22]]</span>* | *<span class="BibleRef">[[Prov 3,9-12\|Proverbi 3,9-12]]</span>* |
+| **Giorno 17** | *<span class="BibleRef">[[Gn 33-34\|Genesi 33-34]]</span>* | *<span class="BibleRef">[[Gb 23-24\|Giobbe 23-24]]</span>* | *<span class="BibleRef">[[Prov 3,13-18\|Proverbi 3,13-18]]</span>* |
+| **Giorno 18** | *<span class="BibleRef">[[Gn 35-36\|Genesi 35-36]]</span>* | *<span class="BibleRef">[[Gb 25-26\|Giobbe 25-26]]</span>* | *<span class="BibleRef">[[Prov 3,19-24\|Proverbi 3,19-24]]</span>* |
+| **Giorno 19** | *<span class="BibleRef">[[Gn 37\|Genesi 37]]</span>* | *<span class="BibleRef">[[Gb 27-28\|Giobbe 27-28]]</span>* | *<span class="BibleRef">[[Prov 3,25-27\|Proverbi 3,25-27]]</span>* |
+| **Giorno 20** | *<span class="BibleRef">[[Gn 38\|Genesi 38]]</span>* | *<span class="BibleRef">[[Gb 29-30\|Giobbe 29-30]]</span>* | *<span class="BibleRef">[[Prov 3,28-32\|Proverbi 3,28-32]]</span>* |
+| **Giorno 21** | *<span class="BibleRef">[[Gn 39-40\|Genesi 39-40]]</span>* | *<span class="BibleRef">[[Gb 31-32\|Giobbe 31-32]]</span>* | *<span class="BibleRef">[[Prov 3,33-35\|Proverbi 3,33-35]]</span>* |
+| **Giorno 22** | *<span class="BibleRef">[[Gn 41-42\|Genesi 41-42]]</span>* | *<span class="BibleRef">[[Gb 33-34\|Giobbe 33-34]]</span>* | *<span class="BibleRef">[[Prov 4,1-9\|Proverbi 4,1-9]]</span>* |
+| **Giorno 23** | *<span class="BibleRef">[[Gn 43-44\|Genesi 43-44]]</span>* | *<span class="BibleRef">[[Gb 35-36\|Giobbe 35-36]]</span>* | *<span class="BibleRef">[[Prov 4,10-19\|Proverbi 4,10-19]]</span>* |
+| **Giorno 24** | *<span class="BibleRef">[[Gn 45-46\|Genesi 45-46]]</span>* | *<span class="BibleRef">[[Gb 37-38\|Giobbe 37-38]]</span>* | *<span class="BibleRef">[[Prov 4,20-27\|Proverbi 4,20-27]]</span>* |
+| **Giorno 25** | *<span class="BibleRef">[[Gn 47-48\|Genesi 47-48]]</span>* | *<span class="BibleRef">[[Gb 39-40\|Giobbe 39-40]]</span>* | *<span class="BibleRef">[[Sal 16\|Salmo 16]]</span>* |
+| **Giorno 26** | *<span class="BibleRef">[[Gn 49-50\|Genesi 49-50]]</span>* | *<span class="BibleRef">[[Gb 41-42\|Giobbe 41-42]]</span>* | *<span class="BibleRef">[[Sal 17\|Salmo 17]]</span>* |
 | Terzo periodo storico: | **Egitto ed Esodo** |  |  |
 | **Giorno 27** | *<span class="BibleRef">[[Es 1-2\|Esodo 1-2]]</span>* | *<span class="BibleRef">[[Lv 1\|Levitico 1]]</span>* | *<span class="BibleRef">[[Sal 44\|Salmo 44]]</span>* |
 | **Giorno 28** | *<span class="BibleRef">[[Es 3\|Esodo 3]]</span>* | *<span class="BibleRef">[[Lv 2-3\|Levitico 2-3]]</span>* | *<span class="BibleRef">[[Sal 45\|Salmo 45]]</span>* |

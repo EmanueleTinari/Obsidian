@@ -74,7 +74,7 @@ Versione C.E.I. 1974:
 ###### 10
 <span class=vrs>10</span>Poi, riunita la folla, disse: "Ascoltate e intendete!
 ###### 11
-<span class=vrs>11</span>Non quello che entra nella bocca rende impuro l'uomo, ma quello che esce dalla bocca rende impuro l'uomo!".
+<span class=vrs>11</span>Non quello che entra nella bocca rende impuro l’uomo, ma quello che esce dalla bocca rende impuro l’uomo!".
 ###### 12
 <span class=vrs>12</span>Allora i discepoli gli si accostarono per dirgli: "Sai che i farisei si sono scandalizzati nel sentire queste parole?".
 ###### 13
@@ -88,11 +88,11 @@ Versione C.E.I. 1974:
 ###### 17
 <span class=vrs>17</span>Non capite che tutto ciò che entra nella bocca, passa nel ventre e va a finire nella fogna?
 ###### 18
-<span class=vrs>18</span>Invece ciò che esce dalla bocca proviene dal cuore. Questo rende immondo l'uomo.
+<span class=vrs>18</span>Invece ciò che esce dalla bocca proviene dal cuore. Questo rende immondo l’uomo.
 ###### 19
 <span class=vrs>19</span>Dal cuore, infatti, provengono i propositi malvagi, gli omicidi, gli adultèri, le prostituzioni, i furti, le false testimonianze, le bestemmie.
 ###### 20
-<span class=vrs>20</span>Queste sono le cose che rendono immondo l'uomo, ma il mangiare senza lavarsi le mani non rende immondo l'uomo".
+<span class=vrs>20</span>Queste sono le cose che rendono immondo l’uomo, ma il mangiare senza lavarsi le mani non rende immondo l’uomo".
 ###### 21
 <span class=vrs>21</span>Partito di là, Gesù si diresse verso le parti di Tiro e Sidone.
 ###### 22
@@ -108,7 +108,7 @@ Versione C.E.I. 1974:
 ###### 27
 <span class=vrs>27</span>"È vero, Signore, disse la donna, ma anche i cagnolini si cibano delle briciole che cadono dalla tavola dei loro padroni".
 ###### 28
-<span class=vrs>28</span>Allora Gesù le replicò: "Donna, davvero grande è la tua fede! Ti sia fatto come desideri". E da quell'istante sua figlia fu guarita.
+<span class=vrs>28</span>Allora Gesù le replicò: "Donna, davvero grande è la tua fede! Ti sia fatto come desideri". E da quell’istante sua figlia fu guarita.
 ###### 29
 <span class=vrs>29</span>Allontanatosi di là, Gesù giunse presso il mare di Galilea e, salito sul monte, si fermò là.
 ###### 30

@@ -90,13 +90,13 @@ Versione C.E.I. 1974:
 ###### 18
 <span class=vrs>18</span>Ed egli disse: "Portatemeli qua".
 ###### 19
-<span class=vrs>19</span>E dopo aver ordinato alla folla di sedersi sull'erba, prese i cinque pani e i due pesci e, alzati gli occhi al cielo, pronunziò la benedizione, spezzò i pani e li diede ai discepoli e i discepoli li distribuirono alla folla.
+<span class=vrs>19</span>E dopo aver ordinato alla folla di sedersi sull’erba, prese i cinque pani e i due pesci e, alzati gli occhi al cielo, pronunziò la benedizione, spezzò i pani e li diede ai discepoli e i discepoli li distribuirono alla folla.
 ###### 20
 <span class=vrs>20</span>Tutti mangiarono e furono saziati; e portarono via dodici ceste piene di pezzi avanzati.
 ###### 21
 <span class=vrs>21</span>Quelli che avevano mangiato erano circa cinquemila uomini, senza contare le donne e i bambini.
 ###### 22
-<span class=vrs>22</span>Subito dopo ordinò ai discepoli di salire sulla barca e di precederlo sull'altra sponda, mentre egli avrebbe congedato la folla.
+<span class=vrs>22</span>Subito dopo ordinò ai discepoli di salire sulla barca e di precederlo sull’altra sponda, mentre egli avrebbe congedato la folla.
 ###### 23
 <span class=vrs>23</span>Congedata la folla, salì sul monte, solo, a pregare. Venuta la sera, egli se ne stava ancora solo lassù.
 ###### 24
@@ -112,7 +112,7 @@ Versione C.E.I. 1974:
 ###### 29
 <span class=vrs>29</span>Ed egli disse: "Vieni!". Pietro, scendendo dalla barca, si mise a camminare sulle acque e andò verso Gesù.
 ###### 30
-<span class=vrs>30</span>Ma per la violenza del vento, s'impaurì e, cominciando ad affondare, gridò: "Signore, salvami!".
+<span class=vrs>30</span>Ma per la violenza del vento, s’impaurì e, cominciando ad affondare, gridò: "Signore, salvami!".
 ###### 31
 <span class=vrs>31</span>E subito Gesù stese la mano, lo afferrò e gli disse: "Uomo di poca fede, perché hai dubitato?".
 ###### 32
@@ -124,7 +124,7 @@ Versione C.E.I. 1974:
 ###### 35
 <span class=vrs>35</span>E la gente del luogo, riconosciuto Gesù, diffuse la notizia in tutta la regione; gli portarono tutti i malati,
 ###### 36
-<span class=vrs>36</span>e lo pregavano di poter toccare almeno l'orlo del suo mantello. E quanti lo toccavano guarivano.
+<span class=vrs>36</span>e lo pregavano di poter toccare almeno l’orlo del suo mantello. E quanti lo toccavano guarivano.
 
 ***
 

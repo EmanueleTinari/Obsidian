@@ -198,7 +198,7 @@ modificato: 2025/07/28 18:29:44
 - I got ObsidianMD as my knowledge 
 	- My working Vault path = "D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\"
 	- I actually work with ~6,000 Markdown files in Italian (for Obsidian), transforms scanned texts (Italian, Latin, Ancient Greek) into Markdown, and programs in JavaScript, CSS, PowerShell, and Python using Visual Studio Code.
-- Obsidian Vault contains a main folder named 'La Sacra Bibbia' with subfolders for each Bible version:
+- Obsidian Vault contains a main folder named 'La Sacra BibbiA with subfolders for each Bible version:
 	- _File unici (used for complete Bible versions in one file, with the same name of the Version sub folder + '.md' ext)
 	- Folder+Version CEI 1974	path: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\La Sacra Bibbia\CEI 1974\'	source: 'https://www.bibbiaedu.it/CEI1974/'
 	- Folder+Version CEI 2008	path: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\La Sacra Bibbia\CEI 2008\'	source: 'https://www.bibbiaedu.it/CEI2008/'
@@ -211,7 +211,7 @@ modificato: 2025/07/28 18:29:44
 	- Folder+Version Nuova Riveduta 2020	path: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\La Sacra Bibbia\Nuova Riveduta 2020\'	source: 'https://www.laparola.net/bibbia/'
 	- Folder+Version Ricciotti	path: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\La Sacra Bibbia\Ricciotti\'	source: 'https://www.laparola.net/bibbia/'
 	- Folder+Version Riveduta	path: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\La Sacra Bibbia\Riveduta\'	source: 'https://www.laparola.net/bibbia/'
-	- Folder+Version Vulgata Latina	path: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\La Sacra Bibbia\Vulgata Latina\'	source: 'https://sacrabibbia.altervista.org/index.php/bibbia/lettura/r/it/vulgata'
+	- Folder+Version Vulgata Latina	path: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\La Sacra Bibbia\Vulgata Latina\'	source: 'https://sacrabibbia.altervista.org/index.php/bibbia/lettura/r/it/vulgatA
 	- All Bible references in my .md files should be (variations like):
 		- *<span class="BibleRef">[[Mt 1,1|Mt 1,1]]</span>*
 		- *<span class="BibleRef">[[Mt 10,34-39|Matteo 10, 34-39]]</span>*
@@ -333,7 +333,7 @@ modificato: 2025/07/28 18:29:44
 	- PDF already working, folder: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\_03 - PDF\Martirologio\pdf_elaborati\'
 	- tmp MD folder: 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\_03 - PDF\Martirologio\santi_md_tmp'
 	- site Santi e Beati (local) folder, from: 'I:\Siti DL\www.santiebeati.it'
-	- site Vaticano (local) folder, from: 'I:\Siti DL\www.vaticannews.va'
+	- site Vaticano (local) folder, from: 'I:\Siti DL\www.vaticannews.vA
 	- All Saints list, from Wikipedia (1 .html file, to eliminate one link at a time): 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\_04 - Web pages\\_Calendario dei santi da Wikipedia.html'
 	- All Saints list, from Wikipedia (1 .md file, to evidence one link at a time): 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\_04 - Web pages\\_Calendario dei santi da Wikipedia.md'
 	- All Saints list, from Vaticano (1 .html file, to eliminate one link at a time): 'D:\Documents\GitHub\EmanueleTinari\Obsidian\Chiesa\_04 - Web pages\\_Lista santi sito del Vaticano.md'
@@ -372,7 +372,7 @@ Inoltre, il prompt da lui condiviso contiene istruzioni su come usare i dati per
 ***
 Emanuele ha aggiornato il modello Markdown `santo X.md` da usare per ciascun file generato dal PDF del Martirologio. Include:
 - Frontmatter YAML con ~30 campi, di cui molti fissi e altri da compilare da fonti (PDF, Wikipedia, Santi e Beati, Vaticano)
-- Dopo il frontmatter: H1 con nome, sezione foto, sezione 'Dal Martirologio', sezione 'Informazioni aggiuntive', e sezione 'Nota agiografica estesa'
+- Dopo il frontmatter: H1 con nome, sezione foto, sezione 'Dal Martirologio', sezione 'Informazioni aggiuntive', e sezione 'Nota agiografica estesA
 - Richiede che i punti e altri segni di fine frase vengano convertiti in `<br> ` (senza `\n`)
 - Link corretti a Wikipedia, Vaticano e Santi e Beati nel corpo del Markdown
 - Il campo 'vergine' e stato aggiunto al frontmatter.

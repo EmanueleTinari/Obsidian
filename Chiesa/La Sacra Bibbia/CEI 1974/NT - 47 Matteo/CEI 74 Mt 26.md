@@ -56,7 +56,7 @@ Versione C.E.I. 1974:
 ###### 1
 <span class=vrs>1</span>Terminati tutti questi discorsi, Gesù disse ai suoi discepoli:
 ###### 2
-<span class=vrs>2</span>"Voi sapete che fra due giorni è Pasqua e che il Figlio dell'uomo sarà consegnato per essere crocifisso".
+<span class=vrs>2</span>"Voi sapete che fra due giorni è Pasqua e che il Figlio dell’uomo sarà consegnato per essere crocifisso".
 ###### 3
 <span class=vrs>3</span>Allora i sommi sacerdoti e gli anziani del popolo si riunirono nel palazzo del sommo sacerdote, che si chiamava Caifa,
 ###### 4
@@ -72,7 +72,7 @@ Versione C.E.I. 1974:
 ###### 9
 <span class=vrs>9</span>Lo si poteva vendere a caro prezzo per darlo ai poveri!".
 ###### 10
-<span class=vrs>10</span>Ma Gesù, accortosene, disse loro: "Perché infastidite questa donna? Essa ha compiuto un'azione buona verso di me.
+<span class=vrs>10</span>Ma Gesù, accortosene, disse loro: "Perché infastidite questa donna? Essa ha compiuto un’azione buona verso di me.
 ###### 11
 <span class=vrs>11</span>I poveri infatti li avete sempre con voi, me, invece, non sempre mi avete.
 ###### 12
@@ -82,9 +82,9 @@ Versione C.E.I. 1974:
 ###### 14
 <span class=vrs>14</span>Allora uno dei Dodici, chiamato Giuda Iscariota, andò dai sommi sacerdoti
 ###### 15
-<span class=vrs>15</span>e disse: "Quanto mi volete dare perché io ve lo consegni?". E quelli gli fissarono trenta monete d'argento.
+<span class=vrs>15</span>e disse: "Quanto mi volete dare perché io ve lo consegni?". E quelli gli fissarono trenta monete d’argento.
 ###### 16
-<span class=vrs>16</span>Da quel momento cercava l'occasione propizia per consegnarlo.
+<span class=vrs>16</span>Da quel momento cercava l’occasione propizia per consegnarlo.
 ###### 17
 <span class=vrs>17</span>Il primo giorno degli Azzimi, i discepoli si avvicinarono a Gesù e gli dissero: "Dove vuoi che ti prepariamo, per mangiare la Pasqua?".
 ###### 18
@@ -100,19 +100,19 @@ Versione C.E.I. 1974:
 ###### 23
 <span class=vrs>23</span>Ed egli rispose: "Colui che ha intinto con me la mano nel piatto, quello mi tradirà.
 ###### 24
-<span class=vrs>24</span>Il Figlio dell'uomo se ne va, come è scritto di lui, ma guai a colui dal quale il Figlio dell'uomo viene tradito; sarebbe meglio per quell'uomo se non fosse mai nato!".
+<span class=vrs>24</span>Il Figlio dell’uomo se ne va, come è scritto di lui, ma guai a colui dal quale il Figlio dell’uomo viene tradito; sarebbe meglio per quell’uomo se non fosse mai nato!".
 ###### 25
-<span class=vrs>25</span>Giuda, il traditore, disse: "Rabbì, sono forse io?". Gli rispose: "Tu l'hai detto".
+<span class=vrs>25</span>Giuda, il traditore, disse: "Rabbì, sono forse io?". Gli rispose: "Tu l’hai detto".
 ###### 26
 <span class=vrs>26</span>Ora, mentre essi mangiavano, Gesù prese il pane e, pronunziata la benedizione, lo spezzò e lo diede ai discepoli dicendo: "Prendete e mangiate; questo è il mio corpo".
 ###### 27
 <span class=vrs>27</span>Poi prese il calice e, dopo aver reso grazie, lo diede loro, dicendo: "Bevetene tutti,
 ###### 28
-<span class=vrs>28</span>perché questo è il mio sangue dell'alleanza, versato per molti, in remissione dei peccati.
+<span class=vrs>28</span>perché questo è il mio sangue dell’alleanza, versato per molti, in remissione dei peccati.
 ###### 29
 <span class=vrs>29</span>Io vi dico che da ora non berrò più di questo frutto della vite fino al giorno in cui lo berrò nuovo con voi nel regno del Padre mio".
 ###### 30
-<span class=vrs>30</span>E dopo aver cantato l'inno, uscirono verso il monte degli Ulivi.
+<span class=vrs>30</span>E dopo aver cantato l’inno, uscirono verso il monte degli Ulivi.
 ###### 31
 <span class=vrs>31</span>Allora Gesù disse loro: "Voi tutti vi scandalizzerete per causa mia in questa notte. Sta scritto infatti: Percuoterò il pastore e saranno disperse le pecore del gregge,
 ###### 32
@@ -132,7 +132,7 @@ Versione C.E.I. 1974:
 ###### 39
 <span class=vrs>39</span>E avanzatosi un poco, si prostrò con la faccia a terra e pregava dicendo: "Padre mio, se è possibile, passi da me questo calice! Però non come voglio io, ma come vuoi tu!".
 ###### 40
-<span class=vrs>40</span>Poi tornò dai discepoli e li trovò che dormivano. E disse a Pietro: "Così non siete stati capaci di vegliare un'ora sola con me?
+<span class=vrs>40</span>Poi tornò dai discepoli e li trovò che dormivano. E disse a Pietro: "Così non siete stati capaci di vegliare un’ora sola con me?
 ###### 41
 <span class=vrs>41</span>Vegliate e pregate, per non cadere in tentazione. Lo spirito è pronto, ma la carne è debole".
 ###### 42
@@ -142,7 +142,7 @@ Versione C.E.I. 1974:
 ###### 44
 <span class=vrs>44</span>E lasciatili, si allontanò di nuovo e pregò per la terza volta, ripetendo le stesse parole.
 ###### 45
-<span class=vrs>45</span>Poi si avvicinò ai discepoli e disse loro: "Dormite ormai e riposate! Ecco, è giunta l'ora nella quale il Figlio dell'uomo sarà consegnato in mano ai peccatori.
+<span class=vrs>45</span>Poi si avvicinò ai discepoli e disse loro: "Dormite ormai e riposate! Ecco, è giunta l’ora nella quale il Figlio dell’uomo sarà consegnato in mano ai peccatori.
 ###### 46
 <span class=vrs>46</span>Alzatevi, andiamo; ecco, colui che mi tradisce si avvicina".
 ###### 47
@@ -180,7 +180,7 @@ Versione C.E.I. 1974:
 ###### 63
 <span class=vrs>63</span>Ma Gesù taceva. Allora il sommo sacerdote gli disse: "Ti scongiuro, per il Dio vivente, perché ci dica se tu sei il Cristo, il Figlio di Dio".
 ###### 64
-<span class=vrs>64</span>"Tu l'hai detto, gli rispose Gesù, anzi io vi dico: d'ora innanzi vedrete il Figlio dell'uomo seduto alla destra di Dio, e venire sulle nubi del cielo".
+<span class=vrs>64</span>"Tu l’hai detto, gli rispose Gesù, anzi io vi dico: d’ora innanzi vedrete il Figlio dell’uomo seduto alla destra di Dio, e venire sulle nubi del cielo".
 ###### 65
 <span class=vrs>65</span>Allora il sommo sacerdote si stracciò le vesti dicendo: "Ha bestemmiato! Perché abbiamo ancora bisogno di testimoni? Ecco, ora avete udito la bestemmia;
 ###### 66
@@ -194,15 +194,15 @@ Versione C.E.I. 1974:
 ###### 70
 <span class=vrs>70</span>Ed egli negò davanti a tutti: "Non capisco che cosa tu voglia dire".
 ###### 71
-<span class=vrs>71</span>Mentre usciva verso l'atrio, lo vide un'altra serva e disse ai presenti: "Costui era con Gesù, il Nazareno".
+<span class=vrs>71</span>Mentre usciva verso l’atrio, lo vide un’altra serva e disse ai presenti: "Costui era con Gesù, il Nazareno".
 ###### 72
-<span class=vrs>72</span>Ma egli negò di nuovo giurando: "Non conosco quell'uomo".
+<span class=vrs>72</span>Ma egli negò di nuovo giurando: "Non conosco quell’uomo".
 ###### 73
 <span class=vrs>73</span>Dopo un poco, i presenti gli si accostarono e dissero a Pietro: "Certo anche tu sei di quelli; la tua parlata ti tradisce!".
 ###### 74
-<span class=vrs>74</span>Allora egli cominciò a imprecare e a giurare: "Non conosco quell'uomo!". E subito un gallo cantò.
+<span class=vrs>74</span>Allora egli cominciò a imprecare e a giurare: "Non conosco quell’uomo!". E subito un gallo cantò.
 ###### 75
-<span class=vrs>75</span>E Pietro si ricordò delle parole dette da Gesù: "Prima che il gallo canti, mi rinnegherai tre volte". E uscito all'aperto, pianse amaramente.
+<span class=vrs>75</span>E Pietro si ricordò delle parole dette da Gesù: "Prima che il gallo canti, mi rinnegherai tre volte". E uscito all’aperto, pianse amaramente.
 
 ***
 

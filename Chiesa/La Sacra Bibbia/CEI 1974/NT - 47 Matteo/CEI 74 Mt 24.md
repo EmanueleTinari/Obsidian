@@ -68,7 +68,7 @@ Versione C.E.I. 1974:
 ###### 7
 <span class=vrs>7</span>Si solleverà popolo contro popolo e regno contro regno; vi saranno carestie e terremoti in vari luoghi;
 ###### 8
-<span class=vrs>8</span>ma tutto questo è solo l'inizio dei dolori.
+<span class=vrs>8</span>ma tutto questo è solo l’inizio dei dolori.
 ###### 9
 <span class=vrs>9</span>Allora vi consegneranno ai supplizi e vi uccideranno, e sarete odiati da tutti i popoli a causa del mio nome.
 ###### 10
@@ -76,13 +76,13 @@ Versione C.E.I. 1974:
 ###### 11
 <span class=vrs>11</span>Sorgeranno molti falsi profeti e inganneranno molti;
 ###### 12
-<span class=vrs>12</span>per il dilagare dell'iniquità, l'amore di molti si raffredderà.
+<span class=vrs>12</span>per il dilagare dell’iniquità, l’amore di molti si raffredderà.
 ###### 13
 <span class=vrs>13</span>Ma chi persevererà sino alla fine, sarà salvato.
 ###### 14
 <span class=vrs>14</span>Frattanto questo vangelo del regno sarà annunziato in tutto il mondo, perché ne sia resa testimonianza a tutte le genti; e allora verrà la fine.
 ###### 15
-<span class=vrs>15</span>Quando dunque vedrete l'abominio della desolazione, di cui parlò il profeta Daniele, stare nel luogo santo - chi legge comprenda -,
+<span class=vrs>15</span>Quando dunque vedrete l’abominio della desolazione, di cui parlò il profeta Daniele, stare nel luogo santo - chi legge comprenda -,
 ###### 16
 <span class=vrs>16</span>allora quelli che sono in Giudea fuggano ai monti,
 ###### 17
@@ -92,9 +92,9 @@ Versione C.E.I. 1974:
 ###### 19
 <span class=vrs>19</span>Guai alle donne incinte e a quelle che allatteranno in quei giorni.
 ###### 20
-<span class=vrs>20</span>Pregate perché la vostra fuga non accada d'inverno o di sabato.
+<span class=vrs>20</span>Pregate perché la vostra fuga non accada d’inverno o di sabato.
 ###### 21
-<span class=vrs>21</span>Poiché vi sarà allora una tribolazione grande, quale mai avvenne dall'inizio del mondo fino a ora, né mai più ci sarà.
+<span class=vrs>21</span>Poiché vi sarà allora una tribolazione grande, quale mai avvenne dall’inizio del mondo fino a ora, né mai più ci sarà.
 ###### 22
 <span class=vrs>22</span>E se quei giorni non fossero abbreviati, nessun vivente si salverebbe; ma a causa degli eletti quei giorni saranno abbreviati.
 ###### 23
@@ -102,21 +102,21 @@ Versione C.E.I. 1974:
 ###### 24
 <span class=vrs>24</span>Sorgeranno infatti falsi cristi e falsi profeti e faranno grandi portenti e miracoli, così da indurre in errore, se possibile, anche gli eletti.
 ###### 25
-<span class=vrs>25</span>Ecco, io ve l'ho predetto.
+<span class=vrs>25</span>Ecco, io ve l’ho predetto.
 ###### 26
 <span class=vrs>26</span>Se dunque vi diranno: Ecco, è nel deserto, non ci andate; o: È in casa, non ci credete.
 ###### 27
-<span class=vrs>27</span>Come la folgore viene da oriente e brilla fino a occidente, così sarà la venuta del Figlio dell'uomo.
+<span class=vrs>27</span>Come la folgore viene da oriente e brilla fino a occidente, così sarà la venuta del Figlio dell’uomo.
 ###### 28
 <span class=vrs>28</span>Dovunque sarà il cadavere, ivi si raduneranno gli avvoltoi.
 ###### 29
 <span class=vrs>29</span>Subito dopo la tribolazione di quei giorni, il sole si oscurerà, la luna non darà più la sua luce, gli astri cadranno dal cielo e le potenze dei cieli saranno sconvolte.
 ###### 30
-<span class=vrs>30</span>Allora comparirà nel cielo il segno del Figlio dell'uomo e allora si batteranno il petto tutte le tribù della terra, e vedranno il Figlio dell'uomo venire sopra le nubi del cielo con grande potenza e gloria.
+<span class=vrs>30</span>Allora comparirà nel cielo il segno del Figlio dell’uomo e allora si batteranno il petto tutte le tribù della terra, e vedranno il Figlio dell’uomo venire sopra le nubi del cielo con grande potenza e gloria.
 ###### 31
-<span class=vrs>31</span>Egli manderà i suoi angeli con una grande tromba e raduneranno tutti i suoi eletti dai quattro venti, da un estremo all'altro dei cieli.
+<span class=vrs>31</span>Egli manderà i suoi angeli con una grande tromba e raduneranno tutti i suoi eletti dai quattro venti, da un estremo all’altro dei cieli.
 ###### 32
-<span class=vrs>32</span>Dal fico poi imparate la parabola: quando ormai il suo ramo diventa tenero e spuntano le foglie, sapete che l'estate è vicina.
+<span class=vrs>32</span>Dal fico poi imparate la parabola: quando ormai il suo ramo diventa tenero e spuntano le foglie, sapete che l’estate è vicina.
 ###### 33
 <span class=vrs>33</span>Così anche voi, quando vedrete tutte queste cose, sappiate che Egli è proprio alle porte.
 ###### 34
@@ -124,35 +124,35 @@ Versione C.E.I. 1974:
 ###### 35
 <span class=vrs>35</span>Il cielo e la terra passeranno, ma le mie parole non passeranno.
 ###### 36
-<span class=vrs>36</span>Quanto a quel giorno e a quell'ora, però, nessuno lo sa, neanche gli angeli del cielo e neppure il Figlio, ma solo il Padre.
+<span class=vrs>36</span>Quanto a quel giorno e a quell’ora, però, nessuno lo sa, neanche gli angeli del cielo e neppure il Figlio, ma solo il Padre.
 ###### 37
-<span class=vrs>37</span>Come fu ai giorni di Noè, così sarà la venuta del Figlio dell'uomo.
+<span class=vrs>37</span>Come fu ai giorni di Noè, così sarà la venuta del Figlio dell’uomo.
 ###### 38
-<span class=vrs>38</span>Infatti, come nei giorni che precedettero il diluvio mangiavano e bevevano, prendevano moglie e marito, fino a quando Noè entrò nell'arca,
+<span class=vrs>38</span>Infatti, come nei giorni che precedettero il diluvio mangiavano e bevevano, prendevano moglie e marito, fino a quando Noè entrò nell’arca,
 ###### 39
-<span class=vrs>39</span>e non si accorsero di nulla finché venne il diluvio e inghiottì tutti, così sarà anche alla venuta del Figlio dell'uomo.
+<span class=vrs>39</span>e non si accorsero di nulla finché venne il diluvio e inghiottì tutti, così sarà anche alla venuta del Figlio dell’uomo.
 ###### 40
-<span class=vrs>40</span>Allora due uomini saranno nel campo: uno sarà preso e l'altro lasciato.
+<span class=vrs>40</span>Allora due uomini saranno nel campo: uno sarà preso e l’altro lasciato.
 ###### 41
-<span class=vrs>41</span>Due donne macineranno alla mola: una sarà presa e l'altra lasciata.
+<span class=vrs>41</span>Due donne macineranno alla mola: una sarà presa e l’altra lasciata.
 ###### 42
 <span class=vrs>42</span>Vegliate dunque, perché non sapete in quale giorno il Signore vostro verrà.
 ###### 43
 <span class=vrs>43</span>Questo considerate: se il padrone di casa sapesse in quale ora della notte viene il ladro, veglierebbe e non si lascerebbe scassinare la casa.
 ###### 44
-<span class=vrs>44</span>Perciò anche voi state pronti, perché nell'ora che non immaginate, il Figlio dell'uomo verrà.
+<span class=vrs>44</span>Perciò anche voi state pronti, perché nell’ora che non immaginate, il Figlio dell’uomo verrà.
 ###### 45
-<span class=vrs>45</span>Qual è dunque il servo fidato e prudente che il padrone ha preposto ai suoi domestici con l'incarico di dar loro il cibo al tempo dovuto?
+<span class=vrs>45</span>Qual è dunque il servo fidato e prudente che il padrone ha preposto ai suoi domestici con l’incarico di dar loro il cibo al tempo dovuto?
 ###### 46
 <span class=vrs>46</span>Beato quel servo che il padrone al suo ritorno troverà ad agire così!
 ###### 47
-<span class=vrs>47</span>In verità vi dico: gli affiderà l'amministrazione di tutti i suoi beni.
+<span class=vrs>47</span>In verità vi dico: gli affiderà l’amministrazione di tutti i suoi beni.
 ###### 48
 <span class=vrs>48</span>Ma se questo servo malvagio dicesse in cuor suo: Il mio padrone tarda a venire,
 ###### 49
 <span class=vrs>49</span>e cominciasse a percuotere i suoi compagni e a bere e a mangiare con gli ubriaconi,
 ###### 50
-<span class=vrs>50</span>arriverà il padrone quando il servo non se l'aspetta e nell'ora che non sa,
+<span class=vrs>50</span>arriverà il padrone quando il servo non se l’aspetta e nell’ora che non sa,
 ###### 51
 <span class=vrs>51</span>lo punirà con rigore e gli infliggerà la sorte che gli ipocriti si meritano: e là sarà pianto e stridore di denti.
 

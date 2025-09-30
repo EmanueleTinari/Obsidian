@@ -105,7 +105,7 @@ Versione C.E.I. 1974:
 ###### 23
 <span class=vrs>23</span>"Ecco, la vergine concepirà e partorirà un figlio che sarà chiamato Emmanuele, che significa Dio con noi."
 ###### 24
-<span class=vrs>24</span>Destatosi dal sonno, Giuseppe fece come gli aveva ordinato l'angelo del Signore e prese con sé la sua sposa,
+<span class=vrs>24</span>Destatosi dal sonno, Giuseppe fece come gli aveva ordinato l’angelo del Signore e prese con sé la sua sposa,
 ###### 25
 <span class=vrs>25</span>la quale, senza che egli la conoscesse, partorì un figlio, che egli chiamò Gesù.
 

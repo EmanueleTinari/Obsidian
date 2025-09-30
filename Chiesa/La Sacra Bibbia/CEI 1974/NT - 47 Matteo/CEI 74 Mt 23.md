@@ -64,11 +64,11 @@ Versione C.E.I. 1974:
 ###### 5
 <span class=vrs>5</span>Tutte le loro opere le fanno per essere ammirati dagli uomini: allargano i loro filattèri e allungano le frange;
 ###### 6
-<span class=vrs>6</span>amano posti d'onore nei conviti, i primi seggi nelle sinagoghe
+<span class=vrs>6</span>amano posti d’onore nei conviti, i primi seggi nelle sinagoghe
 ###### 7
-<span class=vrs>7</span>e i saluti nelle piazze, come anche sentirsi chiamare "rabbì''dalla gente.
+<span class=vrs>7</span>e i saluti nelle piazze, come anche sentirsi chiamare "rabbì’’dalla gente.
 ###### 8
-<span class=vrs>8</span>Ma voi non fatevi chiamare "rabbì'', perché uno solo è il vostro maestro e voi siete tutti fratelli.
+<span class=vrs>8</span>Ma voi non fatevi chiamare "rabbì’’, perché uno solo è il vostro maestro e voi siete tutti fratelli.
 ###### 9
 <span class=vrs>9</span>E non chiamate nessuno "padre" sulla terra, perché uno solo è il Padre vostro, quello del cielo.
 ###### 10
@@ -84,31 +84,31 @@ Versione C.E.I. 1974:
 ###### 15
 <span class=vrs>15</span>Guai a voi, scribi e farisei ipocriti, che percorrete il mare e la terra per fare un solo proselito e, ottenutolo, lo rendete figlio della Geenna il doppio di voi.
 ###### 16
-<span class=vrs>16</span>Guai a voi, guide cieche, che dite: Se si giura per il tempio non vale, ma se si giura per l'oro del tempio si è obbligati.
+<span class=vrs>16</span>Guai a voi, guide cieche, che dite: Se si giura per il tempio non vale, ma se si giura per l’oro del tempio si è obbligati.
 ###### 17
-<span class=vrs>17</span>Stolti e ciechi: che cosa è più grande, l'oro o il tempio che rende sacro l'oro?
+<span class=vrs>17</span>Stolti e ciechi: che cosa è più grande, l’oro o il tempio che rende sacro l’oro?
 ###### 18
-<span class=vrs>18</span>E dite ancora: Se si giura per l'altare non vale, ma se si giura per l'offerta che vi sta sopra, si resta obbligati.
+<span class=vrs>18</span>E dite ancora: Se si giura per l’altare non vale, ma se si giura per l’offerta che vi sta sopra, si resta obbligati.
 ###### 19
-<span class=vrs>19</span>Ciechi! Che cosa è più grande, l'offerta o l'altare che rende sacra l'offerta?
+<span class=vrs>19</span>Ciechi! Che cosa è più grande, l’offerta o l’altare che rende sacra l’offerta?
 ###### 20
-<span class=vrs>20</span>Ebbene, chi giura per l'altare, giura per l'altare e per quanto vi sta sopra;
+<span class=vrs>20</span>Ebbene, chi giura per l’altare, giura per l’altare e per quanto vi sta sopra;
 ###### 21
-<span class=vrs>21</span>e chi giura per il tempio, giura per il tempio e per Colui che l'abita.
+<span class=vrs>21</span>e chi giura per il tempio, giura per il tempio e per Colui che l’abita.
 ###### 22
 <span class=vrs>22</span>E chi giura per il cielo, giura per il trono di Dio e per Colui che vi è assiso.
 ###### 23
-<span class=vrs>23</span>Guai a voi, scribi e farisei ipocriti, che pagate la decima della menta, dell'anèto e del cumìno, e trasgredite le prescrizioni più gravi della legge: la giustizia, la misericordia e la fedeltà. Queste cose bisognava praticare, senza omettere quelle.
+<span class=vrs>23</span>Guai a voi, scribi e farisei ipocriti, che pagate la decima della menta, dell’anèto e del cumìno, e trasgredite le prescrizioni più gravi della legge: la giustizia, la misericordia e la fedeltà. Queste cose bisognava praticare, senza omettere quelle.
 ###### 24
 <span class=vrs>24</span>Guide cieche, che filtrate il moscerino e ingoiate il cammello!
 ###### 25
-<span class=vrs>25</span>Guai a voi, scribi e farisei ipocriti, che pulite l'esterno del bicchiere e del piatto mentre all'interno sono pieni di rapina e d'intemperanza.
+<span class=vrs>25</span>Guai a voi, scribi e farisei ipocriti, che pulite l’esterno del bicchiere e del piatto mentre all’interno sono pieni di rapina e d’intemperanza.
 ###### 26
-<span class=vrs>26</span>Fariseo cieco, pulisci prima l'interno del bicchiere, perché anche l'esterno diventi netto!
+<span class=vrs>26</span>Fariseo cieco, pulisci prima l’interno del bicchiere, perché anche l’esterno diventi netto!
 ###### 27
-<span class=vrs>27</span>Guai a voi, scribi e farisei ipocriti, che rassomigliate a sepolcri imbiancati: essi all'esterno son belli a vedersi, ma dentro sono pieni di ossa di morti e di ogni putridume.
+<span class=vrs>27</span>Guai a voi, scribi e farisei ipocriti, che rassomigliate a sepolcri imbiancati: essi all’esterno son belli a vedersi, ma dentro sono pieni di ossa di morti e di ogni putridume.
 ###### 28
-<span class=vrs>28</span>Così anche voi apparite giusti all'esterno davanti agli uomini, ma dentro siete pieni d'ipocrisia e d'iniquità.
+<span class=vrs>28</span>Così anche voi apparite giusti all’esterno davanti agli uomini, ma dentro siete pieni d’ipocrisia e d’iniquità.
 ###### 29
 <span class=vrs>29</span>Guai a voi, scribi e farisei ipocriti, che innalzate i sepolcri ai profeti e adornate le tombe dei giusti,
 ###### 30
@@ -122,7 +122,7 @@ Versione C.E.I. 1974:
 ###### 34
 <span class=vrs>34</span>Perciò ecco, io vi mando profeti, sapienti e scribi; di questi alcuni ne ucciderete e crocifiggerete, altri ne flagellerete nelle vostre sinagoghe e li perseguiterete di città in città;
 ###### 35
-<span class=vrs>35</span>perché ricada su di voi tutto il sangue innocente versato sopra la terra, dal sangue del giusto Abele fino al sangue di Zaccaria, figlio di Barachìa, che avete ucciso tra il santuario e l'altare.
+<span class=vrs>35</span>perché ricada su di voi tutto il sangue innocente versato sopra la terra, dal sangue del giusto Abele fino al sangue di Zaccaria, figlio di Barachìa, che avete ucciso tra il santuario e l’altare.
 ###### 36
 <span class=vrs>36</span>In verità vi dico: tutte queste cose ricadranno su questa generazione.
 ###### 37

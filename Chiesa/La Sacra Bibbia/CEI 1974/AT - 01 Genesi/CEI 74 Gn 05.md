@@ -61,7 +61,7 @@ Versione C.E.I. 1974:
 ***
 
 ###### 1
-<span class=vrs>1</span>Questo è il libro della genealogia di Adamo. Quando Dio creò l'uomo, lo fece a somiglianza di Dio; [^ftn_cei74_gn5,1]
+<span class=vrs>1</span>Questo è il libro della genealogia di Adamo. Quando Dio creò l’uomo, lo fece a somiglianza di Dio; [^ftn_cei74_gn5,1]
 ###### 2
 <span class=vrs>2</span>maschio e femmina li creò, li benedisse e li chiamò uomini quando furono creati.
 ###### 3
@@ -69,7 +69,7 @@ Versione C.E.I. 1974:
 ###### 4
 <span class=vrs>4</span>Dopo aver generato Set, Adamo visse ancora ottocento anni e generò figli e figlie.
 ###### 5
-<span class=vrs>5</span>L'intera vita di Adamo fu di novecentotrenta anni; poi morì.
+<span class=vrs>5</span>L’intera vita di Adamo fu di novecentotrenta anni; poi morì.
 ##### Nascita di Set.
 
 ###### 6
@@ -77,45 +77,45 @@ Versione C.E.I. 1974:
 ###### 7
 <span class=vrs>7</span>dopo aver generato Enos, Set visse ancora ottocentosette anni e generò figli e figlie.
 ###### 8
-<span class=vrs>8</span>L'intera vita di Set fu di novecentododici anni; poi morì.
+<span class=vrs>8</span>L’intera vita di Set fu di novecentododici anni; poi morì.
 ###### 9
 <span class=vrs>9</span>Enos aveva novanta anni quando generò Kenan;
 ###### 10
 <span class=vrs>10</span>Enos, dopo aver generato Kenan, visse ancora ottocentoquindici anni e generò figli e figlie.
 ###### 11
-<span class=vrs>11</span>L'intera vita di Enos fu di novecentocinque anni; poi morì.
+<span class=vrs>11</span>L’intera vita di Enos fu di novecentocinque anni; poi morì.
 ###### 12
 <span class=vrs>12</span>Kenan aveva settanta anni quando generò Maalaleel;
 ###### 13
 <span class=vrs>13</span>Kenan dopo aver generato Maalaleel visse ancora ottocentoquaranta anni e generò figli e figlie.
 ###### 14
-<span class=vrs>14</span>L'intera vita di Kenan fu di novecentodieci anni; poi morì.
+<span class=vrs>14</span>L’intera vita di Kenan fu di novecentodieci anni; poi morì.
 ###### 15
 <span class=vrs>15</span>Maalaleel aveva sessantacinque anni quando generò Iared;
 ###### 16
 <span class=vrs>16</span>Maalaleel dopo aver generato Iared, visse ancora ottocentrenta anni e generò figli e figlie.
 ###### 17
-<span class=vrs>17</span>L'intera vita di Maalaleèl fu di ottocentonovantacinque anni; poi morì.
+<span class=vrs>17</span>L’intera vita di Maalaleèl fu di ottocentonovantacinque anni; poi morì.
 ###### 18
 <span class=vrs>18</span>Iared aveva centosessantadue anni quando generò Enoch;
 ###### 19
 <span class=vrs>19</span>Iared, dopo aver generato Enoch, visse ancora ottocento anni e generò figli e figlie.
 ###### 20
-<span class=vrs>20</span>L'intera vita di Iared fu di novecentosessantadue anni; poi morì.
+<span class=vrs>20</span>L’intera vita di Iared fu di novecentosessantadue anni; poi morì.
 ###### 21
 <span class=vrs>21</span>Enoch aveva sessantacinque anni quando generò Matusalemme.
 ###### 22
 <span class=vrs>22</span>Enoch camminò con Dio; dopo aver generato Matusalemme, visse ancora per trecento anni e generò figli e figlie.
 ###### 23
-<span class=vrs>23</span>L'intera vita di Enoch fu di trecentosessantacique anni.
+<span class=vrs>23</span>L’intera vita di Enoch fu di trecentosessantacique anni.
 ###### 24
-<span class=vrs>24</span>Poi Enoch camminò con Dio e non fu più perché Dio l'aveva preso. [^ftn_cei74_gn5,24]
+<span class=vrs>24</span>Poi Enoch camminò con Dio e non fu più perché Dio l’aveva preso. [^ftn_cei74_gn5,24]
 ###### 25
 <span class=vrs>25</span>Matusalemme aveva centottantasette anni quando generò Lamech;
 ###### 26
 <span class=vrs>26</span>Matusalemme, dopo aver generato Lamech, visse ancora settecentottantadue anni e generò figli e figlie.
 ###### 27
-<span class=vrs>27</span>L'intera vita di Matusalemme fu di novecentosessantanove anni; poi morì.
+<span class=vrs>27</span>L’intera vita di Matusalemme fu di novecentosessantanove anni; poi morì.
 ###### 28
 <span class=vrs>28</span>Lamech aveva centottantadue anni quando generò un figlio
 ###### 29
@@ -123,7 +123,7 @@ Versione C.E.I. 1974:
 ###### 30
 <span class=vrs>30</span>Lamech, dopo aver generato Noè, visse ancora cinquecentonovantacinque anni e generò figli e figlie.
 ###### 31
-<span class=vrs>31</span>L'intera vita di Lamech fu di settecentosettantasette anni; poi morì.
+<span class=vrs>31</span>L’intera vita di Lamech fu di settecentosettantasette anni; poi morì.
 ###### 32
 <span class=vrs>32</span>Noè aveva cinquecento anni quando generò Sem, Cam e Iafet.
 

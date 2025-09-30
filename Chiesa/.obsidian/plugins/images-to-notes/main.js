@@ -40,6 +40,7 @@ var ApiProvider;
     ApiProvider["OpenAI"] = "openai";
     ApiProvider["Anthropic"] = "anthropic";
     ApiProvider["Google"] = "google";
+    ApiProvider["Mistral"] = "mistral";
 })(ApiProvider || (ApiProvider = {}));
 var NoteNamingOption;
 (function (NoteNamingOption) {
@@ -48,14 +49,22 @@ var NoteNamingOption;
     NoteNamingOption["DateImageName"] = "date-image-name";
     NoteNamingOption["FolderDateNum"] = "folder-date-num";
 })(NoteNamingOption || (NoteNamingOption = {}));
+var TranscriptionPlacement;
+(function (TranscriptionPlacement) {
+    TranscriptionPlacement["AboveImage"] = "above";
+    TranscriptionPlacement["BelowImage"] = "below";
+})(TranscriptionPlacement || (TranscriptionPlacement = {}));
 const DEFAULT_SETTINGS = {
     provider: ApiProvider.OpenAI,
     openaiApiKey: '',
+    openaiBaseUrl: 'https://api.openai.com', // Add this line
     anthropicApiKey: '',
     googleApiKey: '',
+    mistralApiKey: '',
     openaiModel: 'gpt-4.1-mini', // Updated default OpenAI model
     anthropicModel: 'claude-3-7-sonnet-latest', // Updated default Anthropic model
     googleModel: 'gemini-2.0-flash', // Default Google model
+    mistralModel: 'mistral-medium-2508',
     systemPrompt: 'You are an expert at transcribing handwritten notes and typed text from images. Convert the image content to clean markdown format, preserving the structure and organization of the original notes.', // Updated default system prompt (Task 18.3)
     userPrompt: 'Please transcribe all text visible in this image into markdown format. Preserve the structure, headings, lists, and any other formatting from the original text. If you detect any diagrams. Analyze each one. Use the surrounding context to understand what the diagram is likely about  Replace the diagram with a well-structured explanation of the content the diagram is trying to convey. Preserve all the diagram\'s educational value. Place your explanation within the rest of the markdown, in its appropriate order. Use the same language in your explanation as the rest of the markdown. Do not describe the diagram, explain its content with words. Do not mention that you\'re describing content from a diagram, simply include it within the rest of the text with an appropriate heading. The reader will not have access to the diagram, so do not make any references to it. Do not add any mention or indication that the transcript is in markdown format at the beginning of the document.', // Updated default user prompt (Task 18.4)
     noteNamingOption: NoteNamingOption.ImageName,
@@ -75,6 +84,7 @@ const DEFAULT_SETTINGS = {
     specificNoteFolderPath: '',
     // Note content defaults
     includeImageInNote: true, // Include image by default (user can toggle off)
+    transcriptionPlacement: TranscriptionPlacement.AboveImage,
 };
 
 // Define available models - These should match the types in settings.ts
@@ -82,14 +92,22 @@ const OPENAI_MODELS = {
     'gpt-4.1': 'GPT-4.1',
     'gpt-4.1-mini': 'GPT-4.1 Mini',
     'o4-mini': 'o4 Mini',
+    'gpt-5-2025-08-07': 'GPT-5',
+    'gpt-5-mini-2025-08-07': 'GPT-5 Mini'
 };
 const ANTHROPIC_MODELS = {
-    'claude-3-5-sonnet-latest': 'Claude 3.5 Sonnet',
-    'claude-3-7-sonnet-latest': 'Claude 3.7 Sonnet',
+    'claude-3-7-sonnet-latest': 'Claude Sonnet 3.7',
     'claude-sonnet-4-0': 'Claude Sonnet 4.0',
 };
 const GOOGLE_MODELS = {
     'gemini-2.0-flash': 'Gemini 2.0 Flash',
+    'gemini-2.5-flash': 'Gemini 2.5 Flash',
+    'gemini-2.5-flash-lite': 'Gemini 2.5 Flash Lite',
+};
+const MISTRAL_MODELS = {
+    'mistral-ocr-2505': 'Mistral OCR 2505',
+    'mistral-small-2503': 'Mistral Small 3.1',
+    'mistral-medium-2508': 'Mistral Medium 3.1',
 };
 class TranscriptionSettingTab extends obsidian.PluginSettingTab {
     constructor(app, plugin) {
@@ -107,6 +125,7 @@ class TranscriptionSettingTab extends obsidian.PluginSettingTab {
             .addOption(ApiProvider.OpenAI, 'OpenAI')
             .addOption(ApiProvider.Anthropic, 'Anthropic')
             .addOption(ApiProvider.Google, 'Google')
+            .addOption(ApiProvider.Mistral, 'Mistral')
             .setValue(this.plugin.settings.provider)
             .onChange((value) => __awaiter(this, void 0, void 0, function* () {
             this.plugin.settings.provider = value;
@@ -129,6 +148,17 @@ class TranscriptionSettingTab extends obsidian.PluginSettingTab {
                 yield this.plugin.saveSettings();
             }))
                 .inputEl.setAttribute('type', 'password')); // Mask the key
+            // OpenAI Base URL
+            new obsidian.Setting(containerEl)
+                .setName('OpenAI Base URL')
+                .setDesc('Set a custom base URL for the OpenAI API. Defaults to https://api.openai.com.')
+                .addText(text => text
+                .setPlaceholder('https://api.openai.com')
+                .setValue(this.plugin.settings.openaiBaseUrl)
+                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                this.plugin.settings.openaiBaseUrl = value.trim();
+                yield this.plugin.saveSettings();
+            })));
             // OpenAI Model
             new obsidian.Setting(containerEl)
                 .setName('OpenAI model')
@@ -212,6 +242,37 @@ class TranscriptionSettingTab extends obsidian.PluginSettingTab {
                 providerDesc.createEl('p', { text: '⚠️ Google API key is required.', cls: 'imgtono-setting-warning' });
             }
         }
+        else if (this.plugin.settings.provider === ApiProvider.Mistral) {
+            // Mistral API Key
+            new obsidian.Setting(containerEl)
+                .setName('Mistral API key')
+                .setDesc('Enter your Mistral API key.')
+                .addText(text => text
+                .setPlaceholder('mistral-...')
+                .setValue(this.plugin.settings.mistralApiKey)
+                .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                this.plugin.settings.mistralApiKey = value.trim();
+                yield this.plugin.saveSettings();
+            }))
+                .inputEl.setAttribute('type', 'password')); // Mask the key
+            // Mistral Model
+            new obsidian.Setting(containerEl)
+                .setName('Mistral model')
+                .setDesc('Select the Mistral model to use.')
+                .addDropdown(dropdown => {
+                for (const modelId in MISTRAL_MODELS) {
+                    dropdown.addOption(modelId, MISTRAL_MODELS[modelId]);
+                }
+                dropdown.setValue(this.plugin.settings.mistralModel);
+                dropdown.onChange((value) => __awaiter(this, void 0, void 0, function* () {
+                    this.plugin.settings.mistralModel = value;
+                    yield this.plugin.saveSettings();
+                }));
+            });
+            if (!this.plugin.settings.mistralApiKey) {
+                providerDesc.createEl('p', { text: '⚠️ Mistral API key is required.', cls: 'imgtono-setting-warning' });
+            }
+        }
         // --- System Prompt ---
         let systemPromptTextArea; // Variable to hold the text area component
         // Create the system prompt setting with vertical layout
@@ -289,6 +350,17 @@ class TranscriptionSettingTab extends obsidian.PluginSettingTab {
             .setValue(this.plugin.settings.includeImageInNote)
             .onChange((value) => __awaiter(this, void 0, void 0, function* () {
             this.plugin.settings.includeImageInNote = value;
+            yield this.plugin.saveSettings();
+        })));
+        new obsidian.Setting(containerEl)
+            .setName('Transcription placement')
+            .setDesc('Choose where to place the transcription relative to the image.')
+            .addDropdown(dropdown => dropdown
+            .addOption(TranscriptionPlacement.AboveImage, 'Above image')
+            .addOption(TranscriptionPlacement.BelowImage, 'Below image')
+            .setValue(this.plugin.settings.transcriptionPlacement)
+            .onChange((value) => __awaiter(this, void 0, void 0, function* () {
+            this.plugin.settings.transcriptionPlacement = value;
             yield this.plugin.saveSettings();
         })));
         // --- Image Source Control ---
@@ -1208,10 +1280,10 @@ class NotificationService {
 }
 
 // Constants for API endpoints and headers
-const OPENAI_API_URL = 'https://api.openai.com/v1/chat/completions';
 const ANTHROPIC_API_URL = 'https://api.anthropic.com/v1/messages';
 const ANTHROPIC_VERSION = '2023-06-01';
 const GOOGLE_API_URL = 'https://generativelanguage.googleapis.com/v1/models';
+const MISTRAL_API_URL = 'https://api.mistral.ai/v1/chat/completions';
 class AIService {
     constructor(settings, notificationService, app) {
         this.settings = settings;
@@ -1237,7 +1309,7 @@ class AIService {
                 return null;
             }
             // 2. Determine provider and settings
-            const { provider, openaiApiKey, anthropicApiKey, googleApiKey, openaiModel, anthropicModel, googleModel, systemPrompt, userPrompt } = this.settings;
+            const { provider, openaiApiKey, anthropicApiKey, googleApiKey, mistralApiKey, openaiModel, anthropicModel, googleModel, mistralModel, systemPrompt, userPrompt, openaiBaseUrl } = this.settings;
             const imageUrl = base64ImageWithPrefix; // Use the data URI
             // 3. Call appropriate API
             try {
@@ -1246,7 +1318,7 @@ class AIService {
                         this.notificationService.notifyError('OpenAI API key is missing.');
                         return null;
                     }
-                    return yield this._transcribeWithOpenAI(imageUrl, systemPrompt, userPrompt, openaiApiKey, openaiModel);
+                    return yield this._transcribeWithOpenAI(imageUrl, systemPrompt, userPrompt, openaiApiKey, openaiModel, openaiBaseUrl);
                 }
                 else if (provider === 'anthropic') {
                     if (!anthropicApiKey) {
@@ -1278,6 +1350,13 @@ class AIService {
                     const mediaType = mediaTypeMatch[1];
                     return yield this._transcribeWithGoogle(base64Data, mediaType, systemPrompt, userPrompt, googleApiKey, googleModel);
                 }
+                else if (provider === 'mistral') {
+                    if (!mistralApiKey) {
+                        this.notificationService.notifyError('Mistral API key is missing.');
+                        return null;
+                    }
+                    return yield this._transcribeWithMistral(imageUrl, systemPrompt, userPrompt, mistralApiKey, mistralModel);
+                }
                 else {
                     this.notificationService.notifyError(`Unsupported AI provider selected: ${provider}`);
                     return null;
@@ -1302,7 +1381,7 @@ class AIService {
      * Calls the OpenAI API to transcribe the image.
      */
     _transcribeWithOpenAI(imageUrl, // Now expects data URI
-    systemPrompt, userPrompt, apiKey, model) {
+    systemPrompt, userPrompt, apiKey, model, baseUrl) {
         return __awaiter(this, void 0, void 0, function* () {
             var _a, _b, _c, _d, _e;
             // console.log(`Transcribing with OpenAI (${model})...`);
@@ -1328,7 +1407,7 @@ class AIService {
                 max_tokens: 4000, // Increased token limit
             };
             const requestParams = {
-                url: OPENAI_API_URL,
+                url: `${baseUrl}/v1/chat/completions`,
                 method: 'POST',
                 headers: {
                     'Authorization': `Bearer ${apiKey}`,
@@ -1500,6 +1579,71 @@ class AIService {
             }
         });
     }
+    /**
+     * Calls the Mistral API to transcribe the image.
+     */
+    _transcribeWithMistral(imageUrl, // Expects data URI
+    systemPrompt, userPrompt, apiKey, model) {
+        return __awaiter(this, void 0, void 0, function* () {
+            var _a, _b, _c, _d, _e;
+            this.notificationService.notifyVerbose(`Sending image to Mistral (${model})...`);
+            const startTime = Date.now();
+            const requestBody = {
+                model: model,
+                messages: [
+                    { role: 'system', content: systemPrompt },
+                    {
+                        role: 'user',
+                        content: [
+                            { type: 'text', text: userPrompt },
+                            {
+                                type: 'image_url',
+                                image_url: {
+                                    url: imageUrl,
+                                },
+                            },
+                        ],
+                    },
+                ],
+                max_tokens: 4000,
+            };
+            const requestParams = {
+                url: MISTRAL_API_URL,
+                method: 'POST',
+                headers: {
+                    'Authorization': `Bearer ${apiKey}`,
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(requestBody),
+                throw: false,
+            };
+            try {
+                const response = yield obsidian.requestUrl(requestParams);
+                if (response.status >= 200 && response.status < 300) {
+                    const data = response.json;
+                    const transcription = (_c = (_b = (_a = data === null || data === void 0 ? void 0 : data.choices) === null || _a === void 0 ? void 0 : _a[0]) === null || _b === void 0 ? void 0 : _b.message) === null || _c === void 0 ? void 0 : _c.content;
+                    if (transcription) {
+                        const endTime = Date.now();
+                        this.notificationService.notifyVerbose(`Mistral Response received (${(endTime - startTime) / 1000}s).`);
+                        return transcription.trim();
+                    }
+                    else {
+                        console.error('Mistral response missing transcription content:', data);
+                        throw new Error('Invalid response format from Mistral.');
+                    }
+                }
+                else {
+                    console.error(`Mistral API Error (${response.status}):`, response.text);
+                    let errorDetails = ((_e = (_d = response.json) === null || _d === void 0 ? void 0 : _d.error) === null || _e === void 0 ? void 0 : _e.message) || response.text || `HTTP status ${response.status}`;
+                    throw new Error(`Mistral API error: ${errorDetails}`);
+                }
+            }
+            catch (error) {
+                console.error('Error calling Mistral API:', error);
+                throw error;
+            }
+        });
+    }
 }
 
 // Helper function to remove markdown headings and links from the start of a string
@@ -1531,11 +1675,18 @@ class NoteCreator {
                 const title = this._generateNoteTitle(transcription, imageFile);
                 const folderPath = noteTargetParentPath;
                 const uniqueNotePath = yield this._findUniqueNotePath(folderPath, title);
-                // Conditionally include image link based on settings
                 let noteContent = transcription.trim();
                 if (this.settings.includeImageInNote) {
                     const imageLink = this.app.fileManager.generateMarkdownLink(imageFile, '/');
-                    noteContent += `\n\n${imageLink}`;
+                    if (this.settings.transcriptionPlacement === TranscriptionPlacement.AboveImage) {
+                        noteContent = `${transcription.trim()}\n\n${imageLink}`;
+                    }
+                    else { // BelowImage
+                        noteContent = `${imageLink}\n\n${transcription.trim()}`;
+                    }
+                }
+                else {
+                    noteContent = transcription.trim();
                 }
                 const newNoteFile = yield this.app.vault.create(uniqueNotePath, noteContent);
                 this.notificationService.notifySuccess(`Note created: ${newNoteFile.basename}`);

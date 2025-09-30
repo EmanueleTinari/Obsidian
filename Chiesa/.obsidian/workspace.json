@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4b317e71f236b175",
+        "id": "7f7b85b000e38902",
         "type": "tabs",
         "children": [
           {
-            "id": "a3b03168c3a04c69",
+            "id": "b588b4d068ca2321",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
+                "file": "Operazioni quotidiane.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -27,17 +28,18 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "_Indice Encicliche"
+              "title": "Operazioni quotidiane"
             }
           },
           {
-            "id": "0bb478dcff419910",
+            "id": "d972c68d128ebff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-inp.md",
+                "file": "Documenti pontifici/Messaggi/lxiv-mes-2025-06-13gmp.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,55 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bxiv-enc-inp"
-            }
-          },
-          {
-            "id": "72c38fbd0ebcbbcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Lettere Encicliche/bxiv-enc-inp.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bxiv-enc-inp"
-            }
-          },
-          {
-            "id": "43578baf456d3cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dpo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cet-dec-dpo"
+              "title": "lxiv-mes-2025-06-13gmp"
             }
           }
         ],
@@ -136,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Enciclica Allatae sunt, 26 giugno 1755, §§ 3, 6-19, 32.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Messaggi/2010/2010-12-25 - Messaggio annuale a Jakov.md",
+                "file": "Papi/Scheda 248° papa - Clemente XIII.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di 2010-12-25 - Messaggio annuale a Jakov"
+              "title": "Struttura di Scheda 248° papa - Clemente XIII"
             }
           },
           {
@@ -254,7 +208,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dei.md"
+                "file": "Papi/Scheda 248° papa - Clemente XIII.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -273,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -303,51 +257,52 @@
       "obsidian-review-notes-plugin:View Recent Notes": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "modalforms:Edit forms": false,
-      "smart-second-brain:Open S2B Chat": false
+      "smart-second-brain:Open S2B Chat": false,
+      "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "0bb478dcff419910",
+  "active": "d972c68d128ebff1",
   "lastOpenFiles": [
-    "Documenti pontifici/Lettere Encicliche/_Indice Encicliche.md",
-    "Documenti pontifici/Brevi/_Indice Brevi.md",
-    "Documenti pontifici/Brevi/bxiv-bre-qes.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-inp.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dpo.md",
-    "Documenti pontifici/Brevi Encicliche/_Indice Brevi Encicliche.md",
-    "Documenti vari/_Indice documenti vari.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/Concilio Ecumenico Tridentino.md",
-    "Documenti pontifici/_Indice Documenti pontifici.md",
-    "Documenti pontifici/Bolle/_Indice Bolle.md",
-    "Documenti pontifici/Bolle/bxiv-bol-prr.md",
-    "Documenti pontifici/Bolle/bxiv-bol-bed.md",
-    "Documenti pontifici/Bolle/bxiv-bol-pad.md",
-    "Documenti pontifici/Bolle/bxiv-bol-ofn.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-eqp.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qug.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-mca.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-prj.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cem.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-apc.md",
-    "Documenti pontifici/_tmpHTML.html",
-    "Documenti pontifici/_tmpAI.md",
-    "Documenti pontifici/Lettere Encicliche/_tmpAI.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-als.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-aqp.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-qup.md",
-    "Documenti pontifici/Lettere Encicliche/bxiv-enc-cra.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/1545-1563-,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf",
+    "Operazioni quotidiane.md",
+    "Documenti pontifici/Messaggi/lxiv-mes-2025-06-13gmp.md",
+    "Documenti pontifici/Messaggi/lxiv-mes-2025-06-26gna.md",
+    "Documenti pontifici/Messaggi/lxiv-mes-2025-07-25gmr.md",
+    "Documenti pontifici/Messaggi/lxiv-mes-2025-06-30gcc.md",
+    "Documenti pontifici/Messaggi/lxiv-mes-2025-06-30pcc.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-09-15.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-09-07.md",
+    "Documenti pontifici/Messaggi/ipi-mes-1978-08-27ueo.md",
+    "Documenti pontifici/Messaggi/lxiv-mes-2025-05-08ueo.md",
+    "Documenti pontifici/Angelus/lxiv-ang-2025-09-21.md",
+    "Documenti pontifici/Angelus/lxiv-ang-2025-09-28.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-09-28.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-09-21.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-09-28_OLD.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-08-03.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-09-14.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-09-05.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-09-01.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-08-17.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-08-15.md",
+    "Documenti pontifici/Angelus/lxiv-ang-2025-08-03.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-07-20.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-07-15.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-07-13.md",
+    "Documenti pontifici/Omelie/lxiv-ome-2025-05-25.md",
+    "Operazioni quotidiane.pdf",
+    "Documenti pontifici/Messsaggi/lxiv-mes-ueo2025-05-08.txt",
+    "Documenti pontifici/Messsaggi/Nuovo Documento di testo.txt",
+    "La Preghiera.html",
+    "Documenti pontifici/Regina Cæli",
+    "Documenti pontifici/Lettere",
+    "Documenti pontifici/Messaggi",
+    "Documenti pontifici/Omelie",
+    "Documenti pontifici/Udienze",
+    "Documenti pontifici/Discorsi",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino_1.jpg",
-    "_02 - Allegati/~oncilio_Ecumenico_Tridentino.tmp",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.Decr. Trid. Giustificazione 2.pdf",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/CTridentinum.pdf",
-    "CEI 74 Gn 05.pdf",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.Decr. Trid. Giustificazione 2",
-    "Documenti vari/Documenti del Concilio Ecumenico Tridentino",
-    "Documenti vari/Nuova cartella",
     "Documenti pontifici/Brevi/bxiv-bre-quc.jpg",
-    "Documenti pontifici/Brevi Encicliche",
     "Documenti pontifici/Brevi/bxiv-bre-noa.jpg",
     "_02 - Allegati/shopsolar-favicon_32x32.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_003.png",

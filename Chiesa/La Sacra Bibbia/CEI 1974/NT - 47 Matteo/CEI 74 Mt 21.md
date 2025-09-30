@@ -56,17 +56,17 @@ Versione C.E.I. 1974:
 ###### 1
 <span class=vrs>1</span>Quando furono vicini a Gerusalemme e giunsero presso Bètfage, verso il monte degli Ulivi, Gesù mandò due dei suoi discepoli
 ###### 2
-<span class=vrs>2</span>dicendo loro: "Andate nel villaggio che vi sta di fronte: subito troverete un'asina legata e con essa un puledro. Scioglieteli e conduceteli a me.
+<span class=vrs>2</span>dicendo loro: "Andate nel villaggio che vi sta di fronte: subito troverete un’asina legata e con essa un puledro. Scioglieteli e conduceteli a me.
 ###### 3
 <span class=vrs>3</span>Se qualcuno poi vi dirà qualche cosa, risponderete: Il Signore ne ha bisogno, ma li rimanderà subito".
 ###### 4
 <span class=vrs>4</span>Ora questo avvenne perché si adempisse ciò che era stato annunziato dal profeta:
 ###### 5
-<span class=vrs>5</span>Dite alla figlia di Sion: Ecco, il tuo re viene a te mite, seduto su un'asina, con un puledro figlio di bestia da soma.
+<span class=vrs>5</span>Dite alla figlia di Sion: Ecco, il tuo re viene a te mite, seduto su un’asina, con un puledro figlio di bestia da soma.
 ###### 6
 <span class=vrs>6</span>I discepoli andarono e fecero quello che aveva ordinato loro Gesù:
 ###### 7
-<span class=vrs>7</span>condussero l'asina e il puledro, misero su di essi i mantelli ed egli vi si pose a sedere.
+<span class=vrs>7</span>condussero l’asina e il puledro, misero su di essi i mantelli ed egli vi si pose a sedere.
 ###### 8
 <span class=vrs>8</span>La folla numerosissima stese i suoi mantelli sulla strada mentre altri tagliavano rami dagli alberi e li stendevano sulla via.
 ###### 9
@@ -100,13 +100,13 @@ Versione C.E.I. 1974:
 ###### 23
 <span class=vrs>23</span>Entrato nel tempio, mentre insegnava gli si avvicinarono i sommi sacerdoti e gli anziani del popolo e gli dissero: "Con quale autorità fai questo? Chi ti ha dato questa autorità?".
 ###### 24
-<span class=vrs>24</span>Gesù rispose: "Vi farò anch'io una domanda e se voi mi rispondete, vi dirò anche con quale autorità faccio questo.
+<span class=vrs>24</span>Gesù rispose: "Vi farò anch’io una domanda e se voi mi rispondete, vi dirò anche con quale autorità faccio questo.
 ###### 25
-<span class=vrs>25</span>Il battesimo di Giovanni da dove veniva? Dal cielo o dagli uomini?". Ed essi riflettevano tra sé dicendo: "Se diciamo: "dal Cielo", ci risponderà: "perché dunque non gli avete creduto?'';
+<span class=vrs>25</span>Il battesimo di Giovanni da dove veniva? Dal cielo o dagli uomini?". Ed essi riflettevano tra sé dicendo: "Se diciamo: "dal Cielo", ci risponderà: "perché dunque non gli avete creduto?’’;
 ###### 26
-<span class=vrs>26</span>se diciamo "dagli uominì', abbiamo timore della folla, perché tutti considerano Giovanni un profeta".
+<span class=vrs>26</span>se diciamo "dagli uominì’, abbiamo timore della folla, perché tutti considerano Giovanni un profeta".
 ###### 27
-<span class=vrs>27</span>Rispondendo perciò a Gesù, dissero: "Non lo sappiamo". Allora anch'egli disse loro: "Neanch'io vi dico con quale autorità faccio queste cose".
+<span class=vrs>27</span>Rispondendo perciò a Gesù, dissero: "Non lo sappiamo". Allora anch’egli disse loro: "Neanch’io vi dico con quale autorità faccio queste cose".
 ###### 28
 <span class=vrs>28</span>"Che ve ne pare? Un uomo aveva due figli; rivoltosi al primo disse: Figlio, và oggi a lavorare nella vigna.
 ###### 29
@@ -114,29 +114,29 @@ Versione C.E.I. 1974:
 ###### 30
 <span class=vrs>30</span>Rivoltosi al secondo, gli disse lo stesso. Ed egli rispose: Non ne ho voglia; ma poi, pentitosi, ci andò.
 ###### 31
-<span class=vrs>31</span>Chi dei due ha compiuto la volontà del padre?". Dicono: "L'ultimo". E Gesù disse loro: "In verità vi dico: I pubblicani e le prostitute vi passano avanti nel regno di Dio.
+<span class=vrs>31</span>Chi dei due ha compiuto la volontà del padre?". Dicono: "L’ultimo". E Gesù disse loro: "In verità vi dico: I pubblicani e le prostitute vi passano avanti nel regno di Dio.
 ###### 32
 <span class=vrs>32</span>È venuto a voi Giovanni nella via della giustizia e non gli avete creduto; i pubblicani e le prostitute invece gli hanno creduto. Voi, al contrario, pur avendo visto queste cose, non vi siete nemmeno pentiti per credergli.
 ###### 33
-<span class=vrs>33</span>Ascoltate un'altra parabola: C'era un padrone che piantò una vigna e la circondò con una siepe, vi scavò un frantoio, vi costruì una torre, poi l'affidò a dei vignaioli e se ne andò.
+<span class=vrs>33</span>Ascoltate un’altra parabola: C’era un padrone che piantò una vigna e la circondò con una siepe, vi scavò un frantoio, vi costruì una torre, poi l’affidò a dei vignaioli e se ne andò.
 ###### 34
 <span class=vrs>34</span>Quando fu il tempo dei frutti, mandò i suoi servi da quei vignaioli a ritirare il raccolto.
 ###### 35
-<span class=vrs>35</span>Ma quei vignaioli presero i servi e uno lo bastonarono, l'altro lo uccisero, l'altro lo lapidarono.
+<span class=vrs>35</span>Ma quei vignaioli presero i servi e uno lo bastonarono, l’altro lo uccisero, l’altro lo lapidarono.
 ###### 36
 <span class=vrs>36</span>Di nuovo mandò altri servi più numerosi dei primi, ma quelli si comportarono nello stesso modo.
 ###### 37
 <span class=vrs>37</span>Da ultimo mandò loro il proprio figlio dicendo: Avranno rispetto di mio figlio!
 ###### 38
-<span class=vrs>38</span>Ma quei vignaioli, visto il figlio, dissero tra sé: Costui è l'erede; venite, uccidiamolo, e avremo noi l'eredità.
+<span class=vrs>38</span>Ma quei vignaioli, visto il figlio, dissero tra sé: Costui è l’erede; venite, uccidiamolo, e avremo noi l’eredità.
 ###### 39
-<span class=vrs>39</span>E, presolo, lo cacciarono fuori della vigna e l'uccisero.
+<span class=vrs>39</span>E, presolo, lo cacciarono fuori della vigna e l’uccisero.
 ###### 40
 <span class=vrs>40</span>Quando dunque verrà il padrone della vigna che farà a quei vignaioli?".
 ###### 41
 <span class=vrs>41</span>Gli rispondono: "Farà morire miseramente quei malvagi e darà la vigna ad altri vignaioli che gli consegneranno i frutti a suo tempo".
 ###### 42
-<span class=vrs>42</span>E Gesù disse loro: "Non avete mai letto nelle Scritture: La pietra che i costruttori hanno scartata è diventata testata d'angolo; dal Signore è stato fatto questo ed è mirabile agli occhi nostri?
+<span class=vrs>42</span>E Gesù disse loro: "Non avete mai letto nelle Scritture: La pietra che i costruttori hanno scartata è diventata testata d’angolo; dal Signore è stato fatto questo ed è mirabile agli occhi nostri?
 ###### 43
 <span class=vrs>43</span>Perciò io vi dico: vi sarà tolto il regno di Dio e sarà dato a un popolo che lo farà fruttificare.
 ###### 44

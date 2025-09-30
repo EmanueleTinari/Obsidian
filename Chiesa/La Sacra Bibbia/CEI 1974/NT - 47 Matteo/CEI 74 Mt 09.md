@@ -65,7 +65,7 @@ Versione C.E.I. 1974:
 ***
 
 ###### 1
-<span class=vrs>1</span>Salito su una barca, Gesù passò all'altra riva e giunse nella sua città.
+<span class=vrs>1</span>Salito su una barca, Gesù passò all’altra riva e giunse nella sua città.
 ###### 2
 <span class=vrs>2</span>Ed ecco, gli portarono un paralitico steso su un letto. Gesù, vista la loro fede, disse al paralitico: "Coraggio, figliolo, ti sono rimessi i tuoi peccati".
 ###### 3
@@ -75,7 +75,7 @@ Versione C.E.I. 1974:
 ###### 5
 <span class=vrs>5</span>Che cosa dunque è più facile, dire: Ti sono rimessi i peccati, o dire: Alzati e cammina?
 ###### 6
-<span class=vrs>6</span>Ora, perché sappiate che il Figlio dell'uomo ha il potere in terra di rimettere i peccati: alzati, disse allora il paralitico, prendi il tuo letto e và a casa tua".
+<span class=vrs>6</span>Ora, perché sappiate che il Figlio dell’uomo ha il potere in terra di rimettere i peccati: alzati, disse allora il paralitico, prendi il tuo letto e và a casa tua".
 ###### 7
 <span class=vrs>7</span>Ed egli si alzò e andò a casa sua.
 ###### 8
@@ -97,17 +97,17 @@ Versione C.E.I. 1974:
 ###### 16
 <span class=vrs>16</span>Nessuno mette un pezzo di stoffa grezza su un vestito vecchio, perché il rattoppo squarcia il vestito e si fa uno strappo peggiore.
 ###### 17
-<span class=vrs>17</span>Né si mette vino nuovo in otri vecchi, altrimenti si rompono gli otri e il vino si versa e gli otri van perduti. Ma si mette vino nuovo in otri nuovi, e così l'uno e gli altri si conservano".
+<span class=vrs>17</span>Né si mette vino nuovo in otri vecchi, altrimenti si rompono gli otri e il vino si versa e gli otri van perduti. Ma si mette vino nuovo in otri nuovi, e così l’uno e gli altri si conservano".
 ###### 18
 <span class=vrs>18</span>Mentre diceva loro queste cose, giunse uno dei capi che gli si prostrò innanzi e gli disse: "Mia figlia è morta proprio ora; ma vieni, imponi la tua mano sopra di lei ed essa vivrà".
 ###### 19
 <span class=vrs>19</span>Alzatosi, Gesù lo seguiva con i suoi discepoli.
 ###### 20
-<span class=vrs>20</span>Ed ecco una donna, che soffriva d'emorragia da dodici anni, gli si accostò alle spalle e toccò il lembo del suo mantello.
+<span class=vrs>20</span>Ed ecco una donna, che soffriva d’emorragia da dodici anni, gli si accostò alle spalle e toccò il lembo del suo mantello.
 ###### 21
 <span class=vrs>21</span>Pensava infatti: "Se riuscirò anche solo a toccare il suo mantello, sarò guarita".
 ###### 22
-<span class=vrs>22</span>Gesù, voltatosi, la vide e disse: "Coraggio, figliola, la tua fede ti ha guarita". E in quell'istante la donna guarì.
+<span class=vrs>22</span>Gesù, voltatosi, la vide e disse: "Coraggio, figliola, la tua fede ti ha guarita". E in quell’istante la donna guarì.
 ###### 23
 <span class=vrs>23</span>Arrivato poi Gesù nella casa del capo e veduti i flautisti e la gente in agitazione, disse:
 ###### 24

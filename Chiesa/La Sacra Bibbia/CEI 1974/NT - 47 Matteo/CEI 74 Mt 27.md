@@ -58,23 +58,23 @@ Versione C.E.I. 1974:
 ###### 2
 <span class=vrs>2</span>Poi, messolo in catene, lo condussero e consegnarono al governatore Pilato.
 ###### 3
-<span class=vrs>3</span>Allora Giuda, il traditore, vedendo che Gesù era stato condannato, si pentì e riportò le trenta monete d'argento ai sommi sacerdoti e agli anziani
+<span class=vrs>3</span>Allora Giuda, il traditore, vedendo che Gesù era stato condannato, si pentì e riportò le trenta monete d’argento ai sommi sacerdoti e agli anziani
 ###### 4
 <span class=vrs>4</span>dicendo: "Ho peccato, perché ho tradito sangue innocente". Ma quelli dissero: "Che ci riguarda? Veditela tu!".
 ###### 5
-<span class=vrs>5</span>Ed egli, gettate le monete d'argento nel tempio, si allontanò e andò ad impiccarsi.
+<span class=vrs>5</span>Ed egli, gettate le monete d’argento nel tempio, si allontanò e andò ad impiccarsi.
 ###### 6
 <span class=vrs>6</span>Ma i sommi sacerdoti, raccolto quel denaro, dissero: "Non è lecito metterlo nel tesoro, perché è prezzo di sangue".
 ###### 7
 <span class=vrs>7</span>E tenuto consiglio, comprarono con esso il Campo del vasaio per la sepoltura degli stranieri.
 ###### 8
-<span class=vrs>8</span>Perciò quel campo fu denominato "Campo di sangue" fino al giorno d'oggi.
+<span class=vrs>8</span>Perciò quel campo fu denominato "Campo di sangue" fino al giorno d’oggi.
 ###### 9
-<span class=vrs>9</span>Allora si adempì quanto era stato detto dal profeta Geremia: E presero trenta denari d'argento, il prezzo del venduto, che i figli di Israele avevano mercanteggiato,
+<span class=vrs>9</span>Allora si adempì quanto era stato detto dal profeta Geremia: E presero trenta denari d’argento, il prezzo del venduto, che i figli di Israele avevano mercanteggiato,
 ###### 10
 <span class=vrs>10</span>e li diedero per il campo del vasaio, come mi aveva ordinato il Signore.
 ###### 11
-<span class=vrs>11</span>Gesù intanto comparve davanti al governatore, e il governatore l'interrogò dicendo: "Sei tu il re dei Giudei?". Gesù rispose "Tu lo dici".
+<span class=vrs>11</span>Gesù intanto comparve davanti al governatore, e il governatore l’interrogò dicendo: "Sei tu il re dei Giudei?". Gesù rispose "Tu lo dici".
 ###### 12
 <span class=vrs>12</span>E mentre lo accusavano i sommi sacerdoti e gli anziani, non rispondeva nulla.
 ###### 13
@@ -100,7 +100,7 @@ Versione C.E.I. 1974:
 ###### 23
 <span class=vrs>23</span>Ed egli aggiunse: "Ma che male ha fatto?". Essi allora urlarono: "Sia crocifisso!".
 ###### 24
-<span class=vrs>24</span>Pilato, visto che non otteneva nulla, anzi che il tumulto cresceva sempre più, presa dell'acqua, si lavò le mani davanti alla folla: "Non sono responsabile, disse, di questo sangue; vedetevela voi!".
+<span class=vrs>24</span>Pilato, visto che non otteneva nulla, anzi che il tumulto cresceva sempre più, presa dell’acqua, si lavò le mani davanti alla folla: "Non sono responsabile, disse, di questo sangue; vedetevela voi!".
 ###### 25
 <span class=vrs>25</span>E tutto il popolo rispose: "Il suo sangue ricada sopra di noi e sopra i nostri figli".
 ###### 26
@@ -136,7 +136,7 @@ Versione C.E.I. 1974:
 ###### 41
 <span class=vrs>41</span>Anche i sommi sacerdoti con gli scribi e gli anziani lo schernivano:
 ###### 42
-<span class=vrs>42</span>"Ha salvato gli altri, non può salvare se stesso. È il re d'Israele, scenda ora dalla croce e gli crederemo.
+<span class=vrs>42</span>"Ha salvato gli altri, non può salvare se stesso. È il re d’Israele, scenda ora dalla croce e gli crederemo.
 ###### 43
 <span class=vrs>43</span>Ha confidato in Dio; lo liberi lui ora, se gli vuol bene. Ha detto infatti: Sono Figlio di Dio!".
 ###### 44
@@ -162,7 +162,7 @@ Versione C.E.I. 1974:
 ###### 54
 <span class=vrs>54</span>Il centurione e quelli che con lui facevano la guardia a Gesù, sentito il terremoto e visto quel che succedeva, furono presi da grande timore e dicevano: "Davvero costui era Figlio di Dio!".
 ###### 55
-<span class=vrs>55</span>C'erano anche là molte donne che stavano a osservare da lontano; esse avevano seguito Gesù dalla Galilea per servirlo.
+<span class=vrs>55</span>C’erano anche là molte donne che stavano a osservare da lontano; esse avevano seguito Gesù dalla Galilea per servirlo.
 ###### 56
 <span class=vrs>56</span>Tra costoro Maria di Màgdala, Maria madre di Giacomo e di Giuseppe, e la madre dei figli di Zebedèo.
 ###### 57
@@ -174,13 +174,13 @@ Versione C.E.I. 1974:
 ###### 60
 <span class=vrs>60</span>e lo depose nella sua tomba nuova, che si era fatta scavare nella roccia; rotolata poi una gran pietra sulla porta del sepolcro, se ne andò.
 ###### 61
-<span class=vrs>61</span>Erano lì, davanti al sepolcro, Maria di Màgdala e l'altra Maria.
+<span class=vrs>61</span>Erano lì, davanti al sepolcro, Maria di Màgdala e l’altra Maria.
 ###### 62
 <span class=vrs>62</span>Il giorno seguente, quello dopo la Parasceve, si riunirono presso Pilato i sommi sacerdoti e i farisei, dicendo:
 ###### 63
-<span class=vrs>63</span>"Signore, ci siamo ricordati che quell'impostore disse mentre era vivo: Dopo tre giorni risorgerò.
+<span class=vrs>63</span>"Signore, ci siamo ricordati che quell’impostore disse mentre era vivo: Dopo tre giorni risorgerò.
 ###### 64
-<span class=vrs>64</span>Ordina dunque che sia vigilato il sepolcro fino al terzo giorno, perché non vengano i suoi discepoli, lo rubino e poi dicano al popolo: È risuscitato dai morti. Così quest'ultima impostura sarebbe peggiore della prima!".
+<span class=vrs>64</span>Ordina dunque che sia vigilato il sepolcro fino al terzo giorno, perché non vengano i suoi discepoli, lo rubino e poi dicano al popolo: È risuscitato dai morti. Così quest’ultima impostura sarebbe peggiore della prima!".
 ###### 65
 <span class=vrs>65</span>Pilato disse loro: "Avete la vostra guardia, andate e assicuratevi come credete".
 ###### 66

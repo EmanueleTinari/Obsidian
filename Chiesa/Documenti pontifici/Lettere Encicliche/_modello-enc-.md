@@ -1,5 +1,7 @@
 ---
 cssclasses: docVat
+progr-doc: x
+num-doc: x
 autore-doc: "[[x|x]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: x
@@ -27,13 +29,13 @@ modificato:
 
 ***
 
-Lettera Enciclica `class: tipo-documento`
+Lettera Enciclica `class: tipoDoc`
 
 # x
 
-del sommo pontefice `class: tipo-autorita`
+del sommo pontefice `class: tipoAut`
 
-x `class: nome-autorita`
+x `class: nomeAut`
 
 x `class: centrato-maiuscolo`
 
@@ -46,204 +48,204 @@ x `class: proemio`
 
 ###### 1.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 2.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 3.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 4.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 5.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 6.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 7.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 8.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 9.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 10.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 11.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 12.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 13.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 14.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 15.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 16.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 17.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 18.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 19.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 20.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 21.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 22.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 23.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 24.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 25.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 26.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 27.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 28.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 29.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 30.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 31.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 32.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 33.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 34.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 35.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 36.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 37.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 38.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 39.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 40.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 41.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 42.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 43.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 44.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 45.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 46.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 47.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### 48.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 
-x `class: data-luogo`
+x `class: dataLuogo`
 
 
-x `class: firma-centro`
+x `class: firmaC`
 
 ***
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
 
 

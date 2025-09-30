@@ -23,11 +23,11 @@ modificato: 2025/07/09 23:32:40
 
 ---
 
-Bolla `class: tipo-documento`
+Bolla `class: tipoDoc`
 
-del sommo pontefice `class: tipo-autorita`
+del sommo pontefice `class: tipoAut`
 
-X `class: nome-autorita`
+X `class: nomeAut`
 
 
 # X
@@ -42,606 +42,606 @@ X. `class: proemio`
 
 ###### 1.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 2.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 3.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 4.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 5.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 6.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 7.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 8.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 9.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 10.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 11.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 12.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 13.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 14.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 15.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 16.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 17.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 18.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 19.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 20.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 21.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 22.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 23.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 24.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 25.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 26.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 27.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 28.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 29.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 30.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 31.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 32.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 33.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 34.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 35.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 36.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 37.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 38.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 39.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 40.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 41.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 42.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 43.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 44.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 45.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 46.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 47.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 48.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 49.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 50.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 51.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 52.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 53.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 54.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 55.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 56.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 57.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 58.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 59.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 60.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 61.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 62.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 63.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 64.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 65.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 66.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 67.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 68.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 69.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 70.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 71.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 72.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 73.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 74.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 75.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 76.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 77.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 78.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 79.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 80.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 81.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 82.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 83.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 84.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 85.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 86.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 87.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 88.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 89.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 90.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 91.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 92.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 93.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 94.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 95.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 96.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 97.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 98.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 99.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 100.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 101.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 102.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 103.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 104.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 105.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 106.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 107.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 108.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 109.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 110.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 111.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 112.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 113.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 114.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 115.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 116.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 117.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 118.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 119.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 120.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 121.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 122.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 123.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 124.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 125.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 126.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 127.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 128.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 129.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 130.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 131.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 132.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 133.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 134.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 135.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 136.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 137.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 138.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 139.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 140.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 141.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 142.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 143.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 144.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 145.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 146.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 147.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 148.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 149.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
 ###### 150.
 
-X. `class: paragrafo-normale`
+X. `class: paragrafoNorm`
 
-X. `class: data-luogo`
+X. `class: dataLuogo`
 
-X. `class: firma-centro`
+X. `class: firmaC`
 ---
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: diritti-autore`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`

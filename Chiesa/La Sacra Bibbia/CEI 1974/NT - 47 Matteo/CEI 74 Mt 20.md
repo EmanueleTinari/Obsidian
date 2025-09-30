@@ -54,7 +54,7 @@ Versione C.E.I. 1974:
 ***
 
 ###### 1
-<span class=vrs>1</span>"Il regno dei cieli è simile a un padrone di casa che uscì all'alba per prendere a giornata lavoratori per la sua vigna.
+<span class=vrs>1</span>"Il regno dei cieli è simile a un padrone di casa che uscì all’alba per prendere a giornata lavoratori per la sua vigna.
 ###### 2
 <span class=vrs>2</span>Accordatosi con loro per un denaro al giorno, li mandò nella sua vigna.
 ###### 3
@@ -72,15 +72,15 @@ Versione C.E.I. 1974:
 ###### 9
 <span class=vrs>9</span>Venuti quelli delle cinque del pomeriggio, ricevettero ciascuno un denaro.
 ###### 10
-<span class=vrs>10</span>Quando arrivarono i primi, pensavano che avrebbero ricevuto di più. Ma anch'essi ricevettero un denaro per ciascuno.
+<span class=vrs>10</span>Quando arrivarono i primi, pensavano che avrebbero ricevuto di più. Ma anch’essi ricevettero un denaro per ciascuno.
 ###### 11
 <span class=vrs>11</span>Nel ritirarlo però, mormoravano contro il padrone dicendo:
 ###### 12
-<span class=vrs>12</span>Questi ultimi hanno lavorato un'ora soltanto e li hai trattati come noi, che abbiamo sopportato il peso della giornata e il caldo.
+<span class=vrs>12</span>Questi ultimi hanno lavorato un’ora soltanto e li hai trattati come noi, che abbiamo sopportato il peso della giornata e il caldo.
 ###### 13
 <span class=vrs>13</span>Ma il padrone, rispondendo a uno di loro, disse: Amico, io non ti faccio torto. Non hai forse convenuto con me per un denaro?
 ###### 14
-<span class=vrs>14</span>Prendi il tuo e vattene; ma io voglio dare anche a quest'ultimo quanto a te.
+<span class=vrs>14</span>Prendi il tuo e vattene; ma io voglio dare anche a quest’ultimo quanto a te.
 ###### 15
 <span class=vrs>15</span>Non posso fare delle mie cose quello che voglio? Oppure tu sei invidioso perché io sono buono?
 ###### 16
@@ -88,7 +88,7 @@ Versione C.E.I. 1974:
 ###### 17
 <span class=vrs>17</span>Mentre saliva a Gerusalemme, Gesù prese in disparte i dodici e lungo la via disse loro:
 ###### 18
-<span class=vrs>18</span>"Ecco, noi stiamo salendo a Gerusalemme e il Figlio dell'uomo sarà consegnato ai sommi sacerdoti e agli scribi, che lo condanneranno a morte
+<span class=vrs>18</span>"Ecco, noi stiamo salendo a Gerusalemme e il Figlio dell’uomo sarà consegnato ai sommi sacerdoti e agli scribi, che lo condanneranno a morte
 ###### 19
 <span class=vrs>19</span>e lo consegneranno ai pagani perché sia schernito e flagellato e crocifisso; ma il terzo giorno risusciterà".
 ###### 20
@@ -108,7 +108,7 @@ Versione C.E.I. 1974:
 ###### 27
 <span class=vrs>27</span>e colui che vorrà essere il primo tra voi, si farà vostro schiavo;
 ###### 28
-<span class=vrs>28</span>appunto come il Figlio dell'uomo, che non è venuto per essere servito, ma per servire e dare la sua vita in riscatto per molti".
+<span class=vrs>28</span>appunto come il Figlio dell’uomo, che non è venuto per essere servito, ma per servire e dare la sua vita in riscatto per molti".
 ###### 29
 <span class=vrs>29</span>Mentre uscivano da Gerico, una gran folla seguiva Gesù.
 ###### 30

@@ -1,16 +1,15 @@
 ---
-cssclasses: vocabolario
-  - background
-creato: 17/05/2025 16:34:22
-modificato: 09/07/2025 00:16:15
+cssclasses: vocabolario - background
+creato: 2025/08/28 01:38:47
+modificato: 2025/09/11 22:21:13
 ---
 
 [[#^a1|A]] [[#^b1|B]] [[#^c1|C]] [[#^d1|D]] [[#^e1|E]] [[#^f1|F]] [[#^g1|G]] [[#^h1|H]] [[#^i1|I]] [[#^j1|J]] [[#^k1|K]] [[#^l1|L]] [[#^m1|M]] [[#^n1|N]] [[#^o1|O]] [[#^p1|P]] [[#^q1|Q]] [[#^r1|R]] [[#^s1|S]] [[#^t1|T]] [[#^u1|U]] [[#^v1|V]] [[#^w1|W]] [[#^x1|X]] [[#^y1|Y]] [[#^z1|Z]]
 
-<a id="indice_vocabolario_Z" href="#vocabolario_lettera_Z">Z</a>
+<a id="ind_Z" href="#voc_Z">Z</a>
 
 > [!indice-vocabolario]-  [[A]]^a1
-> ![[A|no-title]]
+> ![[Vocaboli/a|A]]
 
 > [!indice-vocabolario]-  [[B]]^b1
 
@@ -60,5 +59,8 @@ modificato: 09/07/2025 00:16:15
 
 > [!indice-vocabolario]-  [[Y]]^y1
 
-> [!indice-vocabolario]-  <a id="vocabolario_lettera_Z" href="#indice_vocabolario_Z">Z</a>
+> [!indice-vocabolario]-  [[Z]]^z1		[[#^a1|Torna]]
+> ![[Vocaboli/z|Z]]
 
+> [!indice-vocabolario]-  <a id="voc_Z" href="#ind_Z">Z</a>
+> ![[Vocaboli/z|Z]]

@@ -25,7 +25,7 @@ modificato: 2025/08/28 16:19:43
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 novembre 2010
 
-## Cari figli, vi guardo e vedo nel vostro cuore la morte senza speranza, l'inquietudine e la fame.<br>Non c'e' preghiera nè fiducia in Dio percio' l'Altissimo mi permette di portarvi speranza e gioia.<br>Apritevi.<br>Aprite i vostri cuori alla misericordia di Dio e Lui vi dara' tutto cio' di cui avete bisogno e riempira' i vostri cuori con la pace perche' Lui e' la pace e la vostra speranza.<br>Grazie per aver risposto alla mia chiamata.
+## Cari figli, vi guardo e vedo nel vostro cuore la morte senza speranza, l'inquietudine e la fame.<br>Non c'e' preghiera nè fiducia in Dio percio' l'Altissimo mi permette di portarvi speranza e gioia.<br>Apritevi.<br>Aprite i vostri cuori alla misericordia di Dio e Lui vi darà tutto cio' di cui avete bisogno e riempirà i vostri cuori con la pace perche' Lui e' la pace e la vostra speranza.<br>Grazie per aver risposto alla mia chiamata.
 
 ***
 

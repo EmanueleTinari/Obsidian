@@ -1,6 +1,6 @@
 ---
 creato: 2025/05/03 07:31:21
-modificato: 2025/07/09 23:33:15
+modificato: 2025/09/13 21:31:48
 ---
 
 <!--  (!= .file.name) esclude questo stesso file dalla lista -->
@@ -24,7 +24,7 @@ FLATTEN
 GROUP BY
 	lastPart as Lista
 SORT
-	"N°" ASC
+	rows.file.frontmatter.papa-numero ASC
 ```
 
 

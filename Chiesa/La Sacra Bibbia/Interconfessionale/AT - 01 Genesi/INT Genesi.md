@@ -66,11 +66,11 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 - IN PRINCIPIO. Inno a Dio Creatore. (*<span class="BibleRef">[[Gn 1,1-31|Genesi 1, 1-31]]</span>*)
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 02 Genesi/INT Gn 02|Genesi 02]]:
 
-- L'istituzione del Sabato.
+- L’istituzione del Sabato.
 - La creazione della donna.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 03 Genesi/INT Gn 03|Genesi 03]]:
 
-- La caduta dell'uomo.
+- La caduta dell’uomo.
 - Espulsione dal Paradiso.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 04 Genesi/INT Gn 04|Genesi 04]]:
 
@@ -82,12 +82,12 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 - Genealogia da Adamo a Noè.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 06 Genesi/INT Gn 06|Genesi 06]]:
 
-- Figli di Dio e figlie dell'uomo.
-- Annuncio del Diluvio. Elezione di Noè. Costruzione dell'Arca.
+- Figli di Dio e figlie dell’uomo.
+- Annuncio del Diluvio. Elezione di Noè. Costruzione dell’Arca.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 07 Genesi/INT Gn 07|Genesi 07]]:
 
 - Il Diluvio.
-- L'irruzione del Diluvio.
+- L’irruzione del Diluvio.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 08 Genesi/INT Gn 08|Genesi 08]]:
 
 - Fine del Diluvio. Sacrificio di Noè. Promessa del Signore.
@@ -118,7 +118,7 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 - Abramo salva Lot ed è benedetto da Melchisedec.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 015 Genesi/INT Gn 15|Genesi 15]]:
 
-- Dio promette ad Abramo un figlio e gli concede l'Alleanza.
+- Dio promette ad Abramo un figlio e gli concede l’Alleanza.
 - La fede di Abramo.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 016 Genesi/INT Gn 16|Genesi 16]]:
 
@@ -150,7 +150,7 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 - I discendenti di Nacor.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 023 Genesi/INT Gn 23|Genesi 23]]:
 
-- Morte di Sara. Abramo acquisisce un'eredità.
+- Morte di Sara. Abramo acquisisce un’eredità.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 024 Genesi/INT Gn 24|Genesi 24]]:
 
 - Rebecca diventa moglie di Isacco.
@@ -168,7 +168,7 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 - Mogli di Esaù.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 027 Genesi/INT Gn 27|Genesi 27]]:
 
-- Giacobbe ottiene la benedizione del diritto di primogenitura con l'astuzia.
+- Giacobbe ottiene la benedizione del diritto di primogenitura con l’astuzia.
 - Fuga di Giacobbe ad Haran.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 028 Genesi/INT Gn 28|Genesi 28]]:
 
@@ -198,7 +198,7 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 - Giacobbe si stabilisce vicino a Sichem.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 034 Genesi/INT Gn 34|Genesi 34]]:
 
-- L'oltraggio contro Dina e il massacro di Sichem.
+- L’oltraggio contro Dina e il massacro di Sichem.
 - Massacro di Sichem.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 035 Genesi/INT Gn 35|Genesi 35]]:
 
@@ -230,8 +230,8 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 041 Genesi/INT Gn 41|Genesi 41]]:
 
 - Giuseppe interpreta i sogni del Faraone.
-- L'esaltazione di Giuseppe.
-- La cura di Giuseppe per l'Egitto. La nascita dei suoi figli.
+- L’esaltazione di Giuseppe.
+- La cura di Giuseppe per l’Egitto. La nascita dei suoi figli.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 042 Genesi/INT Gn 42|Genesi 42]]:
 
 - Primo viaggio dei figli di Giacobbe in Egitto.
@@ -256,7 +256,7 @@ Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmen
 
 - Giacobbe davanti al Faraone.
 - Gli egiziani vendono i loro beni e se stessi al Faraone.
-- L'ultimo desiderio di Giacobbe.
+- L’ultimo desiderio di Giacobbe.
 ## Punti salienti di [[La Sacra Bibbia/Interconfessionale/AT - 048 Genesi/INT Gn 48|Genesi 48]]:
 
 - Benedizione di Giacobbe su Efraim e Manasse.

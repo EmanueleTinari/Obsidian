@@ -36,201 +36,201 @@ modificato:
 
 ### Capitolo I. x
 
-. `class: paragrafo-normale`
+. `class: paragrafoNorm`
 
 ### Capitolo II. x
 
-. `class: paragrafo-normale`
+. `class: paragrafoNorm`
 
 ### Capitolo III. x
 
-.`class: paragrafo-normale`
+.`class: paragrafoNorm`
 
 ### Capitolo IV. x
 
-.`class: paragrafo-normale`
+.`class: paragrafoNorm`
 
 .x
 
-.`class: paragrafo-normale`
+.`class: paragrafoNorm`
 
 ### Capitolo VI. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo VII. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo VIII. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo IX. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo X. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo XI. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo XII. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo XIII. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo XIV. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo XV. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Capitolo XVI. x
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ### Canoni x
 
 ###### Canone 1.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 2.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 3.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 4.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 5.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 6.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 7.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 8.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 9.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 10.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 11.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 12.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 13.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 14.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 15.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 16.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 17.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 18.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 19.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 20.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 21.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 22.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 23.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 24.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 25.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 26.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 27.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 28.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 29.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 30.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 31.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 32.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ###### Canone 33.
 
-x `class: paragrafo-normale`
+x `class: paragrafoNorm`
 
 ***
 NOTE
@@ -239,6 +239,6 @@ NOTE
 
 
 
-[^fn]: *<span class="BibleRef">[[x|x]]</span>*
-[^fnx]: Cfr. *<span class="BibleRef">[[x|x]]</span>*
+[^x-ftn]: *<span class="BibleRef">[[x|x]]</span>*
+[^x-ftnx]: Cfr. *<span class="BibleRef">[[x|x]]</span>*
 
