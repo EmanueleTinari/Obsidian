@@ -1,0 +1,4884 @@
+{
+  "files": [
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Andiamo con gioia alla mensa.md",
+      "filename": "Andiamo con gioia alla mensa"
+    },
+    {
+      "path": "z_Modelli/_0Canti.md",
+      "filename": "_0Canti"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Andiamo ed annunciamo.md",
+      "filename": "Andiamo ed annunciamo"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Antifone di Taizè.md",
+      "filename": "Antifone di Taizè"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Apparirà.md",
+      "filename": "Apparirà"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Apri le tue braccia.md",
+      "filename": "Apri le tue braccia"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Ascolterò la Tua Parola.md",
+      "filename": "Ascolterò la Tua Parola"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Astro del ciel.md",
+      "filename": "Astro del ciel"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Ave Maria.md",
+      "filename": "Ave Maria"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Ave Maria (Sequeri).md",
+      "filename": "Ave Maria (Sequeri)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Ave Maria di Lourdes.md",
+      "filename": "Ave Maria di Lourdes"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Ave Maria splendore del mattino.md",
+      "filename": "Ave Maria splendore del mattino"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Ave Maria stella del mattino.md",
+      "filename": "Ave Maria stella del mattino"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Accoglimi.md",
+      "filename": "Accoglimi"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/B/Beati quelli che ascoltano.md",
+      "filename": "Beati quelli che ascoltano"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/B/Beati quelli che poveri sono.md",
+      "filename": "Beati quelli che poveri sono"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/B/Beato l'uomo che retto procede (Salmo 1).md",
+      "filename": "Beato l'uomo che retto procede (Salmo 1)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Al Signore canterò (Salmo 146).md",
+      "filename": "Al Signore canterò (Salmo 146)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/B/Benedetto sei Tu.md",
+      "filename": "Benedetto sei Tu"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/B/Benedici, o Signore.md",
+      "filename": "Benedici, o Signore"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Camminerò.md",
+      "filename": "Camminerò"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/A te, Signore, innalzo l'anima mia.md",
+      "filename": "A te, Signore, innalzo l'anima mia"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Abramo.md",
+      "filename": "Abramo"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Accogli Signore i nostri doni.md",
+      "filename": "Accogli Signore i nostri doni"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Adeste fideles.md",
+      "filename": "Adeste fideles"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Al tempo di lasciarci.md",
+      "filename": "Al tempo di lasciarci"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/All'ombra della casa.md",
+      "filename": "All'ombra della casa"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (Cantate al Signore).md",
+      "filename": "Alleluia (Cantate al Signore)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (Chiama ed io).md",
+      "filename": "Alleluia (Chiama ed io)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (di Lourdes).md",
+      "filename": "Alleluia (di Lourdes)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (di Taizè).md",
+      "filename": "Alleluia (di Taizè)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (È Lui per noi).md",
+      "filename": "Alleluia (È Lui per noi)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (Ed oggi ancora).md",
+      "filename": "Alleluia (Ed oggi ancora)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (Gente di tutto il mondo).md",
+      "filename": "Alleluia (Gente di tutto il mondo)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (La nostra festa).md",
+      "filename": "Alleluia (La nostra festa)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (Nutri la nostra speranza).md",
+      "filename": "Alleluia (Nutri la nostra speranza)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (Passeranno i cieli).md",
+      "filename": "Alleluia (Passeranno i cieli)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (Signore sei risorto).md",
+      "filename": "Alleluia (Signore sei risorto)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Alleluia (Signore sei venuto).md",
+      "filename": "Alleluia (Signore sei venuto)"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Amare questa vita.md",
+      "filename": "Amare questa vita"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Amatevi fratelli.md",
+      "filename": "Amatevi fratelli"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/A/Andiam verso il Signor.md",
+      "filename": "Andiam verso il Signor"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/_modello-bol-.md",
+      "filename": "_modello-bol-"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/_modello-bre-.md",
+      "filename": "_modello-bre-"
+    },
+    {
+      "path": "Documenti pontifici/_Indice Documenti pontifici.md",
+      "filename": "_Indice Documenti pontifici"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/1750-12-25_bxiv-bol-bed.md",
+      "filename": "1750-12-25_bxiv-bol-bed"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/1749-03-15_bxiv-bol-ofn.md",
+      "filename": "1749-03-15_bxiv-bol-ofn"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/1749-05-05_bxiv-bol-pad.md",
+      "filename": "1749-05-05_bxiv-bol-pad"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/1751-03-18_bxiv-bol-prr.md",
+      "filename": "1751-03-18_bxiv-bol-prr"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/_Indice Bolle1.md",
+      "filename": "_Indice Bolle1"
+    },
+    {
+      "path": "Documenti pontifici/Costituzioni apostoliche/1992-10-11_ipii-coa-fid.md",
+      "filename": "1992-10-11_ipii-coa-fid"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.md",
+      "filename": "1741-05-30_bxiv-bre-noa"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.md",
+      "filename": "1741-06-30_bxiv-bre-quc"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/_Indice Brevi.md",
+      "filename": "_Indice Brevi"
+    },
+    {
+      "path": "Documenti pontifici/Lettere apostoliche/1997-08-15_ipii-lea-lem.md",
+      "filename": "1997-08-15_ipii-lea-lem"
+    },
+    {
+      "path": "Documenti pontifici/Lettere apostoliche/_Indice Lettere apostoliche.md",
+      "filename": "_Indice Lettere apostoliche"
+    },
+    {
+      "path": "Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat.md",
+      "filename": "1979-10-16_ipii-esa-cat"
+    },
+    {
+      "path": "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
+      "filename": "_Indice Esortazioni apostoliche"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1740-12-03_bxiv-enc-ubp.md",
+      "filename": "1740-12-03_bxiv-enc-ubp"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1757-08-02_bxiv-enc-qug.md",
+      "filename": "1757-08-02_bxiv-enc-qug"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/_Indice Encicliche.md",
+      "filename": "_Indice Encicliche"
+    },
+    {
+      "path": "Documenti vari/ccar-ccc.md",
+      "filename": "ccar-ccc"
+    },
+    {
+      "path": "Documenti vari/ccar-cic.md",
+      "filename": "ccar-cic"
+    },
+    {
+      "path": "Documenti vari/_Idee per la strutturazione del testo.md",
+      "filename": "_Idee per la strutturazione del testo"
+    },
+    {
+      "path": "Documenti vari/_Indice documenti vari.md",
+      "filename": "_Indice documenti vari"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev.md",
+      "filename": "cevii-cos-dev"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug.md",
+      "filename": "cevii-cos-lug"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-adg.md",
+      "filename": "cevii-dec-adg"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges.md",
+      "filename": "cevii-cos-ges"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-apa.md",
+      "filename": "cevii-dec-apa"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac.md",
+      "filename": "cevii-cos-sac"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd.md",
+      "filename": "cevii-dec-chd"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm.md",
+      "filename": "cevii-dec-inm"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pec.md",
+      "filename": "cevii-dec-pec"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr.md",
+      "filename": "cevii-dec-unr"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-ore.md",
+      "filename": "cevii-dec-ore"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pro.md",
+      "filename": "cevii-dec-pro"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-opt.md",
+      "filename": "cevii-dec-opt"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-dih.md",
+      "filename": "cevii-dic-dih"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-gre.md",
+      "filename": "cevii-dic-gre"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-noa.md",
+      "filename": "cevii-dic-noa"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II.md",
+      "filename": "Concilio Ecumenico Vaticano II"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-def.md",
+      "filename": "cevi-cos-def"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-paa.md",
+      "filename": "cevi-cos-paa"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/Concilio Ecumenico Vaticano I.md",
+      "filename": "Concilio Ecumenico Vaticano I"
+    },
+    {
+      "path": "La Sacra Bibbia/Indice generale della Sacra Bibbia.md",
+      "filename": "Indice generale della Sacra Bibbia"
+    },
+    {
+      "path": "La Sacra Bibbia/Versioni della Bibbia.md",
+      "filename": "Versioni della Bibbia"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/CEI 2008.md",
+      "filename": "CEI 2008"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Diodati.md",
+      "filename": "Diodati"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Martini.md",
+      "filename": "Martini"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/CEI 1974.md",
+      "filename": "CEI 1974"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Interconfessionale.md",
+      "filename": "Interconfessionale"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Nova Vulgata.md",
+      "filename": "Nova Vulgata"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Nuova Diodati.md",
+      "filename": "Nuova Diodati"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Nuova Riveduta.md",
+      "filename": "Nuova Riveduta"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Nuova Riveduta 2020.md",
+      "filename": "Nuova Riveduta 2020"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Ricciotti.md",
+      "filename": "Ricciotti"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Riveduta.md",
+      "filename": "Riveduta"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/Vulgata Latina.md",
+      "filename": "Vulgata Latina"
+    },
+    {
+      "path": "La Sacra Bibbia/_File unici/_Un file MD x ogni versione.md",
+      "filename": "_Un file MD x ogni versione"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Genesi.md",
+      "filename": "CEI 74 Genesi"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 01.md",
+      "filename": "CEI 74 Gn 01"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Matteo.md",
+      "filename": "CEI 74 Matteo"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 01.md",
+      "filename": "CEI 74 Mt 01"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 02.md",
+      "filename": "CEI 74 Mt 02"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 03.md",
+      "filename": "CEI 74 Mt 03"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 04.md",
+      "filename": "CEI 74 Mt 04"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 07.md",
+      "filename": "CEI 74 Mt 07"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 05.md",
+      "filename": "CEI 74 Mt 05"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 06.md",
+      "filename": "CEI 74 Mt 06"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 10.md",
+      "filename": "CEI 74 Mt 10"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 08.md",
+      "filename": "CEI 74 Mt 08"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 09.md",
+      "filename": "CEI 74 Mt 09"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 12.md",
+      "filename": "CEI 74 Mt 12"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 15.md",
+      "filename": "CEI 74 Mt 15"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 11.md",
+      "filename": "CEI 74 Mt 11"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 13.md",
+      "filename": "CEI 74 Mt 13"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 14.md",
+      "filename": "CEI 74 Mt 14"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 18.md",
+      "filename": "CEI 74 Mt 18"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 16.md",
+      "filename": "CEI 74 Mt 16"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 17.md",
+      "filename": "CEI 74 Mt 17"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 22.md",
+      "filename": "CEI 74 Mt 22"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 20.md",
+      "filename": "CEI 74 Mt 20"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 23.md",
+      "filename": "CEI 74 Mt 23"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 19.md",
+      "filename": "CEI 74 Mt 19"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 21.md",
+      "filename": "CEI 74 Mt 21"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 24.md",
+      "filename": "CEI 74 Mt 24"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 26.md",
+      "filename": "CEI 74 Mt 26"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 25.md",
+      "filename": "CEI 74 Mt 25"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 27.md",
+      "filename": "CEI 74 Mt 27"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 47 Matteo/CEI 74 Mt 28.md",
+      "filename": "CEI 74 Mt 28"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 48 Marco/CEI 74 Marco.md",
+      "filename": "CEI 74 Marco"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 72 Giuda/CEI 74 Gd 01.md",
+      "filename": "CEI 74 Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Genesi.md",
+      "filename": "CEI 08 Genesi"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 2008/AT - 01 Genesi/CEI 08 Gn 01.md",
+      "filename": "CEI 08 Gn 01"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 2008/NT - 72 Giuda/CEI 08 Gd 01.md",
+      "filename": "CEI 08 Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Genesi.md",
+      "filename": "INT Genesi"
+    },
+    {
+      "path": "La Sacra Bibbia/Interconfessionale/AT - 01 Genesi/INT Gn 01.md",
+      "filename": "INT Gn 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Interconfessionale/NT - 72 Giuda/INT Gd 01.md",
+      "filename": "INT Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Diodati/NT - 72 Giuda/D Gd 01.md",
+      "filename": "D Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Nuova Diodati/NT - 72 Giuda/ND Gd 01.md",
+      "filename": "ND Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Genesi.md",
+      "filename": "NV Genesi"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/AT - 01 Genesi/NV Gn 01.md",
+      "filename": "NV Gn 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Matteo.md",
+      "filename": "NV Matteo"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 01.md",
+      "filename": "NV Mt 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 03.md",
+      "filename": "NV Mt 03"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 02.md",
+      "filename": "NV Mt 02"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 04.md",
+      "filename": "NV Mt 04"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 06.md",
+      "filename": "NV Mt 06"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 05.md",
+      "filename": "NV Mt 05"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 09.md",
+      "filename": "NV Mt 09"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 07.md",
+      "filename": "NV Mt 07"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 12.md",
+      "filename": "NV Mt 12"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 13.md",
+      "filename": "NV Mt 13"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 10.md",
+      "filename": "NV Mt 10"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 11.md",
+      "filename": "NV Mt 11"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 08.md",
+      "filename": "NV Mt 08"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 14.md",
+      "filename": "NV Mt 14"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 15.md",
+      "filename": "NV Mt 15"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 16.md",
+      "filename": "NV Mt 16"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 20.md",
+      "filename": "NV Mt 20"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 18.md",
+      "filename": "NV Mt 18"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 21.md",
+      "filename": "NV Mt 21"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 19.md",
+      "filename": "NV Mt 19"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 22.md",
+      "filename": "NV Mt 22"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 23.md",
+      "filename": "NV Mt 23"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 17.md",
+      "filename": "NV Mt 17"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 24.md",
+      "filename": "NV Mt 24"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 26.md",
+      "filename": "NV Mt 26"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 28.md",
+      "filename": "NV Mt 28"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 25.md",
+      "filename": "NV Mt 25"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 47 Matteo/NV Mt 27.md",
+      "filename": "NV Mt 27"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 48 Marco/NV Mc 01.md",
+      "filename": "NV Mc 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/NT - 72 Giuda/NV Gd 01.md",
+      "filename": "NV Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Martini/NT - 72 Giuda/MRT Gd 01.md",
+      "filename": "MRT Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Nuova Riveduta 2020/NT - 72 Giuda/RIV 20 Gd 01.md",
+      "filename": "RIV 20 Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Nuova Riveduta/NT - 72 Giuda/NRIV Gd 01.md",
+      "filename": "NRIV Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Ricciotti/NT - 72 Giuda/RCT Gd 01.md",
+      "filename": "RCT Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Riveduta/NT - 72 Giuda/RIV Gd 01.md",
+      "filename": "RIV Gd 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Genesi.md",
+      "filename": "VL Genesi"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 01.md",
+      "filename": "VL Gn 01"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 02.md",
+      "filename": "VL Gn 02"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 04.md",
+      "filename": "VL Gn 04"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 03.md",
+      "filename": "VL Gn 03"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 05.md",
+      "filename": "VL Gn 05"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 08.md",
+      "filename": "VL Gn 08"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 09.md",
+      "filename": "VL Gn 09"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 06.md",
+      "filename": "VL Gn 06"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 07.md",
+      "filename": "VL Gn 07"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 11.md",
+      "filename": "VL Gn 11"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 10.md",
+      "filename": "VL Gn 10"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/VL Gn 50.md",
+      "filename": "VL Gn 50"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/AT - 01 Genesi/_Modello VL Gn CAPITOLO  da 03 a 09.md",
+      "filename": "_Modello VL Gn CAPITOLO  da 03 a 09"
+    },
+    {
+      "path": "La Sacra Bibbia/Vulgata Latina/NT - 72 Giuda/VL Gd 01.md",
+      "filename": "VL Gd 01"
+    },
+    {
+      "path": "Messaggi/1 1 info Mirijana.md",
+      "filename": "1 1 info Mirijana"
+    },
+    {
+      "path": "Messaggi/1 4 info Ivan.md",
+      "filename": "1 4 info Ivan"
+    },
+    {
+      "path": "Messaggi/1 2 info Ivanka.md",
+      "filename": "1 2 info Ivanka"
+    },
+    {
+      "path": "Messaggi/1 3 info Jakov.md",
+      "filename": "1 3 info Jakov"
+    },
+    {
+      "path": "Messaggi/1 5 info Vicka.md",
+      "filename": "1 5 info Vicka"
+    },
+    {
+      "path": "Messaggi/1 6 info Marija.md",
+      "filename": "1 6 info Marija"
+    },
+    {
+      "path": "Messaggi/2 Messaggi annuali a Ivanka.md",
+      "filename": "2 Messaggi annuali a Ivanka"
+    },
+    {
+      "path": "Messaggi/1 Messaggi annuali a Mirijana.md",
+      "filename": "1 Messaggi annuali a Mirijana"
+    },
+    {
+      "path": "Messaggi/_Elenco messaggi già inseriti.md",
+      "filename": "_Elenco messaggi già inseriti"
+    },
+    {
+      "path": "Messaggi/3 Messaggi annuali a Jakov.md",
+      "filename": "3 Messaggi annuali a Jakov"
+    },
+    {
+      "path": "Messaggi/_Template aaaa-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "_Template aaaa-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/_Template aaaa-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "_Template aaaa-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/_Template aaaa-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "_Template aaaa-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2014-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-04-25 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2014-04-25 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2014/2014-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-05-05 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2014-05-05 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2014/2014-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-05-16 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2014-05-16 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2014/2014-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2014-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2014/2014-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-08-17 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2014-08-17 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2014/2014-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-08-04 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2014-08-04 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2014/2014-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2014-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2014/2014-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2014-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2014/2014-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2014-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2014/2014-12-29 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2014-12-29 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2013/2013-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2013-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2013-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2013/2013-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-08-05 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2013-08-05 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2013/2013-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2013/2013-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2013-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2013/2013-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2013-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2013/2013-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2013-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2012-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2012/2012-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2012-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2012-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2015/2015-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-02-20 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2015-02-20 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2015/2015-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2015-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2015-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2015/2015-05-29 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2015-05-29 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2015/2015-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2015-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2015/2015-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2015-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2015/2015-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2015-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2016/2016-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2016-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-05-02 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2016-05-02 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2016/2016-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2016-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2016/2016-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-08-12 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2016-08-12 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2016/2016-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-08-26 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2016-08-26 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2016/2016-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-09-20 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2016-09-20 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2016/2016-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-10-21 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2016-10-21 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2016/2016-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2016-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2016/2016-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2016-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2016/2016-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2016-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2017/2017-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2017-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-04-24 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2017-04-24 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2017/2017-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-05-19 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2017-05-19 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2017/2017-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-05-29 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2017-05-29 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2017/2017-06-23 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2017-06-23 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2017/2017-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2017-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2017/2017-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-08-18 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2017-08-18 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2017/2017-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-09-01 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2017-09-01 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2017/2017-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2017-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2017/2017-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2017-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2017/2017-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2017-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2018/2018-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2018-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-05-04 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2018-05-04 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2018/2018-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-06-23 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2018-06-23 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2018/2018-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2018-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2018/2018-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-06-04 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2018-06-04 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2018/2018-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-08-06 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2018-08-06 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2018/2018-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-10-05 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2018-10-05 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2018/2018-10-19 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2018-10-19 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2018/2018-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2018/2018-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2018-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2018/2018-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2018-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2018/2018-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2018-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2020/2020-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2020-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2020/2020-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2020-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2020/2020-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2020-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2020/2020-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2020-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2020/2020-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-06-24 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2020-06-24 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2020/2020-05-04 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2020-05-04 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2020/2020-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2020-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2020/2020-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-08-15 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2020-08-15 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2020/2020-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-09-19 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2020-09-19 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2020/2020-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2020-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2020/2020-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2020/2020-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2020-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2019-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-06-21 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2019-06-21 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2019/2019-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-05-17 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2019-05-17 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2019/2019-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2019-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2019/2019-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-07-05 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2019-07-05 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2019/2019-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-08-12 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2019-08-12 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2019/2019-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-09-17 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2019-09-17 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2019/2019-09-13 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2019-09-13 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2019/2019-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-10-04 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2019-10-04 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2019/2019-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2019-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2019/2019-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2019-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2019/2019-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2019-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2021/2021-01-21 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-01-21 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2021-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2021/2021-04-17 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-04-17 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-06-24 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-06-24 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-06-13 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-06-13 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-06-19 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-06-19 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2021-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2021/2021-08-06 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-08-06 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-08-14 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-08-14 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-09-04 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-09-04 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-09-11 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-09-11 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-10-16 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-10-16 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-12-04 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2021-12-04 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2021/2021-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2021-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2021/2021-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2021-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2022/2022-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2022-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2022/2022-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2022-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2022/2022-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2022-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2022/2022-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2022/2022-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2022-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2023-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2023/2023-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-06-23 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2023-06-23 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2023/2023-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2023-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2023/2023-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-10-20 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2023-10-20 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2023/2023-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2023/2023-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2023-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2023/2023-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2023-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2025-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2025-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2025-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2025-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2025/2025-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2025-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2025-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2025-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2025-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2024/2024-01-01 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-01-01 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2024-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2024/2024-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-07-06 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2024-07-06 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2024/2024-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2024-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2024/2024-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2024-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2024/2024-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2024-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Papi/I sommi Pontefici.md",
+      "filename": "I sommi Pontefici"
+    },
+    {
+      "path": "Papi/Scheda 247° papa - Benedetto XIV.md",
+      "filename": "Scheda 247° papa - Benedetto XIV"
+    },
+    {
+      "path": "Papi/Scheda 248° papa - Clemente XIII.md",
+      "filename": "Scheda 248° papa - Clemente XIII"
+    },
+    {
+      "path": "Papi/Scheda 249° papa - Clemente XIV.md",
+      "filename": "Scheda 249° papa - Clemente XIV"
+    },
+    {
+      "path": "Papi/Scheda 250° papa - Pio VI.md",
+      "filename": "Scheda 250° papa - Pio VI"
+    },
+    {
+      "path": "Papi/Scheda 251° papa - Pio VII.md",
+      "filename": "Scheda 251° papa - Pio VII"
+    },
+    {
+      "path": "Papi/Scheda 253° papa - Pio VIII.md",
+      "filename": "Scheda 253° papa - Pio VIII"
+    },
+    {
+      "path": "Papi/Scheda 252° papa - Leone XII.md",
+      "filename": "Scheda 252° papa - Leone XII"
+    },
+    {
+      "path": "Papi/Scheda 254° papa - Gregorio XVI.md",
+      "filename": "Scheda 254° papa - Gregorio XVI"
+    },
+    {
+      "path": "Papi/Scheda 255° papa - Pio IX.md",
+      "filename": "Scheda 255° papa - Pio IX"
+    },
+    {
+      "path": "Papi/Scheda 257° papa - Pio X.md",
+      "filename": "Scheda 257° papa - Pio X"
+    },
+    {
+      "path": "Papi/Scheda 256° papa - Leone XIII.md",
+      "filename": "Scheda 256° papa - Leone XIII"
+    },
+    {
+      "path": "Papi/Scheda 258° papa - Benedetto XV.md",
+      "filename": "Scheda 258° papa - Benedetto XV"
+    },
+    {
+      "path": "Papi/Scheda 261° papa - Giovanni XXIII.md",
+      "filename": "Scheda 261° papa - Giovanni XXIII"
+    },
+    {
+      "path": "Papi/Scheda 260° papa - Pio XII.md",
+      "filename": "Scheda 260° papa - Pio XII"
+    },
+    {
+      "path": "Papi/Scheda 263° papa - Giovanni Paolo I.md",
+      "filename": "Scheda 263° papa - Giovanni Paolo I"
+    },
+    {
+      "path": "Papi/Scheda 259° papa - Pio XI.md",
+      "filename": "Scheda 259° papa - Pio XI"
+    },
+    {
+      "path": "Papi/Scheda 262° papa - Paolo VI.md",
+      "filename": "Scheda 262° papa - Paolo VI"
+    },
+    {
+      "path": "Papi/Scheda 265° papa - Benedetto XVI.md",
+      "filename": "Scheda 265° papa - Benedetto XVI"
+    },
+    {
+      "path": "Papi/Scheda 264° papa - Giovanni Paolo II.md",
+      "filename": "Scheda 264° papa - Giovanni Paolo II"
+    },
+    {
+      "path": "Papi/Scheda 266° papa - Francesco.md",
+      "filename": "Scheda 266° papa - Francesco"
+    },
+    {
+      "path": "Papi/Scheda 267° papa - Leone XIV.md",
+      "filename": "Scheda 267° papa - Leone XIV"
+    },
+    {
+      "path": "Papi/_Indice schede Pontefici presenti in archivio.md",
+      "filename": "_Indice schede Pontefici presenti in archivio"
+    },
+    {
+      "path": "Papi/_Template Scheda x° papa - X.md",
+      "filename": "_Template Scheda x° papa - X"
+    },
+    {
+      "path": "Santi/06/06-07.md",
+      "filename": "06-07"
+    },
+    {
+      "path": "z_Modelli/_0SantiDelGiorno.md",
+      "filename": "_0SantiDelGiorno"
+    },
+    {
+      "path": "Santi/07/07-10.md",
+      "filename": "07-10"
+    },
+    {
+      "path": "_03 - PDF/Martirologio Romano evidenziati gli MD.pdf",
+      "filename": "Martirologio Romano evidenziati gli MD"
+    },
+    {
+      "path": "_04 - Web pages/_Calendario dei santi da Wikipedia.md",
+      "filename": "_Calendario dei santi da Wikipedia"
+    },
+    {
+      "path": "Santi/Martirologio già creato.md",
+      "filename": "Martirologio già creato"
+    },
+    {
+      "path": "z_Modelli/_Prova_003_Costruzione_Calendario.md",
+      "filename": "_Prova_003_Costruzione_Calendario"
+    },
+    {
+      "path": "z_Modelli/Untitled.md",
+      "filename": "Untitled"
+    },
+    {
+      "path": "Operazioni quotidiane.md",
+      "filename": "Operazioni quotidiane"
+    },
+    {
+      "path": "z_Modelli/_0CostruzioneCalendario.md",
+      "filename": "_0CostruzioneCalendario"
+    },
+    {
+      "path": "z_Modelli/Untitled 1.md",
+      "filename": "Untitled 1"
+    },
+    {
+      "path": "Santi/Untitled 1.md",
+      "filename": "Untitled 1"
+    },
+    {
+      "path": "Santi/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Santi/07/07-11.md",
+      "filename": "07-11"
+    },
+    {
+      "path": "Santi/07/07-09.md",
+      "filename": "07-09"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Cantiamo al Signore.md",
+      "filename": "Cantiamo al Signore"
+    },
+    {
+      "path": "_Canti per le Liturgie/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "z_Modelli/_1Estrae e crea una tabella coi file e data di modifica DISC.md",
+      "filename": "_1Estrae e crea una tabella coi file e data di modifica DISC"
+    },
+    {
+      "path": "z_Modelli/_Prova_009_Orologio_DataviewJS.md",
+      "filename": "_Prova_009_Orologio_DataviewJS"
+    },
+    {
+      "path": "z_Modelli/_Templater Crea nuovo file e dagli un nome.md",
+      "filename": "_Templater Crea nuovo file e dagli un nome"
+    },
+    {
+      "path": "z_Modelli/_Templater Prova scelta TAG e domanda.md",
+      "filename": "_Templater Prova scelta TAG e domanda"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Cantiamo te.md",
+      "filename": "Cantiamo te"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Cantico dei redenti.md",
+      "filename": "Cantico dei redenti"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Cantico delle creature.md",
+      "filename": "Cantico delle creature"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Cantico di liberazione.md",
+      "filename": "Cantico di liberazione"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Cantico di Zaccaria.md",
+      "filename": "Cantico di Zaccaria"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Canto a Maria.md",
+      "filename": "Canto a Maria"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Canto a te.md",
+      "filename": "Canto a te"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/B/Beati.md",
+      "filename": "Beati"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Canto d'umiltà.md",
+      "filename": "Canto d'umiltà"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Canto della missione.md",
+      "filename": "Canto della missione"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Canzone di Maria Chiara.md",
+      "filename": "Canzone di Maria Chiara"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Canzone di san Damiano.md",
+      "filename": "Canzone di san Damiano"
+    },
+    {
+      "path": "_Canti per le Liturgie/Tutti i canti/C/Cercate prima il Regno di Dio.md",
+      "filename": "Cercate prima il Regno di Dio"
+    },
+    {
+      "path": "Messaggi/2012/2012-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "z_Modelli/_0MessaggiReginaDellaPace.md",
+      "filename": "_0MessaggiReginaDellaPace"
+    },
+    {
+      "path": "Messaggi/2012/2012-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2012-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2012/2012-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2012-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2012/2012-08-10 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2012-08-10 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2012/2012-08-17 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2012-08-17 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "_Prova Dataview Modal.md",
+      "filename": "_Prova Dataview Modal"
+    },
+    {
+      "path": "_Prove/_Clicca sulle colonne e ordina.md",
+      "filename": "_Clicca sulle colonne e ordina"
+    },
+    {
+      "path": "_Prove/_Piano 3 di lettura della Bibbia in un anno.md",
+      "filename": "_Piano 3 di lettura della Bibbia in un anno"
+    },
+    {
+      "path": "_Prove/acrossVaultWordCount-v0.0.11.md",
+      "filename": "acrossVaultWordCount-v0.0.11"
+    },
+    {
+      "path": "Santi/07/07-12.md",
+      "filename": "07-12"
+    },
+    {
+      "path": "Santi/07/07-13.md",
+      "filename": "07-13"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Local setup LLMs 1.md",
+      "filename": "Local setup LLMs 1"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/AT - 02 Esodo/NV Es 01.md",
+      "filename": "NV Es 01"
+    },
+    {
+      "path": "_08 - tmpPythonNV/MD/NV Es 25.md",
+      "filename": "NV Es 25"
+    },
+    {
+      "path": "_08 - tmpPythonNV/MD/NV Es 01.md",
+      "filename": "NV Es 01"
+    },
+    {
+      "path": "_Prove/_Piano 4 di lettura della Bibbia in un anno menu.md",
+      "filename": "_Piano 4 di lettura della Bibbia in un anno menu"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_J.md",
+      "filename": "Vocaboli_J"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_K.md",
+      "filename": "Vocaboli_K"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_W.md",
+      "filename": "Vocaboli_W"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_X.md",
+      "filename": "Vocaboli_X"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_Z.md",
+      "filename": "Vocaboli_Z"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_È.md",
+      "filename": "Vocaboli_È"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_É.md",
+      "filename": "Vocaboli_É"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_A.md",
+      "filename": "Vocaboli_A"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_B.md",
+      "filename": "Vocaboli_B"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_C.md",
+      "filename": "Vocaboli_C"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_D.md",
+      "filename": "Vocaboli_D"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_E.md",
+      "filename": "Vocaboli_E"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_F.md",
+      "filename": "Vocaboli_F"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_G.md",
+      "filename": "Vocaboli_G"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_H.md",
+      "filename": "Vocaboli_H"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_I.md",
+      "filename": "Vocaboli_I"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_L.md",
+      "filename": "Vocaboli_L"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_M.md",
+      "filename": "Vocaboli_M"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_N.md",
+      "filename": "Vocaboli_N"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_O.md",
+      "filename": "Vocaboli_O"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_P.md",
+      "filename": "Vocaboli_P"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_Q.md",
+      "filename": "Vocaboli_Q"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_R.md",
+      "filename": "Vocaboli_R"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_S.md",
+      "filename": "Vocaboli_S"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_T.md",
+      "filename": "Vocaboli_T"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_U.md",
+      "filename": "Vocaboli_U"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_V.md",
+      "filename": "Vocaboli_V"
+    },
+    {
+      "path": "Vocaboli/ElencoFileContenuti.txt",
+      "filename": "ElencoFileContenuti"
+    },
+    {
+      "path": "Vocaboli/Vocaboli_Y.md",
+      "filename": "Vocaboli_Y"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Prova link e Modal su link versetti.md",
+      "filename": "Prova link e Modal su link versetti"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/LLM locale per Obsidian.md",
+      "filename": "LLM locale per Obsidian"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Ricordi.md",
+      "filename": "Ricordi"
+    },
+    {
+      "path": "Pacchetti installati in Python (env).md",
+      "filename": "Pacchetti installati in Python (env)"
+    },
+    {
+      "path": "_08 - tmpPythonNV/2025-07-19 - Pacchetti installati in python (env).md",
+      "filename": "2025-07-19 - Pacchetti installati in python (env)"
+    },
+    {
+      "path": "_08 - tmpPythonNV/Pacchetti installati (env) 2025-07-19.md",
+      "filename": "Pacchetti installati (env) 2025-07-19"
+    },
+    {
+      "path": "_liste file/2025-07-20 - Struttura cartella Chiesa.md",
+      "filename": "2025-07-20 - Struttura cartella Chiesa"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Local setup LLMs 2.md",
+      "filename": "Local setup LLMs 2"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Local setup LLMs 3.md",
+      "filename": "Local setup LLMs 3"
+    },
+    {
+      "path": "_Prove/Esempi di tabelle formattate x Obsidian/01 - Default Table.md",
+      "filename": "01 - Default Table"
+    },
+    {
+      "path": "_Prove/Esempi di tabelle formattate x Obsidian/02 - PurpleRed.md",
+      "filename": "02 - PurpleRed"
+    },
+    {
+      "path": "_Prove/Esempi di tabelle formattate x Obsidian/03 - FlatBlue.md",
+      "filename": "03 - FlatBlue"
+    },
+    {
+      "path": "_Prove/Esempi di tabelle formattate x Obsidian/05 - White red rounded.md",
+      "filename": "05 - White red rounded"
+    },
+    {
+      "path": "_Prove/Esempi di tabelle formattate x Obsidian/05 - White red.md",
+      "filename": "05 - White red"
+    },
+    {
+      "path": "_Prove/Esempi di tabelle formattate x Obsidian/06 - Yellow cab.md",
+      "filename": "06 - Yellow cab"
+    },
+    {
+      "path": "_Prove/Esempi di tabelle formattate x Obsidian/04 - Latex like.md",
+      "filename": "04 - Latex like"
+    },
+    {
+      "path": "Santi/S/Sette dormienti di Efeso.md",
+      "filename": "Sette dormienti di Efeso"
+    },
+    {
+      "path": "_02 - Allegati/07_27_Sette_dormienti_di_Efeso_1jpg.jpg",
+      "filename": "07_27_Sette_dormienti_di_Efeso_1jpg"
+    },
+    {
+      "path": "_02 - Allegati/07_27_Sette_dormienti_di_Efeso_2.jpg",
+      "filename": "07_27_Sette_dormienti_di_Efeso_2"
+    },
+    {
+      "path": "_04 - Web pages/_Lista santi sito del Vaticano.md",
+      "filename": "_Lista santi sito del Vaticano"
+    },
+    {
+      "path": "Santi/P/Pantaleone.md",
+      "filename": "Pantaleone"
+    },
+    {
+      "path": "_02 - Allegati/07_27_Sette_dormienti_di_Efeso_1.jpg",
+      "filename": "07_27_Sette_dormienti_di_Efeso_1"
+    },
+    {
+      "path": "_liste file/Lista Obsidian Plug-in.md",
+      "filename": "Lista Obsidian Plug-in"
+    },
+    {
+      "path": "_02 - Allegati/07_27_San_Pantaleone_1_tn.jpg",
+      "filename": "07_27_San_Pantaleone_1_tn"
+    },
+    {
+      "path": "_02 - Allegati/Benedictus XIV.svg_tn.jpg",
+      "filename": "Benedictus XIV.svg_tn"
+    },
+    {
+      "path": "Santi/S/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "_04 - Web pages/Calendario dei santi da Wikipedia.md",
+      "filename": "Calendario dei santi da Wikipedia"
+    },
+    {
+      "path": "_03 - PDF/Martirologio/pdf_da_elaborare/pdfsam540076079780991885.tmp",
+      "filename": "pdfsam540076079780991885"
+    },
+    {
+      "path": "_04 - Web pages/_Calendario dei santi da Wikipedia.htm",
+      "filename": "_Calendario dei santi da Wikipedia"
+    },
+    {
+      "path": "_04 - Web pages/_Lista santi sito del Vaticano.html",
+      "filename": "_Lista santi sito del Vaticano"
+    },
+    {
+      "path": "_03 - PDF/Martirologio/pdf_da_elaborare/584-587.pdf",
+      "filename": "584-587"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Template Santi per ChatGPT.md",
+      "filename": "Template Santi per ChatGPT"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-27 - Nascondere bullet allineare emoji.md",
+      "filename": "2025-07-27 - Nascondere bullet allineare emoji"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-13 - Local AI File Writing.md",
+      "filename": "2025-07-13 - Local AI File Writing"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-13 - Local setup LLMs 1.md",
+      "filename": "2025-07-13 - Local setup LLMs 1"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-14 - Vocabolario inglese e italiano.md",
+      "filename": "2025-07-14 - Vocabolario inglese e italiano"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-17 - Estrazione link Bibbia MD.md",
+      "filename": "2025-07-17 - Estrazione link Bibbia MD"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-18 - Correzioni script scarica_nv_02.md",
+      "filename": "2025-07-18 - Correzioni script scarica_nv_02"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-19 - Indicizzazione MD locale.md",
+      "filename": "2025-07-19 - Indicizzazione MD locale"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-19 - Script esclusione file md.md",
+      "filename": "2025-07-19 - Script esclusione file md"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-26 - Capacità galleggiamento bidoni plastica.md",
+      "filename": "2025-07-26 - Capacità galleggiamento bidoni plastica"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-17 - Local setup LLMs 2.md",
+      "filename": "2025-07-17 - Local setup LLMs 2"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/2025-07-23 - Andare alla prima riga.md",
+      "filename": "2025-07-23 - Andare alla prima riga"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Propietà Header ChatGPT.md",
+      "filename": "Propietà Header ChatGPT"
+    },
+    {
+      "path": "_04 - Web pages/2025-07-26 - Capacità galleggiamento bidoni plastica_001.png",
+      "filename": "2025-07-26 - Capacità galleggiamento bidoni plastica_001"
+    },
+    {
+      "path": "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_002.png",
+      "filename": "2025-07-26 - Capacità galleggiamento bidoni plastica_002"
+    },
+    {
+      "path": "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_003.png",
+      "filename": "2025-07-26 - Capacità galleggiamento bidoni plastica_003"
+    },
+    {
+      "path": "_02 - Allegati/shopsolar-favicon_32x32.png",
+      "filename": "shopsolar-favicon_32x32"
+    },
+    {
+      "path": "_08 - tmpPythonNV/MD/NV Es 02.md",
+      "filename": "NV Es 02"
+    },
+    {
+      "path": "La Sacra Bibbia/Nova Vulgata/AT - 02 Es/NV Es 03.md",
+      "filename": "NV Es 03"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Nuovo Documento di testo.txt",
+      "filename": "Nuovo Documento di testo"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/NV Web Scraper - ChatGPT.html",
+      "filename": "NV Web Scraper - ChatGPT"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/NV Web Scraper - Prompt.md",
+      "filename": "NV Web Scraper - Prompt"
+    },
+    {
+      "path": "_09 - LLMs/New Chat.md",
+      "filename": "New Chat"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/NV Web Scraper - Prompt.md",
+      "filename": "NV Web Scraper - Prompt"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/Propietà Header ChatGPT.md",
+      "filename": "Propietà Header ChatGPT"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/Prova link e Modal su link versetti.md",
+      "filename": "Prova link e Modal su link versetti"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/Ricordi.md",
+      "filename": "Ricordi"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/Template Santi per ChatGPT.md",
+      "filename": "Template Santi per ChatGPT"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/2025-07-14 - Vocabolario inglese e italiano.md",
+      "filename": "2025-07-14 - Vocabolario inglese e italiano"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/2025-07-17 - Estrazione link Bibbia MD.md",
+      "filename": "2025-07-17 - Estrazione link Bibbia MD"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/2025-07-18 - Correzioni script scarica_nv_02.md",
+      "filename": "2025-07-18 - Correzioni script scarica_nv_02"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/2025-07-19 - Indicizzazione MD locale.md",
+      "filename": "2025-07-19 - Indicizzazione MD locale"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/2025-07-19 - Script esclusione file md.md",
+      "filename": "2025-07-19 - Script esclusione file md"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/2025-07-23 - Andare alla prima riga.md",
+      "filename": "2025-07-23 - Andare alla prima riga"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/2025-07-26 - Capacità galleggiamento bidoni plastica.md",
+      "filename": "2025-07-26 - Capacità galleggiamento bidoni plastica"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/2025-07-27 - Nascondere bullet allineare emoji.md",
+      "filename": "2025-07-27 - Nascondere bullet allineare emoji"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/LLM locale per Obsidian.md",
+      "filename": "LLM locale per Obsidian"
+    },
+    {
+      "path": "_09 - Chat con ChatGPT/Chat con ChatGPT/Local setup LLMs 2.md",
+      "filename": "Local setup LLMs 2"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/2025-07-14 - Vocabolario inglese e italiano.md",
+      "filename": "2025-07-14 - Vocabolario inglese e italiano"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/2025-07-17 - Estrazione link Bibbia MD.md",
+      "filename": "2025-07-17 - Estrazione link Bibbia MD"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/2025-07-19 - Indicizzazione MD locale.md",
+      "filename": "2025-07-19 - Indicizzazione MD locale"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/2025-07-18 - Correzioni script scarica_nv_02.md",
+      "filename": "2025-07-18 - Correzioni script scarica_nv_02"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/2025-07-19 - Script esclusione file md.md",
+      "filename": "2025-07-19 - Script esclusione file md"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/2025-07-23 - Andare alla prima riga.md",
+      "filename": "2025-07-23 - Andare alla prima riga"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/2025-07-26 - Capacità galleggiamento bidoni plastica.md",
+      "filename": "2025-07-26 - Capacità galleggiamento bidoni plastica"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/2025-07-27 - Nascondere bullet allineare emoji.md",
+      "filename": "2025-07-27 - Nascondere bullet allineare emoji"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/LLM locale per Obsidian.md",
+      "filename": "LLM locale per Obsidian"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/Local setup LLMs 2.md",
+      "filename": "Local setup LLMs 2"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/NV Web Scraper - Prompt.md",
+      "filename": "NV Web Scraper - Prompt"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/Prova link e Modal su link versetti.md",
+      "filename": "Prova link e Modal su link versetti"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/Propietà Header ChatGPT.md",
+      "filename": "Propietà Header ChatGPT"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/Ricordi.md",
+      "filename": "Ricordi"
+    },
+    {
+      "path": "_09 - LLMs/Chat con ChatGPT/Template Santi per ChatGPT.md",
+      "filename": "Template Santi per ChatGPT"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 02.md",
+      "filename": "CEI 74 Gn 02"
+    },
+    {
+      "path": "_09 - LLMs/Modello per Local LLM x Libri Bibbia CEI 1974.md",
+      "filename": "Modello per Local LLM x Libri Bibbia CEI 1974"
+    },
+    {
+      "path": "_Prove/Piano di lettura della Bibbia in un anno.md",
+      "filename": "Piano di lettura della Bibbia in un anno"
+    },
+    {
+      "path": "_03 - PDF/Bibbia1anno.pdf",
+      "filename": "Bibbia1anno"
+    },
+    {
+      "path": "_Prove/_Piano 1 di lettura della Bibbia in un anno.md",
+      "filename": "_Piano 1 di lettura della Bibbia in un anno"
+    },
+    {
+      "path": "_Prove/_Piano 2 di lettura della Bibbia in un anno.md",
+      "filename": "_Piano 2 di lettura della Bibbia in un anno"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 03.md",
+      "filename": "CEI 74 Gn 03"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 04.md",
+      "filename": "CEI 74 Gn 04"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/AT - 01 Genesi/CEI 74 Gn 05.md",
+      "filename": "CEI 74 Gn 05"
+    },
+    {
+      "path": "Messaggi/1995/1995-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "1995-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/1995/1995-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "1995-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/1996/1996-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "1996-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/1996/1996-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "1996-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/1997/1997-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "1997-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/1997/1997-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "1997-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/1998/1998-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "1998-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/1998/1998-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "1998-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/1998/1998-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "1998-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/1999/1999-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "1999-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/1999/1999-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "1999-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/1999/1999-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "1999-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2000/2000-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2000-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2000/2000-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2000-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2000/2000-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2000-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2001/2001-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2001-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2001/2001-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2001-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2001/2001-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2001-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2002/2002-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2002-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2002/2002-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2002-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2002/2002-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2002-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2003/2003-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2003-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2003/2003-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2003-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2003/2003-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2003-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2004/2004-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2004-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2004/2004-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2004-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2004/2004-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2004-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2005/2005-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2005-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2005/2005-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2005-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2005/2005-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2005-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2006/2006-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2006-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2006/2006-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2006-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2006/2006-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2006-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2007/2007-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2007-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2007/2007-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2007-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2007/2007-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2007-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2008/2008-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2008-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2008/2008-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2008-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2008/2008-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2008-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2009/2009-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2009-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2009/2009-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2009-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2009/2009-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2009-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2011/2011-12-30 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2011-12-30 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2011/2011-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2011-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2011/2011-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2011-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2011/2011-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2011-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-11-17 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2011-11-17 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2011/2011-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2025-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2025/2025-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2025-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2011-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/2011-08-05 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2011-08-05 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2011/2011-06-24 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2011-06-24 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2011/2011-05-22 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2011-05-22 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2011/2011-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2011/2011-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2011-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-31 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-12-31 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2011/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-31 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-12-31 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-31 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-12-31 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-31 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-12-31 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-31 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-12-31 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-31 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-12-31 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-25 - Messaggio annuale a Jakov.md",
+      "filename": "2010-12-25 - Messaggio annuale a Jakov"
+    },
+    {
+      "path": "Messaggi/2010/2010-03-18 - Messaggio annuale a Mirijana.md",
+      "filename": "2010-03-18 - Messaggio annuale a Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-06-25 - Messaggio annuale a Ivanka.md",
+      "filename": "2010-06-25 - Messaggio annuale a Ivanka"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-12-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-11-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-11-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-10-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-10-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-09-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-09-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-10-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-10-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-11-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-11-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-12-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-12-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-09-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-09-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-08-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-08-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-08-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-08-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-07-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-07-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-07-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-07-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-06-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-06-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-06-18 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2010-06-18 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2010/2010-06-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-06-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-05-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-05-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-05-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-05-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-04-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-04-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-04-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-04-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-03-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-03-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-03-13 - Messaggio al gruppo di preghiera-Ivan.md",
+      "filename": "2010-03-13 - Messaggio al gruppo di preghiera-Ivan"
+    },
+    {
+      "path": "Messaggi/2010/2010-03-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-03-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-02-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-02-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-02-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-02-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Messaggi/2010/2010-01-25 - Messaggio alla Parrocchia-Marija.md",
+      "filename": "2010-01-25 - Messaggio alla Parrocchia-Marija"
+    },
+    {
+      "path": "Messaggi/2010/2010-01-02 - Messaggio al mondo-Mirijana.md",
+      "filename": "2010-01-02 - Messaggio al mondo-Mirijana"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1741-06-30_bxiv-ben-pet.md",
+      "filename": "1741-06-30_bxiv-ben-pet"
+    },
+    {
+      "path": "Documenti pontifici/Brevi Encicliche/_modello-ben-.md",
+      "filename": "_modello-ben-"
+    },
+    {
+      "path": "Documenti pontifici/Brevi Encicliche/_Indice Brevi Encicliche.md",
+      "filename": "_Indice Brevi Encicliche"
+    },
+    {
+      "path": "Documenti pontifici/Costituzioni apostoliche/_Indice Costituzioni Apostoliche.md",
+      "filename": "_Indice Costituzioni Apostoliche"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1741-08-22_bxiv-bre-isu.md",
+      "filename": "1741-08-22_bxiv-bre-isu"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/_modello-enc-.md",
+      "filename": "_modello-enc-"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1741-08-26_bxiv-enc-qpa.md",
+      "filename": "1741-08-26_bxiv-enc-qpa"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1741-11-17_bxiv-enc-svc.md",
+      "filename": "1741-11-17_bxiv-enc-svc"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1742-02-07_bxiv-enc-etm.md",
+      "filename": "1742-02-07_bxiv-enc-etm"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1742-11-13_bxiv-enc-cee.md",
+      "filename": "1742-11-13_bxiv-enc-cee"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1742-12-14_bxiv-enc-cis.md",
+      "filename": "1742-12-14_bxiv-enc-cis"
+    },
+    {
+      "path": "Documenti pontifici/Lettere/_Indice Lettere.md",
+      "filename": "_Indice Lettere"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dei.md",
+      "filename": "cet-dec-dei"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.Decr. Trid. Giustificazione 2/10365-02.md",
+      "filename": "10365-02"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.md",
+      "filename": "10365-02"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/Ml 3,20.md",
+      "filename": "Ml 3,20"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/1545-1563-,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT.pdf",
+      "filename": "1545-1563-,_Concilium_Tridentinum,_Canones_et_Decreta_(Testo_divulgativo),_IT"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/10365-02.Decr. Trid. Giustificazione 2.pdf",
+      "filename": "10365-02.Decr. Trid. Giustificazione 2"
+    },
+    {
+      "path": "_Test note laterali.md",
+      "filename": "_Test note laterali"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/CTridentinum.pdf",
+      "filename": "CTridentinum"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dei - Copia.md",
+      "filename": "cet-dec-dei - Copia"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dre.md",
+      "filename": "cet-dec-dre"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/_modello-cet-dec.md",
+      "filename": "_modello-cet-dec"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dpo.md",
+      "filename": "cet-dec-dpo"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-pss.md",
+      "filename": "cet-dec-pss"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-dcs.md",
+      "filename": "cet-dec-dcs"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/cet-dec-del.md",
+      "filename": "cet-dec-del"
+    },
+    {
+      "path": "Documenti vari/Documenti del Concilio Ecumenico Tridentino/Concilio Ecumenico Tridentino.md",
+      "filename": "Concilio Ecumenico Tridentino"
+    },
+    {
+      "path": "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
+      "filename": "Concilio_Ecumenico_Tridentino"
+    },
+    {
+      "path": "_02 - Allegati/~oncilio_Ecumenico_Tridentino.tmp",
+      "filename": "~oncilio_Ecumenico_Tridentino"
+    },
+    {
+      "path": "_02 - Allegati/Concilio_Ecumenico_Tridentino_1.jpg",
+      "filename": "Concilio_Ecumenico_Tridentino_1"
+    },
+    {
+      "path": "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
+      "filename": "Concilio_Ecumenico_Tridentino1"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1743-03-23_bxiv-enc-qpr.md",
+      "filename": "1743-03-23_bxiv-enc-qpr"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1744-02-02_bxiv-enc-ino.md",
+      "filename": "1744-02-02_bxiv-enc-ino"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1744-08-19_bxiv-enc-cso.md",
+      "filename": "1744-08-19_bxiv-enc-cso"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1745-06-10_bxiv-enc-liq.md",
+      "filename": "1745-06-10_bxiv-enc-liq"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1745-09-08_bxiv-enc-grs.md",
+      "filename": "1745-09-08_bxiv-enc-grs"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1745-11-01_bxiv-enc-vip.md",
+      "filename": "1745-11-01_bxiv-enc-vip"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1746-07-16_bxiv-enc-acp.md",
+      "filename": "1746-07-16_bxiv-enc-acp"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1748-01-01_bxiv-enc-inc.md",
+      "filename": "1748-01-01_bxiv-enc-inc"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1748-06-29_bxiv-enc-man.md",
+      "filename": "1748-06-29_bxiv-enc-man"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1746-12-16_bxiv-bre-qun.md",
+      "filename": "1746-12-16_bxiv-bre-qun"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1743-05-18_bxiv-bre-nil.md",
+      "filename": "1743-05-18_bxiv-bre-nil"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1744-11-20_bxiv-bre-isc.md",
+      "filename": "1744-11-20_bxiv-bre-isc"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1745_02-18_bxiv-bre-cmc.md",
+      "filename": "1745_02-18_bxiv-bre-cmc"
+    },
+    {
+      "path": "_09 - LLMs/_Prompt IA per estrazione Documenti pontifici.md",
+      "filename": "_Prompt IA per estrazione Documenti pontifici"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1749-12-03_bxiv-enc-inp.md",
+      "filename": "1749-12-03_bxiv-enc-inp"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1749-02-19_bxiv-enc-aqh.md",
+      "filename": "1749-02-19_bxiv-enc-aqh"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1749-06-26_bxiv-enc-apc.md",
+      "filename": "1749-06-26_bxiv-enc-apc"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1755-07-26_bxiv-enc-als.md",
+      "filename": "1755-07-26_bxiv-enc-als"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1756-10-16_bxiv-enc-eoc.md",
+      "filename": "1756-10-16_bxiv-enc-eoc"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1749-10-31_bxiv-enc-gra.md",
+      "filename": "1749-10-31_bxiv-enc-gra"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1751-02-20_bxiv-enc-epa.md",
+      "filename": "1751-02-20_bxiv-enc-epa"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1754-08-01_bxiv-enc-qup.md",
+      "filename": "1754-08-01_bxiv-enc-qup"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1754-06-26_bxiv-enc-cra.md",
+      "filename": "1754-06-26_bxiv-enc-cra"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1751-06-14_bxiv-enc-aqp.md",
+      "filename": "1751-06-14_bxiv-enc-aqp"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1756-03-01_bxiv-enc-eqp.md",
+      "filename": "1756-03-01_bxiv-enc-eqp"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1751-06-02_bxiv-enc-mca.md",
+      "filename": "1751-06-02_bxiv-enc-mca"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1751-01-30_bxiv-enc-prj.md",
+      "filename": "1751-01-30_bxiv-enc-prj"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1751-01-01_bxiv-enc-cem.md",
+      "filename": "1751-01-01_bxiv-enc-cem"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/_tmpAI.md",
+      "filename": "_tmpAI"
+    },
+    {
+      "path": "_09 - LLMs/_tmpAI.md",
+      "filename": "_tmpAI"
+    },
+    {
+      "path": "Documenti pontifici/_tmpHTML.html",
+      "filename": "_tmpHTML"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1755-08-08_bxiv-bre-qes.md",
+      "filename": "1755-08-08_bxiv-bre-qes"
+    },
+    {
+      "path": "_Prove/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Vocaboli/a.md",
+      "filename": "a"
+    },
+    {
+      "path": "Vocaboli/b.md",
+      "filename": "b"
+    },
+    {
+      "path": "Vocaboli/c.md",
+      "filename": "c"
+    },
+    {
+      "path": "Vocaboli/d.md",
+      "filename": "d"
+    },
+    {
+      "path": "Vocaboli/e.md",
+      "filename": "e"
+    },
+    {
+      "path": "Vocaboli/f.md",
+      "filename": "f"
+    },
+    {
+      "path": "Vocaboli/g.md",
+      "filename": "g"
+    },
+    {
+      "path": "Vocaboli/h.md",
+      "filename": "h"
+    },
+    {
+      "path": "Vocaboli/i.md",
+      "filename": "i"
+    },
+    {
+      "path": "Vocaboli/j.md",
+      "filename": "j"
+    },
+    {
+      "path": "Vocaboli/k.md",
+      "filename": "k"
+    },
+    {
+      "path": "Vocaboli/l.md",
+      "filename": "l"
+    },
+    {
+      "path": "Vocaboli/m.md",
+      "filename": "m"
+    },
+    {
+      "path": "Vocaboli/n.md",
+      "filename": "n"
+    },
+    {
+      "path": "Vocaboli/o.md",
+      "filename": "o"
+    },
+    {
+      "path": "Vocaboli/p.md",
+      "filename": "p"
+    },
+    {
+      "path": "Vocaboli/q.md",
+      "filename": "q"
+    },
+    {
+      "path": "Vocaboli/r.md",
+      "filename": "r"
+    },
+    {
+      "path": "Vocaboli/s.md",
+      "filename": "s"
+    },
+    {
+      "path": "Vocaboli/t.md",
+      "filename": "t"
+    },
+    {
+      "path": "Vocaboli/u.md",
+      "filename": "u"
+    },
+    {
+      "path": "Vocaboli/v.md",
+      "filename": "v"
+    },
+    {
+      "path": "Vocaboli/w.md",
+      "filename": "w"
+    },
+    {
+      "path": "Vocaboli/x.md",
+      "filename": "x"
+    },
+    {
+      "path": "Vocaboli/y.md",
+      "filename": "y"
+    },
+    {
+      "path": "Vocaboli/z.md",
+      "filename": "z"
+    },
+    {
+      "path": "Vocaboli/_already_scanned.md",
+      "filename": "_already_scanned"
+    },
+    {
+      "path": "_Prove/_Indice vocabolario.md",
+      "filename": "_Indice vocabolario"
+    },
+    {
+      "path": "_Prove/^z1.md",
+      "filename": "^z1"
+    },
+    {
+      "path": "_Prove/Torna.md",
+      "filename": "Torna"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/_Indice Bolle.md",
+      "filename": "_Indice Bolle"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1758-09-11_clxiii-bre-via.md",
+      "filename": "1758-09-11_clxiii-bre-via"
+    },
+    {
+      "path": "Documenti vari/_Indice Documenti vari1.md",
+      "filename": "_Indice Documenti vari1"
+    },
+    {
+      "path": "z_Script/invocableScripts/documentiPapa.js",
+      "filename": "documentiPapa"
+    },
+    {
+      "path": "z_Script/invocableScripts/Nuovo Documento di testo.txt",
+      "filename": "Nuovo Documento di testo"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1829-09-04_piviii-bre-inm.md",
+      "filename": "1829-09-04_piviii-bre-inm"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1829-08-11_piviii-bre-imu.md",
+      "filename": "1829-08-11_piviii-bre-imu"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1829-07-07_piviii-bre-coa.md",
+      "filename": "1829-07-07_piviii-bre-coa"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1829-06-30_piviii-bre-lif.md",
+      "filename": "1829-06-30_piviii-bre-lif"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1829-06-18_piviii-bre-ins.md",
+      "filename": "1829-06-18_piviii-bre-ins"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1829-05-15_piviii-bre-itm.md",
+      "filename": "1829-05-15_piviii-bre-itm"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1829-05-24_piviii-enc-trh.md",
+      "filename": "1829-05-24_piviii-enc-trh"
+    },
+    {
+      "path": "z_Script/pythonScripts/TrovaVersettiNonBenFormattati.py",
+      "filename": "TrovaVersettiNonBenFormattati"
+    },
+    {
+      "path": "z_Script/pythonScripts/Trova.py",
+      "filename": "Trova"
+    },
+    {
+      "path": "z_Script/pythonScripts/TrovaVersettiNonBenFormattati1.py",
+      "filename": "TrovaVersettiNonBenFormattati1"
+    },
+    {
+      "path": "z_Script/pythonScripts/TrovaVersettiDebug.txt",
+      "filename": "TrovaVersettiDebug"
+    },
+    {
+      "path": "z_Script/pythonScripts/TrovaVersettiDebug.py",
+      "filename": "TrovaVersettiDebug"
+    },
+    {
+      "path": "File con Rif non formattati.md",
+      "filename": "File con Rif non formattati"
+    },
+    {
+      "path": "15-09-2025 File con Rif non formattati.md",
+      "filename": "15-09-2025 File con Rif non formattati"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-27-08-1978.md",
+      "filename": "ipi-ang-27-08-1978"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/_modello-ang-.md",
+      "filename": "_modello-ang-"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/_Indice Angelus.md",
+      "filename": "_Indice Angelus"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-03-09-1978.md",
+      "filename": "ipi-ang-03-09-1978"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/ipi-ang-10-09-1978.md",
+      "filename": "ipi-ang-10-09-1978"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/1978-09-17_ipi-ang.md",
+      "filename": "1978-09-17_ipi-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/1978-09-24_ipi-ang.md",
+      "filename": "1978-09-24_ipi-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/1978-09-03_ipi-ang.md",
+      "filename": "1978-09-03_ipi-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/1978-08-27_ipi-ang.md",
+      "filename": "1978-08-27_ipi-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/1978-09-10_ipi-ang.md",
+      "filename": "1978-09-10_ipi-ang"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/_Indice Discorsi.md",
+      "filename": "_Indice Discorsi"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/_modello-dis-.md",
+      "filename": "_modello-dis-"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/1978-09-23_ipi-dis-asr.md",
+      "filename": "1978-09-23_ipi-dis-asr"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/_Indice Omelie.md",
+      "filename": "_Indice Omelie"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/_Indice Udienze.md",
+      "filename": "_Indice Udienze"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/_Indice Messaggi.md",
+      "filename": "_Indice Messaggi"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/_modello-mes-.md",
+      "filename": "_modello-mes-"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/1978-08-27_ipi-ram-ueo.md",
+      "filename": "1978-08-27_ipi-ram-ueo"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/1978-09-03_ipi-ome-imp.md",
+      "filename": "1978-09-03_ipi-ome-imp"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/1978-09-23_ipi-ome-ppc.md",
+      "filename": "1978-09-23_ipi-ome-ppc"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/_modello-ome-.md",
+      "filename": "_modello-ome-"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/_modello-udi-.md",
+      "filename": "_modello-udi-"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/1978-09-27_ipi-udi-gen.md",
+      "filename": "1978-09-27_ipi-udi-gen"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/1978-09-20_ipi-udi-gen.md",
+      "filename": "1978-09-20_ipi-udi-gen"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/1978-09-13_ipi-udi-gen.md",
+      "filename": "1978-09-13_ipi-udi-gen"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/1978-09-06_ipi-udi-gen.md",
+      "filename": "1978-09-06_ipi-udi-gen"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/1978-09-07_ipi-dis-acr.md",
+      "filename": "1978-09-07_ipi-dis-acr"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/1978-09-01_ipi-dis-ars.md",
+      "filename": "1978-09-01_ipi-dis-ars"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/1978-08-30_ipi-dis-acc.md",
+      "filename": "1978-08-30_ipi-dis-acc"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/1978-08-27_ipi-chi-nss.md",
+      "filename": "1978-08-27_ipi-chi-nss"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-05-11.md",
+      "filename": "lxiv-rec-rec2025-05-11"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-05-18.md",
+      "filename": "lxiv-rec-rec2025-05-18"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-05-25.md",
+      "filename": "lxiv-rec-rec2025-05-25"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-06-01.md",
+      "filename": "lxiv-rec-rec2025-06-01"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/lxiv-rec-rec2025-06-08.md",
+      "filename": "lxiv-rec-rec2025-06-08"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/2025-06-08_lxiv-rec.md",
+      "filename": "2025-06-08_lxiv-rec"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/2025-06-01_lxiv-rec.md",
+      "filename": "2025-06-01_lxiv-rec"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/2025-05-25_lxiv-rec.md",
+      "filename": "2025-05-25_lxiv-rec"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/2025-05-18_lxiv-rec.md",
+      "filename": "2025-05-18_lxiv-rec"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/2025-05-11_lxiv-rec.md",
+      "filename": "2025-05-11_lxiv-rec"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-06-15_lxiv-ang.md",
+      "filename": "2025-06-15_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-06-22_lxiv-ang.md",
+      "filename": "2025-06-22_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-06-29_lxiv-ang.md",
+      "filename": "2025-06-29_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-07-06_lxiv-ang.md",
+      "filename": "2025-07-06_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-07-13_lxiv-ang.md",
+      "filename": "2025-07-13_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-07-20_lxiv-ang.md",
+      "filename": "2025-07-20_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-07-27_lxiv-ang.md",
+      "filename": "2025-07-27_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-08-03_lxiv-ang.md",
+      "filename": "2025-08-03_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-08-10_lxiv-ang.md",
+      "filename": "2025-08-10_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-08-15_lxiv-ang.md",
+      "filename": "2025-08-15_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-08-17_lxiv-ang.md",
+      "filename": "2025-08-17_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-08-24_lxiv-ang.md",
+      "filename": "2025-08-24_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-08-31_lxiv-ang.md",
+      "filename": "2025-08-31_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-09-07_lxiv-ang.md",
+      "filename": "2025-09-07_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-09-14_lxiv-ang.md",
+      "filename": "2025-09-14_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-05-09_lxiv-ome.md",
+      "filename": "2025-05-09_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-05-11_lxiv-ome.md",
+      "filename": "2025-05-11_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-05-18_lxiv-ome.md",
+      "filename": "2025-05-18_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-05-20_lxiv-ome.md",
+      "filename": "2025-05-20_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-05-25_lxiv-ome.md",
+      "filename": "2025-05-25_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-05-31_lxiv-ome.md",
+      "filename": "2025-05-31_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-06-01_lxiv-ome.md",
+      "filename": "2025-06-01_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-06-07_lxiv-ome.md",
+      "filename": "2025-06-07_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-06-08_lxiv-ome.md",
+      "filename": "2025-06-08_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-06-09_lxiv-ome.md",
+      "filename": "2025-06-09_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-06-15_lxiv-ome.md",
+      "filename": "2025-06-15_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-06-22_lxiv-ome.md",
+      "filename": "2025-06-22_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-06-27_lxiv-ome.md",
+      "filename": "2025-06-27_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-06-29_lxiv-ome.md",
+      "filename": "2025-06-29_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-07-09_lxiv-ome.md",
+      "filename": "2025-07-09_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-07-13_lxiv-ome.md",
+      "filename": "2025-07-13_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-07-15_lxiv-ome.md",
+      "filename": "2025-07-15_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-07-20_lxiv-ome.md",
+      "filename": "2025-07-20_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-08-03_lxiv-ome.md",
+      "filename": "2025-08-03_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-08-15_lxiv-ome.md",
+      "filename": "2025-08-15_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-08-17_lxiv-ome.md",
+      "filename": "2025-08-17_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-09-01_lxiv-ome.md",
+      "filename": "2025-09-01_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-09-05_lxiv-ome.md",
+      "filename": "2025-09-05_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-09-07_lxiv-ome-mec.md",
+      "filename": "2025-09-07_lxiv-ome-mec"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-09-14_lxiv-ome-cmt.md",
+      "filename": "2025-09-14_lxiv-ome-cmt"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-09-15_lxiv-ome.md",
+      "filename": "2025-09-15_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/_modello-rec.md",
+      "filename": "_modello-rec"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-05-21.md",
+      "filename": "lxiv-udi-gen2025-05-21"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-05-28.md",
+      "filename": "lxiv-udi-gen2025-05-28"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-04.md",
+      "filename": "lxiv-udi-gen2025-06-04"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-11.md",
+      "filename": "lxiv-udi-gen2025-06-11"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-14.md",
+      "filename": "lxiv-udi-gen2025-06-14"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-18.md",
+      "filename": "lxiv-udi-gen2025-06-18"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-25.md",
+      "filename": "lxiv-udi-gen2025-06-25"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-07-30.md",
+      "filename": "lxiv-udi-gen2025-07-30"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-08-06.md",
+      "filename": "lxiv-udi-gen2025-08-06"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-08-13.md",
+      "filename": "lxiv-udi-gen2025-08-13"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-08-20.md",
+      "filename": "lxiv-udi-gen2025-08-20"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-08-27.md",
+      "filename": "lxiv-udi-gen2025-08-27"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-03.md",
+      "filename": "lxiv-udi-gen2025-09-03"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-06.md",
+      "filename": "lxiv-udi-gen2025-09-06"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-10.md",
+      "filename": "lxiv-udi-gen2025-09-10"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-17.md",
+      "filename": "lxiv-udi-gen2025-09-17"
+    },
+    {
+      "path": "_09 - LLMs/Prompt lettura pagina scrutatio.it.md",
+      "filename": "Prompt lettura pagina scrutatio.it"
+    },
+    {
+      "path": "Documenti pontifici/Messsaggi/Nuovo Documento di testo.txt",
+      "filename": "Nuovo Documento di testo"
+    },
+    {
+      "path": "Documenti pontifici/Messsaggi/lxiv-mes-ueo2025-05-08.txt",
+      "filename": "lxiv-mes-ueo2025-05-08"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/2025-05-08_lxiv-mes-ueo.md",
+      "filename": "2025-05-08_lxiv-mes-ueo"
+    },
+    {
+      "path": "Documenti pontifici/Regina Cæli/_Indice Regina Cæli.md",
+      "filename": "_Indice Regina Cæli"
+    },
+    {
+      "path": "Documenti vari/Trattato della vera devozione a Maria.md",
+      "filename": "Trattato della vera devozione a Maria"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1758-09-14_clxiii-enc-aqd.md",
+      "filename": "1758-09-14_clxiii-enc-aqd"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1759-03-21_clxiii-bre-pao.md",
+      "filename": "1759-03-21_clxiii-bre-pao"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1762-06-09_clxiii-bre-qid.md",
+      "filename": "1762-06-09_clxiii-bre-qid"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1764-01-14_clxiii-bre-upa.md",
+      "filename": "1764-01-14_clxiii-bre-upa"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1765-05-08_clxiii-bre-qua.md",
+      "filename": "1765-05-08_clxiii-bre-qua"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1768-01-06_clxiii-bre-suq.md",
+      "filename": "1768-01-06_clxiii-bre-suq"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1768-06-25_clxiii-bre-acf.md",
+      "filename": "1768-06-25_clxiii-bre-acf"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1769-12-12_clxiv-bre-ind.md",
+      "filename": "1769-12-12_clxiv-bre-ind"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1771-03-16_clxiv-bre-maa.md",
+      "filename": "1771-03-16_clxiv-bre-maa"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1773-07-21_clxiv-bre-dar.md",
+      "filename": "1773-07-21_clxiv-bre-dar"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/1774-04-30_clxiv-bol-san.md",
+      "filename": "1774-04-30_clxiv-bol-san"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1759-09-17_clxiii-enc-cup.md",
+      "filename": "1759-09-17_clxiii-enc-cup"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1759-12-20_clxiii-enc-aps.md",
+      "filename": "1759-12-20_clxiii-enc-aps"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1766-06-25_clxiii-enc-qug.md",
+      "filename": "1766-06-25_clxiii-enc-qug"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1766-11-25_clxiii-enc-chr.md",
+      "filename": "1766-11-25_clxiii-enc-chr"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1769-12-12_clxiv-enc-csa.md",
+      "filename": "1769-12-12_clxiv-enc-csa"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1769-09-21_clxiv-enc-dqm.md",
+      "filename": "1769-09-21_clxiv-enc-dqm"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1761-06-14_clxiii-enc-ida.md",
+      "filename": "1761-06-14_clxiii-enc-ida"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiv-enc-dqm1.md",
+      "filename": "clxiv-enc-dqm1"
+    },
+    {
+      "path": "Documenti pontifici/Lettere Encicliche/clxiv-enc-dqm 1.md",
+      "filename": "clxiv-enc-dqm 1"
+    },
+    {
+      "path": "2024-09-01 - Meditazione.md",
+      "filename": "2024-09-01 - Meditazione"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/1775-12-25_pivi-bol-sud.md",
+      "filename": "1775-12-25_pivi-bol-sud"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2024/06 settembre 2024.md",
+      "filename": "06 settembre 2024"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-09-21_lxiv-ome.md",
+      "filename": "2025-09-21_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/lxiv-ome-2025-09-28_OLD.md",
+      "filename": "lxiv-ome-2025-09-28_OLD"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-09-28_lxiv-ome-gdc.md",
+      "filename": "2025-09-28_lxiv-ome-gdc"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-09-28_lxiv-ang.md",
+      "filename": "2025-09-28_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-09-21_lxiv-ang.md",
+      "filename": "2025-09-21_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/2025-06-30_lxiv-mes-gcc.md",
+      "filename": "2025-06-30_lxiv-mes-gcc"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/2025-07-25_lxiv-mes-gmr.md",
+      "filename": "2025-07-25_lxiv-mes-gmr"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/lxiv-mes-2025-06-30pcc.md",
+      "filename": "lxiv-mes-2025-06-30pcc"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/2025-06-26_lxiv-mes-gna.md",
+      "filename": "2025-06-26_lxiv-mes-gna"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/2025-06-13_lxiv-mes-gmp.md",
+      "filename": "2025-06-13_lxiv-mes-gmp"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "La Sacra Bibbia/CEI 1974/NT - 49 Luca/CEI 74 Lc 09.md",
+      "filename": "CEI 74 Lc 09"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2022/01 luglio 2022.md",
+      "filename": "01 luglio 2022"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2022/02 settembre 2022.md",
+      "filename": "02 settembre 2022"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2024/04 ottobre 2024.md",
+      "filename": "04 ottobre 2024"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2025/02 maggio 2025.md",
+      "filename": "02 maggio 2025"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2025/03 gennaio 2025.md",
+      "filename": "03 gennaio 2025"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2025/06 giugno 2025.md",
+      "filename": "06 giugno 2025"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2025/07 marzo 2025.md",
+      "filename": "07 marzo 2025"
+    },
+    {
+      "path": "Lezionari/2024-09-01 - Meditazione.md",
+      "filename": "2024-09-01 - Meditazione"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2022/02 dicembre 2022.md",
+      "filename": "02 dicembre 2022"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2022/04 novembre 2022.md",
+      "filename": "04 novembre 2022"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2022/05 agosto 2022.md",
+      "filename": "05 agosto 2022"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2022/07 ottobre 2022.md",
+      "filename": "07 ottobre 2022"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2024/01 novembre 2024.md",
+      "filename": "01 novembre 2024"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2024/02 agosto 2024.md",
+      "filename": "02 agosto 2024"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2025/04 aprile 2025.md",
+      "filename": "04 aprile 2025"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2025/07 febbraio 2025.md",
+      "filename": "07 febbraio 2025"
+    },
+    {
+      "path": "Documenti pontifici/Esortazioni apostoliche/2013-11-24_fi-esa-evg.md",
+      "filename": "2013-11-24_fi-esa-evg"
+    },
+    {
+      "path": "Documenti pontifici/Esortazioni apostoliche/_modello-esa-.md",
+      "filename": "_modello-esa-"
+    },
+    {
+      "path": "_04 - Web pages/Papa Benedetto XIV da Wikipedia.md",
+      "filename": "Papa Benedetto XIV da Wikipedia"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2024/02 febbraio 2024.md",
+      "filename": "02 febbraio 2024"
+    },
+    {
+      "path": "_03 - PDF/File MD creati dai PDF/2023/01 dicembre 2023.md",
+      "filename": "01 dicembre 2023"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/2025-05-10_lxiv-dis-icc.md",
+      "filename": "2025-05-10_lxiv-dis-icc"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/Senza nome.md",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/2025-05-12_lxiv-dis-rmi.md",
+      "filename": "2025-05-12_lxiv-dis-rmi"
+    },
+    {
+      "path": "Clippings/Ai partecipanti al Giubileo delle Chiese Orientali (14 maggio 2025).md",
+      "filename": "Ai partecipanti al Giubileo delle Chiese Orientali (14 maggio 2025)"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/2025-05-14_lxiv-dis-gco.md",
+      "filename": "2025-05-14_lxiv-dis-gco"
+    },
+    {
+      "path": "Documenti pontifici/Motu proprio/_Indice Motu proprio.md",
+      "filename": "_Indice Motu proprio"
+    },
+    {
+      "path": "Documenti pontifici/MenuHtmlPapaLeoneXIV.md",
+      "filename": "MenuHtmlPapaLeoneXIV"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/ElencoMessaggiPapaLeoneXIV_al_02-Ottobre-2025-F5_h_10_38.md",
+      "filename": "ElencoMessaggiPapaLeoneXIV_al_02-Ottobre-2025-F5_h_10_38"
+    },
+    {
+      "path": "Documenti pontifici/Messaggi/ElencoMessaggiPapaLeoneXIV_al_02-Ottobre-2025-F5_h_10_38.HTML",
+      "filename": "ElencoMessaggiPapaLeoneXIV_al_02-Ottobre-2025-F5_h_10_38"
+    },
+    {
+      "path": "Clippings/2025.md",
+      "filename": "2025"
+    },
+    {
+      "path": "Clippings/Maggio.md",
+      "filename": "Maggio"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/2025-05-15_lxiv-dis-fsc.md",
+      "filename": "2025-05-15_lxiv-dis-fsc"
+    },
+    {
+      "path": "_04 - Web pages/Calendario dei santi.md",
+      "filename": "Calendario dei santi"
+    },
+    {
+      "path": "z_Modelli/_1Globale.md",
+      "filename": "_1Globale"
+    },
+    {
+      "path": "z_Modelli/_Templater Prova Variabili.md",
+      "filename": "_Templater Prova Variabili"
+    },
+    {
+      "path": "Clippings/Agli Ecc.mi Membri del Corpo Diplomatico accreditato presso la Santa Sede (16 maggio 2025).md",
+      "filename": "Agli Ecc.mi Membri del Corpo Diplomatico accreditato presso la Santa Sede (16 maggio 2025)"
+    },
+    {
+      "path": "Documenti pontifici/Clippings/Agli Ecc.mi Membri del Corpo Diplomatico accreditato presso la Santa Sede (16 maggio 2025).md",
+      "filename": "Agli Ecc.mi Membri del Corpo Diplomatico accreditato presso la Santa Sede (16 maggio 2025)"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/2025-05-16_lxiv-dis-mcd.md",
+      "filename": "2025-05-16_lxiv-dis-mcd"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf.md",
+      "filename": "2013-06-29_fi-enc-luf"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/fi-enc-2.md",
+      "filename": "fi-enc-2"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/fi-enc-3.md",
+      "filename": "fi-enc-3"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/fi-enc-4.md",
+      "filename": "fi-enc-4"
+    },
+    {
+      "path": "Documenti pontifici/Clippings/Lumen fidei (29 giugno 2013).md",
+      "filename": "Lumen fidei (29 giugno 2013)"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-10-05_lxiv-ang.md",
+      "filename": "2025-10-05_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-10-05_lxiv-ome-gmm.md",
+      "filename": "2025-10-05_lxiv-ome-gmm"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-10-05_lxiv-ome-gv.md",
+      "filename": "2025-10-05_lxiv-ome-gv"
+    },
+    {
+      "path": "Documenti vari/^l1t4c1.md",
+      "filename": "^l1t4c1"
+    },
+    {
+      "path": "Documenti pontifici/Chirografi/_Indice Chirografi.md",
+      "filename": "_Indice Chirografi"
+    },
+    {
+      "path": "Documenti pontifici/Radiomessaggi/_Indice Radiomessaggi.md",
+      "filename": "_Indice Radiomessaggi"
+    },
+    {
+      "path": "Documenti pontifici/Chirografi/1978-08-27_ipi-chi-nss.md",
+      "filename": "1978-08-27_ipi-chi-nss"
+    },
+    {
+      "path": "Documenti pontifici/Radiomessaggi/1978-08-27_ipi-ram-ueo.md",
+      "filename": "1978-08-27_ipi-ram-ueo"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1824-05-05_lxii-enc-ubp.md",
+      "filename": "1824-05-05_lxii-enc-ubp"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1825-01-25_lxii-enc-adp.md",
+      "filename": "1825-01-25_lxii-enc-adp"
+    },
+    {
+      "path": "25-01-1825.md",
+      "filename": "25-01-1825"
+    },
+    {
+      "path": "z_Script/JavaScripts/EstrazioneCanoniCIC.js",
+      "filename": "EstrazioneCanoniCIC"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-10-12_lxiv-ang.md",
+      "filename": "2025-10-12_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/2025-10-19_lxiv-ang.md",
+      "filename": "2025-10-19_lxiv-ang"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-10-12_lxiv-ome-gsm.md",
+      "filename": "2025-10-12_lxiv-ome-gsm"
+    },
+    {
+      "path": "Documenti pontifici/Motu proprio/2025-09-29_lxiv-mpr-coc.md",
+      "filename": "2025-09-29_lxiv-mpr-coc"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1929-06-02_pixi-bre-mid.md",
+      "filename": "1929-06-02_pixi-bre-mid"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1939-06-18_pixii-bre-psf.md",
+      "filename": "1939-06-18_pixii-bre-psf"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1775-12-25_pivi-enc-ind.md",
+      "filename": "1775-12-25_pivi-enc-ind"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1779-03-06_pivi-bre-nup.md",
+      "filename": "1779-03-06_pivi-bre-nup"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1786-11-28_pivi-bre-ssp.md",
+      "filename": "1786-11-28_pivi-bre-ssp"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1791-03-10_pivi-bre-qua.md",
+      "filename": "1791-03-10_pivi-bre-qua"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1791-04-13_pivi-bre-chq.md",
+      "filename": "1791-04-13_pivi-bre-chq"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1791-04-13_pivi-bre-cup.md",
+      "filename": "1791-04-13_pivi-bre-cup"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1791-05-04_pivi-bre-qul.md",
+      "filename": "1791-05-04_pivi-bre-qul"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1792-04-04_pivi-bre-ubc.md",
+      "filename": "1792-04-04_pivi-bre-ubc"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1792-05-30_pivi-bre-quf.md",
+      "filename": "1792-05-30_pivi-bre-quf"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1792-11-24_pivi-bre-quc.md",
+      "filename": "1792-11-24_pivi-bre-quc"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1798-11-10_pivi-bre-cov.md",
+      "filename": "1798-11-10_pivi-bre-cov"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1799-08-13_pivi-bre-qan.md",
+      "filename": "1799-08-13_pivi-bre-qan"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1801-08-15_pivii-bre-tam.md",
+      "filename": "1801-08-15_pivii-bre-tam"
+    },
+    {
+      "path": "Senza nome.base",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/Senza nome.base",
+      "filename": "Senza nome"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1809-06-10_pivii-bre-qum.md",
+      "filename": "1809-06-10_pivii-bre-qum"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1816-01-30_pivii-bre-etl.md",
+      "filename": "1816-01-30_pivii-bre-etl"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1819-08-25_pivii-bre-dog.md",
+      "filename": "1819-08-25_pivii-bre-dog"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1820-05-16_pivii-bre-prq.md",
+      "filename": "1820-05-16_pivii-bre-prq"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1860-03-26_piix-bre-cce.md",
+      "filename": "1860-03-26_piix-bre-cce"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1864-01-28_piix-bre-mug.md",
+      "filename": "1864-01-28_piix-bre-mug"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1867-11-14_piix-bre-eqi.md",
+      "filename": "1867-11-14_piix-bre-eqi"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1870-04-05_piix-bre-apm.md",
+      "filename": "1870-04-05_piix-bre-apm"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1877-11-16_piix-bre-dim.md",
+      "filename": "1877-11-16_piix-bre-dim"
+    },
+    {
+      "path": "Documenti pontifici/Editti/1846-07-16_piix-edi-neg.md",
+      "filename": "1846-07-16_piix-edi-neg"
+    },
+    {
+      "path": "Documenti pontifici/Editti/_Indice Editti.md",
+      "filename": "_Indice Editti"
+    },
+    {
+      "path": "Documenti pontifici/Proteste/_Indice Proteste.md",
+      "filename": "_Indice Proteste"
+    },
+    {
+      "path": "Documenti pontifici/Proteste/1849-02-14_piix-prt-las.md",
+      "filename": "1849-02-14_piix-prt-las"
+    },
+    {
+      "path": "Documenti pontifici/Proclami/_Indice Proclami.md",
+      "filename": "_Indice Proclami"
+    },
+    {
+      "path": "Documenti pontifici/Proclami/1848-03-14_piix-pro-req.md",
+      "filename": "1848-03-14_piix-pro-req"
+    },
+    {
+      "path": "Documenti pontifici/Proclami/1849-01-01_piix-pro-dqp.md",
+      "filename": "1849-01-01_piix-pro-dqp"
+    },
+    {
+      "path": "Documenti pontifici/Decreti/_Indice Decreti.md",
+      "filename": "_Indice Decreti"
+    },
+    {
+      "path": "Documenti pontifici/Dichiarazioni/_Indice Dichiarazioni.md",
+      "filename": "_Indice Dichiarazioni"
+    },
+    {
+      "path": "Documenti pontifici/Dichiarazioni/1792-12-10_pivi-dic-pec.md",
+      "filename": "1792-12-10_pivi-dic-pec"
+    },
+    {
+      "path": "Documenti pontifici/Decreti/1848-03-14_piix-dec-nei.md",
+      "filename": "1848-03-14_piix-dec-nei"
+    },
+    {
+      "path": "Documenti pontifici/Bolle/1794-08-28_pivi-bol-auf.md",
+      "filename": "1794-08-28_pivi-bol-auf"
+    }
+  ]
+}

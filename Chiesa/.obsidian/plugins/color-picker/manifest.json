@@ -1,0 +1,9 @@
+{
+  "id": "color-picker",
+  "name": "Color Picker",
+  "version": "1.0.5",
+  "minAppVersion": "0.12.0",
+  "description": "Clean color picker with live preview, history, and color cleanup.",
+  "author": "VaguePromise",
+  "main": "main.js"
+}
