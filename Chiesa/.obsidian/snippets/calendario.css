@@ -1,0 +1,24 @@
+/***************************************************/
+/** SOLO nei file MD con cssclasses: - calendario **/
+/***************************************************/
+
+.calendario { 
+	background-image: linear-gradient(rgb(126, 126, 126), rgba(0, 0, 0, 0.0));
+}
+/* Style for tabs from specific folders */
+.nav-folder-from-specific-folder .nav-tabs .nav-tab-link {
+    background-color: #ADD8E6 !important; /* Light Blue */
+    color: black !important;
+}
+
+/* Style for active tab from specific folders */
+.nav-folder-from-specific-folder .nav-tabs .nav-tab-link.is-active {
+    background-color: #87CEEB !important; /* Sky Blue */
+    color: black !important;
+    font-weight: bold !important;
+}
+
+/* Style for hover state */
+.nav-folder-from-specific-folder .nav-tabs .nav-tab-link:hover {
+    background-color: #B0E2FF !important; /* Light Sky Blue */
+}

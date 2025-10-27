@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Completato": "checkbox",
+    "autore-doc": "multitext",
+    "url-documento": "multitext",
+    "stato": "checkbox",
+    "status": "checkbox",
+    "durata": "number",
+    "tempo": "multitext",
+    "creato": "datetime",
+    "modificato": "datetime",
+    "patrono": "multitext"
+  }
+}

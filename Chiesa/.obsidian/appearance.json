@@ -1,0 +1,16 @@
+{
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "tableStyles",
+    "sidenote-callout",
+    "background",
+    "docVat"
+  ],
+  "baseFontSizeAction": true,
+  "accentColor": "#7cdfc1",
+  "baseFontSize": 24,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "interfaceFontFamily": "Calibri",
+  "textFontFamily": "Calibri"
+}

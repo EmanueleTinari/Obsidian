@@ -1,0 +1,102 @@
+/***********************************************/
+/** SOLO nei file MD con cssclasses: - bibbia **/
+/***********************************************/
+
+
+			/**********************************/
+			/** CALLOUT indice-libro-biblico **/
+			/**********************************/
+.bibbia .callout[data-callout="indice-libro-biblico"] {
+	--callout-icon: none !important;
+	--callout-border-hover: none !important;
+	background-color: transparent !important;
+}
+.bibbia .callout[data-callout="indice-libro-biblico"] .callout-title .callout-title-inner {
+	font-weight: inherit !important;
+}
+.bibbia .callout[data-callout="indice-libro-biblico"] .verde {
+	color: rgb(44, 215, 44) !important;
+	font-weight: normal !important;
+	margin-bottom: 5em;
+	text-decoration:underline;
+	text-decoration-style: double;
+}
+.bibbia .callout[data-callout="indice-libro-biblico"] .bianco {
+	color: white !important;
+	font-weight: bold !important;
+	letter-spacing: 0.05rem !important;
+}
+.bibbia .bianco {
+	color: white !important;
+	font-weight: bold !important;
+	letter-spacing: 0.05rem !important;
+}
+.bibbia .callout[data-callout="indice-libro-biblico"] .normale {
+	font-size: 18px !important;
+	font-weight: bold !important;
+	letter-spacing: 0.05rem !important;
+	margin-left: -1.5em;
+}
+.bibbia .callout[data-callout="indice-libro-biblico"]:hover {
+	/** Elimina il bordo del callout **/
+	border-style: none !important;
+	/** Spessore del bordo del callout **/
+	border-width: 0 !important;
+	border: 0px !important;
+}
+
+
+			/*****************************/
+			/** CALLOUT indice-generale **/
+			/*****************************/
+.bibbia .callout[data-callout="indice-generale"] {
+	--callout-icon: none !important;
+	--callout-border-hover: none !important;
+	background-color: transparent !important;
+}
+.bibbia .callout[data-callout="indice-generale"] .verde {
+	color: rgb(44, 215, 44) !important;
+	font-weight: normal !important;
+	margin-bottom: 5em;
+}
+.bibbia .callout[data-callout="indice-generale"] p:has(> .verde) {
+	margin-left: 5em;
+}
+.bibbia span.vrs {
+  color: rgb(242, 149, 149);
+  padding-right: 0.4em;
+  font-weight: 700;
+}
+/** I link interni senza destinazione sono gialli **/
+.theme-light .bibbia, .theme-dark .bibbia {
+	--link-unresolved-color: rgb(200, 200, 95);
+	--link-unresolved-opacity: 0.7;
+	--link-unresolved-filter: none;
+	--link-unresolved-decoration-line: underline;
+	--link-unresolved-decoration-color: white;
+}
+.bibbia .tooltip {
+  background-color: var(--background-modifier-message);
+  color: black;
+}
+.bibbia .body {
+	--background-modifier-message: rgb(44, 215, 44) ;
+}
+.bibbia .markdown-preview-view h6 {
+  color: rgb(32, 163, 250);
+  left: 0px;
+  top: 0px;
+  margin: 0px;
+}
+.bibbia .markdown-preview-sizer
+{ 
+  padding-left: 30px;
+  padding-right: 20px;
+}
+.bibbia .markdown-preview-view .markdown-embed-content p:first-child {
+    margin: 1px;
+    top: 10px;
+}
+.bibbia div.markdown-embed-link {
+    visibility: hidden;
+}

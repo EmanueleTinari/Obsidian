@@ -1,0 +1,358 @@
+/** da Pixel a rem: **/
+/** 100px ->   7rem **/
+/**  40px -> 2.7rem **/
+/**  24px -> 1.6rem **/
+/**    3% -> 1.1rem **/
+
+/***********************************************/
+/** SOLO nei file MD con cssclasses: - docVat **/
+/***********************************************/
+
+/** TIPO DI DOCUMENTO: MAIUSCOLO, grassetto e centrato **/
+.docVat .tipoDoc {
+	color: salmon !important;
+	/** era #630 **/
+	font-size: 1.6rem !important;
+	font-weight: bold !important;
+	margin-top: 5rem !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+}
+
+/** TIPO di AUTORITA' che ha emesso il documento: MAIUSCOLO, centrato **/
+.docVat .tipoAut {
+	color: #630 !important;
+	font-size: 1.2rem !important;
+	line-height: 0.5rem;
+	text-align: center !important;
+	text-transform: uppercase !important;
+}
+
+/** AUTORE del documento: **/
+/** Testo MAIUSCOLO, centrato e grassetto **/
+.docVat .nomeAut {
+	color: #630 !important;
+	font-size: 1.6rem !important;
+	font-weight: bold !important;
+	line-height: 1 !important;
+	margin-top: 2.7rem !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+}
+
+/** Testo centrato (center) e MAIUSCOLO (uppercase) **/
+.docVat .centrato-maiuscolo {
+	color: #630 !important;
+	font-size: 1.6rem !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+}
+
+/** INCIPIT del documento: **/
+/** Testo corsivo a sinistra **/
+.docVat .incipit {
+	color: white !important;
+	font-family: Times New Roman, times, serif;
+	font-size: 1.6rem !important;
+	font-style: italic !important;
+	line-height: 1.2 !important;
+	margin-bottom: 5rem !important;
+	margin-left: 1.1rem !important;
+	margin-right: 1.1rem !important;
+	margin-top: 7rem !important;
+	text-align: left !important;
+	vertical-align: top !important;
+}
+
+/** PROEMIO del documento: **/
+/** Testo corsivo a sinistra **/
+.docVat .proemio {
+	color: white !important;
+	font-family: Times New Roman, times, serif;
+	font-size: 1.6rem !important;
+	line-height: 1.2 !important;
+	margin-bottom: 5rem !important;
+	margin-left: 1.1rem !important;
+	margin-right: 1.1rem !important;
+	margin-top: 1rem !important;
+	text-align: justify !important;
+	vertical-align: top !important;
+}
+
+.docVat .paragrafoNorm {
+	color: white !important;
+	font-family: Times New Roman, times, serif;
+	font-size: 1.6rem !important;
+	line-height: 1.2 !important;
+	margin-bottom: 7rem !important;
+	margin-left: 1.1rem !important;
+	margin-right: 1.1rem !important;
+	margin-top: 1rem !important;
+	text-align: justify !important;
+	vertical-align: top !important;
+}
+
+/** DATA e LUOGO del documento: **/
+/** Testo corsivo, a sinistra **/
+.docVat .dataLuogo {
+	color: green !important;
+	font-family: Times New Roman, times, serif;
+	font-size: 1.6rem !important;
+	font-style: italic !important;
+	line-height: 1.2 !important;
+	margin-top: 7rem !important;
+	margin-right: 3% !important;
+	margin-left: 3% !important;
+	text-align: left !important;
+	vertical-align: top !important;
+}
+
+/** FIRMATARIO centrato del documento: **/
+/** Testo MAIUSCOLO, centrato e grassetto **/
+.docVat .firmaC {
+	color: #630 !important;
+	font-family: Times New Roman, times, serif;
+	font-size: 1.6rem !important;
+	font-weight: bold !important;
+	line-height: 1.2 !important;
+	margin-bottom: 7rem !important;
+	margin-top: 7rem !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+}
+
+/** II° FIRMATARIO del documento a destra: **/
+.docVat .dfirmadx2 {
+	margin-top: 5rem !important;
+	text-align: right !important;
+}
+
+/** NOME e COGNOME Testo più piccolo, a destra e grassetto **/
+.docVat .dfirmadx2.pfirmadx2 {
+	display: flex !important;
+	flex-direction: row-reverse !important;
+	font-weight: bold !important;
+	font-size: 1.2rem !important;
+	line-height: 1.5 !important;
+	text-align: center !important;
+}
+
+/** RUOLO: **/
+/** Testo più piccolo, a destra e grassetto **/
+.docVat .dfirmadx2.pfirmadx2:nth-child(1) {
+	display: block !important;
+	font-style: italic !important;
+	font-weight: normal !important;
+	text-align: center !important;
+}
+
+/** TITOLO del DOCUMENTO: Testo + grande, MAIUSCOLO, corsivo, centrato e grassetto **/
+/** header H1 in editing view **/
+.docVat .cm-header.cm-header-1,
+.docVat h1 {
+	color: purple !important;
+	font-size: 2rem !important;
+	font-style: italic !important;
+	font-weight: bold !important;
+	margin-bottom: 5rem !important;
+	margin-top: 5rem !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/** header H2 in editing view **/
+.docVat .cm-header.cm-header-2,
+.docVat h2 {
+	color: orange !important;
+	font-size: 1.8rem !important;
+	margin-bottom: 5rem !important;
+	margin-top: 5rem !important;
+	text-align: center !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/** header H3 in editing view **/
+.docVat .cm-header.cm-header-3,
+.docVat h3 {
+	color: yellowgreen !important;
+	font-size: 1.6rem !important;
+	margin-bottom: 5rem !important;
+	text-align: center !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/** header H4 in editing view **/
+.docVat .cm-header.cm-header-4,
+.docVat h4 {
+	color: skyblue !important;
+	font-size: 1.4rem !important;
+	margin-bottom: 5rem !important;
+	text-align: center !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/** header H5 in editing view **/
+.docVat .cm-header.cm-header-5,
+.docVat h5 {
+	color: skyblue !important;
+	font-size: 1.4rem !important;
+	margin-bottom: 5rem !important;
+	text-align: center !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/** header H6 in editing view **/
+.docVat .cm-header.cm-header-6,
+.docVat h6 {
+	color: rgb(32, 163, 250);
+	font-size: 1.2rem !important;
+	line-height: 1.2 !important;
+	margin-bottom: 0rem !important;
+	margin-top: 0rem !important;
+	padding-left: 1.1rem;
+	text-align: left !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/** COPYRIGHT **/
+.docVat .dirittiAut {
+	color: #630 !important;
+	font-size: 1.6rem !important;
+	font-weight: bold;
+	margin-bottom: 4rem !important;
+	margin-top: 4rem !important;
+	text-align: center !important;
+}
+
+.docVat.markdown-source-view.cm-s-obsidian.mod-cm6.is-live-preview .HyperMD-quote {
+	--blockquote-background-color: transparent;
+	--blockquote-border-color: orange;
+	--blockquote-border-thickness: 0.1rem;
+	--blockquote-color: gray;
+	--blockquote-font-style: normal;
+	--blockquote-margin-left: 3rem;
+	--blockquote-padding-left: 1rem;
+}
+
+.docVat.markdown-preview-view blockquote {
+	font-size: 1.1rem;
+	border-color: orange;
+	color: gray;
+	line-height: 1.5rem;
+	margin-bottom: 3rem;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	margin-top: 3rem;
+	padding-bottom: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-top: 1rem;
+	text-align: justify !important;
+}
+
+/** editor and reading view footnote reference in text **/
+.docVat a.footnote-link,
+.docVat .cm-s-obsidian span.cm-footref.cm-hmd-barelink,
+.docVat .cm-s-obsidian span.cm-footref.cm-hmd-barelink.cm-formatting {
+	color: salmon;
+}
+
+/** live preview footnote '[^1]:' color **/
+.docVat .cm-s-obsidian .cm-line.HyperMD-footnote span.cm-hmd-footnote .cm-underline {
+	color: yellowgreen;
+}
+
+/** editor and reading view footnote text **/
+.docVat .footnotes,
+.docVat .cm-s-obsidian .cm-line.HyperMD-footnote {
+	color: yellowgreen;
+	font-weight: normal;
+	font-size: 1rem;
+}
+
+/** reading view footnote list marker **/
+.docVat .footnotes ol>li::marker {
+	color: lightgreen;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+.docVat div:not(.cm-active)>span.cm-footref.cm-hmd-barelink,
+.docVat div:not(.cm-active)>span.cm-footref.cm-hmd-barelink-end {
+	color: var(--link-color);
+	/* Keeps them visible but styled like links */
+	font-size: 0.75rem;
+	padding-left: 0.1rem;
+}
+
+.docVat div:not(.cm-active)>span.cm-formatting-link {
+	display: none !important;
+	/* Hides the brackets and caret */
+}
+
+/* Set color of bold text */
+.docVat .markdown-preview-view.markdown-rendered .cm-s-obsidian .cm-strong,
+.docVat .markdown-preview-view.markdown-rendered span.cm-header.cm-strong,
+.docVat strong {
+	color: rgb(6, 250, 189);
+	font-weight: 600 !important;
+}
+
+/* Set color of italic text */
+.docVat .markdown-preview-view.markdown-rendered .cm-s-obsidian .cm-em,
+.docVat .markdown-preview-view.markdown-rendered span.cm-header.cm-em,
+.docVat em {
+	color: rgb(255, 190, 92);
+	font-style: italic !important;
+}
+
+/* Set color of bold italic text */
+.docVat .markdown-preview-view.markdown-rendered .cm-s-obsidian .cm-strong.cm-em,
+.docVat .markdown-preview-view.markdown-rendered span.cm-header.cm-strong.cm-em,
+.docVat strong em,
+.docVat em strong {
+	color: rgb(255, 105, 180);
+	font-weight: 600 !important;
+	font-style: italic !important;
+}
+
+.markdown-preview-view.docVat sup.footnote-ref>a,
+.markdown-reading-view.docVat sup.footnote-ref>a,
+.markdown-source-view.is-live-preview.docVat sup.footnote-ref>a {
+	position: relative;
+	color: salmon;
+	left: 0.05em;
+}
+
+/* Nasconde la prima parentesi quadra "[" */
+.markdown-preview-view.docVat sup.footnote-ref>a::first-letter,
+.markdown-reading-view.docVat sup.footnote-ref>a::first-letter,
+.markdown-source-view.is-live-preview.docVat sup.footnote-ref>a::first-letter {
+	display: none;
+}
+
+/* Nasconde l'ultima parentesi quadra "]" */
+.markdown-preview-view.docVat sup.footnote-ref>a::after,
+.markdown-reading-view.docVat sup.footnote-ref>a::after,
+.markdown-source-view.is-live-preview.docVat sup.footnote-ref>a::after {
+	content: "";
+}

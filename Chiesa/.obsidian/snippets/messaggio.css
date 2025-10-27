@@ -1,0 +1,66 @@
+/**************************************************/
+/** SOLO nei file MD con cssclasses: - messaggio **/
+/**************************************************/
+
+.markdown-reading-view.messaggio h1,
+.markdown-rendered.messaggio h1,
+.markdown-source-view.mod-cm6.messaggio .cm-header-1,
+.markdown-rendered.messaggio .cm-header-1,
+.markdown-source-view:not(.is-live-preview).messaggio h1,
+.markdown-source-view.is-live-preview.messaggio h1 {
+	color: lightblue !important;
+	letter-spacing: 0.1rem !important;
+	margin-top: 5% !important;
+	margin-bottom: 0% !important;
+	margin-right: 15% !important;
+	margin-left: 5% !important;
+	text-align: center !important;
+}
+
+.markdown-reading-view.messaggio h2,
+.markdown-rendered.messaggio h2,
+.markdown-source-view.mod-cm6.messaggio .cm-header-2,
+.markdown-rendered.messaggio .cm-header-2,
+.markdown-source-view:not(.is-live-preview).messaggio h2,
+.markdown-source-view.is-live-preview.messaggio h2 {
+	color: whitesmoke !important;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 24px !important;
+	letter-spacing: 0.1rem !important;
+	margin-top: 10% !important;
+	margin-bottom: 5% !important;
+	margin-right: 15% !important;
+	margin-left: 5% !important;
+	text-align: left !important;
+}
+
+.messaggio .callout[data-callout="4colonne"] {
+	/** ATTENZIONE !!! QUANDO FINITO METTERE transparent **/
+	background-color: rgb(40, 70, 26);
+}
+
+.messaggio .callout[data-callout="4colonne"] .callout-title {
+	/* mostra o nasconde l'icona, il titolo, e la freccina */
+	color: hsl(233, 100%, 79%) !important;
+	display: always !important;
+	font-size: 1.2em !important;
+	justify-content: center;
+	text-align: center !important;
+}
+
+.messaggio .callout[data-callout="4colonne"] .callout-icon {
+	/* mostra o nasconde l'icona (mettere always se si vuole vedere) */
+	display: none !important;
+}
+
+.messaggio .callout[data-callout="4colonne"] .callout-fold .svg-icon {
+	color: hsl(233, 100%, 79%) !important;
+	height: 1.4em;
+	margin-left: 1.6em !important;
+	width: 1.2em;
+}
+
+.messaggio .callout[data-callout="4colonne"] .callout-content ul {
+	column-count: 5;
+	column-width: 1em;
+}

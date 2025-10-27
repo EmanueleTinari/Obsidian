@@ -1,0 +1,47 @@
+{
+  "global-search-and-replace:search-and-replace": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "marker-api:marker-convert-to-md": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "dataview:dataview-drop-cache": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "dataview:dataview-rebuild-current-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "dataview:dataview-force-refresh-views": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
+}
