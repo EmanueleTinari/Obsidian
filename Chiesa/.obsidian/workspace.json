@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "b3b92b37013a6d55",
+            "id": "052c58b4a45e15f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Bolle/1794-08-28_pivi-bol-auf.md",
+                "file": "Documenti pontifici/Bolle/_Indice Bolle.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1794-08-28_pivi-bol-auf"
+              "title": "_Indice Bolle"
             }
           }
         ],
@@ -258,11 +258,14 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "b3b92b37013a6d55",
+  "active": "052c58b4a45e15f5",
   "lastOpenFiles": [
-    "Documenti pontifici/Bolle/1794-08-28_pivi-bol-auf.md~",
+    "Documenti pontifici/Bolle/1798-11-13_pivi-bol-cns.md",
+    "Documenti pontifici/Bolle/_Indice Bolle.md",
+    "Documenti pontifici/Bolle/1797-12-30_pivi-bol-che.md",
     "Operazioni quotidiane.md",
     "Documenti pontifici/Bolle/1794-08-28_pivi-bol-auf.md",
+    "Documenti pontifici/Bolle/1794-08-28_pivi-bol-auf.md~",
     "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-paa.md",
     "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-def.md",
     "Documenti pontifici/Dichiarazioni/_Indice Dichiarazioni.md",
@@ -290,12 +293,9 @@
     "Documenti pontifici/Angelus/_Indice Angelus.md",
     "Documenti pontifici/Brevi/1860-03-26_piix-bre-cce.md~",
     "Documenti pontifici/Brevi/1820-05-16_pivii-bre-prq.md",
-    "Documenti pontifici/Brevi/1816-01-30_pivii-bre-etl.md",
-    "Documenti pontifici/Brevi/1819-08-25_pivii-bre-dog.md",
     "Documenti pontifici/Brevi/Senza nome.base",
     "Senza nome.base",
     "Documenti pontifici/Brevi/1798-11-10_pivi-bre-cov.md~",
-    "Documenti pontifici/Brevi/1792-11-24_pivi-bre-quc.md~",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino_1.jpg",
