@@ -1,0 +1,1065 @@
+Elenco del percorso delle cartelle per il volume SSD1_8Tb_Part_1
+Numero di serie del volume: B25E-C6A5
+D:.
++---Chiesa
+|   +---Calendario
+|   |   +---01_Gennaio
+|   |   +---02_Febbraio
+|   |   +---03_Marzo
+|   |   \---04_Aprile
+|   +---Documenti pontifici
+|   |   +---Bolle
+|   |   +---Brevi
+|   |   +---Costituzioni apostoliche
+|   |   +---Esortazioni apostoliche
+|   |   +---Lettere apostoliche
+|   |   \---Lettere Encicliche
+|   +---Documenti vari
+|   |   +---Documenti del Concilio Ecumenico Vaticano I
+|   |   \---Documenti del Concilio Ecumenico Vaticano II
+|   +---La Sacra Bibbia
+|   |   +---CEI 1974
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---CEI 2008
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Diodati
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Interconfessionale
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Martini
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Nova Vulgata
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Nuova Diodati
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Nuova Riveduta
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Nuova Riveduta 2020
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Ricciotti
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Riveduta
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   +---Vulgata Latina
+|   |   |   +---AT - 01 Genesi
+|   |   |   +---AT - 02 Esodo
+|   |   |   +---AT - 03 Levitico
+|   |   |   +---AT - 04 Numeri
+|   |   |   +---AT - 05 Deuteronomio
+|   |   |   +---AT - 06 Giosu 
+|   |   |   +---AT - 07 Giudici
+|   |   |   +---AT - 08 Rut
+|   |   |   +---AT - 09 1 Samuele
+|   |   |   +---AT - 10 2 Samuele
+|   |   |   +---AT - 11 1 Re
+|   |   |   +---AT - 12 2 Re
+|   |   |   +---AT - 13 1 Cronache
+|   |   |   +---AT - 14 2 Cronache
+|   |   |   +---AT - 15 Esdra
+|   |   |   +---AT - 16 Neemia
+|   |   |   +---AT - 17 Tobia
+|   |   |   +---AT - 18 Giuditta
+|   |   |   +---AT - 19 Ester
+|   |   |   +---AT - 20 1 Maccabei
+|   |   |   +---AT - 21 2 Maccabei
+|   |   |   +---AT - 22 Giobbe
+|   |   |   +---AT - 23 Salmi
+|   |   |   +---AT - 24 Proverbi
+|   |   |   +---AT - 25 Qoelet
+|   |   |   +---AT - 26 Cantico
+|   |   |   +---AT - 27 Sapienza
+|   |   |   +---AT - 28 Siracide
+|   |   |   +---AT - 29 Isaia
+|   |   |   +---AT - 30 Geremia
+|   |   |   +---AT - 31 Lamentazioni
+|   |   |   +---AT - 32 Baruc
+|   |   |   +---AT - 33 Ezechiele
+|   |   |   +---AT - 34 Daniele
+|   |   |   +---AT - 35 Osea
+|   |   |   +---AT - 36 Gioele
+|   |   |   +---AT - 37 Amos
+|   |   |   +---AT - 38 Abdia
+|   |   |   +---AT - 39 Giona
+|   |   |   +---AT - 40 Michea
+|   |   |   +---AT - 41 Naum
+|   |   |   +---AT - 42 Abacuc
+|   |   |   +---AT - 43 Sofonia
+|   |   |   +---AT - 44 Aggeo
+|   |   |   +---AT - 45 Zaccaria
+|   |   |   +---AT - 46 Malachia
+|   |   |   +---NT - 47 Matteo
+|   |   |   +---NT - 48 Marco
+|   |   |   +---NT - 49 Luca
+|   |   |   +---NT - 50 Giovanni
+|   |   |   +---NT - 51 Atti
+|   |   |   +---NT - 52 Romani
+|   |   |   +---NT - 53 1 Corinzi
+|   |   |   +---NT - 54 2 Corinzi
+|   |   |   +---NT - 55 Galati
+|   |   |   +---NT - 56 Efesini
+|   |   |   +---NT - 57 Filippesi
+|   |   |   +---NT - 58 Colossesi
+|   |   |   +---NT - 59 1 Tessalonicesi
+|   |   |   +---NT - 60 2 Tessalonicesi
+|   |   |   +---NT - 61 1 Timoteo
+|   |   |   +---NT - 62 2 Timoteo
+|   |   |   +---NT - 63 Tito
+|   |   |   +---NT - 64 Filemone
+|   |   |   +---NT - 65 Ebrei
+|   |   |   +---NT - 66 Giacomo
+|   |   |   +---NT - 67 1 Pietro
+|   |   |   +---NT - 68 2 Pietro
+|   |   |   +---NT - 69 1 Giovanni
+|   |   |   +---NT - 70 2 Giovanni
+|   |   |   +---NT - 71 3 Giovanni
+|   |   |   +---NT - 72 Giuda
+|   |   |   \---NT - 73 Apocalisse
+|   |   \---_File unici
+|   +---Lezionari
+|   |   +---Anno A
+|   |   +---Anno B
+|   |   \---Anno C
+|   +---Messaggi
+|   |   +---2011
+|   |   +---2012
+|   |   +---2013
+|   |   +---2014
+|   |   +---2015
+|   |   +---2016
+|   |   +---2017
+|   |   +---2018
+|   |   +---2019
+|   |   +---2020
+|   |   +---2021
+|   |   +---2022
+|   |   +---2023
+|   |   +---2024
+|   |   \---2025
+|   +---Papi
+|   +---Santi
+|   |   +---01
+|   |   +---02
+|   |   +---03
+|   |   +---04
+|   |   +---05
+|   |   +---06
+|   |   +---07
+|   |   +---08
+|   |   +---09
+|   |   +---10
+|   |   +---11
+|   |   \---12
+|   +---Vocaboli
+|   +---z_Modelli
+|   +---z_Script
+|   |   +---invocableScripts
+|   |   +---pythonScripts
+|   |   \---startupScripts
+|   +---_00 - OCR
+|   |   +---File MD creati con OCR
+|   |   \---Immagini gi  elaborate
+|   +---_01 - tmpBibleFolderDL
+|   +---_02 - Allegati
+|   +---_03 - PDF
+|   |   +---File MD creati dai PDF
+|   |   |   +---2022
+|   |   |   +---2023
+|   |   |   +---2024
+|   |   |   \---2025
+|   |   +---Il Nuovo Testamento Vulgata-Martini-Sales
+|   |   \---Pdf gi  elaborati
+|   +---_04 - Web pages
+|   +---_05 - tmpBibbia
+|   |   +---Template capitolo x ogni versione
+|   |   \---Template introduzione x ogni versione
+|   +---_06 - Tenda
+|   |   +---file md creati dai pdf
+|   |   \---pdf gi  elaborati
+|   +---_07 - Errori sito Vaticano
+|   +---_08 - tmpPythonNV
+|   |   +---HTML
+|   |   \---MD
+|   +---_Canti per le Liturgie
+|   |   \---Tutti i canti
+|   |       +---A
+|   |       +---B
+|   |       +---C
+|   |       +---D
+|   |       +---E
+|   |       +---I
+|   |       +---L
+|   |       +---M
+|   |       +---S
+|   |       \---T
+|   +---_liste file
+|   |   +---1984
+|   |   +---1985
+|   |   +---1986
+|   |   +---1987
+|   |   +---1988
+|   |   +---1989
+|   |   +---1990
+|   |   +---1991
+|   |   +---1992
+|   |   +---1993
+|   |   +---1994
+|   |   +---1995
+|   |   +---1996
+|   |   +---1997
+|   |   +---1998
+|   |   +---1999
+|   |   +---2000
+|   |   +---2001
+|   |   +---2002
+|   |   +---2003
+|   |   +---2004
+|   |   +---2005
+|   |   +---2006
+|   |   +---2007
+|   |   +---2008
+|   |   +---2009
+|   |   \---2010
+|   \---_Prove
++---ChiesaTest
+|   +---.obsidian
+|   |   +---plugins
+|   |   |   +---dataview
+|   |   |   \---templater-obsidian
+|   |   \---snippets
+|   +---Calendario
+|   |   +---01_Gennaio
+|   |   +---02_Febbraio
+|   |   +---03_Marzo
+|   |   \---04_Aprile
+|   +---Documenti pontifici
+|   |   +---Bolle
+|   |   +---Brevi
+|   |   \---Lettere Encicliche
+|   +---Documenti vari
+|   +---La Sacra Bibbia
+|   |   +---CEI 1974
+|   |   |   +---NT - 47 Matteo
+|   |   |   \---NT - 48 Marco
+|   |   +---CEI 2008
+|   |   +---Diodati
+|   |   +---Interconfessionale
+|   |   +---Martini
+|   |   +---Nova Vulgata
+|   |   |   +---NT - 47 Matteo
+|   |   |   \---NT - 48 Marco
+|   |   +---Nuova Diodati
+|   |   +---Nuova Riveduta
+|   |   +---Nuova Riveduta 2020
+|   |   +---Ricciotti
+|   |   +---Riveduta
+|   |   \---Vulgata Latina di San Girolamo
+|   +---Lezionari
+|   |   +---Anno A
+|   |   +---Anno B
+|   |   \---Anno C
+|   +---Messaggi
+|   +---Papi
+|   +---Vocaboli
+|   +---z_Modelli
+|   +---z_Script
+|   |   +---invocableScripts
+|   |   \---startupScripts
+|   +---_00 - OCR
+|   +---_02 - Allegati
+|   +---_04 - Web pages
+|   +---_07 - Errori sito Vaticano
+|   +---_liste file
+|   \---_Prove
+
