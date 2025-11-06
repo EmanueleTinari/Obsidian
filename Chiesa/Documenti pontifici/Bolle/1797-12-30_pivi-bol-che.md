@@ -88,7 +88,7 @@ Vogliamo inoltre, e con l’autorità apostolica lo disponiamo, che questa Nostr
 
 ###### 9.
 
-A nessuno dunque sia assolutamente lecito strappare questa pagina delle Nostre concessioni, agevolazioni, dispense, indulti, facoltà, ordinazioni, decreti, mandati, volontà e deroghe od opporsi ad essa con gesto temerario; se poi qualcuno avrà osato tanto, sappia che incorrerà nello sdegno di Dio onnipotente e dei beati Apostoli Pietro e Paolo. `class: paragrafoNorm`
+A nessuno dunque sia assolutamente lecito strappare questa pagina delle Nostre concessioni, agevolazioni, dispense, indulti, facoltà, ordinazioni, decreti, mandati, volontà e deroghe od opporsi ad essa con gesto temerario; se poi qualcuno avrà osato tanto, sappia che incorrerà nello sdegno di Dio onnipotente e dei beati Apostoli **Pietro** e **Paolo**. `class: paragrafoNorm`
 
 
 Dato a Roma, presso San Pietro, nell’anno dell’Incarnazione del Signore 1797, il 30 dicembre, nell’anno ventesimo terzo del Nostro Pontificato. `class: dataLuogo`
