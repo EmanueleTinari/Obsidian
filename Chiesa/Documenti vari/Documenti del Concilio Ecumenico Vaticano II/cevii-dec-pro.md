@@ -198,10 +198,10 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class
 
 NOTE:
 
-[^cevii-dec-pro-ftn1]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac|Sacrosanctum Concilium]]* (04 dicembre 1963) : AAS 56 (1964), pp. 97ss;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug|Lumen Gentium]]* (21 novembre 1964) : AAS 57 (1965), pp. 5ss;
+[^cevii-dec-pro-ftn1]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac|Sacrosanctum Concilium]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 97ss;
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug|Lumen Gentium]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 5ss;
 	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Missione pastorale dei Vescovi nella Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd|Christus Dominus]]* (28 ottobre 1965);
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Formazione sacerdotale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-opt|Optatam totius]]* (28 ottobre 1965) : AAS 58 (1966), pp. 713ss.
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Formazione sacerdotale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-opt|Optatam totius]]* (28 ottobre 1965) : *AAS* 58 (1966), pp. 713ss.
 
 [^cevii-dec-pro-ftn2]: Cfr. *<span class="BibleRef">[[Mt 3,16|Mt 3,16]]</span>*;
 	*<span class="BibleRef">[[Lc 4,18|Lc 4,18]]</span>*;
@@ -213,16 +213,16 @@ NOTE:
 [^cevii-dec-pro-ftn4]: Cfr. *<span class="BibleRef">[[1Pt 3,15|1Pt 3,15]]</span>*.
 
 [^cevii-dec-pro-ftn5]: Cfr. *<span class="BibleRef">[[Ap 19,10|Ap 19,10]]</span>*;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art35" name="cos-lug_art35">35</span>.|Lumen Gentium, n. 35]]* : AAS 57 (1965), pp. 40-41 [pag. 201].
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art35" name="cos-lug_art35">35</span>.|Lumen Gentium, n. 35]]* : *AAS* 57 (1965), pp. 40-41 [pag. 201].
 
 [^cevii-dec-pro-ftn6]: Cfr. Concilio di Trento, Sess. XXIII, cap. I e can. 1: Dz 957 e 961 (1764 e 1771).
 
 [^cevii-dec-pro-ftn7]: Cfr. *<span class="BibleRef">[[Gv 20,21|Gv 20,21]]</span>*;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art18" name="cos-lug_art18">18</span>.|Lumen Gentium, n. 18]]* : AAS 57 (1965), pp. 21-22 [pag. 155].
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art18" name="cos-lug_art18">18</span>.|Lumen Gentium, n. 18]]* : *AAS* 57 (1965), pp. 21-22 [pag. 155].
 
-[^cevii-dec-pro-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), pp. 33-36 [pag. 185ss].
+[^cevii-dec-pro-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), pp. 33-36 [pag. 185ss].
 
-[^cevii-dec-pro-ftn9]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), pp. 33-36 [pag. 185ss].
+[^cevii-dec-pro-ftn9]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), pp. 33-36 [pag. 185ss].
 
 [^cevii-dec-pro-ftn10]: Cfr. Pontificale romanum, Ordinazione dei Presbiteri, Prefazio.
 	Queste parole si trovano già nel Sacramentarium veronense: ed. L. C. Möhlberg, Romae 1956, p. 122;
@@ -230,7 +230,7 @@ NOTE:
 	anche nel Liber Sacramentorum Romanae Ecclesiae: ed. L. C. Möhlberg, Romae 1960, p. 25;
 	inoltre nel Pontificale romanum-germanicum: ed. Vogel-Elze, Città del Vaticano 1963, vol. I, p. 34.
 
-[^cevii-dec-pro-ftn11]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art10" name="cos-lug_art10">10</span>.|Lumen Gentium, n. 10]]* : AAS 57 (1965), pp. 14-15 [pag. 137ss].
+[^cevii-dec-pro-ftn11]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art10" name="cos-lug_art10">10</span>.|Lumen Gentium, n. 10]]* : *AAS* 57 (1965), pp. 14-15 [pag. 137ss].
 
 [^cevii-dec-pro-ftn12]: Cfr. *<span class="BibleRef">[[Rm 15,16|Rm 15,16]]</span>*.
 
@@ -249,7 +249,7 @@ NOTE:
 
 [^cevii-dec-pro-ftn19]: Cfr. *<span class="BibleRef">[[At 13,2|At 13,2]]</span>*.
 
-[^cevii-dec-pro-ftn20]: “Questo studio di perfezionamento spirituale e morale è stimolato anche esteriormente dalle condizioni in cui la Chiesa svolge la sua vita. Non può essa rimanere immobile e indifferente davanti ai mutamenti del mondo circostante. Per mille vie questo influisce e mette condizioni sul comportamento pratico della Chiesa. Essa, come ognuno sa, non è separata dal mondo; ma vive in esso. Perciò i membri della Chiesa ne subiscono l’influsso, ne respirano la cultura, ne accettano le leggi, ne assorbono i costumi. Questo immanente contatto della Chiesa con la società temporale genera per essa una continua situazione problematica, oggi laboriosissima. (...) Ecco come san Paolo medesimo educava i cristiani della prima generazione: Non unitevi a un giogo sconveniente cogli infedeli; poiché che cosa ha a che fare la giustizia coll’iniquità? e che comunanza v’è tra la luce e le tenebre?... che rapporto tra il fedele e l’infedele? (*<span class="BibleRef">[[2Cor 6,14-15|2Cor 6,14-15]]</span>*). La pedagogia cristiana dovrà ricordare sempre all’alunno dei tempi nostri questa sua privilegiata condizione e questo suo conseguente dovere di vivere nel mondo ma non del mondo, secondo il voto stesso sopra ricordato di Gesù a riguardo dei suoi discepoli: Non chiedo che tu li tolga dal mondo, ma che li custodisca dal maligno. Essi non sono del mondo, come Io non sono del mondo (*<span class="BibleRef">[[Gv 17,15-16|Gv 17,15-16]]</span>*). E la Chiesa fa proprio tale voto. Ma questa distinzione non è separazione. Anzi non è indifferenza, non è timore, non è disprezzo. Quando la Chiesa si distingue dall’umanità non si oppone ad essa, anzi si congiunge”: [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam Suam, 6 agosto 1964: AAS 56 (1964), pp. 627 e 638.
+[^cevii-dec-pro-ftn20]: “Questo studio di perfezionamento spirituale e morale è stimolato anche esteriormente dalle condizioni in cui la Chiesa svolge la sua vita. Non può essa rimanere immobile e indifferente davanti ai mutamenti del mondo circostante. Per mille vie questo influisce e mette condizioni sul comportamento pratico della Chiesa. Essa, come ognuno sa, non è separata dal mondo; ma vive in esso. Perciò i membri della Chiesa ne subiscono l’influsso, ne respirano la cultura, ne accettano le leggi, ne assorbono i costumi. Questo immanente contatto della Chiesa con la società temporale genera per essa una continua situazione problematica, oggi laboriosissima. (...) Ecco come san Paolo medesimo educava i cristiani della prima generazione: Non unitevi a un giogo sconveniente cogli infedeli; poiché che cosa ha a che fare la giustizia coll’iniquità? e che comunanza v’è tra la luce e le tenebre?... che rapporto tra il fedele e l’infedele? (*<span class="BibleRef">[[2Cor 6,14-15|2Cor 6,14-15]]</span>*). La pedagogia cristiana dovrà ricordare sempre all’alunno dei tempi nostri questa sua privilegiata condizione e questo suo conseguente dovere di vivere nel mondo ma non del mondo, secondo il voto stesso sopra ricordato di Gesù a riguardo dei suoi discepoli: Non chiedo che tu li tolga dal mondo, ma che li custodisca dal maligno. Essi non sono del mondo, come Io non sono del mondo (*<span class="BibleRef">[[Gv 17,15-16|Gv 17,15-16]]</span>*). E la Chiesa fa proprio tale voto. Ma questa distinzione non è separazione. Anzi non è indifferenza, non è timore, non è disprezzo. Quando la Chiesa si distingue dall’umanità non si oppone ad essa, anzi si congiunge”: [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam Suam, 6 agosto 1964: *AAS* 56 (1964), pp. 627 e 638.
 
 [^cevii-dec-pro-ftn21]: Cfr. *<span class="BibleRef">[[Rm 12,2|Rm 12,2]]</span>*.
 
@@ -275,7 +275,7 @@ NOTE:
 	Decretum Gratiani, C. 6, D. 88 (ed. Friedberg, I, 307);
 	Concilio di Trento, Sess. V, Decreto 2, n. 9 (Conc. Oec. Decreta, ed. Herder, Romae 1962, p. 645);
 	Concilio di Trento, Sess. XXIV, Decreto De reform., c. 4 (p. 739);
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|Lumen Gentium, n. 25]]* : AAS 57 (1965), pp. 29-31 [pag. 175ss].
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|Lumen Gentium, n. 25]]* : *AAS* 57 (1965), pp. 29-31 [pag. 175ss].
 
 [^cevii-dec-pro-ftn28]: Cfr. Constitutiones Apostolorum, II, 26, 7: “(I Presbiteri) siano maestri della scienza divina, poiché il Signore stesso ci ha inviati dicendo: Andate e ammaestrate...”: ed. F. X. Funk, Didascalia et Constitutiones Apostolorum, I, Paderborn 1905, p. 105.
 	Sacramentarium leonianum e gli altri Sacramentari fino al Pontificale Romano, Prefazio nell’Ordinazione dei Presbiteri: “Con questa provvidenza, Signore, li hai aggregati associandoli come Maestri della fede agli Apostoli del tuo Figlio, e con questi validi predicatori (o: con queste valide predicazioni) essi riempirono tutto il mondo.
@@ -294,18 +294,18 @@ NOTE:
 	San Girolamo, in Mattheum 28,19: PL 26, 226D: “Prima ammaestrano tutte le nazioni, poi dopo averle ammaestrate le immergono nell’acqua. Non può infatti essere che un corpo riceva il sacramento del battesimo, se prima l’anima non ha ricevuto la verità della fede”;
 	San Tommaso, Expositio primae Decretalis, § 1: “Il nostro Salvatore, mandando i discepoli a predicare, ingiunse loro tre cose: primo di insegnare la fede; secondo di amministrare i sacramenti ai credenti”: ed. Marietti, Opuscula Theologica, Taurini-Romae 1954, 1138.
 
-[^cevii-dec-pro-ftn33]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art35" name="cos-sac_art35">35</span>.|Sacrosanctum Concilium, n. 35.2]]* (04 dicembre 1963) : AAS 56 (1964), p. 109 [pag. 37ss].
+[^cevii-dec-pro-ftn33]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art35" name="cos-sac_art35">35</span>.|Sacrosanctum Concilium, n. 35.2]]* (04 dicembre 1963) : *AAS* 56 (1964), p. 109 [pag. 37ss].
 
-[^cevii-dec-pro-ftn34]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art33" name="cos-sac_art33">33</span>.|Sacrosanctum Concilium, nn. 33]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art35" name="cos-sac_art35">35</span>.|35]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art48" name="cos-sac_art48">48</span>.|48]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art52" name="cos-sac_art52">52</span>.|52]]* (04 dicembre 1963) : AAS 56 (1964), pp. 108-109, 113, 114 [pag. 197ss, 201ss, 233ss, 347].
+[^cevii-dec-pro-ftn34]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art33" name="cos-sac_art33">33</span>.|Sacrosanctum Concilium, nn. 33]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art35" name="cos-sac_art35">35</span>.|35]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art48" name="cos-sac_art48">48</span>.|48]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art52" name="cos-sac_art52">52</span>.|52]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 108-109, 113, 114 [pag. 197ss, 201ss, 233ss, 347].
 
-[^cevii-dec-pro-ftn35]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art7" name="cos-sac_art7">7</span>.|Sacrosanctum Concilium, n. 7]]* (04 dicembre 1963) : AAS 56 (1964), pp. 100-101 [pag. 21];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giu. 1943: AAS 35 (1943), p. 230 [in parte Dz 3813].
+[^cevii-dec-pro-ftn35]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art7" name="cos-sac_art7">7</span>.|Sacrosanctum Concilium, n. 7]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 100-101 [pag. 21];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giu. 1943: *AAS* 35 (1943), p. 230 [in parte Dz 3813].
 
 [^cevii-dec-pro-ftn36]: Sant’Ignazio Martire, Smyrn., 8, 1-2: ed. F. X. Funk, p. 240;
 	Comstitutiones Apostolorum, VIII, 12, 3: ed. F. X. Funk, p. 496;
 	Comstitutiones Apostolorum, VIII, 29, 2: ed. F. X. Funk, p. 532.
 
-[^cevii-dec-pro-ftn37]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), pp. 33-36 [pag. 185ss].
+[^cevii-dec-pro-ftn37]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), pp. 33-36 [pag. 185ss].
 
 [^cevii-dec-pro-ftn38]: “L’Eucaristia è come il compimento spirituale della vita e il fine di tutti i sacramenti”: San Tommaso, Summa Theologiae, III, q. 73, a. 3c;
 	cfr. San Tommaso, Summa Theologiae, III, q. 65, a. 3.
@@ -316,11 +316,11 @@ NOTE:
 [^cevii-dec-pro-ftn40]: Cfr. *<span class="BibleRef">[[Ef 5,19-20|Ef 5,19-20]]</span>*.
 
 [^cevii-dec-pro-ftn41]: Cfr. San Girolamo, Epistola, 114, 2: “...i sacri calici e i santi paramenti ed il resto che riguarda la Passione del Signore... sono da venerare con lo stesso onore del suo Corpo e Sangue, per l’attinenza al Corpo e al Sangue del Signore”: PL 22, 934.
-	Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art122" name="cos-sac_art122">122</span>.|Sacrosanctum Concilium, nn. 122]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art127" name="cos-sac_art127">127</span>.|127]]* (04 dicembre 1963) : AAS 56 (1964), pp. 130-132 [pag. 81ss].
+	Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art122" name="cos-sac_art122">122</span>.|Sacrosanctum Concilium, nn. 122]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art127" name="cos-sac_art127">127</span>.|127]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 130-132 [pag. 81ss].
 
-[^cevii-dec-pro-ftn42]: “Durante il giorno i fedeli non omettano di fare la visita al santissimo Sacramento, che dev’essere custodito in luogo distintissimo, col massimo onore, nelle chiese, secondo le leggi liturgiche, perché la visita è prova di gratitudine, segno d’amore e debito di riconoscenza a Cristo Signore là presente”: [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Mysterium Fidei, 3 settembre 1965: AAS 57 (1965), p. 771.
+[^cevii-dec-pro-ftn42]: “Durante il giorno i fedeli non omettano di fare la visita al santissimo Sacramento, che dev’essere custodito in luogo distintissimo, col massimo onore, nelle chiese, secondo le leggi liturgiche, perché la visita è prova di gratitudine, segno d’amore e debito di riconoscenza a Cristo Signore là presente”: [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Mysterium Fidei, 3 settembre 1965: *AAS* 57 (1965), p. 771.
 
-[^cevii-dec-pro-ftn43]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), pp. 33-36 [pag. 185ss].
+[^cevii-dec-pro-ftn43]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), pp. 33-36 [pag. 185ss].
 
 [^cevii-dec-pro-ftn44]: Cfr. *<span class="BibleRef">[[2Cor 10,8|2Cor 10,8]]</span>*;
 	*<span class="BibleRef">[[2Cor 13,10|2Cor 13,10]]</span>*.
@@ -345,12 +345,12 @@ NOTE:
 
 [^cevii-dec-pro-ftn52]: Cfr. *<span class="BibleRef">[[Lc 4,18|Lc 4,18]]</span>*.
 
-[^cevii-dec-pro-ftn53]: Potrebbero essere citate altre categorie, per es. gli emigranti, i nomadi ecc. Di essi si parla in: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Missione pastorale dei Vescovi nella Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art18" name="dec-chd_art18">18</span>.|Christus Dominus, n. 18]]* (28 ottobre 1965) : AAS 58 (1966), p. 682 [pag. 369].
+[^cevii-dec-pro-ftn53]: Potrebbero essere citate altre categorie, per es. gli emigranti, i nomadi ecc. Di essi si parla in: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Missione pastorale dei Vescovi nella Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art18" name="dec-chd_art18">18</span>.|Christus Dominus, n. 18]]* (28 ottobre 1965) : *AAS* 58 (1966), p. 682 [pag. 369].
 
 [^cevii-dec-pro-ftn54]: Cfr. Didascalia, II, 59, 1-3: “Nell’insegnare comanda ed esorta il popolo a frequentare la chiesa e a non mancare assolutamente mai, ma a recarvisi sempre e a non angustiarla, sottraendosi ad essa e rendendo più esiguo il corpo di Cristo... Poiché siete membra di Cristo, non separatevi dalla chiesa, quando non partecipate all’assemblea. Avendo come capo Cristo, presente e in comunione con voi secondo la sua promessa, non trascuratelo né alienate il salvatore dalle sue membra, né lacerate e smembrate il suo corpo...”: ed. F. X. Funk, I, p. 170;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso tenuto ad Orvieto al clero italiano partecipante alla XIII settimana “di aggiornamento pastorale”, 6 settembre 1963: AAS 55 (1963), pp. 750ss.
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso tenuto ad Orvieto al clero italiano partecipante alla XIII settimana “di aggiornamento pastorale”, 6 settembre 1963: *AAS* 55 (1963), pp. 750ss.
 
-[^cevii-dec-pro-ftn55]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), p. 35 [pag. 185ss].
+[^cevii-dec-pro-ftn55]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), p. 35 [pag. 185ss].
 
 [^cevii-dec-pro-ftn56]: Cfr. la cosiddetta Constitutio Ecclesiastica Apostolorum, XVIII: i Presbiteri sono sýmmystai (concelebranti) e synepímachoi (alleati) dei Vescovi: ed. T. Schermann, Die allgemeine Kirchenordnung, I, Paderborn 1914, p. 26; A. HARNACK, Die Quellen der sog. apostolischen Kirchenordnung, T. u. U., II, 5, p. 13, n. 18 e 19;
 	Pseudo Girolamo, De Septem Ordinibus Ecclesiae: “... con la benedizione diventano con i Vescovi partecipi dei misteri”: ed. A. W. Kalff, Würzburg 1937, p. 45;
@@ -375,9 +375,9 @@ NOTE:
 	Tra i Padri si possono citare: Teodoro di Mopsuestia, In 1 Tim. 3,8: ed. Swete, II, pp. 119-121;
 	Teodoreto, Quaestiones in Numeros, XVIII: PG 80, 369C-372B.
 
-[^cevii-dec-pro-ftn61]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), p. 35 [pag. 185ss].
+[^cevii-dec-pro-ftn61]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), p. 35 [pag. 185ss].
 
-[^cevii-dec-pro-ftn62]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri primordia, 1° ag. 1959: AAS 51 (1959), p. 576;
+[^cevii-dec-pro-ftn62]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri primordia, 1° ag. 1959: *AAS* 51 (1959), p. 576;
 	San Pio X, Esortazione al clero Haerent animo, 4 agosto 1908: S. Pii X Acta, vol. IV (1908), pp. 237ss.
 
 [^cevii-dec-pro-ftn63]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Missione pastorale dei Vescovi nella Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art15" name="dec-chd_art15">15</span>.|Christus Dominus, nn. 15]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art16" name="dec-chd_art16">16</span>.|16]]* (28 ottobre 1965) [pag. 365ss].
@@ -393,7 +393,7 @@ NOTE:
 	Sant’Ignazio Martire, Trall., 3, 1: “Similmente tutti rispettino i diaconi come Gesù Cristo, così come rispettano anche il vescovo, che è la figura del Padre, i presbiteri come il senato di Dio e la comunità degli apostoli. Senza di loro non si può parlare di chiesa”: ibid., p. 204;
 	San Girolamo, In Isaiam, II, 3: PL 24, 61D: “Anche noi abbiamo nella Chiesa il nostro senato, la classe dei presbiteri”.
 
-[^cevii-dec-pro-ftn66]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso ai parroci e ai quaresimalisti di Roma, pronunciato nella Cappella Sistina il 1° marzo 1965: AAS 57 (1965), p. 326.
+[^cevii-dec-pro-ftn66]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso ai parroci e ai quaresimalisti di Roma, pronunciato nella Cappella Sistina il 1° marzo 1965: *AAS* 57 (1965), p. 326.
 
 [^cevii-dec-pro-ftn67]: Cfr. Const. Apost. VIII, 47, 39: “I presbiteri... non facciano nulla senza consultare il vescovo, perché è a lui che è stato affidato il popolo di Dio e a lui sarà chiesto conto delle loro anime”: ed. F. X. Funk, p. 577.
 
@@ -411,7 +411,7 @@ NOTE:
 	*<span class="BibleRef">[[Col 1,13|Col 1,13]]</span>*.
 
 [^cevii-dec-pro-ftn74]: Cfr. *<span class="BibleRef">[[Mt 23,8|Mt 23,8]]</span>*.
-	“Se vogliamo essere pastori, padri e maestri degli uomini, bisogna che ci comportiamo come loro fratelli”: [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: AAS 56 (1964), p. 647.
+	“Se vogliamo essere pastori, padri e maestri degli uomini, bisogna che ci comportiamo come loro fratelli”: [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: *AAS* 56 (1964), p. 647.
 
 [^cevii-dec-pro-ftn75]: Cfr. *<span class="BibleRef">[[Ef 4,7.16|Ef 4, 7.16]]</span>*;
 	Const. Apost., VIII, 1, 20: “Ma nemmeno si esalti il vescovo sopra i diaconi o i presbiteri, né i presbiteri sopra il popolo: poiché la comunità è composta di entrambe le categorie”: ed. F. X. Funk, I, p. 467.
@@ -420,13 +420,13 @@ NOTE:
 
 [^cevii-dec-pro-ftn77]: Cfr. *<span class="BibleRef">[[1Gv 4,1|1Gv 4,1]]</span>*.
 
-[^cevii-dec-pro-ftn78]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art37" name="cos-lug_art37">37</span>.|Lumen Gentium, n. 37]]* : AAS 57 (1965), pp. 42-43 [pag. 207ss].
+[^cevii-dec-pro-ftn78]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art37" name="cos-lug_art37">37</span>.|Lumen Gentium, n. 37]]* : *AAS* 57 (1965), pp. 42-43 [pag. 207ss].
 
 [^cevii-dec-pro-ftn79]: Cfr. *<span class="BibleRef">[[Ef 4,14|Ef 4,14]]</span>*.
 
-[^cevii-dec-pro-ftn80]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr|Unitatis Redintegratio]]* (21 novembre 1964) : AAS 57 (1965), pp. 90-107.
+[^cevii-dec-pro-ftn80]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr|Unitatis Redintegratio]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 90-107.
 
-[^cevii-dec-pro-ftn81]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art37" name="cos-lug_art37">37</span>.|Lumen Gentium, n. 37]]* : AAS 57 (1965), pp. 42-43 [pag. 207ss].
+[^cevii-dec-pro-ftn81]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art37" name="cos-lug_art37">37</span>.|Lumen Gentium, n. 37]]* : *AAS* 57 (1965), pp. 42-43 [pag. 207ss].
 
 [^cevii-dec-pro-ftn82]: Cfr. *<span class="BibleRef">[[Eb 7,3|Eb 7,3]]</span>*.
 
@@ -451,7 +451,7 @@ NOTE:
 
 [^cevii-dec-pro-ftn92]: Cfr. *<span class="BibleRef">[[2Cor 12,9|2Cor 12,9]]</span>*.
 
-[^cevii-dec-pro-ftn93]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dicembre 1935: AAS 28 (1936), p. 10.
+[^cevii-dec-pro-ftn93]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dicembre 1935: *AAS* 28 (1936), p. 10.
 
 [^cevii-dec-pro-ftn94]: Cfr. *<span class="BibleRef">[[Gv 10,36|Gv 10,36]]</span>*.
 
@@ -462,9 +462,9 @@ NOTE:
 [^cevii-dec-pro-ftn97]: Cfr. *<span class="BibleRef">[[2Cor 3,8-9|2Cor 3,8-9]]</span>*.
 
 [^cevii-dec-pro-ftn98]: Cfr. tra l’altro: San Pio X, Esortazione al clero, Haerent animo, 4 agosto 1908: S. Pii X Acta, vol. IV (1908), p. 237ss.
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dicembre 1935: AAS 28 (1936), p. 5ss.
-	[[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: AAS 42 (1950), p. 657ss.
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri primordia, 1° agosto 1959: AAS 51 (1959), p. 545ss.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dicembre 1935: *AAS* 28 (1936), p. 5ss.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: *AAS* 42 (1950), p. 657ss.
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri primordia, 1° agosto 1959: *AAS* 51 (1959), p. 545ss.
 
 [^cevii-dec-pro-ftn99]: Cfr. San Tommaso, Summa Theologiae, II-II, q. 188, a. 7.
 
@@ -480,8 +480,8 @@ NOTE:
 
 [^cevii-dec-pro-ftn105]: Cfr. Messale romano, orazione sopra le offerte della domenica IX dopo Pentecoste [nel Messale di [[Scheda 262° papa - Paolo VI|Paolo VI]], domenica II per annum].
 
-[^cevii-dec-pro-ftn106]: “Ogni Messa, anche se privatamente celebrata da un sacerdote, non è tuttavia cosa privata, ma azione di Cristo e della Chiesa, la quale, nel sacrificio che offre, ha imparato ad offrire se medesima come sacrificio universale, applicando per la salute del mondo intero l’unica e infinita virtù redentrice del Sacrificio della Croce. Poiché ogni Messa celebrata viene offerta non solo per la salvezza di alcuni, ma anche per la salvezza di tutto il mondo. (...) Ci raccomandiamo dunque con paterna insistenza ai Sacerdoti, in modo particolare Nostro gaudio e Nostra corona nel Signore, affinché...celebrino la Messa ogni giorno degnamente e con devozione”: [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Mysterium Fidei, 3 settembre 1965: AAS 57 (1965), pp. 761-762.
-	Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art25" name="cos-sac_art25">25</span>.|Sacrosanctum Concilium, nn. 25]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art27" name="cos-sac_art27">27</span>.|27]]* (04 dicembre 1963) : AAS 56 (1964), p. 107 [pag. 33].
+[^cevii-dec-pro-ftn106]: “Ogni Messa, anche se privatamente celebrata da un sacerdote, non è tuttavia cosa privata, ma azione di Cristo e della Chiesa, la quale, nel sacrificio che offre, ha imparato ad offrire se medesima come sacrificio universale, applicando per la salute del mondo intero l’unica e infinita virtù redentrice del Sacrificio della Croce. Poiché ogni Messa celebrata viene offerta non solo per la salvezza di alcuni, ma anche per la salvezza di tutto il mondo. (...) Ci raccomandiamo dunque con paterna insistenza ai Sacerdoti, in modo particolare Nostro gaudio e Nostra corona nel Signore, affinché...celebrino la Messa ogni giorno degnamente e con devozione”: [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Mysterium Fidei, 3 settembre 1965: *AAS* 57 (1965), pp. 761-762.
+	Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art25" name="cos-sac_art25">25</span>.|Sacrosanctum Concilium, nn. 25]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art27" name="cos-sac_art27">27</span>.|27]]* (04 dicembre 1963) : *AAS* 56 (1964), p. 107 [pag. 33].
 
 [^cevii-dec-pro-ftn107]: Cfr. *<span class="BibleRef">[[Gv 10,11|Gv 10,11]]</span>*.
 
@@ -521,12 +521,12 @@ NOTE:
 
 [^cevii-dec-pro-ftn124]: Cfr. *<span class="BibleRef">[[Mt 19,12|Mt 19,12]]</span>*.
 
-[^cevii-dec-pro-ftn125]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art42" name="cos-lug_art42">42</span>.|Lumen Gentium, n. 42]]* : AAS 57 (1965), pp. 47-49 [pag. 219ss].
+[^cevii-dec-pro-ftn125]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art42" name="cos-lug_art42">42</span>.|Lumen Gentium, n. 42]]* : *AAS* 57 (1965), pp. 47-49 [pag. 219ss].
 
 [^cevii-dec-pro-ftn126]: Cfr. *<span class="BibleRef">[[1Tm 3,2-5|1Tm 3,2-5]]</span>*;
 	*<span class="BibleRef">[[Tt 1,6|Tt 1,6]]</span>*.
 
-[^cevii-dec-pro-ftn127]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dicembre 1935: AAS 28 (1936), p. 28.
+[^cevii-dec-pro-ftn127]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dicembre 1935: *AAS* 28 (1936), p. 28.
 
 [^cevii-dec-pro-ftn128]: Cfr. *<span class="BibleRef">[[Mt 19,12|Mt 19,12]]</span>*.
 
@@ -534,12 +534,12 @@ NOTE:
 
 [^cevii-dec-pro-ftn130]: Cfr. *<span class="BibleRef">[[2Cor 11,2|2Cor 11,2]]</span>*.
 
-[^cevii-dec-pro-ftn131]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art42" name="cos-lug_art42">42</span>.|Lumen Gentium, nn. 42]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art44" name="cos-lug_art44">44</span>.|44]]* : AAS 57 (1965), pp. 47-49 e 50-51 [pag. 219ss e 227ss];
+[^cevii-dec-pro-ftn131]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art42" name="cos-lug_art42">42</span>.|Lumen Gentium, nn. 42]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art44" name="cos-lug_art44">44</span>.|44]]* : *AAS* 57 (1965), pp. 47-49 e 50-51 [pag. 219ss e 227ss];
 	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sul rinnovamento della vita religiosa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pec#<span class="art" id="dec-pec_art12" name="dec-pec_art12">12</span>.|Perfectae Caritatis, n. 12]]* (28 ottobre 1965) [pag. 423ss].
 
 [^cevii-dec-pro-ftn132]: Cfr. *<span class="BibleRef">[[Lc 20,35-36|Lc 20,35-36]]</span>*;
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dicembre 1935: AAS 28 (1936), pp. 24-28;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sacra Virginitas, 25 marzo 1954: AAS 46 (1954), pp. 169-172.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dicembre 1935: *AAS* 28 (1936), pp. 24-28;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sacra Virginitas, 25 marzo 1954: *AAS* 46 (1954), pp. 169-172.
 
 [^cevii-dec-pro-ftn133]: Cfr. *<span class="BibleRef">[[Mt 19,11|Mt 19,11]]</span>*.
 
@@ -572,7 +572,7 @@ NOTE:
 [^cevii-dec-pro-ftn146]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sul rinnovamento della vita religiosa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pec#<span class="art" id="dec-pec_art7" name="dec-pec_art7">7</span>.|Perfectae Caritatis, n. 7]]* (28 ottobre 1965) pag. 419;
 	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Divina Rivelazione *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev#<span class="art" id="cos-dev_art21" name="cos-dev_art21">21</span>.|Dei Verbum, n. 21]]* (18 novembre 1965) pag. 543.
 
-[^cevii-dec-pro-ftn147]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art65" name="cos-lug_art65">65</span>.|Lumen Gentium, n. 65]]* : AAS 57 (1965), pp. 64-65 [pag. 261ss].
+[^cevii-dec-pro-ftn147]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art65" name="cos-lug_art65">65</span>.|Lumen Gentium, n. 65]]* : *AAS* 57 (1965), pp. 64-65 [pag. 261ss].
 
 [^cevii-dec-pro-ftn148]: Pontificale romano, Ordinazione dei Presbiteri.
 
