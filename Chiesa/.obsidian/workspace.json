@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "052c58b4a45e15f5",
+            "id": "900238d254ef592c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Bolle/_Indice Bolle.md",
+                "file": "Documenti vari/ccar-cic.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Indice Bolle"
+              "title": "ccar-cic"
+            }
+          },
+          {
+            "id": "cf57dbafceb9233e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti vari/_Idee per la strutturazione del testo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Idee per la strutturazione del testo"
+            }
+          },
+          {
+            "id": "67276aa6bd9496ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1849-04-20_piix-all-quq"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,44 +306,45 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "052c58b4a45e15f5",
+  "active": "67276aa6bd9496ac",
   "lastOpenFiles": [
-    "Documenti pontifici/Bolle/1798-11-13_pivi-bol-cns.md",
-    "Documenti pontifici/Bolle/_Indice Bolle.md",
-    "Documenti pontifici/Bolle/1797-12-30_pivi-bol-che.md",
-    "Operazioni quotidiane.md",
-    "Documenti pontifici/Bolle/1794-08-28_pivi-bol-auf.md",
-    "Documenti pontifici/Bolle/1794-08-28_pivi-bol-auf.md~",
-    "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-paa.md",
-    "Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-def.md",
-    "Documenti pontifici/Dichiarazioni/_Indice Dichiarazioni.md",
-    "Documenti pontifici/Decreti/_Indice Decreti.md",
-    "Documenti pontifici/Decreti/1848-03-14_piix-dec-nei.md",
-    "Documenti pontifici/Dichiarazioni/1792-12-10_pivi-dic-pec.md",
-    "Documenti pontifici/Dichiarazioni",
-    "Documenti pontifici/Decreti",
-    "Documenti pontifici/Editti/_Indice Editti.md",
-    "Documenti pontifici/Proteste/_Indice Proteste.md",
-    "Documenti pontifici/Proclami/_Indice Proclami.md",
-    "Documenti pontifici/Brevi/_Indice Brevi.md",
-    "Documenti pontifici/Proclami/1849-01-01_piix-pro-dqp.md",
-    "Documenti pontifici/Proclami/1848-03-14_piix-pro-req.md",
-    "Documenti pontifici/Proteste/1849-02-14_piix-prt-las.md",
-    "Documenti pontifici/Proteste",
-    "Documenti pontifici/Proclami",
-    "Documenti pontifici/Editti/1846-07-16_piix-edi-neg.md",
-    "Documenti pontifici/Editti",
-    "Documenti pontifici/Brevi/1877-11-16_piix-bre-dim.md",
-    "Documenti pontifici/Brevi/1870-04-05_piix-bre-apm.md",
-    "Documenti pontifici/Brevi/1867-11-14_piix-bre-eqi.md",
-    "Documenti pontifici/Brevi/1864-01-28_piix-bre-mug.md",
-    "Documenti pontifici/Brevi/1860-03-26_piix-bre-cce.md",
-    "Documenti pontifici/Angelus/_Indice Angelus.md",
-    "Documenti pontifici/Brevi/1860-03-26_piix-bre-cce.md~",
-    "Documenti pontifici/Brevi/1820-05-16_pivii-bre-prq.md",
-    "Documenti pontifici/Brevi/Senza nome.base",
-    "Senza nome.base",
-    "Documenti pontifici/Brevi/1798-11-10_pivi-bre-cov.md~",
+    "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.md",
+    "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.md",
+    "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.pdf",
+    "Documenti pontifici/Allocuzioni/_Indice Allocuzioni.md",
+    "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.pdf",
+    "Documenti pontifici/Bolle/2015-04-11_fi-bol-miv.pdf",
+    "Documenti pontifici/Bolle/1749-05-05_bxiv-bol-pad.pdf",
+    "Documenti pontifici/Allocuzioni/1842-07-22_grxvi-all-had.md",
+    "Documenti pontifici/Allocuzioni/1842-07-22_grxvi-all-had.pdf",
+    "Documenti vari/ccar-cic.md",
+    "Documenti vari/46E0D170",
+    "Documenti vari/_Idee per la strutturazione del testo.md",
+    "Documenti vari/~$ccar-cic Codice di Diritto Canonico. Internal link x ObsidianMD a Canoni e Commi.xlsx",
+    "Documenti pontifici/Allocuzioni/1841-03-01_grxvi-all-aih.md",
+    "Documenti pontifici/Allocuzioni/1841-03-01_grxvi-all-aih.pdf",
+    "Documenti pontifici/Allocuzioni/1840-04-27_grxvi-all-ait.md",
+    "Documenti pontifici/Allocuzioni/1840-04-27_grxvi-all-ait.pdf",
+    "Documenti pontifici/Allocuzioni/1837-12-10_grxvi-all-dui.md",
+    "Documenti pontifici/Allocuzioni/1836-02-01_grxvi-all-sei.md",
+    "Documenti pontifici/Allocuzioni/1837-12-10_grxvi-all-dui.pdf",
+    "Papi/Scheda 251° papa - Pio VII.md",
+    "Papi/Scheda 254° papa - Gregorio XVI.md",
+    "Documenti pontifici/Allocuzioni/1800-03-28_pivii-all-ads.md",
+    "Papi/Scheda 264° papa - Giovanni Paolo II.md",
+    "Papi/Scheda 265° papa - Benedetto XVI.md",
+    "Papi/Scheda 266° papa - Francesco.md",
+    "Papi/Scheda 267° papa - Leone XIV.md",
+    "Papi/Scheda 255° papa - Pio IX.md",
+    "Papi/Scheda 247° papa - Benedetto XIV.md",
+    "Papi/Scheda 248° papa - Clemente XIII.md",
+    "Papi/Scheda 249° papa - Clemente XIV.md",
+    "Papi/Scheda 250° papa - Pio VI.md",
+    "Papi/Scheda 252° papa - Leone XII.md",
+    "Papi/Scheda 253° papa - Pio VIII.md",
+    "Papi/Scheda 256° papa - Leone XIII.md",
+    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
+    "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino_1.jpg",
@@ -303,8 +352,6 @@
     "Documenti pontifici/Brevi/bxiv-bre-noa.jpg",
     "_02 - Allegati/shopsolar-favicon_32x32.png",
     "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_003.png",
-    "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_002.png",
-    "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_001.png",
-    "_04 - Web pages/2025-07-26 - Capacità galleggiamento bidoni plastica_001.png"
+    "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_002.png"
   ]
 }

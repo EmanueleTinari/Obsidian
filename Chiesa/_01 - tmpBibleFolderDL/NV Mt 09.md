@@ -12,7 +12,7 @@
 ###### 5
 <span class=vrs>5</span>Quid enim est facilius, dicere: “Dimittuntur peccata tua”, aut dicere: “Surge et ambula”
 ###### 6
-<span class=vrs>6</span>Ut sciatis autem quoniam Filius hominis habet potestatem in terra dimittendi peccata — tunc ait paralytico - : Surge, tolle lectum tuum et vade in domum tuam”.
+<span class=vrs>6</span>Ut sciatis autem quoniam Filius hominis habet potestatem in terra dimittendi peccata – tunc ait paralytico – : Surge, tolle lectum tuum et vade in domum tuam”.
 ###### 7
 <span class=vrs>7</span>Et surrexit et abiit in domum suam.
 ###### 8
