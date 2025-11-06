@@ -76,7 +76,7 @@ Noi deroghiamo nonostante le disposizioni di qualsiasi devoto testatore o di alt
 
 ###### 6.
 
-Vogliamo poi che agli estratti o esemplari della presente lettera, anche stampati, firmati a mano da un pubblico notaio e muniti del sigillo di una persona costituita in dignità ecclesiastica, si presti lo stesso assenso che si presterebbe alla lettera stessa se fosse presentata o mostrata.  `class: paragrafoNorm`
+Vogliamo poi che agli estratti o esemplari della presente lettera, anche stampati, firmati a mano da un pubblico notaio e muniti del sigillo di una persona costituita in dignità ecclesiastica, si presti lo stesso assenso che si presterebbe alla lettera stessa se fosse presentata o mostrata. `class: paragrafoNorm`
 
 
 Dato per speciale Nostro mandato, sotto l’anello del Pescatore, il giorno 13 agosto 1799, nel venticinquesimo anno del Nostro Pontificato. `class: dataLuogo`
