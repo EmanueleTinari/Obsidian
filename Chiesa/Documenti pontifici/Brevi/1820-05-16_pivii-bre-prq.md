@@ -55,7 +55,7 @@ L’eccellente opinione che avevamo della vostra religiosità, della vostra prud
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 16 maggio 1820, anno ventunesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VII `class: firmaC`
+Pius PP. VII `class: firmaC`
 
 
 ***
