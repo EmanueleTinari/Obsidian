@@ -52,7 +52,7 @@ Da questa pacifica stazione, ove piacque alla Divina Provvidenza di condurci, on
 Dato a Gaeta l’1 gennaio 1849. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
