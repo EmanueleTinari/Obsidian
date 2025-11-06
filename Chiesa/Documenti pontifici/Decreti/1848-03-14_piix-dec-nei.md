@@ -463,7 +463,7 @@ Rimangono in vigore tutte le disposizioni legislative, che non sono contrarie al
 Dato a Roma, presso Santa Maria Maggiore, il 14 marzo 1848, anno secondo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
