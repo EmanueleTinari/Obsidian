@@ -52,7 +52,7 @@ Da quando i funesti nemici del nome cattolico, per cancellarlo del tutto (se fos
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 14 novembre 1867, anno ventiduesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
