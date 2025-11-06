@@ -85,7 +85,7 @@ Noi vogliamo avere fiducia che quelli che useranno della Nostra clemenza saprann
 Dato a Roma, presso Santa Maria Maggiore, il 16 luglio 1846, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
