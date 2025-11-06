@@ -186,132 +186,132 @@ NOTE:
 
 [^cevii-dec-opt-ftn1]: Che il progresso di tutto il popolo di Dio dipenda, per volontà di Cristo, massimamente dal ministero dei sacerdoti risulta dalle parole con le quali il Signore ha costituito gli Apostoli e i loro successori e collaboratori messaggeri del Vangelo, guide del nuovo popolo eletto e dispensatori dei misteri di Dio; lo stesso è confermato dalle parole dei Padri e dei Santi e da reiterati documenti dei Sommi Pontefici.
 	Cfr. soprattutto: San Pio X, Esortazione al Clero Haerent animo, 4 agosto 1908: S. Pii X Acta IV, pp. 237-264 [in parte Collantes 7.312-18].
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici Sacerdotii, 20 dicembre 1935: AAS 28 (1936), specialmente pp. 37-52 [in parte Dz 2275-76].
-	[[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: AAS 42 (1950), pp. 657-702 [in parte Collantes 7.321-24].
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri primordia, 1 agosto 1959: AAS 51 (1959), pp. 545-579.
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: AAS 55 (1963), pp. 979-995.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici Sacerdotii, 20 dicembre 1935: *AAS* 28 (1936), specialmente pp. 37-52 [in parte Dz 2275-76].
+	[[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: *AAS* 42 (1950), pp. 657-702 [in parte Collantes 7.321-24].
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri primordia, 1 agosto 1959: *AAS* 51 (1959), pp. 545-579.
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: *AAS* 55 (1963), pp. 979-995.
 
 [^cevii-dec-opt-ftn2]: Tutta la formazione spirituale, cioè l’ordinamento del Seminario, la formazione spirituale, il programma degli studi, la vita comune e la disciplina degli alunni, le esercitazioni pastorali, devono essere adattati alle situazioni dei diversi luoghi. Questo adattamento, per quanto riguarda i principi essenziali, dev’essere fatto secondo le norme comuni, per il clero secolare dalle Conferenze Episcopali e secondo la convenienza dai Superiori competenti per il clero regolare (cfr. Sacra Congregazione dei Religiosi, Costituzione Apostolica Sedes Sapientiae e relativi Statuta Generalia annessi, art. 19, seconda edizione, Romae 1957, pp. 38s.).
 
 [^cevii-dec-opt-ftn3]: Tra le principali preoccupazioni dalle quali è afflitta oggi la Chiesa, predomina quasi ovunque quella dello scarso numero di vocazioni.
-	Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae: “...Il numero dei sacerdoti, sia nei paesi cattolici, sia nelle Missioni, è divenuto impari alle sempre crescenti necessità”: AAS 42 (1950), p. 682.
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]]: “Il problema delle vocazioni ecclesiastiche e religiose è quotidiana sollecitudine del Papa..., è sospiro della sua preghiera, aspirazione ardente della sua anima”: Dal Discorso al I Congresso Internazionale sulle Vocazioni agli Stati di Perfezione, 16 dicembre 1961: AAS 54 (1962), p. 33.
+	Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae: “...Il numero dei sacerdoti, sia nei paesi cattolici, sia nelle Missioni, è divenuto impari alle sempre crescenti necessità”: *AAS* 42 (1950), p. 682.
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]]: “Il problema delle vocazioni ecclesiastiche e religiose è quotidiana sollecitudine del Papa..., è sospiro della sua preghiera, aspirazione ardente della sua anima”: Dal Discorso al I Congresso Internazionale sulle Vocazioni agli Stati di Perfezione, 16 dicembre 1961: *AAS* 54 (1962), p. 33.
 
-[^cevii-dec-opt-ftn4]: [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Sedes Sapientiae, 31 maggio 1956: AAS 48 (1956), p. 357.
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: AAS 55 (1963), pp. 984ss.
+[^cevii-dec-opt-ftn4]: [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Sedes Sapientiae, 31 maggio 1956: *AAS* 48 (1956), p. 357.
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: *AAS* 55 (1963), pp. 984ss.
 
-[^cevii-dec-opt-ftn5]: Cfr. soprattutto: [[Scheda 260° papa - Pio XII|Pio XII]], Motu proprio Cum nobis “sull’istituzione della Pontificia Opera delle Vocazioni Sacerdotali presso la Congregazione dei Seminari e delle Università degli Studi”, 4 novembre 1941: AAS 33 (1941), p. 479; con annessi gli Statuti promulgati da detta Sacra Congregazione l’8 settembre 1943.
-	[[Scheda 260° papa - Pio XII|Pio XII]], Motu proprio Cum supremae “sull’Opera Pontificia primaria delle vocazioni religiose”, 11 febbraio 1995: AAS 47 (1955), p. 266; con annessi gli Statuti e le Norme promulgati dalla Congregazione dei Religiosi (ibid. pp. 298-301);
+[^cevii-dec-opt-ftn5]: Cfr. soprattutto: [[Scheda 260° papa - Pio XII|Pio XII]], Motu proprio Cum nobis “sull’istituzione della Pontificia Opera delle Vocazioni Sacerdotali presso la Congregazione dei Seminari e delle Università degli Studi”, 4 novembre 1941: *AAS* 33 (1941), p. 479; con annessi gli Statuti promulgati da detta Sacra Congregazione l’8 settembre 1943.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Motu proprio Cum supremae “sull’Opera Pontificia primaria delle vocazioni religiose”, 11 febbraio 1995: *AAS* 47 (1955), p. 266; con annessi gli Statuti e le Norme promulgati dalla Congregazione dei Religiosi (ibid. pp. 298-301);
 	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sul rinnovamento della vita religiosa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pec#<span class="art" id="dec-pec_art24" name="dec-pec_art24">24</span>.|Perfectae Caritatis, n. 24]]* (28 ottobre 1965) [pag. 435];
 	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Missione pastorale dei Vescovi nella Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art15" name="dec-chd_art15">15</span>.|Christus Dominus, n. 15]]* (28 ottobre 1965) [pag. 363ss].
 
-[^cevii-dec-opt-ftn6]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 set. 1950: AAS 42 (1950), p. 685.
+[^cevii-dec-opt-ftn6]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 set. 1950: *AAS* 42 (1950), p. 685.
 
-[^cevii-dec-opt-ftn7]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), p. 34 [pag. 185ss].
+[^cevii-dec-opt-ftn7]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), p. 34 [pag. 185ss].
 
-[^cevii-dec-opt-ftn8]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad Catholici Sacerdotii, 20 dicembre 1935: AAS 28 (1936), p. 37: “Sia particolarmente diligente la scelta dei rettori e degli insegnanti... A questi sacri collegi aggregate sacerdoti ornati della massima virtù; né vi sia ingrato sottrarli ad altri incarichi apparentemente più rilevanti, ma che in realtà non sono paragonabili con quest’opera capitale e insostituibile”. Questo principio di scegliere i migliori è stato nuovamente inculcato da [[Scheda 260° papa - Pio XII|Pio XII]] nella Lettera Apostolica diretta agli Ordinari del Brasile il 23 aprile 1947: Discorsi e Radiomessaggi IX, pp. 579-580.
+[^cevii-dec-opt-ftn8]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad Catholici Sacerdotii, 20 dicembre 1935: *AAS* 28 (1936), p. 37: “Sia particolarmente diligente la scelta dei rettori e degli insegnanti... A questi sacri collegi aggregate sacerdoti ornati della massima virtù; né vi sia ingrato sottrarli ad altri incarichi apparentemente più rilevanti, ma che in realtà non sono paragonabili con quest’opera capitale e insostituibile”. Questo principio di scegliere i migliori è stato nuovamente inculcato da [[Scheda 260° papa - Pio XII|Pio XII]] nella Lettera Apostolica diretta agli Ordinari del Brasile il 23 aprile 1947: Discorsi e Radiomessaggi IX, pp. 579-580.
 
-[^cevii-dec-opt-ftn9]: Sul dovere comune di prestare aiuto ai Seminari cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: AAS 55 (1963), p. 984.
+[^cevii-dec-opt-ftn9]: Sul dovere comune di prestare aiuto ai Seminari cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: *AAS* 55 (1963), p. 984.
 
-[^cevii-dec-opt-ftn10]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1951: AAS 42 (1950), p. 684;
+[^cevii-dec-opt-ftn10]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1951: *AAS* 42 (1950), p. 684;
 	Sacra Congregazione dei Sacramenti, Lettera circolare Magna equidem agli Ordinari locali, 27 dicembre 1935, n. 10.
 	Per i religiosi cfr. Statuta Generalia allegati alla Costituzione Apostolica Sedes Sapientiae, 31 maggio 1956, art. 33.
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: AAS 55 (1963), p. 987s.
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: *AAS* 55 (1963), p. 987s.
 
-[^cevii-dec-opt-ftn11]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad Catholici Sacerdotii, 20 dicembre 1935: AAS 28 (1936), p. 41.
+[^cevii-dec-opt-ftn11]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad Catholici Sacerdotii, 20 dicembre 1935: *AAS* 28 (1936), p. 41.
 
 [^cevii-dec-opt-ftn12]: Si stabilisce che nel determinare gli Statuti dei Seminari regionali o nazionali abbiano voce tutti i Vescovi interessati, derogando alla prescrizione del can 1357, par. 4, CIC [corretto nel nuovo Codice, can. 237, § 2].
 
-[^cevii-dec-opt-ftn13]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: AAS 42 (1950), p. 674;
+[^cevii-dec-opt-ftn13]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: *AAS* 42 (1950), p. 674;
 	Sacra Congregazione dei Seminari e delle Università degli Studi, La formazione spirituale del candidato al sacerdozio, Città del Vaticano 1965.
 
 [^cevii-dec-opt-ftn14]: Cfr. San Pio X, Esortazione al Clero Haerent animo, 4 agosto 1908: S. Pii X Acta IV, pp. 242-244 [Collantes 7.312-13];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: AAS 42 (1950), pp. 659-661 [in parte Collantes 7.321ss);
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri Primordia, 1° ag. 1959: AAS 51 (1959), p. 550s.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: *AAS* 42 (1950), pp. 659-661 [in parte Collantes 7.321ss);
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri Primordia, 1° ag. 1959: *AAS* 51 (1959), p. 550s.
 
-[^cevii-dec-opt-ftn15]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre 1947: AAS 39 (1947), pp. 547ss [in parte Dz 3847-48] e 572s;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Esortazione Apostolica Sacrae Laudis, 6 gennaio 1962: AAS 54 (1962), p. 69;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art16" name="cos-sac_art16">16</span>.|Sacrosanctum Concilium, nn. 16]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art17" name="cos-sac_art17">17</span>.|17]]* (04 dicembre 1963) : AAS 56 (1964), p. 104s [pag. 29];
-	Sacra Congregazione dei Riti, Instructio ad exsecutionem Constitutionis de Sacra Liturgia recte ordinandam, 26 settembre 1964, nn. 14-17: AAS 56 (1964), p. 880s.
+[^cevii-dec-opt-ftn15]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre 1947: *AAS* 39 (1947), pp. 547ss [in parte Dz 3847-48] e 572s;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Esortazione Apostolica Sacrae Laudis, 6 gennaio 1962: *AAS* 54 (1962), p. 69;
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art16" name="cos-sac_art16">16</span>.|Sacrosanctum Concilium, nn. 16]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art17" name="cos-sac_art17">17</span>.|17]]* (04 dicembre 1963) : *AAS* 56 (1964), p. 104s [pag. 29];
+	Sacra Congregazione dei Riti, Instructio ad exsecutionem Constitutionis de Sacra Liturgia recte ordinandam, 26 settembre 1964, nn. 14-17: *AAS* 56 (1964), p. 880s.
 
-[^cevii-dec-opt-ftn16]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri Primordia: AAS 51 (1959), p. 559s.
+[^cevii-dec-opt-ftn16]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri Primordia: *AAS* 51 (1959), p. 559s.
 
-[^cevii-dec-opt-ftn17]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), p. 35s. [pag. 185ss].
+[^cevii-dec-opt-ftn17]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), p. 35s. [pag. 185ss].
 
 [^cevii-dec-opt-ftn18]: Sant’Agostino, In Ioannem tract. 32,8: PL 35, 1646.
 
-[^cevii-dec-opt-ftn19]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae: AAS 42 (1950), pp. 662s [Collantes 7.323], 685, 690;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Lettera Enciclica Sacerdotii Nostri Primordia: AAS 51 (1959), pp. 551-553, 556s;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: AAS 56 (1964), p. 634s;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug|Lumen Gentium]]*, specialmente *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art8" name="cos-lug_art8">8</span>.|n. 8]]* : AAS 57 (1965), p. 12 [pag. 129ss].
+[^cevii-dec-opt-ftn19]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae: *AAS* 42 (1950), pp. 662s [Collantes 7.323], 685, 690;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Lettera Enciclica Sacerdotii Nostri Primordia: *AAS* 51 (1959), pp. 551-553, 556s;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: *AAS* 56 (1964), p. 634s;
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug|Lumen Gentium]]*, specialmente *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art8" name="cos-lug_art8">8</span>.|n. 8]]* : *AAS* 57 (1965), p. 12 [pag. 129ss].
 
-[^cevii-dec-opt-ftn20]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sacra Virginitas, 25 marzo 1954: AAS 46 (1954), pp. 165ss [in parte Dz 3911-12].
+[^cevii-dec-opt-ftn20]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sacra Virginitas, 25 marzo 1954: *AAS* 46 (1954), pp. 165ss [in parte Dz 3911-12].
 
 [^cevii-dec-opt-ftn21]: Cfr. San Cipriano, De habitu virginum, 22: PL 4, 475; Sant’Ambrogio, De virginibus, I, 8, 52: PL 16, 202s.
 
-[^cevii-dec-opt-ftn22]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae: AAS 42 (1950), p. 663 [Collantes 7.324].
+[^cevii-dec-opt-ftn22]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae: *AAS* 42 (1950), p. 663 [Collantes 7.324].
 
 [^cevii-dec-opt-ftn23]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sacra Virginitas, l.c. [nota 20], pp. 170-174.
 
 [^cevii-dec-opt-ftn24]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, l.c. [nota 22], pp. 664 e 690s.
 
-[^cevii-dec-opt-ftn25]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: AAS 55 (1963), p. 991.
+[^cevii-dec-opt-ftn25]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, 4 novembre 1963: *AAS* 55 (1963), p. 991.
 
 [^cevii-dec-opt-ftn26]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, l.c. [nota 22], p. 686.
 
 [^cevii-dec-opt-ftn27]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum, l.c. [nota 25], p. 993.
 
-[^cevii-dec-opt-ftn28]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art7" name="cos-lug_art7">7</span>.|Lumen Gentium, nn. 7]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|28]]* : AAS 57 (1965), pp. 9-11, 33 [pag. 125ss e 185ss].
+[^cevii-dec-opt-ftn28]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art7" name="cos-lug_art7">7</span>.|Lumen Gentium, nn. 7]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|28]]* : *AAS* 57 (1965), pp. 9-11, 33 [pag. 125ss e 185ss].
 
-[^cevii-dec-opt-ftn29]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Humani generis, 12 agosto 1950: AAS 42 (1950), pp. 571-575 [in parte Dz 3892-94; Collantes 1.091 e 1.099-1.101].
+[^cevii-dec-opt-ftn29]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Humani generis, 12 agosto 1950: *AAS* 42 (1950), pp. 571-575 [in parte Dz 3892-94; Collantes 1.091 e 1.099-1.101].
 
-[^cevii-dec-opt-ftn30]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: AAS 56 (1964), p. 637ss.
+[^cevii-dec-opt-ftn30]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: *AAS* 56 (1964), p. 637ss.
 
-[^cevii-dec-opt-ftn31]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Humani generis, 12 agosto 1950: AAS 42 (1950), pp. 567-569 [Dz 3884-87; in parte Collantes 7.201-04];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso Si diligis, 31 mag. 1954: AAS 46 (1954), p. 314s;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso tenuto nella Pontificia Università degli Studi Gregoriana, 12 marzo 1964: AAS 56 (1964), p. 364s;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|Lumen Gentium, n. 25]]* : AAS 57 (1965), pp. 29-31 [pag. 175ss].
+[^cevii-dec-opt-ftn31]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Humani generis, 12 agosto 1950: *AAS* 42 (1950), pp. 567-569 [Dz 3884-87; in parte Collantes 7.201-04];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso Si diligis, 31 mag. 1954: *AAS* 46 (1954), p. 314s;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso tenuto nella Pontificia Università degli Studi Gregoriana, 12 marzo 1964: *AAS* 56 (1964), p. 364s;
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|Lumen Gentium, n. 25]]* : *AAS* 57 (1965), pp. 29-31 [pag. 175ss].
 
 [^cevii-dec-opt-ftn32]: Cfr. San Bonaventura, Itinerarium mentis in Deum, Prol., n. 4: “(Nessuno) creda che gli basti la lettura senza la comprensione, la speculazione senza la devozione, l’indagine senza l’ammirazione, la visione senza l’esultanza, l’industriosità senza la pietà, la scienza senza la carità, l’intelligenza senza l’umiltà, lo studio senza la grazia divina, la riflessione senza la sapienza divinamente ispirata” (San Bonaventura, Opera Omnia, V, Quaracchi 1891, p. 296).
 
 [^cevii-dec-opt-ftn33]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Providentissimus Deus, 18 nov 1893: ASS 26 (1893-94), p. 283.
 
-[^cevii-dec-opt-ftn34]: Cfr. Pontificia Commissione Biblica, Instructio de Sacra Scriptura recte docenda, 13 maggio 1950, AAS 42 (1950), p. 502.
+[^cevii-dec-opt-ftn34]: Cfr. Pontificia Commissione Biblica, Instructio de Sacra Scriptura recte docenda, 13 maggio 1950, *AAS* 42 (1950), p. 502.
 
-[^cevii-dec-opt-ftn35]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Humani generis, 12 agosto 1950: AAS 42 (1950), p. 568s: “... con lo studio delle fonti sacre le discipline sacre ringiovaniscono continuamente, mentre al contrario, come sappiamo per esperienza, la speculazione che trascura l’esame determinante del sacro deposito diventa sterile” [Dz 3886; Collantes 7.203].
+[^cevii-dec-opt-ftn35]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Humani generis, 12 agosto 1950: *AAS* 42 (1950), p. 568s: “... con lo studio delle fonti sacre le discipline sacre ringiovaniscono continuamente, mentre al contrario, come sappiamo per esperienza, la speculazione che trascura l’esame determinante del sacro deposito diventa sterile” [Dz 3886; Collantes 7.203].
 
-[^cevii-dec-opt-ftn36]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso agli Alunni dei Seminari, 24 giugno 1939: AAS 31 (1939), p. 247: “L’impegno... nel cercare e diffondere la verità non è soppresso dalla raccomandazione per la dottrina di S. Tommaso, ma piuttosto viene incoraggiato e diretto con sicurezza”;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso pronunciato nella Pontificia Università degli Studi Gregoriana, 12 marzo 1964: AAS 56 (1964), p. 365: “(I docenti)... ascoltino con riverenza la voce dei Dottori della Chiesa, tra i quali il Santo Aquinate ha un posto preminente; è tanto grande infatti la forza dell’ingegno del Dottore Angelico, tanto sincero l’amore alla verità e la sapienza nell’investigare, spiegare e raggruppare secondo uno schema appropriato le verità più alte, che la sua dottrina è uno strumento efficacissimo non solo per mettere al sicuro i fondamenti della Fede, ma anche per ricavare utilmente e fiduciosamente frutti di sano progresso”.
-	Cfr. anche il Discorso davanti al VI Congresso Internazionale Tomistico, 10 settembre 1965: AAS 57 (1965), pp. 788-792.
+[^cevii-dec-opt-ftn36]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso agli Alunni dei Seminari, 24 giugno 1939: *AAS* 31 (1939), p. 247: “L’impegno... nel cercare e diffondere la verità non è soppresso dalla raccomandazione per la dottrina di S. Tommaso, ma piuttosto viene incoraggiato e diretto con sicurezza”;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso pronunciato nella Pontificia Università degli Studi Gregoriana, 12 marzo 1964: *AAS* 56 (1964), p. 365: “(I docenti)... ascoltino con riverenza la voce dei Dottori della Chiesa, tra i quali il Santo Aquinate ha un posto preminente; è tanto grande infatti la forza dell’ingegno del Dottore Angelico, tanto sincero l’amore alla verità e la sapienza nell’investigare, spiegare e raggruppare secondo uno schema appropriato le verità più alte, che la sua dottrina è uno strumento efficacissimo non solo per mettere al sicuro i fondamenti della Fede, ma anche per ricavare utilmente e fiduciosamente frutti di sano progresso”.
+	Cfr. anche il Discorso davanti al VI Congresso Internazionale Tomistico, 10 settembre 1965: *AAS* 57 (1965), pp. 788-792.
 
-[^cevii-dec-opt-ftn37]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art7" name="cos-sac_art7">7</span>.|Sacrosanctum Concilium, nn. 7]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art16" name="cos-sac_art16">16</span>.|16]]* (04 dicembre 1963) : AAS 56 (1964), pp. 100s e 104s [pag. 21 e 29].
+[^cevii-dec-opt-ftn37]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art7" name="cos-sac_art7">7</span>.|Sacrosanctum Concilium, nn. 7]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art16" name="cos-sac_art16">16</span>.|16]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 100s e 104s [pag. 21 e 29].
 
-[^cevii-dec-opt-ftn38]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: AAS 56 (1964), p. 640s.
+[^cevii-dec-opt-ftn38]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: *AAS* 56 (1964), p. 640s.
 
-[^cevii-dec-opt-ftn39]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art10" name="cos-sac_art10">10</span>.|Sacrosanctum Concilium, nn. 10]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art14" name="cos-sac_art14">14</span>.|14]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art15" name="cos-sac_art15">15</span>.|15]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art16" name="cos-sac_art16">16</span>.|16]]* (04 dicembre 1963) : AAS 56 (1964) [pag. 23ss, 27ss];
-	Sacra Congregazione dei Riti, Instructio ad exsecutionem Constitutionis de Sacra Liturgia recte ordinandam, 26 settembre 1964, nn. 11 e 12: AAS 56 (1964), p. 879s.
+[^cevii-dec-opt-ftn39]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art10" name="cos-sac_art10">10</span>.|Sacrosanctum Concilium, nn. 10]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art14" name="cos-sac_art14">14</span>.|14]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art15" name="cos-sac_art15">15</span>.|15]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art16" name="cos-sac_art16">16</span>.|16]]* (04 dicembre 1963) : *AAS* 56 (1964) [pag. 23ss, 27ss];
+	Sacra Congregazione dei Riti, Instructio ad exsecutionem Constitutionis de Sacra Liturgia recte ordinandam, 26 settembre 1964, nn. 11 e 12: *AAS* 56 (1964), p. 879s.
 
 [^cevii-dec-opt-ftn40]: ATTENZIONE!!! Nota mancante. Mandata segnalazione al Vaticano.
 
-[^cevii-dec-opt-ftn41]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art1" name="dec-unr_art1">1</span>.|Unitatis Redintegratio, nn. 1]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art9" name="dec-unr_art9">9</span>.|9]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art10" name="dec-unr_art10">10</span>.|10]]* (21 novembre 1964) : AAS 57 (1965), pp. 90 e 98s [pag. 305ss, 325].
+[^cevii-dec-opt-ftn41]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art1" name="dec-unr_art1">1</span>.|Unitatis Redintegratio, nn. 1]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art9" name="dec-unr_art9">9</span>.|9]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art10" name="dec-unr_art10">10</span>.|10]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 90 e 98s [pag. 305ss, 325].
 
 [^cevii-dec-opt-ftn42]: Il modello perfetto del pastore può essere ricavato dai documenti dei Pontefici più recenti che trattano dettagliatamente della vita, delle qualità e della formazione dei Sacerdoti, soprattutto: San Pio X, Esortazione al Clero Haerent animo: S. Pii X Acta, IV, pp. 237ss [in parte Collantes 7.312-18];
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad Catholici Sacerdotii: AAS 28 (1936), pp. 5ss [in parte Dz 3755-58];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae: AAS 42 (1950), pp. 657ss [in parte Collantes 7.321-24];
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri Primordia: AAS 51 (1959), pp. 545ss;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum: AAS 55 (1963), pp. 979ss.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad Catholici Sacerdotii: *AAS* 28 (1936), pp. 5ss [in parte Dz 3755-58];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae: *AAS* 42 (1950), pp. 657ss [in parte Collantes 7.321-24];
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Sacerdotii Nostri Primordia: *AAS* 51 (1959), pp. 545ss;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Lettera Apostolica Summi Dei Verbum: *AAS* 55 (1963), pp. 979ss.
 	Non poco sulla formazione pastorale si trova anche nelle Enciclica Mystici Corporis (1943), Mediator Dei (1947), Evangelii Praecones (1951), Sacra Virginitas (1954), Musicae Sacrae Disciplina (1955), Princeps Pastorum (1959) e per i Religiosi nella Costituzione Apostolica Sedes Sapientiae (1956).
 	[[Scheda 260° papa - Pio XII|Pio XII]], [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]] e [[Scheda 262° papa - Paolo VI|Paolo VI]] hanno illustrato diverse volte la figura del buon pastore anche nei loro discorsi ai seminaristi e ai sacerdoti.
 
-[^cevii-dec-opt-ftn43]: Sull’importanza dello stato che viene costituito con la professione dei consigli evangelici cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#CAPITOLO VI.<br>I RELIGIOSI|Lumen Gentium, cap. VI]]* : AAS 57 (1965), pp. 49-53 [pag. 225ss];
+[^cevii-dec-opt-ftn43]: Sull’importanza dello stato che viene costituito con la professione dei consigli evangelici cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#CAPITOLO VI.<br>I RELIGIOSI|Lumen Gentium, cap. VI]]* : *AAS* 57 (1965), pp. 49-53 [pag. 225ss];
 	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sul rinnovamento della vita religiosa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pec|Perfectae Caritatis]]* (28 ottobre 1965).
 
-[^cevii-dec-opt-ftn44]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: AAS 56 (1964), passim, particolarmente pp. 635s e 640ss.
+[^cevii-dec-opt-ftn44]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: *AAS* 56 (1964), passim, particolarmente pp. 635s e 640ss.
 
-[^cevii-dec-opt-ftn45]: Cfr. specialmente [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), pp. 401ss [in parte Dz 3935-53].
+[^cevii-dec-opt-ftn45]: Cfr. specialmente [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), pp. 401ss [in parte Dz 3935-53].
 
-[^cevii-dec-opt-ftn46]: Cfr. principalmente [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art33" name="cos-lug_art33">33</span>.|Lumen Gentium, n. 33]]* : AAS 57 (1965), p. 39 [pag. 197ss].
+[^cevii-dec-opt-ftn46]: Cfr. principalmente [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art33" name="cos-lug_art33">33</span>.|Lumen Gentium, n. 33]]* : *AAS* 57 (1965), p. 39 [pag. 197ss].
 
-[^cevii-dec-opt-ftn47]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art17" name="cos-lug_art17">17</span>.|Lumen Gentium, n. 17]]* : AAS 57 (1965), p. 20s [pag. 153ss].
+[^cevii-dec-opt-ftn47]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art17" name="cos-lug_art17">17</span>.|Lumen Gentium, n. 17]]* : *AAS* 57 (1965), p. 20s [pag. 153ss].
 
 [^cevii-dec-opt-ftn48]: Molti documenti Pontifici mettono in guardia contro il pericolo di trascurare nell’azione pastorale il fine soprannaturale e di sottovalutare, almeno nella pratica, i sussidi soprannaturali; cfr. soprattutto i documenti raccomandati nella nota 41.
