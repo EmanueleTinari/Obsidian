@@ -55,7 +55,7 @@ Sebbene siate separati da Noi da un immenso spazio di terre e di mari, Ci sono t
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 30 gennaio 1816, anno sedicesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VII `class: firmaC`
+Pius PP. VII `class: firmaC`
 
 
 ***
