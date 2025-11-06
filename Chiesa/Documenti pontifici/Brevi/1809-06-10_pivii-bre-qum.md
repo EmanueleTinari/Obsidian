@@ -52,7 +52,7 @@ Quando, nella memorabile giornata del 2 febbraio, le truppe francesi – dopo av
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 10 giugno 1809, anno decimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VII `class: firmaC`
+Pius PP. VII `class: firmaC`
 
 
 ***
