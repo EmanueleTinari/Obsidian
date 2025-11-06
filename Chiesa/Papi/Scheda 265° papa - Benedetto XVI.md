@@ -27,7 +27,7 @@ causa-morte: Decesso
 luogo-morte: Roma
 luogo-sepoltura: "[[Sacre grotte vaticane (Città del Vaticano)|Grotte vaticane]]"
 predecessore: "[[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]]"
-successore: "[[Scheda 266° papa - Francesco|Francesco]]"
+successore: "[[Scheda 266° papa - Francesco I|Francesco]]"
 aliases:
   - Papa Benedetto XVI
   - Benedetto XVI
@@ -56,7 +56,7 @@ modificato: 2025/11/05 00:34:07
 >
 >> [!info]+ XXI secolo 
 >> 267° - [[Scheda 267° papa - Leone XIV|Leone XIV]]
->> 266° - [[Scheda 266° papa - Francesco|Francesco]]
+>> 266° - [[Scheda 266° papa - Francesco I|Francesco]]
 >> 265° - [[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]
 >
 >> [!info]- XX secolo 
