@@ -55,7 +55,7 @@ La natura del ministero apostolico richiede che abbiamo una particolare cura deg
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 5 aprile 1870, nell’anno ventesimoquarto del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
