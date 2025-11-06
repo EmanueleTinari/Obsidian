@@ -149,26 +149,26 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class
 
 NOTE:
 
-[^cevii-dic-dih-ftn1]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 279;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 265;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 24 dicembre 1944: AAS 37 (1945), p. 14.
+[^cevii-dic-dih-ftn1]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), p. 279;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), p. 265;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 24 dicembre 1944: *AAS* 37 (1945), p. 14.
 
-[^cevii-dic-dih-ftn2]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), pp. 260-261 [Dz 3961];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, Con sempre nuova freschezza, 24 dicembre 1942: AAS 35 (1943), p. 19;
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Mit brennender Sorge, 14 marzo 1937: AAS 29 (1937), p. 160;
+[^cevii-dic-dih-ftn2]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), pp. 260-261 [Dz 3961];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, Con sempre nuova freschezza, 24 dicembre 1942: *AAS* 35 (1943), p. 19;
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Mit brennender Sorge, 14 marzo 1937: *AAS* 29 (1937), p. 160;
 	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Libertas praestantissimum, 20 giugno 1888: Acta Leonis XIII 8 (1888), pp. 237-238 [Dz 3250-51].
 
 [^cevii-dic-dih-ftn3]: Cfr. San Tommaso, Summa Theologiae, I-II, q. 91, a. 1; q. 93, a. 1-2.
 
-[^cevii-dic-dih-ftn4]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 270 [Dz 3980];
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Messaggio radiofonico, 22 dicembre 1964: AAS 57 (1965), pp. 181-182;
+[^cevii-dic-dih-ftn4]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), p. 270 [Dz 3980];
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Messaggio radiofonico, 22 dicembre 1964: *AAS* 57 (1965), pp. 181-182;
 	San Tommaso, Summa Theologiae, I-II, q. 91, a. 4 c.
 
-[^cevii-dic-dih-ftn5]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), p. 417;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 273 [Dz 3984].
+[^cevii-dic-dih-ftn5]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), p. 417;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), p. 273 [Dz 3984].
 
-[^cevii-dic-dih-ftn6]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), pp. 273-274 [Dz 3985];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 1° giugno 1942: AAS 33 (1941), p. 200.
+[^cevii-dic-dih-ftn6]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), pp. 273-274 [Dz 3985];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 1° giugno 1942: *AAS* 33 (1941), p. 200.
 
 [^cevii-dic-dih-ftn7]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Immortale Dei, 1o novembre 1885: ASS 18 (1885), p. 161.
 
@@ -184,8 +184,8 @@ NOTE:
 	Clemente III: X, V, 6, 9: (ed. Friedberg, col. 774);
 	Innocenzo III, Epistola ad Arelatensem Archiepiscopum, X, III, 42, (ed. Friedberg, col. 646).
 
-[^cevii-dic-dih-ftn9]: Cfr. CIC, can. 1351 [nel nuovo Codice can. 748 § 2]: [[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Prelati Uditori e agli altri ufficiali e impiegati del Tribunale della S. Romana Rota, 6 ottobre 1946: AAS 38 (1946), p. 394;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: AAS 35 (1943), p. 243 [Dz 3822].
+[^cevii-dic-dih-ftn9]: Cfr. CIC, can. 1351 [nel nuovo Codice can. 748 § 2]: [[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Prelati Uditori e agli altri ufficiali e impiegati del Tribunale della S. Romana Rota, 6 ottobre 1946: *AAS* 38 (1946), p. 394;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: *AAS* 35 (1943), p. 243 [Dz 3822].
 
 [^cevii-dic-dih-ftn10]: Cfr. *<span class="BibleRef">[[Ef 1,5|Ef 1,5]]</span>*.
 
@@ -201,7 +201,7 @@ NOTE:
 [^cevii-dic-dih-ftn15]: Cfr. *<span class="BibleRef">[[Mt 9,28-29|Mt 9,28-29]]</span>*;
 	*<span class="BibleRef">[[Mc 9,23-24|Mc 9,23-24]]</span>*;
 	*<span class="BibleRef">[[Mc 6,5-6|Mc 6,5-6]]</span>*;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: AAS 56 (1964), pp. 642-643.
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, 6 agosto 1964: *AAS* 56 (1964), pp. 642-643.
 
 [^cevii-dic-dih-ftn16]: Cfr. *<span class="BibleRef">[[Mt 11,20-24|Mt 11,20-24]]</span>*;
 	*<span class="BibleRef">[[Rm 12,19-20|Rm 12,19-20]]</span>*;
@@ -248,16 +248,16 @@ NOTE:
 
 [^cevii-dic-dih-ftn33]: Cfr. *<span class="BibleRef">[[Mc 16,15|Mc 16,15]]</span>*;
 	*<span class="BibleRef">[[Mt 28,18-20|Mt 28,18-20]]</span>*;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Summi Pontificatus, 20 ottobre 1939: AAS 31 (1939), pp. 445-446.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Summi Pontificatus, 20 ottobre 1939: *AAS* 31 (1939), pp. 445-446.
 
-[^cevii-dic-dih-ftn34]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Lettera Firmissimam constantiam, 28 marzo 1937: AAS 29 (1937), p. 196.
+[^cevii-dic-dih-ftn34]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Lettera Firmissimam constantiam, 28 marzo 1937: *AAS* 29 (1937), p. 196.
 
-[^cevii-dic-dih-ftn35]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Ci riesce, 6 dicembre 1953: AAS 45 (1953), p. 802.
+[^cevii-dic-dih-ftn35]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Ci riesce, 6 dicembre 1953: *AAS* 45 (1953), p. 802.
 
-[^cevii-dic-dih-ftn36]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 23 marzo 1952: AAS 44 (1952), pp. 270-278.
+[^cevii-dic-dih-ftn36]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 23 marzo 1952: *AAS* 44 (1952), pp. 270-278.
 
 [^cevii-dic-dih-ftn37]: Cfr. *<span class="BibleRef">[[At 4,29|At 4,29]]</span>*.
 
-[^cevii-dic-dih-ftn38]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), pp. 299-300 [in parte Dz 3996].
+[^cevii-dic-dih-ftn38]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), pp. 299-300 [in parte Dz 3996].
 
-[^cevii-dic-dih-ftn39]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), pp. 295-296.
+[^cevii-dic-dih-ftn39]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), pp. 295-296.
