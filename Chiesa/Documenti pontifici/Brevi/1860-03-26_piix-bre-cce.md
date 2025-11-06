@@ -52,7 +52,7 @@ La Chiesa Cattolica fondata e istituita da Cristo Signore per provvedere alla sa
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 26 marzo 1860, quattordicesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
