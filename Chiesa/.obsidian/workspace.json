@@ -104,9 +104,81 @@
               "icon": "lucide-file",
               "title": "1849-04-20_piix-all-quq"
             }
+          },
+          {
+            "id": "f4a752c4b3ea8c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papi/Scheda 266° papa - Francesco I.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scheda 266° papa - Francesco I"
+            }
+          },
+          {
+            "id": "bc378fe18568c551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papi/Scheda 267° papa - Leone XIV.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scheda 267° papa - Leone XIV"
+            }
+          },
+          {
+            "id": "c57bc9fbaa10c4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Esortazioni apostoliche/2013-11-24_fi-esa-evg.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2013-11-24_fi-esa-evg"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -306,10 +378,18 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "67276aa6bd9496ac",
+  "active": "f4a752c4b3ea8c96",
   "lastOpenFiles": [
-    "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.md",
+    "Documenti pontifici/Esortazioni apostoliche/2013-11-24_fi-esa-evg.md",
+    "Papi/Scheda 266° papa - Francesco I.md",
+    "Papi/Scheda 267° papa - Leone XIV.md",
+    "Papi/Scheda 265° papa - Benedetto XVI.md",
     "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.md",
+    "Papi/Scheda 264° papa - Giovanni Paolo II.md",
+    "Papi/Scheda 263° papa - Giovanni Paolo I.md",
+    "Papi/Scheda 262° papa - Paolo VI.md",
+    "Papi/Scheda 261° papa - Giovanni XXIII.md",
+    "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.md",
     "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.pdf",
     "Documenti pontifici/Allocuzioni/_Indice Allocuzioni.md",
     "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.pdf",
@@ -331,18 +411,11 @@
     "Papi/Scheda 251° papa - Pio VII.md",
     "Papi/Scheda 254° papa - Gregorio XVI.md",
     "Documenti pontifici/Allocuzioni/1800-03-28_pivii-all-ads.md",
-    "Papi/Scheda 264° papa - Giovanni Paolo II.md",
-    "Papi/Scheda 265° papa - Benedetto XVI.md",
-    "Papi/Scheda 266° papa - Francesco.md",
-    "Papi/Scheda 267° papa - Leone XIV.md",
     "Papi/Scheda 255° papa - Pio IX.md",
     "Papi/Scheda 247° papa - Benedetto XIV.md",
     "Papi/Scheda 248° papa - Clemente XIII.md",
     "Papi/Scheda 249° papa - Clemente XIV.md",
     "Papi/Scheda 250° papa - Pio VI.md",
-    "Papi/Scheda 252° papa - Leone XII.md",
-    "Papi/Scheda 253° papa - Pio VIII.md",
-    "Papi/Scheda 256° papa - Leone XIII.md",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
     "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
