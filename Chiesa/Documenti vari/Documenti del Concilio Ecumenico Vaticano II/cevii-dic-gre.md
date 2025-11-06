@@ -143,60 +143,60 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class
 NOTE:
 
 [^cevii-dic-gre-ftn1]: Tra i molti documenti che illustrano l’importanza dell’educazione cfr. soprattutto:
-	Benedetto XV, Lett. Apost. Communes Litteras, 10 aprile 1919: AAS 11 (1919), p. 172.
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, 31 dicembre 1929: AAS 22 (1930), pp. 49-86 [in parte Dz 3685-98].
+	Benedetto XV, Lett. Apost. Communes Litteras, 10 aprile 1919: *AAS* 11 (1919), p. 172.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, 31 dicembre 1929: *AAS* 22 (1930), pp. 49-86 [in parte Dz 3685-98].
 	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Giovani dell’A.C.I, 20 aprile 1946: Discorsi e Radiomessaggi, VIII, pp. 53-57.
 	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Padri di famiglia di Francia, 18 settembre 1951: Discorsi e Radiomessaggi, XIII, pp. 241-245.
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Messaggio per il trentesimo anniversario dell’emanazione dell’Enciclica Divini Illius Magistri, 30 dicembre 1959: AAS 52 (1960), pp. 57-59.
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Messaggio per il trentesimo anniversario dell’emanazione dell’Enciclica Divini Illius Magistri, 30 dicembre 1959: *AAS* 52 (1960), pp. 57-59.
 	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso ai membri della F.I.D.A.E. (Federazione Istituti Dipendenti dall’Autorità Ecclesiastica), 30 dicembre 1963: Encicliche e Discorsi di S. S. [[Scheda 262° papa - Paolo VI|Paolo VI]], I, Roma 1964, pp. 601-603.
 	Inoltre si consultino gli Acta et Documenta Concilii Oecumenici Vaticani II apparando, serie I, Antipreparatoria, vol. III, pp. 363-364, 370-371, 373-374.
 
-[^cevii-dic-gre-ftn2]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), pp. 413, 415-417, 424 [in parte Dz 3943 e 3948].
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 278s [in parte Dz 3986].
+[^cevii-dic-gre-ftn2]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), pp. 413, 415-417, 424 [in parte Dz 3943 e 3948].
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), p. 278s [in parte Dz 3986].
 
-[^cevii-dic-gre-ftn3]: Cfr. la Dichiarazione Universale dei diritti umani (Déclaration des droits de l’homme), ratificata il 10 dicembre 1948 dall’Assemblea Generale delle Nazioni Unite; e cfr. la Dichiarazione dei diritti del bambino, 20 nov. 1959; Protocollo aggiunto alla convenzione di salvaguardia dei diritti dell’uomo e delle libertà fondamentali, Parigi, 20 marzo 1952; circa questa Dichiarazione Universale dei diritti umani cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 295s.
+[^cevii-dic-gre-ftn3]: Cfr. la Dichiarazione Universale dei diritti umani (Déclaration des droits de l’homme), ratificata il 10 dicembre 1948 dall’Assemblea Generale delle Nazioni Unite; e cfr. la Dichiarazione dei diritti del bambino, 20 nov. 1959; Protocollo aggiunto alla convenzione di salvaguardia dei diritti dell’uomo e delle libertà fondamentali, Parigi, 20 marzo 1952; circa questa Dichiarazione Universale dei diritti umani cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), p. 295s.
 
-[^cevii-dic-gre-ftn4]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), p. 402.
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art17" name="cos-lug_art17">17</span>.|Lumen Gentium, n. 17]]: AAS 57 (1965), p. 21 [pag. 153ss].
+[^cevii-dic-gre-ftn4]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), p. 402.
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art17" name="cos-lug_art17">17</span>.|Lumen Gentium, n. 17]]: *AAS* 57 (1965), p. 21 [pag. 153ss].
 
-[^cevii-dic-gre-ftn5]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico Con sempre nuova freschezza, trasmesso il 24 dicembre 1942: AAS 35 (1943), pp. 12, 19.
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), pp. 259s [Dz 3960].
+[^cevii-dic-gre-ftn5]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico Con sempre nuova freschezza, trasmesso il 24 dicembre 1942: *AAS* 35 (1943), pp. 12, 19.
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), pp. 259s [Dz 3960].
 	Cfr. anche la Dichiarazione dei diritti dell’uomo citata alla nota [^cevii-dic-gre-ftn3].
 
-[^cevii-dic-gre-ftn6]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, 31 dicembre 1929: AAS 22 (1930), p. 50s.
+[^cevii-dic-gre-ftn6]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, 31 dicembre 1929: *AAS* 22 (1930), p. 50s.
 
-[^cevii-dic-gre-ftn7]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), p. 441s.
+[^cevii-dic-gre-ftn7]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), p. 441s.
 
-[^cevii-dic-gre-ftn8]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, 31 dicembre 1929: AAS 22 (1930), p. 83.
+[^cevii-dic-gre-ftn8]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, 31 dicembre 1929: *AAS* 22 (1930), p. 83.
 
-[^cevii-dic-gre-ftn9]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art36" name="cos-lug_art36">36</span>.|Lumen Gentium, n. 36]]: AAS 57 (1965), p. 41s [pag. 203ss].
+[^cevii-dic-gre-ftn9]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art36" name="cos-lug_art36">36</span>.|Lumen Gentium, n. 36]]: *AAS* 57 (1965), p. 41s [pag. 203ss].
 
 [^cevii-dic-gre-ftn10]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Missione pastorale dei Vescovi nella Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art12" name="dec-chd_art12">12</span>.|Christus Dominus, nn. 12]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art14" name="dec-chd_art14">14</span>.|14]]* (28 ottobre 1965) [pag. 359ss].
 
 [^cevii-dic-gre-ftn11]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, l.c. [nota 7], p. 59s;
-	Enciclica Mit brennender Sorge, 14 marzo 1937: AAS 29 (1937), p. 164s.
+	Enciclica Mit brennender Sorge, 14 marzo 1937: *AAS* 29 (1937), p. 164s.
 	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso al primo Congresso nazionale dell’Associazione Italiana Maestri cattolici (A.I.M.C.), 8 settembre 1946: Discorsi e Radiomessaggi, VIII, p. 218.
 
-[^cevii-dic-gre-ftn12]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art11" name="cos-lug_art11">11</span>.|Lumen Gentium, nn. 11]] e [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art35" name="cos-lug_art35">35</span>.|35]]: AAS 57 (1965), pp. 16 e 40s. [pag. 139ss e 201ss].
+[^cevii-dic-gre-ftn12]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art11" name="cos-lug_art11">11</span>.|Lumen Gentium, nn. 11]] e [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art35" name="cos-lug_art35">35</span>.|35]]: *AAS* 57 (1965), pp. 16 e 40s. [pag. 139ss e 201ss].
 
 [^cevii-dic-gre-ftn13]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, l.c. [nota 7] p. 63s. [Dz 3692-94].
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico trasmesso il 1° giugno 1941: AAS 33 (1941), p. 200;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico trasmesso il 1° giugno 1941: *AAS* 33 (1941), p. 200;
 	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso al primo Congresso nazionale dell’Associazione Italiana Maestri cattolici, 8 settembre 1946: Discorsi e Radiomessaggi, VIII, p. 218.
-	Circa il principio di sussidiarietà cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 294 [Dz 3994-95].
+	Circa il principio di sussidiarietà cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), p. 294 [Dz 3994-95].
 
 [^cevii-dic-gre-ftn14]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, l.c. [nota 7] pp. 53s [Dz 3685-86], 56s [in parte Dz 3688].
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Non abbiamo bisogno, 29 giugno 1931, AAS 23 (1931), p. 311s.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Non abbiamo bisogno, 29 giugno 1931, *AAS* 23 (1931), p. 311s.
 	[[Scheda 260° papa - Pio XII|Pio XII]], Lett. della Segreteria di Stato alla XXVIII Settimana Soc. Ital., 20 settembre 1955: L’Osservatore Romano, 29 settembre 1955.
 
-[^cevii-dic-gre-ftn15]: La Chiesa loda quelle autorità civili, locali, nazionali e internazionali che, coscienti delle più urgenti necessità del nostro tempo, applicano le loro forze perché tutti i popoli possano essere partecipi di una educazione completa e di una cultura umana. Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso all’Assemblea delle Nazioni Unite, 4 ottobre 1965: AAS 57 (1965), pp. 877-885].
+[^cevii-dic-gre-ftn15]: La Chiesa loda quelle autorità civili, locali, nazionali e internazionali che, coscienti delle più urgenti necessità del nostro tempo, applicano le loro forze perché tutti i popoli possano essere partecipi di una educazione completa e di una cultura umana. Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso all’Assemblea delle Nazioni Unite, 4 ottobre 1965: *AAS* 57 (1965), pp. 877-885].
 
-[^cevii-dic-gre-ftn16]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Motu proprio Orbem catholicum, 29 giugno 1923: AAS 15 (1923), pp. 327-329;
-	Decreto Provido sane, 12 genn. 1935: AAS 27 (1935), pp. 145-152.
+[^cevii-dic-gre-ftn16]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Motu proprio Orbem catholicum, 29 giugno 1923: *AAS* 15 (1923), pp. 327-329;
+	Decreto Provido sane, 12 genn. 1935: *AAS* 27 (1935), pp. 145-152.
 	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Missione pastorale dei Vescovi nella Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art13" name="dec-chd_art13">13</span>.|Christus Dominus, nn. 13]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art14" name="dec-chd_art14">14</span>.|14]]* (28 ottobre 1965) [pag. 361ss].
 
-[^cevii-dic-gre-ftn17]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art14" name="cos-sac_art14">14</span>.|Sacrosanctum Concilium, n. 14]]* (04 dicembre 1963) : AAS 56 (1964), p. 104 [pag. 28ss].
+[^cevii-dic-gre-ftn17]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art14" name="cos-sac_art14">14</span>.|Sacrosanctum Concilium, n. 14]]* (04 dicembre 1963) : *AAS* 56 (1964), p. 104 [pag. 28ss].
 
-[^cevii-dic-gre-ftn18]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sugli Strumenti di comunicazione sociale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm#<span class="art" id="dec-inm_art13" name="dec-inm_art13">13</span>.|Inter Mirifica, nn. 13]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm#<span class="art" id="dec-inm_art14" name="dec-inm_art14">14</span>.|14]]* (04 dicembre 1963) : AAS 56 (1964), p. 149s [pag. 105ss].
+[^cevii-dic-gre-ftn18]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sugli Strumenti di comunicazione sociale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm#<span class="art" id="dec-inm_art13" name="dec-inm_art13">13</span>.|Inter Mirifica, nn. 13]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm#<span class="art" id="dec-inm_art14" name="dec-inm_art14">14</span>.|14]]* (04 dicembre 1963) : *AAS* 56 (1964), p. 149s [pag. 105ss].
 
 [^cevii-dic-gre-ftn19]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, l.c. [nota 6], p. 76;
 	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso all’Associazione dei Maestri Cattolici della Baviera, 31 dicembre 1956: Discorsi e Radiomessaggi XVIII, p. 746.
@@ -205,11 +205,11 @@ NOTE:
 	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, l.c. [nota 6], pp. 60, 63s [in parte Dz 3693-95].
 
 [^cevii-dic-gre-ftn21]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Divini Illius Magistri, l.c. [nota 6], p. 63;
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Non abbiamo bisogno, 29 giugno 1931: AAS 23 (1931), p. 305.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Non abbiamo bisogno, 29 giugno 1931: *AAS* 23 (1931), p. 305.
 	[[Scheda 260° papa - Pio XII|Pio XII]], Lettera della Segreteria di Stato alla XXVIII Settimana Sociale Italiana, 20 settembre 1955: L’Osservatore Romano, 29 settembre 1955.
 	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso all’Associazione Cristiana Lavoratori Italiani (A.C.L.I.), 6 ottobre 1963: Encicliche e Discorsi di [[Scheda 262° papa - Paolo VI|Paolo VI]], I, Roma 1964, p. 230.
 
-[^cevii-dic-gre-ftn22]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Messaggio per il trentesimo anniversario dell’emanazione dell’Enciclica Divini Illius Magistri, 30 dicembre 1959: AAS 52 (1960), p. 57.
+[^cevii-dic-gre-ftn22]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Messaggio per il trentesimo anniversario dell’emanazione dell’Enciclica Divini Illius Magistri, 30 dicembre 1959: *AAS* 52 (1960), p. 57.
 
 [^cevii-dic-gre-ftn23]: La Chiesa dà grande valore all’azione apostolica che i maestri e i condiscepoli cattolici possono svolgere anche in queste scuole.
 
@@ -231,7 +231,7 @@ NOTE:
 
 [^cevii-dic-gre-ftn30]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso all’Associazione Cristiana Lavoratori Italiani (A.C.L.I.), 6 ottobre 1963: Encicliche e Discorsi di [[Scheda 262° papa - Paolo VI|Paolo VI]], I, Roma 1964, p. 229.
 
-[^cevii-dic-gre-ftn31]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso davanti al VI Congresso Tomistico Internazionale, 10 settembre 1965: AAS 57 (1965), pp. 788-792.
+[^cevii-dic-gre-ftn31]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso davanti al VI Congresso Tomistico Internazionale, 10 settembre 1965: *AAS* 57 (1965), pp. 788-792.
 
 [^cevii-dic-gre-ftn32]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso agli insegnanti e agli alunni degli Istituti Superiori Cattolici di Francia, 21 settembre 1950: Discorsi e Radiomessaggi, XII, pp. 219-221;
 	[[Scheda 260° papa - Pio XII|Pio XII]], Lettera al XXII Congresso “Pax Romana”, 12 ag. 1952: Discorsi e Radiomessaggi, XIV, pp. 567-569.
@@ -240,10 +240,10 @@ NOTE:
 
 [^cevii-dic-gre-ftn33]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al Senato Accademico e agli alunni dell’Università di Roma, 15 giugno 1952: Discorsi e Radiomessaggi, XIV, p. 208: “La direzione della società di domani è principalmente riposta nella mente e nel cuore degli universitari di oggi”.
 
-[^cevii-dic-gre-ftn34]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Costituzione Apostolica Deus Scientiarum Dominus, 24 maggio 1931: AAS 23 (1931), pp. 245-247.
+[^cevii-dic-gre-ftn34]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Costituzione Apostolica Deus Scientiarum Dominus, 24 maggio 1931: *AAS* 23 (1931), pp. 245-247.
 
-[^cevii-dic-gre-ftn35]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]] Enciclica Humani Generis, 12 ag. 1950: AAS 42 (1950), pp. 568s. [in parte Dz 3886-87; Collantes 7.203-04 e 2.076], 578.
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, Parte III, 6 ag. 1964: AAS 56 (1964), pp. 637-659.
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr|Unitatis Redintegratio]]* (21 novembre 1964) : AAS 57 (1965), pp. 90-107.
+[^cevii-dic-gre-ftn35]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]] Enciclica Humani Generis, 12 ag. 1950: *AAS* 42 (1950), pp. 568s. [in parte Dz 3886-87; Collantes 7.203-04 e 2.076], 578.
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, Parte III, 6 ag. 1964: *AAS* 56 (1964), pp. 637-659.
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr|Unitatis Redintegratio]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 90-107.
 
-[^cevii-dic-gre-ftn36]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: AAS 55 (1963), p. 284 [Dz 3989] e passim
+[^cevii-dic-gre-ftn36]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963: *AAS* 55 (1963), p. 284 [Dz 3989] e passim
