@@ -24,7 +24,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/pius-vi/it/documents/bolla-auctorem-fidei-28-agosto-1794.html)"
 creato: 2025/10/27 15:39:12
-modificato: 2025/10/27 15:39:12
+modificato: 2025/11/03 09:33:21
 ---
 
 
@@ -48,7 +48,7 @@ Il Vescovo Pio, Servo dei servi di Dio.<br>A tutti i Cristiani, salute e Apostol
 
 ###### 1.
 
-Tenendo fisso lo sguardo su Gesù, autore e perfezionatore della fede, l’Apostolo (*<span class="BibleRef">[[Eb 12|Eb 12]]</span>*) vuole che ripensiamo a quale e quanto grande contraddittorio egli dovette sostenere da parte dei peccatori contro lui stesso, affinché noi, stanchi per le fatiche e i pericoli, non ci perdiamo talvolta d’animo e non rimaniamo pressoché soccombenti.<br>Tenendo fermo questo salutare pensiero, è assolutamente necessario che noi ci fortifichiamo e ristoriamo quando contro lo stesso Corpo di Cristo, che è la Chiesa (*<span class="BibleRef">[[Col 1|Col 1]]</span>*), più veemente avvampa l’ardore di codesta feroce, interminabile congiura, affinché, confortati dal Signore e nella potenza della sua virtù, protetti dallo scudo della fede, possiamo resistere nei giorni del male ed estinguere tutti gl’infuocati dardi del maligno (*<span class="BibleRef">[[Ef 6|Ef 6]]</span>*).<br>In questo sconvolgimento dei tempi, in questa orribile confusione, tutti i buoni debbono sostenere una dura lotta nella quale i nemici combattono contro tutti coloro che hanno il nome cristiano; più dura per Noi, cui incombe un impegno maggiore per la Religione Cristiana in quanto Ci sono affidati la cura e il governo pastorale di tutto il gregge (**San Siricio** *ad Imerio di Tarragona, Lettera 1* presso il Coust).<br>Ma pure nella stessa gravezza di questo peso caricato sui Nostri omeri, cioè «*di portare i pesi di tutti coloro che sono gravati*», quanto più Noi siamo consapevoli della Nostra debolezza tanto più Ci solleva ad una più ferma speranza la divina istituzione di questo apostolico ministero, talmente stabilito nella persona del **beato Pietro** che, non dovendo questi giammai abbandonare il governo della Chiesa che gli era stato affidato da Cristo, neppure tralasciasse mai di portare i pesi dell’impegno apostolico, trasferito in coloro che Dio gli aveva affidato quali successori da sostenere e proteggere in tutta la serie perpetua. `class: paragrafoNorm`
+Tenendo fisso lo sguardo su Gesù, autore e perfezionatore della fede, l’Apostolo (*<span class="BibleRef">[[Eb 12|Eb 12]]</span>*) vuole che ripensiamo a quale e quanto grande contraddittorio egli dovette sostenere da parte dei peccatori contro lui stesso, affinché noi, stanchi per le fatiche e i pericoli, non ci perdiamo talvolta d’animo e non rimaniamo pressoché soccombenti.<br>Tenendo fermo questo salutare pensiero, è assolutamente necessario che noi ci fortifichiamo e ristoriamo quando contro lo stesso Corpo di Cristo, che è la Chiesa (*<span class="BibleRef">[[Col 1|Col 1]]</span>*), più veemente avvampa l’ardore di codesta feroce, interminabile congiura, affinché, confortati dal Signore e nella potenza della sua virtù, protetti dallo scudo della fede, possiamo resistere nei giorni del male ed estinguere tutti gl’infuocati dardi del maligno (*<span class="BibleRef">[[Ef 6|Ef 6]]</span>*).<br>In questo sconvolgimento dei tempi, in questa orribile confusione, tutti i buoni debbono sostenere una dura lotta nella quale i nemici combattono contro tutti coloro che hanno il nome cristiano; più dura per Noi, cui incombe un impegno maggiore per la Religione Cristiana in quanto Ci sono affidati la cura e il governo pastorale di tutto il gregge (**San Siricio** *ad Imerio di Tarragona, Lettera 1* presso il Coust).<br>Ma pure nella stessa gravezza di questo peso caricato sui Nostri omeri, cioè «*di portare i pesi di tutti coloro che sono gravati*», quanto più Noi siamo consapevoli della Nostra debolezza tanto più Ci solleva ad una più ferma speranza la divina istituzione di questo apostolico ministero, talmente stabilito nella persona del **Beato Pietro** che, non dovendo questi giammai abbandonare il governo della Chiesa che gli era stato affidato da Cristo, neppure tralasciasse mai di portare i pesi dell’impegno apostolico, trasferito in coloro che Dio gli aveva affidato quali successori da sostenere e proteggere in tutta la serie perpetua. `class: paragrafoNorm`
 
 
 ###### 2.
@@ -143,7 +143,7 @@ ERETICA. `class: paragrafoNorm`
 
 ###### III
 
-Inoltre la proposizione che stabilisce «*essere il Romano Pontefice Capo Ministeriale*»;<br><br>Così spiegata, che il Romano Pontefice non da Cristo in persona del Beato Pietro, ma dalla Chiesa riceva la potestà del Ministero, che ha nella Chiesa universale come successore di Pietro, vero Vicario di Cristo, e Capo di tutta la Chiesa; `class: paragrafoNorm`
+Inoltre la proposizione che stabilisce «*essere il Romano Pontefice Capo Ministeriale*»;<br><br>Così spiegata, che il Romano Pontefice non da Cristo in persona del **Beato Pietro**, ma dalla Chiesa riceva la potestà del Ministero, che ha nella Chiesa universale come successore di **Pietro**, vero Vicario di Cristo, e Capo di tutta la Chiesa; `class: paragrafoNorm`
 
 
 ERETICA. `class: paragrafoNorm`
@@ -281,641 +281,1143 @@ FALSE, CAPZIOSE, TEMERARIE, SCANDALOSE, INGIURIOSE VERSO I ROMANI PONTEFICI E LA
 ***
 
 
+### DELLA PACE DETTA DI CLEMENTE IX.
 
 
-###### 24.
+#### Orazione al Sinodo, § 2, nella nota.
 
-X. `class: paragrafoNorm`
 
+###### XIII
 
-###### 25.
+La proposizione riportata negli Atti del Sinodo, la quale accenna aver Clemente IX restituito la pace alla Chiesa con l’approvazione della distinzione del diritto e del fatto nella sottoscrizione del formulario prescritto da Alessandro VII; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+FALSA, TEMERARIA, INGIURIOSA CONTRO CLEMENTE IX. `class: paragrafoNorm`
 
-###### 26.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 27.
+###### XIV
 
-X. `class: paragrafoNorm`
+ In quanto poi favorisce detta distinzione, lodando i suoi fautori e biasimando i loro avversari; `class: paragrafoNorm`
 
 
-###### 28.
+TEMERARIA, PERNICIOSA, INGIURIOSA VERSO I SOMMI PONTEFICI, FOMENTATRICE DELLO SCISMA E DELL’ERESIA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 29.
 
-X. `class: paragrafoNorm`
+### DELLA FORMAZIONE DEL CORPO DELLA CHIESA.
 
 
-###### 30.
+#### Appendice n. 28.
 
-X. `class: paragrafoNorm`
 
+###### XV
 
-###### 31.
+La dottrina che propone la Chiesa «*da considerarsi come un Corpo mistico che si forma di Gesù Cristo, che ne è il Capo, e dei fedeli che ne sono le membra per una unione ineffabile, per cui diventiamo mirabilmente con Lui un solo sacerdote, una sola vittima, un solo adoratore perfetto di Dio Padre in Spirito e Verità*»;<br><br>Intesa in questo senso, che al Corpo della Chiesa non appartengano se non i fedeli che sono adoratori perfetti in Spirito e verità; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+ERETICA. `class: paragrafoNorm`
 
-###### 32.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 33.
+### DELLO STATO D’INNOCENZA.
 
-X. `class: paragrafoNorm`
 
+#### Della Grazia, §§ 4, 7; dei Sacramenti in genere, § 1; della Penitenza, § 4.
 
-###### 34.
 
-X. `class: paragrafoNorm`
+###### XVI
 
+La dottrina del Sinodo sullo stato di felice innocenza, quale rappresentata in Adamo prima del peccato, comprendente non solo l’integrità, ma anche la giustizia interiore con la tendenza in Dio per l’amore di carità, e la primiera santità in qualche maniera restituita dopo la caduta;<br><br>In quanto che, presa complessivamente, indica che quello stato fu conseguenza della creazione, dovuto per naturale esigenza e condizione dell’umana natura, non gratuito beneficio di Dio; `class: paragrafoNorm`
 
-###### 35.
 
-X. `class: paragrafoNorm`
+FALSA, ALTRE VOLTE CONDANNATA IN BAJO E QUESNEL, ERRONEA, FAVOREVOLE ALL’ERESIA PELAGIANA. `class: paragrafoNorm`
 
 
-###### 36.
+***
 
-X. `class: paragrafoNorm`
 
+### DELL’IMMORTALITÀ CONSIDERATA COME NATURALE CONDIZIONE DELL’UOMO.
 
-###### 37.
 
-X. `class: paragrafoNorm`
+#### Battesimo, § 2.
 
 
-###### 38.
+###### XVII
 
-X. `class: paragrafoNorm`
+La proposizione concepita con queste parole: «*Ammaestrati dall’Apostolo consideriamo la morte non già come una naturale condizione dell’uomo, ma in verità come una giusta pena della colpa originale*»;<br><br>In quanto sotto il nome dell’Apostolo ingannevolmente allegato insinua che la morte (la quale nello stato presente è inflitta come una giusta pena del peccato, come giusta sottrazione dell’immortalità), non sia stata naturale condizione dell’uomo, quasi che l’immortalità non fosse stata un gratuito beneficio, ma naturale condizione; `class: paragrafoNorm`
 
 
-###### 39.
+CAPZIOSA, TEMERARIA, INGIURIOSA NEI CONFRONTI DELL’APOSTOLO, ALTRA VOLTA CONDANNATA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 40.
 
-X. `class: paragrafoNorm`
+### DELLA CONDIZIONE DELL’UOMO NELLO STATO DI NATURA.
 
 
-###### 41.
+#### Della Grazia, § 10.
 
-X. `class: paragrafoNorm`
 
+###### XVIII
 
-###### 42.
+La dottrina del Sinodo la quale enuncia che «*dopo la caduta di Adamo Iddio annunziò la promessa di un futuro Liberatore, e volle consolare il genere umano con la speranza della salute che ci doveva recare Gesù Cristo nondimeno il Signore volle che il genere umano passasse per varie condizioni prima che venisse la pienezza dei tempi*», e primieramente affinché nello stato di natura «*l’uomo abbandonato ai proprii lumi imparasse a diffidare della sua cieca ragione, e dai traviamenti in cui cadde si movesse a desiderare il soccorso di un lume superiore*»;<br><br>Dottrina, come è espressa, capziosa, e ispirata dal desiderio dell’aiuto di un lume superiore in ordine alla salute promessa per mezzo di Cristo, a concepire il quale si supponga che l’uomo abbandonato ai proprii lumi si sia potuto muovere da solo; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+SOSPETTA, FAVOREVOLE ALL’ERESIA SEMIPELAGIANA. `class: paragrafoNorm`
 
-###### 43.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 44.
+### DELLA CONDIZIONE DELL’UOMO SOTTO LA LEGGE.
 
-X. `class: paragrafoNorm`
 
+#### Della Grazia, § 10.
 
-###### 45.
 
-X. `class: paragrafoNorm`
+###### XIX
 
+Parimenti quella dottrina la quale sostiene che l’uomo sotto la legge «*essendo impotente ad osservarla, divenne prevaricatore, non già per colpa della legge che era santissima, ma per colpa dell’uomo stesso, che sotto la legge senza la grazia divenne vieppiù peccatore*» e soggiunge che «*la legge se non riuscì a sanare il cuore dell’uomo, servì a fargli conoscere i suoi mali e, convinto della sua debolezza, a fargli desiderare la grazia del Mediatore*»;<br><br>In quella parte in cui accenna in generale che l’uomo divenne prevaricatore per l’inosservanza della legge che era impotente ad osservare, quasi che «*colui che è giusto abbia potuto comandare qualcosa d’impossibile, o sia per condannare l’uomo pio per ciò che non poté evitare*» (**San Cesario**, *Serm*. 73 nell’Appendice di Sant’Agostino; *Serm*. 273 dell’Ediz. Maur; **Sant’Agostino**, *De Nat. et Gr.*, cap. 43; *De Grat. et lib. arb.*, cap. 16; *Enarr. in Psal.* 56, n. 1); `class: paragrafoNorm`
 
-###### 46.
+FALSA, SCANDALOSA, EMPIA, CONDANNATA IN BAJO. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 47.
 
-X. `class: paragrafoNorm`
+###### XX
 
+In quella parte in cui si dà ad intendere che l’uomo sotto la legge, senza la grazia abbia potuto concepire il desiderio della grazia del Mediatore ordinato alla salute promessa per mezzo di Cristo; quasi che «*non sia la grazia stessa che faccia che si invochi da noi*» (Dal *Secondo Concilio di Oranges*, can. 3); `class: paragrafoNorm`
 
-###### 48.
 
-X. `class: paragrafoNorm`
+PROPOSIZIONE, COME È ESPRESSA, CAPZIOSA, SOSPETTA, FAVOREVOLE ALL’ERESIA SEMIPELAGIANA. `class: paragrafoNorm`
 
 
-###### 49.
+***
 
-X. `class: paragrafoNorm`
 
+### DELLA GRAZIA ILLUMINANTE ED ECCITANTE.
 
-###### 50.
 
-X. `class: paragrafoNorm`
+#### Della grazia, § 11.
 
 
-###### 51.
+###### XXI
 
-X. `class: paragrafoNorm`
+La proposizione la quale asserisce che «*il lume della grazia, quando sia solo, non serve che a farci conoscere l’infelicità del nostro stato e la gravezza del nostro male; che la grazia in tal caso produce lo stesso effetto che produceva la legge; quindi essere necessario che il Signore crei nel nostro cuore un santo amore e ispiri un santo piacere contrario all’amore che ci domina; che questo santo amore, questo santo piacere sono propriamente la grazia di Gesù Cristo: cioè l’ispirazione della carità, conosciuta la quale siamo nell’amore santo; che questa è la radice da cui germinano le opere buone; che questa è la grazia del nuovo Testamento, che ci libera dalla schiavitù del peccato e ci rende figli di Dio*»;<br><br>In quanto intenda che la grazia di Gesù Cristo sia la sola che crea nel cuore un santo amore e fa sì che operiamo, o anche che con essa l’uomo, liberato dalla schiavitù del peccato, viene costituito figlio di Dio, e non sia anche propriamente grazia di Gesù Cristo quella grazia con la quale il cuore dell’uomo viene toccato mediante l’illuminazione dello Spirito Santo (*Conc. Trid.*, sess. 6, cap. 5), né si dia vera grazia interiore di Cristo cui si resiste; `class: paragrafoNorm`
 
 
-###### 52.
+FALSA, CAPZIOSA, CHE INDUCE NELL’ERRORE CONDANNATO NELLA SECONDA PROPOSIZIONE DI GIANSENIO COME ERETICO, E RINNOVANTE LO STESSO ERRORE. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 53.
 
-X. `class: paragrafoNorm`
+### DELLA FEDE COME PRIMA GRAZIA.
 
 
-###### 54.
+#### Della Fede, § 1
 
-X. `class: paragrafoNorm`
 
+###### XXII
 
-###### 55.
+La proposizione la quale dice che la Fede «*dalla quale incomincia la concatenazione delle grazie, e per mezzo della quale come prima voce siamo chiamati alla salute ed alla Chiesa*», è la stessa eccellente virtù della Fede, per la quale gli uomini si denominano e sono fedeli; quasi che non fosse precedente quella grazia, la quale «*come previene la volontà, così previene anche la fede*» (**Sant’Agostino**, *De dono perseverantiae*, c. 16, n. 41); `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+SOSPETTA D’ERESIA, AFFINE AD ALTRA CONDANNATA IN QUESNEL, ERRONEA. `class: paragrafoNorm`
 
-###### 56.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 57.
+###  DEL DOPPIO AMORE.
 
-X. `class: paragrafoNorm`
 
+#### Della Grazia, § 8.
 
-###### 58.
 
-X. `class: paragrafoNorm`
+###### XXIII
 
+La dottrina del Sinodo del doppio amore della cupidigia dominante e della carità dominante, la quale afferma che l’uomo senza la grazia è sotto la schiavitù del peccato, e che egli in tale stato, per il generale influsso della cupidigia dominante, guasta tutte le proprie azioni e le corrompe;<br><br>In quanto insinua che nell’uomo, mentre è sotto la schiavitù, ossia nello stato del peccato, privo di quella grazia mediante la quale è liberato dalla schiavitù del peccato e viene costituito figlio di Dio, talmente domini la cupidigia in modo che per il generale influsso di questa tutte le sue azioni in se stesse siano infette e corrotte, o tutte le opere, che si fanno prima della giustificazione, in qualsivoglia maniera si facciano, siano peccati;<br><br>Quasi che in tutte le sue azioni il peccatore serva alla cupidigia dominante; `class: paragrafoNorm`
 
-###### 59.
 
-X. `class: paragrafoNorm`
+FALSA, PERNICIOSA, INDUCE NELL’ERRORE CONDANNATO DAL TRIDENTINO COME ERETICO, DI NUOVO CONDANNATO IN BAJO, ART. 40. `class: paragrafoNorm`
 
 
-###### 60.
+***
 
-X. `class: paragrafoNorm`
 
+#### Della Grazia, § 12.
 
-###### 61.
 
-X. `class: paragrafoNorm`
+###### XXIV
 
+In quella parte, poi, in cui fra la cupidigia dominante e la carità dominante non si pongono affetti intermedi inseriti dalla natura stessa e di loro natura lodevoli, i quali insieme con l’amore della beatitudine e con la naturale propensione al bene «*rimasero come gli estremi lineamenti e reliquie dell’immagine di Dio*» (**Sant’Agostino**, *De Spir. et litt.*, cap. 28);<br><br>Quasi che «*fra l’amore divino che ci conduce al regno e l’amore umano illecito, che viene riprovato*», non esistesse «*l’amore umano lecito, che non si riprende*» (**Sant’Agostino**, *Serm.* 349, *De Carit.*, dell’Ediz. Maur); `class: paragrafoNorm`
 
-###### 62.
 
-X. `class: paragrafoNorm`
+FALSA ALTRE VOLTE CONDANNATA. `class: paragrafoNorm`
 
 
-###### 63.
+***
 
-X. `class: paragrafoNorm`
 
+### DEL TIMORE SERVILE.
 
-###### 64.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, § 3.
 
 
-###### 65.
+###### XXV
 
-X. `class: paragrafoNorm`
+La dottrina la quale genericamente afferma che il timore delle pene «*soltanto non possa dirsi cattivo se arriva almeno a frenare la mano*»;<br><br>Quasi lo stesso timore dell’inferno, che la Fede insegna doversi infliggere al peccato, non sia in sé buono e utile, come un dono soprannaturale e un movimento ispirato da Dio, che prepara all’amore della giustizia; `class: paragrafoNorm`
 
 
-###### 66.
+FALSA, TEMERARIA, PERNICIOSA, INGIURIOSA DEI DONI DIVINI, ALTRA VOLTA CONDANNATA, CONTRARIA ALLA DOTTRINA DEL CONCILIO DI TRENTO, COME ANCORA AL COMUNE SENTIMENTO DEI PADRI, «*ESSENDO D’UOPO*» SECONDO L’ORDINE CONSUETO DELLA PREPARAZIONE ALLA GIUSTIZIA, «*CHE ENTRI PRIMIERAMENTE IL TIMORE PER MEZZO DEL QUALE VENGA LA CARITÀ: IL TIMORE MEDICINA, LA CARITÀ SANITÀ»* (**Sant’Agostino**, in *Epist. Johan*., c. 4; Tract. 9, n. 4, 5; *in Johan. Evang.*, Tract., 41, n. 10; *Enar. in Psal.* 127, n. 7; *Sermone* 147, *De Verbis Apostoli*, c. 13; *Sermone* 161, *De Verbis Apostoli*, n. 8: *Sermone* 349, *De Charitate*, n. 7). `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 67.
 
-X. `class: paragrafoNorm`
+### DELLA PENA DI QUELLI CHE MUOIONO COL SOLO PECCATO ORIGINALE.
 
 
-###### 68.
+#### Del Battesimo, § 3.
 
-X. `class: paragrafoNorm`
 
+###### XXVI
 
-###### 69.
+La dottrina che rigetta come una favola Pelagiana quel luogo dell’Inferno (che i fedeli comunemente chiamano Limbo dei fanciulli) nel quale le anime di coloro che muoiono con la sola colpa originale sono puniti con la pena di danno, senza la pena del fuoco;<br><br>Quasi che coloro i quali escludono la pena del fuoco, per questo stesso introducessero quel luogo e quello stato di mezzo privo di colpa e di pena fra il Regno di Dio e la dannazione eterna, come favoleggiavano i Pelagiani; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+FALSA, TEMERARIA, INGIURIOSA ALLE SCUOLE CATTOLICHE. `class: paragrafoNorm`
 
-###### 70.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 71.
+### DEI SACRAMENTI, E PRIMIERAMENTE DELLA FORMA SACRAMENTALE CONDIZIONALE.
 
-X. `class: paragrafoNorm`
 
+#### Del Battesimo, § 12.
 
-###### 72.
 
-X. `class: paragrafoNorm`
+###### XXVII
 
+La deliberazione del Sinodo, con la quale sotto pretesto di attenersi agli antichi canoni dichiara la sua intenzione di non voler far menzione di formula condizionale nel caso di Battesimo dubbio, `class: paragrafoNorm`
 
-###### 73.
 
-X. `class: paragrafoNorm`
+TEMERARIA, CONTRARIA ALLA PRATICA, ALLA LEGGE, ALL’AUTORITÀ DELLA CHIESA. `class: paragrafoNorm`
 
 
-###### 74.
+***
 
-X. `class: paragrafoNorm`
 
+### DELLA PARTECIPAZIONE ALLA VITTIMA NEL SACRIFICIO DELLA MESSA.
 
-###### 75.
 
-X. `class: paragrafoNorm`
+#### Della Eucaristia, § 6.
 
 
-###### 76.
+###### XXVIII
 
-X. `class: paragrafoNorm`
+La proposizione del Sinodo con la quale, dopo aver stabilito «*che una parte essenziale al Sacrificio è la partecipazione alla Vittima*», soggiunge che «*non condanna però come illecite quelle Messe nelle quali gli astanti non si comunicano sacramentalmente, atteso che essi partecipano sebbene in modo meno perfetto a questa Vittima, ricevendola con lo spirito*»;<br><br>In quanto insinua che manca qualche cosa all’essenza del Sacrificio che viene offerto senza assistenti, o essendovi presenti coloro che non partecipano né sacramentalmente, né spiritualmente della vittima: e quasi si dovessero condannare come illecite quelle Messe in cui il solo sacerdote si comunica, mentre nessun altro si comunica o sacramentalmente, o spiritualmente, `class: paragrafoNorm`
 
 
-###### 77.
+FALSA, ERRONEA, SOSPETTA DI ERESIA, E SA DI ERESIA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 78.
 
-X. `class: paragrafoNorm`
+### DELL’EFFICACIA DEL RITO DELLA CONSACRAZIONE.
 
 
-###### 79.
+#### Dell’Eucaristia,* § 2.
 
-X. `class: paragrafoNorm`
 
+###### XXIX
 
-###### 80.
+La dottrina del Sinodo in quella parte nella quale, cominciando ad esporre la dottrina della Fede circa il rito della Consacrazione, rimosse le questioni scolastiche sul modo in cui Gesù Cristo è nell’Eucaristia (dalle quali esorta i parroci che hanno l’incarico d’insegnare a volersene astenere), propone soltanto queste due cose: `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
+1. Che Gesù Cristo dopo la consacrazione è veramente, realmente, sostanzialmente sotto le specie; `class: paragrafoNorm`
+2. Che allora cessi tutta la sostanza del pane del vino rimanendovi le sole specie, ma omette completamente di menzionare la transustanziazione, ossia la conversione di tutta la sostanza del pane nel Corpo, e di tutta la sostanza del vino nel Sangue, quale il Concilio di Trento ha definito come articolo di Fede, e come si racchiude nella solenne professione di Fede;<br><br>Poiché per questa sconsiderata e sospetta omissione si sottrae la notizia di un articolo appartenente alla Fede, e anche di un vocabolo consacrato dalla Chiesa per conservare la professione di quell’articolo contro le eresie, e perciò tende ad indurre la dimenticanza di esso, come se si trattasse di una questione meramente scolastica; `class: paragrafoNorm`
 
 
-###### 81.
+PERNICIOSA, DEROGANTE ALL’ESPOSIZIONE DELLA VERITÀ CATTOLICA CIRCA IL DOGMA DELLA TRANSUSTANZIAZIONE, FAVOREVOLE AGLI ERETICI. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 82.
 
-X. `class: paragrafoNorm`
+### DELL’APPLICAZIONE DEL FRUTTO DEL SACRIFICIO.
 
 
-###### 83.
+#### Dell’Eucaristia, § 8.
 
-X. `class: paragrafoNorm`
 
+###### XXX
 
-###### 84.
+La dottrina del Sinodo con la quale mentre professa «*di credere che l’offerta del Sacrificio si estenda a tutti, in maniera tale però che nella liturgia possa farsi speciale* **commemorazione** *di alcuni tanto vivi che defunti, pregando Iddio per essi in modo particolare*», subito dopo soggiunge «*non già che noi crediamo essere in arbitrio del sacerdote l’applicare i frutti del Sacrificio a chi egli vuole, anzi condanniamo questo errore come offensivo grandemente dei diritti di Dio, il quale solo distribuisce i frutti del Sacrificio a chi egli vuole, e secondo la misura che a lui piace*» conseguentemente considera come «*falsa l’opinione introdotta nel popolo secondo la quale coloro che fanno un’elemosina al sacerdote a condizione che egli celebri una Messa, ne ricevono un frutto speciale*»;<br><br>Intesa nel senso che l’oblazione speciale o l’applicazione del Sacrificio, fatta dal sacerdote, oltre la commemorazione particolare e la preghiera non servirebbe, a parità delle altre condizioni, più a quelli per cui è applicata che a tutti gli altri, come se nessun frutto speciale provenisse dall’applicazione speciale, raccomandata o ordinata dalla Chiesa per persone determinate o categorie determinate di persone, specialmente per i fedeli da parte dei loro pastori: il che dal Concilio di Trento è stato chiaramente espresso come derivante da precetto divino (Sess. 23, cap. I, *De Reformatione*; [[Scheda 247° papa - Benedetto XIV|Benedetto XIV]] nella Costituzione *[[Documenti pontifici/Encicliche/1744-08-19_bxiv-enc-cso#2.|Cum semper oblatas, § 2]]*); `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+FALSA, TEMERARIA, PERNICIOSA, INGIURIOSA PER LA CHIESA, INDUCE NELL’ERRORE IN ALTRO TEMPO CONDANNATO IN WICLEFF. `class: paragrafoNorm`
 
-###### 85.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 86.
+### DELL’ORDINE CONVENIENTE DA OSSERVARSI NEL CULTO.
 
-X. `class: paragrafoNorm`
 
+#### Dell’Eucaristia, § 5.
 
-###### 87.
 
-X. `class: paragrafoNorm`
+###### XXXI
 
+La proposizione del Sinodo la quale dice essere conveniente, secondo l’ordine dei divini uffici e secondo l’antica consuetudine, che in ciascun tempio vi sia un solo altare; perciò gradirebbe che si ristabilisse tale uso; `class: paragrafoNorm`
 
-###### 88.
 
-X. `class: paragrafoNorm`
+TEMERARIA, INGIURIOSA AL COSTUME MOLTO ANTICO, PIO, VIGENTE DA MOLTI SECOLI PARTICOLARMENTE NELLA CHIESA LATINA, ED APPROVATO. `class: paragrafoNorm`
 
 
-###### 89.
+***
 
-X. `class: paragrafoNorm`
 
+#### Dell’Eucaristia.
 
-###### 90.
 
-X. `class: paragrafoNorm`
+###### XXXII
 
+Similmente la prescrizione che proibisce di porre sugli altari reliquiarii o fiori; `class: paragrafoNorm`
 
-###### 91.
 
-X. `class: paragrafoNorm`
+TEMERARIA, INGIURIOSA AL PIO E APPROVATO COSTUME DELLA CHIESA. `class: paragrafoNorm`
 
 
-###### 92.
+***
 
-X. `class: paragrafoNorm`
 
+#### Dell’Eucaristia, § 6.
 
-###### 93.
 
-X. `class: paragrafoNorm`
+###### XXXIII
 
+La proposizione del Sinodo, la quale mostra di desiderare che si tolgano quei motivi, per i quali si è in parte indotta la dimenticanza dei principi relativi all’ordine della liturgia, «*col richiamarla ad una maggiore semplicità di riti, con esporla in lingua volgare, e con proferirla con voce alta*»;<br><br>Quasi che l’ordine vigente della liturgia ricevuto ed approvato dalla Chiesa provenga in parte dall’oblio dei principi sui quali essa deve reggersi; `class: paragrafoNorm`
 
-###### 94.
 
-X. `class: paragrafoNorm`
+TEMERARIA, OFFENSIVA DELLE PIE ORECCHIE, CONTUMELIOSA CONTRO LA CHIESA, FAVOREVOLE ALLE MALDICENZE DEGLI ERETICI CONTRO LA CHIESA STESSA. `class: paragrafoNorm`
 
 
-###### 95.
+***
 
-X. `class: paragrafoNorm`
 
+### DELL’ORDINE DELLA PENITENZA.
 
-###### 96.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, § 7.
 
 
-###### 97.
+###### XXXIV
 
-X. `class: paragrafoNorm`
+La dichiarazione del Sinodo con la quale, dopo aver premesso che l’ordine della Penitenza canonica fu stabilito dalla Chiesa in modo che, seguendo gli esempi degli Apostoli, fosse a tutti comune, né soltanto per punizione della colpa ma principalmente per disposizione alla grazia, aggiunge che «*in quell’ordine meraviglioso ed augusto riconosce tutta la dignità di un Sacramento tanto necessario, sgombra dalle sottigliezze che vi si unirono col tempo*»;<br><br>Quasi che a cagione dell’ordine per cui, senza essersi fatto il corso della Penitenza canonica, questo Sacramento viene amministrato per tutta la Chiesa, ne fosse diminuita la dignità; `class: paragrafoNorm`
 
 
-###### 98.
+TEMERARIA, SCANDALOSA, INDUCENTE AL DISPREZZO DELLA DIGNITÀ DEL SACRAMENTO COME SOLITAMENTE VIENE AMMINISTRATO IN TUTTA LA CHIESA; INGIURIOSA PER LA CHIESA STESSA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 99.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, § 10, n. 4.
 
 
-###### 100.
+###### XXXV
 
-X. `class: paragrafoNorm`
+La proposizione concepita con queste parole: «*Se la carità sul principio è sempre debole normalmente per ottenere l’aumento di questa carità il sacerdote deve far precedere quegli atti di umiliazione e di penitenza, che furono tanto raccomandati in ogni età dalla Chiesa. Il ridurre questi atti a poche orazioni o a qualche digiuno dopo aver già conferito l’assoluzione, sembra piuttosto un desiderio materiale di conservare a questo Sacramento il nudo nome di Penitenza, che un mezzo illuminato e valevole ad accrescere quel fervore di carità che deve precedere l’assoluzione. Noi siamo ben lontani dal disapprovare la pratica d’imporre penitenze da farsi anche dopo l’assoluzione; se ogni nostra opera buona viene sempre accompagnata dalle nostre mancanze, quanto più dobbiamo temere di non avere unite moltissime imperfezioni nell’opera difficilissima ed importante della nostra riconciliazione*»;<br><br>In quanto indica che le penitenze che si debbono compiere dopo l’assoluzione debbono essere considerate piuttosto come un supplemento per i difetti commessi nell’opera della nostra riconciliazione, che come penitenze veramente sacramentali e risarcitorie per i peccati confessati, quasi che per conservare la vera ragione del Sacramento, non il nudo nome, sia necessario ordinariamente salvare gli atti di umiliazione e di penitenza che vengono imposti quale soddisfazione sacramentale e che debbono precedere l’assoluzione; `class: paragrafoNorm`
 
 
-###### 101.
+FALSA, TEMERARIA, INGIURIOSA ALLA COMUNE PRATICA DELLA CHIESA, INDUCENTE NELL’ERRORE CONDANNATO CON NOTA ERETICALE IN PIETRO D’OSMA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 102.
 
-X. `class: paragrafoNorm`
+### DELLA PREVIA NECESSARIA DISPOSIZIONE PER AMMETTERE I PENITENTI ALLA RICONCILIAZIONE.
 
 
-###### 103.
+#### Della Grazia, § 15.
 
-X. `class: paragrafoNorm`
 
+###### XXXVI
 
-###### 104.
+La dottrina del Sinodo con la quale, dopo aver premesso che «*quando si avranno segni non equivoci dell’amore di Dio dominante nel cuore dell’uomo questi potrà con ragione essere ritenuto degno di essere ammesso alla partecipazione del Sangue di Gesù Cristo che si fa nei Sacramenti*», aggiunge che «*le pretese conversioni operate per contrizione solitamente non sono né efficaci né durevoli*»; per conseguenza «*il pastore delle anime dovrà attenersi a segni non equivoci di una carità dominante prima di ammettere ai Sacramenti i suoi penitenti*»; quali segni, come dice poi, «*il pastore potrà rilevare da una stabile cessazione dal peccato e dal fervore nelle opere buone*» quel fervore di carità (*Della Penitenza*, § 10) come disposizione che «*deve precedere l’assoluzione*»;<br><br>Così intesa, che non solo la contrizione imperfetta (che comunemente chiamasi attrizione) ma anche quella che sia congiunta con quell’affetto con cui l’uomo incomincia ad amare Dio come fonte di ogni giustizia, né solamente la contrizione formata dalla carità, ma anche il fervore della carità dominante e quello provato con lungo esperimento per mezzo del fervore nelle opere buone, generalmente ed assolutamente si devono richiedere affinché l’uomo sia ammesso ai Sacramenti, e specialmente i penitenti al beneficio dell’assoluzione; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+FALSA, TEMERARIA, TURBATIVA DELLA QUIETE DELLE ANIME, CONTRARIA ALLA PRATICA SICURA ED APPROVATA NELLA CHIESA, DETRAENTE ED INGIURIOSA DELL’EFFICACIA DEL SACRAMENTO. `class: paragrafoNorm`
 
-###### 105.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 106.
+### DELL’AUTORITÀ DI ASSOLVERE.
 
-X. `class: paragrafoNorm`
 
+#### Della Penitenza, § 10, n. 6.
 
-###### 107.
 
-X. `class: paragrafoNorm`
+###### XXXVII
 
+La dottrina del Sinodo la quale, circa l’autorità di assolvere ricevuta per mezzo dell’ordinazione, dice che «*dopo l’istituzione delle diocesi e delle parrocchie conviene che ognuno eserciti questo giudizio sopra persone a lui suddite o per territorio o per un personale diritto*», giacché «*l’operare diversamente introdurrebbe confusione e disordine*»;<br><br>In quanto dopo l’istituzione delle diocesi e delle parrocchie dice soltanto «*essere conveniente a prevenire la confusione che il potere di assolvere si eserciti sopra i sudditi*», così intesa come se al valido uso di questo potere non sia necessaria quella giurisdizione ordinaria o subdelegata, senza la quale il Tridentino dichiara di nessun valore l’assoluzione proferita dal sacerdote; `class: paragrafoNorm`
 
-###### 108.
 
-X. `class: paragrafoNorm`
+FALSA, TEMERARIA, PERICOLOSA, CONTRARIA AL TRIDENTINO, ERRONEA. `class: paragrafoNorm`
 
 
-###### 109.
+***
 
-X. `class: paragrafoNorm`
 
+#### Della Penitenza, § 11.
 
-###### 110.
 
-X. `class: paragrafoNorm`
+###### XXXVIII
 
+Similmente la dottrina con la quale il Sinodo dopo aver professato «*di non potere a meno di non ammirare quella tanto venerabile disciplina dell’antichità, che* [come dice] *alla penitenza non ammetteva così facilmente, e forse mai chi dopo il primo peccato e la prima riconciliazione ricadeva nella colpa*», aggiunge che «*per il timore di essere esclusi per sempre dalla comunione e dalla pace anche in pericolo di morte, un gran freno si apporrebbe a coloro che considerano poco il male del peccato e meno ancora lo temono*»; `class: paragrafoNorm`
 
-###### 111.
 
-X. `class: paragrafoNorm`
+CONTRARIA AL CANONE 13 DEL CONCILIO NICENO I, ALLA DECRETALE D’INNOCENZO I, AD ESUPERIO TOLOSANO, COME ANCHE ALLA DECRETALE DI CELESTINO I, AI VESCOVI DELLE PROVINCE DI VIENNA E DI NARBONA; RISENTE DELLA PRAVITÀ CHE IL SANTO PONTEFICE CONDANNA IN QUELLA DECRETALE. `class: paragrafoNorm`
 
 
-###### 112.
+***
 
-X. `class: paragrafoNorm`
 
+### DELLA CONFESSIONE DEI PECCATI VENIALI.
 
-###### 113.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, § 12.
 
 
-###### 114.
+###### XXXIX
 
-X. `class: paragrafoNorm`
+La dichiarazione del Sinodo che a proposito della confessione dei peccati veniali dice che è auspicabile che non sia troppo frequente per non rendere tali confessioni troppo spregevoli; `class: paragrafoNorm`
 
 
-###### 115.
+TEMERARIA, PERNICIOSA, CONTRARIA ALLA PRATICA DI UOMINI SANTI E PII, APPROVATA DAL SACRO CONCILIO DI TRENTO. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 116.
 
-X. `class: paragrafoNorm`
+### DELLE INDULGENZE.
 
 
-###### 117.
+#### Della Penitenza, § 16.
 
-X. `class: paragrafoNorm`
 
+###### XL
 
-###### 118.
+La proposizione la quale asserisce che «*l’indulgenza nella sua precisa nozione non è che la remissione di una parte di quella penitenza che dai canoni veniva stabilita al peccatore*»;<br><br>Quasi che l’indulgenza, oltre la nuda remissione della pena canonica, non valga anche per la remissione della pena temporale dovuta alla divina giustizia per i peccati attuali; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+FALSA, TEMERARIA, INGIURIOSA AI MERITI DI CRISTO, GIÀ CONDANNATA NELL’ARTICOLO 19 DI LUTERO. `class: paragrafoNorm`
 
-###### 119.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 120.
+#### Della Penitenza, § 16.
 
-X. `class: paragrafoNorm`
 
+###### XLI
 
-###### 121.
+Similmente in ciò che si soggiunge, che «*gli scolastici, gonfi delle loro sottigliezze, inventarono quello strano tesoro, male inteso, dei meriti di Cristo e dei Santi, e sostituirono alla chiara idea di assoluzione dalla pena canonica quella confusa e falsa di applicazione dei meriti*»;<br><br>Quasi che i tesori della Chiesa per mezzo dei quali il Papa dà le indulgenze non siano i meriti di Cristo e dei Santi; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+FALSA, TEMERARIA, INGIURIOSA AI MERITI DI CRISTO E DEI SANTI. GIÀ CONDANNATA NELL’ARTICOLO 17 DI LUTERO. `class: paragrafoNorm`
 
-###### 122.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 123.
+#### Della Penitenza, § 16.
 
-X. `class: paragrafoNorm`
 
+###### XLII
 
-###### 124.
+Parimenti in ciò che aggiunge «*essere ancora più lacrimevole che questa chimerica applicazione dei meriti si sia voluto far passare ai defunti*»; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+FALSA, TEMERARIA, OFFENSIVA DELLE PIE ORECCHIE, INGIURIOSA CONTRO I ROMANI PONTEFICI, LA PRATICA E IL SENTIMENTO DELLA CHIESA UNIVERSALE, INDUCENTE NELL’ERRORE CONDANNATO CON NOTA ERETICALE IN PIETRO D’OSMA E DI NUOVO CONDANNATO NELL’ARTICOLO 22 DI LUTERO. `class: paragrafoNorm`
 
-###### 125.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 126.
+#### Della Penitenza, § 16.
 
-X. `class: paragrafoNorm`
 
+###### XLIII
 
-###### 127.
+In quella parte infine in cui con somma impudenza inveisce contro le tabelle d’indulgenze, altari privilegiati, ecc.; `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+TEMERARIA, OFFENSIVA DELLE PIE ORECCHIE, SCANDALOSA, CONTUMELIOSA NEI CONFRONTI DEI SOMMI PONTEFICI, E DELLA PRATICA FREQUENTATA IN TUTTA LA CHIESA. `class: paragrafoNorm`
 
-###### 128.
 
-X. `class: paragrafoNorm`
+***
 
 
-###### 129.
+### DELLA RISERVA DEI CASI.
 
-X. `class: paragrafoNorm`
 
+#### Della Penitenza, § 19.
 
-###### 130.
 
-X. `class: paragrafoNorm`
+###### XLIV
 
+La proposizione del Sinodo la quale dice che «*la riserva dei casi altro non è attualmente che un indiscreto legame per i sacerdoti inferiori, ed un’espressione vuota di senso per i penitenti, che sono assuefatti a non curarsi un gran che di questa riserva*»; `class: paragrafoNorm`
 
-###### 131.
 
-X. `class: paragrafoNorm`
+FALSA, TEMERARIA, STONATA, PERNICIOSA, CONTRARIA AL CONCILIO DI TRENTO, LESIVA DEL SUPERIORE POTERE GERARCHICO. `class: paragrafoNorm`
 
 
-###### 132.
+***
 
-X. `class: paragrafoNorm`
 
+#### Della Penitenza, § 19.
 
-###### 133.
 
-X. `class: paragrafoNorm`
+###### XLV
 
+Similmente della speranza secondo la quale, «*riformati il rituale e l’ordine della penitenza non ci sarà più posto per simili riserve*»;<br><br>In quanto, attesa la genericità delle parole accenna che per la riforma del rituale e dell’ordine della penitenza fatta dal Vescovo o dal Sinodo possano abolirsi i casi che il Concilio di Trento (Sess. 14, cap. 7) dichiara aver potuto i Sommi Pontefici (per la suprema potestà loro data in tutta la Chiesa) riservare al loro particolare giudizio; `class: paragrafoNorm`
 
-###### 134.
 
-X. `class: paragrafoNorm`
+PROPOSIZIONE FALSA, TEMERARIA, DEROGANTE ED INGIURIOSA NEI CONFRONTI DEL CONCILIO DI TRENTO E DELL’AUTORITÀ DEI SOMMI PONTEFICI. `class: paragrafoNorm`
 
 
-###### 135.
+***
 
-X. `class: paragrafoNorm`
 
+### DELLE CENSURE.
 
-###### 136.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, §§ 20, 22.
 
 
-###### 137.
+###### XLVI
 
-X. `class: paragrafoNorm`
+La proposizione la quale asserisce che «*l’effetto della scomunica è solamente esteriore, perché solo di sua natura esclude dall’esteriore comunicazione della Chiesa*»;<br><br>Quasi che la scomunica non sia pena spirituale, che lega nel cielo ed obbliga le anime (**Sant’Agostino**, *Epist.* 250, *Auxilio Episcopo*; Tract. 50 *In Johann.*, n. 12); `class: paragrafoNorm`
 
 
-###### 138.
+FALSA, PERNICIOSA, CONDANNATA NELL’ARTICOLO 23 DI LUTERO, PER LO MENO ERRONEA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 139.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, §§ 21, 23.
 
 
-###### 140.
+###### XLVII
 
-X. `class: paragrafoNorm`
+Similmente quella che dice essere necessario, secondo le leggi naturali e divine, che tanto alla scomunica quanto alla sospensione debba precedere un personale esame, e che perciò le cosiddette sentenze *ipso facto* non abbiano altra forza che di una seria minaccia senza alcun effetto attuale; `class: paragrafoNorm`
 
 
-###### 141.
+FALSA, TEMERARIA, PERNICIOSA, INGIURIOSA AL POTERE DELLA CHIESA, ERRONEA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 142.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, § 22.
 
 
-###### 143.
+###### XLVIII
 
-X. `class: paragrafoNorm`
+Similmente quella che dice «*essere inutile e vana la formula introdotta da alcuni secoli di assolvere in generale dalle scomuniche nelle quali potesse essere incorso il fedele*»; `class: paragrafoNorm`
 
 
-###### 144.
+FALSA, TEMERARIA, INGIURIOSA ALLA PRATICA DELLA CHIESA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 145.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, § 24.
 
 
-###### 146.
+###### XLIX
 
-X. `class: paragrafoNorm`
+Similmente quella che condanna come nulle ed invalide «*le sospensioni ex informata conscientia*»; `class: paragrafoNorm`
 
 
-###### 147.
+FALSA, PERNICIOSA, INGIURIOSA CONTRO IL TRIDENTINO. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
 
+***
 
-###### 148.
 
-X. `class: paragrafoNorm`
+#### Della Penitenza, § 24.
 
 
-###### 149.
+###### L
 
-X. `class: paragrafoNorm`
+Parimenti in ciò che insinua non essere lecito al solo Vescovo far uso del potere, che pure gli accorda il Tridentino (Sess. 14, cap. 1 *De Reform.*), d’infliggere legittimamente la sospensione *ex informata conscientia*; `class: paragrafoNorm`
 
 
-###### 150.
+LESIVA DELLA GIURISDIZIONE DEI PRELATI DELLA CHIESA. `class: paragrafoNorm`
 
-X. `class: paragrafoNorm`
+
+***
+
+
+### DELL’ORDINE.
+
+
+#### Dell’Ordine, § 4.
+
+
+###### LI
+
+La dottrina del Sinodo la quale dice che nel promuovere agli Ordini si era soliti osservare, secondo il costume e l’istituto dell’antica disciplina, questo metodo : «*se qualche chierico si distingueva nella santità della vita e si giudicava degno di ascendere agli ordini sacri, si soleva promuoverlo al diaconato o al sacerdozio, benché non avesse i gradi inferiori, né allora lo si dichiarava ordinato per saltum, come si disse poi*»; `class: paragrafoNorm`
+
+
+***
+
+
+#### Dell’Ordine, § 5.
+
+
+###### LII
+
+Similmente quella che accenna non esservi stato altro titolo delle ordinazioni che la deputazione a qualche speciale ministero, come fu prescritto nel Concilio Calcedonense, soggiungendo (§ 6) che fino a quando la Chiesa si regolò con questi principi nella scelta dei sacri ministri, fiorì l’ordine ecclesiastico; peraltro sono passati quei bei giorni essendo stati introdotti nuovi principi, sui quali si corruppe la disciplina nella scelta dei ministri del santuario; `class: paragrafoNorm`
+
+
+***
+
+
+#### Dell’Ordine, § 7.
+
+
+###### LIII
+
+Similmente riporta fra questi stessi principi di corruzione l’essersi receduto dall’antico istituto per il quale, come dice (§ 3) la Chiesa, insistendo sulle tracce dell’Apostolo, aveva stabilito che nessuno venisse ammesso al sacerdozio se non aveva conservato l’innocenza battesimale;<br><br>In quanto accenna essersi corrotta la disciplina per mezzo dei decreti e degli istituti: `class: paragrafoNorm`
+1. O con i quali sono state proibite le ordinazioni *per saltum*; `class: paragrafoNorm`
+2. O con i quali sono state approvate, secondo la necessità e le comodità delle Chiese, le ordinazioni senza il titolo di speciale ufficio, come particolarmente dal Tridentino l’ordinazione a titolo di patrimonio, salva l’ubbidienza per la quale gli ordinati in questo modo sono tenuti a servire alle necessità delle Chiese prestando quei servizi ai quali, secondo il luogo e il tempo, siano stati assegnati dal Vescovo, come fin dai tempi apostolici si praticò nella Chiesa primitiva; `class: paragrafoNorm`
+3. O con i quali a norma dei canoni si è fatta distinzione dei delitti che diversificano i delinquenti: quasi che la Chiesa per una tale distinzione si sia allontanata dallo spirito dell’Apostolo, non escludendo in generale e indistintamente dal ministero ecclesiastico tutti coloro che non avevano conservato l’innocenza battesimale; `class: paragrafoNorm`
+
+
+DOTTRINA FALSA IN TUTTE LE SUE PARTI, TEMERARIA, PERTURBATIVA DELL’ORDINE INTRODOTTO PER LA NECESSITÀ E LA COMODITÀ DELLE CHIESE, INGIURIOSA DELLA DISCIPLINA APPROVATA DAI CANONI, E PARTICOLARMENTE DAI DECRETI DEL TRIDENTINO. `class: paragrafoNorm`
+
+
+***
+
+
+#### Dell’Ordine, § 13.
+
+
+###### LIV
+
+Similmente quella che taccia come turpe abuso il pretendere l’elemosina per celebrare Messe e amministrare Sacramenti e il ricevere qualunque provento detto *di stola*, e in genere qualunque stipendio od onorario che in occasione di suffragi o di qualunque funzione parrocchiale venisse offerto;<br><br>Quasi che i ministri della Chiesa dovessero tacciarsi come rei di delitto di turpe abuso, mentre essi – secondo il costume ricevuto ed approvato dalla Chiesa – si avvalgono del diritto promulgato dall’Apostolo di ricevere cose temporali da coloro ai quali si amministrano le cose spirituali; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, LESIVA DEL DIRITTO ECCLESIASTICO E PASTORALE, INGIURIOSA CONTRO LA CHIESA E I SUOI MINISTRI. `class: paragrafoNorm`
+
+
+***
+
+
+#### Dell’Ordine, § 14.
+
+
+###### LV
+
+Similmente quella con cui si dichiara di desiderare ardentemente che si trovi il modo di togliere dalle cattedrali e dalle collegiate il minuto clero (nome col quale denota i chierici degli ordini inferiori) provvedendo in altra forma, cioè per mezzo di laici probi e di maggiore età, assegnando loro un discreto onorario per servire le Messe e fare altri uffici, come di accolito, ecc., come, dice, si praticava una volta quando siffatti uffici non erano ridotti ad una formalità per ascendere agli ordini maggiori;<br><br>In quanto riprende la norma con la quale si provvede che «*le funzioni degli Ordini minori si facciano o si esercitino soltanto da coloro che sono costituiti in detti ordini, o iscritti ad essi*» (Concil. Provin. IV di Milano): e ciò in conformità del pensiero del Tridentino (Sess. 23, cap. 17) «*affinché secondo i sacri canoni siano richiamate in osservanza le funzioni dei santi Ordini, dal diaconato all’ostiariato, lodevolmente ricevute nella Chiesa dai tempi apostolici, ed in molti luoghi per qualche tempo tralasciate, né dagli eretici si deridano come oziose*»; `class: paragrafoNorm`
+
+
+SUGGERIMENTO TEMERARIO, OFFENSIVO DELLE PIE ORECCHIE, PERTURBATIVO DEL MINISTERO ECCLESIASTICO, DIMINUTIVO DELLA DECENZA DA OSSERVARSI PER QUANTO È POSSIBILE NEL CELEBRARE I MISTERI, INGIURIOSO CONTRO GLI UFFICI E LE FUNZIONI DEGLI ORDINI MINORI E LA DISCIPLINA APPROVATA DAI CANONI, E PARTICOLARMENTE DAL TRIDENTINO, FAVOREVOLE ALLE MALDICENZE E ALLE CALUNNIE DEGLI ERETICI CONTRO DETTA DISCIPLINA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Dell’Ordine, § 18.
+
+
+###### LVI
+
+La dottrina la quale stabilisce parer conveniente che non si dovesse mai accordare né ammettere dispensa alcuna negli impedimenti canonici che provengono dai delitti espressi nel diritto; `class: paragrafoNorm`
+
+
+LESIVA DELL’EQUITÀ E DELLA REGOLA CANONICA APPROVATA DAL SACRO CONCILIO DI TRENTO, DEROGANTE ALL’AUTORITÀ E AI DIRITTI DELLA CHIESA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Dell’Ordine, § 22.
+
+
+###### LVII
+
+La prescrizione del Sinodo, la quale universalmente e senza distinzione alcuna rigetta come abuso qualunque dispensa, in forza della quale si conferisca allo stesso soggetto più di un beneficio di residenza, e aggiunge essere persuaso che secondo lo spirito della Chiesa nessuno possa godere più di un beneficio, ancorché semplice; `class: paragrafoNorm`
+
+
+DEROGANTE PER LA SUA GENERALITÀ ALLA REGOLA DEL TRIDENTINO, SESS. 7, CAP. 5, E SESS. 24, CAP. 17. `class: paragrafoNorm`
+
+
+***
+
+
+### DEI FIDANZAMENTI E DEL MATRIMONIO.
+
+
+#### Promemoria relativo ai fidanzamenti, ecc., § 2.
+
+
+###### LVIII
+
+La proposizione la quale stabilisce che i fidanzamenti propriamente detti sono un atto meramente civile e preparatorio alla celebrazione del matrimonio, e che i medesimi soggiacciono interamente alle leggi civili;<br><br>Come se un atto che dispone ad un sacramento non sia soggetto, per questo titolo, al diritto della Chiesa; `class: paragrafoNorm`
+
+
+FALSA, LESIVA DEL DIRITTO DELLA CHIESA QUANTO AGLI EFFETTI PROVENIENTI ANCHE DAI FIDANZAMENTI IN VIRTÙ DELLE SANZIONI CANONICHE, DEROGANTE ALLA DISCIPLINA STABILITA DALLA CHIESA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Del Matrimonio, §§§ 7, 11, 12.
+
+
+###### LIX
+
+La dottrina del Sinodo la quale asserisce che «*spetta, almeno in origine, alla suprema autorità civile stabilire per il contratto matrimoniale degli impedimenti tali da renderlo nullo, e che si chiamano dirimenti: perché il diritto originario è detto essere essenzialmente connesso al diritto di dispensare; aggiungendo che la Chiesa ha potuto, grazie all’assenso o alla connivenza dei Principi, fissare giustamente degli impedimenti che dirimano lo stesso contratto matrimoniale*»;<br><br>Come se la Chiesa non abbia sempre potuto, né possa per proprio diritto, stabilire nei matrimoni dei cristiani impedimenti che non solo impediscano il matrimonio, ma anche lo rendano nullo riguardo al vincolo, e che obblighino anche i cristiani dei territori degli infedeli; e negli stessi dispensare; `class: paragrafoNorm`
+
+
+DISTRUTTIVA DEI CANONI 3, 4, 9, 12 DELLA SESS. 24 DEL CONCILIO DI TRENTO; ERETICA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Dal citato promemoria relativo ai fidanzamenti, ecc., § 10.
+
+
+###### LX
+
+Similmente la richiesta del Sinodo diretta alla potestà civile, affinché «*tolga dal numero degl’impedimenti la parentela spirituale, e quello detto dell’onestà pubblica, l’origine dei quali si trova nella Collezione di Giustiniano*» e perché «*restringa l’impedimento dell’affinità e della parentela proveniente da qualunque lecita o illecita unione al quarto grado secondo la computazione civile per la linea laterale ed obliqua, in modo tale da non lasciare speranza alcuna di ottenere dispensa*»;<br><br>In quanto attribuisce alla civile potestà il diritto sia di abolire, sia di ridurre gl’impedimenti stabiliti o approvati dall’autorità della Chiesa; così in quanto suppone che la Chiesa possa essere privata dalla potestà civile del suo diritto di dispensare sugl’impedimenti da essa stessa stabiliti o approvati; `class: paragrafoNorm`
+
+
+SOVVERSIVA DELLA LIBERTÀ E DELLA POTESTÀ DELLA CHIESA, CONTRARIA AL TRIDENTINO, DERIVATA DAL PRINCIPIO ERETICALE SOPRA CONDANNATO. `class: paragrafoNorm`
+
+
+***
+
+
+### DEGLI UFFICI, ESERCIZI, ISTITUZIONI SPETTANTI AL CULTO RELIGIOSO, E PRIMIERAMENTE DELL’ADORARE L’UMANITÀ DI CRISTO.
+
+
+#### Della Fede, § 3.
+
+
+###### LXI
+
+La proposizione la quale dice che «*adorare direttamente l’Umanità di Cristo, e più ancora qualche parte di essa, sarebbe sempre un onore divino dato alla Creatura*»;<br><br>In quanto con questa parola *direttamente* intenda riprovare il culto di adorazione che i fedeli dirigono alla Umanità di Cristo; come se tale adorazione, con cui si adora l’Umanità e la stessa Carne vivifica di Cristo, non già per se stessa e come nuda carne, ma come unita alla Divinità, fosse un onore Divino dato alla Creatura, e non piuttosto una e medesima adorazione, con cui si adora il Verbo Incarnato con la propria Carne di Lui (Dal Concil. C. P. V. Gen. can. 9); `class: paragrafoNorm`
+
+
+FALSA, CAPZIOSA, DETRAENTE, ED INGIURIOSA DEL CULTO PIO DOVUTO ALL’UMANITÀ DI CRISTO, PRESTATO AD ESSA DAI FEDELI, E DA PRESTARSI. `class: paragrafoNorm`
+
+
+***
+
+
+#### Della preghiera, § 10.
+
+
+###### LXII.
+
+La dottrina la quale rigetta la devozione verso il sacratissimo Cuore di Gesù fra le devozioni che definisce nuove, erronee, o almeno pericolose;<br><br>Intesa questa devozione come è stata approvata dall’Apostolica Sede; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, PERNICIOSA, OFFENSIVA DELLE PIE ORECCHIE, INGIURIOSA VERSO LA SEDE APOSTOLICA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Della Preghiera, § 10, Appendice n. 32.
+
+
+###### LXIII.
+
+Similmente nel fatto che redarguisce gli adoratori del Cuore di Gesù, per il motivo che non riflettano non potersi adorare con culto di latria la santissima Carne di Cristo, o porzione di questa, o anche tutta l’Umanità separata o recisa dalla Divinità;<br><br>Come se i fedeli adorassero il Cuore di Gesù separato o reciso dalla Divinità, mentre lo adorano come Cuore di Gesù, cioè Cuore della Persona del Verbo, al quale è inseparabilmente unito come l’esangue Corpo di Cristo fu adorabile nel sepolcro durante il triduo della morte senza separazione o recisione; `class: paragrafoNorm`
+
+
+CAPZIOSA, INGIURIOSA DEI FEDELI ADORATORI DEL CUORE DI CRISTO. `class: paragrafoNorm`
+
+
+***
+
+
+### DELL’ORDINE PRESCRITTO NEL FARE GLI ESERCIZI DI PIETÀ.
+
+
+#### Della Preghiera, § 14, Appendice n. 34.
+
+
+###### LXIV.
+
+La dottrina la quale definisce generalmente come superstiziosa «*qualunque efficacia che si fissi nel numero determinato di preghiere e di pie salutazioni*»;<br><br>Come se dovesse stimarsi superstiziosa l’efficacia che si desume non dal numero considerato in se stesso, ma dalla disposizione della Chiesa, che prescrive un certo determinato numero di preghiere o azioni esterne per conseguire le indulgenze, per adempiere le penitenze, e generalmente per esercitare rettamente ed ordinatamente il culto sacro e religioso; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, SCANDALOSA, PERNICIOSA, INGIURIOSA CONTRO LA PIETÀ DEI FEDELI, DEROGANTE ALL’AUTORITÀ DELLA CHIESA, ERRONEA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Della Penitenza, § 10.
+
+
+###### LXV.
+
+La proposizione la quale dice che «*lo strepito irregolare di quelle pratiche nuove che si chiamano Esercizi o Missioni* [...] *forse non arriva mai o giunge ben di rado a produrre una conversione completa, e quegli atti esteriori, che apparvero di commozione, non furono che lampi passeggeri di una naturale agitazione*»; `class: paragrafoNorm`
+
+
+TEMERARIA, STONATA, PERNICIOSA, INGIURIOSA AL COSTUME PIAMENTE E SALUTEVOLMENTE PRATICATO NELLA CHIESA, E FONDATO SULLA PAROLA DI DIO. `class: paragrafoNorm`
+
+
+***
+
+
+### DEL MODO DI CONGIUNGERE LA VOCE DEL POPOLO CON LA VOCE DELLA CHIESA NELLE PUBBLICHE PREGHIERE.
+
+
+#### Della Preghiera, § 24.
+
+
+###### LXVI.
+
+La proposizione la quale asserisce che «*sarebbe un operare contro la pratica apostolica e contro i disegni di Dio il non procurare al popolo i mezzi più facili per unire la sua voce a quella di tutta la Chiesa*»:<br><br>Qualora si riferisca all’uso della lingua volgare da introdursi nelle preci liturgiche; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, TURBATIVA DELL’ORDINE PRESCRITTO PER LA CELEBRAZIONE DEI MISTERI, FACILMENTE PRODUTTRICE DI MOLTI MALI. `class: paragrafoNorm`
+
+
+***
+
+
+### DELLA LETTURA DELLA SACRA SCRITTURA.
+
+
+#### Dalla nota finale del decreto della Grazia.
+
+
+###### LXVII.
+
+La dottrina la quale asserisce che dalla lettura delle Sacre Scritture «*non iscusa se non la vera impotenza*», soggiungendo che è troppo sensibile l’oscuramento che nacque sulle primarie verità della Religione dalla trascuratezza di questo precetto; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, TURBATRICE DELLA QUIETE DELLE ANIME, ALTRA VOLTA CONDANNATA IN QUESNEL. `class: paragrafoNorm`
+
+
+***
+
+
+### DEL LEGGERE PUBBLICAMENTE NELLA CHIESA I LIBRI CONDANNATI.
+
+
+#### Della Preghiera, § 29.
+
+
+###### LXVIII.
+
+La lode con la quale il Sinodo raccomanda caldamente le riflessioni del Quesnel sopra il nuovo Testamento, ed altre opere, sebbene condannate, di altri autori che accreditano gli errori del Quesnel e le propone ai parroci affinché, dopo le altre funzioni, le leggano al popolo, ciascuno nella propria parrocchia, come ricche di solidi principi di Religione; `class: paragrafoNorm`
+
+
+FALSA, SCANDALOSA, TEMERARIA, SEDIZIOSA, INGIURIOSA DELLA CHIESA, FOMENTATRICE DELLO SCISMA E DELL’ERESIA. `class: paragrafoNorm`
+
+
+***
+
+
+### DELLE SACRE IMMAGINI.
+
+
+#### Della Preghiera, § 17.
+
+
+###### LXIX.
+
+La prescrizione la quale generalmente e indistintamente indica fra le immagini da rimuovere dalla Chiesa, in quanto costituiscono occasione di errore per gl’incolti, quelle di una Trinità inintelligibile; `class: paragrafoNorm`
+
+
+PER LA SUA GENERALITÀ TEMERARIA E CONTRARIA AL PIO COSTUME PRATICATO NELLA CHIESA, QUASI CHE NON VI SIANO IMMAGINI DELLA SANTISSIMA TRINITÀ COMUNEMENTE APPROVATE E DA PERMETTERSI CON SICUREZZA ([[Scheda 247° papa - Benedetto XIV|Benedetto XIV]], **[[Breve Sollicitudini nostrae]]**, anno 1745). `class: paragrafoNorm`
+
+
+***
+
+
+###### LXX.
+
+Parimenti la dottrina e la prescrizione generalmente riprovante ogni culto speciale, che i fedeli sono soliti tributare particolarmente a qualche immagine ricorrendo ad una piuttosto che a un’altra; `class: paragrafoNorm`
+
+
+TEMERARIA, PERNICIOSA, INGIURIOSA AL PIO COSTUME PRATICATO NELLA CHIESA, ED A QUELL’ORDINE DI PROVVIDENZA COL QUALE «*Iddio non ha voluto che queste cose accadessero in tutte le memorie dei Santi, distribuendo Egli i proprii doni a ciascuno come vuole*» (**Sant’Agostino**, *Ep.* 78, *Clero, Senioribus, et universae Plebi Ecclesiae Hipponen.*). `class: paragrafoNorm`
+
+
+***
+
+
+###### LXXI.
+
+Parimenti quella prescrizione la quale proibisce che le immagini, specialmente della Beata Vergine, si distinguano con altri titoli, fuorché con le denominazioni che siano analoghe ai Misteri dei quali si fa espressa menzione nella sacra Scrittura;<br><br>Quasi che non si potessero dare alle immagini altre pie denominazioni, le quali anche nelle stesse pubbliche preci la Chiesa approva e raccomanda; `class: paragrafoNorm`
+
+
+TEMERARIA, OFFENSIVA DELLE PIE ORECCHIE, INGIURIOSA ALLA VENERAZIONE SPECIALMENTE DOVUTA ALLA BEATA VERGINE. `class: paragrafoNorm`
+
+
+***
+
+
+###### LXXII.
+
+Parimenti quella la quale vuole che si estirpi come abuso il costume di conservare velate certe immagini; `class: paragrafoNorm`
+
+
+TEMERARIA, CONTRARIA AL COSTUME PRATICATO NELLA CHIESA E INTRODOTTO PER FAVORIRE LA PIETÀ DEI FEDELI. `class: paragrafoNorm`
+
+
+***
+
+
+### DELLE FESTE.
+
+
+#### Promemoria sulla riforma delle feste, § 3.
+
+
+###### LXXIII.
+
+La proposizione la quale afferma che l’istituzione delle nuove feste ha avuto origine dalla trascuratezza nell’osservare le antiche, e dalle errate conoscenze della natura e del fine delle medesime; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, SCANDALOSA, INGIURIOSA DELLA CHIESA, FAVOREVOLE ALLE MALDICENZE DEGLI ERETICI CONTRO I GIORNI FESTIVI CHE SI CELEBRANO NELLA CHIESA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Promemoria sulla riforma delle feste, § 8.
+
+
+###### LXXIV.
+
+La deliberazione del Sinodo circa il trasferimento nel giorno di domenica delle feste istituite nel corso dell’anno, essendo certo che compete al Vescovo la disciplina ecclesiastica relativa a materie meramente spirituali; conseguentemente necessita abrogare anche il precetto di ascoltare la Messa nei giorni nei quali lo stesso precetto è ancora in vigore per precedenti leggi della Chiesa; e necessita anche trasferire nell’avvento, con decisione del Vescovo, i digiuni da osservarsi durante l’anno per precetto della Chiesa;<br><br>In quanto afferma essere lecito al Vescovo, per proprio diritto, trasferire i giorni prescritti dalla Chiesa per la celebrazione delle feste e dei digiuni, o di abrogare il precetto ingiunto di ascoltare la Messa; `class: paragrafoNorm`
+
+
+PROPOSIZIONE FALSA, LESIVA DEL DIRITTO DEI CONCILII GENERALI E DEI SOMMI PONTEFICI, SCANDALOSA, FAVOREVOLE ALLO SCISMA. `class: paragrafoNorm`
+
+
+***
+
+
+### DEI GIURAMENTI.
+
+
+#### Promemoria circa la riforma dei giuramenti, § 5.
+
+
+###### LXXV.
+
+La dottrina la quale dice che nei tempi felici della Chiesa nascente i giuramenti sembrarono talmente alieni dagl’insegnamenti del Divino Maestro e dall’aurea semplicità Evangelica, che «*lo stesso giurare senza una estrema ed indispensabile necessità sarebbe stato considerato come un atto irreligioso, indegno di un cristiano*»; inoltre, «*che l’ininterrotta serie dei Padri dimostra che il sentimento comune era di considerare i giuramenti come proscritti*»; pertanto condanna i giuramenti che la curia ecclesiastica, modellandosi sulla giurisprudenza feudale, ha adottati nelle investiture e perfino nelle sacre Ordinazioni dei Vescovi; e stabilisce perciò doversi implorare dal potere secolare una legge per l’abolizione dei giuramenti che si esigono anche nelle curie ecclesiastiche per essere ammessi a cariche, uffici e generalmente in qualunque atto curiale; `class: paragrafoNorm`
+
+
+FALSA, INGIURIOSA ALLA CHIESA, LESIVA DEL DIRITTO ECCLESIASTICO, SOVVERSIVA DELLA DISCIPLINA INTRODOTTA E APPROVATA DAI CANONI. `class: paragrafoNorm`
+
+
+***
+
+
+### DELLE CONFERENZE ECCLESIASTICHE.
+
+
+#### Delle conferenze ecclesiastiche, § 1.
+
+
+###### LXXVI.
+
+Il modo oltraggioso con cui il Sinodo tratta la Scolastica, come quella che «*aperse la strada all’invenzione di nuovi sistemi fra sé discordanti sulle verità più preziose, e infine condusse al probabilismo ed al lassismo*»;<br><br>In quanto attribuisce alla Scolastica i vizi dei singoli, i quali poterono abusare o abusarono della medesima; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, INGIURIOSA A UOMINI SANTISSIMI E A DOTTORI, I QUALI CON GRAN VANTAGGIO DELLA RELIGIONE CATTOLICA COLTIVARONO LA SCOLASTICA, FAVOREVOLE ALLE OSTILI MALDICENZE DEGLI ERETICI CONTRO LA MEDESIMA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Delle conferenze ecclesiastiche, § 1.
+
+
+###### LXXVII.
+
+Parimenti in quanto soggiunge che «*il mutamento della forma del governo ecclesiastico, facendo dimenticare ai Ministri della Chiesa i loro diritti, che sono nel tempo stesso i loro obblighi, terminò col far perdere le idee primitive del Ministero Ecclesiastico e della sollecitudine pastorale*»;<br><br>Quasi che per il cambiamento del governo congruente alla disciplina stabilita, ed approvato nella Chiesa, si sia potuto dimenticare e perdere la primitiva nozione del ministero ecclesiastico o della pastorale sollecitudine; `class: paragrafoNorm`
+
+
+PROPOSIZIONE FALSA, TEMERARIA, ERRONEA. `class: paragrafoNorm`
+
+
+***
+
+
+#### Delle conferenze ecclesiastiche, § 4.
+
+
+###### LXXVIII.
+
+La prescrizione del Sinodo circa l’ordine di trattare le cose nelle conferenze, secondo la quale, dopo aver premesso che si deve distinguere «*in ciascun articolo ciò che appartiene alla Fede ed all’essenziale della Religione da ciò che è materia di disciplina*», soggiunge «*che in questa stessa* (disciplina) *si distinguerà ciò che è necessario o utile per mantenere i fedeli nello spirito da ciò che è inutile e tendente a gravare i fedeli medesimi di un peso che non conviene alla libertà dei figliuoli della nuova alleanza; e molto più da ciò che è pericoloso o nocivo, perché inducente alla superstizione e al materialismo*»;<br><br>In quanto per la generalità delle parole comprenda e assoggetti all’esame prescritto anche la disciplina costituita e approvata dalla Chiesa, quasi che la Chiesa, la quale è retta dallo spirito di Dio, potesse stabilire una disciplina non solamente inutile e più gravosa di quello che comporti la libertà cristiana, ma addirittura pericolosa, nociva, inducente nella superstizione e nel materialismo; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, SCANDALOSA, PERNICIOSA, OFFENSIVA DELLE PIE ORECCHIE, INGIURIOSA ALLA CHIESA E ALLO SPIRITO DI DIO, DAL QUALE LA CHIESA STESSA È REGOLATA; PER LO MENO ERRONEA. `class: paragrafoNorm`
+
+
+***
+
+
+### IMPROPERII CONTRO ALCUNE OPINIONI FINO AD ORA DISCUSSE NELLE SCUOLE CATTOLICHE.
+
+
+#### Orazione al Sinodo, § 2.
+
+
+###### LXXIX.
+
+L’asserzione la quale con maldicenze e contumelie se la prende contro le opinioni discusse nelle Scuole cattoliche, e circa le quali la Sede Apostolica non ha ritenuto per ora di definire o di pronunciarsi; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, INGIURIOSA ALLE SCUOLE CATTOLICHE, DEROGANTE ALLA OBBEDIENZA DOVUTA ALLE COSTITUZIONI APOSTOLICHE. `class: paragrafoNorm`
+
+
+***
+
+
+### DELLE TRE REGOLE POSTE DAL SINODO QUALE FONDAMENTO PER LA RIFORMA DEI REGOLARI.
+
+
+#### Promemoria per la Riforma dei Regolari, § 9.
+
+
+###### LXXX.
+
+La regola prima, la quale stabilisce generalmente e indistintamente «*che lo stato Regolare o Monastico è di natura sua incompatibile con la cura delle anime e con gli esercizi della vita pastorale, e perciò incapace di far parte della gerarchia Ecclesiastica senza urtare direttamente i principi della stessa vita monastica*» ; `class: paragrafoNorm`
+
+
+FALSA, PERNICIOSA, INGIURIOSA AI PADRI SANTISSIMI DELLA CHIESA E AI PRELATI CHE ASSOCIARONO GL’ISTITUTI DELLA VITA REGOLARE CON GL’IMPIEGHI DELL’ORDINE CLERICALE; CONTRARIA AL PIO, ANTICO, APPROVATO COSTUME DELLA CHIESA, E ALLE SANZIONI DEI SOMMI PONTEFICI.<br>«*Quasi che i Monaci, i quali per la severità dei costumi e per l’istituzione santa della vita e della fede sono commendabili*», non solo opportunamente e senza offesa della Religione, ma anche con molto vantaggio della Chiesa «*vengano aggregati agli Ufficii Clericali*» (**San Siricio**, *Epist. Decret. ad Himerium Tarracon.,* cap. 13). `class: paragrafoNorm`
+
+
+***
+
+
+###### LXXXI.
+
+Parimenti in ciò che soggiunge, cioè che i Santi **Tommaso** e **Bonaventura** si comportarono in tal maniera nel difendere gl’Istituti dei mendicanti contro uomini sommi, che nelle loro difese si sarebbe desiderato meno fuoco e più precisione; `class: paragrafoNorm`
+
+
+SCANDALOSA, INGIURIOSA NEI CONFRONTI DEI SANTISSIMI DOTTORI, FAVOREVOLE ALLE EMPIE CONTUMELIE DI AUTORI CONDANNATI. `class: paragrafoNorm`
+
+
+***
+
+
+###### LXXXII.
+
+La regola seconda, per la quale «*la molteplicità degli Ordini e la diversità devono naturalmente portare al disordine ed alla confusione*»; e ciò che premette al § 4, «*che i fondatori dei Regolari (i quali vennero dopo le istituzioni monastiche) accrescendo Ordini ad Ordini, Riforme a Riforme, altro non fecero che dilatare maggiormente la causa primaria del male*»;<br><br>Intendendo per Ordini ed Istituti quelli approvati dalla Santa Sede, quasi che la distinta varietà dei pii uffici, ai quali i distinti Ordini sono addetti, debba di sua natura produrre perturbazione e confusione; `class: paragrafoNorm`
+
+
+FALSA, CALUNNIOSA, INGIURIOSA CONTRO I SANTI FONDATORI E I LORO FEDELI ALUNNI, NONCHÉ CONTRO GLI STESSI SOMMI PONTEFICI. `class: paragrafoNorm`
+
+
+***
+
+
+###### LXXXIII.
+
+La regola terza con la quale, dopo aver premesso che «*un piccolo Corpo che vive nella società civile senza quasi farne parte, e fissa una piccola monarchia nello stato, è sempre un Corpo pericoloso*», e accusa sotto questo nome i privati Monasteri uniti col vincolo del comune Istituto, particolarmente sotto un Capo, come altrettante speciali monarchie pericolose e nocive alla Repubblica civile; `class: paragrafoNorm`
+
+
+FALSA, TEMERARIA, INGIURIOSA CONTRO GL’ISTITUTI REGOLARI APPROVATI DALLA SANTA SEDE A VANTAGGIO DELLA RELIGIONE, FAVOREVOLE ALLE MALDICENZE E ALLE CALUNNIE DEGLI ERETICI CONTRO I MEDESIMI ISTITUTI. `class: paragrafoNorm`
+
+
+***
+
+
+### DEL SISTEMA, OSSIA DEL COMPLESSO DELLE DISPOSIZIONI COMPILATO SECONDO LE SOPRADDETTE REGOLE, E COMPRESO NEGLI OTTO SEGUENTI ARTICOLI PER LA RIFORMA DEI REGOLARI.
+
+
+#### § 10.
+
+
+###### LXXXIV.
+
+Artic. 1. *Non dovrebbe esistere nella Chiesa che un solo Ordine. Per gratitudine e per la sodezza del piano si dovrebbe scegliere la Regola di San Benedetto. Il metodo di vita condotto presso Porto Reale fornirebbe indicazioni per aggiungervi o toglierne ciò che forse non converrebbe nelle presenti circostanze.* `class: paragrafoNorm`
+Artic. 2. *Gli appartenenti a questo sistema non dovrebbero avere alcuna ingerenza nella gerarchia ecclesiastica, perciò non avranno Chiese pubbliche, e non saranno Promossi agli Ordini Sacri o, al più, uno o due di essi saranno ordinati come Curati o Cappellani del Monastero; gli altri rimarranno nello stato di semplici laici.* `class: paragrafoNorm`
+Artic. 3. *Ogni città non dovrebbe avere che un solo Monastero, situato fuori di essa nei luoghi più solitari e lontani.* `class: paragrafoNorm`
+Artic. 4. *Tra le occupazioni della vita monastica dovrebbe essere assolutamente dedicata una parte al lavoro manuale, lasciando per altro un conveniente tempo alla salmodia e, per chi volesse, allo studio. La salmodia dovrebbe essere moderata perché la soverchia lunghezza genera precipitazione, rincrescimento e dissipazione. Quanto più crebbero le salmodie, le orazioni e le preci si diminuirono in ogni tempo in proporzione il fervore e la santità dei Regolari.* `class: paragrafoNorm`
+Artic. 5. *Non si dovrebbe ammettere alcuna distinzione di Monaci da coro o da servizio; questa disuguaglianza suscitò in ogni tempo gravissime liti e discordie, e bandì lo spirito di carità dalle comunità di Regolari.* `class: paragrafoNorm`
+Artic. 6. *Il voto di permanenza perpetua non dovrà mai essere consentito. Gli antichi Monaci non lo conobbero, eppure furono la consolazione della Chiesa e l’ornamento del Cristianesimo. I voti di castità, di povertà, di ubbidienza non si ammetteranno come regola comune e stabile, ma chiunque vorrà farli, o tutti o in parte, dovrà chiedere consiglio e licenza al Vescovo, il quale però non permetterà giammai che siano perpetui, né passeranno l’anno; si darà soltanto la facoltà di rinnovarli, ma alle stesse condizioni.* `class: paragrafoNorm`
+Artic. 7. *Il Vescovo potrà effettuare la più ampia ispezione sulla loro condotta, sui loro studii, sul loro avanzamento nella cristiana perfezione; a lui spetterà l’ammettere o lo scacciare i singoli, avendo tuttavia ascoltato in precedenza coloro che convivono nel monastero*. `class: paragrafoNorm`
+Artic. 8. *I Regolari degli Ordini che tuttora sussistono potrebbero essere ammessi nel monastero, benché Sacerdoti, qualora desiderassero attendere nel silenzio e nel ritiro alla propria santificazione. In questo caso si potrebbe dispensare alla regola generale stabilita al numero secondo, in modo tale, però, che anche i Sacerdoti non avessero altro metodo di vita differente dagli altri, né si permetterà loro di celebrare, se non coerentemente alla regola sopra espressa, cioè che non vi sia più d’una, o al più due Messe per giorno; gli altri Sacerdoti dovranno essere contenti di concelebrare con la comunità.*
+
+
+***
+
+
+### SIMILMENTE PER LA RIFORMA DELLE MONACHE.
+
+
+#### § 11.
+
+
+*Non si ammetteranno voti perpetui fino a quaranta o quarantacinque anni. Dette monache si applicheranno in cose concrete e specialmente nel lavoro, e si allontaneranno sopra ogni cosa dalla carnale spiritualità, che costituisce l’occupazione della maggior parte di loro. Sarebbe solo a vedersi, se per esse convenisse lasciare il monastero nella città.*
+
+
+SISTEMA EVERSIVO DELLA DISCIPLINA VIGENTE, SIN DAI TEMPI ANTICHI APPROVATA E APPLICATA; PERNICIOSO, OPPOSTO ED INGIURIOSO VERSO LE COSTITUZIONI APOSTOLICHE, ED ALLE DECISIONI DI PIÙ CONCILII ANCHE GENERALI, E SPECIALMENTE DEL TRIDENTINO; FAVOREVOLE ALLE MALDICENZE ED ALLE CALUNNIE DEGLI ERETICI CONTRO I VOTI MONASTICI E GL’ISTITUTI REGOLARI ADDETTI AD UNA PIÙ STABILE PROFESSIONE DEI CONSIGLI EVANGELICI. `class: paragrafoNorm`
+
+
+***
+
+
+### DEL CONCILIO NAZIONALE DA CONVOCARSI.
+
+
+#### Promemoria per la convocazione di un Concilio Nazionale, § 1.
+
+
+###### LXXXV.
+
+La proposizione la quale dice che basta una qualche cognizione della storia ecclesiastica per dover ammettere che la convocazione di un Concilio nazionale è una delle strade canoniche per mettere fine nella Chiesa delle rispettive Nazioni alle controversie in materia di Religione;<br><br>Intesa nel senso che le controversie spettanti alla Fede, ed ai costumi nate in qualsivoglia Chiesa possano terminare con giudizio inconfutabile del Concilio nazionale, quasi che al Concilio nazionale competesse l’impossibilità di sbagliare nelle questioni di Fede e dei costumi; `class: paragrafoNorm`
+
+
+SCISMATICA, ERETICA. `class: paragrafoNorm`
+
+
+***
+
+
+Comandiamo dunque a tutti i fedeli dell’uno e dell’altro sesso che non presumano di pensare, insegnare e parlare intorno alle dette proposizioni e dottrine contro ciò che viene dichiarato in questa Nostra Costituzione, così che chiunque, congiuntamente o separatamente, insegnerà, difenderà, pubblicherà quelle, o alcuna di quelle, o anche ne tratterà disputando in pubblico o in privato, se non per combatterle, soggiaccia sul fatto stesso, senz’altra dichiarazione, alle censure ecclesiastiche e alle altre pene stabilite dal diritto contro chi commette simili cose.<br><br>Del resto con questa espressa riprovazione delle predette proposizioni e dottrine, non intendiamo approvare le altre cose contenute nel medesimo libro, essendo state particolarmente osservate in esso molte proposizioni e dottrine o affini a quelle che sono state condannate in precedenza, o tali che mostrano tanto un temerario disprezzo della comune dottrina e della disciplina approvate, quanto uno spirito sommamente avverso ai Romani Pontefici e all’Apostolica Sede.<br><br>Due cose poi giudichiamo degne di essere specialmente notate: che, a proposito del mistero della Santissima Trinità, § 2 del decreto della Fede, furono espresse nel Sinodo, se non con animo cattivo, certamente con imprudenza; esse possono facilmente trarre in inganno particolarmente gl’impreparati e gl’incauti. `class: paragrafoNorm`
+
+
+*La prima*: dopo aver giustamente premesso che Iddio nel suo Essere rimane uno e semplicissimo, soggiunge subito che lo stesso Dio si distingue in tre Persone; pertanto si allontana sconsideratamente dalla formula comune e adottata nelle istituzioni della dottrina cristiana: formula nella quale invero si dichiara Dio uno in tre Persone distinte, e non distinto in tre Persone.<br>Con il mutamento delle parole della formula vigente, s’insinua il pericolo dell’errore, cioè che si reputi distinta nelle Persone quell’Essenza Divina che la Fede cattolica confessa talmente una in Persone distinte, che al tempo stesso la professa pienamente indistinta in sé. `class: paragrafoNorm`
+
+
+*L’altra*: trattando delle medesime tre Persone Divine, insegna che secondo le loro proprietà personali – e incomunicabili per parlare più esattamente – sono descritte e denominate come Padre, Verbo e Spirito Santo, come se fosse meno proprio ed esatto l’appellativo di Figlio consacrato da tanti luoghi della Scrittura, dalla voce stessa del Padre discesa dal Cielo e dalla nuvola, nonché dalla formula del Battesimo prescritta da Cristo e da quella insigne testimonianza con la quale **Pietro** fu chiamato beato dallo stesso Cristo, né si dovrebbe dimenticare che l’Angelico Maestro (**San Tommaso**, parte I, quest. 34, articoli 2 e 3), istruito da **Agostino**, insegnò anch’egli che «*nel sostantivo Verbo è inclusa la stessa proprietà del nome Figlio*», in quanto **Agostino** afferma che «*dicendo Verbo è come dire Figlio*» (**Sant’Agostino**, *Della Trinità*, lib. 7, cap. 2).<br><br>Né va passata sotto silenzio quell’insigne temerità piena di frode usata dal Sinodo, il quale ha avuto l’ardire non solo di esaltare con profusissime lodi la dichiarazione dell’Assemblea Gallicana dell’anno 1682, già da tempo respinta dall’Apostolica Sede, ma per conciliarle maggiore autorità, di inserirla insidiosamente nel decreto intitolato *Della Fede*, di adottare palesemente gli articoli in essa contenuti, e con la pubblica e solenne professione di questi articoli di suggellare quelle cose che qua e là s’insegnano nello stesso decreto.<br>Onde non soltanto Noi abbiamo un assai più grave motivo di dolerci del Sinodo di quanto non ebbero i Nostri Predecessori di dolersi di quei Comizi, ma si fa ancora una non leggera ingiuria alla stessa Chiesa Gallicana che il Sinodo l’abbia stimata degna di essere chiamata a patrocinare con la sua autorità gli errori dei quali è infetto quel decreto.<br><br>Pertanto, siccome gli *Atti* dell’Assemblea Gallicana, tosto che uscirono alla luce, furono riprovati, cassati, dichiarati nulli ed irriti, in forza del loro apostolico ministero dal Nostro Venerabile Predecessore Innocenzo XI con sua lettera in forma di Breve dell’11 aprile 1682, e poi più espressamente da Alessandro VIII con la Costituzione *Inter multiplices* del 4 agosto 1690, così molto più fortemente la pastorale sollecitudine esige da Noi che la recente adozione nel Sinodo di tali *Atti*, infetti di tanti vizi, sia da Noi riprovata e condannata come temeraria, scandalosa e, particolarmente dopo i decreti emanati dai Nostri Predecessori, sommamente ingiuriosa nei confronti di questa Sede Apostolica; così come con questa Nostra presente Costituzione la riproviamo e condanniamo, e vogliamo che si tenga per riprovata e condannata.<br><br>A questo genere di frode appartiene il fatto che il Sinodo, in questo stesso decreto sulla Fede, riproduce molti articoli che i Teologi della facoltà di Lovanio sottoposero al giudizio di Innocenzo XI ed anche altri dodici presentati a Benedetto XIII dal Cardinale di Noailles, e non ha avuto difficoltà a resuscitare dal riprovato secondo Concilio di Utrecht la vana e antica impostura, diffondendola temerariamente fra il popolo con queste parole: essere notissimo all’Europa tutta che quegli articoli furono in Roma assoggettati ad un severissimo esame, e ne uscirono non solamente immuni da qualunque censura, ma addirittura furono raccomandati dai sopra lodati Pontefici.<br>Di tale asserita raccomandazione, peraltro, non solo non esiste alcun documento autentico, ché le si oppongono gli *Atti* dell’esame conservati nei registri della Nostra Suprema Inquisizione, dai quali risulta solamente che sopra di essi non fu proferito alcun giudizio.<br><br>Per questi motivi, pertanto, con autorità Apostolica, a tenore della presente Costituzione, proibiamo e condanniamo questo libro intitolato *Atti e decreti del Concilio diocesano di Pistoia dell’anno 1785. In Pistoia per Atto Bracali Stampatore Vescovile. Con approvazione*, sia sotto questo o qualunque altro titolo stampato finora, o da stamparsi ovunque, ed in qualunque idioma, con qualunque edizione o versione, come anche proibiamo e interdiciamo tutti gli altri libri in difesa del suddetto, o della sua dottrina, tanto manoscritti quanto, forse, già stampati o (che Dio non voglia!) da stamparsi; ne proibiamo la lettura, la trascrizione, la ritenzione e l’uso a tutti e ai singoli fedeli, sotto pena di scomunica da incorrersi *ipso facto* dai contravventori.<br><br>Comandiamo inoltre ai Venerabili Fratelli Patriarchi, Arcivescovi e Vescovi, ed agli altri Ordinarii dei luoghi, agl’Inquisitori dell’eretica pravità, che assolutamente reprimano e costringano qualunque contraddittore e ribelle con le censure e con le sopraddette pene, e con altri rimedii di diritto e di fatto, invocando anche a questo fine, se sarà necessario, l’aiuto del braccio secolare.<br><br>Vogliamo poi che alle copie della presente Costituzione, anche stampate, sottoscritte di mano di qualche notaio pubblico e munite del sigillo di persona costituita in dignità ecclesiastica, si presti la stessa fede che si presterebbe allo stesso originale se fosse esibito o mostrato.<br><br>Non sia dunque lecito ad alcuno violare questa Nostra dichiarazione di condanna, comando, proibizione e interdizione, o temerariamente contraddire ad essa.<br>Se qualcuno osasse contrastare ciò, sappia che incorrerà nell’indignazione dell’Onnipotente Iddio e dei Beati Apostoli **Pietro** e **Paolo**. `class: paragrafoNorm`
 
 
 Dato a Roma, presso Santa Maria Maggiore, l’anno dell’Incarnazione di Nostro Signore 1794, il 28 agosto, anno ventesimo del Nostro Pontificato. `class: dataLuogo`
