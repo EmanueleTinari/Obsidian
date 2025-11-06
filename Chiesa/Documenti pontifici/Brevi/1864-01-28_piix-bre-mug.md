@@ -222,7 +222,7 @@ Ed ora, col maggiore impegno dell’animo Nostro, Venerabili Fratelli, di nuovo 
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 28 gennaio 1864, anno decimottavo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
