@@ -52,7 +52,7 @@ Ricco di misericordia, Iddio non mancò mai alla sua Chiesa che milita in questo
 Dato in Roma, presso San Pietro, sotto l’anello del Pescatore, il 16 novembre 1877, anno trentaduesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
