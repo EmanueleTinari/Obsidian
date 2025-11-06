@@ -281,134 +281,134 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class
 
 NOTE:
 
-[^cevii-dec-apa-ftn1]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Costituzione Apostolica Humanae Salutis, 25 dicembre 1961: AAS 54 (1962), pp. 7-10.
+[^cevii-dec-apa-ftn1]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Costituzione Apostolica Humanae Salutis, 25 dicembre 1961: *AAS* 54 (1962), pp. 7-10.
 
-[^cevii-dec-apa-ftn2]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art33" name="cos-lug_art33">33</span>.|Lumen Gentium, n. 33ss]]* : AAS 57 (1965), pp. 39s [pag. 197ss];
-	cfr. anche [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art26" name="cos-sac_art26">26</span>.|Sacrosanctum Concilium, nn. 26]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art40" name="cos-sac_art40">40</span>.|40]]* (04 dicembre 1963) : AAS 56 (1964), pp. 107-111 [pag. 33ss];
-	cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sugli Strumenti di comunicazione sociale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm|Inter Mirifica]]* (04 dicembre 1963) : AAS 56 (1964), pp. 145-153;
-	cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr|Unitatis Redintegratio]]* (21 novembre 1964) : AAS 57 (1965), pp. 90-107;
+[^cevii-dec-apa-ftn2]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art33" name="cos-lug_art33">33</span>.|Lumen Gentium, n. 33ss]]* : *AAS* 57 (1965), pp. 39s [pag. 197ss];
+	cfr. anche [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art26" name="cos-sac_art26">26</span>.|Sacrosanctum Concilium, nn. 26]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art40" name="cos-sac_art40">40</span>.|40]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 107-111 [pag. 33ss];
+	cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sugli Strumenti di comunicazione sociale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm|Inter Mirifica]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 145-153;
+	cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr|Unitatis Redintegratio]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 90-107;
 	cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Missione pastorale dei Vescovi nella Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art16" name="dec-chd_art16">16</span>.|Christus Dominus, nn. 16]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art17" name="dec-chd_art17">17</span>.|17]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-chd#<span class="art" id="dec-chd_art18" name="dec-chd_art18">18</span>.|18]]* (28 ottobre 1965) [pag. 365ss];
 	cfr. Dichiarazione sull’Educazione cristiana *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-gre#<span class="art" id="dic-gre_art3" name="dic-gre_art3">3</span>.|Gravissimum educationis nn. 3]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-gre#<span class="art" id="dic-gre_art5" name="dic-gre_art5">5</span>.|5]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-gre#<span class="art" id="dic-gre_art7" name="dic-gre_art7">7</span>.|7]]* (28 ottobre 1965) [pag. 485ss].
 
-[^cevii-dec-apa-ftn3]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Cardinali, 18 febb. 1946: AAS 38 (1946), pp. 101-102;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Giovani Lavoratori Cattolici, 25 agosto 1957: AAS 49 (1957), p. 843.
+[^cevii-dec-apa-ftn3]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Cardinali, 18 febb. 1946: *AAS* 38 (1946), pp. 101-102;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Giovani Lavoratori Cattolici, 25 agosto 1957: *AAS* 49 (1957), p. 843.
 
-[^cevii-dec-apa-ftn4]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Ecclesiae: AAS 18 (1926), p. 65.
+[^cevii-dec-apa-ftn4]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Ecclesiae: *AAS* 18 (1926), p. 65.
 
-[^cevii-dec-apa-ftn5]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art31" name="cos-lug_art31">31</span>.|Lumen Gentium, n. 31]]* : AAS 57 (1965), p. 37 [pag. 193ss].
+[^cevii-dec-apa-ftn5]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art31" name="cos-lug_art31">31</span>.|Lumen Gentium, n. 31]]* : *AAS* 57 (1965), p. 37 [pag. 193ss].
 
 [^cevii-dec-apa-ftn6]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art33" name="cos-lug_art33">33</span>.|Lumen Gentium, n. 33]]*, p. 39 [pag. 197ss];
 cfr. anche *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art10" name="cos-lug_art10">10</span>.|n. 10]]*, p. 14 [pag. 137ss].
 
 [^cevii-dec-apa-ftn7]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art12" name="cos-lug_art12">12</span>.|Lumen Gentium, n. 12]]*, p. 16 [pag. 141ss].
 
-[^cevii-dec-apa-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art11" name="cos-sac_art11">11</span>.|Sacrosanctum Concilium, n. 11]]* (04 dicembre 1963) : AAS 56 (1964), pp. 102-103 [pag. 25].
+[^cevii-dec-apa-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art11" name="cos-sac_art11">11</span>.|Sacrosanctum Concilium, n. 11]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 102-103 [pag. 25].
 
-[^cevii-dec-apa-ftn9]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art32" name="cos-lug_art32">32</span>.|Lumen Gentium, n. 32]]* : AAS 57 (1965), p. 38 [pag. 195ss];
+[^cevii-dec-apa-ftn9]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art32" name="cos-lug_art32">32</span>.|Lumen Gentium, n. 32]]* : *AAS* 57 (1965), p. 38 [pag. 195ss];
 cfr. anche *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art40" name="cos-lug_art40">40</span>.|nn. 40]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art41" name="cos-lug_art41">41</span>.|41]]*, pp. 45-47 [pag. 211ss].
 
 [^cevii-dec-apa-ftn10]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art62" name="cos-lug_art62">62</span>.|Lumen Gentium, n. 62]]*, p. 63 [pag. 257ss];
 cfr. anche *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art65" name="cos-lug_art65">65</span>.|n. 65]]*, pp. 64-65 [pag. 261ss].
 
-[^cevii-dec-apa-ftn11]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ubi arcano, 23 dicembre 1922: AAS 14 (1922), p. 659;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Summi Pontificatus, 20 ottobre 1939: AAS 31 (1939), p. 442-443.
+[^cevii-dec-apa-ftn11]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ubi arcano, 23 dicembre 1922: *AAS* 14 (1922), p. 659;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Summi Pontificatus, 20 ottobre 1939: *AAS* 31 (1939), p. 442-443.
 
 [^cevii-dec-apa-ftn12]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Rerum Novarum: ASS 23 (1890-91), p. 647;
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo Anno: AAS 23 (1931), p. 190 [in parte Dz 3725];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 1° giugno 1941: AAS 33 (1941), p. 207.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo Anno: *AAS* 23 (1931), p. 190 [in parte Dz 3725];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 1° giugno 1941: *AAS* 33 (1941), p. 207.
 
-[^cevii-dec-apa-ftn13]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 402.
+[^cevii-dec-apa-ftn13]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 402.
 
-[^cevii-dec-apa-ftn14]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 440-441.
+[^cevii-dec-apa-ftn14]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 440-441.
 
-[^cevii-dec-apa-ftn15]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), pp. 442-443.
+[^cevii-dec-apa-ftn15]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), pp. 442-443.
 
-[^cevii-dec-apa-ftn16]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso alla “Pax Romana M. I. I. C.”, 25 aprile 1957: AAS 49 (1957), pp. 208-209, e soprattutto [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso Ad Conventum Consilii “Food and Agriculture Organisation” (F.A.O.), 10 novembre 1959): AAS 51 (1959), pp. 856, 866.
+[^cevii-dec-apa-ftn16]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso alla “Pax Romana M. I. I. C.”, 25 aprile 1957: *AAS* 49 (1957), pp. 208-209, e soprattutto [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso Ad Conventum Consilii “Food and Agriculture Organisation” (F.A.O.), 10 novembre 1959): *AAS* 51 (1959), pp. 856, 866.
 
 [^cevii-dec-apa-ftn17]: Cfr. San Pio X, Lettera Apostolica Creationis duarum novarum paroeciarum, 1° giugno 1905: ASS 38 (1905), pp. 65-67;
 	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai fedeli della Parrocchia di San Saba, 11 gennaio 1953: Discorsi e Radiomessaggi di Sua Santità [[Scheda 260° papa - Pio XII|Pio XII]], 14, 1952-1953, pp. 449-454;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso al Clero e ai fedeli della diocesi suburbicaria di Albano, pronunziato a Castelgandolfo, 26 agosto 1962: AAS 54 (1962), pp. 656-660.
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso al Clero e ai fedeli della diocesi suburbicaria di Albano, pronunziato a Castelgandolfo, 26 agosto 1962: *AAS* 54 (1962), pp. 656-660.
 
 [^cevii-dec-apa-ftn18]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso, 28 gennaio 1894: Acta 14 (1894), pp. 424-425.
 
 [^cevii-dec-apa-ftn19]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso ai Parroci ecc., 6 febbraio 1951: Discorsi e Radiomessaggi di Sua Santità [[Scheda 260° papa - Pio XII|Pio XII]], 12 (1950-1951), pp. 437-443; 8 marzo 1952: ibid., 14 (1952-1953), pp. 5-10; 27 marzo 1953: ibid. 15 (1953-1954), pp. 27-35; 28 febbraio 1954: ibid., pp. 585-590.
 
-[^cevii-dec-apa-ftn20]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: AAS 22 (1930), p. 554;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 1° giugno 1941: AAS 33 (1941), p. 203;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Ai Delegati al Congresso dell’Unione Internazionale per la tutela dei diritti della famiglia, 20 settembre 1949: AAS 41 (1949), p. 552;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Ai padri di famiglia pellegrini a Roma dalla Francia, 18 settembre 1951: AAS 43 (1951), p. 731;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico per il Natale 1952: AAS 45 (1953), p. 41;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), pp. 429, 439.
+[^cevii-dec-apa-ftn20]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: *AAS* 22 (1930), p. 554;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 1° giugno 1941: *AAS* 33 (1941), p. 203;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Ai Delegati al Congresso dell’Unione Internazionale per la tutela dei diritti della famiglia, 20 settembre 1949: *AAS* 41 (1949), p. 552;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Ai padri di famiglia pellegrini a Roma dalla Francia, 18 settembre 1951: *AAS* 43 (1951), p. 731;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico per il Natale 1952: *AAS* 45 (1953), p. 41;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), pp. 429, 439.
 
-[^cevii-dec-apa-ftn21]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Evangelii Praecones, 2 giugno 1951: AAS 43 (1951), p. 514.
+[^cevii-dec-apa-ftn21]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Evangelii Praecones, 2 giugno 1951: *AAS* 43 (1951), p. 514.
 
-[^cevii-dec-apa-ftn22]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Ai delegati al Congresso dell’Unione Internazionale per la tutela dei diritti della famiglia, 20 settembre 1949: AAS 41 (1949), p. 552.
+[^cevii-dec-apa-ftn22]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Ai delegati al Congresso dell’Unione Internazionale per la tutela dei diritti della famiglia, 20 settembre 1949: *AAS* 41 (1949), p. 552.
 
 [^cevii-dec-apa-ftn23]: Cfr. San Pio X, Discorso all’Associazione cattolica della Gioventù Francese per la pietà, la scienza e l’azione, 25 settembre 1904: ASS 37 (1904-1905), pp. 296-300.
 
-[^cevii-dec-apa-ftn24]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Lettera Dans quelques semaines, all’Arcivescovo di Montréal: sui congressi organizzati dai giovani operai cristiani canadesi, 24 maggio 1947: AAS 39 (1947), p. 257;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico alla J.O.C. di Bruxelles, 3 settembre 1950: AAS 42 (1950), pp. 640-641.
+[^cevii-dec-apa-ftn24]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Lettera Dans quelques semaines, all’Arcivescovo di Montréal: sui congressi organizzati dai giovani operai cristiani canadesi, 24 maggio 1947: *AAS* 39 (1947), p. 257;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico alla J.O.C. di Bruxelles, 3 settembre 1950: *AAS* 42 (1950), pp. 640-641.
 
-[^cevii-dec-apa-ftn25]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo Anno, 15 maggio 1931: AAS 23 (1931), pp. 225-226.
+[^cevii-dec-apa-ftn25]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo Anno, 15 maggio 1931: *AAS* 23 (1931), pp. 225-226.
 
-[^cevii-dec-apa-ftn26]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), pp. 448-450.
+[^cevii-dec-apa-ftn26]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), pp. 448-450.
 
-[^cevii-dec-apa-ftn27]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al I Congresso Mondiale per l’Apostolato dei Laici, 14 ottobre 1951: AAS 43 (1951), p. 788.
+[^cevii-dec-apa-ftn27]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al I Congresso Mondiale per l’Apostolato dei Laici, 14 ottobre 1951: *AAS* 43 (1951), p. 788.
 
-[^cevii-dec-apa-ftn28]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al I Congresso Mondiale per l’Apostolato dei Laici, 14 ottobre 1951: AAS 43 (1951), pp. 787-788.
+[^cevii-dec-apa-ftn28]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al I Congresso Mondiale per l’Apostolato dei Laici, 14 ottobre 1951: *AAS* 43 (1951), pp. 787-788.
 
-[^cevii-dec-apa-ftn29]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Le pèlerinage de Lourdes, 2 luglio 1957: AAS 49 (1957), p. 615.
+[^cevii-dec-apa-ftn29]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Le pèlerinage de Lourdes, 2 luglio 1957: *AAS* 49 (1957), p. 615.
 
-[^cevii-dec-apa-ftn30]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al Consiglio della Federazione Internazionale degli uomini cattolici, 8 dicembre 1956: AAS 49 (1957), pp. 26-27.
+[^cevii-dec-apa-ftn30]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al Consiglio della Federazione Internazionale degli uomini cattolici, 8 dicembre 1956: *AAS* 49 (1957), pp. 26-27.
 
 [^cevii-dec-apa-ftn31]: Cfr. sotto, cap. V, n. 24 [pag. 605s].
 
-[^cevii-dec-apa-ftn32]: Cfr. Sacra Congregazione del Concilio, Risoluzione Corrienten. 13 novembre 1920: AAS 13 (1921), p. 139.
+[^cevii-dec-apa-ftn32]: Cfr. Sacra Congregazione del Concilio, Risoluzione Corrienten. 13 novembre 1920: *AAS* 13 (1921), p. 139.
 
-[^cevii-dec-apa-ftn33]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Princeps Pastorum, 10 dicembre 1959: AAS 51 (1959), p. 856.
+[^cevii-dec-apa-ftn33]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Princeps Pastorum, 10 dicembre 1959: *AAS* 51 (1959), p. 856.
 
-[^cevii-dec-apa-ftn34]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Lettera Quae nobis al Card. Bertram, 13 novembre 1928: AAS 20 (1928), p. 385.
-	Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Discorso all’Azione Cattolica Italiana, 4 settembre 1940: AAS 32 (1940), p. 362.
+[^cevii-dec-apa-ftn34]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Lettera Quae nobis al Card. Bertram, 13 novembre 1928: *AAS* 20 (1928), p. 385.
+	Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Discorso all’Azione Cattolica Italiana, 4 settembre 1940: *AAS* 32 (1940), p. 362.
 
-[^cevii-dec-apa-ftn35]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quamvis Nostra, 30 aprile 1936: AAS 28 (1936), pp. 160-161.
+[^cevii-dec-apa-ftn35]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quamvis Nostra, 30 aprile 1936: *AAS* 28 (1936), pp. 160-161.
 
-[^cevii-dec-apa-ftn36]: Cfr. Sacra Congregazione del Concilio, Risoluzione Corrienten., 13 novembre 1920: AAS 13 (1921), pp. 137-140.
+[^cevii-dec-apa-ftn36]: Cfr. Sacra Congregazione del Concilio, Risoluzione Corrienten., 13 novembre 1920: *AAS* 13 (1921), pp. 137-140.
 
-[^cevii-dec-apa-ftn37]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al II Congresso Mondiale per l’Apostolato dei Laici, 5 ottobre 1957: AAS 49 (1957), p. 927.
+[^cevii-dec-apa-ftn37]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al II Congresso Mondiale per l’Apostolato dei Laici, 5 ottobre 1957: *AAS* 49 (1957), p. 927.
 
-[^cevii-dec-apa-ftn38]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art37" name="cos-lug_art37">37</span>.|Lumen Gentium, n. 37]]* : AAS 57 (1965), pp. 42-43 [pag. 207ss].
+[^cevii-dec-apa-ftn38]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art37" name="cos-lug_art37">37</span>.|Lumen Gentium, n. 37]]* : *AAS* 57 (1965), pp. 42-43 [pag. 207ss].
 
-[^cevii-dec-apa-ftn39]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: AAS 42 (1950), p. 660.
+[^cevii-dec-apa-ftn39]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti Nostrae, 23 settembre 1950: *AAS* 42 (1950), p. 660.
 
 [^cevii-dec-apa-ftn40]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sul rinnovamento della vita religiosa, n. 8: [pag. 419ss].
 
 [^cevii-dec-apa-ftn41]: Cfr. [[Scheda 247° papa - Benedetto XIV\|Benedetto XIV]], **[[De Synodo Dioecesana]]**, l. III, c. IX, n. VII-VIII: Opera omnia in tomos XVII distributa, tom. XI (Prati, 1844), pp. 76-77.
 
-[^cevii-dec-apa-ftn42]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quamvis Nostra, 30 aprile 1936: AAS 28 (1936), pp. 160-161.
+[^cevii-dec-apa-ftn42]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quamvis Nostra, 30 aprile 1936: *AAS* 28 (1936), pp. 160-161.
 
-[^cevii-dec-apa-ftn43]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), pp. 456-457.
-	cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art12" name="dec-unr_art12">12</span>.|Unitatis Redintegratio, n. 12]]* (21 novembre 1964) : AAS 57 (1965), pp. 99-100 [pag. 327ss].
+[^cevii-dec-apa-ftn43]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), pp. 456-457.
+	cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art12" name="dec-unr_art12">12</span>.|Unitatis Redintegratio, n. 12]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 99-100 [pag. 327ss].
 
-[^cevii-dec-apa-ftn44]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art12" name="dec-unr_art12">12</span>.|Unitatis Redintegratio, n. 12]]* (21 novembre 1964) : AAS 57 (1965), p. 99-100 [pag. 327ss].
-	cfr. anche la Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art15" name="cos-lug_art15">15</span>.|Lumen Gentium, n. 15]]* : AAS 57 (1965), pp. 19-2
+[^cevii-dec-apa-ftn44]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art12" name="dec-unr_art12">12</span>.|Unitatis Redintegratio, n. 12]]* (21 novembre 1964) : *AAS* 57 (1965), p. 99-100 [pag. 327ss].
+	cfr. anche la Costituzione Dogmatica sulla Chiesa, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art15" name="cos-lug_art15">15</span>.|Lumen Gentium, n. 15]]* : *AAS* 57 (1965), pp. 19-2
 
-[^cevii-dec-apa-ftn45]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#CAPITOLO II.<br>IL POPOLO DI DIO|Lumen Gentium, cap. II]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#CAPITOLO IV.<br>I LAICI|IV]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#CAPITOLO V.<br>UNIVERSALE VOCAZIONE ALLA SANTITÀ NELLA CHIESA|V]]* : AAS 57 (1965), pp. 12-23, 37-49 [pag. 133ss, 193ss];
-	cfr. anche il Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art4" name="dec-unr_art4">4</span>.|Unitatis Redintegratio, nn. 4]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art6" name="dec-unr_art6">6</span>.|6]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art7" name="dec-unr_art7">7</span>.|7]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art12" name="dec-unr_art12">12</span>.|12]]* (21 novembre 1964) : AAS 57 (1965), pp. 94, 96, 97, 99, 100 [pag. 315ss, 321ss, 327ss];
+[^cevii-dec-apa-ftn45]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#CAPITOLO II.<br>IL POPOLO DI DIO|Lumen Gentium, cap. II]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#CAPITOLO IV.<br>I LAICI|IV]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#CAPITOLO V.<br>UNIVERSALE VOCAZIONE ALLA SANTITÀ NELLA CHIESA|V]]* : *AAS* 57 (1965), pp. 12-23, 37-49 [pag. 133ss, 193ss];
+	cfr. anche il Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art4" name="dec-unr_art4">4</span>.|Unitatis Redintegratio, nn. 4]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art6" name="dec-unr_art6">6</span>.|6]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art7" name="dec-unr_art7">7</span>.|7]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art12" name="dec-unr_art12">12</span>.|12]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 94, 96, 97, 99, 100 [pag. 315ss, 321ss, 327ss];
 	cfr. anche sopra, n. 4 [pag. 565ss].
 
-[^cevii-dec-apa-ftn46]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso alla VI Conferenza internazionale dei “boyscouts”, 6 giugno 1952: AAS 44 (1952), pp. 579-580;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), p. 456.
+[^cevii-dec-apa-ftn46]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso alla VI Conferenza internazionale dei “boyscouts”, 6 giugno 1952: *AAS* 44 (1952), pp. 579-580;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), p. 456.
 
-[^cevii-dec-apa-ftn47]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art33" name="cos-lug_art33">33</span>.|Lumen Gentium, n. 33]]* : AAS 57 (1965), p. 39 [pag. 197ss].
+[^cevii-dec-apa-ftn47]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art33" name="cos-lug_art33">33</span>.|Lumen Gentium, n. 33]]* : *AAS* 57 (1965), p. 39 [pag. 197ss].
 
-[^cevii-dec-apa-ftn48]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), p. 455.
+[^cevii-dec-apa-ftn48]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), p. 455.
 
-[^cevii-dec-apa-ftn49]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sertum laetitiae, 1 novembre 1939: AAS 31 (1939), pp. 635-644;
+[^cevii-dec-apa-ftn49]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sertum laetitiae, 1 novembre 1939: *AAS* 31 (1939), pp. 635-644;
 	cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Ai «laureati» Azione Cattolica Italiana 24 maggio 1953.
 
-[^cevii-dec-apa-ftn50]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al Congresso Universale della Federazione Mondiale della Gioventù Femminile Cattolica, 18 aprile 1952: AAS 44 (1952), pp. 414-419.
-	Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso all’Associazione Cristiana dei Lavoratori Italiani (A.C.L.I.), 1° maggio 1955: AAS 47 (1955), pp. 403-404.
+[^cevii-dec-apa-ftn50]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso al Congresso Universale della Federazione Mondiale della Gioventù Femminile Cattolica, 18 aprile 1952: *AAS* 44 (1952), pp. 414-419.
+	Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso all’Associazione Cristiana dei Lavoratori Italiani (A.C.L.I.), 1° maggio 1955: *AAS* 47 (1955), pp. 403-404.
 
-[^cevii-dec-apa-ftn51]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Ai Delegati del Congresso delle Associazioni di Carità, 27 aprile 1952: AAS 44 (1952), pp. 470-471.
+[^cevii-dec-apa-ftn51]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Ai Delegati del Congresso delle Associazioni di Carità, 27 aprile 1952: *AAS* 44 (1952), pp. 470-471.
 
-[^cevii-dec-apa-ftn52]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), p. 454.
+[^cevii-dec-apa-ftn52]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), p. 454.
