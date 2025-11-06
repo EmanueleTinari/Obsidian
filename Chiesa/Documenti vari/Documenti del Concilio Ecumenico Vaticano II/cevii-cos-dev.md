@@ -20,27 +20,27 @@ creato: 2025/06/18 23:53:19
 modificato: 2025/07/09 23:32:40
 ---
 
+
 ***
 
-`class: tipoAut`
-Paolo Vescovo
+
+Paolo Vescovo `class: tipoAut`
 
 
-`class: tipoAut`
-Servo dei servi di Dio
+Servo dei servi di Dio `class: tipoAut`
 
 
-`class: tipoAut`
-Unitamente ai Padri del Sacro Concilio
+Unitamente ai Padri del Sacro Concilio `class: tipoAut`
 
 
-`class: tipoAut`
-A perpetua memoria
+A perpetua memoria `class: tipoAut`
 
 
 Costituzione Dogmatica<br>sulla Divina Rivelazione `class: tipoDoc`
 
+
 # Dei Verbum
+
 
 ### PROEMIO
 
@@ -237,16 +237,16 @@ NOTE:
 
 [^cevii-cos-dev-ftn13]: Cfr. Concilio di Trento, Decreto De canonicis Scripturis: Dz 783 (1501) [Collantes 2.006].
 
-[^cevii-cos-dev-ftn14]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica **[[Munificentissimus Deus, 1° novembre 1950]]**: AAS 42 (1950), p. 756, che riporta le parole di **San Cipriano**, *Epistola 66*, 8: CSEL 3, 2, 733: “*La Chiesa è un popolo raccolto intorno al Sacerdote e un gregge unito al suo Pastore*”.
+[^cevii-cos-dev-ftn14]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica **[[Munificentissimus Deus, 1° novembre 1950]]**: *AAS* 42 (1950), p. 756, che riporta le parole di **San Cipriano**, *Epistola 66*, 8: CSEL 3, 2, 733: “*La Chiesa è un popolo raccolto intorno al Sacerdote e un gregge unito al suo Pastore*”.
 
 [^cevii-cos-dev-ftn15]: Cfr. Concilio Ecumenico Vaticano I, Costituzione Dogmatica sulla fede cattolica *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-def#CAPITOLO III.<br>LA FEDE|Dei Filius, Cap. III]]* (24 aprile 1870) : Dz 1792 (3011) [Collantes 1.070].
 
-[^cevii-cos-dev-ftn16]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica **[[Humani Generis, 12 ag. 1950]]**: AAS 42 (1950), pp. 568-569: Dz 2314 (3886) [Collantes 7.203-04].
+[^cevii-cos-dev-ftn16]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica **[[Humani Generis, 12 ag. 1950]]**: *AAS* 42 (1950), pp. 568-569: Dz 2314 (3886) [Collantes 7.203-04].
 
 [^cevii-cos-dev-ftn17]: Cfr. Concilio Ecumenico Vaticano I, Costituzione Dogmatica sulla fede cattolica *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-def#CAPITOLO II.<BR>LA RIVELAZIONE|Dei Filius, Cap. II]]* (24 aprile 1870) : Dz 1787 (3006) [Collantes 2.015].
 	Pontificia Commissione Biblica, Decreto 18 giugno 1915: Dz 2180 (3629); EB 420. S. S. C. del S. Uffizio, Lett. 22 dicembre 1923: EB 499.
 
-[^cevii-cos-dev-ftn18]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica **[[Divino afflante, 30 settembre 1943]]**: AAS 35 (1943), p. 314; EB 556.
+[^cevii-cos-dev-ftn18]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica **[[Divino afflante, 30 settembre 1943]]**: *AAS* 35 (1943), p. 314; EB 556.
 
 [^cevii-cos-dev-ftn19]: In e per l’uomo: cfr. *<span class="BibleRef">[[Eb 1,1|Eb 1,1]]</span>* e *<span class="BibleRef">[[Eb 4,7|Eb 4,7]]</span>* (in); *<span class="BibleRef">[[2Sam 23,2|2Sam 23,2]]</span>*; *<span class="BibleRef">[[Mt 1,22|Mt 1,22]]</span>* e passim (per);
 	Concilio Ecumenico Vaticano I, Schema de doctr. cath., nota 9: Coll. Lac. VII, 522.
@@ -272,7 +272,7 @@ NOTE:
 
 [^cevii-cos-dev-ftn27]: **San Giovanni Crisostomo*, *In Gen.* 3,8 (om. 17,1): *PG* 53,134. “*Attemperatio*”, in greco *synkatábasis*
 
-[^cevii-cos-dev-ftn28]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica **[[Mit brennender Sorge, 14 marzo 1937]]**: AAS 29 (1937), p. 151.
+[^cevii-cos-dev-ftn28]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica **[[Mit brennender Sorge, 14 marzo 1937]]**: *AAS* 29 (1937), p. 151.
 
 [^cevii-cos-dev-ftn29]: Cfr. **Sant’Agostino**, *Quaest. in Hept.*, 2, 73: PL 34, 623.
 
@@ -290,10 +290,10 @@ NOTE:
 	*<span class="BibleRef">[[Gv 16,12-13|Gv 16,12-13]]</span>*;
 	*<span class="BibleRef">[[Gv 7,39|Gv 7,39]]</span>*.
 
-[^cevii-cos-dev-ftn34]: Cfr. Istruzione Sancta Mater Ecclesia emanata dal Pontificio Consiglio per la promozione degli Studi Biblici: AAS 56 (1964) p. 715.
+[^cevii-cos-dev-ftn34]: Cfr. Istruzione Sancta Mater Ecclesia emanata dal Pontificio Consiglio per la promozione degli Studi Biblici: *AAS* 56 (1964) p. 715.
 
 [^cevii-cos-dev-ftn35]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica **[[Divino afflante Spiritu, 30 settembre 1943]]**: EB 551, 553, 567.
-	Pontificia Commissione Biblica, Instructio de S. Scriptura in Clericorum Seminariis et Religiosorum Collegiis recte docenda, 13 maggio 1950: AAS 42 (1950) pp. 495-505.
+	Pontificia Commissione Biblica, Instructio de S. Scriptura in Clericorum Seminariis et Religiosorum Collegiis recte docenda, 13 maggio 1950: *AAS* 42 (1950) pp. 495-505.
 
 [^cevii-cos-dev-ftn36]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica **[[Divino afflante Spiritu, 30 settembre 1943]]**: EB 569.
 
