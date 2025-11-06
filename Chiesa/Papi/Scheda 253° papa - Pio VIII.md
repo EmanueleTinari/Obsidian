@@ -10,19 +10,19 @@ luogo-nascita: Cingoli (Macerata)
 giorno-nascita: 20
 mese-nascita: 11
 anno-nascita: 1761
-data-nascita: 1761/11/20
+data-nascita: 1761-11-20
 giorno-elezione: 31
 mese-elezione: 03
 anno-elezione: 1829
-data-elezione: 1829/03/31
+data-elezione: 1829-03-31
 giorno-consacr: 05
 mese-consacr: 04
 anno-consacr: 1829
-data-consacr: 1829/04/05
+data-consacr: 1829-04-05
 giorno-fine: 01
 mese-fine: 12
 anno-fine: 1830
-fine-pontificato: 1830/12/01
+fine-pontificato: 1830-12-01
 causa-morte: Decesso
 luogo-morte: Roma
 luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
@@ -39,7 +39,18 @@ creato: 2025/06/25 13:39:56
 modificato: 2025/07/09 23:33:15
 ---
 
+
 ***
+
+
+# `=this.aliases[0]`
+
+
+###### `=this.nome-secolare`, nato a `=this.luogo-nascita` il `=dateformat(this["data-nascita"], "dd MMMM yyyy")`
+
+
+<br><br>
+
 
 > [!info]- ELENCO SOMMI PONTEFICI
 >
@@ -356,7 +367,7 @@ modificato: 2025/07/09 23:33:15
 > [[Scheda 253° papa - Pio VIII|Pio VIII]]
 
 > [!info]- Foto
-> ![[|200]]
+> ![[ATTENZIONE!!! QUI LA FOTO.jpg|XXX, yyy papa Pio VIII, kkk|200]]
 
 ```dataviewjs
 // Nome del file corrente
@@ -408,20 +419,25 @@ if (allDocs.length === 0) {
     // --- Costruzione blocco unico ---
     let tableBlock = `> [!seealso]- Scritti di **${autoreAliases[0]}**:\n`;
     tipiOrdinati.forEach(tipo => {
-        const docs = grouped[tipo].sort((a,b) => a["data-doc"] && b["data-doc"] ? dv.date(a["data-doc"]).epoch - dv.date(b["data-doc"]).epoch : 0);
+	const docs = grouped[tipo].sort((a,b) => {
+		const A = parseInt(a["num-doc"] ?? 0, 10);
+		const B = parseInt(b["num-doc"] ?? 0, 10);
+		return A - B;
+	});
         tableBlock += `> > [!seealso]- **${tipo}**\n`; // titolo sotto-callout
-        tableBlock += `> > | Stato | Progr. | Num | Titolo | Data | File name |\n`;
-        tableBlock += `| :------------------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |\n`;
+        tableBlock += `> > | Compl. | Progr. | # doc x Papa | # | <p style="text-align:center;">Titolo</p> | <p style="text-align:center;">Data</p> | <p style="text-align:center;">Nome file</p> |\n`;
+        tableBlock += `| :-------------: | :-------: | :-------: | :-------------------: | :-----------------------------------------  | :-------------------------------------- | :---------------------------------- |\n`;
         docs.forEach((p,index) => {
             const pathEsc = escAttr(p.file.path);
             const fnameEsc = escAttr(p.file.name);
             const statoIcon = p["stato"] === "completato" ? "✅" : "⬜";
             const progr = (p["progr-doc"] || "").toString().replace(/\|/g,'\\|');
+            const nd = (p["num-doc"] || "").toString().replace(/\|/g,'\\|');
             const num = index + 1;
             const titolo = (p["titolo-doc"] || "").toString().replace(/\|/g,'\\|');
             const dataStr = p["data-doc"] ? dv.date(p["data-doc"]).toFormat("dd-MM-yyyy") : "";
 			const a = `<a href="#" onclick="app.workspace.openLinkText('${p.file.path}','${dv.current().file.path}',false)">${p.file.name}</a>`;
-            tableBlock += `| <span class="dv-autocb" data-path="${pathEsc}" data-fname="${fnameEsc}">${statoIcon}</span> | ${progr} | ${num} | ${titolo} | ${dataStr} | ${a} |\n`;
+            tableBlock += `| <span class="dv-autocb" data-path="${pathEsc}" data-fname="${fnameEsc}">${statoIcon}</span> | ${progr} | ${nd}  | ${num} | ${titolo} | ${dataStr} | ${a} |\n`;
         });
         tableBlock += `> \n`; // chiude sotto-callout
     });
