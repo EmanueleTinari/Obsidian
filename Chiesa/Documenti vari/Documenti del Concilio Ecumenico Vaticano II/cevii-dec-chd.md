@@ -308,83 +308,83 @@ NOTE:
 
 [^cevii-dec-chd-ftn4]: Cfr. Concilio Ecumenico Vaticano I, Costituzione Dogmatica I sulla Chiesa di Cristo, Proemio: Dz 1821 (3050) [Collantes 7.176].
 
-[^cevii-dec-chd-ftn5]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art21" name="cos-lug_art21">21</span>.|Lumen Gentium, nn. 21]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art24" name="cos-lug_art24">24</span>.|24]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|25]]* : AAS 57 (1965), pp. 24-25.29-31 [pag. 163ss, 173ss].
+[^cevii-dec-chd-ftn5]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art21" name="cos-lug_art21">21</span>.|Lumen Gentium, nn. 21]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art24" name="cos-lug_art24">24</span>.|24]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|25]]* : *AAS* 57 (1965), pp. 24-25.29-31 [pag. 163ss, 173ss].
 
-[^cevii-dec-chd-ftn6]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art21" name="cos-lug_art21">21</span>.|Lumen Gentium, n. 21]]* : AAS 57 (1965), pp. 24-25 [pag. 163ss].
+[^cevii-dec-chd-ftn6]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art21" name="cos-lug_art21">21</span>.|Lumen Gentium, n. 21]]* : *AAS* 57 (1965), pp. 24-25 [pag. 163ss].
 
-[^cevii-dec-chd-ftn7]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Costituzione Apostolica Humanae salutis, 25 dicembre 1961: AAS 54 (1962), p. 6.
+[^cevii-dec-chd-ftn7]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Costituzione Apostolica Humanae salutis, 25 dicembre 1961: *AAS* 54 (1962), p. 6.
 
-[^cevii-dec-chd-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22]]* : AAS 57 (1965), pp. 25-27 [pag. 165ss].
+[^cevii-dec-chd-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22]]* : *AAS* 57 (1965), pp. 25-27 [pag. 165ss].
 
-[^cevii-dec-chd-ftn9]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22]]* : AAS 57 (1965), pp. 25-27 [pag. 165ss].
+[^cevii-dec-chd-ftn9]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22]]* : *AAS* 57 (1965), pp. 25-27 [pag. 165ss].
 
-[^cevii-dec-chd-ftn10]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22]]* : AAS 57 (1965), pp. 25-27 [pag. 165ss].
+[^cevii-dec-chd-ftn10]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22]]* : *AAS* 57 (1965), pp. 25-27 [pag. 165ss].
 
-[^cevii-dec-chd-ftn11]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22]]* : AAS 57 (1965), pp. 25-27 [pag. 165ss].
+[^cevii-dec-chd-ftn11]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22]]* : *AAS* 57 (1965), pp. 25-27 [pag. 165ss].
 
-[^cevii-dec-chd-ftn12]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Motu proprio Apostolica Sollicitudo, 15 settembre 1965: AAS 57 (1965), pp. 775-780.
+[^cevii-dec-chd-ftn12]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Motu proprio Apostolica Sollicitudo, 15 settembre 1965: *AAS* 57 (1965), pp. 775-780.
 
-[^cevii-dec-chd-ftn13]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, cap. III, n. 23: AAS 57 (1965), pp. 27-28 [pag. 169ss].
+[^cevii-dec-chd-ftn13]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa, cap. III, n. 23: *AAS* 57 (1965), pp. 27-28 [pag. 169ss].
 
-[^cevii-dec-chd-ftn14]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fidei donum, 21 aprile 1957: AAS 49 (1957), p. 237;
-	cfr. anche: Benedetto XV, Lettera Apostolica Maximum illud, 30 novembre 1919: AAS 11 (1919), p. 440;
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Ecclesiae, 28 febbraio 1926: AAS 18 (1926), pp. 68ss.
+[^cevii-dec-chd-ftn14]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fidei donum, 21 aprile 1957: *AAS* 49 (1957), p. 237;
+	cfr. anche: Benedetto XV, Lettera Apostolica Maximum illud, 30 novembre 1919: *AAS* 11 (1919), p. 440;
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Ecclesiae, 28 febbraio 1926: *AAS* 18 (1926), pp. 68ss.
 
-[^cevii-dec-chd-ftn15]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso agli Emminentissimi Padri Cardinali, Eccellentissimi Vescovi, Reverendissimi Prelati e agli altri ufficiali della Curia Romana, 21 settembre 1963: AAS 55 (1963), pp. 793ss.
+[^cevii-dec-chd-ftn15]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso agli Emminentissimi Padri Cardinali, Eccellentissimi Vescovi, Reverendissimi Prelati e agli altri ufficiali della Curia Romana, 21 settembre 1963: *AAS* 55 (1963), pp. 793ss.
 
-[^cevii-dec-chd-ftn16]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulle Chiese Cattoliche Orientali *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-ore#<span class="art" id="dec-ore_art7" name="dec-ore_art7">7</span>.|Orientalium Ecclesiarum, nn. 7]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-ore#<span class="art" id="dec-ore_art11" name="dec-ore_art11">11</span>.|11]]* (21 novembre 1964) : AAS 57 (1965), pp. 79-80 [pag. 287ss].
+[^cevii-dec-chd-ftn16]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulle Chiese Cattoliche Orientali *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-ore#<span class="art" id="dec-ore_art7" name="dec-ore_art7">7</span>.|Orientalium Ecclesiarum, nn. 7]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-ore#<span class="art" id="dec-ore_art11" name="dec-ore_art11">11</span>.|11]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 79-80 [pag. 287ss].
 
 [^cevii-dec-chd-ftn17]: Cfr. Concilio di Trento, Sess. V, Decreto de reform., c. 2: Mansi 33,30;
 	Concilio di Trento, Sess. XXIV, Decreto de reform., c. 4: Mansi 33, 159;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|Lumen Gentium, n. 25]]* : AAS 57 (1965), pp. 29ss [pag. 179ss].
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|Lumen Gentium, n. 25]]* : *AAS* 57 (1965), pp. 29ss [pag. 179ss].
 
-[^cevii-dec-chd-ftn18]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|Lumen Gentium, n. 25]]* : AAS 57 (1965), pp. 29-31 [pag. 179ss].
+[^cevii-dec-chd-ftn18]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art25" name="cos-lug_art25">25</span>.|Lumen Gentium, n. 25]]* : *AAS* 57 (1965), pp. 29-31 [pag. 179ss].
 
-[^cevii-dec-chd-ftn19]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963, passim: AAS 55 (1963), pp. 257-304 [Dz 3955-97].
+[^cevii-dec-chd-ftn19]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 aprile 1963, passim: *AAS* 55 (1963), pp. 257-304 [Dz 3955-97].
 
-[^cevii-dec-chd-ftn20]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam Suam, 6 agosto 1964: AAS 56 (1964), p. 639.
+[^cevii-dec-chd-ftn20]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam Suam, 6 agosto 1964: *AAS* 56 (1964), p. 639.
 
-[^cevii-dec-chd-ftn21]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam Suam, 6 agosto 1964: AAS 56 (1964), pp. 644-645.
+[^cevii-dec-chd-ftn21]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam Suam, 6 agosto 1964: *AAS* 56 (1964), pp. 644-645.
 
-[^cevii-dec-chd-ftn22]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sugli Strumenti di comunicazione sociale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm|Inter Mirifica]]* (04 dicembre 1963) : AAS 56 (1964), pp. 145-153.
+[^cevii-dec-chd-ftn22]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sugli Strumenti di comunicazione sociale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm|Inter Mirifica]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 145-153.
 
-[^cevii-dec-chd-ftn23]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac|Sacrosanctum Concilium]]* (04 dicembre 1963) : AAS 56 (1964), pp. 97ss;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Motu proprio Sacram Liturgiam, 25 gennaio 1964: AAS 56 (1964), pp. 139ss.
+[^cevii-dec-chd-ftn23]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac|Sacrosanctum Concilium]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 97ss;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Motu proprio Sacram Liturgiam, 25 gennaio 1964: *AAS* 56 (1964), pp. 139ss.
 
-[^cevii-dec-chd-ftn24]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre 1947: AAS 39 (1947), p. 521ss;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Mysterium Fidei, 3 settembre 1965; AAS 57 (1965), pp. 753-774.
+[^cevii-dec-chd-ftn24]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre 1947: *AAS* 39 (1947), p. 521ss;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Mysterium Fidei, 3 settembre 1965; *AAS* 57 (1965), pp. 753-774.
 
 [^cevii-dec-chd-ftn25]: Cfr. *<span class="BibleRef">[[At 1,14|At 1,14]]</span>* e *<span class="BibleRef">[[At 2,46|At 2,46]]</span>*.
 
-[^cevii-dec-chd-ftn26]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art44" name="cos-lug_art44">44</span>.|Lumen Gentium, nn. 44]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art45" name="cos-lug_art45">45</span>.|45]]* : AAS 57 (1965), pp. 50-52[pag. 227ss].
+[^cevii-dec-chd-ftn26]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art44" name="cos-lug_art44">44</span>.|Lumen Gentium, nn. 44]]*-*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art45" name="cos-lug_art45">45</span>.|45]]* : *AAS* 57 (1965), pp. 50-52[pag. 227ss].
 
 [^cevii-dec-chd-ftn27]: Cfr. *<span class="BibleRef">[[Lc 22,26-27|Lc 22,26-27]]</span>*.
 
 [^cevii-dec-chd-ftn28]: Cfr. *<span class="BibleRef">[[Gv 15,15|Gv 15,15]]</span>*.
 
-[^cevii-dec-chd-ftn29]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr|Unitatis Redintegratio]]* (21 novembre 1964) : AAS 57 (1965), pp. 90-107.
+[^cevii-dec-chd-ftn29]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr|Unitatis Redintegratio]]* (21 novembre 1964) : *AAS* 57 (1965), pp. 90-107.
 
-[^cevii-dec-chd-ftn30]: Cfr. S. Pio X, Motu proprio Iampridem, 19 marzo 1914: AAS 6 (1914), p. 173ss;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Exsul Familia, 1° ag. 1952: AAS 44 (1952), p. 649ss.;
-	Leges operis Apostolatus Maris, fondata per incarico di [[Scheda 260° papa - Pio XII|Pio XII]], 21 novembre 1957: AAS 50 (1958), pp. 375-383.
+[^cevii-dec-chd-ftn30]: Cfr. S. Pio X, Motu proprio Iampridem, 19 marzo 1914: *AAS* 6 (1914), p. 173ss;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Exsul Familia, 1° ag. 1952: *AAS* 44 (1952), p. 649ss.;
+	Leges operis Apostolatus Maris, fondata per incarico di [[Scheda 260° papa - Pio XII|Pio XII]], 21 novembre 1957: *AAS* 50 (1958), pp. 375-383.
 
-[^cevii-dec-chd-ftn31]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulle Chiese Cattoliche Orientali *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-ore#<span class="art" id="dec-ore_art4" name="dec-ore_art4">4</span>.|Orientalium Ecclesiarum, n. 4]]* (21 novembre 1964) : AAS 57 (1965), p. 77 [pag. 283ss].
+[^cevii-dec-chd-ftn31]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulle Chiese Cattoliche Orientali *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-ore#<span class="art" id="dec-ore_art4" name="dec-ore_art4">4</span>.|Orientalium Ecclesiarum, n. 4]]* (21 novembre 1964) : *AAS* 57 (1965), p. 77 [pag. 283ss].
 
 [^cevii-dec-chd-ftn32]: Cfr. *<span class="BibleRef">[[Gv 13,35|Gv 13,35]]</span>*.
 
-[^cevii-dec-chd-ftn33]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso, 8 dicembre 1950: AAS 43 (1951), p. 28;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso, 23 maggio 1964: AAS 56 (1964), p. 571.
+[^cevii-dec-chd-ftn33]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso, 8 dicembre 1950: *AAS* 43 (1951), p. 28;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso, 23 maggio 1964: *AAS* 56 (1964), p. 571.
 
 [^cevii-dec-chd-ftn34]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Romanos Pontifices, 8 maggio 1881: Acta Leonis XIII, vol. II (1882), p. 234ss.
 
-[^cevii-dec-chd-ftn35]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso, 23 maggio 1964: AAS 56 (1964), pp. 570-571.
+[^cevii-dec-chd-ftn35]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso, 23 maggio 1964: *AAS* 56 (1964), pp. 570-571.
 
 [^cevii-dec-chd-ftn36]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso, 8 dicembre 1950: l.c. [nota 18].
 
-[^cevii-dec-chd-ftn37]: Cfr. Sacra Congregazione Concistoriale, Instructio de Vicariis Castrensibus, 23 aprile 1951: AAS 43 (1951), pp. 562-565;
-	Sacra Congregazione Concistoriale, Formula servanda in relatione de statu Vicariatus Castrensis conficienda, 20 ottobre 1956: AAS 49 (1957), pp. 150-163;
-	Sacra Congregazione Concistoriale, Decreto De Sacrorum Liminum Visitatione a Vicariis Castrensibus peragenda, 28 febbraio 1959: AAS 51 (1959), pp. 272-274;
-	Sacra Congregazione Concistoriale, Decreto Facultas audiendi confessiones militum Cappellanis extenditur, 27 novembre 1960: AAS 53 (1961), pp. 49-50.
-	Cfr. anche Sacra Congregazione dei Religiosi: Instructio de Cappellanis militum religiosis, 2 febbraio 1955: AAS 47 (1955), pp. 93-97.
+[^cevii-dec-chd-ftn37]: Cfr. Sacra Congregazione Concistoriale, Instructio de Vicariis Castrensibus, 23 aprile 1951: *AAS* 43 (1951), pp. 562-565;
+	Sacra Congregazione Concistoriale, Formula servanda in relatione de statu Vicariatus Castrensis conficienda, 20 ottobre 1956: *AAS* 49 (1957), pp. 150-163;
+	Sacra Congregazione Concistoriale, Decreto De Sacrorum Liminum Visitatione a Vicariis Castrensibus peragenda, 28 febbraio 1959: *AAS* 51 (1959), pp. 272-274;
+	Sacra Congregazione Concistoriale, Decreto Facultas audiendi confessiones militum Cappellanis extenditur, 27 novembre 1960: *AAS* 53 (1961), pp. 49-50.
+	Cfr. anche Sacra Congregazione dei Religiosi: Instructio de Cappellanis militum religiosis, 2 febbraio 1955: *AAS* 47 (1955), pp. 93-97.
 
-[^cevii-dec-chd-ftn38]: Cfr. Sacra Congregazione Concistoriale: Lettera agli Emminentissimi PP. SS. Cardinali ed Eccellentissimi PP. SS. Arcivescovi, Vescovi ed altri Ordinari della Regione Spagnola, 21 giugno 1951: AAS 43 (1951), p. 566.
+[^cevii-dec-chd-ftn38]: Cfr. Sacra Congregazione Concistoriale: Lettera agli Emminentissimi PP. SS. Cardinali ed Eccellentissimi PP. SS. Arcivescovi, Vescovi ed altri Ordinari della Regione Spagnola, 21 giugno 1951: *AAS* 43 (1951), p. 566.
