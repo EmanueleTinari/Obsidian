@@ -52,7 +52,7 @@ Romani, e quanti siete Figli e Sudditi Pontifici, ascoltate ancora una volta la 
 Dato a Roma, presso Santa Maria Maggiore, il 14 marzo 1848, anno secondo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
