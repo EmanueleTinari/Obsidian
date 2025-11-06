@@ -3,7 +3,7 @@ cssclasses: docVat
 autore-doc:
   - “[[Scheda 262° papa - Paolo VI|Paolo VI]]"
   - “[[Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]]"
-tipo-doc: “[[Costituzioni|Costituzione]]"
+tipo-doc: "[[Costituzioni|Costituzione]]"
 titolo-doc: Gaudium et Spes
 giorno-doc: 7
 mese-doc: 12
@@ -12,11 +12,7 @@ data-doc: 1965-12-07
 lingua-doc: Italiano
 lingua-orig: Latino
 status: false
-tags:
-  - Costituzione
-  - Paolo_VI
-  - Concilio_Ecumenico_Vaticano_II
-  - Gaudium_et_Spes
+tags: [Costituzione, Paolo_VI, Concilio_Ecumenico_Vaticano_II, Gaudium_et_Spes]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: “[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html)"
@@ -24,19 +20,27 @@ creato: 2025/06/13 19:39:07
 modificato: 2025/10/02 22:26:40
 ---
 
+
 ***
+
 
 Paolo Vescovo `class: tipoAut`
 
+
 Servo dei servi di Dio `class: tipoAut`
+
 
 Unitamente ai Padri del Sacro Concilio `class: tipoAut`
 
+
 A perpetua memoria `class: tipoAut`
+
 
 Costituzione Pastorale<br>sulla Chiesa nel mondo contemporaneo[^cevii-cos-ges-ftn1] `class: tipoDoc`
 
+
 # Gaudium et Spes
+
 
 ### PROEMIO
 
@@ -478,7 +482,7 @@ NOTE:
 
 [^cevii-cos-ges-ftn17]: Cfr. *<span class="BibleRef">[[Rm 2,14-16|Rm 2,14-16]]</span>*.
 
-[^cevii-cos-ges-ftn18]: Cfr. [[Papi/Scheda 260° papa - Pio XII|Pio XII]], **Messaggio radiofonico sulla retta formazione della coscienza cristiana nei giovani, La famiglia è la culla, 23 marzo 1952**: AAS 44 (1952), p. 271.
+[^cevii-cos-ges-ftn18]: Cfr. [[Papi/Scheda 260° papa - Pio XII|Pio XII]], **Messaggio radiofonico sulla retta formazione della coscienza cristiana nei giovani, La famiglia è la culla, 23 marzo 1952**: *AAS* 44 (1952), p. 271.
 
 [^cevii-cos-ges-ftn19]: Cfr. *<span class="BibleRef">[[Mt 22,37-40|Mt 22,37-40]]</span>*;
 	*<span class="BibleRef">[[Gal 5,14|Gal 5,14]]</span>*.
@@ -495,12 +499,12 @@ NOTE:
 
 [^cevii-cos-ges-ftn23]: Cfr. *<span class="BibleRef">[[1Cor 15,56-57|1Cor 15,56-57]]</span>*.
 
-[^cevii-cos-ges-ftn24]: Cfr. [[Papi/Scheda 259° papa - Pio XI|Pio XI]], **Enciclica Divini Redemptoris, 19 marzo 1937**: AAS 29 (1937), pp. 65-106 [in parte Dz 3771-74];
-	[[Papi/Scheda 260° papa - Pio XII|Pio XII]], **Enciclica Ad Apostolorum Principis, 29 giugno 1958**: AAS 50 (1958), pp. 601-614;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], **Enciclica Mater et Magistra**, 15 maggio 1961: AAS 53 (1961), pp. 451-453;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], **Enciclica Ecclesiam Suam, 6 agosto 1964**: AAS 56 (1964), pp. 651-653.
+[^cevii-cos-ges-ftn24]: Cfr. [[Papi/Scheda 259° papa - Pio XI|Pio XI]], **Enciclica Divini Redemptoris, 19 marzo 1937**: *AAS* 29 (1937), pp. 65-106 [in parte Dz 3771-74];
+	[[Papi/Scheda 260° papa - Pio XII|Pio XII]], **Enciclica Ad Apostolorum Principis, 29 giugno 1958**: *AAS* 50 (1958), pp. 601-614;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], **Enciclica Mater et Magistra**, 15 maggio 1961: *AAS* 53 (1961), pp. 451-453;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], **Enciclica Ecclesiam Suam, 6 agosto 1964**: *AAS* 56 (1964), pp. 651-653.
 
-[^cevii-cos-ges-ftn25]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art8" name="cos-lug_art8">8</span>.|Lumen Gentium, n. 8]]* : AAS 57 (1965), p. 12 [pag. 129ss].
+[^cevii-cos-ges-ftn25]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art8" name="cos-lug_art8">8</span>.|Lumen Gentium, n. 8]]* : *AAS* 57 (1965), p. 12 [pag. 129ss].
 
 [^cevii-cos-ges-ftn26]: Cfr. *<span class="BibleRef">[[Fil 1,27|Fil 1,27]]</span>*.
 
@@ -537,7 +541,7 @@ NOTE:
 [^cevii-cos-ges-ftn38]: Cfr. *<span class="BibleRef">[[Fil 3,10|Fil 3,10]]</span>*;
 	*<span class="BibleRef">[[Rm 8,17|Rm 8,17]]</span>*.
 
-[^cevii-cos-ges-ftn39]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art16" name="cos-lug_art16">16</span>.|Lumen Gentium, n. 16]]*: AAS 57 (1965), p. 20 [pag. 151ss].
+[^cevii-cos-ges-ftn39]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art16" name="cos-lug_art16">16</span>.|Lumen Gentium, n. 16]]*: *AAS* 57 (1965), p. 20 [pag. 151ss].
 
 [^cevii-cos-ges-ftn40]: Cfr. *<span class="BibleRef">[[Rm 8,32|Rm 8,32]]</span>*.
 
@@ -547,27 +551,27 @@ NOTE:
 	*<span class="BibleRef">[[Gal 4,6|Gal 4,6]]</span>*;
 	*<span class="BibleRef">[[Gv 1,12|Gv 1,12]]</span>* e *<span class="BibleRef">[[1Gv 3,1-2|1Gv 3,1-2]]</span>*.
 
-[^cevii-cos-ges-ftn43]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: AAS 53 (1961), pp. 401-464 [in parte Dz 3931-53], e Enciclica Pacem in terris, 11 apr. 1963: AAS 55 (1963), pp. 257-304 [in parte Dz 3955-97];
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam Suam, 6 ag. 1964: AAS 56 (1964), pp. 609-659.
+[^cevii-cos-ges-ftn43]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, 15 maggio 1961: *AAS* 53 (1961), pp. 401-464 [in parte Dz 3931-53], e Enciclica Pacem in terris, 11 apr. 1963: *AAS* 55 (1963), pp. 257-304 [in parte Dz 3955-97];
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam Suam, 6 ag. 1964: *AAS* 56 (1964), pp. 609-659.
 
 [^cevii-cos-ges-ftn44]: Cfr. *<span class="BibleRef">[[Lc 17,33|Lc 17,33]]</span>*.
 
 [^cevii-cos-ges-ftn45]: Cfr. San Tommaso, *I Ethic.*, Lez. 1.
 
-[^cevii-cos-ges-ftn46]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), pp. 418;
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno, 15 maggio 1931: AAS 23 (1931), p. 222ss.
+[^cevii-cos-ges-ftn46]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), pp. 418;
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno, 15 maggio 1931: *AAS* 23 (1931), p. 222ss.
 
-[^cevii-cos-ges-ftn47]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 417.
+[^cevii-cos-ges-ftn47]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 417.
 
 [^cevii-cos-ges-ftn48]: Cfr. *<span class="BibleRef">[[Mc 2,27|Mc 2,27]]</span>*.
 
-[^cevii-cos-ges-ftn49]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: AAS 55 (1963), p. 266.
+[^cevii-cos-ges-ftn49]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: *AAS* 55 (1963), p. 266.
 
 [^cevii-cos-ges-ftn50]: Cfr. *<span class="BibleRef">[[Gc 2,15-16|Gc 2,15-16]]</span>*.
 
 [^cevii-cos-ges-ftn51]: Cfr. *<span class="BibleRef">[[Lc 16,19-31|Lc 16,19-31]]</span>*.
 
-[^cevii-cos-ges-ftn52]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: AAS 55 (1963), pp. 299-300 [in parte Dz 3996-97].
+[^cevii-cos-ges-ftn52]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: *AAS* 55 (1963), pp. 299-300 [in parte Dz 3996-97].
 
 [^cevii-cos-ges-ftn53]: Cfr. *<span class="BibleRef">[[Lc 6,37-38|Lc 6,37-38]]</span>*;
 	*<span class="BibleRef">[[Mt 7,1-2|Mt 7,1-2]]</span>*;
@@ -576,7 +580,7 @@ NOTE:
 
 [^cevii-cos-ges-ftn54]: Cfr. *<span class="BibleRef">[[Mt 5,45-47|Mt 5,45-47]]</span>*.
 
-[^cevii-cos-ges-ftn55]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen Gentium, n. 9]]*  : AAS 57 (1965), pp. 12-13 [pag. 133ss.
+[^cevii-cos-ges-ftn55]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen Gentium, n. 9]]*  : *AAS* 57 (1965), pp. 12-13 [pag. 133ss.
 
 [^cevii-cos-ges-ftn56]: Cfr. *<span class="BibleRef">[[Es 24,1-8|Es 24,1-8]]</span>*.
 
@@ -586,11 +590,11 @@ NOTE:
 
 [^cevii-cos-ges-ftn58]: Cfr. *<span class="BibleRef">[[Sal 8,7.10|Sal 8,7.10]]</span>*.
 
-[^cevii-cos-ges-ftn59]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: AAS 55 (1963), p. 297.
+[^cevii-cos-ges-ftn59]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: *AAS* 55 (1963), p. 297.
 
-[^cevii-cos-ges-ftn60]: Cfr. **[[Messaggio a tutti gli uomini indirizzato dai Padri all’inizio del Concilio Ecumenico Vaticano II]]**, 20 ott. 1962: AAS 54 (1962), pp. 822-823 [pag. 1113ss].
+[^cevii-cos-ges-ftn60]: Cfr. **[[Messaggio a tutti gli uomini indirizzato dai Padri all’inizio del Concilio Ecumenico Vaticano II]]**, 20 ott. 1962: *AAS* 54 (1962), pp. 822-823 [pag. 1113ss].
 
-[^cevii-cos-ges-ftn61]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso al Corpo diplomatico, 7 genn. 1965: AAS 57 (1965), p. 232.
+[^cevii-cos-ges-ftn61]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso al Corpo diplomatico, 7 genn. 1965: *AAS* 57 (1965), p. 232.
 
 [^cevii-cos-ges-ftn62]: Cfr. Concilio Ecumenico Vaticano I, Costituzione dogmatica sulla fede cattolica *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-def#CAPITOLO III.<br>LA FEDE|Dei Filius, Cap. III]]* (24 aprile 1870) : Dz 1785-86 (3004-05) [Collantes 1. 061-63].
 
@@ -633,34 +637,34 @@ NOTE:
 
 [^cevii-cos-ges-ftn78]: Cfr. *<span class="BibleRef">[[Lc 9,25|Lc 9,25]]</span>*.
 
-[^cevii-cos-ges-ftn79]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: AAS 23 (1931), p. 207.
+[^cevii-cos-ges-ftn79]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: *AAS* 23 (1931), p. 207.
 
 [^cevii-cos-ges-ftn80]: Messale romano, prefazio della festa di Cristo Re.
 
-[^cevii-cos-ges-ftn81]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, III: AAS 56 (1964), pp. 637-659.
+[^cevii-cos-ges-ftn81]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Enciclica Ecclesiam suam, III: *AAS* 56 (1964), pp. 637-659.
 
 [^cevii-cos-ges-ftn82]: Cfr. *<span class="BibleRef">[[Tt 3,4|Tt 3,4]]</span>*: «philanthropia».
 
 [^cevii-cos-ges-ftn83]: Cfr. *<span class="BibleRef">[[Ef 1,3.5-6.13-14.23|Ef 1,3.5-6.13-14.23]]</span>*.
 
-[^cevii-cos-ges-ftn84]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art8" name="cos-lug_art8">8</span>.|Lumen Gentium, n. 8]]* : AAS 57 (1965), p. 12 [pag. 129ss].
+[^cevii-cos-ges-ftn84]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art8" name="cos-lug_art8">8</span>.|Lumen Gentium, n. 8]]* : *AAS* 57 (1965), p. 12 [pag. 129ss].
 
-[^cevii-cos-ges-ftn85]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen Gentium, n. 9]]* : AAS 57 (1965), p. 14 [pag. 133ss];
+[^cevii-cos-ges-ftn85]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen Gentium, n. 9]]* : *AAS* 57 (1965), p. 14 [pag. 133ss];
 	Cfr. n. 8: AAS, l. c. , p. 11 [pag. 129ss].
 
-[^cevii-cos-ges-ftn86]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art8" name="cos-lug_art8">8</span>.|Lumen Gentium, n. 8]]* : AAS 57 (1965), p. 11 [pag. 129ss].
+[^cevii-cos-ges-ftn86]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art8" name="cos-lug_art8">8</span>.|Lumen Gentium, n. 8]]* : *AAS* 57 (1965), p. 11 [pag. 129ss].
 
-[^cevii-cos-ges-ftn87]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art38" name="cos-lug_art38">38</span>.|Lumen Gentium, n. 38]]* : AAS 57 (1965), p. 43 [pag. 209ss] con la nota 120.
+[^cevii-cos-ges-ftn87]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art38" name="cos-lug_art38">38</span>.|Lumen Gentium, n. 38]]* : *AAS* 57 (1965), p. 43 [pag. 209ss] con la nota 120.
 
 [^cevii-cos-ges-ftn88]: Cfr. *<span class="BibleRef">[[Rm 8,14-17|Rm 8,14-17]]</span>*.
 
 [^cevii-cos-ges-ftn89]: Cfr. *<span class="BibleRef">[[Mt 22,39|Mt 22,39]]</span>*.
 
-[^cevii-cos-ges-ftn90]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen Gentium, n. 9]]* : AAS 57 (1965), pp. 12-14 [pag. 133ss].
+[^cevii-cos-ges-ftn90]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen Gentium, n. 9]]* : *AAS* 57 (1965), pp. 12-14 [pag. 133ss].
 
-[^cevii-cos-ges-ftn91]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso a cultori di storia e di arte, 9 marzo 1956: AAS 48 (1956), p. 212: “*Il suo Divino Fondatore, Gesù Cristo, non le ha conferito nessun mandato né fissato alcun fine d’ordine culturale. Lo scopo che il Cristo le assegna è strettamente religioso (...). La Chiesa deve condurre gli uomini a Dio, perché si donino a lui senza riserva (...). La Chiesa non può perdere mai di vista questo fine strettamente religioso, soprannaturale. Il senso di ogni sua attività, fino all’ultimo canone del suo Codice, non può che riferirsi ad esso direttamente o indirettamente*”.
+[^cevii-cos-ges-ftn91]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso a cultori di storia e di arte, 9 marzo 1956: *AAS* 48 (1956), p. 212: “*Il suo Divino Fondatore, Gesù Cristo, non le ha conferito nessun mandato né fissato alcun fine d’ordine culturale. Lo scopo che il Cristo le assegna è strettamente religioso (...). La Chiesa deve condurre gli uomini a Dio, perché si donino a lui senza riserva (...). La Chiesa non può perdere mai di vista questo fine strettamente religioso, soprannaturale. Il senso di ogni sua attività, fino all’ultimo canone del suo Codice, non può che riferirsi ad esso direttamente o indirettamente*”.
 
-[^cevii-cos-ges-ftn92]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art1" name="cos-lug_art1">1</span>.|Lumen Gentium, n. 1]]* : AAS 57 (1965), p. 5 [pag. 115].
+[^cevii-cos-ges-ftn92]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art1" name="cos-lug_art1">1</span>.|Lumen Gentium, n. 1]]* : *AAS* 57 (1965), p. 5 [pag. 115].
 
 [^cevii-cos-ges-ftn93]: Cfr. *<span class="BibleRef">[[Eb 13,14|Eb 13,14]]</span>*.
 
@@ -672,34 +676,34 @@ NOTE:
 [^cevii-cos-ges-ftn96]: Cfr. *<span class="BibleRef">[[Mt 23,3-33|Mt 23,3-33]]</span>*;
 	*<span class="BibleRef">[[Mc 7,10-13|Mc 7,10-13]]</span>*.
 
-[^cevii-cos-ges-ftn97]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, IV: AAS 53 (1961), pp. 456-457 e I: l. c. , pp. 407, 410-411.
+[^cevii-cos-ges-ftn97]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra, IV: *AAS* 53 (1961), pp. 456-457 e I: l. c. , pp. 407, 410-411.
 
-[^cevii-cos-ges-ftn98]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS 57 (1965), pp. 34-35 [pag. 185ss].
+[^cevii-cos-ges-ftn98]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : *AAS* 57 (1965), pp. 34-35 [pag. 185ss].
 
 [^cevii-cos-ges-ftn99]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art28" name="cos-lug_art28">28</span>.|Lumen Gentium, n. 28]]* : AAS, l. c. , pp. 35-36 [pag. 185ss].
 
 [^cevii-cos-ges-ftn100]: Cfr. Sant’Ambrogio, De virginitate, cap. VIII, n. 48: PL 16, 278.
 
-[^cevii-cos-ges-ftn101]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art15" name="cos-lug_art15">15</span>.|Lumen Gentium, n. 15]]* : AAS 57 (1965), p. 20 [pag. 149ss].
+[^cevii-cos-ges-ftn101]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art15" name="cos-lug_art15">15</span>.|Lumen Gentium, n. 15]]* : *AAS* 57 (1965), p. 20 [pag. 149ss].
 
-[^cevii-cos-ges-ftn102]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art13" name="cos-lug_art13">13</span>.|Lumen Gentium, n. 13]]* : AAS 57 (1965), p. 17 [pag. 143ss].
+[^cevii-cos-ges-ftn102]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art13" name="cos-lug_art13">13</span>.|Lumen Gentium, n. 13]]* : *AAS* 57 (1965), p. 17 [pag. 143ss].
 
 [^cevii-cos-ges-ftn103]: Cfr. Giustino, *Dialogus cum Triphone*, cap. 110: PG 6, 729; ed. Otto, 1897, pp. 391-393: “*...ma quanto più ci vengono inflitte queste pene, tanto più altri diventano fedeli e pii per il nome di Gesù*”.
 	Cfr. Tertulliano, *Apologeticus*, cap. L, 13: PL 1, 534;
 	*Corpus Christ.*, ser. lat. I, p. 171: “*Diventiamo anzi sempre di più ogni volta che siamo mietuti da voi: il sangue dei Cristiani è seme!*”).
-	Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen Gentium, n. 9]]* : AAS 57 (1965), p. 14 [pag. 133ss].
+	Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen Gentium, n. 9]]* : *AAS* 57 (1965), p. 14 [pag. 133ss].
 
-[^cevii-cos-ges-ftn104]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art48" name="cos-lug_art48">48</span>.|Lumen Gentium, n. 48]]* : AAS 57 (1965), p. 53 [pag. 233ss].
+[^cevii-cos-ges-ftn104]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art48" name="cos-lug_art48">48</span>.|Lumen Gentium, n. 48]]* : *AAS* 57 (1965), p. 53 [pag. 233ss].
 
 [^cevii-cos-ges-ftn105]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso pronunciato il 3 feb. 1965: L’Osservatore Romano, 4 febr. 1965.
 
 [^cevii-cos-ges-ftn106]: Cfr. Sant’Agostino, De bono coniugali: PL 40, 375-376 e 394;
 	San Tommaso, Summa Theol. , Suppl. Quaest. 49, art. 3 ad 1;
 	Decretum pro Armenis: Dz 702 (1327) [Collantes 9.343];
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: AAS 22 (1930), pp. 543-555;
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: *AAS* 22 (1930), pp. 543-555;
 	Dz 2227-28 (3703-14) [in parte anche Collantes 9.381-86].
 
-[^cevii-cos-ges-ftn107]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii AAS 22 (1930), pp. 546-547;
+[^cevii-cos-ges-ftn107]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii *AAS* 22 (1930), pp. 546-547;
 	Dz 2231 (3706) [Collantes 9.383].
 
 [^cevii-cos-ges-ftn108]: Cfr. Os 2;
@@ -718,9 +722,9 @@ NOTE:
 
 [^cevii-cos-ges-ftn110]: Cfr. *<span class="BibleRef">[[Ef 5,25|Ef 5,25]]</span>*.
 
-[^cevii-cos-ges-ftn111]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art40" name="cos-lug_art40">40</span>.|Lumen Gentium, nn. 40]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art41" name="cos-lug_art41">41</span>.|41]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art47" name="cos-lug_art47">47</span>.|47]]* : AAS 57 (1965), pp. 15-16;
+[^cevii-cos-ges-ftn111]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art40" name="cos-lug_art40">40</span>.|Lumen Gentium, nn. 40]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art41" name="cos-lug_art41">41</span>.|41]]*, *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art47" name="cos-lug_art47">47</span>.|47]]* : *AAS* 57 (1965), pp. 15-16;
 
-[^cevii-cos-ges-ftn112]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: AAS 22 (1930), p. 583.
+[^cevii-cos-ges-ftn112]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: *AAS* 22 (1930), p. 583.
 
 [^cevii-cos-ges-ftn113]: Cfr. *<span class="BibleRef">[[1Tm 5,3|1Tm 5,3]]</span>*.
 
@@ -737,17 +741,17 @@ NOTE:
 	*<span class="BibleRef">[[1Cor 7,3-6|1Cor 7,3-6]]</span>*;
 	*<span class="BibleRef">[[Ef 5,25-33|Ef 5,25-33]]</span>*.
 
-[^cevii-cos-ges-ftn116]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: AAS 22 (1930), pp. 547-548;
+[^cevii-cos-ges-ftn116]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: *AAS* 22 (1930), pp. 547-548;
 	Dz 2232 (3707).
 
 [^cevii-cos-ges-ftn117]: Cfr. *<span class="BibleRef">[[1Cor 7,5|1Cor 7,5]]</span>*.
 
-[^cevii-cos-ges-ftn118]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Tra le visite, 20 gen. 1958: AAS 50 (1958), p. 91.
+[^cevii-cos-ges-ftn118]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Tra le visite, 20 gen. 1958: *AAS* 50 (1958), p. 91.
 
-[^cevii-cos-ges-ftn119]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: AAS 22 (1930), pp. 559-561;
+[^cevii-cos-ges-ftn119]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii: *AAS* 22 (1930), pp. 559-561;
 	Dz 3716-18 [in parte];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso al Convegno dell’Unione Italiana Ostetriche 29 ott. 1951: AAS 43 (1951), pp. 835-854;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso agli Em. mi Padri Cardinali, 23 giugno 1964: AAS 56 (1964) pp. 581-589. Alcuni problemi, che hanno bisogno di analisi ulteriori e più approfondite, per ordine del Sommo Pontefice sono stati demandati alla Commissione per lo studio della popolazione, della famiglia e della natalità, perché il Sommo Pontefice dia il suo giudizio dopo che essa avrà concluso il suo compito. Stando a questo punto la dottrina del Magistero, il S. Concilio non intende proporre immediatamente soluzioni concrete.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso al Convegno dell’Unione Italiana Ostetriche 29 ott. 1951: *AAS* 43 (1951), pp. 835-854;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso agli Em. mi Padri Cardinali, 23 giugno 1964: *AAS* 56 (1964) pp. 581-589. Alcuni problemi, che hanno bisogno di analisi ulteriori e più approfondite, per ordine del Sommo Pontefice sono stati demandati alla Commissione per lo studio della popolazione, della famiglia e della natalità, perché il Sommo Pontefice dia il suo giudizio dopo che essa avrà concluso il suo compito. Stando a questo punto la dottrina del Magistero, il S. Concilio non intende proporre immediatamente soluzioni concrete.
 
 [^cevii-cos-ges-ftn120]: Cfr. *<span class="BibleRef">[[Ef 5,16|Ef 5,16]]</span>*;
 	*<span class="BibleRef">[[Col 4,5|Col 4,5]]</span>*.
@@ -778,65 +782,65 @@ NOTE:
 [^cevii-cos-ges-ftn130]: Cfr. le parole di [[Scheda 259° papa - Pio XI|Pio XI]] all’Ecc. mo Sig. Roland-Gosselin: “Non bisogna perdere mai di vista che l’obiettivo della Chiesa è di evangelizzare e non di civilizzare. Se essa civilizza, è per l’evangelizzazione” (Semaine Sociale de Versailles, 1936, pp. 461-462).
 
 [^cevii-cos-ges-ftn131]: Cfr. Concilio Ecumenico Vaticano I, Costituzione dogmatica sulla fede cattolica *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-def#CAPITOLO IV.<br>DELLA FEDE E DELLA RAGIONE|Dei Filius, Cap. IV]]* (24 aprile 1870) : Dz 1795, 1799 (3015, 3019) [Collantes 1.080-84].
-	Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: AAS 23 (1931), p. 190 [in parte Dz 3725).
+	Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: *AAS* 23 (1931), p. 190 [in parte Dz 3725).
 
-[^cevii-cos-ges-ftn132]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: AAS 55 (1963), p. 260 [Dz 3959].
+[^cevii-cos-ges-ftn132]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: *AAS* 55 (1963), p. 260 [Dz 3959].
 
-[^cevii-cos-ges-ftn133]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: AAS 55 (1963), pp. 283 [Dz 3989];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico Nell’alba e nella luce. , 24 dic. 1941: AAS 34 (1942), pp. 16-17.
+[^cevii-cos-ges-ftn133]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: *AAS* 55 (1963), pp. 283 [Dz 3989];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico Nell’alba e nella luce. , 24 dic. 1941: *AAS* 34 (1942), pp. 16-17.
 
-[^cevii-cos-ges-ftn134]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: AAS 55 (1963), pp. 260 [Dz 3960].
+[^cevii-cos-ges-ftn134]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: *AAS* 55 (1963), pp. 260 [Dz 3960].
 
-[^cevii-cos-ges-ftn135]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso tenuto all’inizio del Concilio l’11 ott. 1962: AAS 54 (1962), p. 792 [pag. 1103].
+[^cevii-cos-ges-ftn135]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso tenuto all’inizio del Concilio l’11 ott. 1962: *AAS* 54 (1962), p. 792 [pag. 1103].
 
-[^cevii-cos-ges-ftn136]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art123" name="cos-sac_art123">123</span>.|Sacrosanctum Concilium, n. 123]]* (04 dicembre 1963) : AAS 56 (1964), p. 131 [pag. 81ss];
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso agli artisti romani, 7 maggio 1964: AAS 56 (1964), pp. 439-442.
+[^cevii-cos-ges-ftn136]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art123" name="cos-sac_art123">123</span>.|Sacrosanctum Concilium, n. 123]]* (04 dicembre 1963) : *AAS* 56 (1964), p. 131 [pag. 81ss];
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso agli artisti romani, 7 maggio 1964: *AAS* 56 (1964), pp. 439-442.
 
 [^cevii-cos-ges-ftn137]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sulla Formazione sacerdotale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-opt|Optatam totius]]* (28 ottobre 1965) e Dichiarazione sull’Educazione cristiana *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-gre|Gravissimum educationis]]* (28 ottobre 1965).
 
-[^cevii-cos-ges-ftn138]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art37" name="cos-lug_art37">37</span>.|Lumen Gentium, n. 37]]* : AAS 57 (1965), pp. 42-43 [pag. 207ss].
+[^cevii-cos-ges-ftn138]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art37" name="cos-lug_art37">37</span>.|Lumen Gentium, n. 37]]* : *AAS* 57 (1965), pp. 42-43 [pag. 207ss].
 
-[^cevii-cos-ges-ftn139]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio La famiglia è la culla, 23 marzo 1952: AAS 44 (1952), p. 273;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso alle A. C. L. I. , 1° maggio 1959: AAS 51 (1959), p. 358.
+[^cevii-cos-ges-ftn139]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio La famiglia è la culla, 23 marzo 1952: *AAS* 44 (1952), p. 273;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso alle A. C. L. I. , 1° maggio 1959: *AAS* 51 (1959), p. 358.
 
-[^cevii-cos-ges-ftn140]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: AAS 23 (1931), p. 190ss [in parte Dz 3725ss];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio La famiglia è la culla, 23 marzo 1952: AAS 44 (1952), p. 276ss;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 450;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sugli Strumenti di comunicazione sociale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm#<span class="art" id="dec-inm_art6" name="dec-inm_art6">6</span>.|Inter Mirifica, cap. I, n. 6]]* (04 dicembre 1963) : AAS 56 (1964), p. 147 [pag. 99].
+[^cevii-cos-ges-ftn140]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: *AAS* 23 (1931), p. 190ss [in parte Dz 3725ss];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio La famiglia è la culla, 23 marzo 1952: *AAS* 44 (1952), p. 276ss;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 450;
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sugli Strumenti di comunicazione sociale *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-inm#<span class="art" id="dec-inm_art6" name="dec-inm_art6">6</span>.|Inter Mirifica, cap. I, n. 6]]* (04 dicembre 1963) : *AAS* 56 (1964), p. 147 [pag. 99].
 
 [^cevii-cos-ges-ftn141]: Cfr. *<span class="BibleRef">[[Mt 16,26|Mt 16,26]]</span>*;
 	*<span class="BibleRef">[[Lc 16,1-31|Lc 16,1-31]]</span>*;
 	*<span class="BibleRef">[[Col 3,17|Col 3,17]]</span>*.
 
 [^cevii-cos-ges-ftn142]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Libertas praestantissimum, 20 giugno 1888: ASS 20 (1887-1888), pp. 597ss [in parte Dz 3252-53);
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: AAS 23 (1931), p. 191ss. ;
-	ID. , Divini Redemptoris: AAS 29 (1937), p. 65ss;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio natalizio Nell’alba e nella luce 1941: AAS 34 (1942), p 10ss;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), pp. 401-464 [in parte Dz 3935-53].
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: *AAS* 23 (1931), p. 191ss. ;
+	ID. , Divini Redemptoris: *AAS* 29 (1937), p. 65ss;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio natalizio Nell’alba e nella luce 1941: *AAS* 34 (1942), p 10ss;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), pp. 401-464 [in parte Dz 3935-53].
 
-[^cevii-cos-ges-ftn143]: Quanto al problema dell’agricoltura, Cfr. soprattutto [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Encicl Mater et Magistra: AAS 53 (1961), pp. 431ss.
+[^cevii-cos-ges-ftn143]: Quanto al problema dell’agricoltura, Cfr. soprattutto [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Encicl Mater et Magistra: *AAS* 53 (1961), pp. 431ss.
 
 [^cevii-cos-ges-ftn144]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Rerum Novarum: ASS 23 (1890-91), pp. 649-662 [in parte Dz 3268ss];
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: AAS 23 (1931), p. 200-201;
-	ID, Enciclica Divini Redemptoris: AAS 29 (1937), p. 92 [Dz 3774];
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico nella vigilia del Natale del Signore 1942:Con sempre nuova freschezza AAS 35 (1943), p. 20;
-	ID. , Discorso 13 giugno 1943: AAS 35 (1943), p. 172;
-	ID. , Messaggio radiofonico diretto agli operai di Spagna, 11 marzo 1951: AAS 43 (1951), p. 215;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 419 [Dz 3944].
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: *AAS* 23 (1931), p. 200-201;
+	ID, Enciclica Divini Redemptoris: *AAS* 29 (1937), p. 92 [Dz 3774];
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico nella vigilia del Natale del Signore 1942:Con sempre nuova freschezza *AAS* 35 (1943), p. 20;
+	ID. , Discorso 13 giugno 1943: *AAS* 35 (1943), p. 172;
+	ID. , Messaggio radiofonico diretto agli operai di Spagna, 11 marzo 1951: *AAS* 43 (1951), p. 215;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 419 [Dz 3944].
 
-[^cevii-cos-ges-ftn145]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), pp. 408, 424 [Dz 3948], 427;
-	il termine “curatione” [=conduzionè desunto dal testo latino dell’Enciclica Quadragesimo anno: AAS 23 (1931), p. 199 [Dz 3733]. Riguardo all’evoluzione del problema Cfr. anche: [[Scheda 260° papa - Pio XII|Pio XII]], Discorso 3 giugno 1950: AAS 42 (1950), pp. 485-488;
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso, 8 giugno 1964: AAS 56 (1964), pp. 574-579.
+[^cevii-cos-ges-ftn145]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), pp. 408, 424 [Dz 3948], 427;
+	il termine “curatione” [=conduzionè desunto dal testo latino dell’Enciclica Quadragesimo anno: *AAS* 23 (1931), p. 199 [Dz 3733]. Riguardo all’evoluzione del problema Cfr. anche: [[Scheda 260° papa - Pio XII|Pio XII]], Discorso 3 giugno 1950: *AAS* 42 (1950), pp. 485-488;
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso, 8 giugno 1964: *AAS* 56 (1964), pp. 574-579.
 
-[^cevii-cos-ges-ftn146]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sertum laetitiae: AAS 31 (1939), p. 642;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso concistoriale: AAS 52 (1960), pp. 5-11;
-	ID. , Enciclica Mater et Magistra: AAS 53 (1961), p. 411.
+[^cevii-cos-ges-ftn146]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sertum laetitiae: *AAS* 31 (1939), p. 642;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso concistoriale: *AAS* 52 (1960), pp. 5-11;
+	ID. , Enciclica Mater et Magistra: *AAS* 53 (1961), p. 411.
 
 [^cevii-cos-ges-ftn147]: Cfr. San Tommaso, Summa Theol. , II-II, q. 32, a. 5 ad 2;
 	Ibid. q. 66, a. 2;
 	Cfr. la spiegazione in [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Rerum Novarum: ASS 23 (1890-1891), p. 651 [Dz 3267];
-	Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Discorso 1° giugno 1941: AAS 23 (1941), p. 199;
-	ID., Messaggio radiofonico natalizio Ecce ego declinabo 1954: AAS 47 (1955), p. 27.
+	Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Discorso 1° giugno 1941: *AAS* 23 (1941), p. 199;
+	ID., Messaggio radiofonico natalizio Ecce ego declinabo 1954: *AAS* 47 (1955), p. 27.
 
 [^cevii-cos-ges-ftn148]: Cfr. San Basilio, Hom. in illud Lucae: Destruam horrea mea, n. 2: PG 31, 263;
 	Lattanzio, Divinarum Institutionum, lib. V, sulla giustizia: PL 6: 565B;
@@ -848,22 +852,22 @@ NOTE:
 	ID., In IV Sent. , d. 15, p. II, a. 2, q. 1: ibid. , IV, 371b;
 	Quaest. de superfluo: ms. Assisi, Bibl. comun. 186, ff. 112a-113a;
 	Sant’Alberto Magno , In III Sent, d. 33, a. 3, sol. I: Ed. Borgnet XXVIII, 611;
-	ID., In IV Sent. , d. 15, a. 16: ibid. , XXIX, 494-497. Quanto alla determinazione del superfluo ai nostri tempi, Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Messaggio radiotelevisivo 11 sett. 1962: AAS 54 (1962), p. 682: “Dovere di ogni uomo, dovere impellente del cristiano è di considerare il superfluo con la misura delle necessità altrui, e di ben vigilare perché l’amministrazione e la distribuzione dei beni creati venga posta a vantaggio di tutti”.
+	ID., In IV Sent. , d. 15, a. 16: ibid. , XXIX, 494-497. Quanto alla determinazione del superfluo ai nostri tempi, Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Messaggio radiotelevisivo 11 sett. 1962: *AAS* 54 (1962), p. 682: “Dovere di ogni uomo, dovere impellente del cristiano è di considerare il superfluo con la misura delle necessità altrui, e di ben vigilare perché l’amministrazione e la distribuzione dei beni creati venga posta a vantaggio di tutti”.
 
 [^cevii-cos-ges-ftn149]: Vale in tal caso l’antico principio: “In estrema necessità tutto è in comune, cioè da comunicare”. D’altra parte, per il criterio, l’estensione e il modo con cui si applica il principio proposto nel testo, oltre ai sicuri autori moderni, Cfr. San Tommaso, Summa Theol. , II-II, q. 66, a. 7. Com’è evidente, per una corretta applicazione del principio, si devono osservare tutte le condizioni moralmente richieste.
 [^cevii-cos-ges-ftn150]: Cfr. Gratiani Decretum, c. 21, dist. LXXXVI: ed. Friedberg, I, 302. Questo detto si trova già in PL 54, 491A e in PL 56, 1132B. Cfr. in Antonianum 27 (1952), pp. 349-366.
 [^cevii-cos-ges-ftn151]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Rerum Novarum: ASS 23 (1890-91), pp. 643-646 [in parte Dz 3265-67];
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: AAS 23 (1931), p. 191;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico 1° giugno 1941: AAS 33 (1941), p. 199;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico nella vigilia del Natale del Signore 1942 Con sempre nuova freschezza: AAS 35 (1943), p. 17;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 1° set. 1944 Oggi al compiersi: AAS 36 (1944), p. 253;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), pp. 428-429.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: *AAS* 23 (1931), p. 191;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico 1° giugno 1941: *AAS* 33 (1941), p. 199;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico nella vigilia del Natale del Signore 1942 Con sempre nuova freschezza: *AAS* 35 (1943), p. 17;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 1° set. 1944 Oggi al compiersi: *AAS* 36 (1944), p. 253;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), pp. 428-429.
 
-[^cevii-cos-ges-ftn152]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: AAS 23 (1931), p. 214;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 429.
+[^cevii-cos-ges-ftn152]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno: *AAS* 23 (1931), p. 214;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 429.
 
-[^cevii-cos-ges-ftn153]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico per la Pent. 1941: AAS 33 (1941), p. 199;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 430 [Dz 3952].
+[^cevii-cos-ges-ftn153]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico per la Pent. 1941: *AAS* 33 (1941), p. 199;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 430 [Dz 3952].
 
 [^cevii-cos-ges-ftn154]: Per il giusto uso dei beni secondo la dottrina del Nuovo Testamento Cfr. *<span class="BibleRef">[[Lc 3,11|Lc 3,11]]</span>*;
 	*<span class="BibleRef">[[Lc 10,30ss|Lc 10,30ss]]</span>*;
@@ -877,43 +881,43 @@ NOTE:
 	*<span class="BibleRef">[[2Cor 8,13ss|2Cor 8,13ss]]</span>*;
 	*<span class="BibleRef">[[1Gv 3,17-18|1Gv 3,17-18]]</span>*.
 
-[^cevii-cos-ges-ftn155]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 417.
+[^cevii-cos-ges-ftn155]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 417.
 
-[^cevii-cos-ges-ftn156]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: AAS 53 (1961), p. 417.
+[^cevii-cos-ges-ftn156]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Mater et Magistra: *AAS* 53 (1961), p. 417.
 
 [^cevii-cos-ges-ftn157]: Cfr. *<span class="BibleRef">[[Rm 13,1-5|Rm 13,1-5]]</span>*.
 
 [^cevii-cos-ges-ftn158]: Cfr. *<span class="BibleRef">[[Rm 13,5|Rm 13,5]]</span>*.
 
-[^cevii-cos-ges-ftn159]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico , 24 dic. 1942 Con sempre nuova freschezza: AAS 35 (1943), pp. 9-24;
-	24 dic. 1944: AAS 37 (1945), pp. 11-17;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: AAS 55 (1963), pp. 263 [Dz 3968], 271, 277-278.
+[^cevii-cos-ges-ftn159]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico , 24 dic. 1942 Con sempre nuova freschezza: *AAS* 35 (1943), pp. 9-24;
+	24 dic. 1944: *AAS* 37 (1945), pp. 11-17;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: *AAS* 55 (1963), pp. 263 [Dz 3968], 271, 277-278.
 
-[^cevii-cos-ges-ftn160]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico , 1° giu. 1941: AAS 33 (1941), p. 200;
+[^cevii-cos-ges-ftn160]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico , 1° giu. 1941: *AAS* 33 (1941), p. 200;
 	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, l. c. , pp. 273-274 [in parte Dz 3984-85].
 
-[^cevii-cos-ges-ftn161]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Lett. Enciclica Mater et Magistra: AAS 53 (1961), pp. 415-418.
+[^cevii-cos-ges-ftn161]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Lett. Enciclica Mater et Magistra: *AAS* 53 (1961), pp. 415-418.
 
 [^cevii-cos-ges-ftn162]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Discorso Ai dirigenti della Federazione Universitaria cattolica: Discorsi di [[Scheda 259° papa - Pio XI|Pio XI]]: ed. Bertetto, Torino, vol. I, 1960, p. 743.
 
-[^cevii-cos-ges-ftn163]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art13" name="cos-lug_art13">13</span>.|Lumen Gentium, n. 13]]* : AAS 57 (1965), p. 17 [pag. 143ss].
+[^cevii-cos-ges-ftn163]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art13" name="cos-lug_art13">13</span>.|Lumen Gentium, n. 13]]* : *AAS* 57 (1965), p. 17 [pag. 143ss].
 
 [^cevii-cos-ges-ftn164]: Cfr. *<span class="BibleRef">[[Lc 2,14|Lc 2,14]]</span>*.
 
 [^cevii-cos-ges-ftn165]: Cfr. *<span class="BibleRef">[[Ef 2,16|Ef 2,16]]</span>*;
 	*<span class="BibleRef">[[Col 1,20-22|Col 1,20-22]]</span>*.
 
-[^cevii-cos-ges-ftn166]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 apr. 1963: AAS 55 (1963), pp. 291: “Perciò in questa nostra età, che si vanta della forza atomica, è contrario alla ragione essere sempre predisposti alla guerra per ricuperare i diritti violati”.
+[^cevii-cos-ges-ftn166]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, 11 apr. 1963: *AAS* 55 (1963), pp. 291: “Perciò in questa nostra età, che si vanta della forza atomica, è contrario alla ragione essere sempre predisposti alla guerra per ricuperare i diritti violati”.
 
-[^cevii-cos-ges-ftn167]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso 30 set. 1954: AAS 46 (1954), p. 589;
-	ID. , Messaggio radiofonico, 24 dic. 1954 Ecce ego declinabo: AAS 47 (1955), pp. 15ss;
-	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: AAS 55 (1963), pp. 286-291 [in parte Dz 3991];
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso all’Assemblea delle Nazioni Unite, 4 ott. 1965: AAS 57 (1965), pp. 877-885.
+[^cevii-cos-ges-ftn167]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso 30 set. 1954: *AAS* 46 (1954), p. 589;
+	ID. , Messaggio radiofonico, 24 dic. 1954 Ecce ego declinabo: *AAS* 47 (1955), pp. 15ss;
+	[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris: *AAS* 55 (1963), pp. 286-291 [in parte Dz 3991];
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso all’Assemblea delle Nazioni Unite, 4 ott. 1965: *AAS* 57 (1965), pp. 877-885.
 
-[^cevii-cos-ges-ftn168]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, dove si parla di disarmo: AAS 55 (1963), p. 287 [Dz 3991].
+[^cevii-cos-ges-ftn168]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Pacem in terris, dove si parla di disarmo: *AAS* 55 (1963), p. 287 [Dz 3991].
 
 [^cevii-cos-ges-ftn169]: Cfr. *<span class="BibleRef">[[2Cor 6,2|2Cor 6,2]]</span>*.
 
-[^cevii-cos-ges-ftn170]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Ad Petri Cathedram, 29 giugno 1959: AAS 51 (1959), p. 513.
+[^cevii-cos-ges-ftn170]: Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Enciclica Ad Petri Cathedram, 29 giugno 1959: *AAS* 51 (1959), p. 513.
 
 [^cevii-cos-ges-ftn171]: Cfr. *<span class="BibleRef">[[Mt 7,21|Mt 7,21]]</span>*.
