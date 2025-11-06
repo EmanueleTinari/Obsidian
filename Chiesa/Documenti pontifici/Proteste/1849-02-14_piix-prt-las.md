@@ -52,7 +52,7 @@ La serie non interrotta degli attentati commessi contro il Dominio temporale deg
 Gaeta, 14 febbraio 1849. `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
