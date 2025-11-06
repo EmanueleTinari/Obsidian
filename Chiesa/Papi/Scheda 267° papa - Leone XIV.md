@@ -8,25 +8,25 @@ nome-papa: Leone XIV
 nome-secolare: Robert Francis Prevost
 luogo-nascita: Chicago, Illinois (U.S.A.)
 giorno-nascita: 14
-mese-nascita: 09
+mese-nascita: 9
 anno-nascita: 1955
 data-nascita: 1955-09-14
-giorno-elezione: 08
-mese-elezione: 05
+giorno-elezione: 8
+mese-elezione: 5
 anno-elezione: 2025
 data-elezione: 2025-05-08
 giorno-consacr: 18
-mese-consacr: 05
+mese-consacr: 5
 anno-consacr: 2025
 data-consacr: 2025-05-18
-giorno-fine: 00
-mese-fine: 00
-anno-fine: 0000
+giorno-fine: 0
+mese-fine: 0
+anno-fine: 0
 fine-pontificato: 0000-00-00
 causa-morte: ""
 luogo-morte: ""
 luogo-sepoltura: ""
-predecessore: "[[Scheda 266° papa - Francesco|Papa Francesco]]"
+predecessore: "[[Papi/Scheda 266° papa - Francesco I|Papa Francesco]]"
 successore: ""
 aliases:
   - Papa Leone XIV
@@ -56,7 +56,7 @@ modificato: 2025/07/09 23:33:15
 >
 >> [!info]+ XXI secolo 
 >> 267° - [[Scheda 267° papa - Leone XIV|Leone XIV]]
->> 266° - [[Scheda 266° papa - Francesco|Francesco]]
+>> 266° - [[Scheda 266° papa - Francesco I|Francesco]]
 >> 265° - [[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]
 >
 >> [!info]- XX secolo 
