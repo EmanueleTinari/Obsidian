@@ -57,7 +57,7 @@ modificato: 2025/11/05 08:31:44
 >
 >> [!info]- XXI secolo 
 >> 267° - [[Scheda 267° papa - Leone XIV|Leone XIV]]
->> 266° - [[Scheda 266° papa - Francesco|Francesco]]
+>> 266° - [[Scheda 266° papa - Francesco I|Francesco]]
 >> 265° - [[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]
 >
 >> [!info]- XX secolo 
