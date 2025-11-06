@@ -29,7 +29,7 @@ luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
 predecessore: "[[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]"
 successore: "[[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]"
 aliases:
-  - Papa  Giovanni Paolo II
+  - Papa Giovanni Paolo II
   - Giovanni Paolo II
   - Ioannes Paulus II
   - Ioannes Paulus PP. II
@@ -56,7 +56,7 @@ modificato: 2025/11/05 00:33:15
 >
 >> [!info]- XXI secolo 
 >> 267° - [[Scheda 267° papa - Leone XIV|Leone XIV]]
->> 266° - [[Scheda 266° papa - Francesco|Francesco]]
+>> 266° - [[Scheda 266° papa - Francesco I|Francesco]]
 >> 265° - [[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]
 >
 >> [!info]+ XX secolo 
