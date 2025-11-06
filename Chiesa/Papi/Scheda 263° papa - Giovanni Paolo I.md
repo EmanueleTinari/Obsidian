@@ -10,19 +10,19 @@ luogo-nascita: Canale d'Agordo (Belluno)
 giorno-nascita: 17
 mese-nascita: 10
 anno-nascita: 1912
-data-nascita: 1912/10/17
+data-nascita: 1912-10-17
 giorno-elezione: 26
 mese-elezione: 8
 anno-elezione: 1978
-data-elezione: 1978/08/26
+data-elezione: 1978-08-26
 giorno-consacr: 3
 mese-consacr: 9
 anno-consacr: 1978
-data-consacr: 1978/09/03
+data-consacr: 1978-09-03
 giorno-fine: 28
 mese-fine: 9
 anno-fine: 1978
-fine-pontificato: 1978/09/28
+fine-pontificato: 1978-09-28
 causa-morte: Decesso
 luogo-morte: Roma
 luogo-sepoltura: "[[Sacre grotte vaticane (Città del Vaticano)|Grotte vaticane]]"
@@ -33,17 +33,24 @@ aliases:
   - Giovanni Paolo I
   - Ioannes Paulus I
   - Ioannes Paulus PP. I
-tags:
-  - Bio
-  - Giovanni_Paolo_I
-  - Scheda
-  - papa
+tags: [Bio, Giovanni_Paolo_I, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 creato: 2025/06/25 14:00:57
 modificato: 2025/09/17 21:29:00
 ---
 
+
 ***
+
+
+# `=this.aliases[0]`
+
+
+###### `=this.nome-secolare`, nato a `=this.luogo-nascita` il `=dateformat(this["data-nascita"], "dd MMMM yyyy")`
+
+
+<br><br>
+
 
 > [!info]- ELENCO SOMMI PONTEFICI
 >
@@ -360,7 +367,7 @@ modificato: 2025/09/17 21:29:00
 > [[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]
 
 > [!info]- Foto
-> ![[|200]]
+> ![[ATTENZIONE!!! QUI LA FOTO.jpg|XXX, yyy papa Giovanni Paolo I, kkk|200]]
 
 ```dataviewjs
 // Nome del file corrente
@@ -412,20 +419,25 @@ if (allDocs.length === 0) {
     // --- Costruzione blocco unico ---
     let tableBlock = `> [!seealso]- Scritti di **${autoreAliases[0]}**:\n`;
     tipiOrdinati.forEach(tipo => {
-        const docs = grouped[tipo].sort((a,b) => a["data-doc"] && b["data-doc"] ? dv.date(a["data-doc"]).epoch - dv.date(b["data-doc"]).epoch : 0);
+	const docs = grouped[tipo].sort((a,b) => {
+		const A = parseInt(a["num-doc"] ?? 0, 10);
+		const B = parseInt(b["num-doc"] ?? 0, 10);
+		return A - B;
+	});
         tableBlock += `> > [!seealso]- **${tipo}**\n`; // titolo sotto-callout
-        tableBlock += `> > | Stato | Progr. | Num | Titolo | Data | File name |\n`;
-        tableBlock += `| :------------------------------------------: | -----: | --: | ---------------------------------------- | ------------------- | --------------------------------- |\n`;
+        tableBlock += `> > | Compl. | Progr. | # doc x Papa | # | <p style="text-align:center;">Titolo</p> | <p style="text-align:center;">Data</p> | <p style="text-align:center;">Nome file</p> |\n`;
+        tableBlock += `| :-------------: | :-------: | :-------: | :-------------------: | :-----------------------------------------  | :-------------------------------------- | :---------------------------------- |\n`;
         docs.forEach((p,index) => {
             const pathEsc = escAttr(p.file.path);
             const fnameEsc = escAttr(p.file.name);
             const statoIcon = p["stato"] === "completato" ? "✅" : "⬜";
             const progr = (p["progr-doc"] || "").toString().replace(/\|/g,'\\|');
+            const nd = (p["num-doc"] || "").toString().replace(/\|/g,'\\|');
             const num = index + 1;
             const titolo = (p["titolo-doc"] || "").toString().replace(/\|/g,'\\|');
             const dataStr = p["data-doc"] ? dv.date(p["data-doc"]).toFormat("dd-MM-yyyy") : "";
-            const a = `<a href="#" onclick="app.workspace.openLinkText('${p.file.path}','${dv.current().file.path}',false)">${p.file.name}</a>`;
-            tableBlock += `| <span class="dv-autocb" data-path="${pathEsc}" data-fname="${fnameEsc}">${statoIcon}</span> | ${progr} | ${num} | ${titolo} | ${dataStr} | ${a} |\n`;
+			const a = `<a href="#" onclick="app.workspace.openLinkText('${p.file.path}','${dv.current().file.path}',false)">${p.file.name}</a>`;
+            tableBlock += `| <span class="dv-autocb" data-path="${pathEsc}" data-fname="${fnameEsc}">${statoIcon}</span> | ${progr} | ${nd}  | ${num} | ${titolo} | ${dataStr} | ${a} |\n`;
         });
         tableBlock += `> \n`; // chiude sotto-callout
     });
