@@ -130,7 +130,7 @@ NOTE:
 [^cevii-dic-noa-ftn10]: Cfr. *<span class="BibleRef">[[Rm 11,28|Rm 11,28]]</span>*.
 
 [^cevii-dic-noa-ftn11]: Cfr. *<span class="BibleRef">[[Rm 11,28-29|Rm 11,28-29]]</span>*;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug|Lumen Gentium]]: AAS 57 (1965), p. 20 [pag. 151ss].
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug|Lumen Gentium]]: *AAS* 57 (1965), p. 20 [pag. 151ss].
 
 [^cevii-dic-noa-ftn12]: Cfr. *<span class="BibleRef">[[Is 66,23|Is 66,23]]</span>*;
 	*<span class="BibleRef">[[Sal 64,4|Sal 64,4]]</span>*;
