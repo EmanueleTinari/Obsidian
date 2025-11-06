@@ -92,7 +92,7 @@ Noi dunque, non dubitando minimamente che voi, considerata la vostra religione e
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 15 agosto 1801, anno secondo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VII `class: firmaC`
+Pius PP. VII `class: firmaC`
 
 
 ***
