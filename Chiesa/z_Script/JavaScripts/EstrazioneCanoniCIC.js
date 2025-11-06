@@ -237,3 +237,78 @@ textarea.select();
     textarea.focus();
     textarea.select();
 })();
+
+
+// ATTENZIONE !!!
+// AL 29_10_2025 STO USANDO QUESTO CODICE SOTTOSTANTE NELLA CONSOLLE DI FIREFOX E FUNZIONA ABBASTANZA BENE
+
+// --- Estrazione Canoni + § da qualsiasi struttura HTML (compatibile con la pagina indicata) ---
+// Incolla ed esegui questo script nella console del browser sulla pagina desiderata.
+
+(function () {
+    // Prendi tutto il testo visibile della pagina in un unico flusso
+    let raw = document.body.innerText || "";
+
+    // Normalizza i caratteri se la pagina dovesse contenere varianti di '§' e spazi strani
+    raw = raw.replace(/\u00A7/g, '§');       // § non-breaking -> normale
+    raw = raw.replace(/\r/g, '');            // rimuovi CR
+    // Collassa righe e spazi multipli in uno spazio singolo, mantenendo il testo leggibile
+    let testo = raw.split('\n').map(s => s.trim()).join(' ');
+    testo = testo.replace(/\s+/g, ' ').trim();
+
+    // Split in blocchi a partire da ogni occorrenza di "Can. {numero}"
+    const blocchi = testo.split(/(?=Can\.\s*\d+)/g);
+
+    const risultato = blocchi
+        .map(b => {
+            const match = b.match(/^Can\.\s*(\d+)/);
+            if (!match) return null;
+            const num = match[1];
+
+            // Corpo: testo dopo "Can. {num}" (eventuali trattini o simboli subito dopo vengono tolti)
+            let corpo = b.replace(/^Can\.\s*\d+\s*[-–—:]?\s*/, '').trim();
+
+            // Rileva sezioni con il simbolo § (accetta sia '§' sia l'entity normalizzata)
+            const sezPattern = /(?=[\u00A7§]\s*\d+\.)/g;
+            if (/[\u00A7§]\s*\d+\./.test(corpo)) {
+                // Splitta mantenendo le sezioni che iniziano con § n.
+                const sezioni = corpo.split(sezPattern).map(sez => {
+                    // Estrai il numero di paragrafo dalla sezione
+                    const parMatch = sez.match(/^[\u00A7§]\s*(\d+)\.\s*/);
+                    if (!parMatch) return null;
+                    const parNum = parMatch[1];
+                    // Rimuovi l'intestazione "§ n." dal contenuto della sezione
+                    const clean = sez.replace(/^[\u00A7§]\s*\d+\.\s*/, '').trim();
+                    // Costruisci la riga della sezione con ancora formattata alla fine
+                    return `§ ${parNum}. ${clean} ^ccar-cic-c${num}-c${parNum}`;
+                }).filter(Boolean);
+
+                return [
+                    `###### Canone ${num}`,
+                    sezioni.join('\n\n')
+                ].join('\n\n');
+            } else {
+                // Nessuna sezione §: restituire il corpo intero sotto il canone
+                return `###### Canone ${num}\n\n${corpo}`;
+            }
+        })
+        .filter(Boolean)
+        .join('\n\n\n');
+
+    // Crea una textarea per copia rapida (sovrascrive se già esistente)
+    let existing = document.getElementById('MioTestoEstratto');
+    if (existing) existing.remove();
+
+    const textarea = document.createElement('textarea');
+    textarea.id = 'MioTestoEstratto';
+    textarea.value = '\n\n' + risultato + '\n';
+    textarea.style.width = '90%';
+    textarea.style.height = '420px';
+    textarea.style.display = 'block';
+    textarea.style.margin = '20px auto';
+    textarea.style.fontFamily = 'monospace';
+    textarea.style.whiteSpace = 'pre-wrap';
+    document.body.appendChild(textarea);
+    textarea.focus();
+    textarea.select();
+})();
