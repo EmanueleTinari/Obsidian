@@ -102,7 +102,7 @@ Queste, Venerabili Fratelli, sono le misure che il Nostro paterno amore verso i 
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 25 agosto 1819, nel ventesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VII `class: firmaC`
+Pius PP. VII `class: firmaC`
 
 
 ***
