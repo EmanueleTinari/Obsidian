@@ -457,7 +457,7 @@ NOTE:
 
 [^cevii-cos-lug-ftn6]: Cfr. San Tommaso, Summa Theologiae III, q. 62, a. 5, ad 1.
 
-[^cevii-cos-lug-ftn7]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: AAS 35 (1943), p. 208.
+[^cevii-cos-lug-ftn7]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: *AAS* 35 (1943), p. 208.
 
 [^cevii-cos-lug-ftn8]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Divinum illud, 9 maggio 1897: ASS 29 (1896-97), p. 650.
 	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, l.c. [nota prec.], pp. 219-220: Dz 2288 (3808) [Collantes 7.363].
@@ -469,11 +469,11 @@ NOTE:
 ^ce745a
 
 [^cevii-cos-lug-ftn9]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Sapientiae christianae, 10 genn. 1890: ASS 22 (1889-90), p. 392;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Satis cognitum, 29 giugno 1896: AAS 28 (1895-96), pp. 710 e 724ss.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Satis cognitum, 29 giugno 1896: *AAS* 28 (1895-96), pp. 710 e 724ss.
 	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, l.c. [nota 7], pp. 199-200.
 
 [^cevii-cos-lug-ftn10]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, l.c. [nota 7], p. 221ss;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Humani generis, 12 ag. 1950: AAS 42 (1950), p. 571.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Humani generis, 12 ag. 1950: *AAS* 42 (1950), p. 571.
 
 [^cevii-cos-lug-ftn11]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Satis cognitum, l.c. [nota 9], p. 713.
 
@@ -487,17 +487,17 @@ NOTE:
 
 [^cevii-cos-lug-ftn15]: Cfr. San Cipriano, Epist. 69,6: PL 3, 1142B; Hartel 3B, p. 754: “sacramento inseparabile di unità”.
 
-[^cevii-cos-lug-ftn16]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Magnificate Dominum, 2 novembre1954: AAS 46 (1954), p. 669;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre1947: AAS 39 (1947), p. 555 [Collantes 7.390].
+[^cevii-cos-lug-ftn16]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Magnificate Dominum, 2 novembre1954: *AAS* 46 (1954), p. 669;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre1947: *AAS* 39 (1947), p. 555 [Collantes 7.390].
 
-[^cevii-cos-lug-ftn17]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Miserentissimus Redemptor, 8 maggio 1928: AAS 20 (1928), p. 171s. [Collantes 4.113].
-[[Scheda 260° papa - Pio XII|Pio XII]], Discorso Vous nous avez, 22 settembre 1956: AAS 48 (1956), p. 714.
+[^cevii-cos-lug-ftn17]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Miserentissimus Redemptor, 8 maggio 1928: *AAS* 20 (1928), p. 171s. [Collantes 4.113].
+[[Scheda 260° papa - Pio XII|Pio XII]], Discorso Vous nous avez, 22 settembre 1956: *AAS* 48 (1956), p. 714.
 
 [^cevii-cos-lug-ftn18]: Cfr. San Tommaso, Summa Theologiae III, q. 63, a. 2.
 
 [^cevii-cos-lug-ftn19]: Cfr. San Cirillo di Gerusalemme, Catech. 17, sullo Spirito S., II, 35-37: PG 33, 1009-1012; Nicola Cabasilas, De vita in Christo, lib. III, sull’utilit del crisma: PG 150, 569-580. San Tommaso, Summa Theologiae III, q. 65, a. 3 e q. 72, a. 1 e 5.
 
-[^cevii-cos-lug-ftn20]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre1947: AAS 39 (1947), specialmente p. 552s. [Collantes 9.306s].
+[^cevii-cos-lug-ftn20]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre1947: *AAS* 39 (1947), specialmente p. 552s. [Collantes 9.306s].
 
 [^cevii-cos-lug-ftn21]: *<span class="BibleRef">[[1Cor 7,7|1Cor 7,7]]</span>*: "Ciascuno ha il proprio dono (idion charisma) da Dio, chi in un modo, chi in un altro".
 Cfr. Sant’Agostino, De Dono Persev., 14, 37: PL 45, 1015s.: "Non dono di Dio soltanto la continenza, ma anche la castit dei coniugati".
@@ -520,11 +520,11 @@ Gc 2,14.
 
 [^cevii-cos-lug-ftn28]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Lett. Apost. Praeclara gratulationis, 20 giugno 1894: ASS 26 (1893-94), p. 707.
 
-[^cevii-cos-lug-ftn29]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Satis cognitum, 29 giugno 1896: ASS 28 (1895-96), p. 738; Enciclica Caritatis studium, 25 lug. 1898: ASS 31 (1898-1899), p. 11. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico Nell’alba, 24 dic. 1941: AAS 34 (1942), p. 21.
+[^cevii-cos-lug-ftn29]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Satis cognitum, 29 giugno 1896: ASS 28 (1895-96), p. 738; Enciclica Caritatis studium, 25 lug. 1898: ASS 31 (1898-1899), p. 11. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico Nell’alba, 24 dic. 1941: *AAS* 34 (1942), p. 21.
 
-[^cevii-cos-lug-ftn30]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Orientalium, 8 settembre 1928: AAS 20 (1928), p. 287. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Orientalis Ecclesiae, 9 apr. 1944: AAS 36 (1944), p. 137.
+[^cevii-cos-lug-ftn30]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Orientalium, 8 settembre 1928: *AAS* 20 (1928), p. 287. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Orientalis Ecclesiae, 9 apr. 1944: *AAS* 36 (1944), p. 137.
 
-[^cevii-cos-lug-ftn31]: Cfr. Istr. della S. S. C. del S. Uffizio, 20 dic. 1949: AAS 42 (1950), p. 142.
+[^cevii-cos-lug-ftn31]: Cfr. Istr. della S. S. C. del S. Uffizio, 20 dic. 1949: *AAS* 42 (1950), p. 142.
 
 [^cevii-cos-lug-ftn32]: Cfr. San Tommaso, Summa Theologiae III, q. 8, a. 3, ad I.
 
@@ -532,7 +532,7 @@ Gc 2,14.
 
 [^cevii-cos-lug-ftn34]: Cfr. Eusebio di Cesarea, Praeparatio Evangelica, I, 1: PG 21, 28AB.
 
-[^cevii-cos-lug-ftn35]: Cfr. Benedetto XV, Lett. Apost. Maximum illud: AAS 11 (1919), p. 440, specialmente p. 451ss. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Ecclesiae: AAS 18 (1926), pp. 68-69. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fidei Donum, 21 apr. 1957: AAS 49 (1957), pp. 236-237.
+[^cevii-cos-lug-ftn35]: Cfr. Benedetto XV, Lett. Apost. Maximum illud: *AAS* 11 (1919), p. 440, specialmente p. 451ss. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Ecclesiae: *AAS* 18 (1926), pp. 68-69. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fidei Donum, 21 apr. 1957: *AAS* 49 (1957), pp. 236-237.
 
 [^cevii-cos-lug-ftn36]: Cfr. Didach , 14: ed. Funk I, p. 32. San Giustino, Dial. 41: PG 6, 564. Sant’Ireneo, Adversus Haereses IV, 17, 5: PG 7, 1023; Harvey, 2, p. 199s. Concilio di Trento, Sessione 22, cap. I: Dz 939 (1742) [Collantes 9.174].
 
@@ -586,7 +586,7 @@ San Clemente Romano, Ad Cor. 44, 3: ed. Funk I, p. 156.
 
 [^cevii-cos-lug-ftn51]: Cfr. Concilio di Trento, Decr. De sacr. Ordinis, cap. 4: Dz 960 (1768) [Collantes 9.293];
 Concilio Ecumenico Vaticano I, Costituzione Dogmatica sulla Chiesa di Cristo [[Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-paa#CAPITOLO III.<BR>DELLA FORZA E DELLA NATURA DEL PRIMATO DEL ROMANO PONTEFICE|Pastor Aeternus, capitolo 3]] (18 luglio 1870) : Dz 1828 (3061) [Collantes 7.186].
-[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giug. 1943: AAS 35 (1943), pp. 209 e 212 [Dz 3804; Collantes 7.200].
+[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giug. 1943: *AAS* 35 (1943), pp. 209 e 212 [Dz 3804; Collantes 7.200].
 CIC can. 329 § 1 [nel nuovo Codice can. 375].
 
 [^cevii-cos-lug-ftn52]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Lett. Et sane, 17 dic. 1888: ASS 21 (1888), p. 321s.
@@ -600,8 +600,8 @@ CIC can. 329 § 1 [nel nuovo Codice can. 375].
 [^cevii-cos-lug-ftn56]: Cfr. Trad. Apost. 2: ed. Botte, p. 27.
 
 [^cevii-cos-lug-ftn57]: Cfr. il Concilio di Trento, che nella Sessione 23, cap. 4 insegna che il sacramento dell’Ordine imprime un carattere indelebile: Dz 960 (1767) [Collantes 9.291].
-	Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso Iubilate Deo, 8 maggio 1960: AAS 52 (1960), p. 466.
-	[[Scheda 262° papa - Paolo VI|Paolo VI]], Omelia nella Bas. Vaticana, 20 ott. 1963: AAS 55 (1963), p. 1014.
+	Cfr. [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], Discorso Iubilate Deo, 8 maggio 1960: *AAS* 52 (1960), p. 466.
+	[[Scheda 262° papa - Paolo VI|Paolo VI]], Omelia nella Bas. Vaticana, 20 ott. 1963: *AAS* 55 (1963), p. 1014.
 
 [^cevii-cos-lug-ftn58]: San Cipriano, Epist. 63, 14: PL 4, 386; Hartel, IIIB, p. 713: "Il sacerdote compie veramente le funzioni di Cristo". San Giovanni Crisostomo, In 2 Tim., Hom. 2, 4: PG 62, 612: Il sacerdote "symbolon" di Cristo. Sant’Ambrogio, In Ps. 38, 25-26: PL 14, 1051-52: CSEL 64, 203-204. Ambrosiaster, In 1 Tim. 5,19: PL 17, 479C e In Eph. 4, 11-12, col. 387C. Teodoro di Mopsuestia, Hom. Catech. XV, 21 e 24; ed. Tonneau, pp. 497 e 503. Esichio di Gerusalemme, In Lev., L. 2, 9, 23: PG 93, 894B.
 
@@ -629,11 +629,11 @@ CIC can. 329 § 1 [nel nuovo Codice can. 375].
 
 [^cevii-cos-lug-ftn68]: Cfr. San Cipriano, Epist 55,24: Hartel, p. 642, lin. 13: “Un’unica Chiesa in tutto il mondo divisa in molte membra. Epist. 36, 4: Hartel, p. 575, lin. 20-21.
 
-[^cevii-cos-lug-ftn69]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fidei Donum, 21 apr. 1957: AAS 49 (1957), p. 237.
+[^cevii-cos-lug-ftn69]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fidei Donum, 21 apr. 1957: *AAS* 49 (1957), p. 237.
 
 [^cevii-cos-lug-ftn70]: Cfr. Sant’Ilario di Poitiers, In Ps. 14,3: PL 9, 206; CSEL 22, p. 86. San Gregorio Magno, Moral. IV, 7, 12: PL 75, 643C. PSEUDO BASILIO, In Is. 15, 296: PG 30, 637C.
 
-[^cevii-cos-lug-ftn71]: Cfr. San Celestino, Epist. 18, 1-2, al Conc. di Ef.: PL 50, 505AB; Schwartz, Acta Conc. Oec. I, 1, 1, p. 22. Cfr. Benedetto XV, Lett. Apost. Maximum illud: AAS 11 (1919), p. 440. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Ecclesiae, 28 febbr. 1926: AAS 18 (1926), p. 69. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fidei Donum, l.c. [nota33].
+[^cevii-cos-lug-ftn71]: Cfr. San Celestino, Epist. 18, 1-2, al Conc. di Ef.: PL 50, 505AB; Schwartz, Acta Conc. Oec. I, 1, 1, p. 22. Cfr. Benedetto XV, Lett. Apost. Maximum illud: *AAS* 11 (1919), p. 440. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum Ecclesiae, 28 febbr. 1926: *AAS* 18 (1926), p. 69. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fidei Donum, l.c. [nota33].
 
 [^cevii-cos-lug-ftn72]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Grande munus, 30 settembre 1880: ASS 13 (1880), p. 145. Cfr. CIC, can. 1327; can. 1350 § 2 [nel nuovo Codice: Cfr. can. 762].
 
@@ -708,10 +708,10 @@ San Gregorio Nazianzeno, Apol. II, 22: PG 35,432B.
 Pseudo Dionigi, Eccl. Hier., 1, 2: PG 3, 372D.
 
 [^cevii-cos-lug-ftn103]: Cfr. Concilio di Trento, Sessione 22: Dz 940 (1743) [Collantes 9.175].
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre1947: AAS 39 (1947), p. 553: Dz 2300 (3850) [Collantes 9.308].
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, 20 novembre1947: *AAS* 39 (1947), p. 553: Dz 2300 (3850) [Collantes 9.308].
 
 [^cevii-cos-lug-ftn104]: Cfr. Concilio di Trento, Sessione 22: Dz 938 (1739-40) [Collantes 9.171-72];
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art7" name="cos-sac_art7">7</span>.|Sacrosanctum Concilium, nn. 7]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art47" name="cos-sac_art47">47</span>.|47]]* (04 dicembre 1963) : AAS 56 (1964), pp. 100-113 [pp. 21 e 45ss].
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art7" name="cos-sac_art7">7</span>.|Sacrosanctum Concilium, nn. 7]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art47" name="cos-sac_art47">47</span>.|47]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 100-113 [pp. 21 e 45ss].
 
 [^cevii-cos-lug-ftn105]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei, l.c. alla nota 67.
 
@@ -729,18 +729,18 @@ Pseudo Dionigi, Eccl. Hier., 1, 2: PG 3, 372D.
 
 [^cevii-cos-lug-ftn112]: Sant’Agostino, Sermones 340, 1: PL 38, 1483.
 
-[^cevii-cos-lug-ftn113]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno, 15 maggio 1931: AAS 23 (1931), p. 221s.
-	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso De quelle consolation, 14 ott. 1951: AAS 43 (1951), p. 790s.
+[^cevii-cos-lug-ftn113]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Quadragesimo anno, 15 maggio 1931: *AAS* 23 (1931), p. 221s.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Discorso De quelle consolation, 14 ott. 1951: *AAS* 43 (1951), p. 790s.
 
-[^cevii-cos-lug-ftn114]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Six ans se sont écoulés, 5 ott. 1957: AAS 49 (1957), p. 927.
+[^cevii-cos-lug-ftn114]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Six ans se sont écoulés, 5 ott. 1957: *AAS* 49 (1957), p. 927.
 
 [^cevii-cos-lug-ftn115]: Messale romano, dal prefazio della festa di Cristo Re.
 
-[^cevii-cos-lug-ftn116]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Immortale Dei, 1° novembre1885: ASS 18 (1885), p. 166ss. IDEM, Enciclica Sapientiae Christianae, 10 genn. 1890: ASS 22 (1889-90), p. 397ss. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Alla vostra filiale, 23 marzo 1958: AAS 50 (1958), p. 220: "la legittima sana laicità dello Stato".
+[^cevii-cos-lug-ftn116]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Immortale Dei, 1° novembre1885: ASS 18 (1885), p. 166ss. IDEM, Enciclica Sapientiae Christianae, 10 genn. 1890: ASS 22 (1889-90), p. 397ss. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Alla vostra filiale, 23 marzo 1958: *AAS* 50 (1958), p. 220: "la legittima sana laicità dello Stato".
 
 [^cevii-cos-lug-ftn117]: Cfr. CIC, can. 682 [nel nuovo Codice: can. 213].
 
-[^cevii-cos-lug-ftn118]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso De quelle consolation, l.c. [nota 2], p. 789: "Nelle battaglie decisive, talvolta dal fronte che partono le pi felici iniziative...". IDEM, Discorso L’importance de la presse catholique, 17 febbr. 1950: AAS 42 (1950), p. 256.
+[^cevii-cos-lug-ftn118]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso De quelle consolation, l.c. [nota 2], p. 789: "Nelle battaglie decisive, talvolta dal fronte che partono le pi felici iniziative...". IDEM, Discorso L’importance de la presse catholique, 17 febbr. 1950: *AAS* 42 (1950), p. 256.
 
 [^cevii-cos-lug-ftn119]: Cfr. *<span class="BibleRef">[[1Ts 5,19|1Ts 5,19]]</span>* e *<span class="BibleRef">[[1Gv 4,1|1Gv 4,1]]</span>*.
 
@@ -750,25 +750,25 @@ Pseudo Dionigi, Eccl. Hier., 1, 2: PG 3, 372D.
 
 [^cevii-cos-lug-ftn122]: Cfr. Origene, Comm. Rom. 7,7: PG 14, 1122B. Pseudo Macario, De Oratione, 11: PG 34, 861AB. San Tommaso, Summa Theologiae II-II, q. 184, a. 3.
 
-[^cevii-cos-lug-ftn123]: Cfr. Sant’Agostino, Retract. II, 18: PL 32, 637s. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: AAS 35 (1943), p. 225.
+[^cevii-cos-lug-ftn123]: Cfr. Sant’Agostino, Retract. II, 18: PL 32, 637s. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: *AAS* 35 (1943), p. 225.
 
-[^cevii-cos-lug-ftn124]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum omnium, 26 genn. 1923: AAS 15 (1923), pp. 50 e 59-60 [Collantes 7.319-20]; Enciclica Casti Connubii, 31 dic. 1930: AAS 22 (1930), p. 548. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Provida Mater, 2 febbr. 1947: AAS 39 (1947), p. 117. Discorso Annus sacer, 8 dic. 1950: AAS 43 (1951), pp. 27-28. Discorso Nel darvi, 1° lug. 1956: AAS 48 (1956), p. 574s.
+[^cevii-cos-lug-ftn124]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Rerum omnium, 26 genn. 1923: *AAS* 15 (1923), pp. 50 e 59-60 [Collantes 7.319-20]; Enciclica Casti Connubii, 31 dic. 1930: *AAS* 22 (1930), p. 548. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Provida Mater, 2 febbr. 1947: *AAS* 39 (1947), p. 117. Discorso Annus sacer, 8 dic. 1950: *AAS* 43 (1951), pp. 27-28. Discorso Nel darvi, 1° lug. 1956: *AAS* 48 (1956), p. 574s.
 
 [^cevii-cos-lug-ftn125]: Cfr. San Tommaso, Summa Theologiae II-II, q. 184, a. 5 e 6; De perf. vitae spir., c. 18. Origene, In Is., Hom. 6, 1: PG 13, 239.
 
 [^cevii-cos-lug-ftn126]: Cfr. Sant’Ignazio Martire, Magn. 13, 1: ed. Funk I, p. 241.
 
-[^cevii-cos-lug-ftn127]: Cfr. S. Pio X, Esortazione Haerent animo, 4 ag. 1908: ASS 41 (1908), p. 560s. CIC, can. 124 [nel nuovo Codice can. 276]. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dic. 1935: AAS 28 (1936), p. 22.
+[^cevii-cos-lug-ftn127]: Cfr. S. Pio X, Esortazione Haerent animo, 4 ag. 1908: ASS 41 (1908), p. 560s. CIC, can. 124 [nel nuovo Codice can. 276]. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ad catholici sacerdotii, 20 dic. 1935: *AAS* 28 (1936), p. 22.
 
 [^cevii-cos-lug-ftn128]: Cfr. Pontificale Romanum, Ordinazione dei Presbiteri, esortazione iniziale.
 
 [^cevii-cos-lug-ftn129]: Cfr. Sant’Ignazio Martire, Trall. 2, 3: ed. Funk I, p. 244.
 
-[^cevii-cos-lug-ftn130]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Sous la maternelle protection, 9 dic. 1957: AAS 50 (1958), p. 36.
+[^cevii-cos-lug-ftn130]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Sous la maternelle protection, 9 dic. 1957: *AAS* 50 (1958), p. 36.
 
-[^cevii-cos-lug-ftn131]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii, 31 dic. 1930: AAS 22 (1930), p. 548s. San Giovanni Crisostomo, In Ephes., Hom. 20, 2: PG 62, 136ss.
+[^cevii-cos-lug-ftn131]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Casti Connubii, 31 dic. 1930: *AAS* 22 (1930), p. 548s. San Giovanni Crisostomo, In Ephes., Hom. 20, 2: PG 62, 136ss.
 
-[^cevii-cos-lug-ftn132]: Cfr. Sant’Agostino, Enchir. 121, 32: PL 40, 288. San Tommaso, Summa Theologiae II-II, q. 184 a. 1. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti nostrae, 23 settembre 1950: AAS 42 (1950), p. 660 [Collantes 7.321].
+[^cevii-cos-lug-ftn132]: Cfr. Sant’Agostino, Enchir. 121, 32: PL 40, 288. San Tommaso, Summa Theologiae II-II, q. 184 a. 1. [[Scheda 260° papa - Pio XII|Pio XII]], Esortazione Apostolica Menti nostrae, 23 settembre 1950: *AAS* 42 (1950), p. 660 [Collantes 7.321].
 
 [^cevii-cos-lug-ftn133]: Sui consigli in genere Cfr. Origene, Comm. Rom. X, 14: PG 14,1275B. Sant’Agostino, De S. Virginitate 15,15: PL 40, 403. San Tommaso, Summa Theologiae I-II, q. 100, a. 2c (alla fine); II-II, q. 44, a. 4, ad 3.
 
@@ -784,11 +784,11 @@ Abbondano i Padri e i fondatori degli ordini religiosi.
 
 [^cevii-cos-lug-ftn136]: Sull’effettiva pratica dei consigli, che non viene imposta a tutti, Cfr. San Giovanni Crisostomo, in Mattheum, Hom. 7,7: PG 57, 81s. Sant’Ambrogio, De Viduis 4,23: PL 16, 241s.
 
-[^cevii-cos-lug-ftn137]: Cfr. Rosweyde, Vitae Patrum, Antverpiae 1628. Apophtegmata Patrum: PG 65. Palladio, Historia Lausiaca: PG 34, 995ss: ed. C. Butler, Cambridge 1898 (1904). [[Scheda 259° papa - Pio XI|Pio XI]], Costituzione Apostolica Umbratilem, 8 lug. 1924: AAS 16 (1924), pp. 386-387. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Nous sommes heureux, 11 apr. 1958: AAS 50 (1958), p. 283.
+[^cevii-cos-lug-ftn137]: Cfr. Rosweyde, Vitae Patrum, Antverpiae 1628. Apophtegmata Patrum: PG 65. Palladio, Historia Lausiaca: PG 34, 995ss: ed. C. Butler, Cambridge 1898 (1904). [[Scheda 259° papa - Pio XI|Pio XI]], Costituzione Apostolica Umbratilem, 8 lug. 1924: *AAS* 16 (1924), pp. 386-387. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Nous sommes heureux, 11 apr. 1958: *AAS* 50 (1958), p. 283.
 
-[^cevii-cos-lug-ftn138]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso Magno gaudio, 23 maggio 1964: AAS 56 (1964), p. 566.
+[^cevii-cos-lug-ftn138]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso Magno gaudio, 23 maggio 1964: *AAS* 56 (1964), p. 566.
 
-[^cevii-cos-lug-ftn139]: Cfr. CIC, cann. 487 e 488, 4o [nel nuovo Codice: cann. 573 e 588]. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Annus sacer, 8 dic. 1950: AAS 43 (1951), p. 27s. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Provida Mater, 2 febbr. 1947: AAS 39 (1947), p. 120ss.
+[^cevii-cos-lug-ftn139]: Cfr. CIC, cann. 487 e 488, 4o [nel nuovo Codice: cann. 573 e 588]. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Annus sacer, 8 dic. 1950: *AAS* 43 (1951), p. 27s. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Provida Mater, 2 febbr. 1947: *AAS* 39 (1947), p. 120ss.
 
 [^cevii-cos-lug-ftn140]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], l.c. [nota 2], p. 567.
 
@@ -796,26 +796,26 @@ Abbondano i Padri e i fondatori degli ordini religiosi.
 
 [^cevii-cos-lug-ftn142]: Cfr. Concilio Ecumenico Vaticano I, Schema De Ecclesia Christi, cap. XV, e Annot. 48: Mansi 51, 549s e 619s. [[Scheda 260° papa - Pio XII|Pio XII]], Lett. Au milieu des consolations, 23 dic. 1900: ASS 33 (1900-01), p. 361. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Provida Mater, l.c. [nota 3], p. 114s.
 
-[^cevii-cos-lug-ftn143]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Romanos Pontifices, 8 maggio 1881: ASS 13 (1880-81), p. 483. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Annus sacer, 8 dic. 1950: AAS 43 (1951), p. 28s.
+[^cevii-cos-lug-ftn143]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Romanos Pontifices, 8 maggio 1881: ASS 13 (1880-81), p. 483. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Annus sacer, 8 dic. 1950: *AAS* 43 (1951), p. 28s.
 
-[^cevii-cos-lug-ftn144]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Annus sacer, l.c. [nota prec.], p. 28. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Sedes Sapientiae, 31 maggio 1956: AAS 48 (1956), p. 355. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso Magno gaudio, 23 maggio 1964: AAS 56 (1964), pp. 570-571.
+[^cevii-cos-lug-ftn144]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Annus sacer, l.c. [nota prec.], p. 28. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Sedes Sapientiae, 31 maggio 1956: *AAS* 48 (1956), p. 355. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso Magno gaudio, 23 maggio 1964: *AAS* 56 (1964), pp. 570-571.
 
-[^cevii-cos-lug-ftn145]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: AAS 35 (1943), p. 214s.
+[^cevii-cos-lug-ftn145]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: *AAS* 35 (1943), p. 214s.
 
-[^cevii-cos-lug-ftn146]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Annus sacer, l.c. [nota 7], p. 30. Discorso Sous la maternelle protection, 9 dic. 1957: AAS 50 (1958), p. 39s.
+[^cevii-cos-lug-ftn146]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Discorso Annus sacer, l.c. [nota 7], p. 30. Discorso Sous la maternelle protection, 9 dic. 1957: *AAS* 50 (1958), p. 39s.
 
 [^cevii-cos-lug-ftn147]: Concilio di Firenze, Decretum pro Graecis: Dz 693 (1305) [Collantes 0.023].
 
-[^cevii-cos-lug-ftn148]: Oltre ai documenti più antichi contro qualunque forma di evocazione spiritistica da Alessandro IV (27 settembre 1258) in poi, Cfr. Enciclica della S. S. C. del S. Uffizio De magnetismi abusu, 4 ag. 1856: ASS 1 (1865), pp. 177-178; Dz 1653-54 (2823-25); risposta della S. S. C. del S. Uffizio del 24 apr. 1917: AAS 9 (1917), p. 268; Dz 2182 (3642).
+[^cevii-cos-lug-ftn148]: Oltre ai documenti più antichi contro qualunque forma di evocazione spiritistica da Alessandro IV (27 settembre 1258) in poi, Cfr. Enciclica della S. S. C. del S. Uffizio De magnetismi abusu, 4 ag. 1856: ASS 1 (1865), pp. 177-178; Dz 1653-54 (2823-25); risposta della S. S. C. del S. Uffizio del 24 apr. 1917: *AAS* 9 (1917), p. 268; Dz 2182 (3642).
 
-[^cevii-cos-lug-ftn149]: Si veda l’esposizione sintetica di questa dottrina paolina in: [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis: AAS 35 (1943), p. 200 e passim.
+[^cevii-cos-lug-ftn149]: Si veda l’esposizione sintetica di questa dottrina paolina in: [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis: *AAS* 35 (1943), p. 200 e passim.
 
 [^cevii-cos-lug-ftn150]: Cfr. per es. Sant’Agostino, Enarr. in Ps. 85, 24: PL 37, 1099.
 	San Girolamo, Liber contra Vigilantium, 6: PL 23, 344.
 	San Tommaso, In IV Sent., d. 45, q. 3, a. 2.
 	San Bonaventura, In IV Sent. d. 45, a. 3, q. 2; ecc.
 
-[^cevii-cos-lug-ftn151]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis AAS 35 (1943), p. 245.
+[^cevii-cos-lug-ftn151]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis *AAS* 35 (1943), p. 245.
 
 [^cevii-cos-lug-ftn152]: Cfr. parecchie iscrizioni nelle Catacombe romane.
 
@@ -823,20 +823,20 @@ Abbondano i Padri e i fondatori degli ordini religiosi.
 
 [^cevii-cos-lug-ftn154]: Cfr. San Metodio, Symposion, VII, 3: GCS (Bonwetsch), p. 74.
 
-[^cevii-cos-lug-ftn155]: Cfr. Benedetto XV, Decretum approbationis virtutum in Causa beatificationis et canonizationis Servi Dei Ioannis Nepomuceni Neumann: AAS 14 (1922), p. 23;
+[^cevii-cos-lug-ftn155]: Cfr. Benedetto XV, Decretum approbationis virtutum in Causa beatificationis et canonizationis Servi Dei Ioannis Nepomuceni Neumann: *AAS* 14 (1922), p. 23;
 	diversi Discorsi di [[Scheda 259° papa - Pio XI|Pio XI]] sui Santi: Inviti all’eroismo, in Discorsi e Radiomessaggi, tt. 1941-1942, passim;
 	[[Scheda 260° papa - Pio XII|Pio XII]], Discorsi e Radiomessaggi, t. X, 1949, 37-43.
 
-[^cevii-cos-lug-ftn156]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: AAS 39 (1947), p. 581.
+[^cevii-cos-lug-ftn156]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: *AAS* 39 (1947), p. 581.
 
 [^cevii-cos-lug-ftn157]: Cfr. Eb 13,7;
 Sir 44-50;
 *<span class="BibleRef">[[Eb 11,3-40|Eb 11,3-40]]</span>*.
-Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: AAS 39 (1947), p. 582-583.
+Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: *AAS* 39 (1947), p. 582-583.
 
 [^cevii-cos-lug-ftn158]: Cfr. Concilio Ecumenico Vaticano I, Costituzione dogmatica sulla fede cattolica [[Documenti vari/Documenti del Concilio Ecumenico Vaticano I/cevi-cos-def#CAPITOLO III.<br>LA FEDE|Dei Filius, Cap. III]] (24 aprile 1870) : Dz 1794 (3013) [Collantes 1.072].
 
-[^cevii-cos-lug-ftn159]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis: AAS 35 (1943), p. 216 [Collantes 8.161].
+[^cevii-cos-lug-ftn159]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis: *AAS* 35 (1943), p. 216 [Collantes 8.161].
 
 [^cevii-cos-lug-ftn160]: Circa la riconoscenza verso i Santi, Cfr. E. Diehl, Inscriptiones latinae christianae veteres, I, Berolini 1925, nn. 2008, 2382 e passim.
 
@@ -846,7 +846,7 @@ Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: AAS 
 
 [^cevii-cos-lug-ftn163]: Cfr. per es. *<span class="BibleRef">[[2Ts 1,10|2Ts 1,10]]</span>*.
 
-[^cevii-cos-lug-ftn164]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art104" name="cos-sac_art104">104</span>.|Sacrosanctum Concilium, n. 104]]* (04 dicembre 1963) : AAS 56 (1964), pp. 125-126 [pag. 17ss].
+[^cevii-cos-lug-ftn164]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art104" name="cos-sac_art104">104</span>.|Sacrosanctum Concilium, n. 104]]* (04 dicembre 1963) : *AAS* 56 (1964), pp. 125-126 [pag. 17ss].
 
 [^cevii-cos-lug-ftn165]: Messale romano, Canone [Preghiera Eucaristica I] della Messa.
 
@@ -862,7 +862,7 @@ Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: AAS 
 
 [^cevii-cos-lug-ftn170]: Cfr. San Pietro Canisio, Catechismus Maior seu Summa Doctrinae christianae, cap. III (ed. crit. F. Streicher), Pars I, pp. 15-16, n. 44 e pp. 100-101, n. 49.
 
-[^cevii-cos-lug-ftn171]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art8" name="cos-sac_art8">8</span>.|Sacrosanctum Concilium, n. 8]]* (04 dicembre 1963) : AAS 56 (1964), p. 401 [pag. 21].
+[^cevii-cos-lug-ftn171]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art8" name="cos-sac_art8">8</span>.|Sacrosanctum Concilium, n. 8]]* (04 dicembre 1963) : *AAS* 56 (1964), p. 401 [pag. 21].
 
 [^cevii-cos-lug-ftn172]: Simbolo Costantinopolitano: Mansi 3, 566.
 	Cfr. Concilio di Efeso, ib. 4, 1130 (anche ib. 2, 665 e 4, 1071);
@@ -874,7 +874,7 @@ Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: AAS 
 
 [^cevii-cos-lug-ftn174]: Sant’Agostino, De S. Virginitate, 6: PL 40, 399.
 
-[^cevii-cos-lug-ftn175]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso al Concilio del 4 dicembre 1963: AAS 56 (1964), p. 37 [0000].
+[^cevii-cos-lug-ftn175]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], Discorso al Concilio del 4 dicembre 1963: *AAS* 56 (1964), p. 37 [0000].
 
 [^cevii-cos-lug-ftn176]: Cfr. San Germano di Costantinopoli, Hom. in Annunt. Deiparae: PG 98, 328A; In Dorm., 2: 357.
 	Anastasio d’Antiochia, Sermones 2 de Annunt., 2: PG 89, 1377AB; Sermones 3, 2: 1388C.
@@ -898,16 +898,16 @@ Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: AAS 
 	Concilio di Calcedonia: Mansi, 7, 462.
 	Sant’Ambrogio, De instit. virg.: PL 16, 320.
 
-[^cevii-cos-lug-ftn182]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: AAS 35 (1943), pp. 247-248 [Collantes 5.034-35].
+[^cevii-cos-lug-ftn182]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mystici Corporis, 29 giugno 1943: *AAS* 35 (1943), pp. 247-248 [Collantes 5.034-35].
 
 [^cevii-cos-lug-ftn183]: Cfr. [[Scheda 255° papa - Pio IX|Pio IX]], Bolla Ineffabilis, 8 dic. 1854: Acta Pii IX, 1, I, p. 616; Dz 1641 (2803) [Collantes 5.026].
 
-[^cevii-cos-lug-ftn184]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Munificentissimus, 1° novembre1950: AAS 42 (1950); Dz 2333 (3903) [Collantes 5.030].
+[^cevii-cos-lug-ftn184]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Costituzione Apostolica Munificentissimus, 1° novembre1950: *AAS* 42 (1950); Dz 2333 (3903) [Collantes 5.030].
 	Cfr. San Giovanni Damasceno, Enciclica in dorm. Dei genetricis, Hom. 2 e 3: PG 96, 721-761, specialmente 728B.
 	San Germano di Costantinopoli, In S. Dei gen. dorm., Sermones 1: PG 98(6), 340-348; Sermones 3: 361.
 	San Modesto di Gerusalemme, In dorm. SS. Deiparae: PG 86(2), 3277-3312.
 
-[^cevii-cos-lug-ftn185]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Ad coeli Reginam, 11 ott. 1954: AAS 46 (1954), pp. 633-636: Dz 3913ss.
+[^cevii-cos-lug-ftn185]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Ad coeli Reginam, 11 ott. 1954: *AAS* 46 (1954), pp. 633-636: Dz 3913ss.
 	Cfr. Sant’Andrea di Creta, Hom. 3 in dorm. SS. Deiparae: PG 97, 1089-1109.
 	San Giovanni Damasceno, De fide orth, IV, 14: PG 94, 1153-1161.
 
@@ -918,8 +918,8 @@ Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: AAS 
 
 [^cevii-cos-lug-ftn187]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Adiutricem populi, 5 settembre 1895: ASS 28 (1895-96), p. 129.
 	S. Pio X, Enciclica Ad diem illum, 2 febbr. 1904: Acta I, p. 154; Dz 1978a (3370) [Collantes 5.032-33].
-	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Miserentissimus, 8 maggio 1928: AAS 20 (1928), p. 178.
-	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio Radiofonico, 13 maggio 1946: AAS 38 (1946), p. 266.
+	[[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Miserentissimus, 8 maggio 1928: *AAS* 20 (1928), p. 178.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Messaggio Radiofonico, 13 maggio 1946: *AAS* 38 (1946), p. 266.
 
 [^cevii-cos-lug-ftn188]: Cfr. Sant’Ambrogio, Epist. 63: PL 16, 1218.
 
@@ -940,8 +940,8 @@ Cfr. anche [[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Mediator Dei: AAS 
 [^cevii-cos-lug-ftn193]: Cfr. Concilio di Nicea II, anno 787: Mansi 13, 378-279; Dz 302 (600-01) [Collantes 7.336-37];
 	Concilio di Trento, Sessione 25: Mansi 33, 171-172 [Dz 1821-25; Collantes 7.343-47].
 
-[^cevii-cos-lug-ftn194]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 24 ott. 1954: AAS 46 (1954), p. 679;
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Ad caeli Reginam, 11 ott. 1954: AAS 46 (1954), p. 637.
+[^cevii-cos-lug-ftn194]: Cfr. [[Scheda 260° papa - Pio XII|Pio XII]], Messaggio radiofonico, 24 ott. 1954: *AAS* 46 (1954), p. 679;
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Ad caeli Reginam, 11 ott. 1954: *AAS* 46 (1954), p. 637.
 
-[^cevii-cos-lug-ftn195]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ecclesiam Dei, 12 novembre1923: AAS 15 (1923), p. 581.
-	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fulgens corona, 8 settembre 1953: AAS 45 (1953), pp. 590-591.
+[^cevii-cos-lug-ftn195]: Cfr. [[Scheda 259° papa - Pio XI|Pio XI]], Enciclica Ecclesiam Dei, 12 novembre1923: *AAS* 15 (1923), p. 581.
+	[[Scheda 260° papa - Pio XII|Pio XII]], Enciclica Fulgens corona, 8 settembre 1953: *AAS* 45 (1953), pp. 590-591.
