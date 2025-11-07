@@ -3,8 +3,19 @@
 let tab = document.querySelector('#corpo table');
 if (tab) tab.remove();
 
+let oldContainer = document.querySelector('div.siv-innercontainer.rounded#corpo');
+let newContainer = document.querySelector('div.container.va-main-document');
+// controllo
+if (oldContainer && newContainer) {
+    console.warn('ERRORE: trovati entrambi i contenitori (improbabile)');
+} else if (!oldContainer && !newContainer) {
+    console.warn('ERRORE: non trovato né oldContainer né newContainer');
+}
+// eliminazione abstract
 let absts = document.querySelectorAll('div.abstract.text.parbase.vaticanrichtext');
-if (absts.length) absts.forEach(el => el.remove());
+if (absts.length && oldContainer && !newContainer) {
+    absts.forEach(el => el.remove());
+}
 
 let trans = document.querySelectorAll('div.translation-field');
 if (trans.length) trans.forEach(el => el.remove());
@@ -62,4 +73,11 @@ if (doc) {
     doc.insertAdjacentHTML('afterbegin', topHTML);
     doc.insertAdjacentHTML('beforeend', bottomHTML);
 }
+
+let addHr = document.querySelector('hr');
+if (addHr) {
+    addHr.insertAdjacentHTML('beforebegin', '<p>&nbsp;</p>');
+    addHr.insertAdjacentHTML('afterend', '<p>&nbsp;</p>');
+}
+
 setTimeout(() => window.print(), 100);
