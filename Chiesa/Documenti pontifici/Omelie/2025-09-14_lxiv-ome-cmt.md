@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 29982
+progr-doc: 29938
 num-doc: 166
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Omelie|Omelia]]"
