@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 5226
+progr-doc: 5224
 num-doc: 3
 autore-doc: "[[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]"
 tipo-doc: "[[Chirografi|Chirografo]]"
