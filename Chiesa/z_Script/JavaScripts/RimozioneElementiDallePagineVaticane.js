@@ -57,6 +57,22 @@ document.querySelectorAll('script, style')
 let c = document.querySelector('div.logo.doc-copyright');
 if (c) c.remove();
 
+let mp = document.querySelector('p[style="text-align: center;"] a[href*="/vaticanevents/"]');
+if (mp) {
+    let p1 = mp.closest('p');
+    if (p1) {
+        let p2 = p1.nextElementSibling;
+        p1.remove();
+        if (
+            p2 &&
+            /^_+$/.test(p2.textContent.trim()) &&   // solo underscore
+            p2.textContent.trim().length >= 3       // almeno 3
+        ) {
+            p2.outerHTML = '<p>&nbsp;</p><p>&nbsp;</p>';
+        }
+    }
+}
+
 // elimina i 4 commenti
 let html = document.documentElement.innerHTML;
 html = html
