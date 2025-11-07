@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 30002
+progr-doc: 29958
 num-doc: 186
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Motu proprio|Motu proprio]]"
@@ -27,11 +27,15 @@ creato: 2025/10/22 22:06:06
 modificato: 2025/10/22 22:26:58
 ---
 
+
 ***
+
 
 Lettera Apostolica<br>in forma di Motu proprio `class: tipoDoc`
 
+
 del sommo pontefice `class: tipoAut`
+
 
 Leone XIV `class: nomeAut`
 
@@ -42,9 +46,7 @@ Leone XIV `class: nomeAut`
 ## Sulle attività di investimento finanziario<br>della Santa Sede
 
 
-
-
-Corresponsabilità nella *communio* è uno dei principi per il servizio della Curia Romana, come voluto da [[Scheda 266° papa - Francesco|Papa Francesco]] e stabilito nella **[[Costituzione Apostolica Praedicate Evangelium, del 19 marzo 2022]]**.<br>Questa responsabilità condivisa, che riguarda anche le Istituzioni curiali alle quali spettano le attività di investimento finanziario della Santa Sede, richiede che siano consolidate le disposizioni succedutesi nel tempo e siano ben definiti i ruoli e le competenze di ciascuna Istituzione, rendendo possibile la convergenza di tutti in una dinamica di mutua collaborazione.<br><br>Considerati tali motivi, valutate attentamente le raccomandazioni approvate all’unanimità dal Consiglio per l’Economia e consultate persone esperte in questa materia, con la presente Lettera Apostolica in forma di *Motu Proprio* approvo integralmente quanto raccomandato e stabilisco quanto segue: `class: paragrafoNorm`
+Corresponsabilità nella *communio* è uno dei principi per il servizio della Curia Romana, come voluto da [[Papi/Scheda 266° papa - Francesco I|Papa Francesco]] e stabilito nella **[[Costituzione Apostolica Praedicate Evangelium, del 19 marzo 2022]]**.<br>Questa responsabilità condivisa, che riguarda anche le Istituzioni curiali alle quali spettano le attività di investimento finanziario della Santa Sede, richiede che siano consolidate le disposizioni succedutesi nel tempo e siano ben definiti i ruoli e le competenze di ciascuna Istituzione, rendendo possibile la convergenza di tutti in una dinamica di mutua collaborazione.<br><br>Considerati tali motivi, valutate attentamente le raccomandazioni approvate all’unanimità dal Consiglio per l’Economia e consultate persone esperte in questa materia, con la presente Lettera Apostolica in forma di *Motu Proprio* approvo integralmente quanto raccomandato e stabilisco quanto segue: `class: paragrafoNorm`
 
 
 ###### 1.
