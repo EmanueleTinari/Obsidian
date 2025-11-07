@@ -32,153 +32,8 @@
               "icon": "lucide-file",
               "title": "Operazioni quotidiane"
             }
-          },
-          {
-            "id": "900238d254ef592c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti vari/ccar-cic.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ccar-cic"
-            }
-          },
-          {
-            "id": "cf57dbafceb9233e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti vari/_Idee per la strutturazione del testo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Idee per la strutturazione del testo"
-            }
-          },
-          {
-            "id": "67276aa6bd9496ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Allocuzioni/_Indice Allocuzioni.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Indice Allocuzioni"
-            }
-          },
-          {
-            "id": "f4a752c4b3ea8c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papi/Scheda 266° papa - Francesco I.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scheda 266° papa - Francesco I"
-            }
-          },
-          {
-            "id": "bc378fe18568c551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papi/Scheda 267° papa - Leone XIV.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scheda 267° papa - Leone XIV"
-            }
-          },
-          {
-            "id": "c57bc9fbaa10c4fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Esortazioni apostoliche/2013-11-24_fi-esa-evg.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2013-11-24_fi-esa-evg"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,44 +233,44 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "b6ec1e2c2c7617c4",
+  "active": "b588b4d068ca2321",
   "lastOpenFiles": [
-    "Documenti pontifici/Messaggi/2025-05-08_lxiv-mes-ueo.pdf",
-    "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.md",
+    "Documenti pontifici/Radiomessaggi/1978-08-27_ipi-ram-ueo.pdf",
+    "Documenti pontifici/Chirografi/1978-08-27_ipi-chi-nss.pdf",
+    "Documenti pontifici/Angelus/1978-08-27_ipi-ang.pdf",
+    "Documenti pontifici/Encicliche/1741-08-26_bxiv-enc-qpa.pdf",
+    "Documenti pontifici/Brevi/1741-08-22_bxiv-bre-isu.pdf",
+    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.pdf",
+    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.md",
+    "Operazioni quotidiane.md",
+    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc1.pdf",
+    "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa1.pdf",
+    "z_Script/JavaScripts/RimozioneElementiDallePagineVaticane.js",
+    "Documenti vari/ccar-cic.md",
+    "Documenti vari/_Idee per la strutturazione del testo.md",
+    "Documenti vari/CIC indice in html fino a dove sono arrivato.html",
+    "Documenti vari/Nuovo Documento di testo.txt",
+    "Documenti pontifici/Allocuzioni/_LAST-modello-all.md",
     "Documenti pontifici/Allocuzioni/_Indice Allocuzioni.md",
-    "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.md",
-    "Papi/Scheda 266° papa - Francesco I.md",
+    "Documenti pontifici/Encicliche/_LAST-modello-enc-.md",
+    "Documenti pontifici/Encicliche/1791-04-23_pivi-enc-adn.md",
+    "Documenti pontifici/Omelie/_Indice Omelie.md",
+    "Documenti pontifici/Discorsi/2025-05-10_lxiv-dis-acc.md",
+    "Documenti pontifici/Discorsi/1978-08-30_ipi-dis-acc.md",
     "Documenti pontifici/Esortazioni apostoliche/2013-11-24_fi-esa-evg.md",
     "Papi/Scheda 267° papa - Leone XIV.md",
+    "Papi/Scheda 266° papa - Francesco I.md",
+    "Documenti pontifici/Omelie/2025-05-09_lxiv-ome-mpe.md",
+    "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.md",
+    "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.md",
     "Papi/Scheda 265° papa - Benedetto XVI.md",
     "Papi/Scheda 264° papa - Giovanni Paolo II.md",
     "Papi/Scheda 263° papa - Giovanni Paolo I.md",
     "Papi/Scheda 262° papa - Paolo VI.md",
     "Papi/Scheda 261° papa - Giovanni XXIII.md",
-    "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.pdf",
-    "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.pdf",
-    "Documenti pontifici/Bolle/2015-04-11_fi-bol-miv.pdf",
-    "Documenti pontifici/Bolle/1749-05-05_bxiv-bol-pad.pdf",
     "Documenti pontifici/Allocuzioni/1842-07-22_grxvi-all-had.md",
-    "Documenti pontifici/Allocuzioni/1842-07-22_grxvi-all-had.pdf",
-    "Documenti vari/ccar-cic.md",
-    "Documenti vari/46E0D170",
-    "Documenti vari/_Idee per la strutturazione del testo.md",
-    "Documenti vari/~$ccar-cic Codice di Diritto Canonico. Internal link x ObsidianMD a Canoni e Commi.xlsx",
     "Documenti pontifici/Allocuzioni/1841-03-01_grxvi-all-aih.md",
-    "Documenti pontifici/Allocuzioni/1841-03-01_grxvi-all-aih.pdf",
     "Documenti pontifici/Allocuzioni/1840-04-27_grxvi-all-ait.md",
-    "Documenti pontifici/Allocuzioni/1840-04-27_grxvi-all-ait.pdf",
-    "Documenti pontifici/Allocuzioni/1837-12-10_grxvi-all-dui.md",
-    "Documenti pontifici/Allocuzioni/1836-02-01_grxvi-all-sei.md",
-    "Documenti pontifici/Allocuzioni/1837-12-10_grxvi-all-dui.pdf",
-    "Papi/Scheda 251° papa - Pio VII.md",
-    "Papi/Scheda 254° papa - Gregorio XVI.md",
-    "Documenti pontifici/Allocuzioni/1800-03-28_pivii-all-ads.md",
-    "Papi/Scheda 255° papa - Pio IX.md",
-    "Papi/Scheda 247° papa - Benedetto XIV.md",
-    "Papi/Scheda 248° papa - Clemente XIII.md",
-    "Papi/Scheda 249° papa - Clemente XIV.md",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
     "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",

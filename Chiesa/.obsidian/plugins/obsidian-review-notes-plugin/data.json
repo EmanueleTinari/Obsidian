@@ -3477,8 +3477,8 @@
       "filename": "2010-01-02 - Messaggio al mondo-Mirijana"
     },
     {
-      "path": "Documenti pontifici/Brevi/1741-06-30_bxiv-ben-pet.md",
-      "filename": "1741-06-30_bxiv-ben-pet"
+      "path": "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.md",
+      "filename": "1741-06-30_bxiv-bre-pet"
     },
     {
       "path": "Documenti pontifici/Brevi Encicliche/_modello-ben-.md",
@@ -4153,8 +4153,8 @@
       "filename": "2025-09-14_lxiv-ang"
     },
     {
-      "path": "Documenti pontifici/Omelie/2025-05-09_lxiv-ome.md",
-      "filename": "2025-05-09_lxiv-ome"
+      "path": "Documenti pontifici/Omelie/2025-05-09_lxiv-ome-mpe.md",
+      "filename": "2025-05-09_lxiv-ome-mpe"
     },
     {
       "path": "Documenti pontifici/Omelie/2025-05-11_lxiv-ome.md",
@@ -4573,8 +4573,8 @@
       "filename": "01 dicembre 2023"
     },
     {
-      "path": "Documenti pontifici/Discorsi/2025-05-10_lxiv-dis-icc.md",
-      "filename": "2025-05-10_lxiv-dis-icc"
+      "path": "Documenti pontifici/Discorsi/2025-05-10_lxiv-dis-acc.md",
+      "filename": "2025-05-10_lxiv-dis-acc"
     },
     {
       "path": "Documenti pontifici/Discorsi/Senza nome.md",
@@ -5155,6 +5155,74 @@
     {
       "path": "Documenti pontifici/Messaggi/2025-05-08_lxiv-mes-ueo.pdf",
       "filename": "2025-05-08_lxiv-mes-ueo"
+    },
+    {
+      "path": "Documenti pontifici/Omelie/2025-05-09_lxiv-ome-mpe.pdf",
+      "filename": "2025-05-09_lxiv-ome-mpe"
+    },
+    {
+      "path": "Documenti pontifici/Discorsi/2025-05-10_lxiv-dis-acc.pdf",
+      "filename": "2025-05-10_lxiv-dis-acc"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1740-12-03_bxiv-enc-ubp.pdf",
+      "filename": "1740-12-03_bxiv-enc-ubp"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1791-04-23_pivi-enc-adn.pdf",
+      "filename": "1791-04-23_pivi-enc-adn"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1791-04-23_pivi-enc-adn.md",
+      "filename": "1791-04-23_pivi-enc-adn"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/_LAST-modello-enc-.md",
+      "filename": "_LAST-modello-enc-"
+    },
+    {
+      "path": "Documenti pontifici/Allocuzioni/_LAST-modello-all.md",
+      "filename": "_LAST-modello-all"
+    },
+    {
+      "path": "Documenti vari/CIC indice in html fino a dove sono arrivato.html",
+      "filename": "CIC indice in html fino a dove sono arrivato"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa1.pdf",
+      "filename": "1741-05-30_bxiv-bre-noa1"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc1.pdf",
+      "filename": "1741-06-30_bxiv-bre-quc1"
+    },
+    {
+      "path": "z_Script/JavaScripts/RimozioneElementiDallePagineVaticane.js",
+      "filename": "RimozioneElementiDallePagineVaticane"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.pdf",
+      "filename": "1741-06-30_bxiv-bre-pet"
+    },
+    {
+      "path": "Documenti pontifici/Brevi/1741-08-22_bxiv-bre-isu.pdf",
+      "filename": "1741-08-22_bxiv-bre-isu"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/1741-08-26_bxiv-enc-qpa.pdf",
+      "filename": "1741-08-26_bxiv-enc-qpa"
+    },
+    {
+      "path": "Documenti pontifici/Angelus/1978-08-27_ipi-ang.pdf",
+      "filename": "1978-08-27_ipi-ang"
+    },
+    {
+      "path": "Documenti pontifici/Chirografi/1978-08-27_ipi-chi-nss.pdf",
+      "filename": "1978-08-27_ipi-chi-nss"
+    },
+    {
+      "path": "Documenti pontifici/Radiomessaggi/1978-08-27_ipi-ram-ueo.pdf",
+      "filename": "1978-08-27_ipi-ram-ueo"
     }
   ]
 }
