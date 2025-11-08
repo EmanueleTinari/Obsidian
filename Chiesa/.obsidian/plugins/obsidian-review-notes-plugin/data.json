@@ -4649,16 +4649,16 @@
       "filename": "2013-06-29_fi-enc-luf"
     },
     {
-      "path": "Documenti pontifici/Encicliche/fi-enc-2.md",
-      "filename": "fi-enc-2"
+      "path": "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.md",
+      "filename": "2015-05-24_fi-enc-las"
     },
     {
-      "path": "Documenti pontifici/Encicliche/fi-enc-3.md",
-      "filename": "fi-enc-3"
+      "path": "Documenti pontifici/Encicliche/2020-10-03_fi-enc-frt.md",
+      "filename": "2020-10-03_fi-enc-frt"
     },
     {
-      "path": "Documenti pontifici/Encicliche/fi-enc-4.md",
-      "filename": "fi-enc-4"
+      "path": "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
+      "filename": "2024-10-24_fi-enc-din"
     },
     {
       "path": "Documenti pontifici/Clippings/Lumen fidei (29 giugno 2013).md",
@@ -5355,6 +5355,26 @@
     {
       "path": "Documenti pontifici/Omelie/2025-06-01_lxiv-ome.pdf",
       "filename": "2025-06-01_lxiv-ome"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf1.pdf",
+      "filename": "2013-06-29_fi-enc-luf1"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.pdf",
+      "filename": "2015-05-24_fi-enc-las"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las1.pdf",
+      "filename": "2015-05-24_fi-enc-las1"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/2020-10-03_fi-enc-frt.pdf",
+      "filename": "2020-10-03_fi-enc-frt"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.pdf",
+      "filename": "2024-10-24_fi-enc-din"
     }
   ]
 }
