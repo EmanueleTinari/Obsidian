@@ -33,7 +33,7 @@ aliases:
   - Leone XIV
   - Leo XIV
   - Leo PP. XIV
-tags: [Bio, Leone_XVI, Scheda, papa]
+tags: [Bio, Leone_XIV, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 creato: 2025/06/25 14:02:23
 modificato: 2025/07/09 23:33:15
