@@ -17,5 +17,8 @@
     "downscalePercent": 100
   },
   "showInlineTitle": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "userIgnoreFilters": [
+    "Documenti pontifici/*.pdf"
+  ]
 }

@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "Operazioni quotidiane"
             }
+          },
+          {
+            "id": "8eda6697087b9f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operazioni quotidiane.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Operazioni quotidiane"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,21 +258,21 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "b6ec1e2c2c7617c4",
+  "active": "8eda6697087b9f3b",
   "lastOpenFiles": [
-    "Documenti pontifici/Angelus/2025-06-15_lxiv-ang.pdf",
-    "Documenti pontifici/Messaggi/2025-06-13_lxiv-mes-gmp.pdf",
-    "Documenti pontifici/Radiomessaggi/1978-08-27_ipi-ram-ueo.pdf",
-    "Documenti pontifici/Chirografi/1978-08-27_ipi-chi-nss.pdf",
-    "Documenti pontifici/Angelus/1978-08-27_ipi-ang.pdf",
-    "Documenti pontifici/Encicliche/1741-08-26_bxiv-enc-qpa.pdf",
-    "Documenti pontifici/Brevi/1741-08-22_bxiv-bre-isu.pdf",
-    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.pdf",
-    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.md",
+    "Documenti pontifici/Omelie/2025-10-05_lxiv-ome-mgv.md",
+    "Documenti pontifici/Omelie/2025-06-01_lxiv-ome.pdf",
+    "Documenti pontifici/Omelie/2025-05-31_lxiv-ome.pdf",
+    "Documenti pontifici/Omelie/2025-05-25_lxiv-ome.pdf",
+    "Documenti pontifici/Omelie/2025-05-20_lxiv-ome.pdf",
+    "Documenti pontifici/Omelie/2025-05-18_lxiv-ome.pdf",
+    "Documenti pontifici/Omelie/2025-05-11_lxiv-ome.pdf",
+    "Documenti pontifici/Motu proprio/2025-09-29_lxiv-mpr-coc.pdf",
+    "Documenti pontifici/Omelie/2025-10-12_lxiv-ome-gsm.pdf",
+    "Documenti pontifici/Omelie/2025-10-05_lxiv-ome-mgv.pdf",
     "Operazioni quotidiane.md",
-    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc1.pdf",
-    "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa1.pdf",
-    "z_Script/JavaScripts/RimozioneElementiDallePagineVaticane.js",
+    "Documenti pontifici/Messaggi/2025-07-25_lxiv-mes-gmr.pdf",
+    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.md",
     "Documenti vari/ccar-cic.md",
     "Documenti vari/_Idee per la strutturazione del testo.md",
     "Documenti pontifici/Allocuzioni/_LAST-modello-all.md",
