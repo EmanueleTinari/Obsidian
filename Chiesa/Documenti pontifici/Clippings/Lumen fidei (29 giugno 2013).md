@@ -389,4 +389,4 @@ A Maria, madre della Chiesa e madre della nostra fede, ci rivolgiamo in preghier
 
 [^2013-06-29_fi-enc-luf-ftn49]: Cfr. *Dialogus cum Tryphone Iudaeo*, 100, 5: *PG* 6, 710.
 
-[^2013-06-29_fi-enc-luf-ftn50]: Cfr. Conc. Ecum. Vat. II, Cost. dogm. sulla Chiesa *[Lumen gentium]*, 58.
+[^2013-06-29_fi-enc-luf-ftn50]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art58" name="cos-lug_art58">58</span>.|Lumen Gentium, n. 58]]*, 21 novembre 1964.
