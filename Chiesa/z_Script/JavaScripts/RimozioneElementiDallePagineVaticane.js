@@ -1,5 +1,15 @@
 // Rimuove elementi superflui dalle pagine vaticane per una stampa più pulita
 // ed inietta header e footer con logo
+// elimina i 4 commenti
+let html = document.documentElement.innerHTML;
+html = html
+    .replace('<!-- CONTENUTO DOCUMENTO -->', '')
+    .replace('<!-- /CONTENUTO DOCUMENTO -->', '')
+    .replace('<!-- BEGIN: body.jsp -->', '')
+    .replace('<!-- END: body.jsp -->', '');
+document.documentElement.innerHTML = html;
+
+// --- Pulizia e preparazione HTML ---
 let tab = document.querySelector('#corpo table');
 if (tab) tab.remove();
 
@@ -54,34 +64,113 @@ if (t) t.remove();
 document.querySelectorAll('script, style')
     .forEach(el => el.remove());
 
-let c = document.querySelector('div.logo.doc-copyright');
-if (c) c.remove();
+(function () {
+    // seleziona qualsiasi <p> che contiene "Multimedia" in testo o anchor
+    const pMultimedia = Array.from(document.querySelectorAll('p'))
+        .find(p => /multimedia/i.test(p.textContent));
 
-let mp = document.querySelector('p[style="text-align: center;"] a[href*="/vaticanevents/"]');
-if (mp) {
+    if (!pMultimedia) {
+        console.log('MULTIMEDIA: nessun paragrafo trovato');
+        return;
+    }
+
+    console.log('MULTIMEDIA: rimuovo paragrafo:', pMultimedia);
+    const pNext = (() => {
+        let el = pMultimedia.nextSibling;
+        while (el && el.nodeType !== Node.ELEMENT_NODE) el = el.nextSibling;
+        if (el?.tagName === 'P') return el;
+        return null;
+    })();
+
+    pMultimedia.remove();
+
+    if (!pNext) {
+        console.log('UNDERSCORE: nessun paragrafo successivo trovato');
+        return;
+    }
+
+    // controlla se è linea di underscore
+    const cleaned = (pNext.textContent || '').replace(/[\s\u00A0]/g, '').replace(/[^_]/g, '');
+    if (cleaned.length >= 3) {
+        pNext.outerHTML = '<p>&nbsp;</p><p>&nbsp;</p>';
+        console.log('UNDERSCORE: sostituito con due paragrafi vuoti');
+    } else {
+        console.log('UNDERSCORE: paragrafo successivo non è linea di underscore significativa');
+    }
+})();
+
+// robust: rimuove solo il <p> "Multimedia" (varie forme di href o testo) e sostituisce il <p> di underscore immediatamente dopo
+(function () {
+    const selAnchors = [
+        'a[href*="/vaticanevents/"]',
+        'a[href*="event.dir.html"]'
+    ].join(',');
+
+    // cerca anchor valide dentro div.abstract prima, poi ovunque; fallback su testo "Multimedia"
+    let mp = document.querySelector('div.abstract.text.parbase.vaticanrichtext ' + selAnchors)
+        || document.querySelector(selAnchors)
+        || Array.from(document.querySelectorAll('a')).find(a => /\bMultimedia\b/i.test(a.textContent));
+
+    if (!mp) {
+        console.log('MULTIMEDIA: nessun link trovato.');
+        return;
+    }
+
     let p1 = mp.closest('p');
-    if (p1) {
-        let p2 = p1.nextElementSibling;
-        p1.remove();
-        if (
-            p2 &&
-            /^_+$/.test(p2.textContent.trim()) &&   // solo underscore
-            p2.textContent.trim().length >= 3       // almeno 3
-        ) {
+    if (!p1) {
+        console.log('MULTIMEDIA: trovato anchor ma non è in un <p>. Anchor:', mp);
+        mp.remove(); // rimuovo comunque l'anchor se presente fuori da <p>
+        return;
+    }
+
+    // --- BLOCCO MULTIMEDIA + UNDERSCORE ---
+    // selettore robusto che copre tutti i casi precedenti
+    console.log('MULTIMEDIA: rimuovo paragrafo:', p1);
+    p1.remove();
+
+    // trova il prossimo <p> reale dopo p1 (salta nodi non-elemento o elementi diversi)
+    let p2 = p1.nextElementSibling;
+    while (p2 && p2.tagName !== 'P') {
+        p2 = p2.nextElementSibling;
+    }
+
+    if (!p2) {
+        console.log('UNDERSCORE: nessun paragrafo successivo trovato.');
+        return;
+    }
+
+    if (p2) {
+        // normalizza
+        let raw = p2.textContent;
+        raw = raw
+            .replace(/\u200B/g, '')     // zero width
+            .replace(/[\s\xa0]/g, '');  // tutti gli spazi e NBSP
+
+        if (/^_+$/.test(raw)) {
             p2.outerHTML = '<p>&nbsp;</p><p>&nbsp;</p>';
         }
     }
-}
 
-// elimina i 4 commenti
-let html = document.documentElement.innerHTML;
-html = html
-    .replace('<!-- CONTENUTO DOCUMENTO -->', '')
-    .replace('<!-- /CONTENUTO DOCUMENTO -->', '')
-    .replace('<!-- BEGIN: body.jsp -->', '')
-    .replace('<!-- END: body.jsp -->', '');
-document.documentElement.innerHTML = html;
+    // normalizza: rimuove spazi, NBSP, ritorni, altri caratteri non underscore
+    const raw = p2.textContent || '';
+    const cleaned = raw.replace(/[\s\u00A0]/g, '').replace(/[^_]/g, '');
+    console.log('UNDERSCORE: testo raw:', JSON.stringify(raw));
+    console.log('UNDERSCORE: cleaned underscores:', cleaned.length);
 
+    // se ci sono almeno 3 underscore contigue (dopo pulizia) -> sostituisci con due <p>&nbsp;</p>
+    if (cleaned.length >= 3) {
+        p2.outerHTML = '<p>&nbsp;</p><p>&nbsp;</p>';
+        console.log('UNDERSCORE: sostituito con due paragrafi vuoti.');
+    } else {
+        console.log('UNDERSCORE: paragrafo successivo non è linea di underscore significativa; non modifico.');
+    }
+})();
+
+// --- Blocco di COPYRIGHT ---
+document.querySelectorAll('div.logo.doc-copyright')
+    .forEach(el => el.remove());
+
+// --- HEADER / FOOTER LOGO ---
 let doc = document.querySelector('div.documento');
 if (doc) {
     let topHTML = `<table><tbody><tr><td width="5%"><p align="center"><a href="/content/vatican/it.html"><img border="0" src="/etc/designs/vatican/library/images/logo-vatican.png" width="64" height="78"></a></p></td></tr></tbody></table><hr>`;
@@ -96,4 +185,5 @@ if (addHr) {
     addHr.insertAdjacentHTML('afterend', '<p>&nbsp;</p>');
 }
 
+// --- STAMPA ---
 setTimeout(() => window.print(), 100);
