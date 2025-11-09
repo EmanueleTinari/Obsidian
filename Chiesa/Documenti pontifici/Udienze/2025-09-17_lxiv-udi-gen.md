@@ -35,7 +35,7 @@ del sommo pontefice `class: tipoAut`
 Leone XIV `class: nomeAut`
 
 
-# Mercoledì, 17 settembre 2025
+# Generale di Mercoledì, 17 settembre 2025
 
 
 ### Ciclo di Catechesi – Giubileo 2025. Gesù Cristo nostra speranza. III. La Pasqua di Gesù. 7. La morte. «Un sepolcro nuovo, nel quale nessuno era stato ancora posto» (*<span class="BibleRef">[[Gv 19,40-41|Gv 19,40-41]]</span>*)
@@ -57,6 +57,10 @@ nel nostro cammino di catechesi su Gesù nostra speranza, oggi contempliamo il m
 
 
 Esprimo la mia profonda vicinanza al popolo palestinese a Gaza, che continua a vivere nella paura e a sopravvivere in condizioni inaccettabili, costretto con la forza a spostarsi ancora una volta dalle proprie terre.<br>Davanti al Signore Onnipotente che ha comandato: «Non ucciderai» (*<span class="BibleRef">[[Es 20,13|Es 20,13]]</span>*) e al cospetto dell’intera storia umana, ogni persona ha sempre una dignità inviolabile, da rispettare e da custodire.<br>Rinnovo l’appello al cessate-il-fuoco, al rilascio degli ostaggi, alla soluzione diplomatica negoziata, al rispetto integrale del diritto umanitario internazionale.<br>Invito tutti ad unirsi alla mia accorata preghiera, affinché sorga presto un’alba di pace e di giustizia. `class: paragrafoNorm`
+
+
+***
+
 
 Rivolgo un cordiale benvenuto ai pellegrini di lingua italiana.<br>In particolare, saluto i gruppi parrocchiali di Vasto, San Giovanni Rotondo, Rometta Marea, Milazzo e l’Unità pastorale San Paolo VI di Concesio.<br><br>Saluto poi i devoti del Santuario dell’Addolorata di Tuscania, il Coordinamento della Divina Misericordia, gli Alpini di Albate e il Gruppo Fenimprese Sicilia.<br><br>Il mio pensiero va infine ai giovani, agli ammalati e agli sposi novelli.<br>Siate sempre fedeli all’ideale evangelico, e realizzatelo nelle vostre quotidiane attività.<br><br>E, prima di concludere, vorrei ringraziare tutti voi per gli auguri manifestati in questo giorno del mio onomastico.<br>Tante grazie!<br><br>A tutti la mia benedizione! `class: paragrafoNorm`
 
