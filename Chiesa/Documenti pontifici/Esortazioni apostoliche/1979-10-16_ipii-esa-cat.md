@@ -1,7 +1,7 @@
 ---
 cssclasses: docVat
-progr-doc: x
-num-doc: x
+progr-doc: 5851
+num-doc: 612
 autore-doc: "[[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]]"
 tipo-doc: "[[Esortazioni apostoliche|Esortazione apostolica]]"
 titolo-doc: Catechesi Tradendae
