@@ -56,6 +56,30 @@
               "icon": "lucide-file",
               "title": "2013-06-29_fi-enc-luf"
             }
+          },
+          {
+            "id": "0311fc9d0db31f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Udienze/_Indice Udienze.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Udienze"
+            }
           }
         ],
         "currentTab": 1
@@ -260,22 +284,26 @@
   },
   "active": "9b869fd591886348",
   "lastOpenFiles": [
+    "Documenti pontifici/Udienze/_Indice Udienze.md",
+    "Documenti pontifici/Udienze/2025-05-21_lxiv-udi-gen.md",
+    "Documenti pontifici/Udienze/2025-05-28_lxiv-udi-gen.pdf",
+    "Documenti pontifici/Udienze/2025-05-28_lxiv-udi-gen.md",
+    "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf.md",
+    "Documenti pontifici/Udienze/2025-05-21_lxiv-udi-gen.md~",
+    "Documenti pontifici/Udienze/2025-09-17_lxiv-udi-gen.md",
+    "Documenti pontifici/Udienze/2025-05-21_lxiv-udi-gen.pdf",
+    "Documenti pontifici/Udienze/2025-09-17_lxiv-udi-gen.pdf",
+    "Documenti pontifici/log_modifiche.txt",
+    "Documenti pontifici/Encicliche/log_modifiche.txt",
+    "z_Script/pythonScripts/modDateMd.py",
     "Documenti pontifici/Clippings/Lumen fidei (29 giugno 2013).md~",
     "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
     "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.pdf",
     "Documenti pontifici/Encicliche/2020-10-03_fi-enc-frt.pdf",
-    "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las1.pdf",
-    "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.pdf",
     "Documenti pontifici/Encicliche/2020-10-03_fi-enc-frt.md",
     "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.md",
     "Operazioni quotidiane.md",
-    "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf1.pdf",
-    "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf.pdf",
-    "Documenti pontifici/Encicliche/papa-francesco_20130629_enciclica-lumen-fidei_it.pdf",
     "Documenti pontifici/Omelie/2025-10-05_lxiv-ome-mgv.md",
-    "Documenti pontifici/Omelie/2025-06-01_lxiv-ome.pdf",
-    "Documenti pontifici/Omelie/2025-05-31_lxiv-ome.pdf",
-    "Documenti pontifici/Omelie/2025-05-25_lxiv-ome.pdf",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.md",
     "Documenti vari/ccar-cic.md",
     "Documenti vari/_Idee per la strutturazione del testo.md",
@@ -292,10 +320,6 @@
     "Documenti pontifici/Omelie/2025-05-09_lxiv-ome-mpe.md",
     "Documenti pontifici/Allocuzioni/1848-04-29_piix-all-nos.md",
     "Documenti pontifici/Allocuzioni/1849-04-20_piix-all-quq.md",
-    "Papi/Scheda 265° papa - Benedetto XVI.md",
-    "Papi/Scheda 264° papa - Giovanni Paolo II.md",
-    "Papi/Scheda 263° papa - Giovanni Paolo I.md",
-    "Papi/Scheda 262° papa - Paolo VI.md",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
     "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",

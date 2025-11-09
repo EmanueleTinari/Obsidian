@@ -4261,12 +4261,12 @@
       "filename": "_modello-rec"
     },
     {
-      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-05-21.md",
-      "filename": "lxiv-udi-gen2025-05-21"
+      "path": "Documenti pontifici/Udienze/2025-05-21_lxiv-udi-gen.md",
+      "filename": "2025-05-21_lxiv-udi-gen"
     },
     {
-      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-05-28.md",
-      "filename": "lxiv-udi-gen2025-05-28"
+      "path": "Documenti pontifici/Udienze/2025-05-28_lxiv-udi-gen.md",
+      "filename": "2025-05-28_lxiv-udi-gen"
     },
     {
       "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-06-04.md",
@@ -4321,8 +4321,8 @@
       "filename": "lxiv-udi-gen2025-09-10"
     },
     {
-      "path": "Documenti pontifici/Udienze/lxiv-udi-gen2025-09-17.md",
-      "filename": "lxiv-udi-gen2025-09-17"
+      "path": "Documenti pontifici/Udienze/2025-09-17_lxiv-udi-gen.md",
+      "filename": "2025-09-17_lxiv-udi-gen"
     },
     {
       "path": "_09 - LLMs/Prompt lettura pagina scrutatio.it.md",
@@ -5375,6 +5375,30 @@
     {
       "path": "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.pdf",
       "filename": "2024-10-24_fi-enc-din"
+    },
+    {
+      "path": "z_Script/pythonScripts/modDateMd.py",
+      "filename": "modDateMd"
+    },
+    {
+      "path": "Documenti pontifici/Encicliche/log_modifiche.txt",
+      "filename": "log_modifiche"
+    },
+    {
+      "path": "Documenti pontifici/log_modifiche.txt",
+      "filename": "log_modifiche"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/2025-09-17_lxiv-udi-gen.pdf",
+      "filename": "2025-09-17_lxiv-udi-gen"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/2025-05-21_lxiv-udi-gen.pdf",
+      "filename": "2025-05-21_lxiv-udi-gen"
+    },
+    {
+      "path": "Documenti pontifici/Udienze/2025-05-28_lxiv-udi-gen.pdf",
+      "filename": "2025-05-28_lxiv-udi-gen"
     }
   ]
 }
