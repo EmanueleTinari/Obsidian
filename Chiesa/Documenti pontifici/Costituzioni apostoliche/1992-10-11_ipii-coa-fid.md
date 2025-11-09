@@ -78,15 +78,15 @@ NOTE:
 
 [^ipii-coa-fid-ftn1]: Cfr. *<span class="BibleRef">[[Ef 3,19|Ef 3,19]]</span>*.
 
-[^ipii-coa-fid-ftn2]: [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], **[[Discorso di apertura del Concilio Ecumenico Vaticano II]]**, 11 ottobre 1962: AAS 54 (1962), pp. 788-791.
+[^ipii-coa-fid-ftn2]: [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], **[[Discorso di apertura del Concilio Ecumenico Vaticano II]]**, 11 ottobre 1962: *AAS* 54 (1962), pp. 788-791.
 
-[^ipii-coa-fid-ftn3]: [[Scheda 262° papa - Paolo VI|Paolo VI]], **[[Discorso di chiusura del Concilio Ecumenico Vaticano II]]**, 8 dicembre 1965: AAS 58 (1966), pp. 7-8.
+[^ipii-coa-fid-ftn3]: [[Scheda 262° papa - Paolo VI|Paolo VI]], **[[Discorso di chiusura del Concilio Ecumenico Vaticano II]]**, 8 dicembre 1965: *AAS* 58 (1966), pp. 7-8.
 
 [^ipii-coa-fid-ftn4]: **[[Allocuzione 25 gennaio 1985]]**: L’Osservatore Romano, 27 gennaio 1985.
 
 [^ipii-coa-fid-ftn5]: Sinodo dei Vescovi (assemblea generale straordinaria, 1985), Relazione finale, 7 dicembre 1985, II, B, a, n. 4 (Città del Vaticano 1985), n. 11.
 
-[^ipii-coa-fid-ftn6]: **[[Discorso ai Padri riuniti per la chiusura del Sinodo dei Vescovi (assemblea generale straordinaria), 7 dicembre 1985, n. 6]]**: AAS 78 (1986), p. 435.
+[^ipii-coa-fid-ftn6]: **[[Discorso ai Padri riuniti per la chiusura del Sinodo dei Vescovi (assemblea generale straordinaria), 7 dicembre 1985, n. 6]]**: *AAS* 78 (1986), p. 435.
 
 [^ipii-coa-fid-ftn7]: Cfr. *<span class="BibleRef">[[Mt 13,52|Mt 13,52]]</span>*.
 
