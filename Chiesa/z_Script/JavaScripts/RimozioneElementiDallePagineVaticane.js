@@ -1,5 +1,6 @@
 // Rimuove elementi superflui dalle pagine vaticane per una stampa più pulita
 // ed inietta header e footer con logo
+
 // elimina i 4 commenti
 let html = document.documentElement.innerHTML;
 html = html
