@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "70f655a95092e10b",
+            "id": "9b869fd591886348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.md",
+                "file": "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,59 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2015-05-24_fi-enc-las"
-            }
-          },
-          {
-            "id": "2e8ed170f542bd78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Encicliche/2020-10-03_fi-enc-frt.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2020-10-03_fi-enc-frt"
-            }
-          },
-          {
-            "id": "f4131842c3e6eb35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-24_fi-enc-din"
+              "title": "2013-06-29_fi-enc-luf"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,8 +258,10 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "b6ec1e2c2c7617c4",
+  "active": "9b869fd591886348",
   "lastOpenFiles": [
+    "Documenti pontifici/Clippings/Lumen fidei (29 giugno 2013).md~",
+    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
     "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.pdf",
     "Documenti pontifici/Encicliche/2020-10-03_fi-enc-frt.pdf",
     "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las1.pdf",
@@ -322,7 +276,6 @@
     "Documenti pontifici/Omelie/2025-06-01_lxiv-ome.pdf",
     "Documenti pontifici/Omelie/2025-05-31_lxiv-ome.pdf",
     "Documenti pontifici/Omelie/2025-05-25_lxiv-ome.pdf",
-    "Documenti pontifici/Omelie/2025-05-20_lxiv-ome.pdf",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-pet.md",
     "Documenti vari/ccar-cic.md",
     "Documenti vari/_Idee per la strutturazione del testo.md",
@@ -343,7 +296,6 @@
     "Papi/Scheda 264° papa - Giovanni Paolo II.md",
     "Papi/Scheda 263° papa - Giovanni Paolo I.md",
     "Papi/Scheda 262° papa - Paolo VI.md",
-    "Papi/Scheda 261° papa - Giovanni XXIII.md",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
     "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
