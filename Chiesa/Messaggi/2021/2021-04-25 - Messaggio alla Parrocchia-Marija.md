@@ -17,7 +17,7 @@ modificato: 2025/07/09 23:33:02
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 aprile 2021
 
-## Cari figli!<br>Oggi vi invito a testimoniare la vostra fede nei colori della primavera, che sia la fede della speranza e del coraggio.<br>Figlioli, la vostra fede non venga meno in nessuna situazione e neanche in questo tempo di prova.<br>Camminate coraggiosamente con Cristo Risorto verso il Cielo che è la vostra meta.<br>Io vi accompagno in questo cammino di santità e vi metto tutti nel mio Cuore Immacolato.<br>Grazie per aver risposto alla mia chiamata.
+## Cari figli!<br>Oggi vi invito a testimoniare la vostra fede nei colori della primavera, che sia la fede della speranza e del coraggio.<br>Figlioli, la vostra fede non venga meno in nessuna situazione e neanche in questo tempo di prova.<br>Camminate coraggiosamente con Cristo Risorto verso il Cielo che è la vostra mèta.<br>Io vi accompagno in questo cammino di santità e vi metto tutti nel mio Cuore Immacolato.<br>Grazie per aver risposto alla mia chiamata.
 
 ***
 
