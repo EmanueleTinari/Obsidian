@@ -17,7 +17,7 @@ modificato: 2025/07/09 23:33:02
 
 # Messaggio della Regina della Pace<br>alla Parrocchia<br>tramite la veggente Marija<br>del 25 settembre 2021
 
-## Cari figli!<br>Pregate, testimoniate e gioite con me perché l'Altissimo mi manda ancora per guidarvi sulla via della santità.<br>Siate coscienti, figlioli, che la vostra vita è breve e l'eternità vi aspetta affinché con tutti i santi glorifichiate Dio con il vostro essere.<br>Non preoccupatevi, figlioli, per le cose terrene ma anelate al Cielo.<br>Il Cielo sarà la vostra meta e la gioia regnerà nel vostro cuore.<br>Sono con voi e vi benedico tutti con la mia benedizione materna.<br>Grazie per aver risposto alla mia chiamata.
+## Cari figli!<br>Pregate, testimoniate e gioite con me perché l'Altissimo mi manda ancora per guidarvi sulla via della santità.<br>Siate coscienti, figlioli, che la vostra vita è breve e l'eternità vi aspetta affinché con tutti i santi glorifichiate Dio con il vostro essere.<br>Non preoccupatevi, figlioli, per le cose terrene ma anelate al Cielo.<br>Il Cielo sarà la vostra mèta e la gioia regnerà nel vostro cuore.<br>Sono con voi e vi benedico tutti con la mia benedizione materna.<br>Grazie per aver risposto alla mia chiamata.
 
 ***
 
