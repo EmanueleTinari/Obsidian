@@ -23,7 +23,7 @@ aliases:
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](x)"
-creato:
+creato: 2025-11-07 07:18:17
 modificato: 2025/11/07 07:19:16
 ---
 
