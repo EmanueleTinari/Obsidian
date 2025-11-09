@@ -1,6 +1,6 @@
 ---
 creato: 2025/06/13 10:37:37
-modificato: 2025/10/21 21:51:40
+modificato: 2025/11/06 09:29:01
 ---
 
 Prova punto:
@@ -61,6 +61,6 @@ NOTE:
 
 [^ftn3172]: Cfr. *<span class="BibleRef">[[Gn 1,26-29|Gn 1,26-29]]</span>*.
 
-[^ftn3173]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo <span class="lkd" name="lkd">[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art69" name="cos-ges_art69">69</span>. I beni della terra e loro destinazione a tutti gli uomini|Gaudium et Spes, n. 69]]</span> (07 dicembre 1965): AAS 58 (1966) 1090.
+[^ftn3173]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo <span class="lkd" name="lkd">[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art69" name="cos-ges_art69">69</span>. I beni della terra e loro destinazione a tutti gli uomini|Gaudium et Spes, n. 69]]</span> (07 dicembre 1965): *AAS* 58 (1966) 1090.
 
 
