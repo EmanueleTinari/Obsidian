@@ -132,7 +132,7 @@ RIFERIMENTI:
 > - Gb 26,7-14;
 > - Gb 38; 39;
 > - Sir 16,26-17,10.
->— è opera di Dio
+> -  è opera di Dio
 > - Gn 1,21.27;
 > - Gn 2,3-4;
 > - Gn 5,1-2;
@@ -143,7 +143,7 @@ RIFERIMENTI:
 > - Ap 4,11;
 > - Ap 10,6;
 > - cfr. 2 Mac 7,28.
-— con la sua parola
+> -  con la sua parola
 > - Sal 33,9;
 > - Gv 1,3;
 > - Eb 11,3;
@@ -189,7 +189,7 @@ RIFERIMENTI:
 > - 1 Cor 11,7;
 > - Col 3,10;
 > - Gc 3,9.
-> — maschio e femmina
+> – maschio e femmina
 > - Gn 5,2;
 > - Mt 19,4 par.;
 > - cfr. Gal 3,28.
@@ -197,11 +197,11 @@ RIFERIMENTI:
 > Gn 1,28 li benedisse
 > - Gn 9,1;
 > - cfr. 1,22.
-> — siate fecondi, diventate numerosi
+> – siate fecondi, diventate numerosi
 > - Gn 8,17;
 > - Gn 9,1.7;
 > - cfr. Gn 1,22.
-> — governatela
+> – governatela
 > - Gn 9,2;
 > - Sal 8,7-9;
 > - Sap 9,2;
