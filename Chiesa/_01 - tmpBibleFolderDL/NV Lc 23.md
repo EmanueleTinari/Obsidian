@@ -102,7 +102,7 @@
 ###### 50
 <span class=vrs>50</span>Et ecce vir nomine Ioseph, qui erat decurio, vir bonus et iustus
 ###### 51
-<span class=vrs>51</span>Hic non consenserat consilio et actibus eorum — ab Arimathaea civitate Iudaeorum, qui exspectabat regnum Dei,
+<span class=vrs>51</span>Hic non consenserat consilio et actibus eorum – ab Arimathaea civitate Iudaeorum, qui exspectabat regnum Dei,
 ###### 52
 <span class=vrs>52</span>hic accessit ad Pilatum et petiit corpus Iesu
 ###### 53
