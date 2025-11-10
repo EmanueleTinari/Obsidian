@@ -1829,7 +1829,7 @@ mihi complacui".
 ###### 5
 <span class=vrs>5</span>Quid enim est facilius, dicere: "Dimittuntur peccata tua", aut dicere: "Surge et ambula"?
 ###### 6
-<span class=vrs>6</span>Ut sciatis autem quoniam Filius hominis habet potestatem in terra dimittendi peccata — tunc ait paralytico - : Surge, tolle lectum tuum et vade in domum tuam".
+<span class=vrs>6</span>Ut sciatis autem quoniam Filius hominis habet potestatem in terra dimittendi peccata – tunc ait paralytico – : Surge, tolle lectum tuum et vade in domum tuam".
 ###### 7
 <span class=vrs>7</span>Et surrexit et abiit in domum suam.
 ###### 8
@@ -3750,7 +3750,7 @@ enim non intratis nec introeuntes sinitis intrare.
 ###### 9
 <span class=vrs>9</span>Quid est facilius, dicere paralytico: “Dimittuntur peccata tua”, an dicere: “Surge et tolle grabatum tuum et ambula”
 ###### 10
-<span class=vrs>10</span>Ut autem sciatis quia potestatem habet Filius hominis interra dimittendi peccata — ait paralytico - :
+<span class=vrs>10</span>Ut autem sciatis quia potestatem habet Filius hominis interra dimittendi peccata – ait paralytico – :
 ###### 11
 <span class=vrs>11</span>Tibi dico: Surge, tolle grabatum tuum et vade in domum tuam”.
 ###### 12
@@ -4041,7 +4041,7 @@ enim non intratis nec introeuntes sinitis intrare.
 ###### 40
 <span class=vrs>40</span>Et irridebant eum. Ipse vero, eiectis omnibus, assumit patrem puellae et matrem et, qui secum erant, et ingreditur, ubi erat puella;
 ###### 41
-<span class=vrs>41</span>et tenens manum puellae ait illi: “Talitha, qum!” — quod est interpretatum: “Puella, tibi dico: Surge!” - .
+<span class=vrs>41</span>et tenens manum puellae ait illi: “Talitha, qum!” – quod est interpretatum: “Puella, tibi dico: Surge!” – .
 ###### 42
 <span class=vrs>42</span>Et confestim surrexit puella et ambulabat; erat enim annorum duodecim. Et obstupuerunt continuo stupore magno.
 ###### 43
@@ -4177,9 +4177,9 @@ enim non intratis nec introeuntes sinitis intrare.
 ###### 2
 <span class=vrs>2</span>et cum vidissent quosdam ex discipulis eius communibus manibus, id est non lotis, manducare panes
 ###### 3
-<span class=vrs>3</span>— pharisaei enim et omnes Iudaei, nisi pugillo lavent manus, non manducant, tenentes traditionem seniorum;
+<span class=vrs>3</span>– pharisaei enim et omnes Iudaei, nisi pugillo lavent manus, non manducant, tenentes traditionem seniorum;
 ###### 4
-<span class=vrs>4</span>et a foro nisi baptizentur, non comedunt; et alia multa sunt, quae acceperunt servanda: baptismata calicum et urceorum et aeramentorum et lectorum —
+<span class=vrs>4</span>et a foro nisi baptizentur, non comedunt; et alia multa sunt, quae acceperunt servanda: baptismata calicum et urceorum et aeramentorum et lectorum –
 ###### 5
 <span class=vrs>5</span>et interrogant eum pharisaei et scribae: “Quare discipuli tui non ambulant iuxta traditionem seniorum, sed communibus manibus manducant panem”.
 ###### 6
