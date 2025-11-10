@@ -19,7 +19,6 @@ tags:
   - Udienza_x
   - Documenti_pontifici
 aliases:
-  - x
   - Udienza 
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -28,110 +27,49 @@ creato: 2025/09/17 15:22:30
 modificato: 2025/09/17 15:22:30
 ---
 
+
 ***
 
-Omelia `class: tipoDoc`
+
+Udienza Generale `class: tipoDoc`
+
 
 del sommo pontefice `class: tipoAut`
 
-X `class: nomeAut`
+
+x `class: nomeAut`
 
 
-# Titolo doc
+# x
 
 
-X.<br> `class: incipit`
+x<br> `class: incipit`
 
 
-###### Proemio
-
-X. `class: proemio`
-
-###### 1.
-
-X. `class: paragrafoNorm`
-
-###### 2.
-
-X. `class: paragrafoNorm`
-
-###### 3.
-
-X. `class: paragrafoNorm`
-
-###### 4.
-
-X. `class: paragrafoNorm`
-
-###### 5.
-
-X. `class: paragrafoNorm`
-
-###### 6.
-
-X. `class: paragrafoNorm`
-
-###### 7.
-
-X. `class: paragrafoNorm`
-
-###### 8.
-
-X. `class: paragrafoNorm`
-
-###### 9.
-
-X. `class: paragrafoNorm`
-
-###### 10.
-
-X. `class: paragrafoNorm`
-
-###### 11.
-
-X. `class: paragrafoNorm`
-
-###### 12.
-
-X. `class: paragrafoNorm`
-
-###### 13.
-
-X. `class: paragrafoNorm`
-
-###### 14.
-
-X. `class: paragrafoNorm`
-
-###### 15.
-
-X. `class: paragrafoNorm`
-
-###### 16.
-
-X. `class: paragrafoNorm`
-
-###### 17.
-
-X. `class: paragrafoNorm`
-
-###### 18.
-
-X. `class: paragrafoNorm`
-
-###### 19.
-
-X. `class: paragrafoNorm`
-
-###### 20.
-
-X. `class: paragrafoNorm`
+x `class: paragrafoNorm`
 
 
-X. `class: dataLuogo`
+x `class: paragrafoNorm`
 
-X. `class: firmaC`
+
+x `class: paragrafoNorm`
+
+
+x `class: paragrafoNorm`
+
+
+x `class: paragrafoNorm`
+
+
+x `class: dataLuogo`
+
+
+x `class: firmaC`
+
 
 ***
 
+
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+
+
