@@ -1,10 +1,10 @@
 ---
 cssclasses: docVat
-progr-doc: 5231
+progr-doc: 5230
 num-doc: 8
 autore-doc: "[[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]"
 tipo-doc: "[[Udienze|Udienza]]"
-titolo-doc: Udienza generale. Mercoledì, 6 settembre 1978
+titolo-doc: Udienza Generale di Mercoledì, 6 settembre 1978
 giorno-doc: 6
 mese-doc: 9
 anno-doc: 1978
@@ -12,19 +12,13 @@ data-doc: 1978-09-06
 lingua-doc: Italiano
 lingua-orig: Italiano
 stato: false
-tags:
-  - Udienza_generale
-  - Giovanni_Paolo_I
-  - Udienza_generale_Mercoledì_6_settembre_1978
-  - Documenti_pontifici
-aliases:
-  - Mercoledì, 6 settembre 1978
-  - Udienza Generale Mercoledì, 6 settembre 1978
+tags: [Udienza_generale, Giovanni_Paolo_I, Udienza_Mercoledì_6_settembre_1978, Documenti_pontifici]
+aliases: [Udienza Generale Mercoledì 6 settembre 1978]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/john-paul-i/it/audiences/documents/hf_jp-i_aud_06091978.html)"
 creato: 2025/09/17 15:22:44
-modificato: 2025/10/05 00:12:13
+modificato: 2025/11/10 11:01:33
 ---
 
 
@@ -40,7 +34,7 @@ del sommo pontefice `class: tipoAut`
 Giovanni Paolo I `class: nomeAut`
 
 
-# Mercoledì, 6 settembre 1978
+# di Mercoledì, 6 settembre 1978
 
 
 La grande virtù dell’umiltà `class: incipit`
