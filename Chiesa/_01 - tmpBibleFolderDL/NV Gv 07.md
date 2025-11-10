@@ -44,7 +44,7 @@
 ###### 21
 <span class=vrs>21</span>Respondit Iesus et dixit eis: “Unum opus feci, et omnes miramini.
 ###### 22
-<span class=vrs>22</span>Propterea Moyses dedit vobis circumcisionem — non quia ex Moyse est sed ex patribus — et in sabbato circumciditis hominem.
+<span class=vrs>22</span>Propterea Moyses dedit vobis circumcisionem – non quia ex Moyse est sed ex patribus – et in sabbato circumciditis hominem.
 ###### 23
 <span class=vrs>23</span>Si circumcisionem accipit homo in sabbato, ut non solvatur lex Moysis, mihi indignamini, quia totum hominem sanum feci in sabbato
 ###### 24
