@@ -6,9 +6,9 @@
 ###### 2
 <span class=vrs>2</span>et cum vidissent quosdam ex discipulis eius communibus manibus, id est non lotis, manducare panes
 ###### 3
-<span class=vrs>3</span>— pharisaei enim et omnes Iudaei, nisi pugillo lavent manus, non manducant, tenentes traditionem seniorum;
+<span class=vrs>3</span>– pharisaei enim et omnes Iudaei, nisi pugillo lavent manus, non manducant, tenentes traditionem seniorum;
 ###### 4
-<span class=vrs>4</span>et a foro nisi baptizentur, non comedunt; et alia multa sunt, quae acceperunt servanda: baptismata calicum et urceorum et aeramentorum et lectorum —
+<span class=vrs>4</span>et a foro nisi baptizentur, non comedunt; et alia multa sunt, quae acceperunt servanda: baptismata calicum et urceorum et aeramentorum et lectorum –
 ###### 5
 <span class=vrs>5</span>et interrogant eum pharisaei et scribae: “Quare discipuli tui non ambulant iuxta traditionem seniorum, sed communibus manibus manducant panem”.
 ###### 6
