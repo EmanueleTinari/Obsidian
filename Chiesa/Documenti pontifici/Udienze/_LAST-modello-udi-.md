@@ -4,7 +4,7 @@ progr-doc: x
 num-doc: x
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Udienze|Udienza]]"
-titolo-doc: Generale di Mercoledì, x
+titolo-doc: Udienza Generale di Mercoledì, x
 giorno-doc: x
 mese-doc: x
 anno-doc: 2025
