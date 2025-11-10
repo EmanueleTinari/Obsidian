@@ -4,7 +4,7 @@
 ###### 1
 <span class=vrs>1</span>Ut ergo cognovit Iesus quia audierunt pharisaei quia Iesus plures discipulos facit et baptizat quam Ioannes
 ###### 2
-<span class=vrs>2</span>— quamquam Iesus ipse non baptizaret sed discipuli eius —
+<span class=vrs>2</span>– quamquam Iesus ipse non baptizaret sed discipuli eius –
 ###### 3
 <span class=vrs>3</span>reliquit Iudaeam et abiit iterum in Galilaeam.
 ###### 4
@@ -50,7 +50,7 @@
 ###### 24
 <span class=vrs>24</span>Spiritus est Deus, et eos, qui adorant eum, in Spiritu et veritate oportet adorare”.
 ###### 25
-<span class=vrs>25</span>Dicit ei mulier: “Scio quia Messias venit — qui dicitur Christus C; cum venerit ille, nobis annuntiabit omnia”.
+<span class=vrs>25</span>Dicit ei mulier: “Scio quia Messias venit – qui dicitur Christus C; cum venerit ille, nobis annuntiabit omnia”.
 ###### 26
 <span class=vrs>26</span>Dicit ei Iesus: “Ego sum, qui loquor tecum”.
 ###### 27
