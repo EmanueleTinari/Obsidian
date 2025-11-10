@@ -76,15 +76,15 @@
 ###### 37
 <span class=vrs>37</span>Et audierunt eum duo discipuli loquentem et secuti sunt Iesum.
 ###### 38
-<span class=vrs>38</span>Conversus autem Iesus et videns eos sequentes se dicit eis: “Quid quaeritis”. Qui dixerunt ei: “Rabbi — quod dicitur interpretatum Magister — ubi manes”.
+<span class=vrs>38</span>Conversus autem Iesus et videns eos sequentes se dicit eis: “Quid quaeritis”. Qui dixerunt ei: “Rabbi – quod dicitur interpretatum Magister – ubi manes”.
 ###### 39
 <span class=vrs>39</span>Dicit eis: “Venite et videbitis”. Venerunt ergo et viderunt, ubi maneret, et apud eum manserunt die illo; hora erat quasi decima.
 ###### 40
 <span class=vrs>40</span>Erat Andreas, frater Simonis Petri, unus ex duobus, qui audierant ab Ioanne et secuti fuerant eum.
 ###### 41
-<span class=vrs>41</span>Invenit hic primum fratrem suum Simonem et dicit ei: “Invenimus Messiam” — quod est interpretatum Christus;
+<span class=vrs>41</span>Invenit hic primum fratrem suum Simonem et dicit ei: “Invenimus Messiam” – quod est interpretatum Christus;
 ###### 42
-<span class=vrs>42</span>adduxit eum ad Iesum. Intuitus eum Iesus dixit: “Tu es Simon filius Ioannis; tu vocaberis Cephas” — quod interpretatur Petrus.
+<span class=vrs>42</span>adduxit eum ad Iesum. Intuitus eum Iesus dixit: “Tu es Simon filius Ioannis; tu vocaberis Cephas” – quod interpretatur Petrus.
 ###### 43
 <span class=vrs>43</span>In crastinum voluit exire in Galilaeam et invenit Philippum. Et dicit ei Iesus: “Sequere me”.
 ###### 44
