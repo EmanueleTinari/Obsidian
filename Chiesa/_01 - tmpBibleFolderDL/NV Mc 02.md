@@ -20,7 +20,7 @@
 ###### 9
 <span class=vrs>9</span>Quid est facilius, dicere paralytico: “Dimittuntur peccata tua”, an dicere: “Surge et tolle grabatum tuum et ambula”
 ###### 10
-<span class=vrs>10</span>Ut autem sciatis quia potestatem habet Filius hominis interra dimittendi peccata — ait paralytico - :
+<span class=vrs>10</span>Ut autem sciatis quia potestatem habet Filius hominis interra dimittendi peccata – ait paralytico – :
 ###### 11
 <span class=vrs>11</span>Tibi dico: Surge, tolle grabatum tuum et vade in domum tuam”.
 ###### 12
