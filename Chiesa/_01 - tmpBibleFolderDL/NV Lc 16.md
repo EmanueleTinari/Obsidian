@@ -56,7 +56,7 @@
 ###### 27
 <span class=vrs>27</span>Et ait: “Rogo ergo te, Pater, ut mittas eum in domum patris mei
 ###### 28
-<span class=vrs>28</span>— habeo enim quinque fratres — ut testetur illis, ne et ipsi veniant in locum hunc tormentorum”.
+<span class=vrs>28</span>– habeo enim quinque fratres – ut testetur illis, ne et ipsi veniant in locum hunc tormentorum”.
 ###### 29
 <span class=vrs>29</span>Ait autem Abraham: “Habent Moysen et Prophetas; audiant illos”.
 ###### 30
