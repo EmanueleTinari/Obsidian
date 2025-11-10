@@ -220,15 +220,15 @@ NOTE:
 
 [^ccar-ccc-ftn3]: Cfr. *<span class="BibleRef">[[Ef 3,19|Ef 3,19]]</span>*.
 
-[^ccar-ccc-ftn4]: [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], **[[Discorso di apertura del Concilio Ecumenico Vaticano II]]**, 11 ottobre 1962: AAS 54 (1962), pp. 788-791.
+[^ccar-ccc-ftn4]: [[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]], **[[Discorso di apertura del Concilio Ecumenico Vaticano II]]**, 11 ottobre 1962: *AAS* 54 (1962), pp. 788-791.
 
-[^ccar-ccc-ftn5]: [[Scheda 262° papa - Paolo VI|Paolo VI]], **[[Discorso di chiusura del Concilio Ecumenico Vaticano II]]**, 8 dicembre 1965: AAS 58 (1966), pp. 7-8.
+[^ccar-ccc-ftn5]: [[Scheda 262° papa - Paolo VI|Paolo VI]], **[[Discorso di chiusura del Concilio Ecumenico Vaticano II]]**, 8 dicembre 1965: *AAS* 58 (1966), pp. 7-8.
 
 [^ccar-ccc-ftn6]: Allocuzione 25 gennaio 1985: L’Osservatore Romano, 27 gennaio 1985.
 
 [^ccar-ccc-ftn7]: Sinodo dei Vescovi (assemblea generale straordinaria, 1985), Relazione finale, 7 dicembre 1985, II, B, a, n. 4 (Città del Vaticano 1985), n. 11.
 
-[^ccar-ccc-ftn8]: Discorso ai Padri riuniti per la chiusura del Sinodo dei Vescovi (assemblea generale straordinaria), 7 dicembre 1985, n. 6: AAS 78 (1986), p. 435.
+[^ccar-ccc-ftn8]: Discorso ai Padri riuniti per la chiusura del Sinodo dei Vescovi (assemblea generale straordinaria), 7 dicembre 1985, n. 6: *AAS* 78 (1986), p. 435.
 
 [^ccar-ccc-ftn9]: Cfr. *<span class="BibleRef">[[Mt 13,52|Mt 13,52]]</span>*.
 
@@ -246,17 +246,17 @@ NOTE:
 
 [^ccar-ccc-ftn16]: Cfr. *<span class="BibleRef">[[At 2,42|At 2,42]]</span>*.
 
-[^ccar-ccc-ftn17]: Cfr. Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#1.|Catechesi tradendae, n. 1]]*: AAS 71 (1979) 1277-1278.
+[^ccar-ccc-ftn17]: Cfr. Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#1.|Catechesi tradendae, n. 1]]*: *AAS* 71 (1979) 1277-1278.
 
-[^ccar-ccc-ftn18]: Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#18.|Catechesi tradendae, n. 18]]*: AAS 71 (1979) 1292.
+[^ccar-ccc-ftn18]: Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#18.|Catechesi tradendae, n. 18]]*: *AAS* 71 (1979) 1292.
 
-[^ccar-ccc-ftn19]: Cfr. Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#18.|Catechesi tradendae, n. 18]]*: AAS 71 (1979) 1292.
+[^ccar-ccc-ftn19]: Cfr. Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#18.|Catechesi tradendae, n. 18]]*: *AAS* 71 (1979) 1292.
 
-[^ccar-ccc-ftn20]: Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/ipii-esa-cat#13.|Catechesi tradendae, n. 13]*]: AAS 71 (1979) 1288.
+[^ccar-ccc-ftn20]: Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/ipii-esa-cat#13.|Catechesi tradendae, n. 13]*]: *AAS* 71 (1979) 1288.
 
 [^ccar-ccc-ftn21]: Sinodo dei Vescovi, Assemblea straordinaria, *[[Ecclesia sub Verbo Dei mysteria Christi celebrans pro salute mundi. Relazione finale|Ecclesia sub Verbo Dei mysteria Christi celebrans pro salute mundi. Relazione finale]]* II, B, a, 4 (Città del Vaticano 1985) p. 11.
 
-[^ccar-ccc-ftn22]: Giovanni Paolo II, *[[Discorso di chiusura dell’Assemblea straordinaria del Sinodo dei Vescovi#6|Discorso di chiusura dell’Assemblea straordinaria del Sinodo dei Vescovi, n. 6]]* (7 dicembre 1985): AAS 78 (1986) 435.
+[^ccar-ccc-ftn22]: Giovanni Paolo II, *[[Discorso di chiusura dell’Assemblea straordinaria del Sinodo dei Vescovi#6|Discorso di chiusura dell’Assemblea straordinaria del Sinodo dei Vescovi, n. 6]]* (7 dicembre 1985): *AAS* 78 (1986) 435.
 
 [^ccar-ccc-ftn23]: Sinodo dei Vescovi, Assemblea straordinaria, *[[Ecclesia sub Verbo Dei mysteria Christi celebrans pro salute mundi. Relazione finale|Ecclesia sub Verbo Dei mysteria Christi celebrans pro salute mundi. Relazione finale]]* II, B, a, 4 (Città del Vaticano 1985) p. 11.
 
@@ -265,8 +265,8 @@ NOTE:
 
 [^ccar-ccc-ftn25]: A motivo delle diverse caratteristiche di ogni lingua, talvolta nella parte italiana di questa edizione bilingue alcuni testi della Sacra Scrittura sono stati considerati come citazioni letterali mentre nella parte latina sono stati considerati come citazioni non letterali. Ciò spiega la diversa numerazione delle note.
 
-[^ccar-ccc-ftn26]: Cfr. Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#20.|Catechesi tradendae, n. 20-22]]*: AAS 71 (1979) 1293-1296;
-	Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#25.|Catechesi tradendae, n. 25]]*: AAS 71 (1979) 1297-1298.
+[^ccar-ccc-ftn26]: Cfr. Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#20.|Catechesi tradendae, n. 20-22]]*: *AAS* 71 (1979) 1293-1296;
+	Giovanni Paolo II, Esortazione apostolica *[[Documenti pontifici/Esortazioni apostoliche/1979-10-16_ipii-esa-cat#25.|Catechesi tradendae, n. 25]]*: *AAS* 71 (1979) 1297-1298.
 
 [^ccar-ccc-ftn27]: *Catechismo Romano seu Catechismus ex decreto Concilii Tridentini ad parochos, Pii V Pontificis Maximi iussu editus*, Prefazione, 11: ed. P. Rodríguez (Città del Vaticano-Pamplona 1989) p. 11.
 
