@@ -52,12 +52,12 @@ La Genesi è il primo dei cinque libri che gli Ebrei chiamano Torah (‘legge’
 ### Autore e ambiente storico
 Quanto è narrato in questo libro, prima di essere scritto, fu trasmesso oralmente, da una generazione all’altra. In queste tradizioni, infatti, il popolo ebraico vedeva le radici della sua storia, della sua cultura, della sua fede. Il ricordo del passato era custodito con amore e fedeltà e veniva continuamente confrontato con il presente, sempre rivissuto e attualizzato in ogni epoca. Per questo, nel corso della storia d’Israele, diversi gruppi o persone valorizzarono e misero in risalto, di volta in volta, aspetti particolari di talune vicende del ricco patrimonio della tradizione. Pertanto la narrazione, anche se talvolta è complessa, risulta sempre molto ricca e ci fa comprendere come il popolo di Dio ha vissuto la sua fede e come essa può essere mantenuta continuamente viva.
 ### Schema
-— In principio *<span class="BibleRef">[[Gn 1,1-5,32|Gn 1, 1-5,32]]</span>*
-— Il diluvio *<span class="BibleRef">[[Gn 6,1-11,32|6, 1-11,32]]</span>*
-— Abramo *<span class="BibleRef">[[Gn 12,1-23,20|12, 1-23,20]]</span>*
-— Isacco *<span class="BibleRef">[[Gn 24,1-25,18|24, 1-25,18]]</span>*
-— Giacobbe *<span class="BibleRef">[[Gn 25,19-36,43|25, 19-36,43]]</span>*
-— La storia di Giuseppe *<span class="BibleRef">[[Gn 37,1-50,26|37, 1-50,26]]</span>*
+– In principio *<span class="BibleRef">[[Gn 1,1-5,32|Gn 1, 1-5,32]]</span>*
+– Il diluvio *<span class="BibleRef">[[Gn 6,1-11,32|6, 1-11,32]]</span>*
+– Abramo *<span class="BibleRef">[[Gn 12,1-23,20|12, 1-23,20]]</span>*
+– Isacco *<span class="BibleRef">[[Gn 24,1-25,18|24, 1-25,18]]</span>*
+– Giacobbe *<span class="BibleRef">[[Gn 25,19-36,43|25, 19-36,43]]</span>*
+– La storia di Giuseppe *<span class="BibleRef">[[Gn 37,1-50,26|37, 1-50,26]]</span>*
 
 ***
 
