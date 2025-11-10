@@ -40,7 +40,10 @@ del sommo pontefice `class: tipoAut`
 Leone XIV `class: nomeAut`
 
 
-# Generale di Mercoledì, x
+# di Mercoledì, x
+
+
+### x
 
 
 x `class: incipit`
@@ -55,7 +58,13 @@ x `class: paragrafoNorm`
 x `class: paragrafoNorm`
 
 
+### APPELLO
+
+
 x `class: paragrafoNorm`
+
+
+***
 
 
 x `class: paragrafoNorm`
