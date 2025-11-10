@@ -70,7 +70,7 @@
 ###### 34
 <span class=vrs>34</span>Et benedixit illis Simeon et dixit ad Mariam matrem eius: “Ecce positus est hic in ruinam et resurrectionem multorum in Israel et in signum, cui contradicetur
 ###### 35
-<span class=vrs>35</span>— et tuam ipsius animam pertransiet gladius — ut revelentur ex multis cordibus cogitationes”.
+<span class=vrs>35</span>– et tuam ipsius animam pertransiet gladius – ut revelentur ex multis cordibus cogitationes”.
 ###### 36
 <span class=vrs>36</span>Et erat Anna prophetissa, filia Phanuel, de tribu Aser. Haec processerat in diebus multis et vixerat cum viro annis septem a virginitate sua;
 ###### 37
