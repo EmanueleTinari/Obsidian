@@ -1,10 +1,10 @@
 ---
 cssclasses: docVat
-progr-doc: 5236
+progr-doc: 5235
 num-doc: 13
 autore-doc: "[[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]"
 tipo-doc: "[[Udienze|Udienza]]"
-titolo-doc: Udienza generale. Mercoledì, 20 settembre 1978
+titolo-doc: Udienza Generale di Mercoledì, 20 settembre 1978
 giorno-doc: 20
 mese-doc: 9
 anno-doc: 1978
@@ -12,20 +12,13 @@ data-doc: 1978-09-20
 lingua-doc: Italiano
 lingua-orig: Italiano
 stato: false
-tags:
-  - Udienza
-  - Udienza_Generale
-  - Giovanni_Paolo_I
-  - Udienza_generale_mercoledì_20_settembre_1978
-  - Documenti_pontifici
-aliases:
-  - Mercoledì, 20 settembre 1978
-  - Udienza Generale Mercoledì, 20 settembre 1978
+tags: [Udienza, Udienza_Generale, Giovanni_Paolo_I, Udienza_Mercoledì_20_settembre_1978, Documenti_pontifici]
+aliases: [Udienza Generale Mercoledì 20 settembre 1978]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/john-paul-i/it/audiences/documents/hf_jp-i_aud_20091978.html)"
 creato: 2025/09/17 15:22:38
-modificato: 2025/10/04 16:24:19
+modificato: 2025/11/10 10:57:19
 ---
 
 
@@ -41,7 +34,7 @@ del sommo pontefice `class: tipoAut`
 Giovanni Paolo I `class: nomeAut`
 
 
-# Mercoledì, 20 settembre 1978
+# di Mercoledì, 20 settembre 1978
 
 
 La speranza `class: incipit`
