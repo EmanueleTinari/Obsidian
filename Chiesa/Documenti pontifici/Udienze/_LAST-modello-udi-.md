@@ -40,7 +40,7 @@ del sommo pontefice `class: tipoAut`
 Leone XIV `class: nomeAut`
 
 
-# # Generale di Mercoledì, x
+# Generale di Mercoledì, x
 
 
 x `class: incipit`
