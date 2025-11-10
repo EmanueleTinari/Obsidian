@@ -24,7 +24,7 @@
 ###### 11
 <span class=vrs>11</span>Ego sum pastor bonus; bonus pastor animam suam ponit pro ovibus;
 ###### 12
-<span class=vrs>12</span>mercennarius et, qui non est pastor, cuius non sunt oves propriae, videt lupum venientem et dimittit oves et fugit — et lupus rapit eas et dispergit —
+<span class=vrs>12</span>mercennarius et, qui non est pastor, cuius non sunt oves propriae, videt lupum venientem et dimittit oves et fugit – et lupus rapit eas et dispergit –
 ###### 13
 <span class=vrs>13</span>quia mercennarius est et non pertinet ad eum de ovibus.
 ###### 14
