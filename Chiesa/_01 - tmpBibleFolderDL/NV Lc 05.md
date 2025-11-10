@@ -48,7 +48,7 @@
 ###### 23
 <span class=vrs>23</span>Quid est facilius, dicere: “Dimittuntur tibi peccata tua”, an dicere: “Surge et ambula”
 ###### 24
-<span class=vrs>24</span>Ut autem sciatis quia Filius hominis potestatem habet in terra dimittere peccata — ait paralytico - : Tibi dico: Surge, tolle lectulum tuum et vade in domum tuam”.
+<span class=vrs>24</span>Ut autem sciatis quia Filius hominis potestatem habet in terra dimittere peccata – ait paralytico – : Tibi dico: Surge, tolle lectulum tuum et vade in domum tuam”.
 ###### 25
 <span class=vrs>25</span>Et confestim surgens coram illis tulit, in quo iacebat, et abiit in domum suam magnificans Deum.
 ###### 26
