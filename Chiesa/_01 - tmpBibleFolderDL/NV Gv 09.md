@@ -14,7 +14,7 @@
 ###### 6
 <span class=vrs>6</span>Haec cum dixisset, exspuit in terram et fecit lutum ex sputo et linivit lutum super oculos eius
 ###### 7
-<span class=vrs>7</span>et dixit ei: “Vade, lava in natatoria Siloae!” — quod interpretatur Missus —. Abiit ergo et lavit et venit videns.
+<span class=vrs>7</span>et dixit ei: “Vade, lava in natatoria Siloae!” – quod interpretatur Missus –. Abiit ergo et lavit et venit videns.
 ###### 8
 <span class=vrs>8</span>Itaque vicini et, qui videbant eum prius quia mendicus erat, dicebant: “Nonne hic est, qui sedebat et mendicabat”;
 ###### 9
