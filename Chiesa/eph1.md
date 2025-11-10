@@ -1,5 +1,5 @@
 ---
-aliases: ["Ephesians 1", "Eph. 1"]
+aliases: [["Ephesians 1", "Eph. 1"]]
 ---
 # Ephesians 1
 ##### <span class=arrow-left></span>[[gal6|Prev]]<span class=navigation-separator></span>[[eph1notes|Notes]]<span class=navigation-separator></span>[[eph2|Next]]<span class=arrow-right></span>
