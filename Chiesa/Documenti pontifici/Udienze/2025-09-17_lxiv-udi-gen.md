@@ -4,7 +4,7 @@ progr-doc: 29943
 num-doc: 171
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Udienze|Udienza]]"
-titolo-doc: Generale di Mercoledì, 17 settembre 2025
+titolo-doc: Udienza Generale di Mercoledì, 17 settembre 2025
 giorno-doc: 17
 mese-doc: 9
 anno-doc: 2025
@@ -13,18 +13,15 @@ lingua-doc: Italiano
 lingua-orig: Italiano
 stato: false
 tags: [Udienza, Udienza_Generale, Leone_XIV, Udienza_Mercoledì_17_settembre_2025, Documenti_pontifici]
-aliases:
-  - Udienza Generale Mercoledì, 17 settembre 2025
+aliases: [Udienza Generale Mercoledì 17 settembre 2025]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/audiences/2025/documents/20250917-udienza-generale.html)"
 creato: 2025/09/19 08:01:16
-modificato: 2025/11/09 22:20:33
+modificato: 2025/11/10 11:38:34
 ---
 
-
 ***
-
 
 Udienza Generale `class: tipoDoc`
 
@@ -58,9 +55,7 @@ nel nostro cammino di catechesi su Gesù nostra speranza, oggi contempliamo il m
 
 Esprimo la mia profonda vicinanza al popolo palestinese a Gaza, che continua a vivere nella paura e a sopravvivere in condizioni inaccettabili, costretto con la forza a spostarsi ancora una volta dalle proprie terre.<br>Davanti al Signore Onnipotente che ha comandato: «Non ucciderai» (*<span class="BibleRef">[[Es 20,13|Es 20,13]]</span>*) e al cospetto dell’intera storia umana, ogni persona ha sempre una dignità inviolabile, da rispettare e da custodire.<br>Rinnovo l’appello al cessate-il-fuoco, al rilascio degli ostaggi, alla soluzione diplomatica negoziata, al rispetto integrale del diritto umanitario internazionale.<br>Invito tutti ad unirsi alla mia accorata preghiera, affinché sorga presto un’alba di pace e di giustizia. `class: paragrafoNorm`
 
-
 ***
-
 
 Rivolgo un cordiale benvenuto ai pellegrini di lingua italiana.<br>In particolare, saluto i gruppi parrocchiali di Vasto, San Giovanni Rotondo, Rometta Marea, Milazzo e l’Unità pastorale San Paolo VI di Concesio.<br><br>Saluto poi i devoti del Santuario dell’Addolorata di Tuscania, il Coordinamento della Divina Misericordia, gli Alpini di Albate e il Gruppo Fenimprese Sicilia.<br><br>Il mio pensiero va infine ai giovani, agli ammalati e agli sposi novelli.<br>Siate sempre fedeli all’ideale evangelico, e realizzatelo nelle vostre quotidiane attività.<br><br>E, prima di concludere, vorrei ringraziare tutti voi per gli auguri manifestati in questo giorno del mio onomastico.<br>Tante grazie!<br><br>A tutti la mia benedizione! `class: paragrafoNorm`
 
@@ -70,9 +65,7 @@ Piazza San Pietro, Mercoledì, 17 settembre 2025 `class: dataLuogo`
 
 LEO PP. XIV `class: firmaC`
 
-
 ***
-
 
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
 
