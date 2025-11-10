@@ -82,7 +82,7 @@
 ###### 40
 <span class=vrs>40</span>Et irridebant eum. Ipse vero, eiectis omnibus, assumit patrem puellae et matrem et, qui secum erant, et ingreditur, ubi erat puella;
 ###### 41
-<span class=vrs>41</span>et tenens manum puellae ait illi: “Talitha, qum!” — quod est interpretatum: “Puella, tibi dico: Surge!” - .
+<span class=vrs>41</span>et tenens manum puellae ait illi: “Talitha, qum!” – quod est interpretatum: “Puella, tibi dico: Surge!” – .
 ###### 42
 <span class=vrs>42</span>Et confestim surrexit puella et ambulabat; erat enim annorum duodecim. Et obstupuerunt continuo stupore magno.
 ###### 43
