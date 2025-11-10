@@ -32,7 +32,7 @@
 ###### 15
 <span class=vrs>15</span>Dicit ei Iesus: “Mulier, quid ploras Quem quaeris”. Illa, existimans quia hortulanus esset, dicit ei: “Domine, si tu sustulisti eum, dicito mihi, ubi posuisti eum, et ego eum tollam”.
 ###### 16
-<span class=vrs>16</span>Dicit ei Iesus: “Maria!”. Conversa illa dicit ei Hebraice: “Rabbuni!” — quod dicitur Magister —.
+<span class=vrs>16</span>Dicit ei Iesus: “Maria!”. Conversa illa dicit ei Hebraice: “Rabbuni!” – quod dicitur Magister –.
 ###### 17
 <span class=vrs>17</span>Dicit ei Iesus: “Iam noli me tenere, nondum enim ascendi ad Patrem; vade autem ad fratres meos et dic eis: Ascendo ad Patrem meum et Patrem vestrum, et Deum meum et Deum vestrum”.
 ###### 18
