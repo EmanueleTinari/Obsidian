@@ -12,19 +12,13 @@ data-doc: 2025-xx-xx
 lingua-doc: Italiano
 lingua-orig: Italiano
 stato: false
-tags:
-  - Udienza
-  - Udienza_Generale
-  - Leone_XIV
-  - Udienza_x
-  - Documenti_pontifici
-aliases:
-  - Udienza
+tags: [Udienza, Udienza_Generale, Leone_XIV, Udienza_x, Documenti_pontifici]
+aliases: [Udienza Generale x]
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](x)"
 creato:
-modificato: 2025/11/10 09:01:01
+modificato:
 ---
 
 
