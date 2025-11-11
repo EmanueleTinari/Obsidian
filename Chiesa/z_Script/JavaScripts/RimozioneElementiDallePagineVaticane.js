@@ -167,6 +167,10 @@ document.querySelectorAll('script, style')
     }
 })();
 
+// --- Blocco di FOOTER ---
+document.querySelectorAll('footer.footer.simplepage.bkg-secondary-color')
+    .forEach(el => el.remove());
+
 // --- Blocco di COPYRIGHT ---
 document.querySelectorAll('div.logo.doc-copyright')
     .forEach(el => el.remove());
