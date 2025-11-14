@@ -4,6 +4,7 @@
 //     2. Testo
 // Se ci sono sottoparagrafi li unisce con un doppio <br> facendo proseguire il testo senza fine riga.
 // Alla fine di ogni paragrafo mette la classe `class: paragrafoNorm`
+// Funziona per le Encicliche ma va anche bene per le Udienze.
 
 (() => {
     // Estrae il contenuto tra <!-- TESTO --> e <!-- /TESTO -->
