@@ -34,55 +34,17 @@
             }
           },
           {
-            "id": "9b869fd591886348",
+            "id": "04e34d94122b6ab0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2013-06-29_fi-enc-luf"
-            }
-          },
-          {
-            "id": "b18083a7e5c55809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti pontifici/Udienze/2025-09-24_lxiv-udi-gen.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-24_lxiv-udi-gen"
+              "title": "Nuova scheda"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -248,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -282,43 +244,44 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "b18083a7e5c55809",
+  "active": "04e34d94122b6ab0",
   "lastOpenFiles": [
-    "Documenti pontifici/Udienze/_Indice Udienze.md",
-    "Documenti pontifici/Udienze/2025-09-24_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-09-24_lxiv-udi-gen.pdf",
-    "Documenti pontifici/Udienze/2025-09-10_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-09-10_lxiv-udi-gen.pdf",
-    "Documenti pontifici/Udienze/2025-09-06_lxiv-udi-eli.md",
-    "Documenti pontifici/Udienze/2025-09-06_lxiv-udi-eli.md~",
-    "Documenti pontifici/Udienze/2025-09-06_lxiv-udi-eli.pdf",
-    "Documenti pontifici/Udienze/2025-09-03_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-09-03_lxiv-udi-gen.pdf",
-    "Documenti pontifici/Udienze/2025-08-27_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-09-17_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-08-27_lxiv-udi-gen.pdf",
-    "Documenti pontifici/Udienze/2025-08-20_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-08-20_lxiv-udi-gen.md~",
-    "Documenti pontifici/Udienze/2025-08-13_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-08-20_lxiv-udi-gen.pdf",
-    "Documenti pontifici/Udienze/2025-08-13_lxiv-udi-gen.md~",
-    "Documenti pontifici/Udienze/2025-08-13_lxiv-udi-gen.pdf",
-    "Documenti pontifici/Udienze/2025-08-06_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-07-30_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-06-25_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-06-04_lxiv-udi-gen.md",
-    "Documenti vari/ccar-cic.md",
-    "Documenti vari/_Idee per la strutturazione del testo.md",
-    "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf.md",
-    "Documenti pontifici/Udienze/1978-09-06_ipi-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-06-14_lxiv-udi-idl.md",
-    "Documenti pontifici/Udienze/2025-06-18_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/_LAST-modello-udi-.md",
-    "Documenti pontifici/Encicliche/_LAST-modello-enc-.md",
-    "Documenti pontifici/Udienze/2025-06-11_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-05-21_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-05-28_lxiv-udi-gen.md",
+    "Documenti pontifici/Encicliche/1824-05-05_lxii-enc-ubp.md",
+    "Documenti pontifici/Encicliche/1800-05-15_pivii-enc-dis.md",
+    "Papi/Scheda 248° papa - Clemente XIII.md",
+    "Documenti pontifici/Encicliche/1800-05-15_pivii-enc-dis.md~",
     "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
+    "Documenti pontifici/Encicliche/1800-05-15_pivii-enc-dis.pdf",
+    "Documenti pontifici/_tmp Documento attuale in elaborazione.md~",
+    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md~",
+    "Documenti pontifici/_tmp Documento attuale in elaborazione.md",
+    "Documenti pontifici/Esortazioni apostoliche/2013-11-24_fi-esa-evg.md",
+    "Operazioni quotidiane.md",
+    "_liste file/Idee per la formattazione dei capitoli.md",
+    "_liste file/Lista file con data di creazione e di modifica, ordinato x data di creazione.md",
+    "_liste file/Esempio dataviewjs estrae i valori nel frontmatter del file.md",
+    "_liste file/Lista file con data di creazione e di modifica, ordinato x cartella.md",
+    "_liste file/Tutti gli elementi nel Frontmatter di tutti i file nel progetto.md",
+    "_liste file/Lista tipo-doc.md",
+    "_Prove/Senza nome 1.md",
+    "_05 - tmpBibbia/tmp x Incollare e modificare.md",
+    "_DataviewJS.md",
+    "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf.md",
+    "Documenti pontifici/Udienze/_Indice Udienze.md",
+    "Documenti pontifici/Udienze/2025-11-12_lxiv-udi-gen.md",
+    "Documenti pontifici/Udienze/2025-11-12_lxiv-udi-gen.pdf",
+    "Documenti pontifici/Udienze/2025-10-25_lxiv-udi-nic.md",
+    "Documenti pontifici/Udienze/2025-11-08_lxiv-udi-isb.md",
+    "Documenti pontifici/Udienze/2025-11-08_lxiv-udi-isb.md~",
+    "Documenti pontifici/Udienze/2025-11-08_lxiv-udi-isb.pdf",
+    "Documenti pontifici/Udienze/2025-10-25_lxiv-udi-nic.pdf",
+    "Documenti pontifici/Udienze/2025-11-05_lxiv-udi-gen.md",
+    "Documenti pontifici/Udienze/2025-11-05_lxiv-udi-gen.pdf",
+    "Documenti pontifici/Udienze/2025-10-29_lxiv-udi-gen.md",
+    "Documenti pontifici/Udienze/2025-10-29_lxiv-udi-gen.pdf",
+    "Documenti pontifici/Udienze/2025-10-22_lxiv-udi-gen.md",
+    "Documenti pontifici/Udienze/2025-10-15_lxiv-udi-gen.md",
+    "Documenti pontifici/Udienze/2025-10-08_lxiv-udi-gen.md",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
     "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
