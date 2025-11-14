@@ -26,7 +26,7 @@ fine-pontificato: 0000-00-00
 causa-morte: ""
 luogo-morte: ""
 luogo-sepoltura: ""
-predecessore: "[[Papi/Scheda 266° papa - Francesco I|Papa Francesco]]"
+predecessore: "[[Scheda 266° papa - Francesco I|Francesco]]"
 successore: ""
 aliases:
   - Papa Leone XIV
@@ -36,7 +36,7 @@ aliases:
 tags: [Bio, Leone_XIV, Scheda, papa]
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 creato: 2025/06/25 14:02:23
-modificato: 2025/07/09 23:33:15
+modificato: 2025/11/11 18:40:00
 ---
 
 
@@ -376,6 +376,8 @@ const currentFile = dv.current().file.name;
 let autoreAliases = dv.current().aliases && dv.current().aliases.length > 0 
     ? dv.current().aliases 
     : [currentFile];
+// Simbolo per campi mancanti
+const missing = `<span style="color:red; font-weight:bold;">X</span>`;
 // Funzione per normalizzare autore-doc
 function normalizeAutore(val) {
     if (!val) return "";
@@ -390,7 +392,20 @@ function normalizeAutore(val) {
 }
 // Helper per attributi HTML
 function escAttr(s) {
-    return String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+	return String(s).replace(/&/g,'&amp;')
+					.replace(/"/g,'&quot;')
+					.replace(/</g,'&lt;')
+					.replace(/>/g,'&gt;');
+}
+// Funzione sicura per ottenere valori (con fallback a X rossa)
+function safe(val, formatter = v => v) {
+    if (val === null || val === undefined || val === "") return missing;
+    try {
+        const res = formatter(val);
+        return (res === null || res === undefined || res === "") ? missing : res;
+    } catch {
+        return missing;
+    }
 }
 // Filtra i file nella cartella Documenti per autore-doc
 const allDocs = dv.pages()
@@ -431,11 +446,12 @@ if (allDocs.length === 0) {
             const pathEsc = escAttr(p.file.path);
             const fnameEsc = escAttr(p.file.name);
             const statoIcon = p["stato"] === "completato" ? "✅" : "⬜";
-            const progr = (p["progr-doc"] || "").toString().replace(/\|/g,'\\|');
-            const nd = (p["num-doc"] || "").toString().replace(/\|/g,'\\|');
+const progr = safe(p["progr-doc"], v => v.toString().replace(/\|/g,'\\|'));
+const nd = safe(p["num-doc"], v => v.toString().replace(/\|/g,'\\|'));
+
             const num = index + 1;
-            const titolo = (p["titolo-doc"] || "").toString().replace(/\|/g,'\\|');
-            const dataStr = p["data-doc"] ? dv.date(p["data-doc"]).toFormat("dd-MM-yyyy") : "";
+            const titolo = safe(p["titolo-doc"], v => v.toString().replace(/\|/g,'\\|'));
+            const dataStr = safe(p["data-doc"], v => dv.date(v).toFormat("dd-MM-yyyy"));
 			const a = `<a href="#" onclick="app.workspace.openLinkText('${p.file.path}','${dv.current().file.path}',false)">${p.file.name}</a>`;
             tableBlock += `| <span class="dv-autocb" data-path="${pathEsc}" data-fname="${fnameEsc}">${statoIcon}</span> | ${progr} | ${nd}  | ${num} | ${titolo} | ${dataStr} | ${a} |\n`;
         });
