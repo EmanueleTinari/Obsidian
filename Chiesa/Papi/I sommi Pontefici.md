@@ -1,6 +1,6 @@
 ---
 creato: 2025/05/09 00:27:49
-modificato: 2025/07/09 23:33:15
+modificato: 2025/11/11 15:25:45
 ---
 
 
@@ -23,7 +23,7 @@ modificato: 2025/07/09 23:33:15
 |  XV secolo | Innocenzo VII · Gregorio XII · Martino V · Eugenio IV · Niccolò V · Callisto III · Pio II · Paolo II · Sisto IV · Innocenzo VIII · Alessandro VI |
 |  XVI secolo | Pio III · Giulio II · Leone X · Adriano VI · Clemente VII · Paolo III · Giulio III · Marcello II · Paolo IV · Pio IV · Pio V · Gregorio XIII · Sisto V · Urbano VII · Gregorio XIV · Innocenzo IX · Clemente VIII |
 | XVII secolo | Leone XI · Paolo V · Gregorio XV · Urbano VIII · Innocenzo X · Alessandro VII · Clemente IX · Clemente X · Innocenzo XI · Alessandro VIII · Innocenzo XII |
-| XVIII secolo | [[Scheda 243° papa - Clemente XI\|Clemente XI]] · [[Scheda 244° papa - Innocenzo XIII\|Innocenzo XIII]] · [[Scheda 245° papa - Benedetto XIII\|Benedetto XIII]] · [[Scheda 246° papa - Clemente XII\|Clemente XII]] · [[Scheda 247° papa - Benedetto XIV\|Benedetto XIV]] · [[Scheda 248° papa - Clemente XIII\|Clemente XIII]] · [[Scheda 249° papa - Clemente XIV\|Clemente XIV]] · [[Scheda 250° papa - Pio VI\|Pio VI]] |
-|  XIX secolo | [[Scheda 251° papa - Pio VII\|Pio VII]] · [[Scheda 252° papa - Leone XII\|Leone XII]] · [[Scheda 253° papa - Pio VIII\|Pio VIII]] · [[Scheda 254° papa - Gregorio XVI\|Gregorio XVI]] · [[Scheda 255° papa - Pio IX|Pio IX]] · [[Scheda 256° papa - Leone XIII\|Leone XIII]] |
+| XVIII secolo | Clemente XI · Innocenzo XIII · Benedetto XIII · Clemente XII · [[Scheda 247° papa - Benedetto XIV\|Benedetto XIV]] · [[Scheda 248° papa - Clemente XIII\|Clemente XIII]] · [[Scheda 249° papa - Clemente XIV\|Clemente XIV]] · [[Scheda 250° papa - Pio VI\|Pio VI]] |
+|  XIX secolo | [[Scheda 251° papa - Pio VII\|Pio VII]] · [[Scheda 252° papa - Leone XII\|Leone XII]] · [[Scheda 253° papa - Pio VIII\|Pio VIII]] · [[Scheda 254° papa - Gregorio XVI\|Gregorio XVI]] · [[Scheda 255° papa - Pio IX\|Pio IX]] · [[Scheda 256° papa - Leone XIII\|Leone XIII]] |
 |  XX secolo | [[Scheda 257° papa - Pio X\|Pio X]] · [[Scheda 258° papa - Benedetto XV\|Benedetto XV]] · [[Scheda 259° papa - Pio XI\|Pio XI]] · [[Scheda 260° papa - Pio XII\|Pio XII]] · [[Scheda 261° papa - Giovanni XXIII\|Giovanni XXIII]] · [[Scheda 262° papa - Paolo VI\|Paolo VI]] · [[Scheda 263° papa - Giovanni Paolo I\|Giovanni Paolo I]] · [[Scheda 264° papa - Giovanni Paolo II\|Giovanni Paolo II]] |
 |  XXI secolo | [[Scheda 265° papa - Benedetto XVI\|Benedetto XVI]] · [[Papi/Scheda 266° papa - Francesco I\|Francesco]] · [[Scheda 267° papa - Leone XIV\|Leone XIV]] |
