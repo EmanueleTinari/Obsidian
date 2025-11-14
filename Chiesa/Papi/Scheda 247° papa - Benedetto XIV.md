@@ -26,8 +26,8 @@ fine-pontificato: 1758-05-03
 causa-morte: Decesso
 luogo-morte: Roma
 luogo-sepoltura: "[[Basilica di San Pietro (Città del Vaticano)|San Pietro]]"
-predecessore: "[[Scheda 246° papa - Clemente XII|Papa Clemente XII]]"
-successore: "[[Scheda 248° papa - Clemente XIII|Papa Clemente XIII]]"
+predecessore: "[[Scheda 246° papa - Clemente XII|Clemente XII]]"
+successore: "[[Scheda 248° papa - Clemente XIII|Clemente XIII]]"
 aliases:
   - Papa Benedetto XIV
   - Benedetto XIV
@@ -364,7 +364,7 @@ modificato: 2025/09/14 21:06:19
 >> 1° - [[Scheda 1° papa - Pietro|Pietro]]
 
 > [!info]- Papi
-> [[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]
+> [[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]
 
 > [!info]- Foto
 > ![[Benedictus XIV_foto.jpg|Pierre-Hubert Subleyras, Ritratto di papa Benedetto XIV, olio su tela, 1745 ca.; Parigi, museo Condé|200]]
@@ -376,6 +376,8 @@ const currentFile = dv.current().file.name;
 let autoreAliases = dv.current().aliases && dv.current().aliases.length > 0 
     ? dv.current().aliases 
     : [currentFile];
+// Simbolo per campi mancanti
+const missing = `<span style="color:red; font-weight:bold;">X</span>`;
 // Funzione per normalizzare autore-doc
 function normalizeAutore(val) {
     if (!val) return "";
@@ -391,6 +393,16 @@ function normalizeAutore(val) {
 // Helper per attributi HTML
 function escAttr(s) {
     return String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+// Funzione sicura per ottenere valori (con fallback a X rossa)
+function safe(val, formatter = v => v) {
+    if (val === null || val === undefined || val === "") return missing;
+    try {
+        const res = formatter(val);
+        return (res === null || res === undefined || res === "") ? missing : res;
+    } catch {
+        return missing;
+    }
 }
 // Filtra i file nella cartella Documenti per autore-doc
 const allDocs = dv.pages()
@@ -431,11 +443,11 @@ if (allDocs.length === 0) {
             const pathEsc = escAttr(p.file.path);
             const fnameEsc = escAttr(p.file.name);
             const statoIcon = p["stato"] === "completato" ? "✅" : "⬜";
-            const progr = (p["progr-doc"] || "").toString().replace(/\|/g,'\\|');
-            const nd = (p["num-doc"] || "").toString().replace(/\|/g,'\\|');
+            const progr = safe(p["progr-doc"], v => v.toString().replace(/\|/g,'\\|'));
+            const nd = safe(p["num-doc"], v => v.toString().replace(/\|/g,'\\|'));
             const num = index + 1;
-            const titolo = (p["titolo-doc"] || "").toString().replace(/\|/g,'\\|');
-            const dataStr = p["data-doc"] ? dv.date(p["data-doc"]).toFormat("dd-MM-yyyy") : "";
+            const titolo = safe(p["titolo-doc"], v => v.toString().replace(/\|/g,'\\|'));
+            const dataStr = safe(p["data-doc"], v => dv.date(v).toFormat("dd-MM-yyyy"));
 			const a = `<a href="#" onclick="app.workspace.openLinkText('${p.file.path}','${dv.current().file.path}',false)">${p.file.name}</a>`;
             tableBlock += `| <span class="dv-autocb" data-path="${pathEsc}" data-fname="${fnameEsc}">${statoIcon}</span> | ${progr} | ${nd}  | ${num} | ${titolo} | ${dataStr} | ${a} |\n`;
         });
