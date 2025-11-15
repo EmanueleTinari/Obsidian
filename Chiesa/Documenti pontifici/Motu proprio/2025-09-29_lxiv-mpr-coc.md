@@ -1,7 +1,7 @@
 ---
 cssclasses: docVat
-progr-doc: 29958
-num-doc: 186
+progr-doc: 29959
+num-doc: 187
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Motu proprio|Motu proprio]]"
 titolo-doc: Coniuncta cura
