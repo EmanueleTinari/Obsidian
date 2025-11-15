@@ -77,9 +77,9 @@ NOTE:
 
 [^1978-09-20_ipi-udi-gen-ftn2]: *<span class="BibleRef">[[Rm 4,18|Rm 4,18]]</span>*.
 
-[^1978-09-20_ipi-udi-gen-ftn3]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art34" name="cos-ges_art34">34</span>. Il valore dell’attività umana.|Gaudium et Spes, 34]]*;
-	cfr. *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art39" name="cos-ges_art39">39</span>. Terra nuova e cielo nuovo.|Gaudium et Spes, 39]]* et
-	*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art57" name="cos-ges_art57">57</span>. Fede e cultura|Gaudium et Spes, 57]]*;
+[^1978-09-20_ipi-udi-gen-ftn3]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art34" name="cos-ges_art34">34</span>. Il valore dell’attività umana.|Gaudium et Spes, 34]]* , 07 dicembre 1965;
+	cfr. *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art39" name="cos-ges_art39">39</span>. Terra nuova e cielo nuovo.|Gaudium et Spes, 39]]* , 07 dicembre 1965 et
+	*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art57" name="cos-ges_art57">57</span>. Fede e cultura|Gaudium et Spes, 57]]* , 07 dicembre 1965;
 	cfr. etiam **[[Messaggio al Mondo]]** dei *Padri Conciliari*, 20 ottobre 1962.
 
 [^1978-09-20_ipi-udi-gen-ftn4]: Cfr. **S. Thomae**, *Summa Theologiae*, II-IIae, q. 168, a. 2.
