@@ -1,7 +1,7 @@
 ---
 cssclasses: docVat
-progr-doc: 29972
-num-doc: 200
+progr-doc: 29974
+num-doc: 202
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Omelie|Omelia]]"
 titolo-doc: Santa Messa per il Giubileo del Mondo Missionario e Giubileo dei Migranti, XXVII Domenica del Tempo Ordinario, 5 ottobre 2025
