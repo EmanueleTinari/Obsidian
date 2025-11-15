@@ -1,7 +1,7 @@
 ---
 cssclasses: docVat
-progr-doc: 29956
-num-doc: 184
+progr-doc: 29957
+num-doc: 185
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Omelie|Omelia]]"
 titolo-doc: Santa Messa per il Giubileo dei Catechisti, XXVI domenica del Tempo Ordinario, 28 settembre 2025
