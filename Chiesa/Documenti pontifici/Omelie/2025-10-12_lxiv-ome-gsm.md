@@ -1,7 +1,7 @@
 ---
 cssclasses: docVat
-progr-doc: 29990
-num-doc: 218
+progr-doc: 29992
+num-doc: 220
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Omelie|Omelia]]"
 titolo-doc: Santa Messa per il Giubileo della Spiritualità Mariana, XXVIII Domenica del Tempo Ordinario, 12 ottobre 2025
