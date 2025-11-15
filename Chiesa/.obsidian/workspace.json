@@ -32,19 +32,8 @@
               "icon": "lucide-file",
               "title": "Operazioni quotidiane"
             }
-          },
-          {
-            "id": "04e34d94122b6ab0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nomina",
+                "query": "1801-08-15_pivii-bol-ecc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Operazioni quotidiane.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di Operazioni quotidiane"
             }
           },
           {
@@ -214,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
+    "width": 556.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -244,16 +234,25 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "04e34d94122b6ab0",
+  "active": "b588b4d068ca2321",
   "lastOpenFiles": [
+    "Documenti pontifici/Encicliche/1742-11-13_bxiv-enc-cee.pdf",
+    "Documenti pontifici/Encicliche/1744-08-19_bxiv-enc-cso.pdf",
+    "Documenti pontifici/Encicliche/1741-11-17_bxiv-enc-svc.pdf",
+    "Documenti pontifici/Encicliche/1742-12-14_bxiv-enc-cis.pdf",
+    "Documenti pontifici/Encicliche/1742-02-07_bxiv-enc-etm.pdf",
+    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
+    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md~",
+    "Documenti pontifici/Bolle/1801-08-15_pivii-bol-ecc.pdf",
+    "Documenti vari/ccar-ccc.md",
+    "Documenti pontifici/Bolle/1801-08-15_pivii-bol-ecc.md",
+    "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II.md",
     "Documenti pontifici/Encicliche/1824-05-05_lxii-enc-ubp.md",
     "Documenti pontifici/Encicliche/1800-05-15_pivii-enc-dis.md",
     "Papi/Scheda 248° papa - Clemente XIII.md",
     "Documenti pontifici/Encicliche/1800-05-15_pivii-enc-dis.md~",
-    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
     "Documenti pontifici/Encicliche/1800-05-15_pivii-enc-dis.pdf",
     "Documenti pontifici/_tmp Documento attuale in elaborazione.md~",
-    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md~",
     "Documenti pontifici/_tmp Documento attuale in elaborazione.md",
     "Documenti pontifici/Esortazioni apostoliche/2013-11-24_fi-esa-evg.md",
     "Operazioni quotidiane.md",
@@ -272,16 +271,7 @@
     "Documenti pontifici/Udienze/2025-11-12_lxiv-udi-gen.pdf",
     "Documenti pontifici/Udienze/2025-10-25_lxiv-udi-nic.md",
     "Documenti pontifici/Udienze/2025-11-08_lxiv-udi-isb.md",
-    "Documenti pontifici/Udienze/2025-11-08_lxiv-udi-isb.md~",
-    "Documenti pontifici/Udienze/2025-11-08_lxiv-udi-isb.pdf",
-    "Documenti pontifici/Udienze/2025-10-25_lxiv-udi-nic.pdf",
     "Documenti pontifici/Udienze/2025-11-05_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-11-05_lxiv-udi-gen.pdf",
-    "Documenti pontifici/Udienze/2025-10-29_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-10-29_lxiv-udi-gen.pdf",
-    "Documenti pontifici/Udienze/2025-10-22_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-10-15_lxiv-udi-gen.md",
-    "Documenti pontifici/Udienze/2025-10-08_lxiv-udi-gen.md",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
     "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
