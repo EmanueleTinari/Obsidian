@@ -1,7 +1,7 @@
 ---
 cssclasses: docVat
-progr-doc: 29974
-num-doc: 202
+progr-doc: 29976
+num-doc: 204
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Omelie|Omelia]]"
 titolo-doc: Santa Messa per la Gendarmeria Vaticana, XXVII Domenica del Tempo Ordinario, 5 ottobre 2025
