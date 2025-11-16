@@ -46,28 +46,6 @@ Leone XIV `class: nomeAut`
 X.<br> `class: incipit`
 
 
-###### Proemio
-
-X. `class: proemio`
-
-###### 1.
-
-X. `class: paragrafoNorm`
-
-###### 2.
-
-X. `class: paragrafoNorm`
-
-###### 3.
-
-X. `class: paragrafoNorm`
-
-###### 4.
-
-X. `class: paragrafoNorm`
-
-###### 5.
-
 X. `class: paragrafoNorm`
 
 
