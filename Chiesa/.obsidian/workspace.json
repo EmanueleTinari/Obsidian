@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "375edc7a67815d1c",
+            "id": "475df54b6fdac9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Discorsi/2025-05-17_lxiv-dis-fca.md",
+                "file": "Documenti pontifici/Discorsi/2025-05-22_lxiv-dis-pom.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-17_lxiv-dis-fca"
+              "title": "2025-05-22_lxiv-dis-pom"
             }
           }
         ],
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1801-08-15_pivii-bol-ecc",
+                "query": "Laudato si’",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,25 +259,35 @@
       "obsidian-build-vocabulary:Estrai vocabolario": false
     }
   },
-  "active": "375edc7a67815d1c",
+  "active": "475df54b6fdac9c5",
   "lastOpenFiles": [
+    "Documenti pontifici/Discorsi/2025-05-17_lxiv-dis-fca.md",
+    "Documenti pontifici/Discorsi/2025-05-22_lxiv-dis-pom.md",
+    "Documenti pontifici/Discorsi/_Indice Discorsi.md",
+    "Documenti pontifici/Discorsi/2025-09-15_lxiv-dis-osa.md",
+    "Documenti pontifici/Discorsi/2025-05-22_lxiv-dis-pom.pdf",
+    "Documenti pontifici/Omelie/2025-09-15_lxiv-ome.pdf",
+    "Documenti pontifici/Lettere/_Indice Lettere.md",
+    "Documenti pontifici/Discorsi/2025-09-15_lxiv-dis-osa.pdf",
+    "Documenti pontifici/Lettere/2025-09-17_lxiv-let-sma.md",
+    "Documenti pontifici/Lettere/_LAST-modello-let.md",
+    "Documenti pontifici/Lettere/2025-09-17_lxiv-let-sma.pdf",
+    "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.md",
+    "Documenti vari/_Idee per la strutturazione del testo.md",
+    "Documenti pontifici/_tmp Documento attuale in elaborazione.md~",
+    "Documenti pontifici/Omelie/2025-06-07_lxiv-ome.md",
+    "Documenti pontifici/Regina Cæli/2025-05-25_lxiv-rec.md",
+    "Documenti pontifici/Videomessaggi/2025-05-20_lxiv-vim-iur.md",
+    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
     "Documenti pontifici/Discorsi/2025-05-19_lxiv-dis-dei.md",
     "Documenti pontifici/Videomessaggi/_LAST-modello-vim-.md",
-    "Documenti pontifici/Videomessaggi/2025-05-20_lxiv-vim-iur.md",
     "Documenti pontifici/Videomessaggi/2025-05-20_lxiv-vim-iur.pdf",
     "Documenti pontifici/Discorsi/_LAST-modello-dis-.md",
-    "Documenti pontifici/Discorsi/2025-05-17_lxiv-dis-fca.md",
     "Documenti pontifici/Videomessaggi",
     "Documenti pontifici/Discorsi/2025-05-19_lxiv-dis-dei.pdf",
     "Operazioni quotidiane.md",
     "Documenti pontifici/Discorsi/2025-05-17_lxiv-dis-fca.pdf",
     "Documenti pontifici/Encicliche/1742-11-13_bxiv-enc-cee.pdf",
-    "Documenti pontifici/Encicliche/1744-08-19_bxiv-enc-cso.pdf",
-    "Documenti pontifici/Encicliche/1741-11-17_bxiv-enc-svc.pdf",
-    "Documenti pontifici/Encicliche/1742-12-14_bxiv-enc-cis.pdf",
-    "Documenti pontifici/Encicliche/1742-02-07_bxiv-enc-etm.pdf",
-    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md",
-    "Documenti pontifici/Encicliche/2024-10-24_fi-enc-din.md~",
     "Documenti vari/ccar-ccc.md",
     "Documenti pontifici/Bolle/1801-08-15_pivii-bol-ecc.md",
     "Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II.md",
@@ -286,16 +296,6 @@
     "Papi/Scheda 248° papa - Clemente XIII.md",
     "Documenti pontifici/_tmp Documento attuale in elaborazione.md",
     "Documenti pontifici/Esortazioni apostoliche/2013-11-24_fi-esa-evg.md",
-    "_liste file/Idee per la formattazione dei capitoli.md",
-    "_liste file/Lista file con data di creazione e di modifica, ordinato x data di creazione.md",
-    "_liste file/Esempio dataviewjs estrae i valori nel frontmatter del file.md",
-    "_liste file/Lista file con data di creazione e di modifica, ordinato x cartella.md",
-    "_liste file/Tutti gli elementi nel Frontmatter di tutti i file nel progetto.md",
-    "_liste file/Lista tipo-doc.md",
-    "_Prove/Senza nome 1.md",
-    "_05 - tmpBibbia/tmp x Incollare e modificare.md",
-    "_DataviewJS.md",
-    "Documenti pontifici/Encicliche/2013-06-29_fi-enc-luf.md",
     "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
     "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
     "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
