@@ -23,15 +23,18 @@ aliases:
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](x)"
-creato: 2025/09/16 21:30:08
-modificato: 2025/09/16 21:30:13
+creato:
+modificato:
 ---
 
 ***
 
-Angelus `class: tipoDoc`
+
+Messaggio `class: tipoDoc`
+
 
 del sommo pontefice `class: tipoAut`
+
 
 x `class: nomeAut`
 
@@ -42,16 +45,17 @@ x `class: nomeAut`
 .<br>. `class: incipit`
 
 
-###### Proemio
-
-. `class: proemio`
-
-. `class: dataLuogo`
+x `class: paragrafoNorm`
 
 
-. `class: firmaC`
+x `class: dataLuogo`
+
+
+x `class: firmaC`
+
 
 ***
+
 
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
 
