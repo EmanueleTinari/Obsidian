@@ -1,7 +1,7 @@
 ---
 cssclasses: docVat
-progr-doc: 29942
-num-doc: 170
+progr-doc: 29941
+num-doc: 169
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Discorsi|Discorso]]"
 titolo-doc: Ai Partecipanti al Capitolo Generale dell’Ordine di Sant’Agostino, Lunedì, 15 settembre 2025
@@ -24,7 +24,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/speeches/2025/september/documents/20250915-ordine-santagostino.html)"
 creato: 2025/11/16 23:31:32
-modificato: 2025/11/16 23:31:32
+modificato: 2025/11/17 00:04:41
 ---
 
 
