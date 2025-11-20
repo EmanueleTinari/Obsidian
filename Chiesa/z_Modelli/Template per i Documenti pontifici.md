@@ -705,28 +705,28 @@ const bloccoTags =
 // --- COSTRUZIONE ALIASES PER FRONTMATTER --- 
 // --------------------------------------------
 // 1) Alias dal titolo: maiuscola solo sulla prima lettera
-let aliasTitolo;
-if (!tagTitolo || tagTitolo === "x") {
-		aliasTitolo = "x";
+let primoAlias;
+if (!titoloDoc || titoloDoc === "x") {
+		primoAlias = "x";
 }
 else
 {
-	aliasTitolo = tagTitolo[0].toUpperCase() + tagTitolo.slice(1);
+	primoAlias = titoloDoc[0].toUpperCase() + titoloDoc.slice(1);
 }
 // 2) Alias concatenato tipo-doc + titolo: tagTipoDoc + tagTitolo, senza underscore, prima lettera del titolo minuscola
-let aliasTipoTitolo;
-if (!tagTitolo || tagTitolo === "x") {
-	aliasTipoTitolo = tagTipoDoc + " x";
+let secondoAlias;
+if (!titoloDoc || titoloDoc === "x") {
+	secondoAlias = tagTipoDoc + " x";
 }
 else {
-	const titoloMinuscola = tagTitolo[0].toLowerCase() + tagTitolo.slice(1);
-	aliasTipoTitolo = tagTipoDoc + " " + titoloMinuscola;
+	const titoloMinuscola = titoloDoc[0].toLowerCase() + titoloDoc.slice(1);
+	secondoAlias = tagTipoDoc + " " + titoloMinuscola;
 }
 // Output finale YAML
 const bloccoAliases =
 `aliases:
-  - ${aliasTitolo}
-  - ${aliasTipoTitolo}`;
+  - ${primoAlias}
+  - ${secondoAlias}`;
 
 //-----------------------------
 // --- INPUT URL DOCUMENTO --- 
@@ -740,7 +740,6 @@ const sceltaInserimentoUrlDocumento = await tp.system.suggester(
 if (sceltaInserimentoUrlDocumento === "Si") {
 	urlDoc_p2 = await tp.system.prompt(
 		"Incollare o inserire l'indirizzo Internet del Documento.",
-		"x"
 	);
 	// Normalizzazione: se null o vuoto → 'x'
 	if (!urlDoc_p2 || urlDoc_p2.trim() === "") urlDoc_p2 = "x";
