@@ -4,7 +4,7 @@ progr-doc: 29782
 num-doc: 10
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Discorsi|Discorso]]"
-titolo-doc: Ai Membri della Fondazione Centesimus Annus Pro Pontifice
+titolo-doc: Ai Membri della Fondazione Centesimus Annus Pro Pontifice, Sabato, 17 maggio 2025
 giorno-doc: 17
 mese-doc: 5
 anno-doc: 2025
@@ -12,7 +12,11 @@ data-doc: 2025-05-17
 lingua-doc: Italiano
 lingua-orig: Italiano
 stato: false
-tags: [Discorso, Leone_XIV, Ai_Membri_Fondazione_Centesimus_Annus_Pro_Pontifice, Documenti_pontifici]
+tags:
+  - Discorso
+  - Leone_XIV
+  - Ai_Membri_Fondazione_Centesimus_Annus_Pro_Pontifice
+  - Documenti_pontifici
 aliases:
   - Ai Membri della Fondazione Centesimus Annus Pro Pontifice
   - Discorso ai Membri della Fondazione Centesimus Annus Pro Pontifice
@@ -20,7 +24,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/speeches/2025/may/documents/20250517-centesimus-annus-pro-pontifice.html)"
 creato: 2025/11/15 23:07:16
-modificato: 2025/11/15 23:35:19
+modificato: 2025/11/17 08:25:06
 ---
 
 
@@ -36,7 +40,7 @@ del sommo pontefice `class: tipoAut`
 Leone XIV `class: nomeAut`
 
 
-# Ai Membri della Fondazione Centesimus Annus Pro Pontifice
+# Ai Membri della Fondazione Centesimus Annus Pro Pontifice, Sabato, 17 maggio 2025
 
 
 Good morning everyone!<br>Buongiorno!<br>Cari fratelli e sorelle,<br>benvenuti! `class: incipit`
@@ -65,6 +69,6 @@ NOTE:
 
 [^2025-05-17_lxiv-dis-fca-ftn1]: [[Scheda 266° papa - Francesco I|Francesco I]], **[[Messaggio ai partecipanti all’Assemblea generale della Pontificia Accademia per la Vita, 3 marzo 2025]]**.
 
-[^2025-05-17_lxiv-dis-fca-ftn2]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art4" name="cos-ges_art4">4</span>. Speranze e angosce.|Gaudium et Spes, n. 4]]* , 07 dicembre 1965.
+[^2025-05-17_lxiv-dis-fca-ftn2]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art4" name="cos-ges_art4">4</span>. Speranze e angosce.|Gaudium et Spes, n. 4]]*, 07 dicembre 1965.
 
 
