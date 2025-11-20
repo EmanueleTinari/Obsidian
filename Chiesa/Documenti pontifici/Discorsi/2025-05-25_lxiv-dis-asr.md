@@ -4,7 +4,7 @@ progr-doc: 29796
 num-doc: 24
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Discorsi|Discorso]]"
-titolo-doc: Saluto al Sindaco di Roma
+titolo-doc: Saluto al Sindaco di Roma, Domenica, 25 Maggio 2025
 giorno-doc: 25
 mese-doc: 5
 anno-doc: 2025
