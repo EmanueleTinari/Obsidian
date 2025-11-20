@@ -4,7 +4,7 @@ progr-doc: 29797
 num-doc: 25
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Discorsi|Discorso]]"
-titolo-doc: Parole al termine della Messa presieduta dal Card. Arinze, in occasione del pellegrinaggio giubilare per la pace in Africa
+titolo-doc: Parole al termine della Messa presieduta dal Card. Arinze, in occasione del pellegrinaggio giubilare per la pace in Africa, Lunedì, 26 Maggio 2025
 giorno-doc: 26
 mese-doc: 5
 anno-doc: 2025
