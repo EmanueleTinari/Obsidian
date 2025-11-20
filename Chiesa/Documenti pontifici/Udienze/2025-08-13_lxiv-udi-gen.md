@@ -67,7 +67,7 @@ Rivolgo un cordiale benvenuto ai pellegrini di lingua italiana.<br>In particolar
 ### Saluto a braccio ai fedeli nel cortile del Petriano
 
 
-Tante grazie per la vostra pazienza!<br>Un applauso per tutti voi!<br><br>Gracias a todos, pues en el sol también que hace tanto calor… pero están costumbrados.<br>Saludos!<br><br>Dio benedica tutti voi!<br>Vi tenga sempre nelle sue mani.<br>Y les de siempre esta gracia de saber conocer que Dios es misericordioso.<br><br>Y la bendición de Dios Todopoderoso, Padre, Hijo y Espíritu Santo descienda sobre ustedes hoy y siempre.<br><br>God bless you all! `class: paragrafoNorm`
+Tante grazie per la vostra pazienza!<br>Un applauso per tutti voi!<br><br>Gracias a todos, pues en el sol también que hace tanto calor... pero están costumbrados.<br>Saludos!<br><br>Dio benedica tutti voi!<br>Vi tenga sempre nelle sue mani.<br>Y les de siempre esta gracia de saber conocer que Dios es misericordioso.<br><br>Y la bendición de Dios Todopoderoso, Padre, Hijo y Espíritu Santo descienda sobre ustedes hoy y siempre.<br><br>God bless you all! `class: paragrafoNorm`
 
 
 ### Saluto a braccio nella Basilica di San Pietro
