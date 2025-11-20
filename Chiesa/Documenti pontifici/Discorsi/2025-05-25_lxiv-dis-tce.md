@@ -1,6 +1,4 @@
 ---
-creato: 2025/11/20 19:26:09
-modificato: 2025/11/20 19:40:00
 cssclasses: docVat
 progr-doc: 29795
 num-doc: 23
@@ -25,6 +23,8 @@ aliases:
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/speeches/2025/may/documents/20250525-possesso-cattedra-laterano.html)"
+creato: 2025/11/20 19:26:09
+modificato: 2025/11/20 19:40:00
 ---
 
 
