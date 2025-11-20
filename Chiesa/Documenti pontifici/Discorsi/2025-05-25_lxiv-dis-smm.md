@@ -4,7 +4,7 @@ progr-doc: 29794
 num-doc: 22
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Discorsi|Discorso]]"
-titolo-doc: Visita alla Basilica di Santa Maria Maggiore e venerazione dell’Icona della Beata Vergine Maria «Salus Populi Romani»
+titolo-doc: Visita alla Basilica di Santa Maria Maggiore e venerazione dell’Icona della Beata Vergine Maria «Salus Populi Romani», VI Domenica di Pasqua, 25 Maggio 2025
 giorno-doc: 25
 mese-doc: 5
 anno-doc: 2025
