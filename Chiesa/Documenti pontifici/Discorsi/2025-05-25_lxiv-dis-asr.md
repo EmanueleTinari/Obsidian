@@ -1,6 +1,4 @@
 ---
-creato: 2025/11/20 19:39:58
-modificato: 2025/11/20 21:36:29
 cssclasses: docVat
 progr-doc: 29796
 num-doc: 24
@@ -25,6 +23,8 @@ aliases:
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/speeches/2025/may/documents/20250525-sindaco-roma.html)"
+creato: 2025/11/20 19:39:58
+modificato: 2025/11/20 21:36:29
 ---
 
 
