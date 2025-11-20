@@ -4,7 +4,7 @@ progr-doc: 29785
 num-doc: 13
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Discorsi|Discorso]]"
-titolo-doc: Alle Delegazioni Ecumeniche e Interreligiose convenute per l’Inizio del Ministero Petrino di Papa Leone XIV
+titolo-doc: Alle Delegazioni Ecumeniche e Interreligiose convenute per l’Inizio del Ministero Petrino di Papa Leone XIV, Lunedì, 19 maggio 2025
 giorno-doc: 19
 mese-doc: 5
 anno-doc: 2025
