@@ -4,7 +4,7 @@ progr-doc: 29795
 num-doc: 23
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Discorsi|Discorso]]"
-titolo-doc: Parole al termine della Celebrazione Eucaristica in occasione dell’insediamento sulla Cattedra di Vescovo di Roma
+titolo-doc: Parole al termine della Celebrazione Eucaristica in occasione dell’insediamento sulla Cattedra di Vescovo di Roma, VI Domenica di Pasqua, 25 Maggio 2025
 giorno-doc: 25
 mese-doc: 5
 anno-doc: 2025
