@@ -1,6 +1,6 @@
 ---
 creato: 2025/11/20 19:26:09
-modificato: 2025/11/20 19:29:18
+modificato: 2025/11/20 19:40:00
 cssclasses: docVat
 progr-doc: 29795
 num-doc: 23
@@ -11,8 +11,8 @@ giorno-doc: 25
 mese-doc: 5
 anno-doc: 2025
 data-doc: 2025-05-25
-lingua-doc:
-lingua-orig:
+lingua-doc: Italiano
+lingua-orig: Italiano
 stato: false
 tags:
   - Discorso
