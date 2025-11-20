@@ -24,7 +24,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/speeches/2025/may/documents/20250526-messa-pace-africa.html)"
 creato: 2025/11/20 21:43:21
-modificato: 2025/11/20 21:50:43
+modificato: 2025/11/20 22:06:47
 ---
 
 
