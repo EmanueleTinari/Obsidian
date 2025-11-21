@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 159
 num-doc: 28
 autore-doc: "[[Scheda 254° papa - Gregorio XVI|Gregorio XVI]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Sextus iam
 giorno-doc: 1
 mese-doc: 2
