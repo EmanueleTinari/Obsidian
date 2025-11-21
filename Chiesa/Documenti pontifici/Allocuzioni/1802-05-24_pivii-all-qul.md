@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 95
 num-doc: 7
 autore-doc: "[[Scheda 251° papa - Pio VII|Pio VII]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Quam luctuosam
 giorno-doc: 24
 mese-doc: 5
