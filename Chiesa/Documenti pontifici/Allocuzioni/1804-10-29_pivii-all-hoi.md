@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 96
 num-doc: 8
 autore-doc: "[[Scheda 251° papa - Pio VII|Pio VII]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Hoc ipso
 giorno-doc: 29
 mese-doc: 10
