@@ -796,20 +796,51 @@ console.log("Luogo + Data Documento:\n", LuogoDataDoc, "\n\n");
 //-------------------------------------
 // Variabile finale da usare nel template
 let noteFondoPagina = "";
+noteFondoPagina = "";
 // Prompt con suggester (default = "Si")
 const sceltaInserireNote = await tp.system.suggester(
 	["Si", "No"],   // opzioni visibili
 	["Si", "No"],   // valori restituiti
 	false,
 	"Vuoi inserire le note a piè di pagina?",
-	"Si"			// valore di default
+	// valore di default
+	"Si"
 );
 // Gestione risposta
 if (sceltaInserireNote === "Si") {
-	// Aggiunge a fondo pagina simboli e righe necessari
-	noteFondoPagina = "***\n\n\nNOTE:\n\n\n\n\n\n";
+	// chiedi numero note (0 = nessuna nota)
+	let n;
+	while (true) {
+		const nStr = await tp.system.prompt("Quante note sono previste? (Inserire un numero intero da 0 a 200, 0 = nessuna nota)");
+		// annulla/empty => 0
+		if (nStr === null || nStr.trim() === "") {
+			n = 0;
+			break;
+		}
+		if (/^\d+$/.test(nStr.trim())) {
+			n = Number(nStr.trim());
+			if (n >= 0 && n <= 200) break;
+		}
+		await tp.system.alert("Inserire un numero intero compreso tra 0 e 200 (0 = nessuna nota).");
+	}
+	if (n === 0) {
+		// comportamento attuale se l'utente sceglie SI ma mette 0
+		noteFondoPagina = "***\n\n\nNOTE:\n\n\n\n\n\n";
+	}
+	else {
+		// intestazione
+		noteFondoPagina = "***\n\n\nNOTE:\n\n\n";
+		// blocco numerato con parentesi quadre come richiesto
+		for (let i = 1; i <= n; i++) {
+			noteFondoPagina += `[${i}]: \n\n`;
+		}
+		// chiusura
+		noteFondoPagina += "\n\n";
+	}
 }
 else {
+	// No o annulla: rimane vuota (come ora)
+	noteFondoPagina = "";
 	// "No" o chiusura → non fa nulla, noteFondoPagina rimane ""
 }
 console.log("noteFondoPagina =", noteFondoPagina);
