@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 187
 num-doc: 56
 autore-doc: "[[Scheda 254° papa - Gregorio XVI|Gregorio XVI]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Haerentem diu
 giorno-doc: 22
 mese-doc: 7
