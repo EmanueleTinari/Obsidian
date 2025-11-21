@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 89
 num-doc: 1
 autore-doc: "[[Scheda 251° papa - Pio VII|Pio VII]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Ad supremum
 giorno-doc: 28
 mese-doc: 3
