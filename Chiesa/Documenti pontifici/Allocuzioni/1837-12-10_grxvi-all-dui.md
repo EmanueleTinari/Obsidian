@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 165
 num-doc: 34
 autore-doc: "[[Scheda 254° papa - Gregorio XVI|Gregorio XVI]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Dum intima
 giorno-doc: 10
 mese-doc: 12
