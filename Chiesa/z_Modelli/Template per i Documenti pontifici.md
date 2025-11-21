@@ -6,7 +6,6 @@
 let folderDoc				= 'Documenti';
 // File prefix to exclude
 const excludedPrefix			= '_';
-const generatedFile				= 'Untitled.md';
 let NumeroProgressivoPrecedente	= '';
 let NumeroDocumentoPrecedente	= '';
 let AutorePrecedente			= '';
@@ -24,14 +23,10 @@ let allAutori = new Set();
 let allTipiDoc = new Set();
 let allLingueDoc = new Set();
 let allLingueOrigDoc = new Set();
-// Frontmatter Key lingua-doc
-const ldKey						= 'lingua-doc';
-const txt_linguaDocumento		= 'lingua-doc: ';
-let linguaDoc					= '';
-// Frontmatter Key lingua-orig
-const loKey						= 'lingua-orig';
-const txt_linguaOrigDocumento	= 'lingua-orig: ';
-let linguaOrig					= '';
+// Frontmatter Key lingua-doc che si sceglie
+let linguaDocScelta				= '';
+// Frontmatter Key lingua-orig che si sceglie
+let linguaOrigScelta			= '';
 const txt_licenzaDoc			= 'Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana';
 const txt_licenzaNota			= 'licenza-nota:  Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/';
 const urlDoc_p1			= 'url-documento: \"[Link al documento sul sito del Vaticano](';
@@ -607,12 +602,12 @@ console.log("dataDoc: ", dataDoc, "\n\n");
 //---------------------------
 // default sempre "Italiano" se precedente è x o mancante
 let defaultLinguaDoc = (LinguaDocumentoPrecedente && LinguaDocumentoPrecedente !== "x")
-	? LinguaDocumentoPrecedente
+	? String(LinguaDocumentoPrecedente).trim()
 	: "Italiano";
 // array opzioni ordinate alfabeticamente
 const arrLingueDoc = Array.from(allLingueDoc).sort((a, b) => a.localeCompare(b));
 // suggester per scegliere lingua del documento
-let linguaDocScelta = await tp.system.suggester(
+linguaDocScelta = await tp.system.suggester(
 	arrLingueDoc,
 	arrLingueDoc,
 	"Scegliere la lingua del documento oppure inserirne una nuova"
@@ -640,12 +635,12 @@ console.log("Lingua del documento scelta:\n", linguaDocScelta, "\n\n");
 //----------------------------
 // default sempre "Italiano" se precedente è x o mancante
 let defaultLinguaOrig = (LinguaOriginalePrecedente && LinguaOriginalePrecedente !== "x")
-	? LinguaOriginalePrecedente
+	? String(LinguaOriginalePrecedente).trim()
 	: "Italiano";
 // array opzioni ordinate alfabeticamente
 const arrLingueOrig = Array.from(allLingueOrigDoc).sort((a, b) => a.localeCompare(b));
 // suggester per scegliere lingua originale
-let linguaOrigScelta = await tp.system.suggester(
+linguaOrigScelta = await tp.system.suggester(
 	arrLingueOrig,
 	arrLingueOrig,
 	"Scegliere la lingua originale del documento oppure inserirne una nuova"
@@ -790,6 +785,7 @@ const mStr = mNum ? meseLettere : "xx";
 const aStr = aNum ? String(aNum) : "xxxx";
 // Costruzione stringa finale Luogo + Data
 const LuogoDataDoc = `${luogoDoc}, ${giornoSettimana}, ${gStr} ${mStr} ${aStr}`;
+const GiornoLettereDataDoc = `, ${giornoSettimana}, ${gStr} ${mStr} ${aStr}`;
 console.log("Luogo Documento:\n", luogoDoc, "\n\n");
 console.log("Giorno Settimana:\n", giornoSettimana, "\n\n");
 console.log("Mese Lettere:\n", meseLettere, "\n\n");
@@ -907,13 +903,13 @@ progr-doc: <% progrDoc %>
 num-doc: <% numDoc %>
 autore-doc: "<% autoreDoc %>"
 <% tipoDocFrontmatter %>
-titolo-doc: <% titoloDoc %>
+titolo-doc: <% titoloDoc %><% GiornoLettereDataDoc %>
 giorno-doc: <% giornoDoc %>
 mese-doc: <% meseDoc %>
 anno-doc: <% annoDoc %>
 data-doc: <% dataDoc %>
-lingua-doc: <% linguaDoc %>
-lingua-orig: <% linguaOrig %>
+lingua-doc: <% linguaDocScelta %>
+lingua-orig: <% linguaOrigScelta %>
 stato: false
 <% bloccoTags %>
 <% bloccoAliases %>
@@ -935,7 +931,7 @@ del sommo pontefice `class: tipoAut`
 <% nomeAutorita %> `class: nomeAut`
 
 
-# <% titoloDoc %>
+# <% titoloDoc %><% GiornoLettereDataDoc %>
 
 
 <% incipitDoc %> `class: incipit`
@@ -956,4 +952,4 @@ x `class: paragrafoNorm`
 <% txt_licenzaDoc %>. `class: dirittiAut`
 
 
-<% 	noteFondoPagina %>
+<% noteFondoPagina %>
