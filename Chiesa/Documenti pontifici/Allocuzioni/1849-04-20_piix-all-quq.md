@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 209
 num-doc: 11
 autore-doc: "[[Scheda 255° papa - Pio IX|Pio IX]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Quibus, quantisque
 giorno-doc: 20
 mese-doc: 4
