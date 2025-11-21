@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 100
 num-doc: 12
 autore-doc: "[[Scheda 251° papa - Pio VII|Pio VII]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Optatissimus tandem
 giorno-doc: 26
 mese-doc: 9
