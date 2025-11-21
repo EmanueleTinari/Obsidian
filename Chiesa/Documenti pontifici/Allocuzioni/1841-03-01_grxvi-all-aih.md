@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 180
 num-doc: 49
 autore-doc: "[[Scheda 254° papa - Gregorio XVI|Gregorio XVI]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Afflictas in Hispania
 giorno-doc: 1
 mese-doc: 3
