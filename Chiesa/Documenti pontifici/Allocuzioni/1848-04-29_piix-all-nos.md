@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 205
 num-doc: 7
 autore-doc: "[[Scheda 255° papa - Pio IX|Pio IX]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Non semel
 giorno-doc: 29
 mese-doc: 4
