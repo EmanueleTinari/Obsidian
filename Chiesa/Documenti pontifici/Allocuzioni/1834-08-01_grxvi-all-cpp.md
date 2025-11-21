@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 153
 num-doc: 22
 autore-doc: "[[Scheda 254° papa - Gregorio XVI|Gregorio XVI]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Cum pro pastorali
 giorno-doc: 1
 mese-doc: 8
