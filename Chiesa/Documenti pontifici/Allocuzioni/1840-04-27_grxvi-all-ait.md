@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 175
 num-doc: 44
 autore-doc: "[[Scheda 254° papa - Gregorio XVI|Gregorio XVI]]"
-tipo-doc: "[[Allocuzione|Allocuzioni]]"
+tipo-doc: "[[Allocuzioni|Allocuzione]]"
 titolo-doc: Afflictas in Tunquino
 giorno-doc: 27
 mese-doc: 4
