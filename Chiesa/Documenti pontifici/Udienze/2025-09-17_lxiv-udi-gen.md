@@ -57,7 +57,7 @@ Esprimo la mia profonda vicinanza al popolo palestinese a Gaza, che continua a v
 
 ***
 
-Rivolgo un cordiale benvenuto ai pellegrini di lingua italiana.<br>In particolare, saluto i gruppi parrocchiali di Vasto, San Giovanni Rotondo, Rometta Marea, Milazzo e l’Unità pastorale San Paolo VI di Concesio.<br><br>Saluto poi i devoti del Santuario dell’Addolorata di Tuscania, il Coordinamento della Divina Misericordia, gli Alpini di Albate e il Gruppo Fenimprese Sicilia.<br><br>Il mio pensiero va infine ai giovani, agli ammalati e agli sposi novelli.<br>Siate sempre fedeli all’ideale evangelico, e realizzatelo nelle vostre quotidiane attività.<br><br>E, prima di concludere, vorrei ringraziare tutti voi per gli auguri manifestati in questo giorno del mio onomastico.<br>Tante grazie!<br><br>A tutti la mia benedizione! `class: paragrafoNorm`
+Rivolgo un cordiale benvenuto ai pellegrini di lingua italiana.<br>In particolare, saluto i gruppi parrocchiali di Vasto, San Giovanni Rotondo, Rometta Marea, Milazzo e l’Unità pastorale **San Paolo VI** di Concesio.<br><br>Saluto poi i devoti del Santuario dell’Addolorata di Tuscania, il Coordinamento della Divina Misericordia, gli Alpini di Albate e il Gruppo Fenimprese Sicilia.<br><br>Il mio pensiero va infine ai giovani, agli ammalati e agli sposi novelli.<br>Siate sempre fedeli all’ideale evangelico, e realizzatelo nelle vostre quotidiane attività.<br><br>E, prima di concludere, vorrei ringraziare tutti voi per gli auguri manifestati in questo giorno del mio onomastico.<br>Tante grazie!<br><br>A tutti la mia benedizione! `class: paragrafoNorm`
 
 
 Piazza San Pietro, Mercoledì, 17 settembre 2025 `class: dataLuogo`
