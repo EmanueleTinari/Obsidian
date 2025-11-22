@@ -143,7 +143,7 @@ Se da quell’antichità procediamo verso tempi più vicini, non dovrebbero esse
 
 ###### 20.
 
-Un’egregia testimonianza, in linea con la suddetta sentenza dei dottori Parigini e con la costante tradizione dei propr” maggiori a proposito del primato del Romano Pontefice, resero i Prelati Gallicani nelle assemblee del 1681.<br>Essi dicono: «*Egli è il capo della Chiesa, il centro dell’unità; egli ha sopra di noi il primato dell’autorità e della giurisdizione, a lui conferito da Gesù Cristo nella persona di San Pietro; chi dissentisse da questa verità, sarebbe scismatico, anzi persino eretico*». `class: paragrafoNorm`
+Un’egregia testimonianza, in linea con la suddetta sentenza dei dottori Parigini e con la costante tradizione dei propr” maggiori a proposito del primato del Romano Pontefice, resero i Prelati Gallicani nelle assemblee del 1681.<br>Essi dicono: «*Egli è il capo della Chiesa, il centro dell’unità; egli ha sopra di noi il primato dell’autorità e della giurisdizione, a lui conferito da Gesù Cristo nella persona di **San Pietro**; chi dissentisse da questa verità, sarebbe scismatico, anzi persino eretico*». `class: paragrafoNorm`
 
 
 ###### 21.
