@@ -88,7 +88,7 @@ Ioannes Paulus PP. I `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
@@ -107,9 +107,9 @@ NOTE:
 
 [^1978-08-27_ipi-mes-ueo-ftn5]: *<span class="BibleRef">[[Mt 28,20|Mt 28,20]]</span>*
 
-[^1978-08-27_ipi-mes-ueo-ftn6]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen gentium, 9]]*.
+[^1978-08-27_ipi-mes-ueo-ftn6]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen gentium, 9]]*.
 
-[^1978-08-27_ipi-mes-ueo-ftn7]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen gentium, 9]]*.
+[^1978-08-27_ipi-mes-ueo-ftn7]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|Lumen gentium, 9]]*.
 
 [^1978-08-27_ipi-mes-ueo-ftn8]: *<span class="BibleRef">[[Mt 5,13ss.|Mt 5, 13ss.]]</span>*
 
@@ -125,19 +125,19 @@ NOTE:
 
 [^1978-08-27_ipi-mes-ueo-ftn14]: *<span class="BibleRef">[[Gv 17,21|Gv 17,21]]</span>*
 
-[^1978-08-27_ipi-mes-ueo-ftn15]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art23" name="cos-lug_art23">23</span>.|Lumen gentium, 23]]*.
+[^1978-08-27_ipi-mes-ueo-ftn15]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art23" name="cos-lug_art23">23</span>.|Lumen gentium, 23]]*.
 
 [^1978-08-27_ipi-mes-ueo-ftn16]: Cfr. **S. Ignatii Antiocheni** *Epistola ad Romanos*, Funk, I, 252.
 
 [^1978-08-27_ipi-mes-ueo-ftn17]: Cfr. *<span class="BibleRef">[[1Pt 2,25|1Pt 2,25]]</span>*
 
-[^1978-08-27_ipi-mes-ueo-ftn18]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art46" name="cos-lug_art46">46</span>.|Lumen Gentium, 46]]*.
+[^1978-08-27_ipi-mes-ueo-ftn18]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art46" name="cos-lug_art46">46</span>.|Lumen Gentium, 46]]*.
 
 [^1978-08-27_ipi-mes-ueo-ftn19]: Cfr. *<span class="BibleRef">[[Mt 13,33|Mt 13,33]]</span>*
 
-[^1978-08-27_ipi-mes-ueo-ftn20]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-apa#<span class="art" id="dec-apa_art11" name="dec-apa_art11">11</span>.|Apostolicam actuositatem, 11]]*.
+[^1978-08-27_ipi-mes-ueo-ftn20]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-11-18_cevii-dec-apa#<span class="art" id="dec-apa_art11" name="dec-apa_art11">11</span>.|Apostolicam actuositatem, 11]]*.
 
-[^1978-08-27_ipi-mes-ueo-ftn21]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art11" name="cos-lug_art11">11</span>.|Lumen gentium, 11]]*.
+[^1978-08-27_ipi-mes-ueo-ftn21]: *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art11" name="cos-lug_art11">11</span>.|Lumen gentium, 11]]*.
 
 [^1978-08-27_ipi-mes-ueo-ftn22]: Cfr. *<span class="BibleRef">[[Mal 4,2|Mal 4,2]]</span>*
 
