@@ -56,7 +56,7 @@ Come è sommamente giusto innalzare preghiere a Dio in favore dei Principi, cos�
 
 ###### 1.
 
-Come Voi ben sapete, San Paolo, nella prima [lettera] a Timoteo, cap. 2, così si esprime: “***Chiedo, domando, invoco, anzitutto, che le pubbliche preghiere, le orazioni, le suppliche, le azioni generose siano rivolte a pro di tutti gli uomini, a pro dei Sovrani e di tutti coloro che stanno ai vertici del potere***” (*<span class="BibleRef">[[1Tm 2,1-2|1Tm 2,1-2]]</span>*).<br>Che se poi è consentito a questo punto indicare la prassi che la Chiesa primeva seguiva nelle orazioni e nelle preci per offrire i Principi a Dio, hanno potuto renderla abbastanza manifesta la lettera di San Dionigi, Vescovo Alessandrino, al Governatore Emiliano; Tertulliano nel libro *Ad Scapulam* e nell’*Apologetico*; San Cipriano nell’*Epistola a Demetriano*; Origene nella *Risposta a Celso* e Atenagora nella sua ambasceria presso gl’Imperatori, in favore dei Cristiani. `class: paragrafoNorm`
+Come Voi ben sapete, **San Paolo**, nella prima [lettera] a Timoteo, cap. 2, così si esprime: “***Chiedo, domando, invoco, anzitutto, che le pubbliche preghiere, le orazioni, le suppliche, le azioni generose siano rivolte a pro di tutti gli uomini, a pro dei Sovrani e di tutti coloro che stanno ai vertici del potere***” (*<span class="BibleRef">[[1Tm 2,1-2|1Tm 2,1-2]]</span>*).<br>Che se poi è consentito a questo punto indicare la prassi che la Chiesa primeva seguiva nelle orazioni e nelle preci per offrire i Principi a Dio, hanno potuto renderla abbastanza manifesta la lettera di San Dionigi, Vescovo Alessandrino, al Governatore Emiliano; Tertulliano nel libro *Ad Scapulam* e nell’*Apologetico*; San Cipriano nell’*Epistola a Demetriano*; Origene nella *Risposta a Celso* e Atenagora nella sua ambasceria presso gl’Imperatori, in favore dei Cristiani. `class: paragrafoNorm`
 
 
 ###### 2.
@@ -98,6 +98,6 @@ Benedictus XIV `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
