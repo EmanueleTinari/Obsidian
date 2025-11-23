@@ -235,6 +235,6 @@ DECRETO<br>DI PAPA CLEMENTE XI DI FELICE MEMORIA<br>SULLA CELEBRAZIONE NEGLI ORA
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
