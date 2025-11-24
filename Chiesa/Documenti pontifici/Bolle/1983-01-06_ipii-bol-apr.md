@@ -132,7 +132,7 @@ Ego Ioannes Paulus<br>Catholicae Ecclesiae Episcopus `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
@@ -149,44 +149,44 @@ NOTE:
 
 [^1983-01-06_ipii-bol-apr-ftn3]: *Missale Romanum*, *Dominica Paschae in Resurrectione Domini, ad Missam in die, Super oblata*.
 
-[^1983-01-06_ipii-bol-apr-ftn4]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art48" name="cos-lug_art48">48</span>.|Lumen Gentium, n. 48]]*, 21 novembre 1964.
+[^1983-01-06_ipii-bol-apr-ftn4]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art48" name="cos-lug_art48">48</span>.|Lumen Gentium, n. 48]]*, 21 novembre 1964.
 
 [^1983-01-06_ipii-bol-apr-ftn5]: [[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]], **[[Dives in Misericordia, 13]]**.
 
-[^1983-01-06_ipii-bol-apr-ftn6]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art11" name="cos-lug_art11">11</span>.|Lumen Gentium, n. 11]]*, 21 novembre 1964.
+[^1983-01-06_ipii-bol-apr-ftn6]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art11" name="cos-lug_art11">11</span>.|Lumen Gentium, n. 11]]*, 21 novembre 1964.
 
-[^1983-01-06_ipii-bol-apr-ftn7]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art48" name="cos-ges_art48">48</span>. Santità del matrimonio e della famiglia|Gaudium et Spes, n. 48]]* , 07 dicembre 1965.
+[^1983-01-06_ipii-bol-apr-ftn7]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-cos-ges#<span class="art" id="cos-ges_art48" name="cos-ges_art48">48</span>. Santità del matrimonio e della famiglia|Gaudium et Spes, n. 48]]* , 07 dicembre 1965.
 
 [^1983-01-06_ipii-bol-apr-ftn8]: [[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]], **[[Allocutio ad Patres Cardinales et Romanae Curiae Sodales habita, 3, 23 dicembre 1982]]**: *Insegnamenti di Giovanni Paolo II*, V/3 [1982] 1673.
 
-[^1983-01-06_ipii-bol-apr-ftn9]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art14" name="cos-lug_art14">14</span>.|Lumen Gentium, n. 14]]*, 21 novembre 1964.
+[^1983-01-06_ipii-bol-apr-ftn9]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art14" name="cos-lug_art14">14</span>.|Lumen Gentium, n. 14]]*, 21 novembre 1964.
 
-[^1983-01-06_ipii-bol-apr-ftn10]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art14" name="cos-lug_art14">14</span>.|Lumen Gentium, n. 14]]*, 21 novembre 1964.
+[^1983-01-06_ipii-bol-apr-ftn10]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art14" name="cos-lug_art14">14</span>.|Lumen Gentium, n. 14]]*, 21 novembre 1964.
 
 [^1983-01-06_ipii-bol-apr-ftn11]: Cfr. [[Scheda 262° papa - Paolo VI|Paolo VI]], **[[Apostolorum limina, I]]**.
 
-[^1983-01-06_ipii-bol-apr-ftn12]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art21" name="cos-lug_art21">21</span>.|Lumen Gentium, n. 21]]*, 21 novembre 1964;
+[^1983-01-06_ipii-bol-apr-ftn12]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art21" name="cos-lug_art21">21</span>.|Lumen Gentium, n. 21]]*, 21 novembre 1964;
 	*Ordo Paenitentiae*, 2.
 
 [^1983-01-06_ipii-bol-apr-ftn13]: Cfr. *Ordo Paenitentiae*, 46.
 
-[^1983-01-06_ipii-bol-apr-ftn14]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art11" name="cos-lug_art11">11</span>.|Lumen Gentium, n. 11]]*, 21 novembre 1964;
+[^1983-01-06_ipii-bol-apr-ftn14]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art11" name="cos-lug_art11">11</span>.|Lumen Gentium, n. 11]]*, 21 novembre 1964;
 	**[[Conc. Trid. Sess. VI *De iustif.*, cap. 8]]**: Denz.-S., 1532.
 
-[^1983-01-06_ipii-bol-apr-ftn15]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art50" name="cos-lug_art50">50</span>.|Lumen Gentium, n. 50]]*, 21 novembre 1964.
+[^1983-01-06_ipii-bol-apr-ftn15]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art50" name="cos-lug_art50">50</span>.|Lumen Gentium, n. 50]]*, 21 novembre 1964.
 
-[^1983-01-06_ipii-bol-apr-ftn16]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art26" name="cos-lug_art26">26</span>.|Lumen Gentium, n. 26]]*, 21 novembre 1964;
-	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sul Ministero e la Vita dei Presbiteri *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pro#<span class="art" id="dec-pro_art13" name="dec-pro_art13">13</span>.|Presbyterorum ordinis, n. 13]]*, 07 dicembre 1965.
+[^1983-01-06_ipii-bol-apr-ftn16]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art26" name="cos-lug_art26">26</span>.|Lumen Gentium, n. 26]]*, 21 novembre 1964;
+	[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sul Ministero e la Vita dei Presbiteri *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-dec-pro#<span class="art" id="dec-pro_art13" name="dec-pro_art13">13</span>.|Presbyterorum ordinis, n. 13]]*, 07 dicembre 1965.
 
-[^1983-01-06_ipii-bol-apr-ftn17]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *Lumen Gentium, nn. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|9]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art12" name="cos-lug_art12">12</span>.|12]]*, 21 novembre 1964.
+[^1983-01-06_ipii-bol-apr-ftn17]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *Lumen Gentium, nn. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art9" name="cos-lug_art9">9</span>.|9]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art12" name="cos-lug_art12">12</span>.|12]]*, 21 novembre 1964.
 
 [^1983-01-06_ipii-bol-apr-ftn18]: [[Scheda 262° papa - Paolo VI|Paolo VI]], **[[Apostolorum limina, II]]**.
 
-[^1983-01-06_ipii-bol-apr-ftn19]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-sac#<span class="art" id="cos-sac_art103" name="cos-sac_art103">103</span>.|Sacrosanctum Concilium, n. 103]]*, 04 dicembre 1963.
+[^1983-01-06_ipii-bol-apr-ftn19]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione sulla Sacra Liturgia *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1963-12-04_cevii-cos-sac#<span class="art" id="cos-sac_art103" name="cos-sac_art103">103</span>.|Sacrosanctum Concilium, n. 103]]*, 04 dicembre 1963.
 
-[^1983-01-06_ipii-bol-apr-ftn20]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art56" name="cos-lug_art56">56</span>.|Lumen Gentium, n. 56]]*, 21 novembre 1964.
+[^1983-01-06_ipii-bol-apr-ftn20]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art56" name="cos-lug_art56">56</span>.|Lumen Gentium, n. 56]]*, 21 novembre 1964.
 
-[^1983-01-06_ipii-bol-apr-ftn21]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-unr#<span class="art" id="dec-unr_art12" name="dec-unr_art12">12</span>.|Unitatis Redintegratio, n. 12.2]]*, 21 novembre 1964.
+[^1983-01-06_ipii-bol-apr-ftn21]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Ecumenismo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-dec-unr#<span class="art" id="dec-unr_art12" name="dec-unr_art12">12</span>.|Unitatis Redintegratio, n. 12.2]]*, 21 novembre 1964.
 
 [^1983-01-06_ipii-bol-apr-ftn22]: Cfr. [[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]], **[[Allocutio ad Patres Cardinales et Romanae Curiae Sodales habita, 3, 23 dicembre 1982]]**: *Insegnamenti di Giovanni Paolo II*, V/3 [1982] 1673.
 
