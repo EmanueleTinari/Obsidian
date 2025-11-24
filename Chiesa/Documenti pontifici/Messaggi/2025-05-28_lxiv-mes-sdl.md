@@ -78,7 +78,7 @@ NOTE:
 
 [^2025-05-28_lxiv-mes-sdl-ftn4]: **Sant’Agostino**, *Contra Iulianum opus imperfectum*, II, 146.
 
-[^2025-05-28_lxiv-mes-sdl-ftn5]: [[Scheda 267° papa - Leone XIV|Leone XIV]], *[[Documenti pontifici/Omelie/2025-05-18_lxiv-ome|Omelia]]*, 18 maggio 2025.
+[^2025-05-28_lxiv-mes-sdl-ftn5]: [[Scheda 267° papa - Leone XIV|Leone XIV]], *[[Documenti pontifici/Omelie/2025-05-18_lxiv-ome-imp|Omelia]]*, 18 maggio 2025.
 
 [^2025-05-28_lxiv-mes-sdl-ftn6]: [[Scheda 266° papa - Francesco I|Francesco I]], **[[Esortazione Apostolica Amoris laetitia, n. 76]]**.
 
