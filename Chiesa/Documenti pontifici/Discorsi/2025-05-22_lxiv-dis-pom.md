@@ -69,7 +69,7 @@ NOTE:
 
 [^2025-05-22_lxiv-dis-pom-ftn1]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Decreto sull’Attività missionaria della Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-dec-adg#<span class="art" id="dec-adg_art38" name="dec-adg_art38">38</span>.|Ad gentes, n. 38]]*, 07 dicembre 1965.
 
-[^2025-05-22_lxiv-dis-pom-ftn2]: [[Scheda 267° papa - Leone XIV|Leone XIV]], *[[Documenti pontifici/Omelie/2025-05-18_lxiv-ome|Omelia nella Messa di Inizio Pontificato]]*, 18 maggio 2025.
+[^2025-05-22_lxiv-dis-pom-ftn2]: [[Scheda 267° papa - Leone XIV|Leone XIV]], *[[Documenti pontifici/Omelie/2025-05-18_lxiv-ome-imp|Omelia nella Messa di Inizio Pontificato]]*, 18 maggio 2025.
 
 [^2025-05-22_lxiv-dis-pom-ftn3]: [[Scheda 266° papa - Francesco I|Francesco I]], Esortazione Apostolica *[[Documenti pontifici/Esortazioni Apostoliche/2013-11-24_fi-esa-evg#229.|Evangelii gaudium, n. 229]]*, 24 novembre 2013.
 
