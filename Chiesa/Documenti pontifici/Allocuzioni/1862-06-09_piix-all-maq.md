@@ -23,7 +23,9 @@ creato: 2025/11/24 14:11:12
 modificato: 2025/11/24 14:55:16
 ---
 
+
 ***
+
 
 Allocuzione `class: tipoDoc`
 
@@ -48,7 +50,9 @@ Roma, Lunedì, 9 Giugno 1862 `class: dataLuogo`
 
 Pius IX `class: firmaC`
 
+
 ***
+
 
 Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
