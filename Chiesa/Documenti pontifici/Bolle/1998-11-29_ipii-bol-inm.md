@@ -152,33 +152,33 @@ Reggente
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 NOTE:
 
 
-[^1998-11-29_ipii-bol-inm-ftn1]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art22" name="cos-ges_art22">22</span>. Cristo, l’uomo nuovo.|Gaudium et spes, n. 22]]* , 07 dicembre 1965.
+[^1998-11-29_ipii-bol-inm-ftn1]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-cos-ges#<span class="art" id="cos-ges_art22" name="cos-ges_art22">22</span>. Cristo, l’uomo nuovo.|Gaudium et spes, n. 22]]* , 07 dicembre 1965.
 
 [^1998-11-29_ipii-bol-inm-ftn2]: Cfr. **[[Lettera enciclica Redemptor hominis, n. 1]]**: *AAS* 71 (1979), 258.
 
 [^1998-11-29_ipii-bol-inm-ftn3]: Cfr. [[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]], **[[Epist. ap. Redemptionis anno]]**, 20 aprile 1984: *AAS* 76 (1984), 627.
 
-[^1998-11-29_ipii-bol-inm-ftn4]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]],  Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art40" name="cos-ges_art40">40</span>. Mutua relazione tra Chiesa e mondo.|Gaudium et spes, n. 40]]* , 07 dicembre 1965.
+[^1998-11-29_ipii-bol-inm-ftn4]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]],  Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-cos-ges#<span class="art" id="cos-ges_art40" name="cos-ges_art40">40</span>. Mutua relazione tra Chiesa e mondo.|Gaudium et spes, n. 40]]* , 07 dicembre 1965.
 
 [^1998-11-29_ipii-bol-inm-ftn5]: Cfr. [[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]], **[[Lett. ap. Tertio millennio adveniente, n. 36]]**, 10 novembre 1994: *AAS* 87 (1995), 28.
 
-[^1998-11-29_ipii-bol-inm-ftn6]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]],  Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art41" name="cos-ges_art41">41</span>. L’aiuto che la Chiesa intende offrire agli individui.|Gaudium et spes, n. 41]]* , 07 dicembre 1965.
+[^1998-11-29_ipii-bol-inm-ftn6]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]],  Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-cos-ges#<span class="art" id="cos-ges_art41" name="cos-ges_art41">41</span>. L’aiuto che la Chiesa intende offrire agli individui.|Gaudium et spes, n. 41]]* , 07 dicembre 1965.
 
 [^1998-11-29_ipii-bol-inm-ftn7]: Cfr. **[[Lettera Tertio millennio adveniente, nn. 39-54]]**: *AAS* 87 (1995), 31-37.
 
-[^1998-11-29_ipii-bol-inm-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]],  Costituzione dogmatica sulla Divina Rivelazione *Dei Verbum, nn. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev#<span class="art" id="cos-dev_art2" name="cos-dev_art2">2</span>.|2]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-dev#<span class="art" id="cos-dev_art4" name="cos-dev_art4">4</span>.|4]]*, 18 novembre 1965.
+[^1998-11-29_ipii-bol-inm-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]],  Costituzione dogmatica sulla Divina Rivelazione *Dei Verbum, nn. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-11-18_cevii-cos-dev#<span class="art" id="cos-dev_art2" name="cos-dev_art2">2</span>.|2]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-11-18_cevii-cos-dev#<span class="art" id="cos-dev_art4" name="cos-dev_art4">4</span>.|4]]*, 18 novembre 1965.
 
 [^1998-11-29_ipii-bol-inm-ftn9]: **San Gregorio Nazianzeno**, *Poemi dogmatici*, XXXI, *Hymnus alias*: PG 37, 510-511.
 
 [^1998-11-29_ipii-bol-inm-ftn10]: Cfr. **sant’Ireneo**, *Contro le eresie*, III, 17: PG 7, 930.
 
-[^1998-11-29_ipii-bol-inm-ftn11]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art1" name="cos-lug_art1">1</span>.|Lumen Gentium, n. 1]]*, 21 novembre 1964.
+[^1998-11-29_ipii-bol-inm-ftn11]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art1" name="cos-lug_art1">1</span>.|Lumen Gentium, n. 1]]*, 21 novembre 1964.
 
 [^1998-11-29_ipii-bol-inm-ftn12]: Bonifacio VIII, **[[Bolla Antiquorum habet]]**, 22 febbraio 1300: *Bullarium Romanum III/2*, p. 94.
 
