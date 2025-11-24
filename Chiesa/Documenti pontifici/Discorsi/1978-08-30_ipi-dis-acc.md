@@ -58,7 +58,7 @@ Ioannes Paulus PP. I `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
@@ -73,8 +73,8 @@ NOTE:
 
 [^ipi-dis-acc1978-08-30-ftn3]: **S. Augustini**, *Epistola 185 ad Bonifacium*, 8, 32.
 
-[^ipi-dis-acc1978-08-30-ftn4]: Cfr. *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22,2]]*;
-	*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art23" name="cos-lug_art23">23</span>.|Lumen Gentium, n. 23,1]]*.
+[^ipi-dis-acc1978-08-30-ftn4]: Cfr. *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art22" name="cos-lug_art22">22</span>.|Lumen Gentium, n. 22,2]]*;
+	*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art23" name="cos-lug_art23">23</span>.|Lumen Gentium, n. 23,1]]*.
 
 [^ipi-dis-acc1978-08-30-ftn5]: *<span class="BibleRef">[[Lc 22,32|Lc 22,32]]</span>*.
 
