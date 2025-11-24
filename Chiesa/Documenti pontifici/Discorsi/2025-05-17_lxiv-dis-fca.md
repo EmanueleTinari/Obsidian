@@ -58,7 +58,7 @@ LEO PP. XIV `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
@@ -69,6 +69,6 @@ NOTE:
 
 [^2025-05-17_lxiv-dis-fca-ftn1]: [[Scheda 266° papa - Francesco I|Francesco I]], **[[Messaggio ai partecipanti all’Assemblea generale della Pontificia Accademia per la Vita, 3 marzo 2025]]**.
 
-[^2025-05-17_lxiv-dis-fca-ftn2]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art4" name="cos-ges_art4">4</span>. Speranze e angosce.|Gaudium et Spes, n. 4]]*, 07 dicembre 1965.
+[^2025-05-17_lxiv-dis-fca-ftn2]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione pastorale sulla Chiesa nel mondo contemporaneo *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-cos-ges#<span class="art" id="cos-ges_art4" name="cos-ges_art4">4</span>. Speranze e angosce.|Gaudium et Spes, n. 4]]*, 07 dicembre 1965.
 
 
