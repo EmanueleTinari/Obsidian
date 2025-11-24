@@ -56,7 +56,7 @@ continuiamo a contemplare Gesù che guarisce.<br>In modo particolare oggi vorrei
 ### APPELLO
 
 
-Cari fratelli e sorelle,<br><br>il cuore della Chiesa è straziato per le grida che si levano dai luoghi di guerra, in particolare dall’Ucraina, dall’Iran, da Israele, da Gaza.<br>Non dobbiamo abituarci alla guerra!<br>Anzi, bisogna respingere come una tentazione il fascino degli armamenti potenti e sofisticati.<br>In realtà, poiché nella guerra odierna «*si fa uso di armi scientifiche di ogni genere, la sua atrocità minaccia di condurre i combattenti a una barbarie di gran lunga superiore a quella dei tempi passati*» ([[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], *Costituzione pastorale sulla Chiesa nel mondo contemporaneo [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-ges#<span class="art" id="cos-ges_art79" name="cos-ges_art79">79</span>. Il dovere di mitigare l’inumanità della guerra|Gaudium et Spes, n. 79]]</span>*, 07 dicembre 1965).<br>Pertanto, in nome della dignità umana e del diritto internazionale, ripeto ai responsabili ciò che soleva dire [[Scheda 266° papa - Francesco I|Papa Francesco]]: la guerra è sempre una sconfitta!<br>E con [[Scheda 260° papa - Pio XII|Pio XII]]: «*Nulla è perduto con la pace. Tutto può esserlo con la guerra*». `class: paragrafoNorm`
+Cari fratelli e sorelle,<br><br>il cuore della Chiesa è straziato per le grida che si levano dai luoghi di guerra, in particolare dall’Ucraina, dall’Iran, da Israele, da Gaza.<br>Non dobbiamo abituarci alla guerra!<br>Anzi, bisogna respingere come una tentazione il fascino degli armamenti potenti e sofisticati.<br>In realtà, poiché nella guerra odierna «*si fa uso di armi scientifiche di ogni genere, la sua atrocità minaccia di condurre i combattenti a una barbarie di gran lunga superiore a quella dei tempi passati*» ([[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], *Costituzione pastorale sulla Chiesa nel mondo contemporaneo [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-cos-ges#<span class="art" id="cos-ges_art79" name="cos-ges_art79">79</span>. Il dovere di mitigare l’inumanità della guerra|Gaudium et Spes, n. 79]]</span>*, 07 dicembre 1965).<br>Pertanto, in nome della dignità umana e del diritto internazionale, ripeto ai responsabili ciò che soleva dire [[Scheda 266° papa - Francesco I|Papa Francesco]]: la guerra è sempre una sconfitta!<br>E con [[Scheda 260° papa - Pio XII|Pio XII]]: «*Nulla è perduto con la pace. Tutto può esserlo con la guerra*». `class: paragrafoNorm`
 
 
 ***
@@ -74,7 +74,7 @@ LEO PP. XIV `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
