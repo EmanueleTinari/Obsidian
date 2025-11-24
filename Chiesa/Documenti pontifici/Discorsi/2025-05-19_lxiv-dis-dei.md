@@ -58,7 +58,7 @@ LEO PP. XIV `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
@@ -71,8 +71,8 @@ NOTE:
 
 [^2025-05-19_lxiv-dis-dei-ftn2]: [[Scheda 266° papa - Francesco I|Francesco I]], **[[Documento sulla fratellanza umana per la pace mondiale e la convivenza comune, Abu Dhabi, 4 febbraio 2019]]**.
 
-[^2025-05-19_lxiv-dis-dei-ftn3]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Dichiarazione sulle Relazioni della Chiesa con le Religioni non cristiane *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-noa#<span class="art" id="dic-noa_art4" name="dic-noa_art4">4</span>.|Nostra aetate, n. 4]]*, 28 ottobre 1965.
+[^2025-05-19_lxiv-dis-dei-ftn3]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Dichiarazione sulle Relazioni della Chiesa con le Religioni non cristiane *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-10-28_cevii-dic-noa#<span class="art" id="dic-noa_art4" name="dic-noa_art4">4</span>.|Nostra aetate, n. 4]]*, 28 ottobre 1965.
 
-[^2025-05-19_lxiv-dis-dei-ftn4]:  [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Dichiarazione sulle Relazioni della Chiesa con le Religioni non cristiane *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dic-noa#<span class="art" id="dic-noa_art3" name="dic-noa_art3">3</span>.|Nostra aetate, n. 3]]*, 28 ottobre 1965.
+[^2025-05-19_lxiv-dis-dei-ftn4]:  [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Dichiarazione sulle Relazioni della Chiesa con le Religioni non cristiane *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-10-28_cevii-dic-noa#<span class="art" id="dic-noa_art3" name="dic-noa_art3">3</span>.|Nostra aetate, n. 3]]*, 28 ottobre 1965.
 
 
