@@ -52,7 +52,7 @@ LEO PP. XIV `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
@@ -73,7 +73,7 @@ NOTE:
 
 [^2025-09-17_lxiv-let-sma-ftn6]: Cfr. [[Scheda 262° papa - Paolo VI|San Paolo VI]], **[[Lettera enciclica Mysterium Fidei, n. 4]]**.
 
-[^2025-09-17_lxiv-let-sma-ftn7]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II#DOCUMENTI DEL CONCILIO ECUMENICO VATICANO II|Concilio Ecumenico Vaticano II]], Decreto sul Ministero e la Vita dei Presbiteri Presbyterorum ordinis, nn. *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pro#<span class="art" id="dec-pro_art15" name="dec-pro_art15">15</span>.|15]]* - *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-dec-pro#<span class="art" id="dec-pro_art17" name="dec-pro_art17">17</span>.|17]]*, 07 dicembre 1965.
+[^2025-09-17_lxiv-let-sma-ftn7]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II#DOCUMENTI DEL CONCILIO ECUMENICO VATICANO II|Concilio Ecumenico Vaticano II]], Decreto sul Ministero e la Vita dei Presbiteri Presbyterorum ordinis, nn. *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-dec-pro#<span class="art" id="dec-pro_art15" name="dec-pro_art15">15</span>.|15]]* - *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-12-07_cevii-dec-pro#<span class="art" id="dec-pro_art17" name="dec-pro_art17">17</span>.|17]]*, 07 dicembre 1965.
 
 [^2025-09-17_lxiv-let-sma-ftn8]: Cfr. C. García Irigoyen, *Sto. Toribio*, Lima 1908, 141
 
