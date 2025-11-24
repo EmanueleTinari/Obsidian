@@ -58,7 +58,7 @@ Ioannes Paulus PP. I `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
@@ -75,7 +75,7 @@ NOTE:
 
 [^1978-09-03_ipi-ome-imp-ftn4]: Cfr. *<span class="BibleRef">[[1Pt 2,4-9|1Pt 2,4-9]]</span>*.
 
-[^1978-09-03_ipi-ome-imp-ftn5]: Cfr. *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/cevii-cos-lug#<span class="art" id="cos-lug_art19" name="cos-lug_art19">19</span>.|Lumen gentium, n. 19]]*.
+[^1978-09-03_ipi-ome-imp-ftn5]: Cfr. *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art19" name="cos-lug_art19">19</span>.|Lumen gentium, n. 19]]*.
 
 [^1978-09-03_ipi-ome-imp-ftn6]: *<span class="BibleRef">[[Mt 16,18|Mt 16,18]]</span>*.
 
