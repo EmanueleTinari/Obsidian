@@ -1,0 +1,60 @@
+---
+cssclasses: docVat
+progr-doc: 29786
+num-doc: 14
+autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
+tipo-doc: "[[Omelie|Omelia]]"
+titolo-doc: Visita al sepolcro di San Paolo, Martedì, 20 maggio 2025
+giorno-doc: 20
+mese-doc: 5
+anno-doc: 2025
+data-doc: 2025-05-20
+lingua-doc: Italiano
+lingua-orig: Italiano
+stato: false
+tags:
+  - Omelia
+  - Leone_XIV
+  - Omelia_sepolcro_San_Paolo
+  - Documenti_pontifici
+aliases:
+  - Visita al sepolcro di San Paolo, Martedì, 20 maggio 2025
+  - Omelia al sepolcro di San Paolo, Martedì, 20 maggio 2025
+licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
+licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/homilies/2025/documents/20250520-visita-sanpaolo.html)"
+creato: 2025-09-19 07:24:24
+modificato: 2025-11-08 00:04:35
+---
+
+
+***
+
+
+Omelia `class: tipoDoc`
+
+
+del sommo pontefice `class: tipoAut`
+
+
+Leone XIV `class: nomeAut`
+
+
+# Visita al sepolcro di San Paolo, Martedì, 20 maggio 2025
+
+
+Il brano biblico che abbiamo ascoltato è l’inizio di una bellissima lettera indirizzata da **San Paolo** ai cristiani di Roma, il cui messaggio ruota attorno a tre grandi temi: la *grazia*, la *fede* e la *giustizia*.<br>Mentre affidiamo all’intercessione dell’Apostolo delle genti l’inizio di questo nuovo Pontificato, riflettiamo insieme sul suo messaggio.<br><br>**San Paolo** dice prima di tutto di aver avuto da Dio la *grazia* della chiamata (cfr. *<span class="BibleRef">[[Rm 1,5|Rm 1,5]]</span>*).<br>Riconosce, cioè, che il suo incontro con Cristo e il suo ministero sono legati all’amore con cui Dio lo ha preceduto, chiamandolo ad un’esistenza nuova mentre era ancora lontano dal Vangelo e perseguitava la Chiesa.<br>Sant’Agostino – anche lui un convertito – parla della stessa esperienza dicendo: «*Cosa potremo noi scegliere, se prima non siamo stati scelti noi stessi? In effetti, se non siamo stati prima amati, non possiamo nemmeno amare*» (*Discorso* 34, 2).<br>Alla radice di ogni vocazione c’è Dio: la sua misericordia, la sua bontà, generosa come quella di una madre (cfr. *<span class="BibleRef">[[Is 66,12-14|Is 66,12-14]]</span>*), che naturalmente, attraverso il suo stesso corpo, nutre il suo bambino quando è ancora incapace di alimentarsi da solo (cfr. Sant’Agostino, *Esp. sul Salmo 130*, 9).<br><br>Paolo, però, nello stesso brano, parla anche di «*obbedienza della fede*» (*<span class="BibleRef">[[Rm 1,5|Rm 1,5]]</span>*), e pure qui condivide ciò che ha vissuto.<br>Il Signore, infatti, apparendogli sulla via di Damasco (cfr. *<span class="BibleRef">[[At 9,1-30|At 9,1-30]]</span>*), non lo ha privato della sua libertà, ma gli ha lasciato la possibilità di una scelta, di una obbedienza frutto di fatica, di lotte interiori ed esteriori, che lui ha accettato di affrontare.<br>La salvezza non viene per incanto, ma per un mistero di *grazia* e di *fede*, di amore preveniente di Dio, e di adesione fiduciosa e libera da parte dell’uomo (cfr. *<span class="BibleRef">[[2Tm 1,12|2Tm 1,12]]</span>*).<br><br>Mentre allora ringraziamo il Signore per la chiamata con cui ha trasformato la vita di Saulo, gli chiediamo di saper anche noi rispondere ai suoi inviti allo stesso modo, facendoci testimoni dell’amore «*riversato nei nostri cuori per mezzo dello Spirito Santo che ci è stato dato*» (*<span class="BibleRef">[[Rm 5,5|Rm 5,5]]</span>*).<br>Gli chiediamo di saper coltivare e diffondere la sua carità, facendoci prossimi gli uni per gli altri (cfr. [[Scheda 266° papa - Francesco I|Francesco]], **[[Omelia dei II Vespri nella Solennità della Conversione di San Paolo, 25 gennaio 2024]]**), nella stessa gara di affetti che, dall’incontro con Cristo, ha spinto l’antico persecutore a farsi “*tutto a tutti*” (cfr. *<span class="BibleRef">[[1Cor 9,19-23|1Cor 9,19-23]]</span>*), fino al martirio.<br>Così, per noi come per lui, nella debolezza della carne si rivelerà la potenza della fede in Dio che *giustifica* (cfr. *<span class="BibleRef">[[Rm 5,1-5|Rm 5,1-5]]</span>*).<br><br>Questa Basilica da secoli è affidata alla cura di una Comunità benedettina.<br>Come non ricordare, allora, parlando dell’amore come fonte e motore dell’annuncio del Vangelo, gli insistenti appelli di San Benedetto, nella sua Regola, alla carità fraterna nel cenobio e all’ospitalità verso tutti (*Regola*, capp. LIII; LXIII)?<br><br>Ma vorrei concludere richiamando le parole che, più di mille anni dopo, un altro Benedetto, [[Scheda 265° papa - Benedetto XVI|Papa Benedetto XVI]], rivolgeva ai giovani: «*Cari amici* – diceva – *Dio ci ama. Questa è la grande verità della nostra vita e che dà senso a tutto il resto* [...]*.All’origine della nostra esistenza c’è un progetto d’amore di Dio*», e la fede ci porta ad «*aprire il nostro cuore a questo mistero di amore e a vivere come persone che si riconoscono amate da Dio*» (**[[Omelia nella Veglia di preghiera con i giovani, Madrid, 20 agosto 2011]]**).<br><br>È qui la radice, semplice e unica, di ogni missione, anche della mia, come successore di Pietro ed erede dello zelo apostolico di Paolo.<br>Mi dia il Signore la grazia di rispondere fedelmente alla sua chiamata. `class: paragrafoNorm`
+
+
+Basilica di San Paolo fuori le mura, Martedì, 20 maggio 2025 `class: dataLuogo`
+
+
+LEO PP. XIV `class: firmaC`
+
+
+***
+
+
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
+
+
