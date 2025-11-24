@@ -24,7 +24,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/pius-ix/it/documents/allocuzione-multis-gravibusque-17-dicembre-1860.html)"
 creato: 2025/11/23 23:51:30
-modificato: 2025/11/23 23:55:27
+modificato: 2025/11/24 00:11:01
 ---
 
 
