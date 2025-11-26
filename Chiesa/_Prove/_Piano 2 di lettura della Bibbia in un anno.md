@@ -10,7 +10,7 @@ modificato: 09/07/2025 00:16:16
 ## Struttura
 
 La PAROLA di DIO secondo il Catechismo della Chiesa Cattolica
-103 La Chiesa ha sempre venerato le divine Scritture, come venera il Corpo stesso del Signore. Essa non cessa di porgere ai fedeli il Pane di vita preso dalla mensa della Parola di Dio e del Corpo di Cristo [cfr. Conc. Ecum. Vat. II, Dei Verbum, 21].
+103 La Chiesa ha sempre venerato le divine Scritture, come venera il Corpo stesso del Signore. Essa non cessa di porgere ai fedeli il Pane di vita preso dalla mensa della Parola di Dio e del Corpo di Cristo [cfr. Concilio Ecum. Vat. II, Dei Verbum, 21].
 104 Nella Sacra Scrittura, la Chiesa trova incessantemente il suo nutrimento e il suo vigore; [cfr. ibid., 24] infatti attraverso la divina Scrittura essa non accoglie soltanto una parola umana, ma quello che è realmente: la Parola di Dio [cfr. 1Ts 2,13 ]. “Nei Libri Sacri, infatti, il Padre che è nei cieli viene con molta amorevolezza incontro ai suoi figli ed entra in conversazione con loro” [Conc. Ecum. Vat. II, Dei Verbum, 21].
 105 Dio è l’Autore della Sacra Scrittura. “Le cose divinamente rivelate, che nei libri della Sacra Scrittura sono contenute e presentate, furono consegnate sotto l’ispirazione dello Spirito Santo.
 La Santa Madre Chiesa, per fede apostolica, ritiene sacri e canonici tutti interi i libri sia dell’Antico che del Nuovo Testamento, con tutte le loro parti, perché, scritti sotto ispirazione dello Spirito Santo, hanno Dio per autore e come tali sono stati consegnati alla Chiesa” [Conc. Ecum. Vat. II, Dei Verbum, 21].
