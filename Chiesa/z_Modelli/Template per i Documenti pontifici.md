@@ -980,7 +980,7 @@ x `class: paragrafoNorm`
 ***
 
 
-<% txt_licenzaDoc %>. `class: dirittiAut`
+<% txt_licenzaDoc %> `class: dirittiAut`
 
 
 <% noteFondoPagina %>
