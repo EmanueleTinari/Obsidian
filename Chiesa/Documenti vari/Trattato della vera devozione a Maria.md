@@ -1298,7 +1298,7 @@ Vi è un’infinità di altri pensieri che lo Spirito Santo ispira e ispirerà a
 NOTE:
 
 [^tdvdam-ftn1]: È l’*ouverture*, il tema di tutta l’Opera: verrà ripreso ai nn. 13, 22, 49, 157, 217, 262. «Nel mistero dell’assunzione si esprime la fede della Chiesa, secondo la quale Maria è unita da uno stretto e indissolubile vincolo a Cristo, perché, se madre-vergine era a lui singolarmente unita *nella sua prima venuta*, per la sua continuata cooperazione con lui lo sarà anche in attesa della seconda; «redenta in modo più sublime in vista dei meriti del Figlio suo», ella ha anche quel ruolo proprio della madre, di mediatrice di clemenza *nella venuta definitiva*, quando tutti coloro che sono di Cristo saranno vivificati, e «l’ultimo nemico ad essere annientato sarà la morte» (*<span class="BibleRef">[[1Cor 15,26|1Cor 15,26]]</span>*) ([[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]], **[[Enciclica Redemptoris Mater, n. 41]]**).
-[^tdvdam-ftn2]: È questo, secondo San Girolamo (*In Is. Proph.* 3,7. PL 24, 110), il senso della parola ebraica `almah` (cfr. *<span class="BibleRef">[[Is 7,14|Is 7,14]]</span>*). Per la liturgia, cfr. l’inno *Ave. maris stella* e l’antifona *Alma redemptoris Mater* (cfr. G. Rossetto *Alma vuol dire nascosta?* in *Madre e Regina*, XVI, 1962, pp. 247-248).
+[^tdvdam-ftn2]: È questo, secondo San Girolamo (*In Is. Proph.* 3,7. *PL* 24, 110), il senso della parola ebraica `almah` (cfr. *<span class="BibleRef">[[Is 7,14|Is 7,14]]</span>*). Per la liturgia, cfr. l’inno *Ave. maris stella* e l’antifona *Alma redemptoris Mater* (cfr. G. Rossetto *Alma vuol dire nascosta?* in *Madre e Regina*, XVI, 1962, pp. 247-248).
 [^tdvdam-ftn3]: «*Chi è colei che sale dal deserto appoggiata al suo diletto?*» (*<span class="BibleRef">[[Ct 8,5|Ct 8,5]]</span>*).
 [^tdvdam-ftn4]: Cfr. San Tommaso, S.Th. III, q. 27, a.5, ad 3.
 [^tdvdam-ftn5]: *<span class="BibleRef">[[Gv 2,4|Gv 2,4]]</span>*; *<span class="BibleRef">[[Gv 19,26|Gv 19,26]]</span>*. Nel nome “*donna*” riferito a Maria gli esegeti vedono il ruolo che le è stato assegnato nella storia della salvezza, come Figlia di Sion e nuova Eva.
@@ -1309,7 +1309,7 @@ NOTE:
 [^tdvdam-ftn8]: Cfr. VD 248.
 [^tdvdam-ftn9]: *<span class="BibleRef">[[Lc 1,49|Lc 1,49]]</span>*.
 [^tdvdam-ftn10]: VD 48.
-[^tdvdam-ftn11]: «*Non mi sento mai così contento, né mai così preso da tremore, come quando devo parlare della gloria della Vergine madre*» (San Bernardo *Serm. 4 in Assumpt, B.V.M.*, PL 183, 427).
+[^tdvdam-ftn11]: «*Non mi sento mai così contento, né mai così preso da tremore, come quando devo parlare della gloria della Vergine madre*» (San Bernardo *Serm. 4 in Assumpt, B.V.M.*, *PL* 183, 427).
 [^tdvdam-ftn12]: Cfr. VD 37, 76.
 [^tdvdam-ftn13]: Sono paragoni che si ispirano a *<span class="BibleRef">[[Ef 3,18|Ef 3,18]]</span>* e *<span class="BibleRef">[[Ap 21,15-16|Ap 21,15-16]]</span>*.
 [^tdvdam-ftn14]: Cfr. E. Gambari, *Ordini e Congregazioni Religiose di nome e di orientamento mariani*, in *Enciclopedia mariana Theotòcos*, 1954, pp. 509-615;
@@ -1322,14 +1322,14 @@ NOTE:
 [^tdvdam-ftn20]: *<span class="BibleRef">[[Es 3,14|Es 3,14]]</span>*.
 [^tdvdam-ftn21]: I nn. 14 e 15 sono passi di capitale importanza e sono al *Trattato* del Montfort ciò che i segni sono alla chiave di un pezzo di musica. Chi non ricordasse questi segni, suonerebbe falso, anche quando suonasse esattamente le note che stanno scritte (cfr. U.M. Gebhard, in *Regina dei cuori*, II, pp. 36-40). Perciò, ogni volta che il Montfort dirà che la santa Vergine è necessaria, si dovrà sempre sottintendere *ipoteticamente*, vale a dire «in conseguenza della volontà di Dio». Infatti «ogni salutare influsso della beata Vergine verso gli uomini non nasce da una necessità, ma dal beneplacito di Dio» (*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art61" name="cos-lug_art61">61</span>.|Lumen Gentium, 61]]*).
 [^tdvdam-ftn22]: «*I doni e la chiamata di Dio sono irrevocabili*» (*<span class="BibleRef">[[Rm 11,29|Rm 11,29]]</span>*).
-[^tdvdam-ftn23]: Sant’Agostino (inter opera), PL 38, 1074; PL 40, 1191-1192.
+[^tdvdam-ftn23]: Sant’Agostino (inter opera), *PL* 38, 1074; *PL* 40, 1191-1192.
 [^tdvdam-ftn24]: Con il suo ripetuto riferimento alla Trinità, il Montfort vede Maria nella sua intima realtà del tutto dipendente e orientata al Padre al Figlio e allo Spirito Santo. Questa prospettiva trinitaria è giudicata intrinseca ed essenziale dalla **Marialis cultus** di [[Scheda 262° papa - Paolo VI|Paolo VI]], in piena sintonia con il [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II#DOCUMENTI DEL CONCILIO ECUMENICO VATICANO II|Concilio Vaticano II]]: «È sommamente conveniente, anzitutto, che gli esercizi di pietà verso la Vergine Maria esprimano chiaramente la nota trinitaria e cristologica, che in essi è intrinseca ed essenziale» (**Marialis cultus, 25**).
 [^tdvdam-ftn25]: *<span class="BibleRef">[[Lc 1,41-44|Lc 1,41-44]]</span>*.
 [^tdvdam-ftn26]: *<span class="BibleRef">[[Gv 2,1-12|Gv 2,1-12]]</span>*.
 [^tdvdam-ftn27]: Talvolta si rimprovera alla pietà mariana cattolica di attutire il culto dello Spirito Santo o di non far emergere la sua azione che sarebbe sostituita da Maria. Tale accusa non vale per la Chiesa e in particolare per il Montfort che unisce indissolubilmente Maria allo Spirito Santo in tutta l’opera della salvezza.
 	Cfr. S. De Fiores, “Le Saint-Esprit et Marie chez Grignion de Montfort”, in *Cahiers marials* 20 (1975), n. 99, pp. 195-216.
 	Il titolo di «*Sposa dello Spirito Santo*», che il Montfort attribuisce a Maria, non messo in evidenza dal [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II#DOCUMENTI DEL CONCILIO ECUMENICO VATICANO II|Concilio Vaticano II]], risale, in Occidente, a San Francesco d’Assisi ed è stato valorizzato dalla **Marialis cultus** (n. 26) e dalla **Redemptoris Mater** (n. 26).
-[^tdvdam-ftn28]: L’ espressione è di Pietro De Celles (+ 1183), PL 202, 714: «mària - in latino, i mari - e Maria».
+[^tdvdam-ftn28]: L’ espressione è di Pietro De Celles (+ 1183), *PL* 202, 714: «mària - in latino, i mari - e Maria».
 [^tdvdam-ftn29]: VD 216.
 [^tdvdam-ftn30]: Cfr. VD 142.
 [^tdvdam-ftn31]: San Bernardino da Siena, Serm. de 12 Priv., 1-2, c. 8. SM 10. VD 141.
@@ -1339,7 +1339,7 @@ NOTE:
 [^tdvdam-ftn35]: *<span class="BibleRef">[[Lc 1,52|Lc 1,52]]</span>*.
 [^tdvdam-ftn36]: «*L’immacolata Vergine, preservata immune da ogni macchia di colpa originale, finito il corso della sua vita terrena, fu assunta alla gloria in anima e corpo, e dal Signore esaltata quale Regina dell’universo, perché fosse più pienamente conformata col Figlio suo, Signore dei dominanti e vincitore del peccato e della morte*» (*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art59" name="cos-lug_art59">59</span>.|Lumen Gentium, 59]]*).
 [^tdvdam-ftn37]: *<span class="BibleRef">[[Sir 24,13|Sir 24,13]]</span>*.
-[^tdvdam-ftn38]: Questo testo sembra l’eco di un passo ecclesiale di San Cipriano, De unitate Ecclesiae, 6, PL 4,519.
+[^tdvdam-ftn38]: Questo testo sembra l’eco di un passo ecclesiale di San Cipriano, De unitate Ecclesiae, 6, *PL* 4,519.
 	Quando il Montfort, qui e altrove parla di predestinati, non intende certo avallare un dato sistema teologico circa la predestinazione; si riferisce, invece, al celebre passo della Lettera ai Romani (*<span class="BibleRef">[[Rm 8,28-30|Rm 8,28-30]]</span>*), dove **San Paolo** parla di coloro che amano Dio e «*che sono stati chiamati secondo il suo disegno*». (Cfr. *Grande Commentario Biblico*, Oueriniana, n. 1239).
 [^tdvdam-ftn39]: Le affermazioni del Montfort non devono essere intese come condanna indiscriminata dei cristiani di altre confessioni, i quali in buona fede omettono di essere devoti a Maria per mancata presentazione della presenza di lei nella storia della salvezza.
 [^tdvdam-ftn40]: Cfr. VD 63-65.
@@ -1352,7 +1352,7 @@ NOTE:
 	Espressione cara al Montfort: AES 214, 226;
 	SM 67;
 	VD 119, 156, 164, 168.
-[^tdvdam-ftn46]: Sant’Agostino, PL 40, 399;
+[^tdvdam-ftn46]: Sant’Agostino, *PL* 40, 399;
 	PL 40, 659-660.
 [^tdvdam-ftn47]: «*Predestinati ad essere conformi all’immagine del Figlio suo*» (*<span class="BibleRef">[[Rm 8,29|Rm 8,29]]</span>*).
 [^tdvdam-ftn48]: *<span class="BibleRef">[[Sir 24,13|Sir 24,13]]</span>*, secondo la versione *Volgata*.
@@ -1383,7 +1383,7 @@ NOTE:
 	Cfr. VD 210.
 [^tdvdam-ftn71]: *<span class="BibleRef">[[Ap 12,12|Ap 12,12]]</span>*.
 [^tdvdam-ftn72]: *<span class="BibleRef">[[Gn 3,15|Gen 3,15]]</span>*. «Il testo ebraico, analizzando l’ostilità tra la razza del serpente e quella della donna, oppone l’uomo al diavolo e alla sua “razza”, ma lascia anche intravedere la vittoria finale dell’uomo: è un primo barlume di salvezza, il *protovangelo*. La traduzione greca, cominciando l’ultima frase con un pronome maschile attribuisce questa vittoria non alla discendenza della donna in generale, ma a uno dei figli della donna: così è preparata l’interpretazione messianica che molti Padri espliciteranno. Con il Messia, sua madre è implicata, e l’interpretazione mariologica della traduzione latina *ipsa conteret* è divenuta tradizionale nella Chiesa» (*La Bibbia di Gerusalemme*, p. 41).
-[^tdvdam-ftn73]: Cfr. San Ireneo, *Adversus haereses*, III, 22, 4. PG 7, 959.
+[^tdvdam-ftn73]: Cfr. San Ireneo, *Adversus haereses*, III, 22, 4. *PG* 7, 959.
 [^tdvdam-ftn74]: Cfr. *<span class="BibleRef">[[Dt 13,14|Dt 13,14]]</span>*. Dal senso originario «senza utilità», a poco a poco, il termine *Belial* fu sentito come un nome proprio e messo in relazione con la potenza del male.
 [^tdvdam-ftn75]: *<span class="BibleRef">[[Sal 104,4|Sal 104,4]]</span>*;
 	*<span class="BibleRef">[[Eb 1,7|Eb 1,7]]</span>*.
@@ -1445,7 +1445,7 @@ NOTE:
 [^tdvdam-ftn123]: «*Ecco, nella colpa sono stato generato, nel peccato mi ha concepito mia madre*» (*<span class="BibleRef">[[Sal 51,7|Sal 51,7]]</span>*).
 [^tdvdam-ftn124]: «*Ogni uomo aveva pervertito la sua condotta sulla terra*» (*<span class="BibleRef">[[Gn 6,12|Gen 6,12]]</span>*). Con la Volgata, il Montfort scrive «ogni carne». «La *carne* designa l’uomo nella sua condizione di debolezza e di mortalità» (*La Bibbia di Gerusalemme*, p. 2266).
 [^tdvdam-ftn125]: Cfr. VD 213,228.
-	San Giovanni Crisostomo (*Hom. 4 in Matth.*, n.8, PG 57,48) rincara la dose di questi paragoni dati dal Montfort, che ci fanno percepire il «profondo squilibrio che è radicato nel cuore dell’uomo» (GS 10). Tuttavia non bisogna dimenticare che il cristiano, tempio dello Spirito Santo (*<span class="BibleRef">[[Tt 3,5|Tt 3,5]]</span>*; *<span class="BibleRef">[[1Cor 6,19|1Cor 6,19]]</span>*) e nuova creatura (*<span class="BibleRef">[[2Cor 5,17|2Cor 5,17]]</span>*; *<span class="BibleRef">[[Gal 6,15|Gal 6,15]]</span>*) diviene capace di portare in Cristo frutti di salvezza e di vita eterna (*<span class="BibleRef">[[Gv 4,36|Gv 4,36]]</span>*; *<span class="BibleRef">[[Gv 15,5|Gv 15,5]]</span>*).
+	San Giovanni Crisostomo (*Hom. 4 in Matth.*, n.8, *PG* 57,48) rincara la dose di questi paragoni dati dal Montfort, che ci fanno percepire il «profondo squilibrio che è radicato nel cuore dell’uomo» (GS 10). Tuttavia non bisogna dimenticare che il cristiano, tempio dello Spirito Santo (*<span class="BibleRef">[[Tt 3,5|Tt 3,5]]</span>*; *<span class="BibleRef">[[1Cor 6,19|1Cor 6,19]]</span>*) e nuova creatura (*<span class="BibleRef">[[2Cor 5,17|2Cor 5,17]]</span>*; *<span class="BibleRef">[[Gal 6,15|Gal 6,15]]</span>*) diviene capace di portare in Cristo frutti di salvezza e di vita eterna (*<span class="BibleRef">[[Gv 4,36|Gv 4,36]]</span>*; *<span class="BibleRef">[[Gv 15,5|Gv 15,5]]</span>*).
 [^tdvdam-ftn126]: *<span class="BibleRef">[[Mt 16,25|Mt 16,25]]</span>*; *<span class="BibleRef">[[Lc 9,24|Lc 9,24]]</span>*; *<span class="BibleRef">[[Lc 14,26|Lc 14,26]]</span>*. «*e non odia*: ebraismo. Gesù non domanda odio, ma il distacco completo e immediato (cfr. *<span class="BibleRef">[[Lc 9, 57-62|Lc 9,57-62]]</span>*)» (*La Bibbia di Gerusalemme*, p. 2233).
 [^tdvdam-ftn127]: *<span class="BibleRef">[[Gv 12,25|Gv 12,25]]</span>*.
 [^tdvdam-ftn128]: Cfr. *<span class="BibleRef">[[1Cor 7,30-31|1Cor 7,30-31]]</span>*.
@@ -1455,7 +1455,7 @@ NOTE:
 [^tdvdam-ftn132]: *<span class="BibleRef">[[Col 3,3|Col 3,3]]</span>*. - «Conviene sapere che l’anima, per giungere allo stato di perfezione, generalmente deve prima passare attraverso due aspetti principali di *tenebre*, che gli spirituali chiamano purgazione o purificazione, io invece *notte*, perché l’anima, nell’una e nell’altra, cammina al buio come di notte» (San Giovanni della Croce, *Salita del monte Carmelo*, lib. 1, cap. 1, n. 1).
 [^tdvdam-ftn133]: «Come il sacerdozio di Cristo è in vari modi partecipato e dai sacri ministri e dal popolo fedele, e come l’unica bontà di Dio è realmente diffusa in vari modi nelle creature, così anche l’unica mediazione del Redentore non esclude, ma suscita nelle creature una varia cooperazione partecipata da un’unica fonte» (*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art62" name="cos-lug_art62">62</span>.|Lumen Gentium, 62]]*).
 [^tdvdam-ftn134]: Si rileggano i nn. 83-86 del *Trattato* confrontandoli con le affermazioni del [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II#DOCUMENTI DEL CONCILIO ECUMENICO VATICANO II|Concilio Vaticano II]] in *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art60" name="cos-lug_art60">60</span>.|Lumen Gentium, nn. 60]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art59" name="cos-lug_art62">62</span>.|62]]*.
-[^tdvdam-ftn135]: *Hom. 5 in Assumpt.: Signum magnum*, n. 2, PL 183, 429.
+[^tdvdam-ftn135]: *Hom. 5 in Assumpt.: Signum magnum*, n. 2, *PL* 183, 429.
 [^tdvdam-ftn136]: *<span class="BibleRef">[[Ct 6,10|Ct 6,10]]</span>*.
 [^tdvdam-ftn137]: Maria è «*Colei che nella Chiesa Santa occupa, dopo Cristo, il posto più alto e il più vicino a noi*» (*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art54" name="cos-lug_art54">54</span>.|Lumen Gentium, 54]]*).
 [^tdvdam-ftn138]: Cfr. [[Scheda 256° papa - Leone XIII|Leone XIII]], **Octobri mense, 22.9.1891**. La teoria dei tre gradini non deve dimenticare lo Spirito Santo, secondo l’ordine biblico: «Al Padre, per mezzo di Cristo nello Spirito» (cfr. *<span class="BibleRef">[[Ef 2,18|Ef 2,18]]</span>*). Maria partecipa al compito dello Spirito di unirci a Cristo, di formarlo in noi e di intercedere per noi, come il Montfort più volte afferma (VD 20-21, 34-37...).
@@ -1483,7 +1483,7 @@ NOTE:
 [^tdvdam-ftn160]: Cfr. VD 61-62.
 [^tdvdam-ftn161]: Con questa profonda e originale intuizione il Montfort collega la consacrazione a Cristo per mezzo di Maria con il battesimo, che costituisce la consacrazione cristiana fondamentale (cfr. **Perfectae caritatis, 5**). «*Mi è caro ricordare* – scrive [[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]] nella **Redemptoris Mater, n. 48** – *tra i tanti testimoni e maestri di tale spiritualità* (*mariana*)*, la figura di san Luigi Maria Grignion de Montfort, il quale proponeva ai cristiani la consacrazione a Cristo per le mani di Maria, come mezzo efficace per vivere fedelmente gli impegni battesimali*».
 [^tdvdam-ftn162]: *Summa theologica* II-II, q. 88, a. 2.
-[^tdvdam-ftn163]: «*Votum maximum nostrum quo vovimus nos in Christo esse mansuros*» (Ep 149 *ad Paulinum*, n. 16, PL 33, 637).
+[^tdvdam-ftn163]: «*Votum maximum nostrum quo vovimus nos in Christo esse mansuros*» (Ep 149 *ad Paulinum*, n. 16, *PL* 33, 637).
 [^tdvdam-ftn164]: «*Praecipuum votum est quod in baptismate facimus*».
 [^tdvdam-ftn165]: Il VI Concilio di Parigi dell’839 fu convocato a Sens per ordine di Ludovico Pio (778-840).
 [^tdvdam-ftn166]: Montfort ebbe incarico da Papa Clemente XI (1706) di predicare il rinnovamento della vita cristiana con la rinnovazione e la rivalorizzazione delle promesse battesimali. Sulla stessa scia si pone [[Scheda 262° papa - Paolo VI|Paolo VI]] quando afferma: «*Bisogna ridare al fatto d’aver ricevuto il santo Battesimo tutta la sua importanza*» (**[[Enciclica Ecclesiam suam, 6.8.1964]]**).
@@ -1493,27 +1493,27 @@ NOTE:
 [^tdvdam-ftn170]: Si veda, in *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art56" name="cos-lug_art56">56</span>.|Lumen Gentium, 56)]]*, ciò che il [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II#DOCUMENTI DEL CONCILIO ECUMENICO VATICANO II|Concilio Vaticano II]] dice sul servizio regale del cristiano.
 [^tdvdam-ftn171]: Cfr. VD 110.
 [^tdvdam-ftn172]: Cfr. *<span class="BibleRef">[[Mt 19,29|Mt 19,29]]</span>*.
-[^tdvdam-ftn173]: *Serm. 22 de Diversis, De quadruplici debito*, n. 6, PL 183, 598: «*Se toto totum me comparavit*».
+[^tdvdam-ftn173]: *Serm. 22 de Diversis, De quadruplici debito*, n. 6, *PL* 183, 598: «*Se toto totum me comparavit*».
 [^tdvdam-ftn174]: Cfr. *<span class="BibleRef">[[Sal 18,26|Sal 18,26]]</span>*.
 [^tdvdam-ftn175]: VD 14-39.
 [^tdvdam-ftn176]: «*Maria diede alla luce il Figlio, che Dio ha posto quale primogenito tra i molti fratelli, cioè tra i fedeli, alla rigenerazione e formazione dei quali essa coopera con amore di madre*» (*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art63" name="cos-lug_art63">63</span>.|Lumen Gentium, 63)]]*).
 [^tdvdam-ftn177]: Di questi passi il Montfort riporta solo il testo latino, che noi trascriviamo nelle note seguenti.
-[^tdvdam-ftn178]: «*Duo filii Mariae sunt, homo Deus et homo purus; unius corporaliter; et alterius spiritualiter mater est Maria*» (Corrado di Sassonia, *Speculum BVM*, lect. 3, par. 1, 2; Origene, cfr. *In Ps.* 86, 5, PG 12, 1547).
-[^tdvdam-ftn179]: «*Haec est voluntas Dei, qui totum nos voluit habere per Mariam ac proinde, si quid spei, si quid gratiae, si quid salutis ab ea noverimus redundare*» (San Bernardo, *Serm.: in Nativ. BMV: de aquaeductu*, n. 7 e 6, PL 183, 441).
+[^tdvdam-ftn178]: «*Duo filii Mariae sunt, homo Deus et homo purus; unius corporaliter; et alterius spiritualiter mater est Maria*» (Corrado di Sassonia, *Speculum BVM*, lect. 3, par. 1, 2; Origene, cfr. *In Ps.* 86, 5, *PG* 12, 1547).
+[^tdvdam-ftn179]: «*Haec est voluntas Dei, qui totum nos voluit habere per Mariam ac proinde, si quid spei, si quid gratiae, si quid salutis ab ea noverimus redundare*» (San Bernardo, *Serm.: in Nativ. BMV: de aquaeductu*, n. 7 e 6, *PL* 183, 441).
 [^tdvdam-ftn180]: «*Omnia dona, virtutes et gratiae ipsius Spiritus Sancti, quibus vult, quando vult, quomodo vult et quantum vult per ipsius manus administrantur*» (San Bernardino, *Serm. de 12 Priv.*, 1.2, c.8. *Serm. in Nativ. BMV*, art. un., c. 8).
-[^tdvdam-ftn181]: «*Qui indigrus eras cui daretur, datum est Mariae, ut per eam acciperes quidquid haberes*» (San Bernardo, *Serm. 3, in Vigilia Nativ. Domini*, n. 10, PL 183, 100).
+[^tdvdam-ftn181]: «*Qui indigrus eras cui daretur, datum est Mariae, ut per eam acciperes quidquid haberes*» (San Bernardo, *Serm. 3, in Vigilia Nativ. Domini*, n. 10, *PL* 183, 100).
 [^tdvdam-ftn182]: San Bernardo, *Serm. in Nativ. BMV: de aquaeductu*, n. 18, PL. 183, 448.
 [^tdvdam-ftn183]: *<span class="BibleRef">[[Gv 4,6|Gv 4,6]]</span>*.
 [^tdvdam-ftn184]: *<span class="BibleRef">[[Gv 19,27|Gv 19,27]]</span>*.
 	Cfr. VD 179. La Bibbia C.E.I. traduce «*Da quel momento il discepolo la prese nella sua casa*». Gli studi esegetici di vari autori (Braun, De la Potterie, Serra...) traducono con maggiore fedeltà al testo greco: «*da quell’ora il discepolo l’accolse tra le cose proprie*», cioè tra i beni o doni spirituali lasciati da Cristo ai suoi discepoli.
 [^tdvdam-ftn185]: Cfr. *<span class="BibleRef">[[Gn 32,23-33|Gen 32,23-33]]</span>*.
-[^tdvdam-ftn186]: Testo latino riferito dal Montfort: «*O Domina, Dei Genitrix, Maria, et incorrupta Mater Dei et hominis, non meis, sed tuis armatus meritis, cum isto Viro, scilicet Verbo Dei, luctari cupio*» (Ruperto, proemia *In Cantica Cant. de Incarn. Domini*, PL 168, 837-838).
+[^tdvdam-ftn186]: Testo latino riferito dal Montfort: «*O Domina, Dei Genitrix, Maria, et incorrupta Mater Dei et hominis, non meis, sed tuis armatus meritis, cum isto Viro, scilicet Verbo Dei, luctari cupio*» (Ruperto, proemia *In Cantica Cant. de Incarn. Domini*, *PL* 168, 837-838).
 [^tdvdam-ftn187]: Sant Agostino (inter opera), *In fest. Assumpt. B.M.*, (PL 39 2 130-2131).
 [^tdvdam-ftn188]: Cfr.  SM 37.
 [^tdvdam-ftn189]: *<span class="BibleRef">[[Lc 1,46|Lc 1,46]]</span>*.
 	Cfr. VD 225.
 [^tdvdam-ftn190]: Cfr. *<span class="BibleRef">[[Eb 10,5-7|Eb 10,5-7]]</span>*.
-[^tdvdam-ftn191]: Testo latino: «*Modicum quod offerre desideras, manibus Mariae offerendum tradere cura, si non vis sustinere repulsam*» (San Bernardo *Serm. in Nativ. BMV: de aquaeductu*, n. 18, PL 183, 448).
+[^tdvdam-ftn191]: Testo latino: «*Modicum quod offerre desideras, manibus Mariae offerendum tradere cura, si non vis sustinere repulsam*» (San Bernardo *Serm. in Nativ. BMV: de aquaeductu*, n. 18, *PL* 183, 448).
 	Cfr. VD 142 e SM 37.
 [^tdvdam-ftn192]: Il Montfort dà una lista indicativa, ma non esaustiva.
 [^tdvdam-ftn193]: «*Tutti quelli che vogliono vivere pienamente in Cristo Gesù saranno perseguitati*» (*<span class="BibleRef">[[2Tm 3,12|2Tm 3,12]]</span>*).
@@ -1531,7 +1531,7 @@ NOTE:
 [^tdvdam-ftn204]: Enrico-Marla Boudon (1624-1702), arcidiacono di Evreux. Scrisse *Dieu seul ou Le saint esclavage de l’admirable Mère de Dieu*, pubblicato a Parigi nel 1667. Il Montfort lo ricorda due volte: VD 159, 162. Il termine *doulos* (schiavo) ricorre in molti sigilli dei primi secoli dell’impero d’Oriente (395-1453) assieme al nome della Madre di Dio (G. Schlumberger, *Sigillographie de l’Empire byzantin*, Paris 1884, p. 31) come anche sull’ambone di papa Giovanni VII (703-707) nella Chiesa di S. Maria Antiqua al Palatino (Roma) e in una lastra di marmo (ora nelle Grotte Vaticane) proveniente dall’oratorio fatto erigere dallo stesso papa Giovanni VII nell’antica basilica di S. Pietro.
 [^tdvdam-ftn205]: San Odilone (962-1048), abate di Cluny dal 994.
 [^tdvdam-ftn206]: Questa data è da correggere, perché san P. Damiani visse dal 1007 al 1072.
-[^tdvdam-ftn207]: Cfr. PL 145, 565-567.
+[^tdvdam-ftn207]: Cfr. *PL* 145, 565-567.
 [^tdvdam-ftn208]: Anche questa data è errata perché Cesare D’Eisterbach, nato prima del 1128, morì verso il 1210.
 [^tdvdam-ftn209]: Cfr. H. Bremond, *Histoire littéraire du sentiment religieux en France*, Paris 1923, vol. 6, p. 266.
 [^tdvdam-ftn210]: Simón de Roias (1552-1624), che Lope de Vega paragona a san Bernardo per il suo ardente amore alla Madre di Dio, è stato canonizzato da Giovanni Paolo II il 3 luglio 1988. Fondò la «Congregazione degli schiavi del dolcissimo nome di Maria».
@@ -1546,8 +1546,8 @@ NOTE:
 [^tdvdam-ftn219]: Cfr. VD 33.
 [^tdvdam-ftn220]: Cfr. VD 20-21, 34-36.
 [^tdvdam-ftn221]: «*La Chiesa pensando a Lei* (Maria) *con pietà filiale e contemplandola alla luce del Verbo fatto uomo, con venerazione penetra più profondamente nell’altissimo mistero dell’incarnazione e si va ognor più conformando col suo Sposo*» (*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art65" name="cos-lug_art65">65</span>.|Lumen Gentium, 65)]]*).
-[^tdvdam-ftn222]: San Germano di Costantinopoli, *Sermo 2 in Dormit. Deip.*, PG 98, 350.
-[^tdvdam-ftn223]: San Germano di Costantinopoli, *Orat. in sanctae Deiparae Zonam*, PG 98, 378-379.
+[^tdvdam-ftn222]: San Germano di Costantinopoli, *Sermo 2 in Dormit. Deip.*, *PG* 98, 350.
+[^tdvdam-ftn223]: San Germano di Costantinopoli, *Orat. in sanctae Deiparae Zonam*, *PG* 98, 378-379.
 [^tdvdam-ftn224]: Dall’Officio della Madonna.
 [^tdvdam-ftn225]: *<span class="BibleRef">[[2Mac 1,3.57|2Mac 1, 3.57]]</span>*.
 [^tdvdam-ftn226]: *<span class="BibleRef">[[1Cor 12,31|1Cor 12,31]]</span>*.
@@ -1559,9 +1559,9 @@ NOTE:
 [^tdvdam-ftn231]: *[[1Tm 6,20|1Tm 6,20]]*.
 	Cfr. SM 40.
 [^tdvdam-ftn232]: *[[Sal 119,141|Sal 119, 141]]*.
-[^tdvdam-ftn233]: Testo latino: «*Ipsa tenente, non corruis; ipsa protegente, non metuis; ipsa duce, non fatigaris ipsa propitia, pervenis*» (*Hom. super Missus est*, n. 17, PL 183, 71 A).
+[^tdvdam-ftn233]: Testo latino: «*Ipsa tenente, non corruis; ipsa protegente, non metuis; ipsa duce, non fatigaris ipsa propitia, pervenis*» (*Hom. super Missus est*, n. 17, *PL* 183, 71 A).
 [^tdvdam-ftn234]: Testo latino: «*Virgo non solum in plenitudine sanctorum detinetur, sed etiam in plenitudine sanctos detinet, ne plenitudo minuatur; detinet virtutes ne fugiant; detinet merita ne pereant; detinet gratias ne effluant; detinet daemones ne noceant; detinet Filium ne peccatores percutiat*» (inter opera. Oggi attribuito a Corrado Di Sassonia, *Speculum B.V.M.* lect. 7, par. 6).
-[^tdvdam-ftn235]: *Hom. in Dorm. B.V.M.*, n. 14, PG 96, 719.
+[^tdvdam-ftn235]: *Hom. in Dorm. B.V.M.*, n. 14, *PG* 96, 719.
 [^tdvdam-ftn236]: *[[Sir 24,30|Sir 24,30]]*.
 	Cfr. VD 264.
 [^tdvdam-ftn237]: *[[2Tm 2,13|2Tm 2,13]]*: «*Se noi manchiamo di fede,* (Gesù) *però rimane fedele perché non può rinnegare se stesso*». Testo che il Montfort applica alla ss. Vergine.
@@ -1577,7 +1577,7 @@ NOTE:
 [^tdvdam-ftn245]: *<span class="BibleRef">[[Gn 27,1-44|Gen 27,1-44]]</span>*.
 [^tdvdam-ftn246]: Cfr. *<span class="BibleRef">[[Gn 25,33|Gen 25,33]]</span>*.
 [^tdvdam-ftn247]: Al di là della esegesi pura e semplice che mette in rilievo sia l’astuzia di Rebecca e la menzogna di Giacobbe, sia taluni aspetti della mentalità orientale emergenti dal racconto, il Montfort sottolinea l’azione di Dio che ha preferito Giacobbe (cfr. *<span class="BibleRef">[[Ml 1,2|Ml 1,2]]</span>* s., *<span class="BibleRef">[[Rm 9,13|Rm 9,13]]</span>*; *<span class="BibleRef">[[Eb 11,20|Eb 11,20]]</span>*; *<span class="BibleRef">[[Eb 12,16|Eb 12,16]]</span>*),l’attività di Maria nella storia della salvezza e insieme l’atteggiamento spirituale del cristiano verso di lei.
-[^tdvdam-ftn248]: Tra gli altri: Sant’Ambrogio, *De Jacob et vita beata*, L . 2, c. 2, n. 9, PL 14, 648 (qui Rebecca è figura della Chiesa), San Bernardo, *Serm. 28 in Cant.*, PL 183, 922-923; San Antonino, *Summa theol.*, pars 4, tit . c. 14, par. 3; Riccardo di San Lorenzo, *De laudibus B.M.V.*, L. 5 .
+[^tdvdam-ftn248]: Tra gli altri: Sant’Ambrogio, *De Jacob et vita beata*, L . 2, c. 2, n. 9, *PL* 14, 648 (qui Rebecca è figura della Chiesa), San Bernardo, *Serm. 28 in Cant.*, *PL* 183, 922-923; San Antonino, *Summa theol.*, pars 4, tit . c. 14, par. 3; Riccardo di San Lorenzo, *De laudibus B.M.V.*, L. 5 .
 [^tdvdam-ftn249]: Cfr. *<span class="BibleRef">[[Gn 4,8|Gen 4,8]]</span>*.
 	Stessa allusione in VD 54,210.
 [^tdvdam-ftn250]: San Gregorio Magno, *Moralia*, L. 32, c. 22, n. 46: *In terrenis fortes, in caelestibus debiles*.
@@ -1589,8 +1589,8 @@ NOTE:
 [^tdvdam-ftn256]: *<span class="BibleRef">[[Pr 3,9|Pr 3,9]]</span>*.
 [^tdvdam-ftn257]: *<span class="BibleRef">[[Gn 27,8|Gen 27,8]]</span>*.
 [^tdvdam-ftn258]: *<span class="BibleRef">[[Gv 2,5|Gv 2,5]]</span>*.
-[^tdvdam-ftn259]: Testo latino : «*Ne credideris maioris esse felicitutis habiture in sinu Abrahae quam in sinu Mariae, cum in eo Dominus posuerit thronum suum*» (Guerrico, *Serm. in Assumpt.*, n. 4, PL 185, 189).
-[^tdvdam-ftn260]: San Gregorio Magno, *Hom. 36 in Evang.*, L. 2, PL 76, 1266.
+[^tdvdam-ftn259]: Testo latino : «*Ne credideris maioris esse felicitutis habiture in sinu Abrahae quam in sinu Mariae, cum in eo Dominus posuerit thronum suum*» (Guerrico, *Serm. in Assumpt.*, n. 4, *PL* 185, 189).
+[^tdvdam-ftn260]: San Gregorio Magno, *Hom. 36 in Evang.*, L. 2, *PL* 76, 1266.
 	Cfr. VD 48.
 [^tdvdam-ftn261]: *<span class="BibleRef">[[Pr 8,32|Pr 8,32]]</span>*.
 [^tdvdam-ftn262]: *<span class="BibleRef">[[Sal 119,21|Sal 119,21]]</span>*.
@@ -1639,7 +1639,7 @@ NOTE:
 [^tdvdam-ftn298]: San Bonaventura (inter opera), *Psalt Maius.* Dal testo latino: «*Tuus totus ego sum, et omnia mea tua sunt, o Virgo gloriosa, super omnia benedicta...*». «*Sono tutto Tuo, o Maria, e tutto ciò che ho è Tuo. Sii tu mia guida in tutto*» ([[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II], **Omelia dell’8. 12.1978, in Santa Maria Maggiore**).
 [^tdvdam-ftn299]: *<span class="BibleRef">[[Sal 131,1-2|Sal 131,1-2]]</span>*.
 [^tdvdam-ftn300]: Raimondo Giordano (Idiota): *Ipsa est thesaurus Domini*.
-[^tdvdam-ftn301]: Sant’Ambrogio, *Expos. in Luc.* II, n. 26, PL 15, 1642. Cfr. SM 54; VD 258.
+[^tdvdam-ftn301]: Sant’Ambrogio, *Expos. in Luc.* II, n. 26, *PL* 15, 1642. Cfr. SM 54; VD 258.
 [^tdvdam-ftn302]: «*Ut adveniat regnum tuum, adveniat regnum Mariae*»: motto forse creato dal Montfort.
 [^tdvdam-ftn303]: *<span class="BibleRef">[[Lc 5,5|Lc 5,5]]</span>*.
 [^tdvdam-ftn304]: *<span class="BibleRef">[[Ag 1,6|Ag 1,6]]</span>*.
@@ -1648,12 +1648,12 @@ NOTE:
 [^tdvdam-ftn307]: *<span class="BibleRef">[[Mt 23,23|Mt 23,23]]</span>*.
 [^tdvdam-ftn308]: Cfr. San Francesco Di Sales, *Trattenimenti spirituali*, 1.
 [^tdvdam-ftn309]: *<span class="BibleRef">[[Mt 5,16|Mt 5,16]]</span>*.
-[^tdvdam-ftn310]: San Gregorio Magno, *Hom. 2 in Evang.*, n. 1, PL 76, 1115.
+[^tdvdam-ftn310]: San Gregorio Magno, *Hom. 2 in Evang.*, n. 1, *PL* 76, 1115.
 [^tdvdam-ftn311]: Nel 1899, a Ottawa (Canada), Mons. Duhamel istituisce la prima Confraternita di Maria Regina dei cuori. Nel 1913, [[Scheda 257° papa - Pio X|Pio X]] dichiara Arciconfraternita la sede di Roma. Il 16.7.1955, la S. Sede dichiara propriae le due distinte associazioni per i fedeli e i sacerdoti, e il 5.7.1956 ne approva i nuovi statuti. La direzione generale è a Roma, Viale dei Monfortani, 65.
 [^tdvdam-ftn312]: Cfr. VD 78-79.
-[^tdvdam-ftn313]: San Bernardo, PL 184, 490 B.
+[^tdvdam-ftn313]: San Bernardo, *PL* 184, 490 B.
 [^tdvdam-ftn314]: *<span class="BibleRef">[[Lc 18,41|Lc 18,41]]</span>*.
-[^tdvdam-ftn315]: Sant’Agostino, PL 33, 885.
+[^tdvdam-ftn315]: Sant’Agostino, *PL* 33, 885.
 [^tdvdam-ftn316]: Cfr. VD 216 e 266.
 [^tdvdam-ftn317]: *<span class="BibleRef">[[Ap 12,1|Ap 12,1]]</span>*.
 [^tdvdam-ftn318]: Testo latino: «*Dignare me laudare te, Virgo sacrata, da mihi virtutem contra hostes tuos*».
@@ -1673,7 +1673,7 @@ NOTE:
 [^tdvdam-ftn330]: Cfr. *<span class="BibleRef">[[Ef 3,1|Ef 3,1]]</span>*: *Vincti Christi*.
 [^tdvdam-ftn331]: Luigi Tronson (1622-1700), dal 1676 terzo superiore di San Sulpizio, consultato dal Montfort stesso mentre era seminarista .
 [^tdvdam-ftn332]: «*O Gesù, vivente in Maria,<br>vieni a vivere nell’anima dei tuoi servi,<br>nel tuo spirito di santità,<br>nella pienezza dei tuoi doni,<br>nella perfezione delle tue vie,<br>nella verità delle tue virtù,<br>nella comunione dei tuoi misteri.<br>Domina in noi su tutte le potenze nemiche:<br>il mondo, il demonio e la carne,<br>nella virtù del tuo Spirito,<br>alla gloria del Padre.<br>Amen*».
-[^tdvdam-ftn333]: Sant’Ambrogio, *De institut. Virgin. et S. Mariae Virg. perpetua*, ad Eusebium, c. 7, n. 50, PL 16, 333: *aula sacramentorum*.
+[^tdvdam-ftn333]: Sant’Ambrogio, *De institut. Virgin. et S. Mariae Virg. perpetua*, ad Eusebium, c. 7, n. 50, *PL* 16, 333: *aula sacramentorum*.
 [^tdvdam-ftn334]: *<span class="BibleRef">[[Eb 10,5-9|Eb 10,5-9]]</span>*.
 [^tdvdam-ftn335]: *<span class="BibleRef">[[Eb 4,16|Eb 4,16]]</span>*.
 [^tdvdam-ftn336]: Cfr. VD 6: *Magnificentia Dei*.
@@ -1687,7 +1687,7 @@ NOTE:
 [^tdvdam-ftn342]: *<span class="BibleRef">[[Lc 1,51|Lc 1,51]]</span>*.
 [^tdvdam-ftn343]: Purtroppo la prima parte del manoscritto non ci è pervenuta.
 [^tdvdam-ftn344]: *<span class="BibleRef">[[Rm 8,14|Rm 8,14]]</span>*.
-[^tdvdam-ftn345]: Sant’Ambrogio, PL 15, 1642.
+[^tdvdam-ftn345]: Sant’Ambrogio, *PL* 15, 1642.
 	Cfr. VD 217.
 [^tdvdam-ftn346]: Sant’Alfonso Rodriguez(1531-1617), fratello coadiutore della Compagnia di Gesù, **canonizzato il 15.1.1888** da [[Scheda 256° papa - Leone XIII|Leone XIII]].
 [^tdvdam-ftn347]: «*Maria... rifulge come modello di virtù davanti a tutta la comunità degli eletti*» (*[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art65" name="cos-lug_art65">65</span>.|Lumen Gentium, 65)]]*).
@@ -1703,7 +1703,7 @@ NOTE:
 [^tdvdam-ftn357]: *<span class="BibleRef">[[Sal 4,10|Sal 4,10]]</span>*.
 [^tdvdam-ftn358]: *<span class="BibleRef">[[Ct 3,4|Ct 3,4]]</span>*.
 [^tdvdam-ftn359]: *<span class="BibleRef">[[Sal 132,8|Sal 132,8]]</span>*.
-[^tdvdam-ftn360]: San Bernardo, Serm. de Aquaedustu n. 7, PL 183, 441 D.
+[^tdvdam-ftn360]: San Bernardo, Serm. de Aquaedustu n. 7, *PL* 183, 441 D.
 [^tdvdam-ftn361]: *<span class="BibleRef">[[Sal 95,6|Sal 95,6]]</span>*.
 [^tdvdam-ftn362]: *<span class="BibleRef">[[Mt 13,28|Mt 13,28]]</span>*.
 [^tdvdam-ftn363]: *<span class="BibleRef">[[Sal 42,1|Sal 42,1]]</span>*.
