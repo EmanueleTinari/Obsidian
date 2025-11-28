@@ -122,7 +122,7 @@ Noi peraltro, restando in quel modo d’agire paterno che abbiamo usato finora c
 Dato a Roma, presso San Pietro, il 19 aprile 1792, nel diciottesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
