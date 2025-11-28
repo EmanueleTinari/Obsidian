@@ -77,7 +77,7 @@ Da parte di tutti i giudici si dovrà valutare e definire sulla scorta di quanto
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 6 marzo 1779, anno quinto del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
