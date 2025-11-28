@@ -92,7 +92,7 @@ Mentre dunque preghiamo Dio con umiltà di cuore e animo afflitto, perché conce
 Dato a Castel Gandolfo, il 14 giugno 1761, nell’anno terzo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
