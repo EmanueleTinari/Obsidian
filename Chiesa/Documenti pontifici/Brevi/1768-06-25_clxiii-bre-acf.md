@@ -79,7 +79,7 @@ Vogliamo poi che alle copie della presente Lettera, ossia esemplari anche stampa
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 25 giugno 1768, nell’anno decimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
