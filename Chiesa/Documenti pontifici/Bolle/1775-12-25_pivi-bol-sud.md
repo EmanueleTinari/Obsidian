@@ -140,12 +140,12 @@ Nessuno ardisca violare la Nostra pagina di estensione, di esortazione, di commi
 Dato a Roma, presso San Pietro, nell’anno dell’Incarnazione del Signore 1775, il 25 dicembre, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
