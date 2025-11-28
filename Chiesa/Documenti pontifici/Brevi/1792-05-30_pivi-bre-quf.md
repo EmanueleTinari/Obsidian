@@ -67,7 +67,7 @@ Quanto sopra, nonostante le Costituzioni apostoliche emanate nei Concilii genera
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 30 maggio 1792, anno diciottesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
