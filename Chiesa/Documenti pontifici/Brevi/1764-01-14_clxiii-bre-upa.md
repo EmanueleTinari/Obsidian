@@ -62,7 +62,7 @@ Intanto vi supplichiamo e scongiuriamo nel nome di Dio, Venerabili Fratelli e di
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 14 gennaio 1764, anno sesto da Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
