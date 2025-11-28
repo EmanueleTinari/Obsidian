@@ -94,12 +94,12 @@ A nessuno dunque sia assolutamente lecito strappare questa pagina delle Nostre c
 Dato a Roma, presso San Pietro, nell’anno dell’Incarnazione del Signore 1797, il 30 dicembre, nell’anno ventesimo terzo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
