@@ -72,7 +72,7 @@ In verità, né più convenientemente né con maggiore speranza di profitto giun
 Dato a Roma, presso Santa Maria Maggiore, il 20 dicembre 1759, nell’anno secondo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
