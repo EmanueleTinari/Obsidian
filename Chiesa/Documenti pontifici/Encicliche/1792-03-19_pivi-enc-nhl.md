@@ -212,7 +212,7 @@ Nell’immensità della Sua benevolenza, Dio voglia dar forza alle Nostre cure p
 Dato a Roma, presso San Pietro, il 19 marzo 1792, anno diciottesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
