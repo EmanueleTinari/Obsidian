@@ -69,12 +69,12 @@ Nonostante le Costituzioni e le disposizioni apostoliche, nonché il giuramento 
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 4 settembre 1829, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VIII `class: firmaC`
+Pius PP. VIII `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
