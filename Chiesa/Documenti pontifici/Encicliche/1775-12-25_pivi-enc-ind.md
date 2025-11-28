@@ -97,7 +97,7 @@ Sono queste, Venerabili Fratelli, le cose delle quali desideravamo in particolar
 Dato a Roma, presso San Pietro, il 25 dicembre 1775, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
