@@ -55,12 +55,12 @@ Tutto il mondo ha ammirato la Vostra costanza nel conservare l’unità della Ch
 Dato dalla Certosa di San Cassiano, presso Firenze, sotto l’anello del Pescatore, il 10 novembre 1798, nell’anno ventiquattresimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
