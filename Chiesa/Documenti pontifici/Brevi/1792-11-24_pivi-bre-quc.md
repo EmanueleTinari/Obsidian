@@ -122,7 +122,7 @@ Vogliamo inoltre che ai testi della presente lettera, sia in copia, sia a stampa
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 24 novembre 1792, anno diciottesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
