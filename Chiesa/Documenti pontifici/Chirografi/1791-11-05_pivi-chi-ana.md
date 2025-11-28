@@ -74,7 +74,7 @@ Decidiamo e decretiamo inoltre che questo Nostro chirografo abbia piena esecuzio
 Dato dal Nostro palazzo apostolico al Quirinale oggi, Sabato, 5 Novembre 1791 `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
