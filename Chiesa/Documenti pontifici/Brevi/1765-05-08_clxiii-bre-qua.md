@@ -77,7 +77,7 @@ Pensiamo che abbiate approvato la nostra moderazione riguardo ai due Vescovi di 
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il giorno 8 maggio 1765, nell’anno settimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
