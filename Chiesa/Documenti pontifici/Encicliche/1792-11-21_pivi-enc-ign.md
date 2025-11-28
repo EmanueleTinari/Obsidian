@@ -87,7 +87,7 @@ Moltissimi sono i premi che Dio ottimo e massimo ha promesso e che sempre ha dat
 Dato a Roma, presso San Pietro, il 21 novembre 1792, anno diciottesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
