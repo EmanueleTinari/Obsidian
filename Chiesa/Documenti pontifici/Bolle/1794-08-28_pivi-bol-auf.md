@@ -1423,12 +1423,12 @@ Comandiamo dunque a tutti i fedeli dell’uno e dell’altro sesso che non presu
 Dato a Roma, presso Santa Maria Maggiore, l’anno dell’Incarnazione di Nostro Signore 1794, il 28 agosto, anno ventesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
