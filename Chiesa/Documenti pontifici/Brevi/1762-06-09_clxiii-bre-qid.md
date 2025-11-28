@@ -77,7 +77,7 @@ Questo compito chiedono da Voi la Santa Madre Chiesa, l’amore verso la patria,
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 9 giugno 1762, nell’anno quarto del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
