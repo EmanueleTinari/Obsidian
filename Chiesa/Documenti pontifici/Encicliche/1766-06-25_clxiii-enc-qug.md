@@ -62,7 +62,7 @@ Peraltro siamo convintissimi che al Re Cristianissimo non è stato prospettato q
 Dato a Roma, il 25 giugno 1766, ottavo anno nel Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
