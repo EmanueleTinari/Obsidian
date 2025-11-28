@@ -254,7 +254,7 @@ Vogliamo che alle copie della presente Lettera, ancorché stampate, sottoscritte
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 21 luglio 1773, anno quinto del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIV `class: firmaC`
+Clementis PP. XIV `class: firmaC`
 
 
 ***
