@@ -77,7 +77,7 @@ Pertanto confortatevi, Venerabili Fratelli nel Signore, e per la potenza del suo
 Dato a Roma, presso San Pietro, il 19 Marzo 1792, anno diciottesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
