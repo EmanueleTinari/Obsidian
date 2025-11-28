@@ -62,7 +62,7 @@ Pertanto, Venerabili Fratelli, che lo Spirito Santo pose quali Vescovi a reggere
 Dato a Roma, presso Santa Maria Maggiore, il 25 novembre 1766, nell’anno nono del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
