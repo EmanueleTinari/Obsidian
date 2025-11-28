@@ -67,7 +67,7 @@ Questo disponiamo nonostante le leggi apostoliche confermate nei Concili univers
 Dato a Terracina, sotto l’anello del Pescatore, il 4 maggio 1791, anno diciassettesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
