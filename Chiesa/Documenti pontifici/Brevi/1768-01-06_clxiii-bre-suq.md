@@ -72,7 +72,7 @@ Sappiano perciò che la più importante parte del loro ministero è che essi ste
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 6 gennaio 1768, nell’anno decimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
