@@ -114,12 +114,12 @@ A nessuno dunque sia assolutamente lecito strappare questa pagina delle Nostre c
 Dato dal cenobio dei Certosini presso Firenze, nell’anno dell’Incarnazione del Signore 1798, il 13 novembre, nell’anno ventesimo quarto del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
