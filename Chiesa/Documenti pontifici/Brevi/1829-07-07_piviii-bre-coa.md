@@ -87,12 +87,12 @@ D’altra parte, diletti figli, le Nostre cure e i Nostri pensieri sono sempre r
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 7 luglio 1829, nel primo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VIII `class: firmaC`
+Pius PP. VIII `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
