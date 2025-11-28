@@ -84,12 +84,12 @@ Deroghiamo nonostante le Costituzioni e le Regole Apostoliche, specialmente quel
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 18 giugno 1829, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VIII `class: firmaC`
+Pius PP. VIII `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
