@@ -21,7 +21,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/archive/cod-iuris-canonici/cic_index_it.html)"
 creato: 2025/05/02 00:23:28
-modificato: 2025/11/10 14:07:04
+modificato: 2025/11/28 18:17:43
 ---
 
 
@@ -3074,16 +3074,326 @@ L'ufficio di Legato pontificio non cessa quando diviene vacante la Sede Apostoli
 ##### CAPITOLO I. LE CHIESE PARTICOLARI
 
 
+###### Canone 368
+
+Le Chiese particolari, nelle quali e dalle quali sussiste la sola e unica Chiesa cattolica, sono innanzitutto le diocesi, alle quali, se non consta altro, vengono assimilate la prelatura territoriale e l'abbazia territoriale, il vicariato apostolico e la prefettura apostolica e altresì l'amministrazione apostolica eretta stabilmente.
+
+
+###### Canone 369
+
+La diocesi è la porzione del popolo di Dio che viene affidata alla cura pastorale del Vescovo con la cooperazione del presbiterio, in modo che, aderendo al suo pastore e da lui riunita nello Spirito Santo mediante il Vangelo e l'Eucaristia, costituisca una Chiesa particolare in cui è veramente presente e operante la Chiesa di Cristo una, santa, cattolica e apostolica.
+
+
+###### Canone 370
+
+La prelatura territoriale, o l'abbazia territoriale, è una determinata porzione del popolo di Dio, circoscritta territorialmente, la cura della quale viene affidata, per circostanze speciali, ad un Prelato o ad un Abate che la governa a modo di Vescovo diocesano, come suo pastore proprio.
+
+###### Canone 371
+
+§ 1. Il vicariato apostolico, o la prefettura apostolica, è una determinata porzione del popolo di Dio che, per circostanze peculiari, non è ancora stata costituita come diocesi ed è affidata alla cura pastorale di un Vicario apostolico o di un Prefetto apostolico, che la governano in nome del Sommo Pontefice. ^ccar-cic-c371-c1
+
+§ 2. L'amministrazione apostolica è una determinata porzione del popolo di Dio che, per ragioni speciali e particolarmente gravi, non viene eretta come diocesi dal Sommo Pontefice e la cui cura pastorale viene affidata ad un Amministratore apostolico, che la governa in nome del Sommo Pontefice. ^ccar-cic-c371-c2
+
+
+###### Canone 372
+
+§ 1. Di regola la porzione del popolo di Dio, che costituisce una diocesi o un'altra Chiesa particolare, sia circoscritta entro un determinato territorio, in modo da comprendere tutti i fedeli che abitano in quel territorio. ^ccar-cic-c372-c1
+
+§ 2. Tuttavia, dove a giudizio della suprema autorità della Chiesa, sentite le Conferenze Episcopali interessate, l'utilità lo suggerisca, nello stesso territorio possono essere erette Chiese particolari distinte sulla base del rito dei fedeli o per altri simili motivi. ^ccar-cic-c372-c2
+
+
+###### Canone 373
+
+Spetta unicamente alla suprema autorità erigere Chiese particolari; queste, una volta legittimamente erette, godono per il diritto stesso di personalità giuridica.
+
+
+###### Canone 374
+
+§ 1. Ogni diocesi o altra Chiesa particolare sia divisa in parti distinte o parrocchie. ^ccar-cic-c374-c1
+
+§ 2. Per favorire la cura pastorale mediante un'azione comune, più parrocchie vicine possono essere riunite in peculiari raggruppamenti, quali sono i vicariati foranei. ^ccar-cic-c374-c2
+
+
 ##### CAPITOLO II. I VESCOVI
 
 
 Articolo 1. I Vescovi in genere ^ccar-cic-l2p2s2t1c2a1
 
 
+###### Canone 375
+
+§ 1. I Vescovi, che per divina istituzione sono successori degli Apostoli, mediante lo Spirito Santo che è stato loro donato, sono costituiti Pastori nella Chiesa, perché siano anch'essi maestri di dottrina, sacerdoti del sacro culto e ministri del governo. ^ccar-cic-c375-c1
+
+§ 2. Con la stessa consacrazione episcopale i Vescovi ricevono, con l'ufficio di santificare, anche gli uffici di insegnare e governare, i quali tuttavia, per loro natura, non possono essere esercitati se non nella comunione gerarchica col Capo e con le membra del Collegio. ^ccar-cic-c375-c2
+
+
+###### Canone 376
+
+Si chiamano *diocesani* i Vescovi ai quali è stata affidata la cura di una diocesi; gli altri si chiamano *titolari*.
+
+
+###### Canone 377
+
+§ 1. Il Sommo Pontefice nomina liberamente i Vescovi, oppure conferma quelli che sono stati legittimamente eletti. ^ccar-cic-c377-c1
+
+§ 2. Almeno ogni triennio i Vescovi di una provincia ecclesiastica, oppure, dove le circostanze lo suggeriscono, le Conferenze Episcopali, mediante una consultazione comune e segreta, compilino un elenco di presbiteri, anche membri di istituti di vita consacrata, che risultino particolarmente idonei all'episcopato, e lo trasmettano alla Sede Apostolica, fermo restando il diritto di ciascun Vescovo di presentare separatamente alla Sede Apostolica i nomi dei presbiteri che giudica degni e idonei alla funzione episcopale. ^ccar-cic-c377-c2
+
+§ 3. A meno che non sia stato stabilito legittimamente in modo diverso, ogni volta che deve essere nominato un Vescovo diocesano o un Vescovo coadiutore, per proporre la cosiddetta terna alla Sede Apostolica, spetta al Legato pontificio ricercare singolarmente e comunicare alla stessa Sede Apostolica, insieme con il suo voto, ciò che suggeriscono il Metropolita e i Suffraganei della provincia, alla quale appartiene la diocesi a cui occorre provvedere o con la quale è aggregata, e altresì il presidente della Conferenza Episcopale; il Legato pontificio inoltre ascolti alcuni del collegio dei consultori e del capitolo cattedrale e, se lo riterrà opportuno, richieda anche singolarmente e in segreto il parere di altri, del clero diocesano e religioso, come pure di laici distinti per saggezza. ^ccar-cic-c377-c3
+
+§ 4. Se non è stato legittimamente disposto in modo diverso, il Vescovo diocesano che ritenga si debba dare un ausiliare alla sua diocesi, proponga alla Sede Apostolica un elenco di almeno tre presbiteri idonei a tale ufficio. ^ccar-cic-c377-c4
+
+§ 5. Per il futuro non verrà concesso alle autorità civili alcun diritto e privilegio di elezione, nomina, presentazione o designazione dei Vescovi. ^ccar-cic-c377-c5
+
+
+###### Canone 378
+
+§ 1. Per l'idoneità di un candidato all'episcopato, si richiede che: ^ccar-cic-c378-c1
+1) sia eminente per fede salda, buoni costumi, pietà, zelo per le anime, saggezza, prudenza e virtù umane, e inoltre dotato di tutte le altre qualità che lo rendono adatto a compiere l'ufficio in questione; ^ccar-cic-c378-c1-n1
+2) goda di buona reputazione; ^ccar-cic-c378-c1-n2
+3) abbia almeno trentacinque anni di età; ^ccar-cic-c378-c1-n3
+4) sia presbitero almeno da cinque anni; ^ccar-cic-c378-c1-n4
+5) abbia conseguito la laurea dottorale o almeno la licenza in sacra Scrittura, teologia o diritto canonico in un istituto di studi superiori approvato dalla Sede Apostolica, oppure sia almeno veramente esperto in tali discipline. ^ccar-cic-c378-c1-n5
+
+§ 2. Il giudizio definitivo sull'idoneità del candidato spetta alla Sede Apostolica. ^ccar-cic-c378-c2
+
+
+###### Canone 379
+
+Se non è legittimamente impedito, chi è promosso all'Episcopato deve ricevere la consacrazione episcopale, entro tre mesi dalla ricezione della lettera apostolica, e comunque prima che prenda possesso del suo ufficio.
+
+
+###### Canone 380
+
+Prima di prendere possesso canonico del suo ufficio, colui che è stato promosso emetta la professione di fede e presti giuramento di fedeltà alla Sede Apostolica, secondo la formula approvata dalla stessa Sede Apostolica.
+
+
 Articolo 2. I Vescovi diocesani ^ccar-cic-l2p2s2t1c2a2
 
 
+###### Canone 381
+
+§ 1. Compete al Vescovo diocesano nella diocesi affidatagli tutta la potestà ordinaria, propria e immediata che è richiesta per l'esercizio del suo ufficio pastorale, fatta eccezione per quelle cause che dal diritto o da un decreto del Sommo Pontefice sono riservate alla suprema oppure ad altra autorità ecclesiastica. ^ccar-cic-c381-c1
+
+§ 2. Nel diritto sono equiparati al Vescovo diocesano, a meno che non risulti diversamente per la natura della cosa o per una disposizione del diritto, coloro che presiedono le altre comunità di fedeli di cui nel [[Documenti vari/ccar-cic#Canone 368|can. 368]]. ^ccar-cic-c381-c2
+
+
+###### Canone 382
+
+§ 1. Il Vescovo promosso non può intromettersi nell'esercizio dell'ufficio affidatogli, se prima non ha preso possesso canonico della diocesi; tuttavia può esercitare gli uffici che già aveva nella medesima diocesi al momento della promozione, fermo restando il disposto del [[Documenti vari/ccar-cic#^ccar-cic-c409-c2|can. 409, § 2]]. ^ccar-cic-c382-c1
+
+§ 2. Se non è legittimamente impedito, colui che è promosso all'ufficio di Vescovo diocesano deve prendere possesso canonico della sua diocesi entro quattro mesi dalla ricezione della lettera apostolica, se non è già stato consacrato Vescovo; entro due mesi dalla ricezione se è già consacrato. ^ccar-cic-c382-c2
+
+§ 3. Il Vescovo prende possesso canonico della diocesi nel momento in cui esibisce nella diocesi stessa, personalmente o mediante un procuratore, la lettera apostolica al collegio dei consultori, alla presenza del cancelliere della curia, che mette agli atti il fatto, oppure, nelle diocesi di nuova erezione, nel momento in cui comunica al clero e al popolo presenti nella chiesa cattedrale tale lettera, mentre il presbitero più anziano tra i presenti mette agli atti il fatto. ^ccar-cic-c382-c3
+
+§ 4. Si raccomanda vivamente che la presa di possesso canonico avvenga nella chiesa cattedrale con un atto liturgico, alla presenza del clero e del popolo. ^ccar-cic-c382-c4
+
+
+###### Canone 383
+
+§ 1. Nell'esercizio del suo ufficio di pastore, il Vescovo diocesano si mostri sollecito nei confronti di tutti i fedeli che sono affidati alla sua cura, di qualsiasi età, condizione o nazione, sia di coloro che abitano nel territorio sia di coloro che vi si trovano temporaneamente, rivolgendosi con animo apostolico anche verso coloro che per la loro situazione di vita non possono usufruire sufficientemente della cura pastorale ordinaria, come pure verso quelli che si sono allontanati dalla pratica religiosa. ^ccar-cic-c383-c1
+
+§ 2. Se ha nella propria diocesi fedeli di rito diverso, provveda alle loro necessità spirituali sia mediante sacerdoti o parrocchie del medesimo rito, sia mediante un Vicario episcopale. ^ccar-cic-c383-c2
+
+§ 3. Abbia un atteggiamento di umanità e di carità nei confronti dei fratelli che non sono nella piena comunione con la Chiesa cattolica, favorendo anche l'ecumenismo, come viene inteso dalla Chiesa. ^ccar-cic-c383-c3
+
+§ 4. Consideri affidati a sé nel Signore i non battezzati, affinché risplenda anche per loro la carità di Cristo, di cui il Vescovo deve essere testimone di fronte a tutti. ^ccar-cic-c383-c4
+
+
+###### Canone 384
+
+Il Vescovo diocesano segua con particolare sollecitudine i presbiteri che deve ascoltare come collaboratori e consiglieri, difenda i loro diritti e curi che adempiano fedelmente gli obblighi propri del loro stato e che abbiano a disposizione i mezzi e le istituzioni di cui hanno bisogno per alimentare la vita spirituale e intellettuale; così pure faccia in modo che si provveda al loro onesto sostentamento e all'assistenza sociale, a norma del diritto.
+
+
+###### Canone 385
+
+Il Vescovo diocesano favorisca in sommo grado le vocazioni ai diversi ministeri e alla vita consacrata, avendo cura in modo speciale delle vocazioni sacerdotali e missionarie.
+
+
+###### Canone 386
+
+§ 1. Il Vescovo diocesano è tenuto a proporre e spiegare ai fedeli le verità di fede che si devono credere e applicare nei costumi, predicando personalmente con frequenza; abbia anche cura che si osservino fedelmente le disposizioni dei canoni che riguardano il ministero della parola, soprattutto l'omelia e la formazione catechistica, in modo che venga offerta a tutti l'intera dottrina cristiana. ^ccar-cic-c386-c1
+
+§ 2. Difenda con fermezza, usando i mezzi più adatti, l'integrità e l'unità della fede che si deve professare, riconoscendo tuttavia la giusta libertà nell'ulteriore approfondimento delle verità. ^ccar-cic-c386-c2
+
+
+###### Canone 387
+
+Il Vescovo diocesano, consapevole di essere tenuto ad offrire un esempio di santità nella carità, nell'umiltà e nella semplicità di vita, si impegni a promuovere con ogni mezzo la santità dei fedeli, secondo la vocazione propria di ciascuno, ed essendo il principale dispensatore dei misteri di Dio, si adoperi di continuo perché i fedeli affidati alle sue cure crescano in grazia mediante la celebrazione dei sacramenti e perché conoscano e vivano il mistero pasquale.
+
+
+###### Canone 388
+
+§ 1. Il Vescovo diocesano, dopo aver preso possesso della diocesi, deve applicare la Messa per il popolo che gli è affidato, ogni domenica e nelle altre feste che nella sua regione sono di precetto. ^ccar-cic-c388-c1
+
+§ 2. Il Vescovo deve celebrare ed applicare personalmente la Messa per il popolo nei giorni di cui al §1; se però ne è legittimamente impedito, la applichi in tali giorni tramite un altro, o personalmente in giorni diversi. ^ccar-cic-c388-c2
+
+§ 3. Il Vescovo al quale sono affidate, oltre alla propria, altre diocesi, anche a titolo di amministrazione, soddisfa l'obbligo applicando una sola Messa per tutto il popolo che gli è affidato. ^ccar-cic-c388-c3
+
+§ 4. Il Vescovo che non abbia soddisfatto l'obbligo di cui ai §§ [[Documenti vari/ccar-cic#^ccar-cic-c388-c1|1]] - [[Documenti vari/ccar-cic#^ccar-cic-c388-c3|3]], applichi quanto prima per il popolo tante Messe quante ne ha tralasciate. ^ccar-cic-c388-c4
+
+
+###### Canone 389
+
+Presieda frequentemente nella chiesa cattedrale o in un'altra chiesa della sua diocesi alla celebrazione della santissima Eucaristia, soprattutto nelle feste di precetto e nelle altre solennità.
+
+
+###### Canone 390
+
+Il Vescovo diocesano può celebrare pontificali in tutta la sua diocesi; non però fuori della sua diocesi senza il consenso espresso, o almeno ragionevolmente presunto, dell'Ordinario del luogo.
+
+
+###### Canone 391
+
+§ 1. Spetta al Vescovo diocesano governare la Chiesa particolare a lui affidata con potestà legislativa, esecutiva e giudiziaria, a norma del diritto. ^ccar-cic-c391-c1
+
+§ 2. Il Vescovo esercita la potestà legislativa personalmente; esercita la potestà esecutiva sia personalmente sia mediante i Vicari generali o episcopali, a norma del diritto; esercita la potestà giudiziaria sia personalmente sia mediante il Vicario giudiziale e i giudici, a norma del diritto. ^ccar-cic-c391-c2
+
+
+###### Canone 392
+
+§ 1. Poiché deve difendere l'unità della Chiesa universale, il Vescovo è tenuto a promuovere la disciplina comune a tutta la Chiesa e perciò a urgere l'osservanza di tutte le leggi ecclesiastiche. ^ccar-cic-c392-c1
+
+§ 2. Vigili che non si insinuino abusi nella disciplina ecclesiastica, soprattutto nel ministero della parola, nella celebrazione dei sacramenti e dei sacramentali, nel culto di Dio e dei Santi e nell'amministrazione dei beni. ^ccar-cic-c392-c2
+
+
+###### Canone 393
+
+In tutti i negozi giuridici della diocesi, è il Vescovo diocesano che la rappresenta.
+
+
+###### Canone 394
+
+§ 1. Il Vescovo favorisca nella diocesi le diverse forme dell'apostolato e curi che in tutta la diocesi o nei suoi distretti particolari tutte le opere di apostolato, mentre conservano l'indole propria di ciascuna, siano coordinate sotto la sua direzione. ^ccar-cic-c394-c1
+
+§ 2. Solleciti l'adempimento del dovere, a cui sono tenuti i fedeli, di esercitare l'apostolato secondo la condizione e l'attitudine di ciascuno e li esorti a partecipare e a sostenere le varie opere di apostolato, secondo le necessità di luogo e di tempo. ^ccar-cic-c394-c2
+
+
+###### Canone 395
+
+§ 1. Il Vescovo diocesano, anche se ha il coadiutore o l'ausiliare, è tenuto alla legge della residenza personale in diocesi. ^ccar-cic-c395-c1
+
+§ 2. Tranne che a motivo della visita *ad Limina*, dei Concili, del sinodo dei Vescovi, della Conferenza Episcopale, a cui debba partecipare, oppure di un altro ufficio legittimamente affidatogli, può rimanere assente dalla diocesi per giusta causa non più di un mese, sia continuo sia interrotto, purché rimanga assicurato che per la sua assenza la diocesi non risenta alcun danno. ^ccar-cic-c395-c2
+
+§ 3. Non sia assente dalla diocesi nei giorni di Natale, della Settimana Santa e della Risurrezione del Signore, della Pentecoste e del Corpo e del Sangue di Cristo, se non per una causa grave e urgente. ^ccar-cic-c395-c3
+
+§ 4. Se il Vescovo è rimasto assente illegittimamente dalla diocesi più di sei mesi, il Metropolita informi la Sede Apostolica della sua assenza; se poi si tratta del Metropolita, faccia la stessa cosa il suffraganeo più anziano. ^ccar-cic-c395-c4
+
+
+###### Canone 396
+
+§ 1. Il Vescovo è tenuto all'obbligo di visitare ogni anno la diocesi, o tutta o in parte, in modo da visitare l'intera diocesi almeno ogni cinque anni, o personalmente oppure, se è legittimamente impedito, tramite il Vescovo coadiutore, o l'ausiliare, o il Vicario generale o episcopale, o un altro presbitero. ^ccar-cic-c396-c1
+
+§ 2. È in facoltà del Vescovo scegliere i chierici che preferisce come accompagnatori e aiutanti nella visita, riprovato ogni privilegio o consuetudine contraria. ^ccar-cic-c396-c2
+
+
+###### Canone 397
+
+§ 1. Sono soggetti alla visita ordinaria del Vescovo le persone, le istituzioni cattoliche, le cose e i luoghi sacri che sono nell'àmbito della diocesi. ^ccar-cic-c397-c1
+
+§ 2. Il Vescovo può visitare i membri degli istituti religiosi di diritto pontificio e le loro case solo nei casi espressamente previsti dal diritto. ^ccar-cic-c397-c2
+
+
+###### Canone 398
+
+Il Vescovo si impegni a compiere la visita pastorale con la dovuta diligenza; faccia attenzione a non gravare su alcuno con spese superflue.
+
+
+###### Canone 399
+
+§ 1. Il Vescovo diocesano è tenuto a presentare ogni cinque anni una relazione al Sommo Pontefice sullo stato della diocesi affidatagli, secondo la forma e il tempo stabiliti dalla Sede Apostolica. ^ccar-cic-c399-c1
+
+§ 2. Se l'anno fissato per la presentazione della relazione coincide in tutto o in parte con il primo biennio dall'inizio del governo della diocesi, il Vescovo, per quella volta, può astenersi dal compilare e presentare la relazione. ^ccar-cic-c399-c2
+
+
+###### Canone 400
+
+§ 1. Il Vescovo diocesano nell'anno in cui è tenuto a presentare la relazione al Sommo Pontefice, se non è stato stabilito diversamente dalla Sede Apostolica, si rechi nell'Urbe per venerare le tombe dei Beati Apostoli Pietro e Paolo e si presenti al Romano Pontefice. ^ccar-cic-c400-c1
+
+§ 2. Il Vescovo adempia personalmente tale obbligo, se non ne è legittimamente impedito; in tal caso vi soddisfi tramite il coadiutore, se lo ha, o l'ausiliare, oppure tramite un sacerdote idoneo del suo presbiterio, che risieda nella sua diocesi. ^ccar-cic-c400-c2
+
+§ 3. Il Vicario apostolico può soddisfare tale obbligo tramite un procuratore, anche residente nell'Urbe; il Prefetto apostolico non è tenuto a tale obbligo. ^ccar-cic-c400-c3
+
+
+###### Canone 401
+
+§ 1. Il Vescovo diocesano che abbia compiuto i settantacinque anni di età è invitato a presentare la rinuncia all'ufficio al Sommo Pontefice, il quale provvederà, dopo aver valutato tutte le circostanze. ^ccar-cic-c401-c1
+
+§ 2. Il Vescovo diocesano che per infermità o altra grave causa risultasse meno idoneo all'adempimento del suo ufficio, è vivamente invitato a presentare la rinuncia all'ufficio. ^ccar-cic-c401-c2
+
+
+###### Canone 402
+
+§ 1. Il Vescovo, la cui rinuncia all'ufficio sia stata accettata, mantiene il titolo di emerito della sua diocesi e, se lo desidera, può conservare l'abitazione nella stessa diocesi, a meno che in casi determinati, per speciali circostanze, la Sede Apostolica non provveda diversamente. ^ccar-cic-c402-c1
+
+§ 2. La Conferenza Episcopale deve curare che si provveda ad un adeguato e degno sostentamento del Vescovo che rinuncia, avuto presente tuttavia l'obbligo primario a cui è tenuta la diocesi per la quale ha prestato servizio. ^ccar-cic-c402-c2
+
+
 Articolo 3. I Vescovi coadiutori e ausiliari ^ccar-cic-l2p2s2t1c2a3
+
+
+###### Canone 403
+
+§ 1. Quando le necessità pastorali della diocesi lo suggeriscono, vengano costituiti, su richiesta del Vescovo diocesano, uno o più Vescovi ausiliari; il Vescovo ausiliare non ha diritto di successione. ^ccar-cic-c403-c1
+
+§ 2. In circostanze particolarmente gravi, anche di carattere personale, al Vescovo diocesano può essere assegnato un Vescovo ausiliare fornito di speciali facoltà. ^ccar-cic-c403-c2
+
+§ 3. La Santa Sede, se ciò le risulta più opportuno, può costituire d'ufficio un Vescovo coadiutore, che pure viene fornito di speciali facoltà; il Vescovo coadiutore ha il diritto di successione. ^ccar-cic-c403-c3
+
+
+###### Canone 404
+
+§ 1. Il Vescovo coadiutore prende possesso del suo ufficio quando esibisce, personalmente o mediante procuratore, la lettera apostolica di nomina al Vescovo diocesano e al collegio dei consultori, alla presenza del cancelliere di curia, che mette agli atti il fatto. ^ccar-cic-c404-c1
+
+§ 2. Il Vescovo ausiliare prende possesso del suo ufficio quando esibisce la lettera apostolica di nomina al Vescovo diocesano, alla presenza del cancelliere di curia, che mette agli atti il fatto. ^ccar-cic-c404-c2
+
+§ 3. Se il Vescovo diocesano è totalmente impedito, è sufficiente che, sia il Vescovo coadiutore sia il Vescovo ausiliare, esibiscano la lettera apostolica di nomina al collegio dei consultori, alla presenza del cancelliere della curia. ^ccar-cic-c404-c3
+
+
+###### Canone 405
+
+§ 1. Il Vescovo coadiutore, come pure il Vescovo ausiliare, hanno gli obblighi e i diritti determinati dalle disposizioni dei canoni che seguono e definiti nella lettera di nomina. ^ccar-cic-c405-c1
+
+§ 2. Il Vescovo coadiutore e il Vescovo ausiliare di cui nel [[Documenti vari/ccar-cic#^ccar-cic-c403-c2|can. 403, §2]] assistono il Vescovo diocesano in tutto il governo della diocesi e lo suppliscono se è assente o impedito. ^ccar-cic-c405-c2
+
+
+###### Canone 406
+
+§ 1. Il Vescovo coadiutore, come il Vescovo ausiliare di cui nel [[Documenti vari/ccar-cic#^ccar-cic-c403-c2|can. 403, §2]], sia costituito dal Vescovo diocesano Vicario generale; inoltre il Vescovo diocesano affidi a lui a preferenza di altri tutto ciò che richiede, a norma del diritto, un mandato speciale. ^ccar-cic-c406-c1
+
+§ 2. A meno che nella lettera apostolica non si provveda diversamente e fermo restando il disposto del [[Documenti vari/ccar-cic#^ccar-cic-c406-c1|§ 1]], il Vescovo diocesano costituisca l'ausiliare o gli ausiliari Vicari generali o almeno Vicari episcopali, dipendenti solo dalla sua autorità oppure da quella del Vescovo coadiutore o del Vescovo ausiliare di cui nel [[Documenti vari/ccar-cic#^ccar-cic-c403-c2|can. 403, §2]]. ^ccar-cic-c406-c2
+
+
+###### Canone 407
+
+§ 1. Perché sia favorito nel migliore dei modi il bene presente e futuro della diocesi, il Vescovo diocesano, il coadiutore e il Vescovo ausiliare di cui nel [[Documenti vari/ccar-cic#^ccar-cic-c403-c2|can. 403, §2]], si consultino tra di loro nelle questioni di maggiore importanza. ^ccar-cic-c407-c1
+
+§ 2. Il Vescovo diocesano, nel valutare le cause di maggiore importanza, soprattutto di carattere pastorale, prima degli altri voglia consultare i Vescovi ausiliari. ^ccar-cic-c407-c2
+
+§ 3. Il Vescovo coadiutore e il Vescovo ausiliare, in quanto sono chiamati a partecipare alla sollecitudine del Vescovo diocesano, esercitino le loro funzioni in modo da procedere insieme con lui di comune accordo. ^ccar-cic-c407-c3
+
+
+###### Canone 408
+
+§ 1. Il Vescovo coadiutore e il Vescovo ausiliare che non siano giustamente impediti, sono obbligati, ogni volta che ne siano richiesti dal Vescovo diocesano, a celebrare i pontificali e le altre funzioni a cui il Vescovo diocesano è tenuto. ^ccar-cic-c408-c1
+
+§ 2. Il Vescovo diocesano non affidi abitualmente ad altri i diritti e le funzioni episcopali che il Vescovo coadiutore o l'ausiliare possono esercitare. ^ccar-cic-c408-c2
+
+
+###### Canone 409
+
+§ 1. Nel momento in cui la sede episcopale è vacante, il Vescovo coadiutore diviene immediatamente Vescovo della diocesi per la quale era stato costituito, purché ne abbia preso legittimo possesso. ^ccar-cic-c409-c1
+
+§ 2. Quando la sede episcopale diviene vacante, se non è stato stabilito in modo diverso dall'autorità competente, il Vescovo ausiliare, finché il nuovo Vescovo non abbia preso possesso della sede, conserva tutte e sole le potestà e facoltà di cui godeva come Vicario generale o come Vicario episcopale, mentre la sede era occupata; se poi non è stato designato all'ufficio di Amministratore diocesano, eserciti tale sua potestà, conferitagli dal diritto, sotto l'autorità dell'Amministratore diocesano che presiede al governo della diocesi. ^ccar-cic-c409-c2
+
+
+###### Canone 410
+
+Il Vescovo coadiutore e il Vescovo ausiliare sono tenuti, come il Vescovo diocesano, all'obbligo di risiedere in diocesi; non se ne allontanino se non per breve tempo, tranne che a motivo di un ufficio da svolgere fuori della diocesi o di ferie, da non protrarsi oltre un mese.
+
+
+###### Canone 411
+
+Al Vescovo coadiutore e all'ausiliare, per quanto riguarda la rinuncia all'ufficio, si applicano le disposizioni dei cann. [[Documenti vari/ccar-cic#Canone 401|401]] e [[Documenti vari/ccar-cic#^ccar-cic-c402-c2|402, § 2]].  ^ccar-cic-c411-c2
 
 
 ##### CAPITOLO III. SEDE IMPEDITA E SEDE VACANTE
@@ -3092,7 +3402,125 @@ Articolo 3. I Vescovi coadiutori e ausiliari ^ccar-cic-l2p2s2t1c2a3
 Articolo 1. La sede impedita ^ccar-cic-l2p2s2t1c3a1
 
 
+###### Canone 412
+
+La sede episcopale si intende impedita se il Vescovo diocesano è totalmente impedito di esercitare l'ufficio pastorale nella diocesi a motivo di prigionia, confino, esilio o inabilità, non essendo in grado di comunicare nemmeno per lettera con i suoi diocesani.
+
+
+###### Canone 413
+
+§ 1. Mentre la sede è impedita, il governo della diocesi, se la Santa Sede non ha provveduto in altro modo, spetta al Vescovo coadiutore se c'è; se questo manca o è impedito, spetta ad un Vescovo ausiliare o ad un Vicario generale o episcopale o ad un altro sacerdote, mantenendo l'ordine delle persone stabilito nell'elenco che il Vescovo diocesano, dopo avere preso possesso della diocesi, deve compilare quanto prima; tale elenco, che deve essere comunicato al Metropolita, sia rinnovato almeno ogni tre anni e conservato sotto segreto dal cancelliere. ^ccar-cic-c413-c1
+
+§ 2. Se manca o è impedito il Vescovo coadiutore e non sopperisce l'elenco di cui al [[Documenti vari/ccar-cic#^ccar-cic-c413-c1|§ 1]], spetta al collegio dei consultori eleggere il sacerdote che deve governare la diocesi. ^ccar-cic-c413-c2
+
+§ 3. Colui che ha assunto il governo della diocesi a norma dei §§ [[Documenti vari/ccar-cic#^ccar-cic-c413-c1|1]] e [[Documenti vari/ccar-cic#^ccar-cic-c413-c2|2]], informi quanto prima la Santa Sede che la sede è impedita e che egli stesso ha assunto tale ufficio. ^ccar-cic-c413-c3
+
+
+###### Canone 414
+
+Chiunque è stato chiamato, a norma del [[Documenti vari/ccar-cic#Canone 413|can. 413]], ad assumere provvisoriamente la cura pastorale della diocesi soltanto per il tempo in cui la sede è impedita, nell'esercizio della cura pastorale è tenuto agli obblighi e ha la potestà che, a norma del diritto, competono all'Amministratore diocesano.
+
+
+###### Canone 415
+
+Se al Vescovo diocesano viene proibito di esercitare il proprio ufficio a motivo di una pena ecclesiastica, il Metropolita oppure, se il Metropolita manca o se si tratta del Metropolita stesso, il suffraganeo più anziano per promozione ricorra immediatamente alla Santa Sede perché provveda essa stessa.
+
+
 Articolo 2. La sede vacante ^ccar-cic-l2p2s2t1c3a2
+
+
+###### Canone 416
+
+La sede episcopale diviene vacante con la morte del Vescovo diocesano, con la rinuncia accettata dal Romano Pontefice, con il trasferimento e con la privazione intimata al Vescovo.
+
+
+###### Canone 417
+
+Tutto ciò che viene compiuto dal Vicario generale o dal Vicario episcopale ha valore finché non hanno ricevuto notizia certa della morte del Vescovo diocesano; così pure ha valore tutto ciò che viene compiuto dal Vescovo diocesano o dal Vicario generale o episcopale finché non abbiano ricevuto notizia certa degli atti pontifici sopra menzionati.
+
+
+###### Canone 418
+
+§ 1. Dal momento che ha ricevuto notizia certa del trasferimento il Vescovo, entro due mesi, deve raggiungere la diocesi alla quale è destinato e prenderne possesso canonico; dal giorno della presa di possesso canonico della nuova diocesi, la diocesi di provenienza diviene vacante. ^ccar-cic-c418-c1
+
+§ 2. Dal momento che ha ricevuto notizia certa del trasferimento fino alla presa di possesso canonico della nuova diocesi, nella diocesi di provenienza il Vescovo trasferito: ^ccar-cic-c418-c2
+
+1) ha la potestà di Amministratore diocesano ed è tenuto agli agli obblighi relativi, mentre cessa ogni potestà del Vicario generale e del Vicario episcopale, salvo tuttavia il [[Documenti vari/ccar-cic#^ccar-cic-c409-c2|can. 409, §2]]; ^ccar-cic-c418-c2-n1
+2) percepisce l'intera rimunerazione propria dell'ufficio. ^ccar-cic-c418-c2-n2
+
+
+###### Canone 419
+
+Quando la sede diviene vacante, il governo della diocesi, fino alla costituzione dell'Amministratore diocesano, passa al Vescovo ausiliare e, se sono più d'uno, al più anziano per promozione; se manca il Vescovo ausiliare, è affidato al collegio dei consultori, a meno che la Santa Sede non abbia provveduto diversamente. Colui che assume in tal modo il governo della diocesi convochi senza indugio il collegio competente a nominare l'Amministratore diocesano.
+
+
+###### Canone 420
+
+Nel vicariato o nella prefettura apostolica, quando la sede è vacante, assume il governo il Provicario o il Proprefetto, nominato soltanto a questo effetto dal Vicario o dal Prefetto subito dopo la presa di possesso, a meno che la Santa Sede non abbia stabilito diversamente.
+
+
+###### Canone 421
+
+§ 1. Entro otto giorni dal momento in cui si è ricevuta notizia che la sede episcopale è vacante, il collegio dei consultori, fermo restando il disposto del [[Documenti vari/ccar-cic#^ccar-cic-c502-c3|can. 502, §3]], deve eleggere l'Amministratore diocesano con il compito di reggere interinalmente la diocesi. ^ccar-cic-c421-c1
+
+§ 2. Se l'Amministratore diocesano per qualsiasi causa non viene eletto legittimamente entro il tempo prescritto, la sua nomina passa al Metropolita e se è vacante la stessa sede metropolitana o, contemporaneamente, la Chiesa metropolitana e quella suffraganea, passa al Vescovo suffraganeo più anziano per promozione. ^ccar-cic-c421-c2
+
+
+###### Canone 422
+
+Il Vescovo ausiliare o, se egli manca, il collegio dei consultori informi quanto prima la Sede Apostolica della morte del Vescovo; così pure colui che è eletto Amministratore diocesano la informi quanto prima della sua elezione.
+
+
+###### Canone 423
+
+§ 1. Si nomini un solo Amministratore diocesano, riprovata qualsiasi consuetudine contraria; altrimenti l'elezione è nulla. ^ccar-cic-c423-c1
+
+§ 2. L'Amministratore diocesano non sia contemporaneamente economo; perciò se l'economo della diocesi viene eletto Amministratore, il consiglio per gli affari economici elegga temporaneamente un altro economo. ^ccar-cic-c423-c2
+
+
+###### Canone 424
+
+L'Amministratore diocesano venga eletto a norma dei cann. [[Documenti vari/ccar-cic#Canone 165|165]] - [[Documenti vari/ccar-cic#Canone 178|178]].
+
+
+###### Canone 425
+
+§ 1. All'ufficio di Amministratore diocesano può essere destinato validamente solo un sacerdote che abbia compiuto i trentacinque anni di età e che non sia già stato eletto, nominato o presentato per la medesima sede vacante. ^ccar-cic-c425-c1
+
+§ 2. Venga eletto Amministratore diocesano un sacerdote che si distingua per dottrina e prudenza. ^ccar-cic-c425-c2
+
+§ 3. Se non sono state rispettate le condizioni stabilite al [[Documenti vari/ccar-cic#^ccar-cic-c425-c1|§ 1]], il Metropolita oppure, se è vacante la stessa Chiesa metropolitana, il Vescovo suffraganeo più anziano per promozione, dopo avere preso conoscenza della vera situazione, nomini per quella volta l'Amministratore; gli atti di colui che è stato eletto contro le disposizioni del [[Documenti vari/ccar-cic#^ccar-cic-c425-c1|§ 1]] sono nulli per il diritto stesso. ^ccar-cic-c425-c3
+
+
+###### Canone 426
+
+Colui che, mentre la sede è vacante, regge la diocesi prima della nomina dell'Amministratore diocesano, ha la stessa potestà che il diritto riconosce al Vicario generale.
+
+
+###### Canone 427
+
+§ 1. L'Amministratore diocesano è tenuto agli obblighi e ha la potestà del Vescovo diocesano, escluso ciò che non gli compete o per la natura della cosa o per il diritto stesso. ^ccar-cic-c427-c1
+
+§ 2. L'Amministratore diocesano ottiene la relativa potestà dal momento in cui accetta l'elezione, senza bisogno di conferma da parte di alcuno, fermo restando l'obbligo di cui nel [[Documenti vari/ccar-cic#^ccar-cic-c833-n4|can. 833, n. 4]]. ^ccar-cic-c427-c2
+
+
+###### Canone 428
+
+§ 1. Mentre la sede è vacante non si proceda a innovazioni. ^ccar-cic-c428-c1
+
+§ 2. A coloro che provvedono interinalmente al governo della diocesi è proibito compiere qualsiasi atto che possa arrecare pregiudizio alla diocesi o ai diritti episcopali; in modo speciale è proibito a loro e perciò a chiunque altro, sia personalmente, sia attraverso altri, di sottrarre o distruggere o modificare qualsiasi documento della curia diocesana. ^ccar-cic-c428-c2
+
+
+###### Canone 429
+
+L'Amministratore diocesano è tenuto all'obbligo di risiedere nella diocesi e di applicare la Messa per il popolo, a norma del [[Documenti vari/ccar-cic#Canone 388|can. 388]].
+
+
+###### Canone 430
+
+§ 1. L'ufficio dell'Amministratore diocesano cessa con la presa di possesso della diocesi da parte del nuovo Vescovo. ^ccar-cic-c430-c1
+
+§ 2. La rimozione dell'Amministratore diocesano è riservata alla Santa Sede; l'eventuale sua rinuncia deve essere presentata in forma autentica al collegio competente per la sua elezione, e non ha bisogno di essere accettata; in caso di rimozione, di rinuncia o di morte dell'Amministratore diocesano, ne venga eletto un altro, a norma del [[Documenti vari/ccar-cic#Canone 421|can. 421]]. ^ccar-cic-c430-c2
 
 
 #### TITOLO II. I RAGGRUPPAMENTI DI CHIESE PARTICOLARI
@@ -3101,13 +3529,235 @@ Articolo 2. La sede vacante ^ccar-cic-l2p2s2t1c3a2
 ##### CAPITOLO I. PROVINCE ECCLESIASTICHE E REGIONI ECCLESIASTICHE
 
 
+###### Canone 431
+
+§ 1. Affinché venga promossa un'azione pastorale comune da parte di diverse diocesi vicine secondo le circostanze di persone e di luoghi, e affinché vengano favoriti in modo più adeguato i mutui rapporti dei Vescovi diocesani, le Chiese particolari più vicine siano riunite in province ecclesiastiche, delimitate da un territorio determinato. ^ccar-cic-c431-c1
+
+§ 2. D'ora in avanti non vi siano di regola diocesi esenti; perciò le singole diocesi e le altre Chiese particolari che esistono nell'àmbito del territorio di una provincia ecclesiastica, devono far parte di tale provincia ecclesiastica. ^ccar-cic-c431-c2
+
+§ 3. Spetta unicamente alla suprema autorità della Chiesa, sentiti i Vescovi interessati, costituire, sopprimere o modificare le province ecclesiastiche. ^ccar-cic-c431-c3
+
+
+###### Canone 432
+
+§ 1. Nella provincia ecclesiastica hanno autorità, a norma del diritto, il concilio provinciale e il Metropolita. ^ccar-cic-c432-c1
+
+§ 2. La provincia ecclesiastica gode di personalità giuridica per il diritto stesso. ^ccar-cic-c432-c2
+
+
+###### Canone 433
+
+§ 1. Se l'utilità lo suggerisce, specialmente nelle nazioni dove sono più numerose le Chiese particolari, le province ecclesiastiche viciniori, su proposta della Conferenza Episcopale, possono essere congiunte dalla Santa Sede in regioni ecclesiastiche. ^ccar-cic-c433-c1
+
+§ 2. La regione ecclesiastica può essere eretta in persona giuridica. ^ccar-cic-c433-c2
+
+###### Canone 434
+
+All'assemblea dei Vescovi della regione ecclesiastica spetta favorire la cooperazione e l'attività pastorale comune nella regione; tuttavia i poteri che nei canoni di questo Codice sono attribuiti alla Conferenza Episcopale non competono a tale assemblea, a meno che alcuni di essi non le siano stati concessi in modo speciale dalla Santa Sede.
+
+
 ##### CAPITOLO II. I METROPOLITI
+
+
+###### Canone 435
+
+Alla provincia ecclesiastica presiede il Metropolita, che è l'Arcivescovo della diocesi cui è preposto; tale ufficio è congiunto con una sede episcopale, determinata o approvata dal Romano Pontefice.
+
+
+###### Canone 436
+
+§ 1. Nelle diocesi suffraganee spetta al Metropolita: ^ccar-cic-c436-c1
+
+1) vigilare perché la fede e la disciplina ecclesiastica siano accuratamente osservate, e informare il Romano Pontefice su eventuali abusi; ^ccar-cic-c436-c1-n1
+2) fare la visita canonica, per una causa precedentemente approvata dalla Santa Sede, se il suffraganeo l'avesse trascurata; ^ccar-cic-c436-c1-n2
+3) nominare l'Amministratore diocesano, a norma dei cann. [[Documenti vari/ccar-cic#^ccar-cic-c421-c2|421, § 2]] e [[Documenti vari/ccar-cic#^ccar-cic-c425-c3|425 § 3]]. ^ccar-cic-c436-c1-n3
+
+§ 2. Dove le circostanze lo richiedono, la Sede Apostolica può conferire al Metropolita funzioni e potestà peculiari da determinare nel diritto particolare. ^ccar-cic-c436-c2
+
+§ 3. Nessun'altra potestà di governo compete al Metropolita nelle diocesi suffraganee; può però celebrare funzioni sacre in tutte le chiese, come il Vescovo nella propria diocesi, dopo avere avvertito il Vescovo, se si tratta della chiesa cattedrale. ^ccar-cic-c436-c3
+
+
+###### Canone 437
+
+§ 1. Il Metropolita è tenuto all'obbligo di chiedere personalmente o tramite un procuratore il pallio al Romano Pontefice, entro tre mesi dalla consacrazione episcopale oppure, se è già stato consacrato, dalla provvisione canonica; esso significa la potestà che, in comunione con la Chiesa di Roma, il Metropolita acquisisce di diritto nella propria provincia. ^ccar-cic-c437-c1
+
+§ 2. Il Metropolita può portare il pallio, nel rispetto delle leggi liturgiche, in qualsiasi chiesa della provincia ecclesiastica a cui presiede; invece non può assolutamente portarlo fuori di essa, neppure col consenso del Vescovo diocesano. ^ccar-cic-c437-c2
+
+§ 3. Il Metropolita che venga trasferito ad un'altra sede metropolitana, necessita di un nuovo pallio. ^ccar-cic-c437-c3
+
+
+###### Canone 438
+
+Il titolo di Patriarca e di Primate, al di là di una prerogativa di onore, non comporta nella Chiesa latina alcuna potestà di governo, a meno che per qualcuno di essi non consti diversamente per un privilegio apostolico o per una consuetudine approvata.
 
 
 ##### CAPITOLO III. I CONCILI PARTICOLARI
 
 
+###### Canone 439
+
+§ 1. Il concilio plenario, cioè per tutte le Chiese particolari della medesima Conferenza Episcopale, sia celebrato ogni volta che risulti necessario o utile alla stessa Conferenza Episcopale, con l'approvazione della Sede Apostolica. ^ccar-cic-c439-c1
+
+§ 2. La norma stabilita dal [[Documenti vari/ccar-cic#^ccar-cic-c439-c1|§ 1]] vale anche per la celebrazione del concilio provinciale nella provincia ecclesiastica i cui confini coincidono con il territorio della nazione. ^ccar-cic-c439-c2
+
+
+###### Canone 440
+
+§ 1. Il concilio provinciale per le diverse Chiese particolari della medesima provincia ecclesiastica, sia celebrato ogni volta che risulti opportuno a giudizio della maggioranza dei Vescovi diocesani della provincia, salvo il [[Documenti vari/ccar-cic#^ccar-cic-c439-c2|can. 439, § 2]]. ^ccar-cic-c440-c1
+
+
+§ 2. Mentre è vacante la sede metropolitana, non si convochi il concilio provinciale. ^ccar-cic-c440-c2
+
+
+###### Canone 441
+
+Spetta alla Conferenza Episcopale:
+
+1) convocare il concilio plenario; ^ccar-cic-c441-n1
+2) scegliere il luogo in cui celebrare il concilio, nell'àmbito del territorio della Conferenza Episcopale; ^ccar-cic-c441-n2
+3) eleggere, fra i Vescovi diocesani del concilio plenario, il presidente, che deve essere approvato dalla Sede Apostolica; ^ccar-cic-c441-n3
+4) determinare la procedura e le questioni da trattare, indire l'apertura e la durata del concilio plenario, trasferirlo, prorogarlo o scioglierlo. ^ccar-cic-c441-n4
+
+
+###### Canone 442
+
+§ 1. Spetta al Metropolita, col consenso della maggioranza dei Vescovi suffraganei: ^ccar-cic-c442-c1
+
+1) convocare il concilio provinciale; ^ccar-cic-c442-c1-n1
+2) scegliere il luogo della celebrazione del concilio provinciale, nell'àmbito del territorio della provincia; ^ccar-cic-c442-c1-n2
+3) determinare la procedura e le questioni da trattare, indire l'apertura e la durata del concilio provinciale, trasferirlo, prorogarlo o scioglierlo. ^ccar-cic-c442-c1-n3
+
+§ 2. Spetta al Metropolita, e se questi è legittimamente impedito al Vescovo suffraganeo eletto dagli altri Vescovi suffraganei, presiedere il concilio provinciale. ^ccar-cic-c442-c2
+
+
+###### Canone 443
+
+§ 1. Devono essere convocati ai concili particolari e in essi hanno diritto al voto deliberativo: ^ccar-cic-c443-c1
+
+1) i Vescovi diocesani; ^ccar-cic-c443-c1-n1
+2) i Vescovi coadiutori e ausiliari; ^ccar-cic-c443-c1-n2
+3) gli altri Vescovi titolari che esercitano nel territorio uno speciale incarico, loro affidato dalla Sede Apostolica o dalla Conferenza Episcopale. ^ccar-cic-c443-c1-n3
+
+§ 2. Possono essere chiamati ai concili particolari gli altri Vescovi titolari, anche emeriti, che si trovano nel territorio; essi poi hanno diritto al voto deliberativo. ^ccar-cic-c443-c2
+
+§ 3. Ai concili particolari devono essere chiamati con voto solamente consultivo: ^ccar-cic-c443-c3
+
+1) i Vicari generali e i Vicari episcopali di tutte le Chiese particolari del territorio; ^ccar-cic-c443-c3-n1
+2) i Superiori maggiori degli istituti e delle società di vita apostolica, in numero da determinare, sia per gli uomini sia per le donne, dalla Conferenza Episcopale o dai Vescovi della provincia, eletti rispettivamente da tutti i Superiori maggiori degli istituti e delle società che hanno sede nel territorio; ^ccar-cic-c443-c3-n2
+3) i rettori delle università ecclesiastiche e cattoliche, nonché i decani delle facoltà di teologia e di diritto canonico, che hanno sede nel territorio; ^ccar-cic-c443-c3-n3
+4) alcuni rettori dei seminari maggiori, in numero da determinarsi come al [[Documenti vari/ccar-cic#^ccar-cic-c443-c3-n2|can. 443, n. 2]], eletti dai rettori dei seminari situati nel territorio. ^ccar-cic-c443-c3-n4
+
+§ 4. Ai concili particolari possono essere chiamati, con voto solamente consultivo, anche presbiteri e altri fedeli, in modo però che il loro numero non superi la metà di coloro di cui ai §§ [[Documenti vari/ccar-cic#^ccar-cic-c443-c1|1]] - [[Documenti vari/ccar-cic#^ccar-cic-c443-c3|3]]. ^ccar-cic-c443-c4
+
+§ 5. Ai concili provinciali siano invitati inoltre i capitoli cattedrali, come pure il consiglio presbiterale e il consiglio pastorale di ciascuna Chiesa particolare, in modo che ognuno di essi invii due suoi membri designati collegialmente; essi però hanno voto solamente consultivo. ^ccar-cic-c443-c5
+
+§ 6. Ai concili particolari possono essere invitati come ospiti anche altri, se ciò risulta opportuno a giudizio della Conferenza Episcopale, per quanto riguarda il concilio plenario, o a giudizio del Metropolita insieme con i Vescovi suffraganei, per quanto riguarda il concilio provinciale. ^ccar-cic-c443-c6
+
+
+###### Canone 444
+
+§ 1. Tutti coloro che sono convocati ai concili particolari devono parteciparvi, se non sono trattenuti da un giusto impedimento, di cui sono tenuti ad informare il presidente del concilio. ^ccar-cic-c444-c1
+
+§ 2. Coloro che sono convocati ai concili particolari ed hanno in essi voto deliberativo, se sono trattenuti da un giusto impedimento, possono mandare un procuratore; tale procuratore ha voto solamente consultivo. ^ccar-cic-c444-c2
+
+
+###### Canone 445
+
+Il concilio particolare cura che si provveda, nel proprio territorio, alle necessità pastorali del popolo di Dio; esso ha potestà di governo, soprattutto legislativa, così da poter decidere, salvo sempre il diritto universale della Chiesa, ciò che risulta opportuno per l'incremento della fede, per ordinare l'attività pastorale comune; per regolare i costumi e per conservare, introdurre, difendere la disciplina ecclesiastica comune.
+
+
+###### Canone 446
+
+Concluso il concilio particolare, il presidente provveda che vengano trasmessi alla Sede Apostolica tutti gli atti del concilio; i decreti emanati dal concilio non siano promulgati se non dopo essere stati riveduti dalla Sede Apostolica; spetta al concilio stesso definire il modo di promulgazione dei decreti e il tempo in cui i decreti promulgati iniziano ad essere obbliganti.
+
+
 ##### CAPITOLO IV. LE CONFERENZE EPISCOPALI
+
+
+###### Canone 447
+
+La Conferenza Episcopale, organismo di per sé permanente, è l'assemblea dei Vescovi di una nazione o di un territorio determinato, i quali esercitano congiuntamente alcune funzioni pastorali per i fedeli di quel territorio, per promuovere maggiormente il bene che la Chiesa offre agli uomini, soprattutto mediante forme e modalità di apostolato opportunamente adeguate alle circostanze di tempo e di luogo, a norma del diritto.
+
+
+###### Canone 448
+
+§ 1. La Conferenza Episcopale, come regola generale, comprende i presuli di tutte le Chiese particolari della medesima nazione, a norma del [[Documenti vari/ccar-cic#Canone 450|can. 450]]. ^ccar-cic-c448-c1
+
+§ 2. Se poi, a giudizio della Sede Apostolica, sentiti i Vescovi diocesani interessati, le circostanze relative alle persone o alle cose lo suggeriscono, la Conferenza Episcopale può essere eretta per un territorio di ampiezza minore o maggiore, in modo che comprenda solamente i Vescovi di alcune Chiese particolari costituite in un determinato territorio oppure i presuli di Chiese particolari esistenti in diverse nazioni; spetta alla Sede Apostolica stabilire norme peculiari per ciascuna di esse. ^ccar-cic-c448-c2
+
+
+###### Canone 449
+
+§ 1. Spetta unicamente alla suprema autorità della Chiesa, sentiti i Vescovi interessati, erigere, sopprimere o modificare le Conferenze Episcopali. ^ccar-cic-c449-c1
+
+§ 2. La Conferenza Episcopale, una volta eretta legittimamente, gode di personalità giuridica per il diritto stesso. ^ccar-cic-c449-c2
+
+
+###### Canone 450
+
+§ 1. Appartengono alla Conferenza Episcopale per il diritto stesso tutti i Vescovi diocesani del territorio e quelli che nel diritto sono loro equiparati; inoltre i Vescovi coadiutori, i Vescovi ausiliari e gli altri Vescovi titolari che esercitano in tale territorio uno speciale incarico loro affidato dalla Sede Apostolica o dalla Conferenza Episcopale; possono esservi invitati anche gli Ordinari di un altro rito, in modo tuttavia che abbiano soltanto voto consultivo, a meno che gli statuti della Conferenza Episcopale non stabiliscano diversamente. ^ccar-cic-c450-c1
+
+§ 2. Gli altri Vescovi titolari e il Legato del Romano Pontefice non sono membri di diritto della Conferenza Episcopale. ^ccar-cic-c450-c2
+
+
+###### Canone 451
+
+Ogni Conferenza Episcopale elabori i propri statuti, che devono essere riveduti dalla Sede Apostolica; in essi, fra l'altro, vengano regolate le riunioni plenarie della Conferenza, si provveda alla costituzione del consiglio permanente, della segreteria generale della Conferenza e anche di altri uffici e commissioni che, a giudizio della Conferenza, contribuiscano più efficacemente al conseguimento delle sue finalità.
+
+
+###### Canone 452
+
+§ 1. Ogni Conferenza Episcopale si elegga il presidente, determini chi assume la funzione di propresidente se il presidente è legittimamente impedito e designi il segretario generale, a norma degli statuti. ^ccar-cic-c452-c1
+
+§ 2. Il presidente della conferenza e, se questi è legittimamente impedito, il propresidente, presiede non solo le riunioni generali della conferenza dei Vescovi, ma anche il consiglio permanente. ^ccar-cic-c452-c2
+
+
+###### Canone 453
+
+Le riunioni plenarie della Conferenza Episcopale si tengano almeno una volta all'anno e inoltre ogni volta che lo richiedano speciali circostanze, secondo le disposizioni degli statuti.
+
+
+###### Canone 454
+
+§ 1. Nelle riunioni plenarie della Conferenza Episcopale per il diritto stesso il voto deliberativo compete ai Vescovi diocesani e a quelli che nel diritto sono loro equiparati, nonché ai Vescovi coadiutori. ^ccar-cic-c454-c1
+
+§ 2. Ai Vescovi ausiliari e ai Vescovi titolari che appartengono alla Conferenza Episcopale, compete il voto deliberativo oppure consultivo, secondo le disposizioni degli statuti della Conferenza; fermo restando tuttavia che il voto deliberativo compete solo a quelli di cui al [[Documenti vari/ccar-cic#^ccar-cic-c454-c1|§ 1]], quando si tratta di elaborare o modificare gli statuti. ^ccar-cic-c454-c2
+
+
+###### Canone 455
+
+§ 1. La Conferenza Episcopale può emanare decreti generali solamente nelle materie in cui lo abbia disposto il diritto universale, oppure lo stabilisce un mandato speciale della Sede Apostolica, sia *motu proprio*, sia su richiesta della conferenza stessa. ^ccar-cic-c455-c1
+
+§ 2. Perché i decreti di cui al [[Documenti vari/ccar-cic#^ccar-cic-c455-c1|§ 1]] siano emanati validamente, devono essere espressi nella riunione plenaria almeno mediante i due terzi dei voti dei Presuli che appartengono alla Conferenza con voto deliberativo, e non ottengono forza obbligante se non vengono legittimamente promulgati, dopo essere stati autorizzati dalla Sede Apostolica. ^ccar-cic-c455-c2
+
+§ 3. Il modo di promulgazione e il tempo in cui i decreti acquistano forza obbligante vengono determinati dalla stessa Conferenza Episcopale. ^ccar-cic-c455-c3
+
+§ 4. Nei casi in cui né il diritto universale né uno speciale mandato della Sede Apostolica abbiano concesso alla Conferenza Episcopale la potestà di cui al [[Documenti vari/ccar-cic#^ccar-cic-c455-c1|§ 1]], rimane intatta la competenza di ogni singolo Vescovo diocesano e la Conferenza Episcopale o il suo presidente non hanno la capacità di agire in nome di tutti i Vescovi, a meno che tutti e singoli i Vescovi non abbiano dato il loro consenso. ^ccar-cic-c455-c4
+
+
+###### Canone 456
+
+Conclusa l'assemblea plenaria della Conferenza Episcopale, la relazione sugli atti della conferenza e i suoi decreti vengano trasmessi alla Sede Apostolica, sia per farle conoscere gli atti, sia perché i decreti, se ci sono, possano essere riveduti dalla stessa.
+
+
+###### Canone 457
+
+Spetta al consiglio permanente dei Vescovi curare che vengano preparate le questioni da trattare nell'assemblea plenaria della conferenza e che siano fatte debitamente eseguire le decisioni prese in essa; spetta pure al medesimo trattare gli altri affari che gli vengono affidati, a norma degli statuti.
+
+
+###### Canone 458
+
+Spetta alla segreteria generale:
+
+1) stendere la relazione degli atti e dei decreti dell'assemblea plenaria della conferenza e degli atti del consiglio permanente e comunicarla a tutti i membri della conferenza, stendere inoltre gli altri atti commissionati ad essa dal presidente della conferenza o dal consiglio permanente; ^ccar-cic-c458-n1
+2) comunicare alle Conferenze Episcopali confinanti gli atti e i documenti che la Conferenza nell'assemblea plenaria o il consiglio permanente hanno stabilito di trasmettere loro. ^ccar-cic-c458-n2
+
+
+###### Canone 459
+
+§ 1. Si favoriscano le relazioni fra le Conferenze Episcopali, soprattutto viciniori, per la promozione e la tutela del bene maggiore. ^ccar-cic-c459-c1
+
+§ 2. Ogni qualvolta però le Conferenze intraprendono attività o modi di procedere che assumono un carattere internazionale, è necessario che venga sentita la Sede Apostolica. ^ccar-cic-c459-c2
 
 
 #### TITOLO III. STRUTTURA INTERNA DELLE CHIESE PARTICOLARI
@@ -7925,7 +8575,7 @@ X. `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
