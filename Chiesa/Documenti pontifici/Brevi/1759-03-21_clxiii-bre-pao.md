@@ -74,7 +74,7 @@ Stabiliamo che questo presente documento sia sempre saldo, valido ed efficace, e
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 21 marzo 1759, nel primo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
