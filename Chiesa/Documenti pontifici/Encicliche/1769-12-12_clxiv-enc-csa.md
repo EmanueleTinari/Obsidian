@@ -92,7 +92,7 @@ Nello stesso tempo in cui scriviamo questa Lettera a Voi, Venerabili Fratelli, c
 Dato a Roma, presso Santa Maria Maggiore, il 12 dicembre 1769, nell’anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIV `class: firmaC`
+Clementis PP. XIV `class: firmaC`
 
 
 ***
