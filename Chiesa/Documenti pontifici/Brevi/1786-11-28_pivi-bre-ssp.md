@@ -179,7 +179,7 @@ Affinché poi la presente lettera venga più facilmente a conoscenza di tutti, n
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 28 novembre 1786, dodicesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
