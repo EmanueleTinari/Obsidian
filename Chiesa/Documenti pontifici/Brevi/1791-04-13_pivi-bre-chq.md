@@ -212,7 +212,7 @@ Infine preghiamo voi tutti nel Signore, diletti Figli cattolici del Regno di Fra
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 13 aprile 1791, anno diciassettesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
