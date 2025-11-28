@@ -97,7 +97,7 @@ E poiché la condizione degli ecclesiastici e dei popoli di codesta isola dev’
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 4 aprile 1792, anno decimottavo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
