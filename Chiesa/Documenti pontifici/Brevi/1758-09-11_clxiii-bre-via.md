@@ -95,7 +95,7 @@ Affinché questa Nostra Lettera, che non può essere portata in ogni luogo, dive
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, l’11 settembre 1758, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
