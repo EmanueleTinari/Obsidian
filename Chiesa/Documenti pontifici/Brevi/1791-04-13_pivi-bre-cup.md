@@ -55,7 +55,7 @@ Poiché i popoli di codesto regno, irretiti dagli inganni di altri, hanno abbrac
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 13 aprile 1791, nell’anno diciassettesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
