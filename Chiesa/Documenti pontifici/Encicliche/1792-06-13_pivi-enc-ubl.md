@@ -137,7 +137,7 @@ Oh, malaugurata astuzia!<br>come se non fosse evidente a tutti il tono falso e c
 Dato a Roma, presso San Pietro, il 13 giugno 1792, anno diciottesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
