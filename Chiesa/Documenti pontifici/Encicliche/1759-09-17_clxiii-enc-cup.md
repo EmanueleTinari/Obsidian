@@ -142,7 +142,7 @@ Queste sono le cose, Venerabili Fratelli, che giudicammo opportuno suggerire all
 Dato a Roma, presso Santa Maria Maggiore, il 17 settembre 1759, nell’anno secondo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
