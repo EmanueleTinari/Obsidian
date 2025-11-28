@@ -57,7 +57,7 @@ Accingendoci ad andare in questo giorno alla Basilica Lateranense, secondo l’u
 Dato a Roma, presso San Pietro, il 24 maggio 1829, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VIII `class: firmaC`
+Pius PP. VIII `class: firmaC`
 
 
 ***
