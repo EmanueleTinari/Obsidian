@@ -55,7 +55,7 @@ Ci pare di aver taciuto abbastanza a lungo con voi.<br>Sono già passati due mes
 Dato a Venezia, dal Monastero di San Giorgio Maggiore, il 15 maggio 1800, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VII `class: firmaC`
+Pius PP. VII `class: firmaC`
 
 
 ***
