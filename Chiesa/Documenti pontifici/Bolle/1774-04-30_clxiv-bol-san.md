@@ -94,12 +94,12 @@ A nessun uomo sia lecito violare questa pagina della Nostra indizione, promulgaz
 Dato a Roma, presso Santa Maria Maggiore, nell’anno dell’Incarnazione del Signore 1774, il 30 aprile, nel quinto anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIV `class: firmaC`
+Clementis PP. XIV `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
