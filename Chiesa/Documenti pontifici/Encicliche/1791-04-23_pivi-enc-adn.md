@@ -222,7 +222,7 @@ Ciò premesso, vi ammoniamo paternamente e vi esortiamo, Venerabili Fratelli e d
 Dato a Roma, presso San Pietro, il 23 aprile 1791, anno diciassettesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
