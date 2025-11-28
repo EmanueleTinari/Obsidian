@@ -257,7 +257,7 @@ Questi sono, Venerabili Fratelli, gli obiettivi che abbiamo ritenuto giusto sott
 Dato a Roma, in Santa Maria Maggiore, il 21 settembre 1769, nel primo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIV `class: firmaC`
+Clementis PP. XIV `class: firmaC`
 
 
 ***
