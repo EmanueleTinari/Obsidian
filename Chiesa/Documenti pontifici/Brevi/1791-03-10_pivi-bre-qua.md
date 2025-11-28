@@ -55,7 +55,7 @@ Costretti dalla natura della cosa, molto seria e importante per se stessa, e alt
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 10 marzo 1791, anno diciassettesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
