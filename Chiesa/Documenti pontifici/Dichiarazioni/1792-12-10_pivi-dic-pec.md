@@ -57,7 +57,7 @@ Considerate le circostanze e la situazione del regno di Francia, che peggiorano 
 Dato dal Vaticano, il 10 dicembre 1792. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
