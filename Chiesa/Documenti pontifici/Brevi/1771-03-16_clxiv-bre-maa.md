@@ -92,7 +92,7 @@ Vogliamo inoltre che ai testi della presente lettera, sia in copia, sia a stampa
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 16 marzo 1771, nel secondo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIV `class: firmaC`
+Clementis PP. XIV `class: firmaC`
 
 
 ***
