@@ -144,7 +144,7 @@ Infine, poiché nel giudizio eterno dovremo rendere conto prima di tutti e davan
 Dato a Roma, presso Santa Maria Maggiore, il 14 settembre 1758, nell’anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIII `class: firmaC`
+Clementis PP. XIII `class: firmaC`
 
 
 ***
