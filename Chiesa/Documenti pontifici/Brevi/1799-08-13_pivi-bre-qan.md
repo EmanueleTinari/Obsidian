@@ -82,12 +82,12 @@ Vogliamo poi che agli estratti o esemplari della presente lettera, anche stampat
 Dato per speciale Nostro mandato, sotto l’anello del Pescatore, il giorno 13 agosto 1799, nel venticinquesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VI `class: firmaC`
+Pius PP. VI `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
