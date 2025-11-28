@@ -79,7 +79,7 @@ Il Signore onnipotente e misericordioso vi conceda l’assoluzione e la remissio
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 12 dicembre 1769, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Clementis XIV `class: firmaC`
+Clementis PP. XIV `class: firmaC`
 
 
 ***
