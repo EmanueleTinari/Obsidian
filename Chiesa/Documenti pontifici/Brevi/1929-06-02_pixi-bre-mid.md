@@ -52,12 +52,12 @@ Dio è meraviglioso nei suoi Santi, i quali, mentre vivono in terra, operano per
 Dato a Roma, presso San Pietro, sotto l’anello del Pescatore, il 2 giugno 1929, anno ottavo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius XI `class: firmaC`
+Pius PP. XI `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
