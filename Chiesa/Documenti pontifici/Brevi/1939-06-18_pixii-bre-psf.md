@@ -49,13 +49,13 @@ La sollecita cura della Chiesa universale che Ci è stata commessa dal divino Re
 Dato a Roma presso San Pietro sotto l’anello del Pescatore il XVIII giugno del MDCCCCXXXIX, primo del nostro pontificato. `class: dataLuogo`
 
 
-Pius XII `class: firmaC`
+Pius PP. XII `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
