@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 36
 num-doc: 36
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: A quo primum
 giorno-doc: 14
@@ -98,7 +98,7 @@ A questo fine non sopporteremo che da parte Nostra si faccia desiderare cosa che
 Dato da Castel Gandolfo, il giorno 14 giugno 1751, undicesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
