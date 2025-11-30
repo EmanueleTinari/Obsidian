@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 42
 num-doc: 42
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Ex omnibus Christiani
 giorno-doc: 16
@@ -103,7 +103,7 @@ Né dubitiamo, che il carissimo Nostro Figlio, il Re Cristianissimo, dopo aver n
 Dato a Roma, presso Santa Maria Maggiore, il 16 ottobre 1756, diciassettesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
