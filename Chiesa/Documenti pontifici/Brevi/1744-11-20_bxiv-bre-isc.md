@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 15
 num-doc: 15
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: In suprema Catholicae
 giorno-doc: 20
@@ -90,7 +90,7 @@ Affinché, poi, la presente Lettera possa giungere più facilmente a conoscenza 
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 20 novembre 1744, anno quinto del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
