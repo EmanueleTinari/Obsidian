@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 2
 num-doc: 2
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Non ambigimus
 giorno-doc: 30
@@ -55,7 +55,7 @@ Non nutriamo dubbi, Venerabili Fratelli, che quanti aderiscono alla Religione Ca
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 30 maggio 1741, nel primo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
