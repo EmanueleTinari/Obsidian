@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 29
 num-doc: 29
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Inter praeteritos
 giorno-doc: 3
@@ -580,7 +580,7 @@ Ed ecco quanto, o diletti Figli, abbiamo creduto necessario esporvi, affinché, 
 Dato a Roma, presso Santa Maria Maggiore, il 3 dicembre 1749, anno decimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
