@@ -154,12 +154,12 @@ Perciò a nessuno sia lecito violare o contestare con temeraria arroganza questo
 Dato a Roma, presso San Pietro, il 13 marzo dell’anno dell’Incarnazione del Signore 1825, nell’anno secondo del Nostro Pontificato. `class: dataLuogo`
 
 
-Leo XII `class: firmaC`
+Leo PP. XII `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
