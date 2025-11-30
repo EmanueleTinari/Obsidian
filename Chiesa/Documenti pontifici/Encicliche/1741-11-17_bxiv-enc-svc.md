@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 7
 num-doc: 7
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Satis vobis compertum
 giorno-doc: 17
@@ -128,7 +128,7 @@ Disponiamo, Venerabili Fratelli, che le Nostre prescrizioni, in queste avverse c
 Dato a Roma, presso Santa Maria Maggiore, il giorno 17 novembre 1741, nel secondo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
