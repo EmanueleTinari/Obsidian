@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 35
 num-doc: 35
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Magno cum animi
 giorno-doc: 02
@@ -223,7 +223,7 @@ Nel ricorso a Noi inoltrato, si fa anche menzione di un altro inconveniente che,
 Dato da Castel Gandolfo, il 2 giugno 1751, anno undecimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 DECRETO<br>DI PAPA CLEMENTE XI DI FELICE MEMORIA<br>SULLA CELEBRAZIONE NEGLI ORATORI PRIVATI<br>EMANATO IL 15 DICEMBRE 1703 `class: centrato-maiuscolo`
