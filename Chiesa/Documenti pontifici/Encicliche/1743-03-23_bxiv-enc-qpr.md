@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 11
 num-doc: 11
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Quemadmodum preces
 giorno-doc: 23
@@ -92,7 +92,7 @@ Che se poi alle vostre parole non si presta fede, né Voi giudicate che sia oppo
 Dato a Roma, presso Santa Maria Maggiore, il 23 marzo 1743, nell’anno terzo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
