@@ -52,7 +52,7 @@ Da gran tempo vediamo, Venerabili Fratelli, da quale miserando conflitto sia agi
 Roma, Lunedì, 18 Marzo 1861 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
