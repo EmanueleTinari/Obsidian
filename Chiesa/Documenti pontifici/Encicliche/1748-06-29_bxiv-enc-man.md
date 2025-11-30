@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 23
 num-doc: 23
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Magnae nobis
 giorno-doc: 29
@@ -55,7 +55,7 @@ Il Papa Benedetto XIV.<br>Venerabile Fratello, salute e Apostolica Benedizione.<
 Dato a Roma, presso San Pietro, il 29 giugno 1748, anno ottavo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
