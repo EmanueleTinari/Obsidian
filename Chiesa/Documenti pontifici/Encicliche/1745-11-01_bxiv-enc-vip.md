@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 19
 num-doc: 19
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Vix pervenit
 giorno-doc: 1
@@ -108,7 +108,7 @@ In modo particolare abbiamo ritenuto opportuno esporvi queste cose, sperando che
 Dato a Roma, presso Santa Maria Maggiore, il 1° novembre 1745, anno sesto del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
