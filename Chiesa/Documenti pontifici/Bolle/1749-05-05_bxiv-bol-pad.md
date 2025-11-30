@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 26
 num-doc: 26
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Bolle|Bolla]]"
 titolo-doc: Peregrinantes a Domino
 giorno-doc: 05
@@ -134,7 +134,7 @@ A nessun uomo, pertanto, sia permesso infrangere o con azione temeraria andare c
 Dato in Roma, presso Santa Maria Maggiore, nell’anno dell’Incarnazione del Signore 1749, il 5 maggio, anno nono del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
