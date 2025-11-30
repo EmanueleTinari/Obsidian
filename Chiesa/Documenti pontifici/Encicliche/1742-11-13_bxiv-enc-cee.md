@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 9
 num-doc: 9
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Certiores effecti
 giorno-doc: 13
@@ -87,7 +87,7 @@ Fino a quando i Pastori si comporteranno così verso i Fedeli e finché i Fedeli
 Dato a Roma, presso Santa Maria Maggiore, il 13 novembre 1742, anno terzo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
