@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 22
 num-doc: 22
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Inter caetera
 giorno-doc: 1
@@ -51,7 +51,7 @@ Tra le molte cose che Ci conturbano, quando Ci conviene tollerare nel Nostro Sta
 Dato a Roma, presso Santa Maria Maggiore, il 1° gennaio 1748, anno ottavo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
