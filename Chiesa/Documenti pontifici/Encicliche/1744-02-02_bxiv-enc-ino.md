@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 13
 num-doc: 13
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Inter omnigenas
 giorno-doc: 2
@@ -197,7 +197,7 @@ Se poi i sopraesposti decreti, ai quali amiamo richiamare il vostro modo di fare
 Dato a Roma, presso Santa Maria Maggiore, il 2 febbraio 1744, quarto anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
