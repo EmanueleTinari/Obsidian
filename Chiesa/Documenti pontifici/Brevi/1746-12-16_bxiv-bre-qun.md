@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 21
 num-doc: 21
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Quemadmodum nihil
 giorno-doc: 16
@@ -55,7 +55,7 @@ Come per gli uomini avulsi dal consorzio familiare e dalla consuetudine con Dio,
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 16 dicembre 1746, anno sesto del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
