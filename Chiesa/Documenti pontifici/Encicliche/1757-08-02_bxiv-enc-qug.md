@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 43
 num-doc: 43
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Quam grave
 giorno-doc: 2
@@ -152,7 +152,7 @@ Decretiamo quindi che dai Giudici competenti e dati Tribunali si proceda secondo
 Dato a Roma, presso Santa Maria Maggiore, il 2 agosto 1757, nell’anno diciassettesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
