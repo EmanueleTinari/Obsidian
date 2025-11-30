@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 30
 num-doc: 30
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Bolle|Bolla]]"
 titolo-doc: Benedictus Deus
 giorno-doc: 25
@@ -109,7 +109,7 @@ A nessuno sia lecito, in nessun modo, manomettere questa pagina della Nostra est
 Dato a Roma, presso Santa Maria Maggiore, nell’anno 1750 dell’Incarnazione, 25 dicembre, undicesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
