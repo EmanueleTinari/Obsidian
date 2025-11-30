@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 125
 num-doc: 1
-autore-doc: "[[Scheda 253° papa - Pio VIII|Papa Pio VIII]]"
+autore-doc: "[[Scheda 253° papa - Pio VIII|Pio VIII]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Inter multiplices
 giorno-doc: 15
