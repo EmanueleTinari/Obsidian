@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 17
 num-doc: 17
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Libentissime quidem
 giorno-doc: 10
@@ -55,7 +55,7 @@ Veramente con somma letizia cogliamo ogni occasione che a Noi si offre per spron
 Dato dalla Residenza di Castel Gandolfo, il 10 giugno 1745, anno quinto del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
