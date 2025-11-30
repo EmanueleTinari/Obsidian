@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 20
 num-doc: 20
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Accepimus praestantium
 giorno-doc: 16
@@ -55,7 +55,7 @@ Abbiamo appreso dalle testimonianze di uomini insigni che già da tempo è stata
 Dato a Roma, presso Santa Maria Maggiore, il 16 luglio 1746, anno sesto del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
