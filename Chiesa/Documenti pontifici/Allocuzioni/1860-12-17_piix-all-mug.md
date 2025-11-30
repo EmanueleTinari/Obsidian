@@ -52,7 +52,7 @@ La Chiesa, che fino dalle sue stesse origini fu agitata da molte e gravi procell
 Roma, Lunedì, 17 Dicembre 1860 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
