@@ -52,7 +52,7 @@ Al gravissimo dolore da cui, insieme con tutti i buoni, siamo colpiti per la gue
 Roma, Lunedì, 20 Giugno 1859 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
