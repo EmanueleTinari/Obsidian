@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 1
 num-doc: 1
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Ubi primum
 giorno-doc: 03
@@ -87,7 +87,7 @@ Da ultimo, per dire molte cose in breve, Fratelli, è opportuno che in ogni funz
 Dato a Roma, presso Santa Maria Maggiore, il 3 dicembre 1740, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
