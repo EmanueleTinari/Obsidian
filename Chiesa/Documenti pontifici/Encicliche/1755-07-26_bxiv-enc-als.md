@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 39
 num-doc: 39
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Allatae sunt
 giorno-doc: 26
@@ -292,7 +292,7 @@ Sono queste le cose che giudicammo doversi esporre in questa nostra Enciclica, n
 Roma, presso Santa Maria Maggiore, 26 luglio 1755, anno quindicesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
