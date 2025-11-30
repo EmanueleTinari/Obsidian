@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 14
 num-doc: 14
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Cum semper oblatas
 giorno-doc: 19
@@ -173,7 +173,7 @@ Sappiamo bene che in certe Chiese Metropolitane e Cattedrali si è fatta strada 
 Dato a Roma, presso Santa Maria Maggiore, il 19 agosto 1744, anno quinto del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
