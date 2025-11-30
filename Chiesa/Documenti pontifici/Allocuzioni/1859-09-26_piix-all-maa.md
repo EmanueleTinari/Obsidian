@@ -52,7 +52,7 @@ Con grandissimo dolore dell’animo Nostro, Venerabili Fratelli, nell’*[[Docum
 Roma, Lunedì, 26 Settembre 1859 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
