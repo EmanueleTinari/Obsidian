@@ -52,7 +52,7 @@ Siamo nuovamente costretti, Venerabili Fratelli, a deplorare con incredibile dol
 Roma, Venerdì, 28 Settembre 1860 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
