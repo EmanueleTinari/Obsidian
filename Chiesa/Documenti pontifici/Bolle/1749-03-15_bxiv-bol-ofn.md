@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 25
 num-doc: 25
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Bolle|Bolla]]"
 titolo-doc: Officii nostri
 giorno-doc: 15
@@ -149,7 +149,7 @@ Pertanto a nessuno sia lecito violare questa pagina delle Nostre dichiarazioni, 
 Dato a Roma, presso Santa Maria Maggiore, nell’anno 1749 dell’Incarnazione del Signore, il 15 marzo, anno decimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
