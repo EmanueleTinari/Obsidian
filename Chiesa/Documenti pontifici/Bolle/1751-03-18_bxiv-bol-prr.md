@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 34
 num-doc: 34
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Bolle|Bolla]]"
 titolo-doc: Providas romanorum
 giorno-doc: 18
@@ -109,7 +109,7 @@ A nessuno dunque, assolutamente, sia permesso violare, o con temerario ardimento
 Dato in Roma, presso Santa Maria Maggiore, il 18 marzo dell’anno dell’Incarnazione del Signore 1751, undicesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
