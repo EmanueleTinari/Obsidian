@@ -39,9 +39,10 @@ if (pages.length == 0) {
 else {
     // Rendere intestazioni cliccabili e aggiungere data ISO per ordinamento corretto
     dv.table(
-        ['Progressivo', 'Autore', 'Tipo', 'Data', 'Titolo', 'File'],
+        ['Progr', 'Num', 'Autore', 'Data', 'Titolo', 'File'],
         ordered.map(b => [
             b["progr-doc"] ?? missing,
+            b["num-doc"] ?? missing,
             b["autore-doc"] ?? missing,
             b["tipo-doc"] ?? missing,
             b["data-doc"] 
