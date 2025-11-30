@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 40
 num-doc: 40
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Quam ex sublimi
 giorno-doc: 08
@@ -87,7 +87,7 @@ Vogliamo poi che, ricevutala presente lettera o anche copie stampate di essa e s
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il giorno 8 agosto 1755, nell’anno decimoquinto del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
