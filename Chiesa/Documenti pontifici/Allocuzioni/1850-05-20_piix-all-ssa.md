@@ -52,7 +52,7 @@ Se dovemmo sempre convincerci, Venerabili Fratelli, che non è mai venuta meno l
 Roma, Lunedì, 20 Maggio 1850 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
