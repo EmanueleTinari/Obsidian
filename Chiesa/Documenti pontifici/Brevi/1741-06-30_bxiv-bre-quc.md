@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 3
 num-doc: 3
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Quanta cura
 giorno-doc: 30
@@ -87,7 +87,7 @@ Vogliamo poi che alle copie o esemplari della presente lettera, anche stampati, 
 Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 30 giugno 1741, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
