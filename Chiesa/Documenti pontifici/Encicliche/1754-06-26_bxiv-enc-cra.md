@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 37
 num-doc: 37
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Cum religiosi aeque
 giorno-doc: 26
@@ -72,7 +72,7 @@ Noi, conformandoci a questo pratico insegnamento di San Carlo Borromeo, nonostan
 Dato da Castel Gandolfo, il giorno 26 giugno 1754, decimoquarto anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
