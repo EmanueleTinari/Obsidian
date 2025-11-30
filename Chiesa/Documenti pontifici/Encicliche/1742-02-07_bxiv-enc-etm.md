@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 8
 num-doc: 8
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Etsi minime
 giorno-doc: 7
@@ -152,7 +152,7 @@ Queste salutari indicazioni di ammaestrare il gregge che abbiamo voluto farvi co
 Dato a Roma, presso Santa Maria Maggiore, il 7 febbraio 1742, nel secondo anno del nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
