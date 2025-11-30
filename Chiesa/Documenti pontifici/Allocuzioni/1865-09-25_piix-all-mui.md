@@ -52,7 +52,7 @@ Fra le molteplici macchinazioni e le astuzie con le quali i nemici del nome cris
 Roma, Lunedì, 25 Settembre 1865 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
