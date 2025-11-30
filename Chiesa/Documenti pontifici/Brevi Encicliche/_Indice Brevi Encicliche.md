@@ -39,9 +39,10 @@ if (pages.length == 0) {
 else {
     // Rendere intestazioni cliccabili e aggiungere data ISO per ordinamento corretto
     dv.table(
-        ['Progressivo', 'Autore', 'Data', 'Titolo', 'File'],
+        ['Progr', 'Num', 'Autore', 'Data', 'Titolo', 'File'],
         ordered.map(b => [
             b["progr-doc"] ?? missing,
+            b["num-doc"] ?? missing,
             b["autore-doc"] ?? missing,
             b["data-doc"] 
                 ? `<span data-iso="${b["data-doc"]}">${dv.luxon.DateTime.fromISO(b["data-doc"]).toFormat('dd-MM-yyyy')}</span>` 
