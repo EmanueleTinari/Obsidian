@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 16
 num-doc: 16
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Cum multorum Charitate
 giorno-doc: 18
@@ -70,7 +70,7 @@ Dato in Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 18
  `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
