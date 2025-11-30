@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 27
 num-doc: 27
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Apostolica Constitutio
 giorno-doc: 26
@@ -193,7 +193,7 @@ Nelle *Vite* dei Nostri Predecessori Zaccaria e Pasquale, come si legge nella tr
 Da Castel Gandolfo, il 26 giugno 1749, anno nono del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
