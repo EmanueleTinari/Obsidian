@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 5
 num-doc: 5
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: In suprema universalis
 giorno-doc: 22
@@ -77,7 +77,7 @@ Vogliamo poi che agli estratti, o agli esemplari della presente Lettera, anche s
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il giorno 22 agosto 1741, nel secondo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
