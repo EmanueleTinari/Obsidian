@@ -48,7 +48,7 @@ Da somma letizia siamo stati certamente rallegrati, Venerabili Fratelli, per ave
 Roma, Lunedì, 9 Giugno 1862 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
