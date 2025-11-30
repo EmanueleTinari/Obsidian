@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 33
 num-doc: 33
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Elapso proxime anno
 giorno-doc: 20
@@ -82,7 +82,7 @@ Quanto si è detto finora deve essere praticato anche nei confronti di coloro ch
 Dato a Roma, presso Santa Maria Maggiore, il 20 febbraio 1751, undicesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
