@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 4
 num-doc: 4
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Pro eximia tua
 giorno-doc: 30
@@ -72,7 +72,7 @@ Sì grande infatti è, e tanto spesso dimostrato dai fatti stessi, l’ossequio 
 Dato a Roma, presso Santa Maria Maggiore, sotto l’anello del Pescatore, il 30 giugno 1741, nell’anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
