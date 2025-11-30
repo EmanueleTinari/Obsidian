@@ -124,12 +124,12 @@ Non sia assolutamente consentito ad alcuno né di violare né di contestare ques
 Dato a Roma, presso San Pietro, il 24 maggio dell’anno 1824, dell’Incarnazione del Signore, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Leo XII `class: firmaC`
+Leo PP. XII `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
