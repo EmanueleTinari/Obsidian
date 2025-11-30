@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 10
 num-doc: 10
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Cum illud semper
 giorno-doc: 14
@@ -193,7 +193,7 @@ Sarà lecito tuttavia agli Ordinari, a loro arbitrio, con lettere indirizzate al
 Dato a Roma, presso Santa Maria Maggiore, il 14 dicembre 1742, terzo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
