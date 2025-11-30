@@ -52,7 +52,7 @@ Messa da parte la solennità del rito consueto, abbiamo qua convocato l’amplis
 Roma, Venerdì, 27 Ottobre 1871 `class: dataLuogo`
 
 
-Pius IX `class: firmaC`
+Pius PP. IX `class: firmaC`
 
 
 ***
