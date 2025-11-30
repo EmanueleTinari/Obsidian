@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 6
 num-doc: 6
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Quamvis paternae
 giorno-doc: 26
@@ -87,7 +87,7 @@ Vogliamo dunque che gli Ordinari dei luoghi siano consapevoli, secondo le dirett
 Dato a Roma, presso Santa Maria Maggiore, il 26 agosto 1741, nel secondo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
