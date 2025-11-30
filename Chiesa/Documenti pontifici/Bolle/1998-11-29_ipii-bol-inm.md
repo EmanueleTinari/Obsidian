@@ -122,7 +122,7 @@ La gioia giubilare non sarebbe completa se lo sguardo non si portasse a Colei ch
 Dato a Roma, presso San Pietro, il 29 novembre, prima domenica di Avvento, dell’anno del Signore 1998, ventunesimo di Pontificato. `class: dataLuogo`
 
 
-Ioannes Paulus II `class: firmaC`
+Ioannes Paulus PP. II `class: firmaC`
 
 
 ### Disposizioni per l’acquisto dell’Indulgenza giubilare
@@ -174,9 +174,9 @@ NOTE:
 
 [^1998-11-29_ipii-bol-inm-ftn8]: Cfr. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]],  Costituzione dogmatica sulla Divina Rivelazione *Dei Verbum, nn. [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-11-18_cevii-cos-dev#<span class="art" id="cos-dev_art2" name="cos-dev_art2">2</span>.|2]]* e *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1965-11-18_cevii-cos-dev#<span class="art" id="cos-dev_art4" name="cos-dev_art4">4</span>.|4]]*, 18 novembre 1965.
 
-[^1998-11-29_ipii-bol-inm-ftn9]: **San Gregorio Nazianzeno**, *Poemi dogmatici*, XXXI, *Hymnus alias*: PG 37, 510-511.
+[^1998-11-29_ipii-bol-inm-ftn9]: **San Gregorio Nazianzeno**, *Poemi dogmatici*, XXXI, *Hymnus alias*: *PG* 37, 510-511.
 
-[^1998-11-29_ipii-bol-inm-ftn10]: Cfr. **sant’Ireneo**, *Contro le eresie*, III, 17: PG 7, 930.
+[^1998-11-29_ipii-bol-inm-ftn10]: Cfr. **sant’Ireneo**, *Contro le eresie*, III, 17: *PG* 7, 930.
 
 [^1998-11-29_ipii-bol-inm-ftn11]: [[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/Concilio Ecumenico Vaticano II|Concilio Ecumenico Vaticano II]], Costituzione Dogmatica sulla Chiesa *[[Documenti vari/Documenti del Concilio Ecumenico Vaticano II/1964-11-21_cevii-cos-lug#<span class="art" id="cos-lug_art1" name="cos-lug_art1">1</span>.|Lumen Gentium, n. 1]]*, 21 novembre 1964.
 
