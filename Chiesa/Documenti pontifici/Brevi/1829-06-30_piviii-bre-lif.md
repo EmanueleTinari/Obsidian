@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 128
 num-doc: 4
-autore-doc: "[[Scheda 253° papa - Pio VIII|Papa Pio VIII]]"
+autore-doc: "[[Scheda 253° papa - Pio VIII|Pio VIII]]"
 tipo-doc: "[[Brevi|Breve]]"
 titolo-doc: Literae fraternitatis
 giorno-doc: 30
