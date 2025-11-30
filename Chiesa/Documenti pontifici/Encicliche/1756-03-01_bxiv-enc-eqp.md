@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 41
 num-doc: 41
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Ex quo primum
 giorno-doc: 1
@@ -427,7 +427,7 @@ Tutte queste cose abbiamo sentito il bisogno di esporvi, diletti Figli, con ques
 Dato a Roma, presso Santa Maria Maggiore, il 1° marzo 1756, nell’anno sedicesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
