@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 126
 num-doc: 2
-autore-doc: "[[Scheda 253° papa - Pio VIII|Papa Pio VIII]]"
+autore-doc: "[[Scheda 253° papa - Pio VIII|Pio VIII]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Traditi humilitati
 giorno-doc: 24
