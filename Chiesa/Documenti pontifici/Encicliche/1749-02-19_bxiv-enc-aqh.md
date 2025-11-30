@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 24
 num-doc: 24
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Annus qui hunc
 giorno-doc: 19
@@ -128,7 +128,7 @@ Abbiamo detto “*se ve ne sia bisogno*”, sapendo Noi molto bene che, nello St
 Dato a Roma, presso Santa Maria Maggiore, il 19 febbraio 1749, anno nono del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
