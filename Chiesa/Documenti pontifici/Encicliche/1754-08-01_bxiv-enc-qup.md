@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 38
 num-doc: 38
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Quod provinciale
 giorno-doc: 01
@@ -78,7 +78,7 @@ Infine, coloro che si sono fatti Cristiani dal Maomettanesimo, o che sono figli 
 Dato a Roma, presso Santa Maria Maggiore, il 1° agosto 1754, anno quattordicesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
