@@ -2,7 +2,7 @@
 cssclasses: docVat
 progr-doc: 31
 num-doc: 31
-autore-doc: "[[Scheda 247° papa - Benedetto XIV|Papa Benedetto XIV]]"
+autore-doc: "[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
 tipo-doc: "[[Lettere encicliche|Lettera Enciclica]]"
 titolo-doc: Celebrationem magni
 giorno-doc: 1
@@ -132,7 +132,7 @@ Siate certi, Venerabili Fratelli, che presso i Popoli Cristiani la forza della D
 Dato a Roma, presso Santa Maria Maggiore, il 1° gennaio 1751, undicesimo anno del Nostro Pontificato. `class: dataLuogo`
 
 
-Benedictus XIV `class: firmaC`
+Benedictus PP. XIV `class: firmaC`
 
 
 ***
