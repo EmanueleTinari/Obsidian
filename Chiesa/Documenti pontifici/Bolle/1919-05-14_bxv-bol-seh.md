@@ -58,7 +58,7 @@ Benedictus PP. XV `class: firmaC`
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
 ***
@@ -75,7 +75,7 @@ NOTE:
 
 [^1919-05-14_bxv-bol-seh-ftn4]: **[[Epist. ad Michaëlem, Patriarch. Constantinopol]]**.
 
-[^1919-05-14_bxv-bol-seh-ftn5]: **[[Litt. Apost. Orientalium dignitas Ecclesiarum, die 30 nov. 1894]].
+[^1919-05-14_bxv-bol-seh-ftn5]: **[[Litt. Apost. Orientalium dignitas Ecclesiarum, die 30 novembre 1894]].
 
 [^1919-05-14_bxv-bol-seh-ftn6]: Ps. XLIV, 10, 14-l5.
 
