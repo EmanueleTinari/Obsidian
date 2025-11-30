@@ -129,12 +129,12 @@ Pertanto a nessuno, assolutamente, sia lecito violare questa carta di estensione
 Dato a Roma, presso San Pietro, il 25 dicembre dell’anno dell’Incarnazione del Signore 1825, anno terzo del Nostro Pontificato. `class: dataLuogo`
 
 
-Leo XII `class: firmaC`
+Leo PP. XII `class: firmaC`
 
 
 ***
 
 
-Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana. `class: dirittiAut`
+Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana `class: dirittiAut`
 
 
