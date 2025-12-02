@@ -12,8 +12,14 @@ data-doc: 2025-09-17
 lingua-doc: Italiano
 lingua-orig: Italiano
 stato: false
-tags: [Lettera, Leone_XIV, Lettera_Seminario_Maggiore_Arcidiocesano_San_Carlos_San_Marcelo_Trujillo_400_anni_fondazione_4_novembre_2025, Documenti_pontifici]
-aliases: [Lettera al Seminario Maggiore Arcidiocesano "San Carlos e San Marcelo" di Trujillo, in occasione dei 400 anni dalla sua fondazione 4 novembre 2025]
+tags:
+  - Lettera
+  - Leone_XIV
+  - Lettera_Seminario_Maggiore_Arcidiocesano_San_Carlos_San_Marcelo_Trujillo_400_anni_fondazione_4_novembre_2025
+  - Documenti_pontifici
+aliases:
+  - Lettera al Seminario Maggiore Arcidiocesano "San Carlos e San Marcelo" di Trujillo
+  - in occasione dei 400 anni dalla sua fondazione 4 novembre 2025
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/letters/2025/documents/20250917-lettera-seminario-trujillo.html)"
