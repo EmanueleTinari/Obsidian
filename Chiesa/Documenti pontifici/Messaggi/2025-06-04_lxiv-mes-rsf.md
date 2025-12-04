@@ -49,7 +49,7 @@ Saluto fraternamente S.E. monsignor Laurent Ulrich, come pure tutti i vescovi de
 Dal Vaticano, Mercoledì, 4 Giugno 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
