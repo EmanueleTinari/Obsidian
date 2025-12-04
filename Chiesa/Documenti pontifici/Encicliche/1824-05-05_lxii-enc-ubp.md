@@ -55,7 +55,7 @@ Non appena fummo innalzati all’alta dignità del Pontificato, cominciammo subi
 Dato a Roma, presso Santa Maria Maggiore, il 5 maggio 1824, anno primo del Nostro Pontificato. `class: dataLuogo`
 
 
-Leo XII `class: firmaC`
+Leo PP. XII `class: firmaC`
 
 
 ***
