@@ -52,7 +52,7 @@ Ci siamo radunati oggi nella Cappella Sistina per commemorare, nell’Anno Giubi
 Cappella Sistina, Lunedì, 2 Giugno 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
