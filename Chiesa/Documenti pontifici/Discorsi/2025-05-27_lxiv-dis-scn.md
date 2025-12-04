@@ -55,7 +55,7 @@ benvenuti!<br>E congratulazioni per la vittoria del campionato!<br>È una grande
 Sala Clementina, Martedì, 27 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
