@@ -55,7 +55,7 @@ Buongiorno a tutti!<br>Benvenuti in Vaticano! `class: paragrafoNorm`
 Piazza dei Protomartiri Romani, Domenica, 1 Giugno 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
