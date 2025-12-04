@@ -24,7 +24,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xii/it/documents/bolla-exultabat-spiritus-25-dicembre-1825.html)"
 creato: 2025/10/31 23:34:34
-modificato: 2025/11/01 14:07:53
+modificato: 2025/12/04 00:57:05
 ---
 
 
