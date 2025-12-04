@@ -55,7 +55,7 @@ Cari fratelli e sorelle, comunità di Roma, mi fa tanto piacere essere qui con v
 Basilica di San Giovanni in Laterano, VI Domenica di Pasqua, 25 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
