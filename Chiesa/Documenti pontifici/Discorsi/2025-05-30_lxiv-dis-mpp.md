@@ -55,7 +55,7 @@ Sono lieto di accogliere voi, membri dei movimenti e delle associazioni che un a
 Sala Clementina, Venerdì, 30 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
