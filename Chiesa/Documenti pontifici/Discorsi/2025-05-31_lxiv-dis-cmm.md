@@ -52,7 +52,7 @@ con gioia mi unisco a voi in questa Veglia di preghiera a conclusione del Mese d
 Grotta di Lourdes nei Giardini Vaticani, Sabato, 31 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
