@@ -55,7 +55,7 @@ Sono lieto che, all’indomani della celebrazione del **[[Giubileo delle Famigli
 Dal Vaticano, Mercoledì, 28 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
