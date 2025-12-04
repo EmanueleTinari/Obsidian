@@ -52,7 +52,7 @@ Le sono molto grato per l’accoglienza e le parole di saluto che mi ha rivolto.
 Piazza dell'Ara Coeli (ai piedi della scalinata del Campidoglio), Domenica, 25 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
