@@ -79,11 +79,11 @@ NOTE:
 
 [^1978-09-03_ipi-ome-imp-ftn6]: *<span class="BibleRef">[[Mt 16,18|Mt 16,18]]</span>*.
 
-[^1978-09-03_ipi-ome-imp-ftn7]: **S. Augustini**, *In Ioannis Evang. tract.*, 124, 5: PL 35, 1973.
+[^1978-09-03_ipi-ome-imp-ftn7]: **S. Augustini**, *In Ioannis Evang. tract.*, 124, 5: *PL* 35, 1973.
 
 [^1978-09-03_ipi-ome-imp-ftn8]: **S. Efrem**, *Sermones in hebdomadam sanctam*, 4, 1, in LAMY T. J., S.Ephraem Syri hymni et sermones, 1, 412.
 
-[^1978-09-03_ipi-ome-imp-ftn9]: **S. Leonis Magni**, *Sermo V*, 4-5: PL 54, 155-156.
+[^1978-09-03_ipi-ome-imp-ftn9]: **S. Leonis Magni**, *Sermo V*, 4-5: *PL* 54, 155-156.
 
 [^1978-09-03_ipi-ome-imp-ftn10]: *<span class="BibleRef">[[Mt 16,16|Mt 16,16]]</span>*.
 
