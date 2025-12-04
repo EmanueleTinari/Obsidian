@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 5237
+progr-doc: 5236
 num-doc: 14
 autore-doc: "[[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]"
 tipo-doc: "[[Discorsi|Discorso]]"
