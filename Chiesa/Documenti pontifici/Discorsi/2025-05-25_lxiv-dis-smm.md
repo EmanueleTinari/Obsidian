@@ -55,7 +55,7 @@ Buonasera a tutti.<br>Grazie per essere qui!<br>Grazie per essere qui, davanti a
 Basilica di Santa Maria Maggiore, VI Domenica di Pasqua, 25 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
