@@ -14,7 +14,7 @@ lingua-orig: Latino
 stato: false
 tags:
   - Bolla
-  - Clemente XIV
+  - Clemente_XIV
   - Salutis_nostrae
   - Documenti_pontifici
 aliases:
@@ -24,7 +24,7 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/clemens-xiv/it/documents/bolla-salutis-nostrae-30-aprile-1774.html)"
 creato: 2025/09/24 23:43:11
-modificato: 2025/09/24 23:59:37
+modificato: 2025/12/04 00:53:52
 ---
 
 
