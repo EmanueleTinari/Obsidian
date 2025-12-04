@@ -55,7 +55,7 @@ Alle molteplici e terribili calamità che hanno angustiato il memorabile Pontifi
 Dato a Roma, presso San Pietro, il 25 gennaio 1825, anno secondo del Nostro Pontificato. `class: dataLuogo`
 
 
-Leo XII `class: firmaC`
+Leo PP. XII `class: firmaC`
 
 
 ***
