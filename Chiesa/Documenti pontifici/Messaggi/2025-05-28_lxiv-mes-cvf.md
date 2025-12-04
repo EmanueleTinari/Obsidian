@@ -49,7 +49,7 @@ Sono lieto di potermi rivolgere per la prima volta a voi, pastori della Chiesa i
 Dal Vaticano, Mercoledì, 28 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
