@@ -103,7 +103,7 @@ NOTE:
 
 [^1978-08-27_ipi-mes-ueo-ftn3]: *<span class="BibleRef">[[Mt 14,31|Mt 14,31]]</span>*
 
-[^1978-08-27_ipi-mes-ueo-ftn4]: **S. Augustini** *Sermo 75*, 3: PL 38, 475.
+[^1978-08-27_ipi-mes-ueo-ftn4]: **S. Augustini** *Sermo 75*, 3: *PL* 38, 475.
 
 [^1978-08-27_ipi-mes-ueo-ftn5]: *<span class="BibleRef">[[Mt 28,20|Mt 28,20]]</span>*
 
