@@ -55,7 +55,7 @@ sono lieto di salutarvi, membri del Consiglio di amministrazione della National 
 Auletta dell'Aula Paolo VI, Mercoledì, 4 Giugno 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
