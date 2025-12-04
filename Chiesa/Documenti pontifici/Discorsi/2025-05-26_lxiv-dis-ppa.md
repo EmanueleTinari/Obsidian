@@ -52,7 +52,7 @@ Potete sedervi, ma io resterò in piedi.<br>Sono venuto solo per un momento, per
 Altare della Cattedra della Basilica di San Pietro, Lunedì, 26 Maggio 2025 `class: dataLuogo`
 
 
-Leo XIV `class: firmaC`
+Leo PP. XIV `class: firmaC`
 
 
 ***
