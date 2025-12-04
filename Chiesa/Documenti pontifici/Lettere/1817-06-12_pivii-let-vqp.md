@@ -55,7 +55,7 @@ Guardando la vigna che il Signore piantò nel floridissimo regno di Francia dopo
 Dato a Roma, presso Santa Maria Maggiore, il 12 giugno 1817, anno diciottesimo del Nostro Pontificato. `class: dataLuogo`
 
 
-Pius VII `class: firmaC`
+Pius PP. VII `class: firmaC`
 
 
 ***
