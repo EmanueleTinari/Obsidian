@@ -43,107 +43,107 @@ const autori = [
 	{
 		link: '[[Scheda 247° papa - Benedetto XIV|Benedetto XIV]]',
 		label: 'Benedetto XIV',
-		lat: 'Benedictus XIV'
+		lat: 'Benedictus PP. XIV'
 	},
 	{
 		link: '[[Scheda 248° papa - Clemente XIII|Clemente XIII]]',
 		label: 'Clemente XIII',
-		lat: 'Clemens XIII'
+		lat: 'Clemens PP. XIII'
 	},
 	{
 		link: '[[Scheda 249° papa - Clemente XIV|Clemente XIV]]',
 		label: 'Clemente XIV',
-		lat: 'Clemens XIV'
+		lat: 'Clemens PP. XIV'
 	},
 	{
 		link: '[[Scheda 250° papa - Pio VI|Pio VI]]',
 		label: 'Pio VI',
-		lat: 'Pius VI'
+		lat: 'Pius PP. VI'
 	},
 	{
 		link: '[[Scheda 251° papa - Pio VII|Pio VII]]',
 		label: 'Pio VII',
-		lat: 'Pius VII'
+		lat: 'Pius PP. VII'
 	},
 	{
 		link: '[[Scheda 252° papa - Leone XII|Leone XII]]',
 		label: 'Leone XII',
-		lat: 'Leo XII'
+		lat: 'Leo PP. XII'
 	},
 	{
 		link: '[[Scheda 253° papa - Pio VIII|Pio VIII]]',
 		label: 'Pio VIII',
-		lat: 'Pius VIII'
+		lat: 'Pius PP. VIII'
 	},
 	{
 		link: '[[Scheda 254° papa - Gregorio XVI|Gregorio XVI]]',
 		label: 'Gregorio XVI',
-		lat: 'Gregorius XVI'
+		lat: 'Gregorius PP. XVI'
 	},
 	{
 		link: '[[Scheda 255° papa - Pio IX|Pio IX]]',
 		label: 'Pio IX',
-		lat: 'Pius IX'
+		lat: 'Pius PP. IX'
 	},
 	{
 		link: '[[Scheda 256° papa - Leone XIII|Leone XIII]]',
 		label: 'Leone XIII',
-		lat: 'Leo XIII'
+		lat: 'Leo PP. XIII'
 	},
 	{
 		link: '[[Scheda 257° papa - Pio X|Pio X]]',
 		label: 'Pio X',
-		lat: 'Pius X'
+		lat: 'Pius PP. X'
 	},
 	{
 		link: '[[Scheda 258° papa - Benedetto XV|Benedetto XV]]',
 		label: 'Benedetto XV',
-		lat: 'Benedictus XV'
+		lat: 'Benedictus PP. XV'
 	},
 	{
 		link: '[[Scheda 259° papa - Pio XI|Pio XI]]',
 		label: 'Pio XI',
-		lat: 'Pius XI'
+		lat: 'Pius PP. XI'
 	},
 	{
 		link: '[[Scheda 260° papa - Pio XII|Pio XII]]',
 		label: 'Pio XII',
-		lat: 'Pius XII'
+		lat: 'Pius PP. XII'
 	},
 	{
 		link: '[[Scheda 261° papa - Giovanni XXIII|Giovanni XXIII]]',
 		label: 'Giovanni XXIII',
-		lat: 'Ioannes XXIII'
+		lat: 'Ioannes PP. XXIII'
 	},
 	{
 		link: '[[Scheda 262° papa - Paolo VI|Paolo VI]]',
 		label: 'Paolo VI',
-		lat: 'Paulus VI'
+		lat: 'Paulus PP. VI'
 	},
 	{
 		link: '[[Scheda 263° papa - Giovanni Paolo I|Giovanni Paolo I]]',
 		label: 'Giovanni Paolo I',
-		lat: 'Ioannes Paulus I'
+		lat: 'Ioannes Paulus PP. I'
 	},
 	{
 		link: '[[Scheda 264° papa - Giovanni Paolo II|Giovanni Paolo II]]',
 		label: 'Giovanni Paolo II',
-		lat: 'Ioannes Paulus II'
+		lat: 'Ioannes Paulus PP. II'
 	},
 	{
 		link: '[[Scheda 265° papa - Benedetto XVI|Benedetto XVI]]',
 		label: 'Benedetto XVI',
-		lat: 'Benedictus XVI'
+		lat: 'Benedictus PP. XVI'
 	},
 	{
 		link: '[[Scheda 266° papa - Francesco I|Francesco I]]',
 		label: 'Francesco I',
-		lat: 'Franciscus I'
+		lat: 'Franciscus PP. I'
 	},
 	{
 		link: '[[Scheda 267° papa - Leone XIV|Leone XIV]]',
 		label: 'Leone XIV',
-		lat: 'Leo XIV'
+		lat: 'Leo PP. XIV'
 	}
 ];
 
