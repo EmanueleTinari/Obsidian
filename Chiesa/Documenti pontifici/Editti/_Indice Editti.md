@@ -3,7 +3,9 @@ creato: 2025/10/26 21:16:52
 modificato: 2025/10/26 21:32:13
 ---
 
+
 # Indice di tutti gli Editti pontifici
+
 
 ```dataviewjs  
 // Ottiene il percorso completo del file
@@ -17,7 +19,9 @@ const NomeDellaCartella = folders[folders.length - 1];
 dv.el("div", `<span style="color:blue; font-style:italic; font-size:100px;">${NomeDellaCartella}</span>`, {attr: {style: "text-align:center; margin-top:6em; margin-bottom:6em;"}});
 ```
 
+
 <span style="color: red; font-size: 18px">Cliccando sull’intestazione della colonna si ordinano i documenti in maniera ascendente o discendente.</span>
+
 
 ```dataviewjs
 // Verifica e mostra i file markdown solo nella cartella specificata
