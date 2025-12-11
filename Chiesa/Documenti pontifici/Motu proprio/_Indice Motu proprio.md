@@ -1,8 +1,11 @@
 ---
 creato: 2025/10/22 22:02:51
-modificato: 2025/10/22 22:03:00
+modificato: 2025/12/11 11:40:10
+---
+
 
 # Indice di tutti i Motu proprio
+
 
 ```dataviewjs  
 // Ottiene il percorso completo del file
