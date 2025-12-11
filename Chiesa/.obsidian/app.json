@@ -2,7 +2,7 @@
   "livePreview": true,
   "propertiesInDocument": "source",
   "showLineNumber": true,
-  "trashOption": "local",
+  "trashOption": "system",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
