@@ -1,24 +1,59 @@
 ---
 creato: 2025/07/10 16:56:05
-modificato: 2025/10/23 09:57:58
+modificato: 2025/12/22 21:28:31
 ---
 
 # OPERAZIONI QUOTIDIANE
 <br>
 
-> [!info]- - [ ] Capitolo della Sacra Bibbia
 
-> [!info]- - [ ] Documento papa Leone XIV
+> [!info]+ <div style="position: absolute; left: 50%; transform: translateX(-50%); color: white !important; white-space: nowrap;"><font style="font-size: 1.5em;"></font></div>
+> <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-left: 5em; margin-top: 0em;">
+> 
+> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [ ] Documento papa Leone XIV
+>
+> </div></div>
+> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [ ] Documento pontefice passato
+>
+> </div></div>
+> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [ ] Canti per le Liturgie
+>
+> </div></div>
+> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [ ] Messaggi Medjugorje
+>
+> </div></div>
+> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [ ] Santo del giorno
+>
+> </div></div>
+> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [ ] Messalino del giorno
+>
+> </div></div>
+> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [ ] Capitolo della Sacra Bibbia
+>
+> </div></div>
+> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [ ] 
+>
+> </div></div>
+> </div>
 
-> [!info]- - [ ] Documento pontefice passato
 
-> [!info]- - [ ] Canti per le Liturgie
-
-> [!info]- - [ ] Messaggi Medjugorje
-
-> [!info]- - [ ] Santo
-
-> [!info]- - [ ] Santi del giorno
+> [!info]- Calendario dei Santi
 >
 >> [!indice-generale]- Gennaio
 >>>[[Santi/01/01-01|Santi del giorno 01-01]] - - [[Santi/01/01-02|Santi del giorno 02-01]] - - [[Santi/01/01-03|Santi del giorno 03-01]] - - [[Santi/01/01-04|Santi del giorno 04-01]]<br>[[Santi/01/01-05|Santi del giorno 05-01]] - - [[Santi/01/01-06|Santi del giorno 06-01]] - - [[Santi/01/01-07|Santi del giorno 07-01]] - - [[Santi/01/01-08|Santi del giorno 08-01]]<br>[[Santi/01/01-09|Santi del giorno 09-01]] - - [[Santi/01/01-10|Santi del giorno 10-01]] - - [[Santi/01/01-11|Santi del giorno 11-01]] - - [[Santi/01/01-12|Santi del giorno 12-01]]<br>[[Santi/01/01-13|Santi del giorno 13-01]] - - [[Santi/01/01-14|Santi del giorno 14-01]] - - [[Santi/01/01-15|Santi del giorno 15-01]] - - [[Santi/01/01-16|Santi del giorno 16-01]]<br>[[Santi/01/01-17|Santi del giorno 17-01]] - - [[Santi/01/01-18|Santi del giorno 18-01]] - - [[Santi/01/01-19|Santi del giorno 19-01]] - - [[Santi/01/01-20|Santi del giorno 20-01]]<br>[[Santi/01/01-21|Santi del giorno 21-01]] - - [[Santi/01/01-22|Santi del giorno 22-01]] - - [[Santi/01/01-23|Santi del giorno 23-01]] - - [[Santi/01/01-24|Santi del giorno 24-01]]<br>[[Santi/01/01-25|Santi del giorno 25-01]] - - [[Santi/01/01-26|Santi del giorno 26-01]] - - [[Santi/01/01-27|Santi del giorno 27-01]] - - [[Santi/01/01-28|Santi del giorno 28-01]]<br>[[Santi/01/01-29|Santi del giorno 29-01]] - - [[Santi/01/01-30|Santi del giorno 30-01]] - - [[Santi/01/01-31|Santi del giorno 31-01]]
@@ -36,10 +71,10 @@ modificato: 2025/10/23 09:57:58
 >>>[[Santi/05/05-01|Santi del giorno 01-05]] - - [[Santi/05/05-02|Santi del giorno 02-05]] - - [[Santi/05/05-03|Santi del giorno 03-05]] - - [[Santi/05/05-04|Santi del giorno 04-05]]<br>[[Santi/05/05-05|Santi del giorno 05-05]] - - [[Santi/05/05-06|Santi del giorno 06-05]] - - [[Santi/05/05-07|Santi del giorno 07-05]] - - [[Santi/05/05-08|Santi del giorno 08-05]]<br>[[Santi/05/05-09|Santi del giorno 09-05]] - - [[Santi/05/05-10|Santi del giorno 10-05]] - - [[Santi/05/05-11|Santi del giorno 11-05]] - - [[Santi/05/05-12|Santi del giorno 12-05]]<br>[[Santi/05/05-13|Santi del giorno 13-05]] - - [[Santi/05/05-14|Santi del giorno 14-05]] - - [[Santi/05/05-15|Santi del giorno 15-05]] - - [[Santi/05/05-16|Santi del giorno 16-05]]<br>[[Santi/05/05-17|Santi del giorno 17-05]] - - [[Santi/05/05-18|Santi del giorno 18-05]] - - [[Santi/05/05-19|Santi del giorno 19-05]] - - [[Santi/05/05-20|Santi del giorno 20-05]]<br>[[Santi/05/05-21|Santi del giorno 21-05]] - - [[Santi/05/05-22|Santi del giorno 22-05]] - - [[Santi/05/05-23|Santi del giorno 23-05]] - - [[Santi/05/05-24|Santi del giorno 24-05]]<br>[[Santi/05/05-25|Santi del giorno 25-05]] - - [[Santi/05/05-26|Santi del giorno 26-05]] - - [[Santi/05/05-27|Santi del giorno 27-05]] - - [[Santi/05/05-28|Santi del giorno 28-05]]<br>[[Santi/05/05-29|Santi del giorno 29-05]] - - [[Santi/05/05-30|Santi del giorno 30-05]] - - [[Santi/05/05-31|Santi del giorno 31-05]]
 >
 >> [!indice-generale]- Giugno
->>>[[Santi/06/06-01|Santi del giorno 01-06]] - - [[Santi/06/06-02|Santi del giorno 02-06]] - - [[Santi/06/06-03|Santi del giorno 03-06]] - - [[Santi/06/06-04|Santi del giorno 04-06]]<br>[[Santi/06/06-05|Santi del giorno 05-06]] - - [[Santi/06/06-06|Santi del giorno 06-06]] - - [[Santi/06/06-07|Santi del giorno 07-06]] - - [[Santi/06/06-08|Santi del giorno 08-06]]<br>[[Santi/06/06-09|Santi del giorno 09-06]] - - [[Santi/06/06-10|Santi del giorno 10-06]] - - [[Santi/06/06-11|Santi del giorno 11-06]] - - [[Santi/06/06-12|Santi del giorno 12-06]]<br>[[Santi/06/06-13|Santi del giorno 13-06]] - - [[Santi/06/06-14|Santi del giorno 14-06]] - - [[Santi/06/06-15|Santi del giorno 15-06]] - - [[Santi/06/06-16|Santi del giorno 16-06]]<br>[[Santi/06/06-17|Santi del giorno 17-06]] - - [[Santi/06/06-18|Santi del giorno 18-06]] - - [[Santi/06/06-19|Santi del giorno 19-06]] - - [[Santi/06/06-20|Santi del giorno 20-06]]<br>[[Santi/06/06-21|Santi del giorno 21-06]] - - [[Santi/06/06-22|Santi del giorno 22-06]] - - [[Santi/06/06-23|Santi del giorno 23-06]] - - [[Santi/06/06-24|Santi del giorno 24-06]]<br>[[Santi/06/06-25|Santi del giorno 25-06]] - - [[Santi/06/06-26|Santi del giorno 26-06]] - - [[Santi/06/06-27|Santi del giorno 27-06]] - - [[Santi/06/06-28|Santi del giorno 28-06]]<br>[[Santi/06/06-29|Santi del giorno 29-06]] - - [[Santi/06/06-30|Santi del giorno 30-06]]
+>>>[[Santi/06/06-01|Santi del giorno 01-06]] - - [[Santi/06/06-02|Santi del giorno 02-06]] - - [[Santi/06/06-03|Santi del giorno 03-06]] - - [[Santi/06/06-04|Santi del giorno 04-06]]<br>[[Santi/06/06-05|Santi del giorno 05-06]] - - [[Santi/06/06-06|Santi del giorno 06-06]] - - [[Santi/06-07|Santi del giorno 07-06]] - - [[Santi/06/06-08|Santi del giorno 08-06]]<br>[[Santi/06/06-09|Santi del giorno 09-06]] - - [[Santi/06/06-10|Santi del giorno 10-06]] - - [[Santi/06/06-11|Santi del giorno 11-06]] - - [[Santi/06/06-12|Santi del giorno 12-06]]<br>[[Santi/06/06-13|Santi del giorno 13-06]] - - [[Santi/06/06-14|Santi del giorno 14-06]] - - [[Santi/06/06-15|Santi del giorno 15-06]] - - [[Santi/06/06-16|Santi del giorno 16-06]]<br>[[Santi/06/06-17|Santi del giorno 17-06]] - - [[Santi/06/06-18|Santi del giorno 18-06]] - - [[Santi/06/06-19|Santi del giorno 19-06]] - - [[Santi/06/06-20|Santi del giorno 20-06]]<br>[[Santi/06/06-21|Santi del giorno 21-06]] - - [[Santi/06/06-22|Santi del giorno 22-06]] - - [[Santi/06/06-23|Santi del giorno 23-06]] - - [[Santi/06/06-24|Santi del giorno 24-06]]<br>[[Santi/06/06-25|Santi del giorno 25-06]] - - [[Santi/06/06-26|Santi del giorno 26-06]] - - [[Santi/06/06-27|Santi del giorno 27-06]] - - [[Santi/06/06-28|Santi del giorno 28-06]]<br>[[Santi/06/06-29|Santi del giorno 29-06]] - - [[Santi/06/06-30|Santi del giorno 30-06]]
 >
 >> [!indice-generale]+ Luglio
->>>[[Santi/07/07-01|Santi del giorno 01-07]] - - [[Santi/07/07-02|Santi del giorno 02-07]] - - [[Santi/07/07-03|Santi del giorno 03-07]] - - [[Santi/07/07-04|Santi del giorno 04-07]]<br>[[Santi/07/07-05|Santi del giorno 05-07]] - - [[Santi/07/07-06|Santi del giorno 06-07]] - - [[Santi/07/07-07|Santi del giorno 07-07]] - - [[Santi/07/07-08|Santi del giorno 08-07]]<br>[[Santi/07/07-09|Santi del giorno 09-07]] - - [[Santi/07/07-10|Santi del giorno 10-07]] - - [[Santi/07/07-11|Santi del giorno 11-07]] - - [[Santi/07/07-12|Santi del giorno 12-07]]<br>[[Santi/07/07-13|Santi del giorno 13-07]] - - [[Santi/07/07-14|Santi del giorno 14-07]] - - [[Santi/07/07-15|Santi del giorno 15-07]] - - [[Santi/07/07-16|Santi del giorno 16-07]]<br>[[Santi/07/07-17|Santi del giorno 17-07]] - - [[Santi/07/07-18|Santi del giorno 18-07]] - - [[Santi/07/07-19|Santi del giorno 19-07]] - - [[Santi/07/07-20|Santi del giorno 20-07]]<br>[[Santi/07/07-21|Santi del giorno 21-07]] - - [[Santi/07/07-22|Santi del giorno 22-07]] - - [[Santi/07/07-23|Santi del giorno 23-07]] - - [[Santi/07/07-24|Santi del giorno 24-07]]<br>[[Santi/07/07-25|Santi del giorno 25-07]] - - [[Santi/07/07-26|Santi del giorno 26-07]] - - [[Santi/07/07-27|Santi del giorno 27-07]] - - [[Santi/07/07-28|Santi del giorno 28-07]]<br>[[Santi/07/07-29|Santi del giorno 29-07]] - - [[Santi/07/07-30|Santi del giorno 30-07]] - - [[Santi/07/07-31|Santi del giorno 31-07]]
+>>>[[Santi/07/07-01|Santi del giorno 01-07]] - - [[Santi/07/07-02|Santi del giorno 02-07]] - - [[Santi/07/07-03|Santi del giorno 03-07]] - - [[Santi/07/07-04|Santi del giorno 04-07]]<br>[[Santi/07/07-05|Santi del giorno 05-07]] - - [[Santi/07/07-06|Santi del giorno 06-07]] - - [[Santi/07/07-07|Santi del giorno 07-07]] - - [[Santi/07/07-08|Santi del giorno 08-07]]<br>[[Santi/07/07-09|Santi del giorno 09-07]] - - [[Santi/07/07-10|Santi del giorno 10-07]] - - [[Santi/07/07-11|Santi del giorno 11-07]] - - [[Santi/07/07-12|Santi del giorno 12-07]]<br>[[Santi/07/07-13|Santi del giorno 13-07]] - - [[Santi/07/07-14|Santi del giorno 14-07]] - - [[Santi/07/07-15|Santi del giorno 15-07]] - - [[Santi/07/07-16|Santi del giorno 16-07]]<br>[[Santi/07/07-17|Santi del giorno 17-07]] - - [[Santi/07/07-18|Santi del giorno 18-07]] - - [[Santi/07/07-19|Santi del giorno 19-07]] - - [[Santi/07/07-20|Santi del giorno 20-07]]<br>[[Santi/07/07-21|Santi del giorno 21-07]] - - [[Santi/07/07-22|Santi del giorno 22-07]] - - [[Santi/07/07-23|Santi del giorno 23-07]] - - [[Santi/07/07-24|Santi del giorno 24-07]]<br>[[Santi/07/07-25|Santi del giorno 25-07]] - - [[Santi/07/07-26|Santi del giorno 26-07]] - - [[Santi/Martirologio/07/07-27 1|Santi del giorno 27-07]] - - [[Santi/07/07-28|Santi del giorno 28-07]]<br>[[Santi/07/07-29|Santi del giorno 29-07]] - - [[Santi/07/07-30|Santi del giorno 30-07]] - - [[Santi/07/07-31|Santi del giorno 31-07]]
 >
 >> [!indice-generale]- Agosto
 >>>[[Santi/08/08-01|Santi del giorno 01-08]] - - [[Santi/08/08-02|Santi del giorno 02-08]] - - [[Santi/08/08-03|Santi del giorno 03-08]] - - [[Santi/08/08-04|Santi del giorno 04-08]]<br>[[Santi/08/08-05|Santi del giorno 05-08]] - - [[Santi/08/08-06|Santi del giorno 06-08]] - - [[Santi/08/08-07|Santi del giorno 07-08]] - - [[Santi/08/08-08|Santi del giorno 08-08]]<br>[[Santi/08/08-09|Santi del giorno 09-08]] - - [[Santi/08/08-10|Santi del giorno 10-08]] - - [[Santi/08/08-11|Santi del giorno 11-08]] - - [[Santi/08/08-12|Santi del giorno 12-08]]<br>[[Santi/08/08-13|Santi del giorno 13-08]] - - [[Santi/08/08-14|Santi del giorno 14-08]] - - [[Santi/08/08-15|Santi del giorno 15-08]] - - [[Santi/08/08-16|Santi del giorno 16-08]]<br>[[Santi/08/08-17|Santi del giorno 17-08]] - - [[Santi/08/08-18|Santi del giorno 18-08]] - - [[Santi/08/08-19|Santi del giorno 19-08]] - - [[Santi/08/08-20|Santi del giorno 20-08]]<br>[[Santi/08/08-21|Santi del giorno 21-08]] - - [[Santi/08/08-22|Santi del giorno 22-08]] - - [[Santi/08/08-23|Santi del giorno 23-08]] - - [[Santi/08/08-24|Santi del giorno 24-08]]<br>[[Santi/08/08-25|Santi del giorno 25-08]] - - [[Santi/08/08-26|Santi del giorno 26-08]] - - [[Santi/08/08-27|Santi del giorno 27-08]] - - [[Santi/08/08-28|Santi del giorno 28-08]]<br>[[Santi/08/08-29|Santi del giorno 29-08]] - - [[Santi/08/08-30|Santi del giorno 30-08]] - - [[Santi/08/08-31|Santi del giorno 31-08]]
