@@ -4,11 +4,13 @@
     "tableStyles",
     "sidenote-callout",
     "background",
-    "docVat"
+    "docVat",
+    "martirologio",
+    "tenda"
   ],
   "baseFontSizeAction": true,
   "accentColor": "#7cdfc1",
-  "baseFontSize": 20,
+  "baseFontSize": 21,
   "showViewHeader": true,
   "showRibbon": true,
   "interfaceFontFamily": "Calibri",

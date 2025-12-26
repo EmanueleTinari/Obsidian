@@ -204,13 +204,17 @@ Come si usa?
 	max-height: calc(var(--line-height-normal) * 1rem * var(--shown-line-count));
 }
 
+:root {
+	--link-verde-globale: rgb(126, 163, 5);
+}
+
 /* target both internal WIKI links & MD links in ALL views */
 .cm-s-obsidian span.cm-hmd-internal-link,
 .cm-s-obsidian span.cm-url:has([data-link-path$="md"]),
 .cm-s-obsidian span.cm-link:has([data-link-path$="md"]),
-.cm-s-obsidian span.cm-link:has([data-link-path$="md"]) .cm-underline:hover,
+.cm-s-obsidian span.cm-link:has([data-link-path$="md"]).cm-underline:hover,
 .markdown-rendered .internal-link {
-	color: rgb(126, 163, 5) !important;
+	color: var(--link-verde-globale) !important;
 }
 
 /** ------------- **/

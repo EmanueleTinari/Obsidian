@@ -82,6 +82,30 @@
             }
           },
           {
+            "id": "d0b710b6d18d5de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Chirografi/_Indice Chirografi.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Chirografi"
+            }
+          },
+          {
             "id": "2249c516dc197be3",
             "type": "leaf",
             "state": {
@@ -151,30 +175,6 @@
               },
               "icon": "lucide-file",
               "title": "_Indice Motu proprio"
-            }
-          },
-          {
-            "id": "6eb5fa73e140191c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Santi/07/07-27 - San Pantaleone.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "07-27 - San Pantaleone"
             }
           },
           {
@@ -248,9 +248,57 @@
               "icon": "lucide-file",
               "title": "_Indice Videomessaggi"
             }
+          },
+          {
+            "id": "d005cd9937807c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Modelli/Template Tenda con letture giorno corrente.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Template Tenda con letture giorno corrente"
+            }
+          },
+          {
+            "id": "50463c8340513ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_00 - OCR/File MD creati con OCR/2024-10-03 - La Tenda pagine 0023-0030 22-04-49.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-03 - La Tenda pagine 0023-0030 22-04-49"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -282,7 +330,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -307,7 +355,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 489.5
   },
   "right": {
     "id": "d5bc6d9aa97f3564",
@@ -371,7 +419,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -418,10 +466,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Documenti pontifici/Regina Cæli/_Indice Regina Cæli.md"
+                "file": "Documenti pontifici/Omelie/_Indice Omelie.md"
               },
               "icon": "lucide-info",
-              "title": "Proprietà file per _Indice Regina Cæli"
+              "title": "Proprietà file per _Indice Omelie"
             }
           }
         ],
@@ -462,53 +510,52 @@
       "vision-recall:Open Vision Recall": false
     }
   },
-  "active": "dd5bb0ca41029ce5",
+  "active": "50463c8340513ce2",
   "lastOpenFiles": [
-    "Documenti pontifici/Motu proprio/1826-11-14_lxii-mpr-ign.md",
-    "Documenti pontifici/Motu proprio/_Indice Motu proprio.md",
-    "Santi/07/07-27 - San Pantaleone.md",
-    "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
-    "Documenti pontifici/Motu proprio/1826-11-14_lxii-mpr-ign.pdf",
-    "Santi/Cartelle vuote con lettera dell'alfabeto.7z",
-    "Santi/Cartelle vuote con lettera dell'alfabeto.7z.tmp",
-    "Santi/07/07-27 - Sette dormienti di Efeso.md",
-    "Santi/S/07-27 - Sette dormienti di Efeso.md",
-    "z_Script/pythonScripts/CreaMarkdownDalCsvDeiSanti_bak20251210231154.py",
-    "Santi/12/12-10 - Beato Tommaso Somers.md",
-    "Santi/12/12-10 - San Tommaso di Farfa (di Maurienne).md",
-    "Santi/12/12-10 - San Sindulfo di Vienne.md",
-    "Santi/12/12-10 - Beato Simone Fernandez.md",
-    "Santi/12/12-10 - Beato Raimondo de Pirrariis.md",
-    "Santi/12/12-10 - Santi Polidoro Plasden ed Eustazio White.md",
-    "Santi/12/12-10 - San Mauro di Roma.md",
-    "Santi/12/12-10 - Beata Maria Emilia Riquelme y Zayas.md",
-    "Santi/12/12-10 - Beato Marcellino Martín Rubio.md",
-    "Santi/12/12-10 - Beato Marcantonio Durando.md",
-    "Santi/12/12-10 - San Lucerio di Farfa.md",
-    "Santi/12/12-10 - San Luca di Melicuccà.md",
-    "Santi/12/12-10 - San Guimero di St-Riquier.md",
-    "Santi/12/12-10 - Beato Guglielmo de Carraria.md",
-    "Santi/12/12-10 - San Gregorio III.md",
-    "Santi/12/12-10 - Beato Gonsalvo Viñes Masip.md",
-    "Santi/12/12-10 - San Giovanni Roberts.md",
-    "Santi/12/12-10 - San Gemello di Ancira.md",
-    "Santi/12/12-10 - Sant’Eulalia di Merida.md",
-    "Santi/12/12-10 - Santi Ermogene, Donato e 22 compagni.md",
-    "Santi/~$Calendario dei Santi, Martiri, Beati e Testimoni della Fede.xlsx",
-    "Documenti pontifici/Esortazioni apostoliche/1826-07-02_lxii-esa-paa.pdf",
-    "z_Script/pythonScripts/CreaMarkdownDalCsvDeiSanti_bak20251210143619.py",
-    "z_Script/pythonScripts/CreaMarkdownDalCsvDeiSanti_bak20251210142244.py",
-    "z_Script/pythonScripts/CreaMarkdownDalCsvDeiSanti_bak20251210091421.py",
-    "z_Script/pythonScripts/CreaMarkdownDalCsvDeiSanti_bak20251210090623.py",
-    "_06 - Tenda/OCR/010 A_page-0001.jpg",
-    "Documenti pontifici/Brevi/1741-06-30_bxiv-bre-quc.jpg",
-    "Documenti pontifici/Brevi/1741-05-30_bxiv-bre-noa.jpg",
-    "_02 - Allegati/Concilio_Ecumenico_Tridentino.jpg",
-    "_02 - Allegati/Concilio_Ecumenico_Tridentino1.jpg",
-    "_02 - Allegati/Concilio_Ecumenico_Tridentino_1.jpg",
-    "Documenti pontifici/Brevi/bxiv-bre-quc.jpg",
-    "Documenti pontifici/Brevi/bxiv-bre-noa.jpg",
-    "_02 - Allegati/shopsolar-favicon_32x32.png",
-    "_02 - Allegati/2025-07-26 - Capacità galleggiamento bidoni plastica_003.png"
+    "Documenti pontifici/Chirografi/_Indice Chirografi.md",
+    "Documenti pontifici/Chirografi/1829-01-06_lxii-chi-qus.md",
+    "Documenti pontifici/Chirografi/1829-01-06_lxii-chi-qus.pdf",
+    "_00 - OCR/File MD creati con OCR/2024-10-03 - La Tenda pagine 0023-0030 22-04-49.md",
+    "Untitled.md",
+    "Documenti pontifici/Lettere/_Indice Lettere.md",
+    "Documenti pontifici/Brevi/_Indice Brevi.md",
+    "Documenti pontifici/Lettere/1828-12-22_lxii-epi-apn.md",
+    "Documenti pontifici/Brevi/1827-10-02_lxii-bre-frq.md",
+    "Documenti pontifici/Lettere/1828-12-22_lxii-epi-apn.pdf",
+    "Documenti pontifici/Brevi/1827-10-02_lxii-bre-frq.pdf",
+    "Operazioni quotidiane.md",
+    "Documenti pontifici/Brevi/1827-03-20_lxii-bre-inm.md",
+    "Documenti pontifici/Brevi/1827-02-13_lxii-bre-qul.md",
+    "Documenti pontifici/Brevi/1827-03-20_lxii-bre-inm.pdf",
+    "z_Modelli/Template Tenda con letture giorno corrente.md",
+    "Documenti pontifici/Brevi/1826-12-12_lxii-bre-eco.md",
+    "z_Modelli/Template Tenda con letture giorno corrente e proprie della Memoria.md",
+    "Documenti pontifici/Brevi/Ecclesiarum Omnium.pdf",
+    "z_Modelli/Template Tenda attivatore script.md",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0321.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0320.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0319.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0317.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0318.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0314.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0316.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0315.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0313.jpg",
+    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0312.jpg",
+    "_00 - OCR/2024 10 La Tenda",
+    "z_Modelli/_Templater esempio while.md",
+    "_00 - OCR/File MD creati con OCR/Compilato_2025-12-18T13-05-58.md",
+    "z_Script/TemplaterUserDefined/compilaTemplateTenda.js",
+    "z_Modelli/Untitled.md",
+    "Documenti pontifici/Videomessaggi/_Indice Videomessaggi.md",
+    "Footnotes.md",
+    "Santi/07-27 - San Pantaleone.md",
+    "z_Modelli/Template Tenda - Copia.md",
+    "z_Script/invocableScripts/compilaTemplateTenda.js",
+    "z_Script/invocableScripts/Nuovo Documento di testo.txt",
+    "z_Modelli/2024-xx-xx - La Tenda pagine xxxx-xxxx.md",
+    "_00 - OCR/File MD creati con OCR/2024-xx-xx - La Tenda pagine xxxx-xxxx.md",
+    "_00 - OCR/File MD creati con OCR/2024-10-02 - La Tenda pagine 13-20.md",
+    "z_Script/pythonScripts/CreaMarkdownDalCsvDeiSanti_bak20251213165106.py"
   ]
 }

@@ -13,11 +13,6 @@
     "creato": "datetime",
     "modificato": "datetime",
     "patrono": "multitext",
-    "memoria": "multitext",
-    "categoria": "multitext",
-    "date": "multitext",
-    "beatificazione": "multitext",
-    "canonizzazione": "multitext",
     "posizione-Martirologio": "number",
     "genere": "text"
   }
