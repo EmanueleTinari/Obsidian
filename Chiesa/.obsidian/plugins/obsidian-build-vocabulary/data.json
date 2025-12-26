@@ -1,0 +1,11 @@
+{
+  "startFolders": [
+    "Documenti pontifici",
+    "Documenti vari"
+  ],
+  "includeAccented": true,
+  "includeArticoliDeterminativi": true,
+  "includeArticoliIndeterminativi": true,
+  "includePreposizioniSemplici": true,
+  "includePreposizioniArticolate": true
+}
