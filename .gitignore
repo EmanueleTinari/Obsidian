@@ -1,3 +1,4 @@
+# Ignora le cartelle di altri vault che hai in locale
 /habit-tracker-example
 /Ideaverse Lite 1.5
 /Import_GitHub
@@ -5,14 +6,30 @@
 /scriptures
 /Vault_vuoto1
 /Zettelkasten
+
+# Ignora file specifici
 /*.7z
 /*.pdf
-/Chiesa/_*.*
+/Chiesa/Vecchi file NON su GitHub
+
+# Ignora i file temporanei nella cartella Chiesa
+/Chiesa/**/_*
 /Chiesa/Documenti pontifici/_tmpHTML.html
 /Chiesa/Documenti pontifici/_tmpAI.md
 /Chiesa/Documenti pontifici/_Prompt IA per estrazione Documenti pontifici.md
-/Chiesa/.obsidian
-Chiesa/.obsidian/plugins
-!/Chiesa/.obsidian/plugins/obsidian-build-vocabulary
-!/Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs
-/Chiesa/Vecchi file NON su GitHub
+
+# --- REGOLE CORRETTE PER I PLUGIN ---
+# Ignora il CONTENUTO della cartella .obsidian, non la cartella stessa
+/Chiesa/.obsidian/*
+
+# Ora possiamo fare le eccezioni!
+# Prima, sblocchiamo la cartella dei plugin e dei tuoi snippet
+!/Chiesa/.obsidian/plugins/
+!/Chiesa/.obsidian/snippets/
+
+# Ora, ignora TUTTI i plugin al suo interno...
+/Chiesa/.obsidian/plugins/*
+
+# ...e infine, sblocca SOLO le cartelle dei tuoi plugin specifici
+!/Chiesa/.obsidian/plugins/obsidian-build-vocabulary/
+!/Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/
