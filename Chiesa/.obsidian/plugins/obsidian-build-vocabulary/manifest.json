@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-build-vocabulary",
+    "name": "Build vocabulary",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Estrae e organizza il vocabolario unico dalle note dell'utente con link ad ogni singola parola estratta.",
+    "author": "Emanuele Tinari + GitHub Copilot AI + Google Gemini in Firebase AI",
+    "authorUrl": "https://github.com/EmanueleTinari",
+    "main": "main.js",
+    "isDesktopOnly": true
+}
