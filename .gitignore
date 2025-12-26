@@ -7,9 +7,21 @@
 /Vault_vuoto1
 /Zettelkasten
 
+# Ignora file specifici, ovunque si trovino
+**/*.7z
+**/*.pdf
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+
+# ...ma fai un'eccezione per quelle nella cartella degli allegati.
+!/Chiesa/**/_02 - Allegati/**/*.jpg
+!/Chiesa/**/_02 - Allegati/**/*.jpeg
+!/Chiesa/**/_02 - Allegati/**/*.png
+!/Chiesa/**/_02 - Allegati/**/*.gif
+
 # Ignora file specifici
-/*.7z
-/*.pdf
 /Chiesa/Vecchi file NON su GitHub
 
 # Ignora i file temporanei nella cartella Chiesa
