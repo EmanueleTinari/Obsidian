@@ -102,7 +102,6 @@ const outputFolder = "Vocaboli";
 // File to track already scanned files
 const alreadyScannedFiles = "_already_scanned.md";
 
-
 // === FUNZIONI DI SUPPORTO E GESTIONE FILE ===
 
 // Estrae le parole da un testo secondo i criteri definiti, includendo lettere accentate
@@ -121,10 +120,6 @@ function getWordsFromText(text, minWordLength = 3) {
         /\p{L}/u.test(word)
     );
 }
-
-
-
-
 
 // Assicura che la cartella esista, altrimenti la crea
 async function ensureFolderExists(folderPath, app) {
@@ -185,7 +180,6 @@ async function writeDataToFile(app, filePath, content) {
     return true;
 }
 
-
 // Funzione per scrivere l'elenco dei file già scansionati in formato markdown tabellare
 // Ogni riga: | [Nome file](percorso) | data creazione | data modifica |
 // Date in formato dd-MM-yyyy hh:mm:ss
@@ -193,8 +187,6 @@ async function writeAlreadyScannedFiles(app, filesInfoArray) {
     const filePath = `${outputFolder}/${alreadyScannedFiles}`;
     // Ordina per percorso completo (alfabetico, rispetta struttura cartelle)
     filesInfoArray.sort((a, b) => a.path.localeCompare(b.path));
-
-
     // Intestazione tabella markdown
     let content = '| File | Data creazione | Data modifica |\n';
     content += '|---|---|---|\n';
@@ -207,6 +199,56 @@ async function writeAlreadyScannedFiles(app, filesInfoArray) {
         content += `| ${link} | ${created} | ${modified} |\n`;
     }
     await writeDataToFile(app, filePath, content);
+}
+
+// Funzione di utilità per mostrare la notifica personalizzata
+function mostraNotificaPersonalizzata(messaggio, tipo = "successo", durataSec = 5) {
+    // Trasforma i secondi passati (es. 2 o 8) in millisecondi (2000 o 8000)
+    const n = new Notice(messaggio, durataSec * 1000);
+    // Iniezione diretta degli stili sull'elemento DOM
+    const el = n.noticeEl;
+    // Colori in base al tipo
+    const coloreVerde = "rgb(126, 163, 5)";
+    const coloreRosso = "#ff4444";
+    const coloreGiallo = "#ffcc00"; // Giallo deciso per "attenzione"
+    let coloreBordo;
+    if (tipo === "errore") {
+        coloreBordo = coloreRosso;
+    }
+    else if (tipo === "attenzione") {
+        coloreBordo = coloreGiallo;
+    }
+    else {
+        coloreBordo = coloreVerde;
+    }
+    // Usiamo il colore del tema per lo sfondo invece di lasciarlo vuoto
+    el.style.backgroundColor = "var(--background-primary)";
+    el.style.backgroundImage = "none";
+    // Assicuriamo che il bordo sia disegnato correttamente
+    el.style.border = `2px solid ${coloreBordo}`;
+    el.style.borderRadius = "8px"; // Arrotonda leggermente per evitare tagli netti
+    el.style.boxShadow = "0 4px 10px rgba(0,0,0,0.5)"; // Ombra più marcata per staccare dal fondo
+    el.style.boxSizing = "border-box"; // Garantisce che il bordo sia incluso nel calcolo dello spazio
+    // FIX: Impedisce al bordo di sparire a sinistra durante lo scale
+    el.style.display = "block";
+    el.style.color = "white";
+    el.style.filter = "none";
+    el.style.fontFamily = "monospace";
+    el.style.fontSize = "1.2em"; // Ingrandimento testo
+    el.style.fontWeight = "600";
+    el.style.marginLeft = "20px";
+    el.style.opacity = "1";
+    el.style.overflow = "visible";
+    el.style.padding = "20px";
+    // Ridotto leggermente lo scale per evitare collisioni con i bordi dello schermo
+    el.style.transform = "scale(1.1)";
+    el.style.transformOrigin = "top right"; // Leggero ingrandimento box
+    el.style.whiteSpace = "pre-wrap"; // Fondamentale per vedere i \n (a capo)
+    // Forza il colore del testo per tutti i figli interni (se presenti)
+    const coloreTesto = "white";
+    el.querySelectorAll('*').forEach(child => {
+        child.style.color = coloreTesto;
+    });
 }
 
 // Funzione di utilità per formattare la data/ora come dd-MM-yyyy hh:mm:ss
@@ -261,7 +303,7 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
         let testo = "Il cane dall'uomo sull'albero l'acqua dell'acqua un'idea";
         let minLen = this.settings.minWordLength || 3;
         let parole = testo.split(/\s+/)
-            .map(w => w.split("'"))
+            .map(w => w.split(/(?<=')/))
             .flat()
             .map(w => w.trim())
             .filter(w => w.length >= minLen);
