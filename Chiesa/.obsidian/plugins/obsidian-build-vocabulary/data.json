@@ -3,6 +3,7 @@
     "Documenti pontifici",
     "Documenti vari"
   ],
+  "addRibbonIcon": true,
   "includeAccented": true,
   "includeArticoliDeterminativi": false,
   "includeArticoliIndeterminativi": false,
