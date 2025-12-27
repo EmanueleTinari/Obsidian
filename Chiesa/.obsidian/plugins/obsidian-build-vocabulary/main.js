@@ -87,6 +87,7 @@ const excludedPrefix = "_";
 // Plugin default settings
 const DEFAULT_SETTINGS = {
     startFolders: [],
+    addRibbonIcon: false, // Default: Non mostra l'icona alla prima attivazione
     includeAccented: true,
     includeArticoliDeterminativi: false,
     includeArticoliIndeterminativi: false,
@@ -237,20 +238,21 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             name: 'Estrai vocabolario',
             callback: () => this.extractVocabulary()
         });
-        // Icona custom 'BV' come SVG inline
-        const bvIcon = `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="24" height="24" rx="6" fill="var(--icon-color, #4b4b4b)"/>
-                <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" font-size="13" font-family="Arial, sans-serif" fill="white" font-weight="bold" style="fill:white;">BV</text>
-            </svg>`;
-        this.addRibbonIcon('book-open', 'Estrai vocabolario', () => {
-            this.extractVocabulary();
-        }).innerHTML = bvIcon;
+        // Aggiunge l'icona alla barra laterale solo se l'opzione è attiva
+        if (this.settings.addRibbonIcon) {
+            // Icona custom 'BV' come SVG inline
+            const bvIcon = `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="24" height="24" rx="6" fill="var(--icon-color, #4b4b4b)"/>
+                    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" font-size="13" font-family="Arial, sans-serif" fill="white" font-weight="bold" style="fill:black;">BV</text>
+                </svg>`;
+            this.addRibbonIcon('book-open', 'Estrai vocabolario', () => {
+                this.extractVocabulary();
+            }).innerHTML = bvIcon;
+        }
     }
-
     onunload() {
         new Notice('Plugin Build Vocabulary disattivato!');
     }
-
     async extractVocabulary() {
         let folders = (this.settings.startFolders && this.settings.startFolders.length > 0)
             ? this.settings.startFolders
@@ -274,7 +276,6 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
         new Notice('Cartelle iniziali: ' + folders.join(', '));
         new Notice('Parole trovate: ' + parole.join(', '));
     }
-
     async saveSettings() {
         await this.saveData(this.settings);
     }
@@ -286,7 +287,6 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
         super(app, plugin);
         this.plugin = plugin;
     }
-
     // Mostra la UI delle impostazioni / Display settings UI
     display() {
         const { containerEl } = this;
@@ -298,6 +298,23 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
         refreshBtn.onclick = () => {
             this.display();
         };
+        const ribbonSetting = new Setting(containerEl)
+            .setName('Aggiungi l\’icona alla barra laterale')
+            .addToggle(toggle => toggle
+                .setValue(this.plugin.settings.addRibbonIcon)
+                .onChange(async (value) => {
+                    this.plugin.settings.addRibbonIcon = value;
+                    await this.plugin.saveSettings();
+                })
+            );
+        ribbonSetting.descEl.createEl('span', { text: 'Se attivo, mostra l\’icona del plugin nella barra laterale.' });
+        ribbonSetting.descEl.createEl('br');
+        ribbonSetting.descEl.createEl('span', { text: 'È necessario disattivare e riattivare il plugin per rendere effettiva la modifica.' });
+        ribbonSetting.descEl.createEl('br');
+        ribbonSetting.descEl.createEl('span', { text: 'Se l\'icona non viene utilizzata, per eseguire la costruzione del vocabolario eseguire' });
+        ribbonSetting.descEl.createEl('br');
+        ribbonSetting.descEl.createEl('span', { text: 'il Plugin dal riquadro comandi (CTRL + P o CMD + P) attivandolo con \“Estrai vocabolario\”' });
+        containerEl.createEl('hr');
         // Cartella iniziale con browser
         // Start folder with browser
         // Calcola il path attuale da mostrare
@@ -369,7 +386,8 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
                             expandBtn.textContent = expanded ? '▼' : '▶';
                             if (childrenDiv) childrenDiv.style.display = expanded ? '' : 'none';
                         };
-                    } else {
+                    }
+                    else {
                         // Spazio per allineare
                         row.createEl('span').style.width = '22px';
                     }
@@ -387,7 +405,8 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
                                         if (!this.plugin.settings.startFolders.includes(folder.path)) {
                                             this.plugin.settings.startFolders.push(folder.path);
                                         }
-                                    } else {
+                                    }
+                                    else {
                                         this.plugin.settings.startFolders = this.plugin.settings.startFolders.filter(f => f !== folder.path);
                                     }
                                     await this.plugin.saveSettings();
@@ -480,7 +499,6 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
             );
     }
 }
-
 // --- Main Logic ---
 // 1. Ensure the output folder exists
 // 2. Load the list of already scanned files
