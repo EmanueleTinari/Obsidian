@@ -88,10 +88,10 @@ const excludedPrefix = "_";
 const DEFAULT_SETTINGS = {
     startFolders: [],
     includeAccented: true,
-    includeArticoliDet: true,
-    includeArticoliIndet: true,
-    includePrepSemplici: true,
-    includePrepArticolate: true,
+    includeArticoliDeterminativi: false,
+    includeArticoliIndeterminativi: false,
+    includePreposizioniSemplici: false,
+    includePreposizioniArticolate: false,
 };
 
 // Cartella dove verranno creati i file di output
@@ -265,10 +265,10 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             .filter(w => w.length >= minLen);
         parole = parole.filter(word => {
             const lw = word.toLowerCase();
-            if (!this.settings.includeArticoliDet && ARTICOLI_DET.includes(lw)) return false;
-            if (!this.settings.includeArticoliIndet && ARTICOLI_INDET.includes(lw)) return false;
-            if (!this.settings.includePrepSemplici && PREP_SEMPLICI.includes(lw)) return false;
-            if (!this.settings.includePrepArticolate && PREP_ARTICOLATE.includes(lw)) return false;
+            if (!this.settings.includeArticoliDeterminativi && ARTICOLI_DETERMINATIVI.includes(lw)) return false;
+            if (!this.settings.includeArticoliIndeterminativi && ARTICOLI_INDETERMINATIVI.includes(lw)) return false;
+            if (!this.settings.includePreposizioniSemplici && PREPOSIZIONI_SEMPLICI.includes(lw)) return false;
+            if (!this.settings.includePreposizioniArticolate && PREPOSIZIONI_ARTICOLATE.includes(lw)) return false;
             return true;
         });
         new Notice('Cartelle iniziali: ' + folders.join(', '));
@@ -438,9 +438,9 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
         new Setting(containerEl)
             .setName('Includi articoli determinativi')
             .addToggle(toggle => toggle
-                .setValue(this.plugin.settings.includeArticoliDet)
+                .setValue(this.plugin.settings.includeArticoliDeterminativi)
                 .onChange(async (value) => {
-                    this.plugin.settings.includeArticoliDet = value;
+                    this.plugin.settings.includeArticoliDeterminativi = value;
                     await this.plugin.saveSettings();
                 })
             );
@@ -449,9 +449,9 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
         new Setting(containerEl)
             .setName('Includi articoli indeterminativi')
             .addToggle(toggle => toggle
-                .setValue(this.plugin.settings.includeArticoliIndet)
+                .setValue(this.plugin.settings.includeArticoliIndeterminativi)
                 .onChange(async (value) => {
-                    this.plugin.settings.includeArticoliIndet = value;
+                    this.plugin.settings.includeArticoliIndeterminativi = value;
                     await this.plugin.saveSettings();
                 })
             );
@@ -460,9 +460,9 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
         new Setting(containerEl)
             .setName('Includi preposizioni semplici')
             .addToggle(toggle => toggle
-                .setValue(this.plugin.settings.includePrepSemplici)
+                .setValue(this.plugin.settings.includePreposizioniSemplici)
                 .onChange(async (value) => {
-                    this.plugin.settings.includePrepSemplici = value;
+                    this.plugin.settings.includePreposizioniSemplici = value;
                     await this.plugin.saveSettings();
                 })
             );
@@ -471,9 +471,9 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
         new Setting(containerEl)
             .setName('Includi preposizioni articolate')
             .addToggle(toggle => toggle
-                .setValue(this.plugin.settings.includePrepArticolate)
+                .setValue(this.plugin.settings.includePreposizioniArticolate)
                 .onChange(async (value) => {
-                    this.plugin.settings.includePrepArticolate = value;
+                    this.plugin.settings.includePreposizioniArticolate = value;
                     await this.plugin.saveSettings();
                 })
             );
