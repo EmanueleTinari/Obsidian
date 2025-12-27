@@ -398,10 +398,11 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
                     if (folder.children && folder.children.some(f => f instanceof require('obsidian').TFolder)) {
                         childrenDiv = wrapper.createEl('div');
                         childrenDiv.style.display = 'none';
-                        folder.children.forEach(child => {
-                            if (child instanceof require('obsidian').TFolder) {
-                                createTree(child, childrenDiv, level + 1);
-                            }
+                        // Filtra le sottocartelle, le ordina alfabeticamente e poi le processa
+                        const subfolders = folder.children.filter(c => c instanceof require('obsidian').TFolder);
+                        subfolders.sort((a, b) => a.name.localeCompare(b.name));
+                        subfolders.forEach(child => {
+                            createTree(child, childrenDiv, level + 1);
                         });
                     }
                 };
