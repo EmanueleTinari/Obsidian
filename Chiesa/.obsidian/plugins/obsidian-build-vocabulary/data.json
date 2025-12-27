@@ -4,8 +4,8 @@
     "Documenti vari"
   ],
   "includeAccented": true,
-  "includeArticoliDeterminativi": true,
-  "includeArticoliIndeterminativi": true,
-  "includePreposizioniSemplici": true,
-  "includePreposizioniArticolate": true
+  "includeArticoliDeterminativi": false,
+  "includeArticoliIndeterminativi": false,
+  "includePreposizioniSemplici": false,
+  "includePreposizioniArticolate": false
 }
