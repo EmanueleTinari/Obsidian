@@ -65,7 +65,6 @@ const OUTPUT_FOLDER = "Vocaboli";
 const DEFAULT_SETTINGS = {
     startFolders: [],
     addRibbonIcon: false,
-    customStringsToExclude: '<br>,§',
     // Lunghezza minima che una parola deve avere per essere inclusa
     // Minimum length for a word to be included
     minWordLength: 2,
@@ -221,17 +220,32 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             for (const line of lines) {
                 if (line.trim() === '') continue;
                 // --- INIZIO BLOCCO DI PULIZIA ---
-                let cleanedLine = line;
-                const stringsToExclude = this.settings.customStringsToExclude.split(',');
-                for (const str of stringsToExclude) {
-                    if (str.trim() !== '') {
-                        cleanedLine = cleanedLine.replaceAll(str.trim(), ' ');
-                    }
+                let cleanedLine;
+                // 1. ISOLAMENTO SELETTIVO DELLA TRADUZIONE
+                // Se la riga contiene una traduzione in [...], isoliamo solo quella.
+                // Altrimenti, procediamo con la riga intera.
+                const translationMatch = line.match(/\[(.*?)\]/);
+                if (translationMatch && translationMatch[1]) {
+                    // Trovata traduzione: usiamo solo il contenuto delle parentesi quadre.
+                    cleanedLine = translationMatch[1];
                 }
+                else {
+                    // Nessuna traduzione: usiamo la riga originale per la pulizia successiva.
+                    cleanedLine = line;
+                }
+                // 2. PULIZIA GENERALE SUL TESTO SELEZIONATO
+                // (si applica sia alle traduzioni isolate che alle righe normali)
+                // Rimuove qualsiasi tag HTML residuo (es. <span>, <br>)
+                cleanedLine = cleanedLine.replaceAll(/<[^>]+>/g, ' ');
+                // Rimuove le varianti di "cfr." (case-insensitive, con o senza punto)
+                cleanedLine = cleanedLine.replaceAll(/\bcfr\.?\b/gi, ' ');
+                // Rimuove parentesi tonde, asterischi e altri simboli specifici.
+                // Ho aggiunto l'asterisco (*) perché spesso delimita il testo straniero scartato.
+                cleanedLine = cleanedLine.replaceAll(/[()§*]/g, ' ');
                 // --- FINE BLOCCO DI PULIZIA ---
                 // Regex per trovare le parole, inclusi i caratteri accentati.
                 // Regex to find words, including accented characters.
-                const wordsInLine = line.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
+                const wordsInLine = cleanedLine.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
                 for (const word of wordsInLine) {
                     const lw = word.toLowerCase();
                     // Logica di filtraggio
@@ -411,28 +425,6 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                     this.plugin.settings.includePreposizioniArticolate = value;
                     await this.plugin.saveSettings();
                 }));
-        // --- IMPOSTAZIONE STRINGHE DA ESCLUDERE ---
-        // 1. Creiamo l'impostazione con il nome e l'area di testo,
-        //    salvandola in una costante per poterla usare dopo.
-        const customStringsSetting = new Setting(containerEl)
-            .setName('Stringhe personalizzate da escludere')
-            .addTextArea(text => text
-                .setPlaceholder('<br>,§,...')
-                .setValue(this.plugin.settings.customStringsToExclude)
-                .onChange(async (value) => {
-                    this.plugin.settings.customStringsToExclude = value;
-                    await this.plugin.saveSettings();
-                }));
-        // 2. Ora usiamo MarkdownRenderer per inserire la nostra descrizione complessa
-        //    all'interno dello stesso blocco dell'impostazione.
-        MarkdownRenderer.renderMarkdown(
-            'Lista di stringhe (separate da virgola) da rimuovere dal testo prima dell\’analisi.' +
-            '<br>' +
-            'Utile per pulire tag HTML (es: `\<br\>`) o simboli speciali (es: `§`).',
-            customStringsSetting.descEl,
-            '',
-            this.plugin
-        );
     }
 }
 
