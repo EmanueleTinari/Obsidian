@@ -220,6 +220,15 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             const lines = content.split('\n');
             for (const line of lines) {
                 if (line.trim() === '') continue;
+                // --- INIZIO BLOCCO DI PULIZIA ---
+                let cleanedLine = line;
+                const stringsToExclude = this.settings.customStringsToExclude.split(',');
+                for (const str of stringsToExclude) {
+                    if (str.trim() !== '') {
+                        cleanedLine = cleanedLine.replaceAll(str.trim(), ' ');
+                    }
+                }
+                // --- FINE BLOCCO DI PULIZIA ---
                 // Regex per trovare le parole, inclusi i caratteri accentati.
                 // Regex to find words, including accented characters.
                 const wordsInLine = line.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
