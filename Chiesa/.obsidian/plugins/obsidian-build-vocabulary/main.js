@@ -219,33 +219,68 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             const lines = content.split('\n');
             for (const line of lines) {
                 if (line.trim() === '') continue;
+                // =================================================================
                 // --- INIZIO BLOCCO DI PULIZIA ---
-                let cleanedLine;
-                // 1. ISOLAMENTO SELETTIVO DELLA TRADUZIONE
-                // Se la riga contiene una traduzione in [...], isoliamo solo quella.
-                // Altrimenti, procediamo con la riga intera.
-                const translationMatch = line.match(/\[(.*?)\]/);
-                if (translationMatch && translationMatch[1]) {
-                    // Trovata traduzione: usiamo solo il contenuto delle parentesi quadre.
-                    cleanedLine = translationMatch[1];
+                // Obiettivo: Isolare la porzione di testo corretta da cui estrarre le parole.
+                // La logica opera con una priorità precisa:
+                // 1. Prima controlla se la riga è una DEFINIZIONE di footnote.
+                //    Se sì, estrae solo il testo della nota.
+                // 2. Altrimenti, tratta la riga come testo normale,
+                //    la sanifica dai RIFERIMENTI e poi cerca eventuali TRADUZIONI.
+                // =================================================================
+                // Questa variabile conterrà il testo "pulito" finale da analizzare.
+                let textToProcess = '';
+                // --- Fase 1: Gestione delle DEFINIZIONI di Footnote ---
+                // Controlliamo se la riga è una DEFINIZIONE di nota (es. `[^1]: Testo...`).
+                // Questa è la parte che gestisce l'estrazione delle parole dal "tesoro" delle note.
+                if (line.trim().startsWith('[^') && line.includes(']:')) {
+                    // La riga è una DEFINIZIONE.
+                    // Usiamo .split() con una regex per dividere la riga al marcatore `[^...]:`.
+                    // Prendiamo il secondo elemento ([1]), che è tutto il testo DOPO il marcatore.
+                    const definitionContent = line.split(/\[\^.*?\]:/)[1];
+                    if (definitionContent) {
+                        textToProcess = definitionContent.trim();
+                        // Ora `textToProcess` contiene solo il puro testo della nota.
+                    }
                 }
                 else {
-                    // Nessuna traduzione: usiamo la riga originale per la pulizia successiva.
-                    cleanedLine = line;
+                    // --- Fase 2: Gestione del Testo Normale (che può contenere RIFERIMENTI o TRADUZIONI) ---
+                    // Se la riga non è una definizione di nota, è testo normale.
+                    // Passo 2a: Sanificazione dei RIFERIMENTI
+                    // Rimuoviamo preventivamente qualsiasi RIFERIMENTO a footnote (es. `[^1]`, `[^abc]`).
+                    // Questo ripulisce il contesto principale dal "rumore" dei puntatori.
+                    const lineWithoutReferences = line.replaceAll(/\[\^.*?\]/g, ' ');
+                    // Passo 2b: Isolamento della TRADUZIONE
+                    // Sulla riga già sanificata dai riferimenti, cerchiamo il pattern di una traduzione `[...]`.
+                    const translationMatch = lineWithoutReferences.match(/\[(.*?)\]/);
+                    if (translationMatch && translationMatch[1]) {
+                        // Se troviamo una traduzione, il nostro testo di interesse è SOLO il contenuto tra le parentesi.
+                        textToProcess = translationMatch[1].trim();
+                    }
+                    else {
+                        // Se non c'è una traduzione, usiamo l'intera riga (che è già stata pulita dai riferimenti).
+                        textToProcess = lineWithoutReferences.trim();
+                    }
                 }
-                // 2. PULIZIA GENERALE SUL TESTO SELEZIONATO
-                // (si applica sia alle traduzioni isolate che alle righe normali)
-                // Rimuove qualsiasi tag HTML residuo (es. <span>, <br>)
-                cleanedLine = cleanedLine.replaceAll(/<[^>]+>/g, ' ');
-                // Rimuove le varianti di "cfr." (case-insensitive, con o senza punto)
-                cleanedLine = cleanedLine.replaceAll(/\bcfr\.?\b/gi, ' ');
-                // Rimuove parentesi tonde, asterischi e altri simboli specifici.
-                // Ho aggiunto l'asterisco (*) perché spesso delimita il testo straniero scartato.
-                cleanedLine = cleanedLine.replaceAll(/[()§*]/g, ' ');
+                // --- Fase 3: Pulizia Finale sul Testo Selezionato ---
+                // A questo punto, `textToProcess` contiene la porzione di testo corretta (o è vuota).
+                // Applichiamo la pulizia finale per rimuovere elementi come tag HTML, "cfr.", etc.
+                // Questa pulizia si applica uniformemente sia al testo normale, sia alle traduzioni, sia alle definizioni delle note.
+                if (textToProcess) {
+                    // Rimuove qualsiasi tag HTML residuo (es. <span>, <br>)
+                    textToProcess = textToProcess.replaceAll(/<[^>]+>/g, ' ');
+                    // Rimuove le varianti di "cfr." (case-insensitive, con o senza punto)
+                    textToProcess = textToProcess.replaceAll(/\bcfr\.?\b/gi, ' ');
+                    // Rimuove parentesi tonde, asterischi, e altri simboli specifici che non sono parole.
+                    // Ho aggiunto l'asterisco (*) perché spesso delimita il testo straniero scartato.
+                    textToProcess = textToProcess.replaceAll(/[()§*]/g, ' ');
+                }
+                // Se `textToProcess` non è vuoto, ora possiamo passarlo all'estrattore di parole.
+                // if (textToProcess) { const wordsInLine = textToProcess.toLowerCase()... }
                 // --- FINE BLOCCO DI PULIZIA ---
                 // Regex per trovare le parole, inclusi i caratteri accentati.
                 // Regex to find words, including accented characters.
-                const wordsInLine = cleanedLine.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
+                const wordsInLine = textToProcess.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
                 for (const word of wordsInLine) {
                     const lw = word.toLowerCase();
                     // Logica di filtraggio
