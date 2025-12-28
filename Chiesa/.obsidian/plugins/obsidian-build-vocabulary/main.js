@@ -1,79 +1,47 @@
-// Legge e parse la tabella markdown di _already_scanned.md, ignorando il frontmatter
-async function readScannedFilesTable(app) {
-    const filePath = `${outputFolder}/${alreadyScannedFiles}`;
-    const abstractFile = app.vault.getAbstractFileByPath(filePath);
-    if (!abstractFile || !abstractFile.extension) return [];
-    const content = await app.vault.read(abstractFile);
-    const lines = content.split('\n');
-    let inTable = false;
-    const result = [];
-    for (let line of lines) {
-        if (line.trim().startsWith('| File ')) { inTable = true; continue; }
-        if (!inTable) continue;
-        if (line.trim().startsWith('|---')) continue;
-        if (!line.trim().startsWith('|')) break;
-        // | [nome](path) | data | data |
-        const cols = line.split('|').map(s => s.trim());
-        if (cols.length < 5) continue;
-        // Estrai path dal markdown link
-        const match = cols[1].match(/\]\((.*?)\)/);
-        const path = match ? match[1].replace(/^\//, '') : '';
-        const ctime = cols[2];
-        const mtime = cols[3];
-        result.push({ path, ctime, mtime });
-    }
-    return result;
-}
+/*
+QUESTO È IL NUOVO FILE MAIN.JS MIGLIORATO
+Ultimo aggiornamento: 27-12-2025
+Funzionalità:
+- Legge tutti i file markdown specificati una sola volta per la massima efficienza.
+- Estrae le parole e la riga circostante (il contesto).
+- Filtra le parole comuni (stop-word) in base alle impostazioni.
+- Raggruppa le parole per lettera iniziale in file di vocabolario separati.
+- Per ogni parola, elenca tutte le occorrenze (concordanze).
+- Ogni occorrenza include:
+    - Il conteggio totale di quella parola in tutti i documenti.
+    - Un link cliccabile che usa obsidian://search per saltare alla riga esatta nel file originale.
+    - La parola stessa è in grassetto nel testo del link per una chiara identificazione.
+    - Un link secondario al file sorgente.
+- Tutta la vecchia logica per tracciare i file "già scansionati" è stata rimossa per un processo di costruzione più semplice e su richiesta.
+- Aggiunge un'impostazione "Lunghezza minima della parola" nelle opzioni del plugin.
 
-// Pulisce il file _already_scanned.md mantenendo solo il frontmatter (se presente)
-async function clearScannedFilesTable(app) {
-    const filePath = `${outputFolder}/${alreadyScannedFiles}`;
-    const abstractFile = app.vault.getAbstractFileByPath(filePath);
-    if (!abstractFile || !abstractFile.extension) return;
-    const content = await app.vault.read(abstractFile);
-    let newContent = '';
-    if (content.startsWith('---')) {
-        // Mantieni il frontmatter
-        const end = content.indexOf('---', 3);
-        if (end !== -1) newContent = content.substring(0, end + 3) + '\n';
-    }
-    await app.vault.modify(abstractFile, newContent);
-}
+THIS IS THE NEW AND IMPROVED MAIN.JS FILE
+Last updated: 2025-12-27
+Features:
+- Reads all specified markdown files only once for efficiency.
+- Extracts words and their surrounding line (context).
+- Filters out common stop words based on settings.
+- Groups words by their starting letter into separate vocabulary files.
+- For each word, it lists all occurrences (concordances).
+- Each occurrence includes:
+    - The total count of that word across all documents.
+    - A clickable link that uses obsidian://search to jump to the exact line in the original file.
+    - The word itself is bolded in the link text for clarity.
+    - A secondary link to the source file.
+- All old logic for tracking "already scanned" files has been removed for a simpler, on-demand build process.
+- Adds a "Minimum word length" setting in the plugin options.
+*/
 
-// Esempio di ciclo di confronto tra array e file attuali
-// filesInfoArray: array di oggetti { path, ctime, mtime } dei file attuali
-// scannedArray: array di oggetti { path, ctime, mtime } letti dal file md
-function getFilesToRescan(filesInfoArray, scannedArray) {
-    // Crea una mappa per lookup veloce
-    const scannedMap = new Map();
-    for (const entry of scannedArray) {
-        scannedMap.set(entry.path, entry);
-    }
-    // Restituisci solo i file che hanno ctime o mtime diversi
-    return filesInfoArray.filter(f => {
-        const old = scannedMap.get(f.path);
-        return !old || old.ctime !== f.ctime || old.mtime !== f.mtime;
-    });
-}
+const { Plugin, PluginSettingTab, Setting, App, Notice, Modal, TFolder, MarkdownRenderer } = require('obsidian');
 
-// === INIZIO REQUIRE E COSTANTI ===
-const { Plugin, Setting, App, Notice } = require('obsidian');
-const fs = require('fs');
-const path = require('path');
+// === COSTANTI ===
+// === CONSTANTS ===
 
-// List of Italian definite articles
-const ARTICOLI_DETERMINATIVI = [
-    'il', 'lo', 'la', 'i', 'gli', 'le', "l'"
-];
-// List of Italian indefinite articles
-const ARTICOLI_INDETERMINATIVI = [
-    'un', 'uno', 'una', "un'"
-];
-// List of Italian simple prepositions
-const PREPOSIZIONI_SEMPLICI = [
-    'di', 'a', 'da', 'in', 'con', 'su', 'per', 'tra', 'fra'
-];
-// List of Italian articulated prepositions (including apostrophe forms)
+// Liste di stop-word per il filtraggio
+// Stop-word lists for filtering
+const ARTICOLI_DETERMINATIVI = ['il', 'lo', 'la', 'i', 'gli', 'le', "l'"];
+const ARTICOLI_INDETERMINATIVI = ['un', 'uno', 'una', "un'"];
+const PREPOSIZIONI_SEMPLICI = ['di', 'a', 'da', 'in', 'con', 'su', 'per', 'tra', 'fra'];
 const PREPOSIZIONI_ARTICOLATE = [
     'del', 'dello', 'della', "dell'", 'dei', 'degli', 'delle',
     'al', 'allo', 'alla', "all'", 'ai', 'agli', 'alle',
@@ -81,13 +49,26 @@ const PREPOSIZIONI_ARTICOLATE = [
     'nel', 'nello', 'nella', "nell'", 'nei', 'negli', 'nelle',
     'sul', 'sullo', 'sulla', "sull'", 'sui', 'sugli', 'sulle'
 ];
-// Prefisso (case-sensitive) dei file da escludere
-// Case-sensitive prefix for files to exclude
-const excludedPrefix = "_";
-// Plugin default settings
+
+// Costanti di configurazione
+// Configuration constants
+
+// I file che iniziano con questo prefisso verranno ignorati
+// Files starting with this will be ignored
+const EXCLUDED_PREFIX = "_";
+// Cartella di output per i file del vocabolario
+// Output directory for vocabulary files
+const OUTPUT_FOLDER = "Vocaboli";
+
+// Impostazioni predefinite del plugin
+// Default settings for the plugin
 const DEFAULT_SETTINGS = {
     startFolders: [],
-    addRibbonIcon: false, // Default: Non mostra l'icona alla prima attivazione
+    addRibbonIcon: false,
+    customStringsToExclude: '<br>,§',
+    // Lunghezza minima che una parola deve avere per essere inclusa
+    // Minimum length for a word to be included
+    minWordLength: 2,
     includeAccented: true,
     includeArticoliDeterminativi: false,
     includeArticoliIndeterminativi: false,
@@ -95,251 +76,232 @@ const DEFAULT_SETTINGS = {
     includePreposizioniArticolate: false,
 };
 
-// Cartella dove verranno creati i file di output
-// Folder where the output files will be created
-const outputFolder = "Vocaboli";
-// File per tracciare i file già scansionati
-// File to track already scanned files
-const alreadyScannedFiles = "_already_scanned.md";
+// === FUNZIONI DI SUPPORTO ===
+// === SUPPORT FUNCTIONS ===
 
-// === FUNZIONI DI SUPPORTO E GESTIONE FILE ===
-
-// Estrae le parole da un testo secondo i criteri definiti, includendo lettere accentate
-// Extracts words from a text according to defined criteria, including accented letters
-function getWordsFromText(text, minWordLength = 3) {
-    if (!text || typeof text !== 'string') {
-        return [];
-    }
-    const wordsArray = text.toLowerCase().match(/\b[\p{L}']+\b/gu);
-    if (!wordsArray) {
-        return [];
-    }
-    return wordsArray.filter(word =>
-        word.length >= minWordLength &&
-        !/^\d+$/.test(word) &&
-        /\p{L}/u.test(word)
-    );
-}
-
-// Assicura che la cartella esista, altrimenti la crea
+/**
+ * Si assicura che una cartella esista al percorso dato, creandola se necessario.
+ * @param {string} folderPath - Il percorso della cartella da controllare/creare.
+ * @param {App} app - L'istanza dell'applicazione Obsidian.
+ * @returns {Promise<boolean>} - True se la cartella esiste o è stata creata, false in caso di errore.
+ */
+/**
+ * Ensures a folder exists at the given path, creating it if necessary.
+ * @param {string} folderPath - The path of the folder to check/create.
+ * @param {App} app - The Obsidian App instance.
+ * @returns {Promise<boolean>} - True if the folder exists or was created, false on error.
+ */
 async function ensureFolderExists(folderPath, app) {
     const adapter = app.vault.adapter;
     try {
         const folderExists = await adapter.exists(folderPath);
-        if (folderExists) {
-            const stat = await adapter.stat(folderPath);
-            if (stat.type === 'folder') {
-                return true;
-            } else {
-                console.error(`"${folderPath}" exists but is a file, not a folder.`);
-                new Notice(`Error: "${folderPath}" is a file. Expected a folder.`);
-                return false;
-            }
-        } else {
+        if (!folderExists) {
             await adapter.mkdir(folderPath);
-            console.log(`Successfully created folder "${folderPath}".`);
-            return true;
+            new Notice(`Created folder: "${folderPath}"`);
         }
-    } catch (error) {
+        return true;
+    }
+    catch (error) {
         console.error(`Error ensuring folder "${folderPath}" exists:`, error);
-        new Notice(`Failed to ensure folder "${folderPath}". Check console.`);
+        new Notice(`Failed to create folder "${folderPath}". Check console for details.`);
         return false;
     }
 }
-
-// Funzione per ottenere i file già scansionati
-async function getAlreadyScannedFiles(app) {
-    const filePath = `${outputFolder}/${alreadyScannedFiles}`;
-    try {
-        const abstractFile = app.vault.getAbstractFileByPath(filePath);
-        if (abstractFile && abstractFile.extension) {
-            const content = await app.vault.read(abstractFile);
-            return new Set(content.split("\n").map(line => line.trim()).filter(line => line !== ""));
-        } else if (!abstractFile) {
-            return new Set();
-        } else {
-            return new Set();
-        }
-    } catch (e) {
-        return new Set();
-    }
-}
-
-// Funzione per scrivere dati su un file
+/**
+ * Scrive del contenuto in un file, creandolo se non esiste o sovrascrivendolo se esiste già.
+ * @param {App} app - L'istanza dell'applicazione Obsidian.
+ * @param {string} filePath - Il percorso del file su cui scrivere.
+ * @param {string} content - Il contenuto da scrivere.
+ * @returns {Promise<boolean>} - True in caso di successo, false in caso di fallimento.
+ */
+/**
+ * Writes content to a file, creating it if it doesn't exist or overwriting it if it does.
+ * @param {App} app - The Obsidian App instance.
+ * @param {string} filePath - The path of the file to write to.
+ * @param {string} content - The content to write.
+ * @returns {Promise<boolean>} - True on success, false on failure.
+ */
 async function writeDataToFile(app, filePath, content) {
-    const abstractFile = app.vault.getAbstractFileByPath(filePath);
-    if (abstractFile && abstractFile.extension) {
-        await app.vault.modify(abstractFile, content);
-    } else if (!abstractFile) {
-        await app.vault.create(filePath, content);
-    } else {
-        console.error(`Cannot write to "${filePath}" as it is a folder.`);
-        new Notice(`Error: Cannot write to "${filePath}", it's a folder.`);
+    try {
+        const file = app.vault.getAbstractFileByPath(filePath);
+        if (file) {
+            await app.vault.modify(file, content);
+        } else {
+            await app.vault.create(filePath, content);
+        }
+        return true;
+    }
+    catch (error) {
+        console.error(`Error writing to file "${filePath}":`, error);
+        new Notice(`Error writing to "${filePath}".`);
         return false;
     }
-    return true;
 }
 
-// Funzione per scrivere l'elenco dei file già scansionati in formato markdown tabellare
-// Ogni riga: | [Nome file](percorso) | data creazione | data modifica |
-// Date in formato dd-MM-yyyy hh:mm:ss
-async function writeAlreadyScannedFiles(app, filesInfoArray) {
-    const filePath = `${outputFolder}/${alreadyScannedFiles}`;
-    // Ordina per percorso completo (alfabetico, rispetta struttura cartelle)
-    filesInfoArray.sort((a, b) => a.path.localeCompare(b.path));
-    // Intestazione tabella markdown
-    let content = '| File | Data creazione | Data modifica |\n';
-    content += '|---|---|---|\n';
-    for (const info of filesInfoArray) {
-        // Percorso completo dal vault
-        const link = `[${info.name}](/${info.path})`;
-        // Date formattate
-        const created = formatDateTime(info.ctime);
-        const modified = formatDateTime(info.mtime);
-        content += `| ${link} | ${created} | ${modified} |\n`;
-    }
-    await writeDataToFile(app, filePath, content);
-}
+// === CLASSE PRINCIPALE DEL PLUGIN ===
+// === MAIN PLUGIN CLASS ===
 
-// Funzione di utilità per mostrare la notifica personalizzata
-function mostraNotificaPersonalizzata(messaggio, tipo = "successo", durataSec = 5) {
-    // Trasforma i secondi passati (es. 2 o 8) in millisecondi (2000 o 8000)
-    const n = new Notice(messaggio, durataSec * 1000);
-    // Iniezione diretta degli stili sull'elemento DOM
-    const el = n.noticeEl;
-    // Colori in base al tipo
-    const coloreVerde = "rgb(126, 163, 5)";
-    const coloreRosso = "#ff4444";
-    const coloreGiallo = "#ffcc00"; // Giallo deciso per "attenzione"
-    let coloreBordo;
-    if (tipo === "errore") {
-        coloreBordo = coloreRosso;
-    }
-    else if (tipo === "attenzione") {
-        coloreBordo = coloreGiallo;
-    }
-    else {
-        coloreBordo = coloreVerde;
-    }
-    // Usiamo il colore del tema per lo sfondo invece di lasciarlo vuoto
-    el.style.backgroundColor = "var(--background-primary)";
-    el.style.backgroundImage = "none";
-    // Assicuriamo che il bordo sia disegnato correttamente
-    el.style.border = `2px solid ${coloreBordo}`;
-    el.style.borderRadius = "8px"; // Arrotonda leggermente per evitare tagli netti
-    el.style.boxShadow = "0 4px 10px rgba(0,0,0,0.5)"; // Ombra più marcata per staccare dal fondo
-    el.style.boxSizing = "border-box"; // Garantisce che il bordo sia incluso nel calcolo dello spazio
-    // FIX: Impedisce al bordo di sparire a sinistra durante lo scale
-    el.style.display = "block";
-    el.style.color = "white";
-    el.style.filter = "none";
-    el.style.fontFamily = "monospace";
-    el.style.fontSize = "1.2em"; // Ingrandimento testo
-    el.style.fontWeight = "600";
-    el.style.marginLeft = "20px";
-    el.style.opacity = "1";
-    el.style.overflow = "visible";
-    el.style.padding = "20px";
-    // Ridotto leggermente lo scale per evitare collisioni con i bordi dello schermo
-    el.style.transform = "scale(1.1)";
-    el.style.transformOrigin = "top right"; // Leggero ingrandimento box
-    el.style.whiteSpace = "pre-wrap"; // Fondamentale per vedere i \n (a capo)
-    // Forza il colore del testo per tutti i figli interni (se presenti)
-    const coloreTesto = "white";
-    el.querySelectorAll('*').forEach(child => {
-        child.style.color = coloreTesto;
-    });
-}
-
-// Funzione di utilità per formattare la data/ora come dd-MM-yyyy hh:mm:ss
-function formatDateTime(epochMillis) {
-    const d = new Date(epochMillis);
-    const pad = n => n.toString().padStart(2, '0');
-    return `${pad(d.getDate())}-${pad(d.getMonth() + 1)}-${d.getFullYear()} ` +
-        `${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
-}
-async function writeWordsToLetterFile(app, letter, wordsSet) {
-    const filePath = `${outputFolder}/${letter}.md`;
-    const content = Array.from(wordsSet).sort().join("\n");
-    await writeDataToFile(app, filePath, content);
-}
-// === FINE FUNZIONI DI SUPPORTO ===
-
-// Classe principale del plugin / Main plugin class
 module.exports = class BuildVocabularyPlugin extends Plugin {
     async onload() {
-        new Notice('Plugin Build Vocabulary attivato!');
+        console.log("Loading Build Vocabulary Plugin");
         this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
-        if (!this.settings.startFolders || this.settings.startFolders.length === 0) {
-            this.settings.startFolders = [this.app.vault.adapter.basePath];
-            await this.saveSettings();
-        }
-        this.addSettingTab(new BuildVocabularySettingTab(this.app, this));
+        // Aggiunge il comando principale alla palette dei comandi
+        // Add the main command to the command palette
         this.addCommand({
-            id: 'estrai-vocabolario',
-            name: 'Estrai vocabolario',
-            callback: () => this.extractVocabulary()
+            id: 'estrai-vocabolario-intratext',
+            name: 'Costruisci vocabolario (stile IntraText)',
+            callback: () => this.buildVocabulary()
         });
+        // Aggiunge la scheda delle impostazioni
+        // Add the settings tab
+        this.addSettingTab(new BuildVocabularySettingTab(this.app, this));
         // Aggiunge l'icona alla barra laterale solo se l'opzione è attiva
+        // Add the ribbon icon if enabled
         if (this.settings.addRibbonIcon) {
             // Icona custom 'BV' come SVG inline
             const bvIcon = `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <rect width="24" height="24" rx="6" fill="var(--icon-color, #4b4b4b)"/>
-                    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" font-size="13" font-family="Arial, sans-serif" fill="white" font-weight="bold" style="fill:black;">BV</text>
-                </svg>`;
-            this.addRibbonIcon('book-open', 'Estrai vocabolario', () => {
-                this.extractVocabulary();
-            }).innerHTML = bvIcon;
+            <rect width="24" height="24" rx="4" fill="var(--icon-color-interactive, #5c5c5c)"/>
+            <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" font-size="13" font-family="Arial, sans-serif" fill="white" font-weight="bold">BV</text>
+        </svg>`;
+            // 1. Chiamiamo addRibbonIcon con un'icona temporanea.
+            //    La funzione ci restituisce l'elemento DOM che è stato aggiunto alla barra.
+            const ribbonEl = this.addRibbonIcon('book-open', 'Costruisci vocabolario', () => {
+                this.buildVocabulary();
+            });
+            // 2. Sostituiamo l'HTML interno di quell'elemento con il nostro SVG personalizzato.
+            ribbonEl.innerHTML = bvIcon;
         }
+        new Notice('Plugin Build Vocabulary attivato!');
     }
     onunload() {
-        new Notice('Plugin Build Vocabulary disattivato!');
-    }
-    async extractVocabulary() {
-        let folders = (this.settings.startFolders && this.settings.startFolders.length > 0)
-            ? this.settings.startFolders
-            : [this.app.vault.adapter.basePath];
-        new Notice('Estrazione vocabolario in corso...');
-        let testo = "Il cane dall'uomo sull'albero l'acqua dell'acqua un'idea";
-        let minLen = this.settings.minWordLength || 3;
-        let parole = testo.split(/\s+/)
-            .map(w => w.split(/(?<=')/))
-            .flat()
-            .map(w => w.trim())
-            .filter(w => w.length >= minLen);
-        parole = parole.filter(word => {
-            const lw = word.toLowerCase();
-            if (!this.settings.includeArticoliDeterminativi && ARTICOLI_DETERMINATIVI.includes(lw)) return false;
-            if (!this.settings.includeArticoliIndeterminativi && ARTICOLI_INDETERMINATIVI.includes(lw)) return false;
-            if (!this.settings.includePreposizioniSemplici && PREPOSIZIONI_SEMPLICI.includes(lw)) return false;
-            if (!this.settings.includePreposizioniArticolate && PREPOSIZIONI_ARTICOLATE.includes(lw)) return false;
-            return true;
-        });
-        new Notice('Cartelle iniziali: ' + folders.join(', '));
-        new Notice('Parole trovate: ' + parole.join(', '));
+        console.log("Unloading Build Vocabulary Plugin");
+        new Notice('Plugin Build Vocabulary disattivato.');
     }
     async saveSettings() {
         await this.saveData(this.settings);
     }
+
+    /**
+     * La funzione principale del plugin. Legge i file, estrae parole e contesti,
+     * e scrive i file strutturati del vocabolario.
+     */
+    /**
+     * The core function of the plugin. Reads files, extracts words and contexts,
+     * and writes the structured vocabulary files.
+     */
+    async buildVocabulary() {
+        const startTime = Date.now();
+        new Notice('Inizio costruzione vocabolario...', 5000);
+        // 1. IMPOSTAZIONE
+        // 1. SETUP
+        if (!(await ensureFolderExists(OUTPUT_FOLDER, this.app))) {
+            // Interrompe l'esecuzione se non è possibile creare la cartella di output
+            // Stop if we can't create the output folder
+            return;
+        }
+        // Struttura dati principale: { 'parola' => [ { file, contesto }, ... ] }
+        // Main data structure: { 'word' => [ { file, context }, ... ] }
+        const vocabulary = new Map();
+        const vaultName = this.app.vault.getName();
+        const startFolders = this.settings.startFolders && this.settings.startFolders.length > 0
+            ? this.settings.startFolders
+            : [this.app.vault.getRoot().path];
+        // 2. RACCOLTA ED ELABORAZIONE FILE (Passaggio Singolo)
+        // 2. FILE GATHERING & PROCESSING (Single Pass)
+        const allFiles = this.app.vault.getMarkdownFiles();
+        const filesToProcess = allFiles.filter(file => {
+            const isExcluded = file.name.startsWith(EXCLUDED_PREFIX) || file.path.startsWith(OUTPUT_FOLDER);
+            const isInStartFolder = startFolders.some(folder => file.path.startsWith(folder));
+            return !isExcluded && isInStartFolder;
+        });
+        new Notice(`Trovati ${filesToProcess.length} file da analizzare...`, 3000);
+        for (const file of filesToProcess) {
+            const content = await this.app.vault.cachedRead(file);
+            const lines = content.split('\n');
+            for (const line of lines) {
+                if (line.trim() === '') continue;
+                // Regex per trovare le parole, inclusi i caratteri accentati.
+                // Regex to find words, including accented characters.
+                const wordsInLine = line.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
+                for (const word of wordsInLine) {
+                    const lw = word.toLowerCase();
+                    // Logica di filtraggio
+                    // Filtering logic
+                    if (lw.length < this.settings.minWordLength) continue;
+                    if (!/^\p{L}/u.test(lw)) continue; // Must contain at least one letter
+                    if (this.settings.includeArticoliDeterminativi === false && ARTICOLI_DETERMINATIVI.includes(lw)) continue;
+                    if (this.settings.includeArticoliIndeterminativi === false && ARTICOLI_INDETERMINATIVI.includes(lw)) continue;
+                    if (this.settings.includePreposizioniSemplici === false && PREPOSIZIONI_SEMPLICI.includes(lw)) continue;
+                    if (this.settings.includePreposizioniArticolate === false && PREPOSIZIONI_ARTICOLATE.includes(lw)) continue;
+                    // Aggiunge alla mappa del vocabolario
+                    // Add to vocabulary map
+                    if (!vocabulary.has(lw)) {
+                        vocabulary.set(lw, []);
+                    }
+                    vocabulary.get(lw).push({
+                        file: file.path,
+                        context: line.trim()
+                    });
+                }
+            }
+        }
+        // 3. SCRITTURA DEI FILE DI OUTPUT
+        // 3. WRITING OUTPUT FILES
+        new Notice('Scrittura dei file di vocabolario in corso...', 5000);
+        // Raggruppa le parole per lettera iniziale
+        // Group words by starting letter
+        const letterGroups = new Map();
+        const sortedWords = Array.from(vocabulary.keys()).sort((a, b) => a.localeCompare(b, 'it'));
+        for (const word of sortedWords) {
+            const firstLetter = word.charAt(0).toUpperCase();
+            if (!letterGroups.has(firstLetter)) {
+                letterGroups.set(firstLetter, []);
+            }
+            letterGroups.get(firstLetter).push(word);
+        }
+        const sortedLetters = Array.from(letterGroups.keys()).sort();
+        for (const letter of sortedLetters) {
+            const wordsForLetter = letterGroups.get(letter);
+            let markdownContent = `# ${letter}\n\n---\n`;
+            for (const word of wordsForLetter) {
+                const occurrences = vocabulary.get(word);
+                markdownContent += `\n## ${word} (Trovate ${occurrences.length} occorrenze)\n\n`;
+                for (const occ of occurrences) {
+                    // Crea il testo in grassetto per la visualizzazione del link
+                    // Create bolded text for the link display
+                    const boldedContext = occ.context.replace(new RegExp(`\\b(${word})\\b`, 'gi'), '**$1**');
+                    // Crea l'URI obsidian://search
+                    // Create the obsidian://search URI
+                    const searchQuery = `"${occ.context}"`;
+                    const searchURI = `obsidian://search?vault=${encodeURIComponent(vaultName)}&query=${encodeURIComponent(searchQuery)}`;
+                    markdownContent += `- [${boldedContext}](${searchURI})\n`;
+                    markdownContent += `  - *Nel file: [[${occ.file}]]*\n`;
+                }
+                markdownContent += `\n---\n`;
+            }
+            await writeDataToFile(this.app, `${OUTPUT_FOLDER}/${letter}.md`, markdownContent);
+        }
+        const duration = (Date.now() - startTime) / 1000;
+        new Notice(`Costruzione vocabolario completata in ${duration.toFixed(2)} secondi!`, 10000);
+    }
 };
 
-// Scheda impostazioni del plugin / Plugin settings tab
-class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
+// === CLASSE PER LA SCHEDA IMPOSTAZIONI ===
+// === SETTINGS TAB CLASS ===
+
+class BuildVocabularySettingTab extends PluginSettingTab {
     constructor(app, plugin) {
         super(app, plugin);
         this.plugin = plugin;
     }
-    // Mostra la UI delle impostazioni / Display settings UI
     display() {
         const { containerEl } = this;
         containerEl.empty();
-        containerEl.createEl('h2', { text: 'Impostazioni Build Vocabulary' });
-        // Pulsante Aggiorna per forzare il refresh della UI
-        const refreshBtn = containerEl.createEl('button', { text: '🔄 Aggiorna' });
-        refreshBtn.style.margin = '8px 0 16px 0';
-        refreshBtn.onclick = () => {
-            this.display();
-        };
+        containerEl.createEl('h1', { text: 'Impostazioni Build Vocabulary' });
+        // Impostazione per l'Icona nella Barra Laterale
+        // Setting for Ribbon Icon
+        // 1. Creiamo UNA SOLA impostazione e le assegnamo SIA il nome SIA il toggle.
+        //    Salviamo il tutto in una costante per poterla usare dopo.
         const ribbonSetting = new Setting(containerEl)
             .setName('Aggiungi l\’icona alla barra laterale')
             .addToggle(toggle => toggle
@@ -347,207 +309,177 @@ class BuildVocabularySettingTab extends require('obsidian').PluginSettingTab {
                 .onChange(async (value) => {
                     this.plugin.settings.addRibbonIcon = value;
                     await this.plugin.saveSettings();
-                })
-            );
-        ribbonSetting.descEl.createEl('span', { text: 'Se attivo, mostra l\’icona del plugin nella barra laterale.' });
-        ribbonSetting.descEl.createEl('br');
-        ribbonSetting.descEl.createEl('span', { text: 'È necessario disattivare e riattivare il plugin per rendere effettiva la modifica.' });
-        ribbonSetting.descEl.createEl('br');
-        ribbonSetting.descEl.createEl('span', { text: 'Se l\'icona non viene utilizzata, per eseguire la costruzione del vocabolario eseguire' });
-        ribbonSetting.descEl.createEl('br');
-        ribbonSetting.descEl.createEl('span', { text: 'il Plugin dal riquadro comandi (CTRL + P o CMD + P) attivandolo con \“Estrai vocabolario\”' });
-        containerEl.createEl('hr');
-        // Cartella iniziale con browser
-        // Start folder with browser
-        // Calcola il path attuale da mostrare
-        // Compute the current path to display
-        let currentPath = this.plugin.settings.startFolder && this.plugin.settings.startFolder.trim().length > 0
-            ? this.plugin.settings.startFolder
-            : this.app.vault.adapter.basePath;
-        // Setting per le cartelle iniziali (multi-cartella)
-        // Setting for start folders (multi-folder)
+                }));
+        // 2. Ora che l'impostazione (ribbonSetting) è completa di nome e toggle,
+        //    usiamo MarkdownRenderer per popolarne l'elemento descrizione (descEl).
+        //    In questo modo la descrizione complessa appare sotto il nome,
+        //    ma all'interno dello stesso blocco dell'impostazione.
+        MarkdownRenderer.renderMarkdown(
+            'Se attivo, mostra l\’icona del plugin nella barra laterale.' +
+            '<br>' +
+            'È necessario disattivare e riattivare il plugin per rendere effettiva la modifica.' +
+            '<br>' +
+            'Se l\’icona non viene utilizzata, per eseguire la costruzione del vocabolario eseguire' +
+            '<br>' +
+            'il Plugin dal riquadro comandi (CTRL + P o CMD + P) attivandolo con \“Estrai vocabolario\”',
+            ribbonSetting.descEl,
+            '',
+            this.plugin
+        );
+        // Impostazione per le Cartelle di Partenza
+        // Setting for Start Folders
         new Setting(containerEl)
-            .setName('Cartelle iniziali')
-            .setDesc('Scegli una o più cartelle di partenza nel Vault')
+            .setName('Cartelle di partenza')
+            .setDesc('Seleziona le cartelle da includere nella scansione. Se vuoto, scansiona l\’intero vault.')
             .addButton(btn => btn
-                .setButtonText('Aggiungi cartella')
-                .onClick(async () => {
-                    new MultiFolderSelectModal(this.app, this.plugin).open();
-                })
-            );
-        // Mostra le cartelle attualmente selezionate
-        // Show currently selected folders
-        const foldersDiv = containerEl.createEl('div');
-        foldersDiv.style.margin = '4px 0 12px 0';
-        foldersDiv.style.fontSize = '0.95em';
-        foldersDiv.style.color = 'var(--text-muted)';
-        foldersDiv.innerHTML = '<strong>Cartelle attuali:</strong><br>' +
-            (this.plugin.settings.startFolders && this.plugin.settings.startFolders.length > 0
-                ? this.plugin.settings.startFolders.map(f => `<span style="margin-right:8px">${f} <a href="#" data-folder="${f}" style="color:var(--text-accent)">[Rimuovi]</a></span>`).join('<br>')
-                : 'Nessuna cartella selezionata');
-        // Gestione rimozione cartella
-        // Handle folder removal
-        Array.from(foldersDiv.querySelectorAll('a[data-folder]')).forEach(link => {
-            link.addEventListener('click', async (e) => {
-                e.preventDefault();
-                const folderToRemove = link.getAttribute('data-folder');
-                this.plugin.settings.startFolders = this.plugin.settings.startFolders.filter(f => f !== folderToRemove);
-                await this.plugin.saveSettings();
-                this.display();
-            });
-        });
-        // Modale per selezionare più cartelle iniziali con tree view e switch Obsidian
-        // Modal to select multiple start folders with tree view and Obsidian switches
-        class MultiFolderSelectModal extends require('obsidian').Modal {
-            constructor(app, plugin) {
-                super(app);
-                this.plugin = plugin;
-            }
-            onOpen() {
-                const { contentEl } = this;
-                contentEl.createEl('h2', { text: 'Seleziona una o più cartelle' });
-                // Funzione ricorsiva per creare la treeview con Setting.addToggle
-                const createTree = (folder, parentEl, level = 0) => {
-                    // Wrapper per indentazione
-                    const wrapper = parentEl.createEl('div');
-                    wrapper.style.marginLeft = (level * 18) + 'px';
-                    // Riga flex: bottone espansione, nome, toggle
-                    const row = wrapper.createEl('div');
-                    row.style.display = 'flex';
-                    row.style.alignItems = 'center';
-                    row.style.gap = '8px';
-                    // Espandi/collassa figli (solo se ci sono subfolder)
-                    let expandBtn = null;
-                    let childrenDiv = null;
-                    if (folder.children && folder.children.some(f => f instanceof require('obsidian').TFolder)) {
-                        let expanded = false;
-                        expandBtn = row.createEl('button', { text: '▶' });
-                        expandBtn.style.width = '22px';
-                        expandBtn.onclick = () => {
-                            expanded = !expanded;
-                            expandBtn.textContent = expanded ? '▼' : '▶';
-                            if (childrenDiv) childrenDiv.style.display = expanded ? '' : 'none';
-                        };
-                    }
-                    else {
-                        // Spazio per allineare
-                        row.createEl('span').style.width = '22px';
-                    }
-                    // Nome cartella
-                    const nameSpan = row.createEl('span', { text: folder.name });
-                    nameSpan.style.flex = '1';
-                    // Toggle nativo Obsidian montato su contenitore custom
-                    const toggleContainer = row.createEl('div');
-                    let toggleValue = this.plugin.settings.startFolders.includes(folder.path);
-                    new Setting(toggleContainer)
-                        .addToggle(toggle => {
-                            toggle.setValue(toggleValue)
-                                .onChange(async (value) => {
-                                    if (value) {
-                                        if (!this.plugin.settings.startFolders.includes(folder.path)) {
-                                            this.plugin.settings.startFolders.push(folder.path);
-                                        }
-                                    }
-                                    else {
-                                        this.plugin.settings.startFolders = this.plugin.settings.startFolders.filter(f => f !== folder.path);
-                                    }
-                                    await this.plugin.saveSettings();
-                                    // NIENTE close/riapri: la modale resta aperta
-                                });
-                        });
-                    // Crea i figli se ci sono
-                    if (folder.children && folder.children.some(f => f instanceof require('obsidian').TFolder)) {
-                        childrenDiv = wrapper.createEl('div');
-                        childrenDiv.style.display = 'none';
-                        // Filtra le sottocartelle, le ordina alfabeticamente e poi le processa
-                        const subfolders = folder.children.filter(c => c instanceof require('obsidian').TFolder);
-                        subfolders.sort((a, b) => a.name.localeCompare(b.name));
-                        subfolders.forEach(child => {
-                            createTree(child, childrenDiv, level + 1);
-                        });
-                    }
-                };
-                // Treeview dalla root
-                createTree(this.app.vault.getRoot(), contentEl);
-            }
-            onClose() {
-                this.contentEl.empty();
-                // Forza il refresh della maschera settings richiamando display() direttamente
-                if (this.plugin && this.plugin.app && this.plugin.app.setting) {
-                    const settingApp = this.plugin.app.setting;
-                    const tabs = settingApp.tabs;
-                    const myTab = tabs && tabs.find(tab => tab.plugin === this.plugin);
-                    if (myTab && typeof myTab.display === 'function') {
-                        myTab.display();
-                    }
-                }
-            }
+                .setButtonText('Scegli cartelle')
+                .onClick(() => {
+                    new MultiFolderSelectModal(this.app, this.plugin, () => this.display()).open();
+                }));
+        // Visualizzazione delle cartelle attualmente selezionate
+        // Display for currently selected folders
+        const foldersDiv = containerEl.createEl('div', { cls: 'setting-item-description' });
+        foldersDiv.style.marginLeft = 'var(--setting-item-indent)';
+        foldersDiv.style.marginBottom = '1em';
+        const currentFolders = this.plugin.settings.startFolders;
+        if (currentFolders && currentFolders.length > 0) {
+            foldersDiv.innerHTML = '<strong>Cartelle attuali:</strong><br>' + currentFolders.join('<br>');
+        } else {
+            foldersDiv.innerHTML = '<strong>Cartelle attuali:</strong><br>Tutto il vault';
         }
-        // Switch lettere accentate
-        // Toggle for accented letters
+        containerEl.createEl('hr');
+        containerEl.createEl('h3', { text: 'Filtri del Vocabolario' });
+        // Impostazione per la Lunghezza Minima della Parola
+        // Setting for Minimum Word Length
         new Setting(containerEl)
-            .setName('Includi lettere accentate')
-            .setDesc('Considera anche le lettere accentate come separate')
-            .addToggle(toggle => toggle
-                .setValue(this.plugin.settings.includeAccented)
+            .setName('Lunghezza minima della parola')
+            .setDesc('Le parole più corte di questo valore verranno ignorate.')
+            .addText(text => text
+                .setPlaceholder(String(DEFAULT_SETTINGS.minWordLength))
+                .setValue(String(this.plugin.settings.minWordLength))
                 .onChange(async (value) => {
-                    this.plugin.settings.includeAccented = value;
-                    await this.plugin.saveSettings();
-                })
-            );
-        // Switch articoli determinativi
-        // Toggle for definite articles
+                    const numValue = parseInt(value, 10);
+                    if (!isNaN(numValue) && numValue > 0) {
+                        this.plugin.settings.minWordLength = numValue;
+                        await this.plugin.saveSettings();
+                    }
+                }));
+        // Impostazioni per le stop-word (parole da ignorare)
+        // Settings for stop words
         new Setting(containerEl)
             .setName('Includi articoli determinativi')
+            .setDesc('Se disattivato, esclude parole come "il", "lo", "la", ecc.')
             .addToggle(toggle => toggle
                 .setValue(this.plugin.settings.includeArticoliDeterminativi)
                 .onChange(async (value) => {
                     this.plugin.settings.includeArticoliDeterminativi = value;
                     await this.plugin.saveSettings();
-                })
-            );
-        // Switch articoli indeterminativi
-        // Toggle for indefinite articles
+                }));
         new Setting(containerEl)
             .setName('Includi articoli indeterminativi')
+            .setDesc('Se disattivato, esclude parole come "un", "uno", "una".')
             .addToggle(toggle => toggle
                 .setValue(this.plugin.settings.includeArticoliIndeterminativi)
                 .onChange(async (value) => {
                     this.plugin.settings.includeArticoliIndeterminativi = value;
                     await this.plugin.saveSettings();
-                })
-            );
-        // Switch preposizioni semplici
-        // Toggle for simple prepositions
+                }));
         new Setting(containerEl)
             .setName('Includi preposizioni semplici')
+            .setDesc('Se disattivato, esclude parole come "di", "a", "da", ecc.')
             .addToggle(toggle => toggle
                 .setValue(this.plugin.settings.includePreposizioniSemplici)
                 .onChange(async (value) => {
                     this.plugin.settings.includePreposizioniSemplici = value;
                     await this.plugin.saveSettings();
-                })
-            );
-        // Switch preposizioni articolate
-        // Toggle for articulated prepositions
+                }));
         new Setting(containerEl)
             .setName('Includi preposizioni articolate')
+            .setDesc('Se disattivato, esclude parole come "del", "nella", "sugli", ecc.')
             .addToggle(toggle => toggle
                 .setValue(this.plugin.settings.includePreposizioniArticolate)
                 .onChange(async (value) => {
                     this.plugin.settings.includePreposizioniArticolate = value;
                     await this.plugin.saveSettings();
-                })
-            );
+                }));
+        // --- IMPOSTAZIONE STRINGHE DA ESCLUDERE ---
+        // 1. Creiamo l'impostazione con il nome e l'area di testo,
+        //    salvandola in una costante per poterla usare dopo.
+        const customStringsSetting = new Setting(containerEl)
+            .setName('Stringhe personalizzate da escludere')
+            .addTextArea(text => text
+                .setPlaceholder('<br>,§,...')
+                .setValue(this.plugin.settings.customStringsToExclude)
+                .onChange(async (value) => {
+                    this.plugin.settings.customStringsToExclude = value;
+                    await this.plugin.saveSettings();
+                }));
+        // 2. Ora usiamo MarkdownRenderer per inserire la nostra descrizione complessa
+        //    all'interno dello stesso blocco dell'impostazione.
+        MarkdownRenderer.renderMarkdown(
+            'Lista di stringhe (separate da virgola) da rimuovere dal testo prima dell\’analisi.' +
+            '<br>' +
+            'Utile per pulire tag HTML (es: `\<br\>`) o simboli speciali (es: `§`).',
+            customStringsSetting.descEl,
+            '',
+            this.plugin
+        );
     }
 }
-// --- Main Logic ---
-// 1. Ensure the output folder exists
-// 2. Load the list of already scanned files
-// 3. Prompt the user to rescan or not
-// 4. Get all pages that are in a folder starting with the folderPrefix
-// 5. Filter out already scanned files (if not rescanning)
-// 6. Create a map to store words for each letter
-// 7. Process each page
-// 8. Write words to separate files
-// 9. Update the list of already scanned files
+
+// === MODALE PER LA SELEZIONE DELLE CARTELLE ===
+// === MODAL FOR FOLDER SELECTION ===
+
+class MultiFolderSelectModal extends Modal {
+    constructor(app, plugin, oncloseCallback) {
+        super(app);
+        this.plugin = plugin;
+        this.oncloseCallback = oncloseCallback;
+    }
+    onOpen() {
+        const { contentEl } = this;
+        contentEl.createEl('h2', { text: 'Seleziona cartelle da includere' });
+        const createTree = (folder, parentEl) => {
+            // Ordina gli elementi figli: prima le cartelle, poi i file, entrambi in ordine alfabetico
+            // Sort children: folders first, then files, both alphabetically
+            const children = folder.children.sort((a, b) => {
+                const aIsFolder = a instanceof TFolder;
+                const bIsFolder = b instanceof TFolder;
+                if (aIsFolder && !bIsFolder) return -1;
+                if (!aIsFolder && bIsFolder) return 1;
+                return a.name.localeCompare(b.name);
+            });
+            for (const child of children) {
+                if (child instanceof TFolder) {
+                    const setting = new Setting(parentEl)
+                        .setName(child.name)
+                        .setDesc(child.path)
+                        .addToggle(toggle => {
+                            toggle.setValue(this.plugin.settings.startFolders.includes(child.path))
+                                .onChange(async (value) => {
+                                    const path = child.path;
+                                    const currentFolders = this.plugin.settings.startFolders;
+                                    if (value) {
+                                        if (!currentFolders.includes(path)) {
+                                            this.plugin.settings.startFolders.push(path);
+                                        }
+                                    }
+                                    else {
+                                        this.plugin.settings.startFolders = currentFolders.filter(p => p !== path);
+                                    }
+                                    await this.plugin.saveSettings();
+                                });
+                        });
+                    setting.settingEl.addClass('folder-selection-setting');
+                }
+            }
+        };
+        createTree(this.app.vault.getRoot(), contentEl);
+    }
+    onClose() {
+        this.contentEl.empty();
+        if (this.oncloseCallback) {
+            this.oncloseCallback();
+        }
+    }
+}
