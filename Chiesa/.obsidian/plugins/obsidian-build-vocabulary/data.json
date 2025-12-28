@@ -4,6 +4,7 @@
     "Documenti vari"
   ],
   "addRibbonIcon": true,
+  "minWordLength": 2,
   "includeAccented": true,
   "includeArticoliDeterminativi": false,
   "includeArticoliIndeterminativi": false,
