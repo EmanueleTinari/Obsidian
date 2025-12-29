@@ -1,9 +1,12 @@
 {
+  "addRibbonIcon": true,
+  "outputFolder": "Vocaboli",
   "startFolders": [
     "Documenti pontifici",
     "Documenti vari"
   ],
-  "addRibbonIcon": true,
+  "exclusionFolders": [],
+  "exclusionPatterns": "_*",
   "minWordLength": 2,
   "includeAccented": true,
   "includeArticoliDeterminativi": false,
