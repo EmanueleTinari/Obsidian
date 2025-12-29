@@ -473,13 +473,13 @@ class BuildVocabularySettingTab extends PluginSettingTab {
             .setName('Cartella di output del vocabolario')
             .setDesc('La cartella dove verranno salvati i file del vocabolario (.md) e i database (.json).')
             .addText(text => {
-                text.setValue(this.plugin.settings.outputFolder).setDisabled(true); // Mostra il percorso ma non è modificabile direttamente
+                text.setValue(this.plugin.settings.outputFolder || '(Radice del Vault)').setDisabled(true); // Mostra il percorso ma non è modificabile direttamente
                 text.inputEl.style.width = '250px';
             })
             .addButton(btn => btn
                 .setButtonText('Scegli')
                 .onClick(() => {
-                    new SingleFolderSelectModal(this.app, this.plugin, (selectedPath) => {
+                    new SingleFolderSelectModal(this.app, (selectedPath) => {
                         this.plugin.settings.outputFolder = selectedPath;
                         this.plugin.saveSettings();
                         this.display(); // Ridisegna la tab per mostrare il nuovo valore
@@ -494,7 +494,7 @@ class BuildVocabularySettingTab extends PluginSettingTab {
             .addButton(btn => btn
                 .setButtonText('Scegli cartelle')
                 .onClick(() => {
-                    new MultiFolderSelectModal(this.app, this.plugin.settings.startFolders, (selectedFolders) => {
+                    new MultiFolderSelectModal(this.app, 'Seleziona cartelle da INCLUDERE', this.plugin.settings.startFolders, (selectedFolders) => {
                         this.plugin.settings.startFolders = selectedFolders;
                         this.plugin.saveSettings();
                         this.display();
@@ -510,7 +510,7 @@ class BuildVocabularySettingTab extends PluginSettingTab {
             .addButton(btn => btn
                 .setButtonText('Scegli cartelle')
                 .onClick(() => {
-                    new MultiFolderSelectModal(this.app, this.plugin.settings.exclusionFolders, (selectedFolders) => {
+                    new MultiFolderSelectModal(this.app, 'Seleziona cartelle da ESCLUDERE', this.plugin.settings.exclusionFolders, (selectedFolders) => {
                         this.plugin.settings.exclusionFolders = selectedFolders;
                         this.plugin.saveSettings();
                         this.display();
@@ -591,40 +591,43 @@ class BuildVocabularySettingTab extends PluginSettingTab {
 // === MODALE PER LA SELEZIONE DI UNA SINGOLA CARTELLA ===
 // === MODAL FOR SINGLE FOLDER SELECTION ===
 class SingleFolderSelectModal extends Modal {
-    constructor(app, plugin, onSelectCallback) {
+    constructor(app, onSelectCallback) {
         super(app);
-        this.plugin = plugin;
         this.onSelectCallback = onSelectCallback;
     }
     onOpen() {
         const { contentEl } = this;
-        contentEl.createEl('h2', { text: 'Seleziona una cartella' });
-        const createFolderItem = (folder, parentEl) => {
-            const container = parentEl.createDiv('folder-item');
-            container.createEl('span', { text: folder.name, cls: 'folder-name' });
-
-            const selectButton = container.createEl('button', { text: 'Seleziona' });
-            selectButton.addEventListener('click', () => {
-                this.onSelectCallback(folder.path);
-                this.close();
-            });
-        };
+        contentEl.createEl('h2', { text: 'Seleziona la cartella di output' });
         const createTree = (folder, parentEl) => {
-            const children = folder.children.filter(c => c instanceof TFolder).sort((a, b) => a.name.localeCompare(b.name));
-            for (const child of children) {
+            const sortedChildren = folder.children
+                .filter(child => child instanceof TFolder)
+                .sort((a, b) => a.name.localeCompare(b.name));
+            for (const child of sortedChildren) {
                 const details = parentEl.createEl('details');
-                details.createEl('summary', { text: child.name });
-                createTree(child, details);
+                const summary = details.createEl('summary');
+                const item = summary.createDiv({ cls: 'folder-item' });
+                item.createEl('span', { text: child.name, cls: 'folder-name' });
+                const selectButton = item.createEl('button', { text: 'Seleziona' });
+                selectButton.onClickEvent(evt => {
+                    evt.stopPropagation();
+                    this.onSelectCallback(child.path);
+                    this.close();
+                });
+                // Se la cartella ha sottocartelle, continua la ricorsione
+                if (child.children.some(c => c instanceof TFolder)) {
+                    createTree(child, details);
+                }
             }
         };
         // Aggiunge la root del vault come prima opzione selezionabile
         const rootContainer = contentEl.createDiv('folder-item');
         rootContainer.createEl('span', { text: '(Radice del Vault)', cls: 'folder-name' });
         const selectRootButton = rootContainer.createEl('button', { text: 'Seleziona' });
-        selectRootButton.addEventListener('click', () => {
-            this.onSelectCallback('/');
+        selectRootButton.onClickEvent(() => {
+            this.onSelectCallback(''); // Usa stringa vuota per indicare la radice
             this.close();
         });
+        // Avvia la creazione dell'albero dalla radice del vault
         createTree(this.app.vault.getRoot(), contentEl);
     }
     onClose() {
@@ -638,61 +641,57 @@ class SingleFolderSelectModal extends Modal {
 class MultiFolderSelectModal extends Modal {
     // Accetta l'array di cartelle attualmente selezionate (es. startFolders o exclusionFolders)
     // e una callback da eseguire al salvataggio.
-    constructor(app, selectedFoldersArray, onSaveCallback) {
+    constructor(app, title, selectedFoldersArray, onSaveCallback) {
         super(app);
+        this.title = title;
         // Memorizza una COPIA dell'array per poterla modificare senza effetti collaterali
         this.selectedFolders = [...selectedFoldersArray];
         this.onSaveCallback = onSaveCallback;
     }
     onOpen() {
         const { contentEl } = this;
-        contentEl.createEl('h2', { text: 'Seleziona cartelle da includere' });
+        contentEl.createEl('h2', { text: this.title });
         const createTree = (folder, parentEl) => {
             // Ordina gli elementi figli: prima le cartelle, poi i file, entrambi in ordine alfabetico
             // Sort children: folders first, then files, both alphabetically
-            const children = folder.children.sort((a, b) => {
-                const aIsFolder = a instanceof TFolder;
-                const bIsFolder = b instanceof TFolder;
-                if (aIsFolder && !bIsFolder) return -1;
-                if (!aIsFolder && bIsFolder) return 1;
-                return a.name.localeCompare(b.name);
-            });
+            const children = folder.children
+                .filter(c => c instanceof TFolder)
+                .sort((a, b) => a.name.localeCompare(b.name));
             for (const child of children) {
-                if (child instanceof TFolder) {
-                    const setting = new Setting(parentEl)
-                        .setName(child.name)
-                        .setDesc(child.path)
-                        .addToggle(toggle => {
-                            // Controlla se il percorso è nell'array generico che abbiamo ricevuto
-                            toggle.setValue(this.selectedFolders.includes(child.path))
-                                .onChange((value) => {
-                                    const path = child.path;
-                                    if (value) {
-                                        // Aggiunge il percorso se non è già presente
-                                        if (!this.selectedFolders.includes(path)) {
-                                            this.selectedFolders.push(path);
-                                        }
+                const setting = new Setting(parentEl)
+                    .setName(child.name)
+                    .setDesc(child.path)
+                    .addToggle(toggle => {
+                        // Controlla se il percorso è nell'array generico che abbiamo ricevuto
+                        toggle.setValue(this.selectedFolders.includes(child.path))
+                            .onChange((value) => {
+                                const path = child.path;
+                                if (value) {
+                                    // Aggiunge il percorso se non è già presente
+                                    if (!this.selectedFolders.includes(path)) {
+                                        this.selectedFolders.push(path);
                                     }
-                                    else {
-                                        // Rimuove il percorso
-                                        this.selectedFolders = this.selectedFolders.filter(p => p !== path);
-                                    }
-                                    // NOTA: Non salviamo le impostazioni qui, lo faremo alla chiusura.
-                                });
-                        });
-                    setting.settingEl.addClass('folder-selection-setting');
-                }
+                                }
+                                else {
+                                    // Rimuove il percorso
+                                    this.selectedFolders = this.selectedFolders.filter(p => p !== path);
+                                }
+                                // NOTA: Non salviamo le impostazioni qui, lo faremo alla chiusura.
+                            });
+                    });
+                setting.settingEl.addClass('folder-selection-setting');
             }
-        };
-        createTree(this.app.vault.getRoot(), contentEl);
-    }
-    // NUOVO METODO ONCLOSE CHE SALVA I DATI
-    onClose() {
-        // Quando la modale si chiude, invoca la callback che abbiamo ricevuto,
-        // passandole l'array aggiornato delle cartelle selezionate.
-        if (this.onSaveCallback) {
-            this.onSaveCallback(this.selectedFolders);
         }
-        this.contentEl.empty();
+    };
+    createTree(this.app.vault.getRoot(), contentEl);
+const buttonContainer = contentEl.createDiv({ cls: 'modal-button-container' });
+const saveButton = buttonContainer.createEl('button', { text: 'Salva', cls: 'mod-cta' });
+saveButton.onClickEvent(() => {
+    this.onSaveCallback(this.selectedFolders);
+    this.close();
+});
     }
+onClose() {
+    this.contentEl.empty();
+}
 }
