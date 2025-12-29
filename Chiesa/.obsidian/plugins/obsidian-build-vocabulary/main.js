@@ -33,6 +33,8 @@ Features:
 */
 
 const { Plugin, PluginSettingTab, Setting, App, Notice, Modal, TFolder, MarkdownRenderer } = require('obsidian');
+// Richiede il modulo 'crypto' di Node.js per calcolare gli hash SHA-512
+const crypto = require('crypto');
 
 // === COSTANTI ===
 // === CONSTANTS ===
@@ -56,14 +58,22 @@ const PREPOSIZIONI_ARTICOLATE = [
 // I file che iniziano con questo prefisso verranno ignorati
 // Files starting with this will be ignored
 const EXCLUDED_PREFIX = "_";
-// Cartella di output per i file del vocabolario
-// Output directory for vocabulary files
-const OUTPUT_FOLDER = "Vocaboli";
+// Costanti per i file di database/cache
+const SOURCE_CACHE_FILE = `${outputFolder}/_source_cache.json`;
+const VOCABULARY_DB_FILE = `${outputFolder}/_vocabulary_database.json`;
 
+// ========================
+// === DEFAULT_SETTINGS ===
+// ========================
 // Impostazioni predefinite del plugin
 // Default settings for the plugin
 const DEFAULT_SETTINGS = {
+    // Cartelle da includere
     startFolders: [],
+    // Cartelle da escludere
+    exclusionFolders: [],
+    // Cartella di output
+    outputFolder: "Vocaboli",
     addRibbonIcon: false,
     // Lunghezza minima che una parola deve avere per essere inclusa
     // Minimum length for a word to be included
@@ -73,6 +83,9 @@ const DEFAULT_SETTINGS = {
     includeArticoliIndeterminativi: false,
     includePreposizioniSemplici: false,
     includePreposizioniArticolate: false,
+    // Pattern di esclusione per file e cartelle,
+    // separati da virgola. Supporta '*' come jolly.
+    exclusionPatterns: "_*",
 };
 
 // === FUNZIONI DI SUPPORTO ===
@@ -125,7 +138,8 @@ async function writeDataToFile(app, filePath, content) {
         const file = app.vault.getAbstractFileByPath(filePath);
         if (file) {
             await app.vault.modify(file, content);
-        } else {
+        }
+        else {
             await app.vault.create(filePath, content);
         }
         return true;
@@ -134,6 +148,75 @@ async function writeDataToFile(app, filePath, content) {
         console.error(`Error writing to file "${filePath}":`, error);
         new Notice(`Error writing to "${filePath}".`);
         return false;
+    }
+}
+
+/**
+ * Calcola l'hash SHA-512 di una stringa di testo.
+ * @param {string} text - Il contenuto di cui calcolare l'hash.
+ * @returns {string} - L'hash SHA-512 in formato esadecimale.
+ */
+function calculateHash(text) {
+    return crypto.createHash('sha512').update(text).digest('hex');
+}
+
+/**
+ * Legge e fa il parsing di un file JSON in modo sicuro.
+ * Se il file non esiste o è invalido, restituisce il valore di fallback.
+ * @param {App} app - L'istanza dell'applicazione Obsidian.
+ * @param {string} filePath - Il percorso del file JSON da leggere.
+ * @param {any} fallback - Il valore da restituire in caso di errore.
+ * @returns {Promise<any>} - I dati del file JSON o il valore di fallback.
+ */
+async function readJsonFile(app, filePath, fallback = {}) {
+    try {
+        const content = await app.vault.adapter.read(filePath);
+        return JSON.parse(content);
+    }
+    catch (error) {
+        // Se il file non esiste o c'è un errore di parsing, restituisce il fallback
+        return fallback;
+    }
+}
+
+/**
+ * Scrive un oggetto in un file JSON.
+ * @param {App} app - L'istanza dell'applicazione Obsidian.
+ * @param {string} filePath - Il percorso del file JSON da scrivere.
+ * @param {object} data - L'oggetto da serializzare e scrivere.
+ * @returns {Promise<boolean>} - True in caso di successo, false in caso di fallimento.
+ */
+async function writeJsonFile(app, filePath, data) {
+    try {
+        await app.vault.adapter.write(filePath, JSON.stringify(data, null, 2)); // Il 2 formatta il JSON per essere leggibile
+        return true;
+    }
+    catch (error) {
+        console.error(`Error writing to JSON file "${filePath}":`, error);
+        new Notice(`Error writing to "${filePath}".`);
+        return false;
+    }
+}
+
+/**
+ * Pulisce una cartella da tutti i file con estensione .md.
+ * @param {App} app - L'istanza dell'applicazione Obsidian.
+ * @param {string} folderPath - Il percorso della cartella da pulire.
+ */
+async function clearMarkdownFiles(app, folderPath) {
+    try {
+        const filesInFolder = await app.vault.adapter.list(folderPath);
+        for (const filePath of filesInFolder.files) {
+            if (filePath.toLowerCase().endsWith('.md')) {
+                await app.vault.adapter.remove(filePath);
+            }
+        }
+    }
+    catch (error) {
+        // Ignora l'errore se la cartella non esiste, ma logga altri errori
+        if (!error.message.includes('no such file or directory')) {
+            console.error(`Error clearing markdown files from "${folderPath}":`, error);
+        }
     }
 }
 
@@ -191,9 +274,8 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
     async buildVocabulary() {
         const startTime = Date.now();
         new Notice('Inizio costruzione vocabolario...', 5000);
-        // 1. IMPOSTAZIONE
-        // 1. SETUP
-        if (!(await ensureFolderExists(OUTPUT_FOLDER, this.app))) {
+        // --- 1. SETUP INIZIALE E CARICAMENTO DATABASE ---
+        if (!(await ensureFolderExists(outputFolder, this.app))) {
             // Interrompe l'esecuzione se non è possibile creare la cartella di output
             // Stop if we can't create the output folder
             return;
@@ -202,18 +284,38 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
         // Main data structure: { 'word' => [ { file, context }, ... ] }
         const vocabulary = new Map();
         const vaultName = this.app.vault.getName();
-        const startFolders = this.settings.startFolders && this.settings.startFolders.length > 0
-            ? this.settings.startFolders
-            : [this.app.vault.getRoot().path];
-        // 2. RACCOLTA ED ELABORAZIONE FILE (Passaggio Singolo)
-        // 2. FILE GATHERING & PROCESSING (Single Pass)
+        // --- 2. RACCOLTA FILE E FILTRAGGIO AVANZATO ---
+        const startFolders = this.settings.startFolders.length > 0 ? this.settings.startFolders : ['/'];
+        const exclusionFolders = this.settings.exclusionFolders || [];
+        const outputFolder = this.settings.outputFolder;
+        // Prepara i pattern di esclusione convertendoli in Regex
+        const exclusionRegexps = (this.settings.exclusionPatterns || '')
+            .split(',')
+            .map(p => p.trim())
+            .filter(p => p)
+            .map(p => new RegExp('^' + p.replace(/\*/g, '.*') + '$'));
         const allFiles = this.app.vault.getMarkdownFiles();
         const filesToProcess = allFiles.filter(file => {
-            const isExcluded = file.name.startsWith(EXCLUDED_PREFIX) || file.path.startsWith(OUTPUT_FOLDER);
+            // Regola 1: Deve essere nella cartella di output? -> ESCLUDI
+            if (file.path.startsWith(outputFolder)) {
+                return false;
+            }
+            // Regola 2: È in una delle cartelle esplicitamente escluse? -> ESCLUDI
+            if (exclusionFolders.some(folder => file.path.startsWith(folder))) {
+                return false;
+            }
+            // Regola 3: Corrisponde a un pattern di esclusione? -> ESCLUDI
+            // Controlliamo sia il nome del file che ogni segmento del percorso
+            const pathParts = file.path.split('/');
+            if (pathParts.some(part => exclusionRegexps.some(rx => rx.test(part)))) {
+                return false;
+            }
+            // Regola 4: È in una delle cartelle di inclusione? -> INCLUDI
+            // Questa regola si applica solo se `startFolders` non è vuoto.
             const isInStartFolder = startFolders.some(folder => file.path.startsWith(folder));
-            return !isExcluded && isInStartFolder;
+            return isInStartFolder;
         });
-        new Notice(`Trovati ${filesToProcess.length} file da analizzare...`, 3000);
+        new Notice(`Trovati ${filesToProcess.length} file. Sincronizzazione in corso...`, 3000);
         for (const file of filesToProcess) {
             const content = await this.app.vault.cachedRead(file);
             const lines = content.split('\n');
@@ -337,7 +439,7 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
                 }
                 markdownContent += `\n---\n`;
             }
-            await writeDataToFile(this.app, `${OUTPUT_FOLDER}/${letter}.md`, markdownContent);
+            await writeDataToFile(this.app, `${outputFolder}/${letter}.md`, markdownContent);
         }
         const duration = (Date.now() - startTime) / 1000;
         new Notice(`Costruzione vocabolario completata in ${duration.toFixed(2)} secondi!`, 10000);
@@ -356,6 +458,8 @@ class BuildVocabularySettingTab extends PluginSettingTab {
         const { containerEl } = this;
         containerEl.empty();
         containerEl.createEl('h1', { text: 'Impostazioni Build Vocabulary' });
+        // --- IMPOSTAZIONI DI BASE ---
+        containerEl.createEl('h2', { text: 'Impostazioni di Base' });
         // Impostazione per l'Icona nella Barra Laterale
         // Setting for Ribbon Icon
         // 1. Creiamo UNA SOLA impostazione e le assegnamo SIA il nome SIA il toggle.
@@ -384,15 +488,69 @@ class BuildVocabularySettingTab extends PluginSettingTab {
             '',
             this.plugin
         );
+        // --- FILTRI DI INCLUSIONE / ESCLUSIONE ---
+        containerEl.createEl('h2', { text: 'Filtri File e Cartelle' });
+        // Impostazione Cartella di Output
+        new Setting(containerEl)
+            .setName('Cartella di output del vocabolario')
+            .setDesc('La cartella dove verranno salvati i file del vocabolario (.md) e i database (.json).')
+            .addText(text => {
+                text.setValue(this.plugin.settings.outputFolder).setDisabled(true); // Mostra il percorso ma non è modificabile direttamente
+                text.inputEl.style.width = '250px';
+            })
+            .addButton(btn => btn
+                .setButtonText('Scegli')
+                .onClick(() => {
+                    new SingleFolderSelectModal(this.app, this.plugin, (selectedPath) => {
+                        this.plugin.settings.outputFolder = selectedPath;
+                        this.plugin.saveSettings();
+                        this.display(); // Ridisegna la tab per mostrare il nuovo valore
+                    }).open();
+                }));
+        containerEl.createEl('hr');
         // Impostazione per le Cartelle di Partenza
         // Setting for Start Folders
         new Setting(containerEl)
-            .setName('Cartelle di partenza')
-            .setDesc('Seleziona le cartelle da includere nella scansione. Se vuoto, scansiona l\’intero vault.')
+            .setName('Cartelle da includere (Start Folders)')
+            .setDesc('Seleziona le cartelle da includere nella scansione. Se lasciato vuoto, verrà scansionato l\’intero vault (rispettando le esclusioni).')
             .addButton(btn => btn
                 .setButtonText('Scegli cartelle')
                 .onClick(() => {
-                    new MultiFolderSelectModal(this.app, this.plugin, () => this.display()).open();
+                    new MultiFolderSelectModal(this.app, this.plugin.settings.startFolders, (selectedFolders) => {
+                        this.plugin.settings.startFolders = selectedFolders;
+                        this.plugin.saveSettings();
+                        this.display();
+                    }).open();
+                }));
+        // Visualizzazione cartelle incluse
+        const includedFoldersDiv = containerEl.createEl('div', { cls: 'setting-item-description', text: 'Cartelle incluse: ' + (this.plugin.settings.startFolders.join(', ') || 'Tutto il vault') });
+        includedFoldersDiv.style.marginLeft = 'var(--setting-item-indent)';
+        // Impostazione Cartelle da Escludere
+        new Setting(containerEl)
+            .setName('Cartelle da escludere')
+            .setDesc('Tutti i file e le sottocartelle all\'interno di queste cartelle verranno ignorati. Questo filtro ha la priorità su "Cartelle da includere".')
+            .addButton(btn => btn
+                .setButtonText('Scegli cartelle')
+                .onClick(() => {
+                    new MultiFolderSelectModal(this.app, this.plugin.settings.exclusionFolders, (selectedFolders) => {
+                        this.plugin.settings.exclusionFolders = selectedFolders;
+                        this.plugin.saveSettings();
+                        this.display();
+                    }).open();
+                }));
+        // Visualizzazione cartelle escluse
+        const excludedFoldersDiv = containerEl.createEl('div', { cls: 'setting-item-description', text: 'Cartelle escluse: ' + (this.plugin.settings.exclusionFolders.join(', ') || 'Nessuna') });
+        excludedFoldersDiv.style.marginLeft = 'var(--setting-item-indent)';
+        // Impostazione Pattern di Esclusione
+        new Setting(containerEl)
+            .setName('Pattern di esclusione file/cartelle')
+            .setDesc('Lista di pattern separati da virgola. I file o le cartelle che corrispondono a uno di questi pattern verranno ignorati. Usa * come jolly (es. _*, *.template.md, Diario*).')
+            .addText(text => text
+                .setPlaceholder(DEFAULT_SETTINGS.exclusionPatterns)
+                .setValue(this.plugin.settings.exclusionPatterns)
+                .onChange(async (value) => {
+                    this.plugin.settings.exclusionPatterns = value;
+                    await this.plugin.saveSettings();
                 }));
         // Visualizzazione delle cartelle attualmente selezionate
         // Display for currently selected folders
@@ -406,6 +564,7 @@ class BuildVocabularySettingTab extends PluginSettingTab {
             foldersDiv.innerHTML = '<strong>Cartelle attuali:</strong><br>Tutto il vault';
         }
         containerEl.createEl('hr');
+        // --- FILTRI VOCABOLARIO ---
         containerEl.createEl('h3', { text: 'Filtri del Vocabolario' });
         // Impostazione per la Lunghezza Minima della Parola
         // Setting for Minimum Word Length
@@ -460,6 +619,49 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                     this.plugin.settings.includePreposizioniArticolate = value;
                     await this.plugin.saveSettings();
                 }));
+    }
+}
+// === MODALE PER LA SELEZIONE DI UNA SINGOLA CARTELLA ===
+// === MODAL FOR SINGLE FOLDER SELECTION ===
+class SingleFolderSelectModal extends Modal {
+    constructor(app, plugin, onSelectCallback) {
+        super(app);
+        this.plugin = plugin;
+        this.onSelectCallback = onSelectCallback;
+    }
+    onOpen() {
+        const { contentEl } = this;
+        contentEl.createEl('h2', { text: 'Seleziona una cartella' });
+        const createFolderItem = (folder, parentEl) => {
+            const container = parentEl.createDiv('folder-item');
+            container.createEl('span', { text: folder.name, cls: 'folder-name' });
+
+            const selectButton = container.createEl('button', { text: 'Seleziona' });
+            selectButton.addEventListener('click', () => {
+                this.onSelectCallback(folder.path);
+                this.close();
+            });
+        };
+        const createTree = (folder, parentEl) => {
+            const children = folder.children.filter(c => c instanceof TFolder).sort((a, b) => a.name.localeCompare(b.name));
+            for (const child of children) {
+                const details = parentEl.createEl('details');
+                details.createEl('summary', { text: child.name });
+                createTree(child, details);
+            }
+        };
+        // Aggiunge la root del vault come prima opzione selezionabile
+        const rootContainer = contentEl.createDiv('folder-item');
+        rootContainer.createEl('span', { text: '(Radice del Vault)', cls: 'folder-name' });
+        const selectRootButton = rootContainer.createEl('button', { text: 'Seleziona' });
+        selectRootButton.addEventListener('click', () => {
+            this.onSelectCallback('/');
+            this.close();
+        });
+        createTree(this.app.vault.getRoot(), contentEl);
+    }
+    onClose() {
+        this.contentEl.empty();
     }
 }
 
