@@ -1,5 +1,4 @@
 /*
-QUESTO È IL NUOVO FILE MAIN.JS MIGLIORATO
 Ultimo aggiornamento: 27-12-2025
 Funzionalità:
 - Legge tutti i file markdown specificati una sola volta per la massima efficienza.
@@ -12,24 +11,7 @@ Funzionalità:
     - Un link cliccabile che usa obsidian://search per saltare alla riga esatta nel file originale.
     - La parola stessa è in grassetto nel testo del link per una chiara identificazione.
     - Un link secondario al file sorgente.
-- Tutta la vecchia logica per tracciare i file "già scansionati" è stata rimossa per un processo di costruzione più semplice e su richiesta.
 - Aggiunge un'impostazione "Lunghezza minima della parola" nelle opzioni del plugin.
-
-THIS IS THE NEW AND IMPROVED MAIN.JS FILE
-Last updated: 2025-12-27
-Features:
-- Reads all specified markdown files only once for efficiency.
-- Extracts words and their surrounding line (context).
-- Filters out common stop words based on settings.
-- Groups words by their starting letter into separate vocabulary files.
-- For each word, it lists all occurrences (concordances).
-- Each occurrence includes:
-    - The total count of that word across all documents.
-    - A clickable link that uses obsidian://search to jump to the exact line in the original file.
-    - The word itself is bolded in the link text for clarity.
-    - A secondary link to the source file.
-- All old logic for tracking "already scanned" files has been removed for a simpler, on-demand build process.
-- Adds a "Minimum word length" setting in the plugin options.
 */
 
 const { Plugin, PluginSettingTab, Setting, App, Notice, Modal, TFolder, MarkdownRenderer } = require('obsidian');
@@ -52,39 +34,35 @@ const PREPOSIZIONI_ARTICOLATE = [
     'sul', 'sullo', 'sulla', "sull'", 'sui', 'sugli', 'sulle'
 ];
 
-// Costanti di configurazione
-// Configuration constants
-
-// I file che iniziano con questo prefisso verranno ignorati
-// Files starting with this will be ignored
-const EXCLUDED_PREFIX = "_";
-// Costanti per i file di database/cache
-const SOURCE_CACHE_FILE = `${outputFolder}/_source_cache.json`;
-const VOCABULARY_DB_FILE = `${outputFolder}/_vocabulary_database.json`;
-
 // ========================
 // === DEFAULT_SETTINGS ===
 // ========================
 // Impostazioni predefinite del plugin
 // Default settings for the plugin
+
+// Impostazioni predefinite del plugin
 const DEFAULT_SETTINGS = {
-    // Cartelle da includere
+    // Cartelle da cui iniziare la scansione.
+    // Se vuoto, scansiona l'intero vault.
     startFolders: [],
-    // Cartelle da escludere
+    // Cartelle da ignorare completamente.
+    // Ha la priorità su 'startFolders'.
     exclusionFolders: [],
-    // Cartella di output
+    // La cartella dove verranno creati i file del vocabolario (.md e .json).
     outputFolder: "Vocaboli",
+    // Aggiunge l'icona alla barra laterale (richiede ricarica del plugin).
     addRibbonIcon: false,
-    // Lunghezza minima che una parola deve avere per essere inclusa
+    // Lunghezza minima di una parola per essere inclusa nel vocabolario.
     // Minimum length for a word to be included
     minWordLength: 2,
+    // Flag per includere parole accentate (sempre consigliato).
     includeAccented: true,
+    // Flags per includere/escludere le stop-word.
     includeArticoliDeterminativi: false,
     includeArticoliIndeterminativi: false,
     includePreposizioniSemplici: false,
     includePreposizioniArticolate: false,
-    // Pattern di esclusione per file e cartelle,
-    // separati da virgola. Supporta '*' come jolly.
+    // Pattern di esclusione per file/cartelle, separati da virgola. Supporta '*' come jolly.
     exclusionPatterns: "_*",
 };
 
