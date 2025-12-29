@@ -682,16 +682,15 @@ class MultiFolderSelectModal extends Modal {
                 setting.settingEl.addClass('folder-selection-setting');
             }
         }
-    };
-    createTree(this.app.vault.getRoot(), contentEl);
-const buttonContainer = contentEl.createDiv({ cls: 'modal-button-container' });
-const saveButton = buttonContainer.createEl('button', { text: 'Salva', cls: 'mod-cta' });
-saveButton.onClickEvent(() => {
-    this.onSaveCallback(this.selectedFolders);
-    this.close();
-});
+        createTree(this.app.vault.getRoot(), contentEl);
+        const buttonContainer = contentEl.createDiv({ cls: 'modal-button-container' });
+        const saveButton = buttonContainer.createEl('button', { text: 'Salva', cls: 'mod-cta' });
+        saveButton.onClickEvent(() => {
+            this.onSaveCallback(this.selectedFolders);
+            this.close();
+        });
     }
-onClose() {
-    this.contentEl.empty();
-}
+    onClose() {
+        this.contentEl.empty();
+    }
 }
