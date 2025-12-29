@@ -530,17 +530,6 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                     this.plugin.settings.exclusionPatterns = value;
                     await this.plugin.saveSettings();
                 }));
-        // Visualizzazione delle cartelle attualmente selezionate
-        // Display for currently selected folders
-        const foldersDiv = containerEl.createEl('div', { cls: 'setting-item-description' });
-        foldersDiv.style.marginLeft = 'var(--setting-item-indent)';
-        foldersDiv.style.marginBottom = '1em';
-        const currentFolders = this.plugin.settings.startFolders;
-        if (currentFolders && currentFolders.length > 0) {
-            foldersDiv.innerHTML = '<strong>Cartelle attuali:</strong><br>' + currentFolders.join('<br>');
-        } else {
-            foldersDiv.innerHTML = '<strong>Cartelle attuali:</strong><br>Tutto il vault';
-        }
         containerEl.createEl('hr');
         // --- FILTRI VOCABOLARIO ---
         containerEl.createEl('h3', { text: 'Filtri del Vocabolario' });
@@ -647,10 +636,13 @@ class SingleFolderSelectModal extends Modal {
 // === MODAL FOR FOLDER SELECTION ===
 
 class MultiFolderSelectModal extends Modal {
-    constructor(app, plugin, oncloseCallback) {
+    // Accetta l'array di cartelle attualmente selezionate (es. startFolders o exclusionFolders)
+    // e una callback da eseguire al salvataggio.
+    constructor(app, selectedFoldersArray, onSaveCallback) {
         super(app);
-        this.plugin = plugin;
-        this.oncloseCallback = oncloseCallback;
+        // Memorizza una COPIA dell'array per poterla modificare senza effetti collaterali
+        this.selectedFolders = [...selectedFoldersArray];
+        this.onSaveCallback = onSaveCallback;
     }
     onOpen() {
         const { contentEl } = this;
@@ -671,19 +663,21 @@ class MultiFolderSelectModal extends Modal {
                         .setName(child.name)
                         .setDesc(child.path)
                         .addToggle(toggle => {
-                            toggle.setValue(this.plugin.settings.startFolders.includes(child.path))
-                                .onChange(async (value) => {
+                            // Controlla se il percorso è nell'array generico che abbiamo ricevuto
+                            toggle.setValue(this.selectedFolders.includes(child.path))
+                                .onChange((value) => {
                                     const path = child.path;
-                                    const currentFolders = this.plugin.settings.startFolders;
                                     if (value) {
-                                        if (!currentFolders.includes(path)) {
-                                            this.plugin.settings.startFolders.push(path);
+                                        // Aggiunge il percorso se non è già presente
+                                        if (!this.selectedFolders.includes(path)) {
+                                            this.selectedFolders.push(path);
                                         }
                                     }
                                     else {
-                                        this.plugin.settings.startFolders = currentFolders.filter(p => p !== path);
+                                        // Rimuove il percorso
+                                        this.selectedFolders = this.selectedFolders.filter(p => p !== path);
                                     }
-                                    await this.plugin.saveSettings();
+                                    // NOTA: Non salviamo le impostazioni qui, lo faremo alla chiusura.
                                 });
                         });
                     setting.settingEl.addClass('folder-selection-setting');
@@ -692,10 +686,13 @@ class MultiFolderSelectModal extends Modal {
         };
         createTree(this.app.vault.getRoot(), contentEl);
     }
+    // NUOVO METODO ONCLOSE CHE SALVA I DATI
     onClose() {
-        this.contentEl.empty();
-        if (this.oncloseCallback) {
-            this.oncloseCallback();
+        // Quando la modale si chiude, invoca la callback che abbiamo ricevuto,
+        // passandole l'array aggiornato delle cartelle selezionate.
+        if (this.onSaveCallback) {
+            this.onSaveCallback(this.selectedFolders);
         }
+        this.contentEl.empty();
     }
 }
