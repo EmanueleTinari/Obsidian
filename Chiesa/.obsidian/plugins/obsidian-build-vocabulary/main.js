@@ -283,7 +283,18 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
         const currentFilePaths = new Set(filesToProcess.map(f => f.path));
         const knownFilePaths = new Set(Object.keys(fileHashes));
         const deletedFilePaths = [...knownFilePaths].filter(p => !currentFilePaths.has(p));
-        const newOrModifiedFilePaths = filesToProcess.filter(f => !knownFilePaths.has(f.path) || fileHashes[f.path] !== calculateHash(this.app.vault.cachedReadSync(f))).map(f => f.path);
+        const filesToUpdate = [];
+        for (const file of filesToProcess) {
+            if (!knownFilePaths.has(file.path)) {
+                filesToUpdate.push(file);
+                continue;
+            }
+            const content = await this.app.vault.cachedRead(file);
+            const currentHash = calculateHash(content);
+            if (fileHashes[file.path] !== currentHash) {
+                filesToUpdate.push(file);
+            }
+        }
         // --- 4. GESTIONE FILE CANCELLATI ---
         if (deletedFilePaths.length > 0) {
             dbNeedsRewrite = true;
@@ -379,11 +390,12 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
                             // Costruisco il link di ricerca mirato al file e al frammento
                             const queryFragment = fragmentWords.join(' ').replace(/"/g, '\\"'); // Escape for query string
                             const searchURI = `obsidian://search?vault=${encodeURIComponent(vaultName)}&query=path:"${encodeURIComponent(occ.file)}"%20"${encodeURIComponent(queryFragment)}"`;
-                            markdownContent += `Occorrenza ${index + 1}\t[[${occ.file}#L${occ.lineNumber}|${occ.fileName}]]\t[${finalFragment}](${searchURI})\n`;
+                            markdownContent += `Occorrenza ${index + 1}\\t[[${occ.file}#L${occ.lineNumber}|${occ.file.substring(occ.file.lastIndexOf('/') + 1)}]]\\t[${finalFragment}](${searchURI})\\n`;
                         }
                         else {
                             // Fallback se la parola non viene trovata nel contesto (dovrebbe essere raro)
-                            markdownContent += `Occorrenza ${index + 1}\t[[${occ.file}#L${occ.lineNumber}|${occ.fileName}]]\t[Contesto non trovato per **${word}**](${searchURI})\n`;
+                            const searchURI = `obsidian://search?vault=${encodeURIComponent(vaultName)}&query=path:"${encodeURIComponent(occ.file)}"`;
+                            markdownContent += `Occorrenza ${index + 1}\\t[[${occ.file}|${fileName}]]\\t[Contesto non trovato per **${word}** nel file.](${searchURI})\\n`;
                         }
                     });
                     markdownContent += '\n---\n';
