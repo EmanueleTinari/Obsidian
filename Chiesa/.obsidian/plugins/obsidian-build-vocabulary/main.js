@@ -306,39 +306,41 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             for (const path of deletedFilePaths) delete fileHashes[path];
         }
         // --- 5. GESTIONE FILE NUOVI O MODIFICATI ---
-        if (newOrModifiedFilePaths.length > 0) {
+        if (filesToUpdate.length > 0) {
             dbNeedsRewrite = true;
-            new Notice(`🔄 Analisi di ${newOrModifiedFilePaths.length} file nuovi o modificati...`, 3000);
-            for (const filePath of newOrModifiedFilePaths) {
-                const file = allMarkdownFiles.find(f => f.path === filePath);
-                if (!file) continue; // File non trovato (dovrebbe essere gestito da deletedFilePaths ma per sicurezza)
-                const content = await this.app.vault.cachedRead(file);
-                fileHashes[file.path] = calculateHash(content); // Aggiorna l'hash del file
+            new Notice(`🔄 Analisi di ${filesToUpdate.length} file nuovi o modificati...`, 3000);
+            for (const file of filesToUpdate) {
                 // Purga le vecchie occorrenze di questo file dal vocabolario in memoria
                 for (const word in vocabulary) {
                     vocabulary[word] = vocabulary[word].filter(occ => occ.file !== file.path);
-                    if (vocabulary[word].length === 0) delete vocabulary[word];
+                    if (vocabulary[word].length === 0) {
+                        delete vocabulary[word];
+                    }
                 }
+                // Leggi il contenuto del file UNA SOLA VOLTA
+                const content = await this.app.vault.cachedRead(file);
+                const currentHash = calculateHash(content);
+                fileHashes[file.path] = currentHash; // Aggiorna l'hash del file
                 // Ora, analizza il file da capo e aggiungi i nuovi dati.
-                const lines = content.split('\n');
+                const lines = content.split('\\n');
                 lines.forEach((line, lineIndex) => {
                     if (!line.trim()) return;
                     // --- BLOCCO DI PULIZIA E SELEZIONE CONTESTO (v4.0) ---
                     let textToProcess = '';
                     if (line.trim().startsWith('[^') && line.includes(']:')) {
-                        const definitionContent = line.split(/\[\^.*?\]:/)[1];
+                        const definitionContent = line.split(/\\[\\^.*?\\]:/)[1];
                         if (definitionContent) textToProcess = definitionContent.trim();
                     }
                     else {
-                        const lineWithoutReferences = line.replaceAll(/\[\^.*?\]/g, ' ');
-                        const translationMatch = lineWithoutReferences.match(/\[(.*?)\]/);
+                        const lineWithoutReferences = line.replaceAll(/\\[\\^.*?\\]/g, ' ');
+                        const translationMatch = lineWithoutReferences.match(/\\[(.*?)\\]/);
                         textToProcess = translationMatch ? translationMatch[1].trim() : lineWithoutReferences.trim();
                     }
                     if (!textToProcess) return;
-                    textToProcess = textToProcess.replaceAll(/<[^>]+>/g, ' ').replaceAll(/\bcfr\.?\b/gi, ' ').replaceAll(/[()§*]/g, ' ');
-                    const wordsInLine = textToProcess.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
+                    textToProcess = textToProcess.replaceAll(/<[^>]+>/g, ' ').replaceAll(/\\bcfr\\.?\\b/gi, ' ').replaceAll(/[()§*]/g, ' ');
+                    const wordsInLine = textToProcess.toLowerCase().match(/\\b[\\p{L}\']+\\b/gu) || [];
                     for (const word of wordsInLine) {
-                        if (word.length < this.settings.minWordLength || !/^[\p{L}]/u.test(word)) continue;
+                        if (word.length < this.settings.minWordLength || !/^\\p{L}/u.test(word)) continue;
                         if (!this.settings.includeArticoliDeterminativi && ARTICOLI_DETERMINATIVI.includes(word)) continue;
                         if (!this.settings.includeArticoliIndeterminativi && ARTICOLI_INDETERMINATIVI.includes(word)) continue;
                         if (!this.settings.includePreposizioniSemplici && PREPOSIZIONI_SEMPLICI.includes(word)) continue;
@@ -359,8 +361,8 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
         }
         else {
             new Notice('✍️ Salvataggio database e scrittura file in corso...', 5000);
-            await writeJsonFile(this.app, hashesFilePath, fileHashes);
-            await writeJsonFile(this.app, vocabularyFilePath, vocabulary);
+            await writeJsonFile(this.app, SOURCE_CACHE_FILE, fileHashes);
+            await writeJsonFile(this.app, VOCABULARY_DB_FILE, vocabulary);
             await clearMarkdownFiles(this.app, outputFolder);
             const letterGroups = {};
             const sortedWords = Object.keys(vocabulary).sort((a, b) => a.localeCompare(b, 'it'));
@@ -378,19 +380,21 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
                     markdownContent += `###### Occorrenze trovate: ${occurrences.length}\n`;
                     occurrences.forEach((occ, index) => {
                         // Estrazione contesto (4 parole prima, parola, 4 parole dopo)
-                        const contextWords = occ.context.split(/\s+/).filter(w => w); // Filtra spazi vuoti
-                        const wordIndexInContext = contextWords.map(w => w.toLowerCase()).indexOf(word);
-                        let fragmentWords = [];
+                        const fileName = occ.file.substring(occ.file.lastIndexOf('/') + 1);
+                        const contextWords = occ.context.split(/\\s+/).filter(w => w); // Filtra spazi vuoti
+                        const cleanContextWords = contextWords.map(w => w.toLowerCase().replace(/[.,\\/#!$%\\^&\\*;:{}=\\-_`~()]/g, ""));
+                        const wordIndexInContext = cleanContextWords.indexOf(word);
                         if (wordIndexInContext !== -1) {
                             const start = Math.max(0, wordIndexInContext - 4);
                             const end = Math.min(contextWords.length, wordIndexInContext + 5); // 4 dopo + la parola stessa
-                            fragmentWords = contextWords.slice(start, end);
+                            const fragmentWords = contextWords.slice(start, end);
                             // Rimetto la parola al centro in grassetto
-                            const finalFragment = fragmentWords.map(w => w.toLowerCase() === word ? `**${w}**` : w).join(' ');
+                            const finalFragment = fragmentWords.map((w, i) => (start + i) === wordIndexInContext ? `**${w}**` : w).join(' ');
                             // Costruisco il link di ricerca mirato al file e al frammento
-                            const queryFragment = fragmentWords.join(' ').replace(/"/g, '\\"'); // Escape for query string
+                            const queryFragment = fragmentWords.join(' ').replace(/"/g, '\\\\"'); // Escape for query string
                             const searchURI = `obsidian://search?vault=${encodeURIComponent(vaultName)}&query=path:"${encodeURIComponent(occ.file)}"%20"${encodeURIComponent(queryFragment)}"`;
-                            markdownContent += `Occorrenza ${index + 1}\\t[[${occ.file}#L${occ.lineNumber}|${occ.file.substring(occ.file.lastIndexOf('/') + 1)}]]\\t[${finalFragment}](${searchURI})\\n`;
+
+                            markdownContent += `Occorrenza ${index + 1}\\t[[${occ.file}|${fileName}]]\\t[${finalFragment}](${searchURI})\\n`;
                         }
                         else {
                             // Fallback se la parola non viene trovata nel contesto (dovrebbe essere raro)
