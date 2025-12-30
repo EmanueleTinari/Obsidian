@@ -272,7 +272,6 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
         const exclusionRegexps = (this.settings.exclusionPatterns || '')
             .split(',').map(p => p.trim()).filter(p => p).map(p => new RegExp('^' + p.replace(/\*/g, '.*') + '$'));
         const allMarkdownFiles = this.app.vault.getMarkdownFiles();
-
         const filesToProcess = allMarkdownFiles.filter(file => {
             if (file.path.startsWith(outputFolder + '/')) return false;
             if (exclusionFolders.some(folder => file.path.startsWith(folder + '/'))) return false;
@@ -322,25 +321,25 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
                 const currentHash = calculateHash(content);
                 fileHashes[file.path] = currentHash; // Aggiorna l'hash del file
                 // Ora, analizza il file da capo e aggiungi i nuovi dati.
-                const lines = content.split('\\n');
+                const lines = content.split('\n');
                 lines.forEach((line, lineIndex) => {
                     if (!line.trim()) return;
                     // --- BLOCCO DI PULIZIA E SELEZIONE CONTESTO (v4.0) ---
                     let textToProcess = '';
                     if (line.trim().startsWith('[^') && line.includes(']:')) {
-                        const definitionContent = line.split(/\\[\\^.*?\\]:/)[1];
+                        const definitionContent = line.split(/\[\^.*?\]:/)[1];
                         if (definitionContent) textToProcess = definitionContent.trim();
                     }
                     else {
-                        const lineWithoutReferences = line.replaceAll(/\\[\\^.*?\\]/g, ' ');
-                        const translationMatch = lineWithoutReferences.match(/\\[(.*?)\\]/);
+                        const lineWithoutReferences = line.replaceAll(/\[\^.*?\]/g, ' ');
+                        const translationMatch = lineWithoutReferences.match(/\[(.*?)\]/);
                         textToProcess = translationMatch ? translationMatch[1].trim() : lineWithoutReferences.trim();
                     }
                     if (!textToProcess) return;
-                    textToProcess = textToProcess.replaceAll(/<[^>]+>/g, ' ').replaceAll(/\\bcfr\\.?\\b/gi, ' ').replaceAll(/[()§*]/g, ' ');
-                    const wordsInLine = textToProcess.toLowerCase().match(/\\b[\\p{L}\']+\\b/gu) || [];
+                    textToProcess = textToProcess.replaceAll(/<[^>]+>/g, ' ').replaceAll(/\bcfr\.?\b/gi, ' ').replaceAll(/[()§*]/g, ' ');
+                    const wordsInLine = textToProcess.toLowerCase().match(/\b[\p{L}\']+\b/gu) || [];
                     for (const word of wordsInLine) {
-                        if (word.length < this.settings.minWordLength || !/^\\p{L}/u.test(word)) continue;
+                        if (word.length < this.settings.minWordLength || !/^\p{L}/u.test(word)) continue;
                         if (!this.settings.includeArticoliDeterminativi && ARTICOLI_DETERMINATIVI.includes(word)) continue;
                         if (!this.settings.includeArticoliIndeterminativi && ARTICOLI_INDETERMINATIVI.includes(word)) continue;
                         if (!this.settings.includePreposizioniSemplici && PREPOSIZIONI_SEMPLICI.includes(word)) continue;
@@ -381,8 +380,8 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
                     occurrences.forEach((occ, index) => {
                         // Estrazione contesto (4 parole prima, parola, 4 parole dopo)
                         const fileName = occ.file.substring(occ.file.lastIndexOf('/') + 1);
-                        const contextWords = occ.context.split(/\\s+/).filter(w => w); // Filtra spazi vuoti
-                        const cleanContextWords = contextWords.map(w => w.toLowerCase().replace(/[.,\\/#!$%\\^&\\*;:{}=\\-_`~()]/g, ""));
+                        const contextWords = occ.context.split(/\s+/).filter(w => w); // Filtra spazi vuoti
+                        const cleanContextWords = contextWords.map(w => w.toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, ""));
                         const wordIndexInContext = cleanContextWords.indexOf(word);
                         if (wordIndexInContext !== -1) {
                             const start = Math.max(0, wordIndexInContext - 4);
@@ -391,15 +390,15 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
                             // Rimetto la parola al centro in grassetto
                             const finalFragment = fragmentWords.map((w, i) => (start + i) === wordIndexInContext ? `**${w}**` : w).join(' ');
                             // Costruisco il link di ricerca mirato al file e al frammento
-                            const queryFragment = fragmentWords.join(' ').replace(/"/g, '\\\\"'); // Escape for query string
+                            const queryFragment = fragmentWords.join(' ').replace(/"/g, '\"'); // Escape for query string
                             const searchURI = `obsidian://search?vault=${encodeURIComponent(vaultName)}&query=path:"${encodeURIComponent(occ.file)}"%20"${encodeURIComponent(queryFragment)}"`;
 
-                            markdownContent += `Occorrenza ${index + 1}\\t[[${occ.file}|${fileName}]]\\t[${finalFragment}](${searchURI})\\n`;
+                            markdownContent += `Occorrenza ${index + 1}\t[[${occ.file}|${fileName}]]\t[${finalFragment}](${searchURI})\n`;
                         }
                         else {
                             // Fallback se la parola non viene trovata nel contesto (dovrebbe essere raro)
                             const searchURI = `obsidian://search?vault=${encodeURIComponent(vaultName)}&query=path:"${encodeURIComponent(occ.file)}"`;
-                            markdownContent += `Occorrenza ${index + 1}\\t[[${occ.file}|${fileName}]]\\t[Contesto non trovato per **${word}** nel file.](${searchURI})\\n`;
+                            markdownContent += `Occorrenza ${index + 1}\t[[${occ.file}|${fileName}]]\t[Contesto non trovato per **${word}** nel file.](${searchURI})\n`;
                         }
                     });
                     markdownContent += '\n---\n';
