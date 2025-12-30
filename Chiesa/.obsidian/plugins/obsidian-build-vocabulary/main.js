@@ -240,7 +240,6 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
     async saveSettings() {
         await this.saveData(this.settings);
     }
-
     /**
      * La funzione principale del plugin. Legge i file, estrae parole e contesti,
      * e scrive i file strutturati del vocabolario.
@@ -251,176 +250,149 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
      */
     async buildVocabulary() {
         const startTime = Date.now();
-        new Notice('Inizio costruzione vocabolario...', 5000);
+        new Notice('⚙️ Inizio costruzione vocabolario...', 3000);
         // --- 1. SETUP INIZIALE E CARICAMENTO DATABASE ---
+        const outputFolder = this.settings.outputFolder || '';
         if (!(await ensureFolderExists(outputFolder, this.app))) {
+            new Notice(`❌ ERRORE CRITICO: Impossibile creare o accedere alla cartella "${outputFolder}". Processo interrotto.`, 10000);
             // Interrompe l'esecuzione se non è possibile creare la cartella di output
             // Stop if we can't create the output folder
             return;
         }
-        // Struttura dati principale: { 'parola' => [ { file, contesto }, ... ] }
-        // Main data structure: { 'word' => [ { file, context }, ... ] }
-        const vocabulary = new Map();
+        // Definiamo i percorsi dei file di database QUI, usando le impostazioni caricate.
+        const SOURCE_CACHE_FILE = `${outputFolder}/_source_cache.json`;
+        const VOCABULARY_DB_FILE = `${outputFolder}/_vocabulary_database.json`;
+        let fileHashes = await readJsonFile(this.app, SOURCE_CACHE_FILE, {});
+        let vocabulary = await readJsonFile(this.app, VOCABULARY_DB_FILE, {});
+        let dbNeedsRewrite = false; // Flag per sapere se dobbiamo riscrivere i database alla fine
         const vaultName = this.app.vault.getName();
-        // --- 2. RACCOLTA FILE E FILTRAGGIO AVANZATO ---
+        // --- 2. FILTRAGGIO FILE ---
         const startFolders = this.settings.startFolders.length > 0 ? this.settings.startFolders : ['/'];
         const exclusionFolders = this.settings.exclusionFolders || [];
-        const outputFolder = this.settings.outputFolder;
-        // Prepara i pattern di esclusione convertendoli in Regex
         const exclusionRegexps = (this.settings.exclusionPatterns || '')
-            .split(',')
-            .map(p => p.trim())
-            .filter(p => p)
-            .map(p => new RegExp('^' + p.replace(/\*/g, '.*') + '$'));
-        const allFiles = this.app.vault.getMarkdownFiles();
-        const filesToProcess = allFiles.filter(file => {
-            // Regola 1: Deve essere nella cartella di output? -> ESCLUDI
-            if (file.path.startsWith(outputFolder)) {
-                return false;
-            }
-            // Regola 2: È in una delle cartelle esplicitamente escluse? -> ESCLUDI
-            if (exclusionFolders.some(folder => file.path.startsWith(folder))) {
-                return false;
-            }
-            // Regola 3: Corrisponde a un pattern di esclusione? -> ESCLUDI
-            // Controlliamo sia il nome del file che ogni segmento del percorso
-            const pathParts = file.path.split('/');
-            if (pathParts.some(part => exclusionRegexps.some(rx => rx.test(part)))) {
-                return false;
-            }
-            // Regola 4: È in una delle cartelle di inclusione? -> INCLUDI
-            // Questa regola si applica solo se `startFolders` non è vuoto.
-            const isInStartFolder = startFolders.some(folder => file.path.startsWith(folder));
-            return isInStartFolder;
+            .split(',').map(p => p.trim()).filter(p => p).map(p => new RegExp('^' + p.replace(/\*/g, '.*') + '$'));
+        const allMarkdownFiles = this.app.vault.getMarkdownFiles();
+
+        const filesToProcess = allMarkdownFiles.filter(file => {
+            if (file.path.startsWith(outputFolder + '/')) return false;
+            if (exclusionFolders.some(folder => file.path.startsWith(folder + '/'))) return false;
+            if (file.path.split('/').some(part => exclusionRegexps.some(rx => rx.test(part)))) return false;
+            return startFolders.some(folder => folder === '/' || file.path.startsWith(folder + '/'));
         });
-        new Notice(`Trovati ${filesToProcess.length} file. Sincronizzazione in corso...`, 3000);
-        for (const file of filesToProcess) {
-            const content = await this.app.vault.cachedRead(file);
-            const lines = content.split('\n');
-            for (const line of lines) {
-                if (line.trim() === '') continue;
-                // =================================================================
-                // --- INIZIO BLOCCO DI PULIZIA ---
-                // Obiettivo: Isolare la porzione di testo corretta da cui estrarre le parole.
-                // La logica opera con una priorità precisa:
-                // 1. Prima controlla se la riga è una DEFINIZIONE di footnote.
-                //    Se sì, estrae solo il testo della nota.
-                // 2. Altrimenti, tratta la riga come testo normale,
-                //    la sanifica dai RIFERIMENTI e poi cerca eventuali TRADUZIONI.
-                // =================================================================
-                // Questa variabile conterrà il testo "pulito" finale da analizzare.
-                let textToProcess = '';
-                // --- Fase 1: Gestione delle DEFINIZIONI di Footnote ---
-                // Controlliamo se la riga è una DEFINIZIONE di nota (es. `[^1]: Testo...`).
-                // Questa è la parte che gestisce l'estrazione delle parole dal "tesoro" delle note.
-                if (line.trim().startsWith('[^') && line.includes(']:')) {
-                    // La riga è una DEFINIZIONE.
-                    // Usiamo .split() con una regex per dividere la riga al marcatore `[^...]:`.
-                    // Prendiamo il secondo elemento ([1]), che è tutto il testo DOPO il marcatore.
-                    const definitionContent = line.split(/\[\^.*?\]:/)[1];
-                    if (definitionContent) {
-                        textToProcess = definitionContent.trim();
-                        // Ora `textToProcess` contiene solo il puro testo della nota.
-                    }
+        // --- 3. IDENTIFICAZIONE MODIFICHE ---
+        const currentFilePaths = new Set(filesToProcess.map(f => f.path));
+        const knownFilePaths = new Set(Object.keys(fileHashes));
+        const deletedFilePaths = [...knownFilePaths].filter(p => !currentFilePaths.has(p));
+        const newOrModifiedFilePaths = filesToProcess.filter(f => !knownFilePaths.has(f.path) || fileHashes[f.path] !== calculateHash(this.app.vault.cachedReadSync(f))).map(f => f.path);
+        // --- 4. GESTIONE FILE CANCELLATI ---
+        if (deletedFilePaths.length > 0) {
+            dbNeedsRewrite = true;
+            new Notice(`🗑️ Rimozione di ${deletedFilePaths.length} file cancellati dal vocabolario...`, 3000);
+            for (const word in vocabulary) {
+                vocabulary[word] = vocabulary[word].filter(occ => !deletedFilePaths.includes(occ.file));
+                if (vocabulary[word].length === 0) delete vocabulary[word];
+            }
+            for (const path of deletedFilePaths) delete fileHashes[path];
+        }
+        // --- 5. GESTIONE FILE NUOVI O MODIFICATI ---
+        if (newOrModifiedFilePaths.length > 0) {
+            dbNeedsRewrite = true;
+            new Notice(`🔄 Analisi di ${newOrModifiedFilePaths.length} file nuovi o modificati...`, 3000);
+            for (const filePath of newOrModifiedFilePaths) {
+                const file = allMarkdownFiles.find(f => f.path === filePath);
+                if (!file) continue; // File non trovato (dovrebbe essere gestito da deletedFilePaths ma per sicurezza)
+                const content = await this.app.vault.cachedRead(file);
+                fileHashes[file.path] = calculateHash(content); // Aggiorna l'hash del file
+                // Purga le vecchie occorrenze di questo file dal vocabolario in memoria
+                for (const word in vocabulary) {
+                    vocabulary[word] = vocabulary[word].filter(occ => occ.file !== file.path);
+                    if (vocabulary[word].length === 0) delete vocabulary[word];
                 }
-                else {
-                    // --- Fase 2: Gestione del Testo Normale (che può contenere RIFERIMENTI o TRADUZIONI) ---
-                    // Se la riga non è una definizione di nota, è testo normale.
-                    // Passo 2a: Sanificazione dei RIFERIMENTI
-                    // Rimuoviamo preventivamente qualsiasi RIFERIMENTO a footnote (es. `[^1]`, `[^abc]`).
-                    // Questo ripulisce il contesto principale dal "rumore" dei puntatori.
-                    const lineWithoutReferences = line.replaceAll(/\[\^.*?\]/g, ' ');
-                    // Passo 2b: Isolamento della TRADUZIONE
-                    // Sulla riga già sanificata dai riferimenti, cerchiamo il pattern di una traduzione `[...]`.
-                    const translationMatch = lineWithoutReferences.match(/\[(.*?)\]/);
-                    if (translationMatch && translationMatch[1]) {
-                        // Se troviamo una traduzione, il nostro testo di interesse è SOLO il contenuto tra le parentesi.
-                        textToProcess = translationMatch[1].trim();
+                // Ora, analizza il file da capo e aggiungi i nuovi dati.
+                const lines = content.split('\n');
+                lines.forEach((line, lineIndex) => {
+                    if (!line.trim()) return;
+                    // --- BLOCCO DI PULIZIA E SELEZIONE CONTESTO (v4.0) ---
+                    let textToProcess = '';
+                    if (line.trim().startsWith('[^') && line.includes(']:')) {
+                        const definitionContent = line.split(/\[\^.*?\]:/)[1];
+                        if (definitionContent) textToProcess = definitionContent.trim();
                     }
                     else {
-                        // Se non c'è una traduzione, usiamo l'intera riga (che è già stata pulita dai riferimenti).
-                        textToProcess = lineWithoutReferences.trim();
+                        const lineWithoutReferences = line.replaceAll(/\[\^.*?\]/g, ' ');
+                        const translationMatch = lineWithoutReferences.match(/\[(.*?)\]/);
+                        textToProcess = translationMatch ? translationMatch[1].trim() : lineWithoutReferences.trim();
                     }
-                }
-                // --- Fase 3: Pulizia Finale sul Testo Selezionato ---
-                // A questo punto, `textToProcess` contiene la porzione di testo corretta (o è vuota).
-                // Applichiamo la pulizia finale per rimuovere elementi come tag HTML, "cfr.", etc.
-                // Questa pulizia si applica uniformemente sia al testo normale, sia alle traduzioni, sia alle definizioni delle note.
-                if (textToProcess) {
-                    // Rimuove qualsiasi tag HTML residuo (es. <span>, <br>)
-                    textToProcess = textToProcess.replaceAll(/<[^>]+>/g, ' ');
-                    // Rimuove le varianti di "cfr." (case-insensitive, con o senza punto)
-                    textToProcess = textToProcess.replaceAll(/\bcfr\.?\b/gi, ' ');
-                    // Rimuove parentesi tonde, asterischi, e altri simboli specifici che non sono parole.
-                    // Ho aggiunto l'asterisco (*) perché spesso delimita il testo straniero scartato.
-                    textToProcess = textToProcess.replaceAll(/[()§*]/g, ' ');
-                }
-                // Se `textToProcess` non è vuoto, ora possiamo passarlo all'estrattore di parole.
-                // if (textToProcess) { const wordsInLine = textToProcess.toLowerCase()... }
-                // --- FINE BLOCCO DI PULIZIA ---
-                // Regex per trovare le parole, inclusi i caratteri accentati.
-                // Regex to find words, including accented characters.
-                const wordsInLine = textToProcess.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
-                for (const word of wordsInLine) {
-                    const lw = word.toLowerCase();
-                    // Logica di filtraggio
-                    // Filtering logic
-                    if (lw.length < this.settings.minWordLength) continue;
-                    if (!/^\p{L}/u.test(lw)) continue; // Must contain at least one letter
-                    if (this.settings.includeArticoliDeterminativi === false && ARTICOLI_DETERMINATIVI.includes(lw)) continue;
-                    if (this.settings.includeArticoliIndeterminativi === false && ARTICOLI_INDETERMINATIVI.includes(lw)) continue;
-                    if (this.settings.includePreposizioniSemplici === false && PREPOSIZIONI_SEMPLICI.includes(lw)) continue;
-                    if (this.settings.includePreposizioniArticolate === false && PREPOSIZIONI_ARTICOLATE.includes(lw)) continue;
-                    // Aggiunge alla mappa del vocabolario
-                    // Add to vocabulary map
-                    if (!vocabulary.has(lw)) {
-                        vocabulary.set(lw, []);
+                    if (!textToProcess) return;
+                    textToProcess = textToProcess.replaceAll(/<[^>]+>/g, ' ').replaceAll(/\bcfr\.?\b/gi, ' ').replaceAll(/[()§*]/g, ' ');
+                    const wordsInLine = textToProcess.toLowerCase().match(/\b[\p{L}']+\b/gu) || [];
+                    for (const word of wordsInLine) {
+                        if (word.length < this.settings.minWordLength || !/^[\p{L}]/u.test(word)) continue;
+                        if (!this.settings.includeArticoliDeterminativi && ARTICOLI_DETERMINATIVI.includes(word)) continue;
+                        if (!this.settings.includeArticoliIndeterminativi && ARTICOLI_INDETERMINATIVI.includes(word)) continue;
+                        if (!this.settings.includePreposizioniSemplici && PREPOSIZIONI_SEMPLICI.includes(word)) continue;
+                        if (!this.settings.includePreposizioniArticolate && PREPOSIZIONI_ARTICOLATE.includes(word)) continue;
+                        if (!vocabulary[word]) vocabulary[word] = [];
+                        vocabulary[word].push({
+                            file: file.path,
+                            lineNumber: lineIndex + 1, // Salva il numero di riga (1-based)
+                            context: line.trim() // Contesto originale della riga
+                        });
                     }
-                    vocabulary.get(lw).push({
-                        file: file.path,
-                        context: line.trim()
+                });
+            }
+        }
+        // --- 6. SCRITTURA DEI FILE FINALI ---
+        if (!dbNeedsRewrite) {
+            new Notice('👍 Il vocabolario è già aggiornato.', 3000);
+        }
+        else {
+            new Notice('✍️ Salvataggio database e scrittura file in corso...', 5000);
+            await writeJsonFile(this.app, hashesFilePath, fileHashes);
+            await writeJsonFile(this.app, vocabularyFilePath, vocabulary);
+            await clearMarkdownFiles(this.app, outputFolder);
+            const letterGroups = {};
+            const sortedWords = Object.keys(vocabulary).sort((a, b) => a.localeCompare(b, 'it'));
+            for (const word of sortedWords) {
+                const firstLetter = word.charAt(0).toUpperCase();
+                if (!letterGroups[firstLetter]) letterGroups[firstLetter] = [];
+                letterGroups[firstLetter].push(word);
+            }
+            for (const letter of Object.keys(letterGroups).sort()) {
+                const wordsForLetter = letterGroups[letter];
+                let markdownContent = `# ${letter}\n\n`;
+                for (const word of wordsForLetter) {
+                    const occurrences = vocabulary[word];
+                    markdownContent += `### ${word}\n`;
+                    markdownContent += `###### Occorrenze trovate: ${occurrences.length}\n`;
+                    occurrences.forEach((occ, index) => {
+                        // Estrazione contesto (4 parole prima, parola, 4 parole dopo)
+                        const contextWords = occ.context.split(/\s+/).filter(w => w); // Filtra spazi vuoti
+                        const wordIndexInContext = contextWords.map(w => w.toLowerCase()).indexOf(word);
+                        let fragmentWords = [];
+                        if (wordIndexInContext !== -1) {
+                            const start = Math.max(0, wordIndexInContext - 4);
+                            const end = Math.min(contextWords.length, wordIndexInContext + 5); // 4 dopo + la parola stessa
+                            fragmentWords = contextWords.slice(start, end);
+                            // Rimetto la parola al centro in grassetto
+                            const finalFragment = fragmentWords.map(w => w.toLowerCase() === word ? `**${w}**` : w).join(' ');
+                            // Costruisco il link di ricerca mirato al file e al frammento
+                            const queryFragment = fragmentWords.join(' ').replace(/"/g, '\\"'); // Escape for query string
+                            const searchURI = `obsidian://search?vault=${encodeURIComponent(vaultName)}&query=path:"${encodeURIComponent(occ.file)}"%20"${encodeURIComponent(queryFragment)}"`;
+                            markdownContent += `Occorrenza ${index + 1}\t[[${occ.file}#L${occ.lineNumber}|${occ.fileName}]]\t[${finalFragment}](${searchURI})\n`;
+                        }
+                        else {
+                            // Fallback se la parola non viene trovata nel contesto (dovrebbe essere raro)
+                            markdownContent += `Occorrenza ${index + 1}\t[[${occ.file}#L${occ.lineNumber}|${occ.fileName}]]\t[Contesto non trovato per **${word}**](${searchURI})\n`;
+                        }
                     });
+                    markdownContent += '\n---\n';
                 }
+                await writeDataToFile(this.app, `${outputFolder}/${letter}.md`, markdownContent);
             }
-        }
-        // 3. SCRITTURA DEI FILE DI OUTPUT
-        // 3. WRITING OUTPUT FILES
-        new Notice('Scrittura dei file di vocabolario in corso...', 5000);
-        // Raggruppa le parole per lettera iniziale
-        // Group words by starting letter
-        const letterGroups = new Map();
-        const sortedWords = Array.from(vocabulary.keys()).sort((a, b) => a.localeCompare(b, 'it'));
-        for (const word of sortedWords) {
-            const firstLetter = word.charAt(0).toUpperCase();
-            if (!letterGroups.has(firstLetter)) {
-                letterGroups.set(firstLetter, []);
-            }
-            letterGroups.get(firstLetter).push(word);
-        }
-        const sortedLetters = Array.from(letterGroups.keys()).sort();
-        for (const letter of sortedLetters) {
-            const wordsForLetter = letterGroups.get(letter);
-            let markdownContent = `# ${letter}\n\n---\n`;
-            for (const word of wordsForLetter) {
-                const occurrences = vocabulary.get(word);
-                markdownContent += `\n## ${word} (Trovate ${occurrences.length} occorrenze)\n\n`;
-                for (const occ of occurrences) {
-                    // Crea il testo in grassetto per la visualizzazione del link
-                    // Create bolded text for the link display
-                    const boldedContext = occ.context.replace(new RegExp(`\\b(${word})\\b`, 'gi'), '**$1**');
-                    // Crea l'URI obsidian://search
-                    // Create the obsidian://search URI
-                    const searchQuery = `"${occ.context}"`;
-                    const searchURI = `obsidian://search?vault=${encodeURIComponent(vaultName)}&query=${encodeURIComponent(searchQuery)}`;
-                    markdownContent += `- [${boldedContext}](${searchURI})\n`;
-                    markdownContent += `  - *Nel file: [[${occ.file}]]*\n`;
-                }
-                markdownContent += `\n---\n`;
-            }
-            await writeDataToFile(this.app, `${outputFolder}/${letter}.md`, markdownContent);
         }
         const duration = (Date.now() - startTime) / 1000;
-        new Notice(`Costruzione vocabolario completata in ${duration.toFixed(2)} secondi!`, 10000);
+        new Notice(`✅ Costruzione vocabolario completata in ${duration.toFixed(2)} secondi!`, 10000);
     }
 };
 
