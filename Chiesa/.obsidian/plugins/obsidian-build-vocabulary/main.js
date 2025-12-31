@@ -337,7 +337,18 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
                     }
                     if (!textToProcess) return;
                     textToProcess = textToProcess.replaceAll(/<[^>]+>/g, ' ').replaceAll(/\bcfr\.?\b/gi, ' ').replaceAll(/[()§*]/g, ' ');
-                    const wordsInLine = textToProcess.toLowerCase().match(/\b[\p{L}\']+\b/gu) || [];
+                    // Estraiamo le parole applicando la logica di normalizzazione selettiva.
+                    const wordsInLine = (textToProcess.match(/\b[\p{L}\']+\b/gu) || []).map(word => {
+                        // Se una parola è in TUTTO MAIUSCOLO (es. "CEI" o "AMEN"),
+                        // la normalizziamo in "Title Case" (es. "Cei", "Amen").
+                        // Questo è il compromesso scelto per gestire sigle e parole enfatizzate.
+                        if (word.length > 1 && word === word.toUpperCase()) {
+                            return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+                        }
+                        // Altrimenti, ci fidiamo della forma originale del testo, preservando
+                        // la capitalizzazione di "Padre", "Chiesa", "Nostra", etc.
+                        return word;
+                    });
                     for (const word of wordsInLine) {
                         if (word.length < this.settings.minWordLength || !/^\p{L}/u.test(word)) continue;
                         if (!this.settings.includeArticoliDeterminativi && ARTICOLI_DETERMINATIVI.includes(word)) continue;
