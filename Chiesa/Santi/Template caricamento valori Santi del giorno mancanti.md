@@ -1,22 +1,21 @@
 ---
 creato: 2026/01/01 14:56:50
-modificato: 2026/01/01 22:21:13
+modificato: 2026/01/01 22:27:19
 ---
 
 
 ```dataviewjs
 
-const { Modal } = this.app; // <--- Importa Modal dall'oggetto app
 const button = this.container.createEl('button', { text: "✍️ Seleziona un Santo o Beato da completare" });
 button.addEventListener('click', async () => {
 	/**
      * Classe che definisce il Modale per la compilazione dei campi.
      */
+	const { Modal } = this.app; // <--- Importa Modal dall'oggetto app
     class CompleterModal extends Modal {
         constructor(app, file, placeholders) {
             super(app);
-            this.file = file;
-            // Rimuove placeholder duplicati per processare ogni tipo una sola volta
+            this.file = file;// Rimuove placeholder duplicati per processare ogni tipo una sola volta
             this.placeholders = [...new Set(placeholders)];
             this.currentIndex = 0;
             this.fileContent = null;
