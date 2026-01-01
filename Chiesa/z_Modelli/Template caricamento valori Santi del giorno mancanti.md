@@ -1,23 +1,28 @@
+---
+creato:
+modificato:
+---
 
-```DataviewJs
+
+```dataviewjs
 const button = this.container.createEl('button', { text: "✍️ Seleziona un file da compilare" });
 
 button.addEventListener('click', async () => {
-    // 1. Ottiene TUTTI i file markdown nel vault
-    const allFiles = this.app.vault.getMarkdownFiles();
-    if (!allFiles || allFiles.length === 0) {
-        new Notice("Nessun file Markdown trovato nel vault.");
-        return;
-    }
+	// 1. Ottiene TUTTI i file markdown nel vault
+	const allFiles = this.app.vault.getMarkdownFiles();
+	if (!allFiles || allFiles.length === 0) {
+		new Notice("Nessun file Markdown trovato nel vault.");
+		return;
+	}
 
-    // 2. Mostra un menu di selezione (suggester) per farti scegliere il file
-    const chosenFile = await this.app.suggester(
-        allFiles.map(f => f.path), // Lista di percorsi da mostrare
-        allFiles                   // Oggetti file corrispondenti
-    );
+	// 2. Mostra un menu di selezione (suggester) per farti scegliere il file
+	const chosenFile = await this.app.suggester(
+		allFiles.map(f => f.path), // Lista di percorsi da mostrare
+		allFiles                   // Oggetti file corrispondenti
+	);
 
-    // 3. Se non selezioni un file, interrompe l'operazione
-    if (!chosenFile) {
+	// 3. Se non selezioni un file, interrompe l'operazione
+	if (!chosenFile) {
         new Notice("Nessun file selezionato. Operazione annullata.");
         return;
     }
