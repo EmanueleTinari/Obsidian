@@ -1,11 +1,11 @@
 ---
 creato: 2026/01/01 14:56:50
-modificato: 2026/01/01 20:47:03
+modificato: 2026/01/01 21:58:20
 ---
 
 
 ```dataviewjs
-const button = this.container.createEl('button', { text: "✍️ Seleziona un file da compilare" });
+const button = this.container.createEl('button', { text: "✍️ Seleziona un Santo o Beato da completare" });
 button.addEventListener('click', async () => {
     /**
      * Classe che definisce il Modale per la compilazione dei campi.
