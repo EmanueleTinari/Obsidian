@@ -1,13 +1,13 @@
 ---
 creato: 2026/01/01 14:56:50
-modificato: 2026/01/01 23:41:43
+modificato: 2026/01/01 23:45:00
 ---
 
 
 ```dataviewjs
 const button = this.container.createEl('button', { text: "✍️ Seleziona un Santo o Beato da completare" });
 
-  
+
 
 button.addEventListener('click', async () => {
 
@@ -31,7 +31,7 @@ button.addEventListener('click', async () => {
 
         }
 
-  
+
 
         // Metodo eseguito all'apertura del modale
 
@@ -43,7 +43,7 @@ button.addEventListener('click', async () => {
 
         }
 
-  
+
 
         // Metodo che costruisce e mostra l'interfaccia del modale
 
@@ -53,7 +53,7 @@ button.addEventListener('click', async () => {
 
             contentEl.empty(); // Pulisce il modale prima di mostrare il campo successivo
 
-  
+
 
             // Se tutti i placeholder sono stati processati, mostra messaggio finale
 
@@ -79,7 +79,7 @@ button.addEventListener('click', async () => {
 
             }
 
-  
+
 
             const currentPlaceholder = this.placeholders[this.currentIndex];
 
@@ -91,13 +91,13 @@ button.addEventListener('click', async () => {
 
             contentEl.createEl("p", { text: `Campo ${this.currentIndex + 1} di ${this.placeholders.length}` });
 
-  
+
 
             // Mostra il placeholder corrente
 
             contentEl.createEl("strong", { text: `Placeholder: ${currentPlaceholder}` });
 
-  
+
 
             // Area di testo per l'input
 
@@ -139,7 +139,7 @@ button.addEventListener('click', async () => {
 
                 );
 
-  
+
 
             const rightButtons = buttonContainer.createEl("div");
 
@@ -195,7 +195,7 @@ button.addEventListener('click', async () => {
 
         }
 
-  
+
 
         // Metodo eseguito alla chiusura del modale
 
@@ -211,7 +211,7 @@ button.addEventListener('click', async () => {
 
     }
 
-  
+
 
     // 1. Ottiene TUTTI i file markdown nel vault
 
@@ -225,7 +225,7 @@ button.addEventListener('click', async () => {
 
     }
 
-  
+
 
     // 2. Mostra un menu di selezione (suggester) per farti scegliere il file
 
@@ -237,7 +237,7 @@ button.addEventListener('click', async () => {
 
     );
 
-  
+
 
     // 3. Se non selezioni un file, interrompe l'operazione
 
@@ -249,7 +249,7 @@ button.addEventListener('click', async () => {
 
     }
 
-  
+
 
     // 4. Legge il contenuto del file scelto e cerca i placeholder {dato}
 
@@ -259,7 +259,7 @@ button.addEventListener('click', async () => {
 
     const placeholders = content.match(placeholderRegex);
 
-  
+
 
     // 5. Se non trova placeholder, ti avvisa e si ferma
 
@@ -271,7 +271,7 @@ button.addEventListener('click', async () => {
 
     }
 
-  
+
 
     // 6. Se trova placeholder, apre il modale per la compilazione
 
