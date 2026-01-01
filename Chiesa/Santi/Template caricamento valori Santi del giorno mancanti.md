@@ -7,7 +7,7 @@ modificato: 2026/01/01 22:27:19
 ```dataviewjs
 const button = this.container.createEl('button', { text: "✍️ Seleziona un Santo o Beato da completare" });
 button.addEventListener('click', async () => {
-const { Modal } = this.app; // <--- Importa Modal dall'oggetto app
+	const { Modal } = this.app; // <--- Importa Modal dall'oggetto app
 	/**
      * Classe che definisce il Modale per la compilazione dei campi.
      */
