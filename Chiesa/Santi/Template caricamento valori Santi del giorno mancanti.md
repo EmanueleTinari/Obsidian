@@ -1,6 +1,6 @@
 ---
 creato: 2026/01/01 14:56:50
-modificato: 2026/01/01 22:17:10
+modificato: 2026/01/01 22:21:13
 ---
 
 
@@ -12,7 +12,7 @@ button.addEventListener('click', async () => {
 	/**
      * Classe che definisce il Modale per la compilazione dei campi.
      */
-    class CompleterModal extends this.app.Modal {
+    class CompleterModal extends Modal {
         constructor(app, file, placeholders) {
             super(app);
             this.file = file;
