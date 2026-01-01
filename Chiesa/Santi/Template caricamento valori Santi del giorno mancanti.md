@@ -51,173 +51,81 @@ button.addEventListener('click', async () => {
             });
             inputArea.focus();
             const buttonContainer = contentEl.createDiv({ attr: { style: "display: flex; justify-content: space-between; align-items: center; margin-top: 1rem;" } });
-
             const leftButtons = buttonContainer.createEl("div");
-
              new obsidian.Setting(leftButtons)
-
                 .addButton((btn) =>
-
                     btn.setButtonText("Annulla")
-
                        .onClick(() => this.close())
-
                 )
-
                 .addButton((btn) =>
-
                     btn.setButtonText("Salta")
-
                        .onClick(() => {
-
                            new obsidian.Notice(`Campo "${currentPlaceholder}" saltato.`);
-
                            this.currentIndex++;
-
                            this.display();
-
                        })
-
                 );
-
-
-
             const rightButtons = buttonContainer.createEl("div");
-
             new obsidian.Setting(rightButtons)
-
                 .addButton((btn) =>
-
                     btn.setButtonText("Svuota")
-
                        .onClick(() => {
-
                            inputArea.value = "";
-
                            inputArea.focus();
-
                        })
-
                 )
-
                 .addButton((btn) =>
-
                     btn.setButtonText("Salva e Prosegui →")
-
                        .setCta()
-
                        .onClick(async () => {
-
                            const userInput = inputArea.value;
-
                            this.fileContent = this.fileContent.replaceAll(currentPlaceholder, userInput);
-
                            try {
-
                                await this.app.vault.modify(this.file, this.fileContent);
-
                                new obsidian.Notice(`"${currentPlaceholder}" aggiornato in "${this.file.basename}"`);
-
                                this.currentIndex++;
-
                                this.display();
-
                            } catch (err) {
-
                                new obsidian.Notice("Errore durante il salvataggio del file: " + err);
-
                                this.close();
-
                            }
-
                        })
-
                 );
-
         }
-
-
-
         // Metodo eseguito alla chiusura del modale
-
         onClose() {
-
             const { contentEl } = this;
-
             contentEl.empty();
-
             new obsidian.Notice("Operazione terminata.");
-
         }
-
     }
-
-
-
     // 1. Ottiene TUTTI i file markdown nel vault
-
     const allFiles = app.vault.getMarkdownFiles();
-
     if (!allFiles || allFiles.length === 0) {
-
         new obsidian.Notice("Nessun file Markdown trovato nel vault.");
-
         return;
-
     }
-
-
-
     // 2. Mostra un menu di selezione (suggester) per farti scegliere il file
-
     const chosenFile = await app.suggester(
-
         allFiles.map(f => f.path), // Lista di percorsi da mostrare
-
         allFiles                   // Oggetti file corrispondenti
-
     );
-
-
-
     // 3. Se non selezioni un file, interrompe l'operazione
-
     if (!chosenFile) {
-
         new obsidian.Notice("Nessun file selezionato. Operazione annullata.");
-
         return;
-
     }
-
-
-
     // 4. Legge il contenuto del file scelto e cerca i placeholder {dato}
-
     const content = await app.vault.read(chosenFile);
-
     const placeholderRegex = /\{[^{}]+\}/g;
-
     const placeholders = content.match(placeholderRegex);
-
-
-
     // 5. Se non trova placeholder, ti avvisa e si ferma
-
     if (!placeholders || placeholders.length === 0) {
-
         new obsidian.Notice(`Il file "${chosenFile.basename}" non contiene placeholder del tipo {dato}.`);
-
         return;
-
     }
-
-
-
     // 6. Se trova placeholder, apre il modale per la compilazione
-
     new CompleterModal(app, chosenFile, placeholders).open();
-
 });
 
 ```
