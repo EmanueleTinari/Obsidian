@@ -6,7 +6,6 @@ modificato:
 
 ```dataviewjs
 const button = this.container.createEl('button', { text: "✍️ Seleziona un file da compilare" });
-
 button.addEventListener('click', async () => {
 	// 1. Ottiene TUTTI i file markdown nel vault
 	const allFiles = this.app.vault.getMarkdownFiles();
@@ -14,30 +13,25 @@ button.addEventListener('click', async () => {
 		new Notice("Nessun file Markdown trovato nel vault.");
 		return;
 	}
-
 	// 2. Mostra un menu di selezione (suggester) per farti scegliere il file
 	const chosenFile = await this.app.suggester(
 		allFiles.map(f => f.path), // Lista di percorsi da mostrare
 		allFiles                   // Oggetti file corrispondenti
 	);
-
 	// 3. Se non selezioni un file, interrompe l'operazione
 	if (!chosenFile) {
         new Notice("Nessun file selezionato. Operazione annullata.");
         return;
     }
-
     // 4. Legge il contenuto del file scelto e cerca i placeholder {dato}
     const content = await this.app.vault.read(chosenFile);
     const placeholderRegex = /\{[^{}]+\}/g;
     const placeholders = content.match(placeholderRegex);
-
     // 5. Se non trova placeholder, ti avvisa e si ferma
     if (!placeholders || placeholders.length === 0) {
         new Notice(`Il file "${chosenFile.basename}" non contiene placeholder del tipo {dato}.`);
         return;
     }
-
     // 6. Se trova placeholder, apre il modale per la compilazione
     new CompleterModal(this.app, chosenFile, placeholders).open();
 });
@@ -54,18 +48,15 @@ class CompleterModal extends this.app.Modal {
         this.currentIndex = 0;
         this.fileContent = null;
     }
-
     // Metodo eseguito all'apertura del modale
     async onOpen() {
         this.fileContent = await this.app.vault.read(this.file);
         this.display();
     }
-
     // Metodo che costruisce e mostra l'interfaccia del modale
     display() {
         const { contentEl } = this;
         contentEl.empty(); // Pulisce il modale prima di mostrare il campo successivo
-
         // Se tutti i placeholder sono stati processati, mostra messaggio finale
         if (this.currentIndex >= this.placeholders.length) {
             contentEl.createEl("h2", { text: "Completato!" });
@@ -74,47 +65,45 @@ class CompleterModal extends this.app.Modal {
             closeButton.onclick = () => this.close();
             return;
         }
-
         const currentPlaceholder = this.placeholders[this.currentIndex];
-        
         // Intestazione del modale
         contentEl.createEl("h3", { text: "Compila il seguente campo" });
         contentEl.createEl("p", { text: `File: ${this.file.path}` });
         contentEl.createEl("p", { text: `Campo ${this.currentIndex + 1} di ${this.placeholders.length}` });
-
         // Mostra il placeholder corrente
         contentEl.createEl("strong", { text: `Placeholder: ${currentPlaceholder}` });
-
         // Area di testo per l'input
         const inputArea = contentEl.createEl("textarea", {
             attr: { rows: 4, style: "width: 100%; margin: 10px 0;" }
         });
         inputArea.focus();
-
         // Contenitore per i bottoni con layout flessibile
         const buttonContainer = contentEl.createDiv({ attr: { style: "display: flex; justify-content: space-between; align-items: center; margin-top: 1rem;" } });
-
         // --- Bottoni a sinistra ---
-        const cancelButton = buttonContainer.createEl("button", { text: "Annulla" });
+        const leftButtons = buttonContainer.createEl("div");
+        const cancelButton = leftButtons.createEl("button", { text: "Annulla" });
         cancelButton.onclick = () => this.close();
-
+        const skipButton = leftButtons.createEl("button", { text: "Salta" });
+        skipButton.style.marginLeft = "8px"; // Aggiunge spazio tra i bottoni
+        skipButton.onclick = () => {
+            // Logica per saltare: incrementa l'indice e ricarica il modale
+            new Notice(`Campo "${currentPlaceholder}" saltato.`);
+            this.currentIndex++;
+            this.display();
+        };
         // --- Bottoni a destra ---
         const rightButtons = buttonContainer.createEl("div");
-        
         const clearButton = rightButtons.createEl("button", { text: "Svuota" });
         clearButton.style.marginRight = "8px"; // Spazio tra i bottoni
         clearButton.onclick = () => {
             inputArea.value = "";
             inputArea.focus();
         };
-
         const nextButton = rightButtons.createEl("button", { text: "Salva e Prosegui →", cls: "mod-cta" });
         nextButton.onclick = async () => {
             const userInput = inputArea.value;
-            
             // Sostituisce TUTTE le occorrenze di questo placeholder nel contenuto
             this.fileContent = this.fileContent.replaceAll(currentPlaceholder, userInput);
-            
             try {
                 // Salva il contenuto aggiornato nel file
                 await this.app.vault.modify(this.file, this.fileContent);
@@ -123,13 +112,13 @@ class CompleterModal extends this.app.Modal {
                 // Passa al placeholder successivo
                 this.currentIndex++;
                 this.display(); // Ricarica l'interfaccia del modale
-            } catch (err) {
+            }
+            catch (err) {
                 new Notice("Errore durante il salvataggio del file: " + err);
                 this.close();
             }
         };
     }
-
     // Metodo eseguito alla chiusura del modale
     onClose() {
         this.contentEl.empty();
