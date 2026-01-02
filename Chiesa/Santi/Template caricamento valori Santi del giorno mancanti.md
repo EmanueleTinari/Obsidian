@@ -1,13 +1,31 @@
 ---
 creato: 2026/01/01 14:56:50
-modificato: 2026/01/01 23:52:00
+modificato: 2026/01/02 00:07:39
 ---
 
 
 ```dataviewjs
 const button = this.container.createEl('button', { text: "✍️ Seleziona un Santo o Beato da completare" });
 button.addEventListener('click', async () => {
-// Estende la classe Modal prelevandola dall'oggetto globale 'obsidian'
+		// Definiamo la classe per il Suggester Modal DENTRO l'evento click
+		class FileSuggester extends obsidian.FuzzySuggestModal {
+				constructor(app, items, callback) {
+						super(app);
+						this.items = items;
+						this.callback = callback;
+				}
+				getItems() {
+						return this.items;
+				}
+				getItemText(item) {
+						// Mostriamo il path del file come testo per ogni opzione
+						return item.path;
+				}
+				onChooseItem(item, evt) {
+						// Quando un item è scelto, eseguiamo il callback con il file selezionato
+						this.callback(item);
+				}
+		}// Estende la classe Modal prelevandola dall'oggetto globale 'obsidian'
 	class CompleterModal extends obsidian.Modal {
 		constructor(app, file, placeholders) {
 						super(app);
@@ -106,11 +124,12 @@ button.addEventListener('click', async () => {
 				new obsidian.Notice("Nessun file Markdown trovato nel vault.");
 				return;
 		}
-		// 2. Mostra un menu di selezione (suggester) per farti scegliere il file
-		const chosenFile = await app.suggester(
-				allFiles.map(f => f.path), // Lista di percorsi da mostrare
-				allFiles 									// Oggetti file corrispondenti
-		);
+						// 2. Usa una Promise per attendere la selezione dell'utente dal Suggester
+				const chosenFile = await new Promise((resolve) => {
+						new FileSuggester(app, allFiles, (result) => {
+								resolve(result);
+						}).open();
+				});
 		// 3. Se non selezioni un file, interrompe l'operazione
 		if (!chosenFile) {
 				new obsidian.Notice("Nessun file selezionato. Operazione annullata.");
