@@ -26,7 +26,7 @@ const activeFile = app.workspace.getActiveFile();
 // Rimuove l'estensione .md dal nome del file attivo immediatamente
 // Es. "07-27"
 const fileName = activeFile.basename.replace('.md', ''); 
-const noteTitle = "Santi e Beati per il giorno";
+const noteTitle = "Santi e Beati per il giorno\<br\>";
 // Assumiamo che il nome del file sia sempre MM-GG
 const parts = fileName.split('-'); 
 // "07"
@@ -39,8 +39,10 @@ const TitoloFormattato = `${noteTitle} ${NumeroGiorno} ${NomeMese}`;
 // --- Output Intestazione Principale ---
 dv.header(1, TitoloFormattato.replace('.md', ''));
 if (NumeroGiorno && NumeroMese && searchString) {
-	// Esegui la query per trovare le pagine dei santi
-	const pages = dv.pages('"Santi"')
+	// Costruisci il percorso dinamico esatto: "Santi/01", "Santi/07", etc.
+	const cartellaMese = `"Santi/${NumeroMese}"`;
+	// Esegui la query per trovare le pagine dei santi SOLO in quella cartella
+	const pages = dv.pages(cartellaMese)
 		// Condizione 1: Il nome del file deve includere "MM-GG" (es. "07-27 - Nome Santo.md")
 		.where(p => p.file.name.includes(searchString))
 		// Condizione 2: NON deve essere il file attualmente aperto (esclude 07-27.md)
@@ -73,8 +75,6 @@ if (NumeroGiorno && NumeroMese && searchString) {
 			let testo_iag = "";
 			let testo_nae = "";
 			// Funzione helper per estrarre il testo con una regex specifica
-			// Funzione helper per estrarre il testo con una regex specifica
-			// Funzione helper per estrarre il testo con una regex specifica
 			const estraiTesto = (titolo, contenuto) => {
 				// Regex tollerante: cattura da "## Titolo" fino alla fine del file, senza vincoli
 				const regex = new RegExp(`##\\s*${titolo}\\s*\\n([\\s\\S]*?)$`, 'gm');
@@ -84,6 +84,7 @@ if (NumeroGiorno && NumeroMese && searchString) {
 					let cleanedText = match[1].trim(); 
 					
 					// 1. Pulisci la fonte [Testo](URL) (ignora spazi/newline che la seguono)
+					
 					cleanedText = cleanedText.replace(/\[.*?\]\(.*\)\s*$/gm, '').trim();
 					// 2. Pulisci la riga orizzontale (***) (ignora spazi/newline che la seguono)
 					cleanedText = cleanedText.replace(/^[*\-]{3,}\s*$/gm, '').trim();
