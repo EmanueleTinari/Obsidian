@@ -1,6 +1,6 @@
 ---
 creato: 2026/01/01 14:56:50
-modificato: 2026/01/02 00:07:39
+modificato: 2026/01/02 11:24:49
 ---
 
 
@@ -72,24 +72,57 @@ button.addEventListener('click', async () => {
 						const leftButtons = buttonContainer.createEl("div");
 							new obsidian.Setting(leftButtons)
 								.addButton((btn) =>
-										btn.setButtonText("Annulla")
-												.onClick(() => this.close())
+									btn.setButtonText("Annulla")
+									.onClick(() => this.close())
 								)
 								.addButton((btn) =>
-										btn.setButtonText("Salta")
-												.onClick(() => {
-														new obsidian.Notice(`Campo "${currentPlaceholder}" saltato.`);
-														this.currentIndex++;
-														this.display();
-												})
+									btn.setButtonText("Salta")
+									.onClick(() => {
+										new obsidian.Notice(`Campo "${currentPlaceholder}" saltato.`);
+										this.currentIndex++;
+										this.display();
+									})
+								)
+								.addButton((btn) =>
+									btn.setButtonText("Eliminalo e salta al prossimo")
+									.onClick(async () => {
+										const lines = this.fileContent.split('\n');
+										let replacementHappened = false;
+										const newContentLines = lines.map(line => {
+											if (line.includes(currentPlaceholder)) {
+												const colonIndex = line.indexOf(':');
+												if (colonIndex > -1) {
+													replacementHappened = true;
+													return line.substring(0, colonIndex + 1);
+												}
+											}
+											return line;
+											if (replacementHappened) {
+												this.fileContent = newContentLines.join('\n');
+												try {
+													await this.app.vault.modify(this.file, this.fileContent);
+													new obsidian.Notice(`Placeholder "${currentPlaceholder}" rimosso e file salvato.`);
+													this.currentIndex++;
+													this.display();
+												}
+												catch (err) {
+													new obsidian.Notice("Errore durante il salvataggio del file: " + err);
+													this.close();
+												}
+											}
+											else {
+												new obsidian.Notice(`Impossibile trovare il placeholder "${currentPlaceholder}" su una riga contenente ':'.`);
+											}
+										})
+									});
 								);
 						const rightButtons = buttonContainer.createEl("div");
 						new obsidian.Setting(rightButtons)
 								.addButton((btn) =>
 										btn.setButtonText("Svuota")
 												.onClick(() => {
-														inputArea.value = "";
-														inputArea.focus();
+													inputArea.value = "";
+													inputArea.focus();
 												})
 								)
 								.addButton((btn) =>
@@ -99,14 +132,14 @@ button.addEventListener('click', async () => {
 														const userInput = inputArea.value;
 														this.fileContent = this.fileContent.replaceAll(currentPlaceholder, userInput);
 														try {
-																await this.app.vault.modify(this.file, this.fileContent);
-																new obsidian.Notice(`"${currentPlaceholder}" aggiornato in "${this.file.basename}"`);
-																this.currentIndex++;
-																this.display();
+															await this.app.vault.modify(this.file, this.fileContent);
+															new obsidian.Notice(`"${currentPlaceholder}" aggiornato in "${this.file.basename}"`);
+															this.currentIndex++;
+															this.display();
 														}
 														catch (err) {
-																new obsidian.Notice("Errore durante il salvataggio del file: " + err);
-																this.close();
+															new obsidian.Notice("Errore durante il salvataggio del file: " + err);
+															this.close();
 														}
 												})
 								);
