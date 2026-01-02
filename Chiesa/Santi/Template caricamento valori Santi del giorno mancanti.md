@@ -1,6 +1,6 @@
 ---
 creato: 2026/01/01 14:56:50
-modificato: 2026/01/02 11:24:49
+modificato: 2026/01/02 12:02:11
 ---
 
 
@@ -90,31 +90,31 @@ button.addEventListener('click', async () => {
 										let replacementHappened = false;
 										const newContentLines = lines.map(line => {
 											if (line.includes(currentPlaceholder)) {
-												const colonIndex = line.indexOf(':');
-												if (colonIndex > -1) {
-													replacementHappened = true;
-													return line.substring(0, colonIndex + 1);
-												}
+													const colonIndex = line.indexOf(':');
+													if (colonIndex > -1) {
+															replacementHappened = true;
+															return line.substring(0, colonIndex + 1);
+													}
 											}
 											return line;
-											if (replacementHappened) {
-												this.fileContent = newContentLines.join('\n');
-												try {
-													await this.app.vault.modify(this.file, this.fileContent);
-													new obsidian.Notice(`Placeholder "${currentPlaceholder}" rimosso e file salvato.`);
-													this.currentIndex++;
-													this.display();
-												}
-												catch (err) {
-													new obsidian.Notice("Errore durante il salvataggio del file: " + err);
-													this.close();
-												}
+										});
+										if (replacementHappened) {
+											this.fileContent = newContentLines.join('\n');
+											try {
+												await this.app.vault.modify(this.file, this.fileContent);
+												new obsidian.Notice(`Placeholder "${currentPlaceholder}" rimosso e file salvato.`);
+												this.currentIndex++;
+												this.display();
 											}
-											else {
-												new obsidian.Notice(`Impossibile trovare il placeholder "${currentPlaceholder}" su una riga contenente ':'.`);
+											catch (err) {
+												new obsidian.Notice("Errore durante il salvataggio del file: " + err);
+												this.close();
 											}
-										})
-									});
+										}
+										else {
+											new obsidian.Notice(`Impossibile trovare "${currentPlaceholder}" sulla riga contenente ':'.`);
+										}
+									})
 								);
 						const rightButtons = buttonContainer.createEl("div");
 						new obsidian.Setting(rightButtons)
