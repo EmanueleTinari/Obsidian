@@ -47,7 +47,7 @@ if (NumeroGiorno && NumeroMese && searchString) {
 		.where(p => p.file.name.includes(searchString))
 		// Condizione 2: NON deve essere il file attualmente aperto (esclude 07-27.md)
 		.where(p => p.file.path !== activeFile.path)
-		.sort(p => p['posizione-Martirologio'], 'asc');
+		.sort(p => p['posizione martirologio'], 'asc');
 	// --- Logica di Visualizzazione per ogni Santo ---
 	if (pages.length > 0) {
 		// Iterazione sui santi
@@ -58,7 +58,7 @@ if (NumeroGiorno && NumeroMese && searchString) {
 			// Controlla il campo 'apostrofato' (che deve essere un booleano: true/false)
 			if (p.apostrofato === true) {
 				// Concatenazione con apostrofo curvo, senza spazi: es. L’Aquila
-				nomeCompleto = `${prefisso}’${nome}`; 
+				nomeCompleto = `${prefisso}${nome}`; 
 			}
 			else {
 				// Concatenazione con spazio: es. San Pantaleone
@@ -82,9 +82,7 @@ if (NumeroGiorno && NumeroMese && searchString) {
 				if (match && match.length > 0) {
 					// Correzione: match[1] è la stringa catturata dal primo gruppo
 					let cleanedText = match[1].trim(); 
-					
 					// 1. Pulisci la fonte [Testo](URL) (ignora spazi/newline che la seguono)
-					
 					cleanedText = cleanedText.replace(/\[.*?\]\(.*\)\s*$/gm, '').trim();
 					// 2. Pulisci la riga orizzontale (***) (ignora spazi/newline che la seguono)
 					cleanedText = cleanedText.replace(/^[*\-]{3,}\s*$/gm, '').trim();
@@ -158,5 +156,3 @@ else {
 	dv.paragraph("Errore: impossibile estrarre giorno e mese dal nome del file: " + fileName);
 }
 ```
-
-
