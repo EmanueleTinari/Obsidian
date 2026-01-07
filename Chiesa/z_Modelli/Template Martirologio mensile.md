@@ -65,16 +65,37 @@ else {
             if (!santiPerGiorno[giorno]) {
                 santiPerGiorno[giorno] = [];
             }
-            // Funzione per trovare l'alias più lungo
-            const getLongestAlias = (aliases) => {
-                if (!aliases || aliases.length === 0) return p.file.name;
-                return aliases.reduce((a, b) => a.length > b.length ? a : b);
+            // Funzione per colorare i titoli (Rosso per martiri, Bianco per altri)
+            const formattaTitoli = (t) => {
+                if (!t || t.length === 0) return "";
+                const listaTitoli = Array.isArray(t) ? t : [t];
+                // Mappa ogni titolo applicando il colore RGB specifico
+                const titoliColorati = listaTitoli.map(titolo => {
+                    // Controlla se il titolo contiene "martir" (es. Martire, Martiri, Martirio)
+                    const isMartire = titolo.toLowerCase().includes("martir");
+                    // Rosso Martirio: rgb(255, 0, 0) | Bianco: rgb(255, 255, 255)
+                    const colore = isMartire ? " rgb(255, 0, 0)" : " var(--text-normal)";
+                    return `<span style="color:${colore};">${titolo}</span>`;
+                });
+                let testo;
+                if (titoliColorati.length === 1) {
+                    testo = "\u00A0\u00A0" + titoliColorati[0];
+                }
+                else {
+                    // Prendi l'ultimo titolo e puliscilo da eventuali tag HTML per il controllo
+                    const ultimoTitoloRaw = listaTitoli.slice(-1)[0].toLowerCase();
+                    // Se inizia con "e" (ma non seguito da un'altra "d"), usa "ed", altrimenti "e"
+                    const congiunzione = ultimoTitoloRaw.startsWith("e") ? "\u00A0\u00A0ed\u00A0\u00A0" : "\u00A0\u00A0e\u00A0\u00A0";
+                    testo = "\u00A0\u00A0" + titoliColorati.slice(0, -1).join(",\u00A0\u00A0") + congiunzione + titoliColorati.slice(-1);
+                }
+                return `<span style="font-style: normal; font-size: 1em;">${testo}</span>`;
             };
-            const nomeVisualizzato = getLongestAlias(p.aliases) || p.nome || p.file.name;
+            const titoliFormattati = formattaTitoli(p.titoli);
+            const nomeBase = p.apostrofato ? `${p.prefisso}${p.nome}` : `${p.prefisso} ${p.nome}`;
             santiPerGiorno[giorno].push({
-                nome: nomeVisualizzato,
+                nomeBase: nomeBase,
+                titoli: titoliFormattati,
                 path: p.file.path,
-                // Assicura che la posizione esista per l'ordinamento
                 posizione: p['posizione martirologio'] || 999 
             });
         }
@@ -108,11 +129,11 @@ else {
             // Colonna 2: Numero martirologio (vuoto se 999)
             const posCell = santo.posizione === 999 ? "" : `${santo.posizione}`;
             // Colonna 3: Nome del santo
-            const linkSanto = `<a href="${santo.path}" class="internal-link">${santo.nome}</a>`;
+            const linkSanto = `<a href="${santo.path}" class="internal-link">${santo.nomeBase}</a>${santo.titoli}`;
             htmlTable += `
                 <tr style="border:none; background:transparent; vertical-align: top;">
                     <td style="border:none; padding: 2px 15px 2px 0; white-space: nowrap; width: 150px;">${colGiorno}</td>
-					<td style="border:none; padding: 4px 10px 2px 0; text-align: right; width: 30px; color: lightgray; font-size: 0.85em; vertical-align: bottom;">${posCell}</td>
+					<td style="border:none; padding: 4px 10px 2px 0; text-align: right; width: 30px; color: lightgray; font-size: 0.95em; vertical-align: bottom;">${posCell}</td>
                     <td style="border:none; padding: 2px 0;">${linkSanto}</td>
                 </tr>`;
         });
