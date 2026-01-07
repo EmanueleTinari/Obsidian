@@ -1,0 +1,71 @@
+/* Nasconde il titolo H6 che Obsidian genera per le transclusioni */
+.markdown-preview-view .internal-embed.is-loaded>.markdown-embed-title {
+  display: none;
+}
+
+.callout[data-callout="martirologio"] {
+  --callout-color: 100, 100, 100;
+  /* Un grigio neutro */
+  --callout-icon: lucide-scroll;
+  /* L'icona del libro aperto */
+}
+
+/* Imposta il testo del titolo a bianco puro */
+.callout[data-callout="martirologio"] .callout-title-inner {
+  color: #FFFFFF;
+  /* Bianco puro */
+  font-weight: bold;
+  /* Opzionale: rende il testo più visibile */
+}
+
+/* Sposta l'icona a sinistra usando il posizionamento relativo */
+.callout[data-callout="martirologio"] .callout-icon {
+  /* Sposta la posizione visiva a sinistra di 5px senza toccare il layout */
+  position: relative;
+  left: -10px;
+  /* Valore di esempio, puoi aumentarlo (es. -8px) o diminuirlo */
+}
+
+/* Imposta l'icona */
+.callout[data-callout="martirologio"] .callout-icon svg {
+  color: #edbe56 !important;
+  /* Assicura che anche il tratto dell'icona sia bianco, se necessario */
+  stroke: #edbe56 !important;
+  /* Ingrandisce l'icona del 15% (da 1 a 1.15) */
+  transform: scale(1.25);
+}
+
+/* Stilizza il titolo H1 generato dallo script, in modo forzato */
+.markdown-preview-view h1:first-child {
+  color: #FF5733 !important;
+  /* <--- Inserisci qui il tuo codice colore esadecimale */
+  text-align: center !important;
+  /* Centra il titolo forzatamente */
+}
+
+/* Nasconde la barra verticale per le inclusioni in modo forzato */
+.internal-embed {
+  border-left: none !important;
+  padding-left: 0px !important;
+  margin-left: -1em !important;
+  /* Sposta il contenuto indietro per centrarlo */
+}
+
+/* Rimuove l'eccesso di padding nella vista di preview */
+.markdown-preview-view .internal-embed {
+  padding-left: 0 !important;
+}
+
+/* Linea dei link */
+.martirologio .internal-link,
+.martirologio a.internal-link {
+  /* Necessario per rendere l'elemento sensibile a questi spostamenti */
+  display: inline-block;
+  font-style: normal !important;
+  opacity: 1 !important;
+  /* Sposta l'elemento verso l'alto */
+  position: relative;
+  text-decoration: underline !important;
+  /* Distanzia la sottolineatura di 0.3em dal testo */
+  text-underline-offset: 0.3em !important;
+}
