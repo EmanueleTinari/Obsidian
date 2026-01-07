@@ -148,3 +148,62 @@
 	line-height: 1.4;
 	color: cyan;
 }
+
+/* 1. Il contenitore della firma (lo span) */
+.santi .firma {
+	display: block;
+	/* Trasforma lo span in un blocco separato */
+	margin-left: 10%;
+	margin-top: 1.5em;
+}
+
+/* 2. Il testo "Autore" (il grassetto dentro lo span) */
+.santi .firma strong {
+	color: rgb(162, 162, 163) !important;
+	font-family: "Times New Roman", Times, serif !important;
+	font-size: 150% !important;
+	font-weight: bold;
+}
+
+/* 3. Il nome dell'autore (il corsivo dentro lo span) */
+.santi .firma em {
+	color: rgb(59, 59, 242) !important;
+	/* Il tuo blu specifico */
+	font-family: "Segoe Script", "Lucida Handwriting", "Times New Roman", cursive, Times, serif !important;
+	font-size: 150% !important;
+	font-style: italic !important;
+	margin-left: 0.5em;
+}
+
+/* Reading Mode */
+.santi em {
+	color: rgb(255, 190, 92);
+	font-style: italic !important;
+}
+
+/* Live Preview e Source Mode (Editor) */
+.santi .cm-italic {
+	color: rgb(255, 190, 92);
+}
+
+/* --- READING MODE (Quando leggi la nota) --- */
+/* Seleziona solo dove strong ed em sono annidati (cioè i 3 asterischi) */
+.santi strong em,
+.santi em strong {
+	color: rgb(255, 105, 180) !important;
+	font-weight: 600 !important;
+	font-style: italic !important;
+}
+
+/* --- LIVE PREVIEW / EDITOR (Quando scrivi la nota) --- */
+/* In Obsidian, i 3 asterischi nell'editor applicano entrambe le classi sullo stesso elemento */
+.santi .cm-strong.cm-italic {
+	color: rgb(255, 105, 180) !important;
+	font-weight: 600 !important;
+	font-style: italic !important;
+}
+
+/* Opzionale: per i 3 asterischi dentro un Titolo nell'editor */
+.santi .cm-header.cm-strong.cm-italic {
+	color: rgb(255, 105, 180) !important;
+}
