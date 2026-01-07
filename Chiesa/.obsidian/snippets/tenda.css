@@ -1,0 +1,138 @@
+/* Applica il colore rosso, centra, mette in maiuscolo e ingrandisce il testo con la classe 'giorno_centrato_rosso' */
+.tenda span.giorno_crb {
+    color: #FF0000 !important;
+    /* Rosso puro, puoi cambiarlo */
+    text-align: center !important;
+    /* Centra il testo */
+    text-transform: uppercase !important;
+    /* Tutto maiuscolo */
+    font-size: 1.5em !important;
+    /* Ingrandisce il testo del 50% (1.5 volte la dimensione normale) */
+    font-weight: 800;
+    display: block !important;
+    /* Importante: necessario per centrare un elemento span */
+    width: 100% !important;
+    /* Importante: necessario per occupare tutta la larghezza disponibile */
+}
+
+/* Applica il colore rosso e centra il testo con la classe 'centrato_rosso' */
+.tenda span.centrato_rosso {
+    color: #FF0000 !important;
+    /* Rosso puro, puoi cambiarlo */
+    text-align: center !important;
+    /* Centra il testo */
+    display: block !important;
+    /* Importante: necessario per centrare un elemento span */
+    width: 100% !important;
+    /* Importante: necessario per occupare tutta la larghezza disponibile */
+}
+
+/* Applica il colore rosso, centra e mette in maiuscolo il testo con la classe 'centrato_rosso' */
+.tenda span.cri {
+    color: #FF0000 !important;
+    /* Rosso puro, puoi cambiarlo */
+    text-align: center !important;
+    /* Centra il testo */
+    font-size: 1.5em !important;
+    /* Ingrandisce il testo del 50% (1.5 volte la dimensione normale) */
+    text-transform: uppercase !important;
+    /* Tutto maiuscolo */
+    display: block !important;
+    /* Importante: necessario per centrare un elemento span */
+    width: 100% !important;
+    /* Importante: necessario per occupare tutta la larghezza disponibile */
+}
+
+/* Applica il colore rosso al testo con la classe 'rn' */
+.tenda span.rn {
+    color: #FF0000 !important;
+    /* Codice esadecimale per rosso puro */
+    font-weight: 400;
+}
+
+/* Applica il colore rosso al testo con la classe 'rosso' */
+.tenda span.rb {
+    display: inline-block;
+    color: #FF0000 !important;
+    /* Codice esadecimale per rosso puro */
+    font-size: 1.2em !important;
+    font-weight: 800;
+    margin-right: 10%;
+}
+
+/* Applica il colore rosso e rimpicciolisce il testo con la classe 'piccolo_rosso' */
+.tenda span.piccolo_rosso {
+    color: #FF0000 !important;
+    /* Rosso puro, puoi cambiarlo */
+    font-size: 0.75em !important;
+}
+
+/* Applica il colore rosso e rimpicciolisce il testo con la classe 'piccolo_rosso' */
+.tenda span.pn {
+    font-size: 0.75em !important;
+}
+
+/* Applica il colore rosso e allinea a destra il testo con la classe 'destra_rosso' */
+.tenda span.destra_rosso {
+    color: #FF0000 !important;
+    /* Rosso puro, puoi cambiarlo */
+    text-align: right !important;
+    /* Allinea a destra */
+    display: block !important;
+    /* Necessario per permettere l'allineamento del blocco */
+    width: 100% !important;
+    /* Necessario per occupare tutta la larghezza disponibile */
+}
+
+/* Allinea al centro il testo, usando colore e dimensione del tema */
+.tenda span.normale_centrato {
+    text-align: center !important;
+    /* Centra il testo */
+    display: block !important;
+    /* Necessario per permettere l'allineamento del blocco */
+    width: 100% !important;
+    /* Necessario per occupare tutta la larghezza disponibile */
+}
+
+/* Rende corsivo solo il testo semplice dentro la classe biografia */
+.tenda span.biografia {
+    font-style: italic;
+}
+
+/* Modalità Lettura (Reading Mode) */
+/* Modalità Editing (Live Preview) */
+/* Rende il link rosso e sottolineato SOLO dentro le note 'tenda' */
+.tenda .BibleRef .internal-link,
+.tenda .BibleRef .cm-hmd-internal-link {
+    color: #FF0000 !important;
+    /* Annulla il corsivo del link */
+    font-style: normal !important;
+    opacity: 1 !important;
+    text-decoration: underline !important;
+    /* Distanzia la sottolineatura di 0.3em dal testo */
+    text-underline-offset: 0.2em !important;
+    /* Sposta l'elemento verso l'alto */
+    position: relative;
+    /* Necessario per rendere l'elemento sensibile a questi spostamenti */
+    display: inline-block;
+}
+
+/* Modalità Lettura (Reading Mode) */
+/* Modalità Editing (Live Preview) */
+/* --- STATO HOVER: Torna al colore del tema quando passi il mouse --- */
+.tenda .BibleRef .internal-link:hover,
+.tenda .BibleRef .cm-hmd-internal-link:hover {
+    /* Usiamo le variabili di sistema di Obsidian per ripristinare il default */
+    color: var(--link-verde-globale) !important;
+    text-decoration: var(--link-decoration) !important;
+    /* Distanzia la sottolineatura di 0.3em dal testo */
+    text-underline-offset: 0.3em !important;
+}
+
+/* Annulla il corsivo generato dagli asterischi *...* intorno a BibleRef */
+.tenda em:has(.BibleRef),
+.tenda .BibleRef,
+.tenda .cm-italic:has(.BibleRef),
+.tenda .cm-em:has(.BibleRef) {
+    font-style: normal !important;
+}
