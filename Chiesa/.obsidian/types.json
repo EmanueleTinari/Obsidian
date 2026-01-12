@@ -14,6 +14,8 @@
     "modificato": "datetime",
     "patrono": "multitext",
     "posizione-Martirologio": "number",
-    "genere": "text"
+    "genere": "text",
+    "data canonizzazione": "datetime",
+    "data_morte": "date"
   }
 }
