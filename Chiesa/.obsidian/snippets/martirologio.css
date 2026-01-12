@@ -1,5 +1,5 @@
 /* Nasconde il titolo H6 che Obsidian genera per le transclusioni */
-.markdown-preview-view .internal-embed.is-loaded>.markdown-embed-title {
+.martirologio .markdown-preview-view .internal-embed.is-loaded>.markdown-embed-title {
   display: none;
 }
 
@@ -36,7 +36,7 @@
 }
 
 /* Stilizza il titolo H1 generato dallo script, in modo forzato */
-.markdown-preview-view h1:first-child {
+.martirologio .markdown-preview-view h1:first-child {
   color: #FF5733 !important;
   /* <--- Inserisci qui il tuo codice colore esadecimale */
   text-align: center !important;
@@ -44,7 +44,7 @@
 }
 
 /* Nasconde la barra verticale per le inclusioni in modo forzato */
-.internal-embed {
+.martirologio .internal-embed {
   border-left: none !important;
   padding-left: 0px !important;
   margin-left: -1em !important;
@@ -52,7 +52,7 @@
 }
 
 /* Rimuove l'eccesso di padding nella vista di preview */
-.markdown-preview-view .internal-embed {
+.martirologio .markdown-preview-view .internal-embed {
   padding-left: 0 !important;
 }
 
