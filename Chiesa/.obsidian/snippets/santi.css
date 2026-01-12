@@ -149,6 +149,22 @@
 	color: cyan;
 }
 
+.santi .image-embed[alt*="center"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	/* Centra la didascalia ciano */
+	width: fit-content;
+	/* Stringe il contenitore alla larghezza della foto */
+}
+
+.santi .image-embed[alt*="center"] img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
 /* 1. Il contenitore della firma (lo span) */
 .santi .firma {
 	display: block;
