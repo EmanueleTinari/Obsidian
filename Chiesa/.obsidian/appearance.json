@@ -3,10 +3,13 @@
   "enabledCssSnippets": [
     "tableStyles",
     "sidenote-callout",
-    "background",
     "docVat",
     "martirologio",
-    "tenda"
+    "tenda",
+    "santi",
+    "sigle-ecclesiastiche",
+    "icone-ed-immagini",
+    "background"
   ],
   "baseFontSizeAction": true,
   "accentColor": "#7cdfc1",
