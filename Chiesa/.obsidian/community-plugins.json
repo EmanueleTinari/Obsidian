@@ -4,7 +4,6 @@
   "reveal-folded",
   "global-search-and-replace",
   "link-preview",
-  "images-to-notes",
   "obsidian-hover-editor",
   "custom-classes",
   "pdf-plus",
@@ -27,5 +26,6 @@
   "obsidian-textgenerator-plugin",
   "ai-image-ocr",
   "vision-recall",
-  "obsidian-build-vocabulary"
+  "obsidian-build-vocabulary",
+  "images-to-notes"
 ]
