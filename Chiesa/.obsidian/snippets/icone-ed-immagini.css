@@ -1,0 +1,410 @@
+/* Classe contenitore per attivare questi stili nella nota */
+.icone-ed-immagini {
+    --bg-azzurro: #3498db;
+    --colore-freccia: #ffffff;
+    --colore-x: #ff0000;
+}
+
+/* Icona Base - Quadrato Azzurro */
+.icona-base {
+    align-items: center;
+    background-color: var(--bg-azzurro);
+    border-radius: 4px;
+    display: inline-flex;
+    height: 24px;
+    justify-content: center;
+    margin-left: 8px;
+    margin-top: -2px;
+    /* Spostamento verso l'alto di 2px */
+    position: relative;
+    vertical-align: middle;
+    width: 24px;
+}
+
+/* Disegno della X Rossa */
+.icona-salta::before,
+.icona-salta::after {
+    background-color: var(--colore-x);
+    border-radius: 2px;
+    content: "";
+    height: 2.5px;
+    position: absolute;
+    width: 20px;
+}
+
+.icona-salta::before {
+    transform: rotate(45deg);
+}
+
+.icona-salta::after {
+    transform: rotate(-45deg);
+}
+
+/* --- Icona punta bianca a dx (>) --- */
+.icona-punta-bianca-dx::before {
+    border-top: 3px solid var(--colore-freccia);
+    border-right: 3px solid var(--colore-freccia);
+    content: "";
+    height: 8px;
+    margin-left: -3px;
+    position: absolute;
+    transform: rotate(45deg);
+    width: 8px;
+    /* Centratura ottica */
+}
+
+/* Icona Freccia Bianca Completa (Gambo + Punta) */
+.icona-freccia-completa-dx::before {
+    background-color: var(--colore-freccia);
+    border-radius: 2px;
+    content: "";
+    /* Leggermente accorciato per non toccare i bordi */
+    /* Spessore del gambo */
+    height: 2.5px;
+    left: 4px;
+    position: absolute;
+    /* Posizionamento dentro il quadrato */
+    top: 50%;
+    transform: translateY(-50%);
+    /* Lunghezza del gambo */
+    width: 15px;
+    z-index: 1;
+}
+
+.icona-freccia-completa-dx::after {
+    border-radius: 1px;
+    border-right: 2.5px solid var(--colore-freccia);
+    border-top: 2.5px solid var(--colore-freccia);
+    content: "";
+    /* Dimensione punta */
+    height: 7px;
+    position: absolute;
+    /* Punta la freccia verso destra */
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%) rotate(45deg);
+    /* Dimensione punta */
+    width: 7px;
+    z-index: 2;
+}
+
+/* *****************************************************************/
+/* --- LAYOUT PER SPOSTAMENTO NOME FILE E FRONTMATTER IN BASSO --- */
+/* *****************************************************************/
+
+/* 1. Spinta del blocco originale (Titolo + Frontmatter) */
+.icone-ed-immagini .inline-title {
+    border-top: 2px dashed var(--background-modifier-border);
+    /* Ripristino stile originale Obsidian per sicurezza */
+    color: var(--inline-title-color) !important;
+    display: block !important;
+    /* Ripristino stile originale Obsidian per sicurezza */
+    font-family: var(--font-interface) !important;
+    /* Ripristino stile originale Obsidian per sicurezza */
+    font-size: var(--inline-title-size) !important;
+    /* Ripristino stile originale Obsidian per sicurezza */
+    font-weight: var(--inline-title-weight) !important;
+    /* Ripristino stile originale Obsidian per sicurezza */
+    line-height: var(--line-height-tight) !important;
+    margin-top: 19.3em !important;
+    padding-top: 40px !important;
+    position: relative !important;
+}
+
+/* 2. Il Frontmatter (Metadata) segue il titolo */
+.icone-ed-immagini .metadata-container {
+    margin-top: 0.95em !important;
+    position: relative !important;
+}
+
+/* 3. Posizionamento dell'Header DataviewJS */
+/* Questo selettore deve corrispondere alla classe che lo script assegna al suo header */
+.icone-ed-immagini .date-fixer-header-container {
+    background: var(--background-secondary);
+    border-bottom: 2px solid var(--background-modifier-border);
+    left: 0;
+    margin: 0 !important;
+    padding: 20px;
+    position: absolute !important;
+    right: 0;
+    top: 0;
+    /* Forza la larghezza */
+    width: 100%;
+    z-index: 50 !important;
+    /* Forza l'interfaccia a stare sopra l'H1 */
+}
+
+/* 4. Contenitore principale: attiviamo lo scroll e puliamo l'header di sistema */
+.icone-ed-immagini .view-content {
+    display: block !important;
+    overflow-y: auto !important;
+    position: relative !important;
+}
+
+/* --- DATE FIXER STYLES (Estratti dallo script) --- */
+
+/* Contenitore Principale Assoluto */
+.icone-ed-immagini .date-fixer-container {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 50;
+    background: var(--background-secondary);
+    border-bottom: 2px solid var(--background-modifier-border);
+    padding: 20px;
+    margin: 0 !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-height: 85vh;
+    /* Altezza massima per permettere lo scroll */
+    overflow-y: auto;
+    /* Scrolla se il contenuto è troppo lungo */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Titolo Rosso */
+.icone-ed-immagini .date-fixer-title {
+    margin: 0.5em auto 1em auto;
+    text-align: center !important;
+    color: #ff0000 !important;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    width: 100%;
+}
+
+/* Select */
+.icone-ed-immagini .date-fixer-select {
+    padding: 12px 10px;
+    width: 100%;
+    height: auto;
+    min-height: 3em;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    background: #222;
+    color: #fff;
+    appearance: none;
+    border: 1px solid #444;
+}
+
+/* Bottoni Grandi (Start / Reset) */
+.icone-ed-immagini .date-fixer-btn-large {
+    width: 15em;
+    height: 5em;
+    padding: 12px;
+    background: #555;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+.icone-ed-immagini .date-fixer-btn-large:hover {
+    background: #666;
+}
+
+/* Area Risultati */
+.icone-ed-immagini .date-fixer-results {
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* Card Risultato */
+.icone-ed-immagini .date-fixer-card {
+    border: 2px solid #3498db;
+    padding: 20px;
+    border-radius: 10px;
+    background: #1e1e1e;
+    margin-top: 20px;
+    /* Restringe il box e lo centra */
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Riga Card */
+.icone-ed-immagini .date-fixer-row {
+    margin-top: 15px;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+}
+
+/* Input Manuale */
+.icone-ed-immagini .date-fixer-input {
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+    background: #000;
+    color: #fff;
+    border: 1px solid #666;
+}
+
+/* --- NUOVO LAYOUT BOTTONI AFFIANCATI --- */
+
+/* Contenitore Flex per i 3 bottoni */
+.icone-ed-immagini .date-fixer-actions-container {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center;
+    gap: 10px;
+    /* Spazio tra i bottoni */
+    margin-top: 20px;
+    width: 100%;
+}
+
+/* Stile Base Bottoni Azione (Uguale altezza e larghezza) */
+.icone-ed-immagini .date-fixer-btn-action {
+    flex: 1;
+    /* Si dividono lo spazio in 3 parti uguali */
+    height: 50px;
+    /* Altezza fissa per tutti */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0 !important;
+    /* Rimuove margini vecchi */
+    padding: 0 5px;
+    font-size: 0.9em;
+    line-height: 1.1;
+}
+
+/* Colori Bottoni */
+.icone-ed-immagini .btn-green {
+    background: #27ae60;
+}
+
+.icone-ed-immagini .btn-red {
+    background: #c0392b;
+}
+
+.icone-ed-immagini .btn-blue {
+    background: #3498db;
+}
+
+/* Bottone Grigio Grande (Start/Reset) - Riutilizzabile */
+.icone-ed-immagini .btn-grey-large {
+    width: 15em;
+    height: 5em;
+    padding: 12px;
+    background: #555;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+.icone-ed-immagini .btn-grey-large:hover {
+    background: #666;
+}
+
+/* --- OCR CALCULATOR STYLES --- */
+
+/* Nasconde l'header standard di Obsidian per le "App" */
+.icone-ed-immagini .view-header {
+    display: none !important;
+}
+
+/* Contenitore Calcolatore OCR (Stile coerente con Date Fixer) */
+.icone-ed-immagini .ocr-calculator-container {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 50;
+    background: var(--background-secondary);
+    border-bottom: 2px solid var(--background-modifier-border);
+    padding: 20px;
+    margin: 0 !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Titolo OCR (Rosso) */
+.icone-ed-immagini .ocr-title {
+    margin: 1em auto 1.5em auto;
+    text-align: center !important;
+    color: #ff0000 !important;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2;
+    width: 100%;
+}
+
+/* Griglia Input */
+.icone-ed-immagini .ocr-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 15px 10px;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+/* Label Input */
+.icone-ed-immagini .ocr-label {
+    white-space: nowrap;
+    font-weight: 500;
+    text-align: left;
+}
+
+/* Input Field */
+.icone-ed-immagini .ocr-input {
+    width: 80px;
+    padding: 4px;
+    border-radius: 4px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-primary);
+    color: var(--text-normal);
+}
+
+/* Descrizione Gialla */
+.icone-ed-immagini .ocr-desc {
+    color: rgb(255, 255, 0);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+}
+
+/* Box Risultato */
+.icone-ed-immagini .ocr-result-box {
+    padding: 10px;
+    border-left: 4px solid var(--text-accent);
+    margin-bottom: 0.25em;
+    background: var(--background-primary);
+    width: 280px;
+    text-align: center;
+}
+
+/* Tabella Risultati */
+.icone-ed-immagini .ocr-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    background: var(--background-primary);
+}
+
+.icone-ed-immagini .ocr-table th {
+    background: var(--background-primary-alt);
+    border: 1px solid var(--background-modifier-border);
+    padding: 8px;
+}
+
+.icone-ed-immagini .ocr-table td {
+    border: 1px solid var(--background-modifier-border);
+    padding: 8px;
+}
