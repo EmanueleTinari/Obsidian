@@ -670,10 +670,23 @@ input[type=checkbox]:checked::after {
 	opacity: 1;
 }
 
+/* Espande la colonna delle chiavi (label) nel Frontmatter */
+body {
+	/* La larghezza di default è 9em. Aumentala per vedere i nomi lunghi */
+	--metadata-label-width: 11em;
+}
 
+/* Assicura che l'input della chiave non tagli il testo internamente */
+.metadata-property-key-input {
+	text-overflow: clip !important;
+	width: 100% !important;
+}
 
-
-
+/* Opzionale: Permetti al valore della proprietà di andare a capo se è molto lungo */
+.metadata-property-value {
+	white-space: normal !important;
+	word-break: break-word;
+}
 
 
 
