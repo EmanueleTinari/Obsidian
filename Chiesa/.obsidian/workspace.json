@@ -16,7 +16,7 @@
               "state": {
                 "file": "Operazioni quotidiane.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -41,7 +41,7 @@
               "state": {
                 "file": "Documenti pontifici/Bolle/_Indice Bolle.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -65,7 +65,7 @@
               "state": {
                 "file": "Documenti pontifici/Brevi/_Indice Brevi.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -89,7 +89,7 @@
               "state": {
                 "file": "Documenti pontifici/Chirografi/_Indice Chirografi.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -113,7 +113,7 @@
               "state": {
                 "file": "Documenti pontifici/Lettere/_Indice Lettere.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -137,7 +137,7 @@
               "state": {
                 "file": "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -161,7 +161,7 @@
               "state": {
                 "file": "Documenti pontifici/Motu proprio/_Indice Motu proprio.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -178,6 +178,30 @@
             }
           },
           {
+            "id": "6a67c5191c6fa2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Lettere/_Indice Lettere.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Lettere"
+            }
+          },
+          {
             "id": "f82a5169563ae72b",
             "type": "leaf",
             "state": {
@@ -185,7 +209,7 @@
               "state": {
                 "file": "Documenti pontifici/Omelie/_Indice Omelie.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -209,7 +233,7 @@
               "state": {
                 "file": "Documenti pontifici/Regina Cæli/_Indice Regina Cæli.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -226,12 +250,80 @@
             }
           },
           {
-            "id": "bf400ec24212c27f",
+            "id": "71fb8be9b5993bc1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "b702cc0b9add3093",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Videomessaggi/_Indice Videomessaggi.md",
+                "file": "Santi/Martirologio/Template caricamento valori Santi del giorno mancanti.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Template caricamento valori Santi del giorno mancanti"
+            }
+          },
+          {
+            "id": "5c1710cd97bdf11a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "a411b4b8475b59b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papi/Scheda 258° papa - Benedetto XV.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scheda 258° papa - Benedetto XV"
+            }
+          },
+          {
+            "id": "e61172859b04d7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Santi/Sigle ecclesiastiche.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -242,46 +334,22 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "_Indice Videomessaggi"
+              "title": "Sigle ecclesiastiche"
             }
           },
           {
-            "id": "d005cd9937807c3c",
+            "id": "1ab37073b4a9104d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Modelli/Template Tenda con letture giorno corrente.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Template Tenda con letture giorno corrente"
-            }
-          },
-          {
-            "id": "50463c8340513ce2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_00 - OCR/File MD creati con OCR/2024-10-03 - La Tenda pagine 0023-0030 22-04-49.md",
+                "file": "Santi/Martirologio/Template DataviewJs modifica ReadOnly.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -294,11 +362,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024-10-03 - La Tenda pagine 0023-0030 22-04-49"
+              "title": "Template DataviewJs modifica ReadOnly"
+            }
+          },
+          {
+            "id": "8b7ff20c2c036b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Santi/Martirologio/Template Dataviewjs modifica date in Frontmatter da nome mese a numero mese.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Template Dataviewjs modifica date in Frontmatter da nome mese a numero mese"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -330,7 +422,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "\"fondamentali della Dottrina Cristiana e illustrino la Legge Divina\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -355,7 +447,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5
+    "width": 337.5
   },
   "right": {
     "id": "d5bc6d9aa97f3564",
@@ -371,17 +463,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti pontifici/Regina Cæli/_Indice Regina Cæli.md",
+                "file": "Santi/Martirologio/Template DataviewJs modifica ReadOnly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a _Indice Regina Cæli"
+              "title": "Riferimenti a Template DataviewJs modifica ReadOnly"
             }
           },
           {
@@ -390,11 +482,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Santi/Sigle ecclesiastiche.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da Sigle ecclesiastiche"
             }
           },
           {
@@ -432,12 +525,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Vocaboli/d.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di d"
             }
           },
           {
@@ -445,7 +539,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Santi/tmp/Sigle ecclesiastiche.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -466,25 +562,22 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Documenti pontifici/Omelie/_Indice Omelie.md"
+                "file": "Santi/tmp/Sigle ecclesiastiche.md"
               },
               "icon": "lucide-info",
-              "title": "Proprietà file per _Indice Omelie"
+              "title": "Proprietà file per Sigle ecclesiastiche"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 556.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "templates:Inserisci modello": false,
       "bases:Create new base": false,
-      "notemd:Notemd Processor": false,
       "zk-prefixer:Nuova nota univoca": false,
       "random-note:Apri nota casuale": false,
       "publish:Pubblica modifiche": false,
@@ -503,59 +596,59 @@
       "obsidian-review-notes-plugin:View Recent Notes": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "modalforms:Edit forms": false,
+      "notemd:Notemd Processor": false,
       "smart-second-brain:Open S2B Chat": false,
-      "obsidian-build-vocabulary:Estrai vocabolario": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "vision-recall:Open Vision Recall": false
     }
   },
-  "active": "50463c8340513ce2",
+  "active": "1ab37073b4a9104d",
   "lastOpenFiles": [
-    "Documenti pontifici/Chirografi/_Indice Chirografi.md",
-    "Documenti pontifici/Chirografi/1829-01-06_lxii-chi-qus.md",
-    "Documenti pontifici/Chirografi/1829-01-06_lxii-chi-qus.pdf",
-    "_00 - OCR/File MD creati con OCR/2024-10-03 - La Tenda pagine 0023-0030 22-04-49.md",
-    "Untitled.md",
-    "Documenti pontifici/Lettere/_Indice Lettere.md",
-    "Documenti pontifici/Brevi/_Indice Brevi.md",
-    "Documenti pontifici/Lettere/1828-12-22_lxii-epi-apn.md",
-    "Documenti pontifici/Brevi/1827-10-02_lxii-bre-frq.md",
-    "Documenti pontifici/Lettere/1828-12-22_lxii-epi-apn.pdf",
-    "Documenti pontifici/Brevi/1827-10-02_lxii-bre-frq.pdf",
-    "Operazioni quotidiane.md",
-    "Documenti pontifici/Brevi/1827-03-20_lxii-bre-inm.md",
-    "Documenti pontifici/Brevi/1827-02-13_lxii-bre-qul.md",
-    "Documenti pontifici/Brevi/1827-03-20_lxii-bre-inm.pdf",
-    "z_Modelli/Template Tenda con letture giorno corrente.md",
-    "Documenti pontifici/Brevi/1826-12-12_lxii-bre-eco.md",
-    "z_Modelli/Template Tenda con letture giorno corrente e proprie della Memoria.md",
-    "Documenti pontifici/Brevi/Ecclesiarum Omnium.pdf",
-    "z_Modelli/Template Tenda attivatore script.md",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0321.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0320.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0319.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0317.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0318.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0314.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0316.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0315.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0313.jpg",
-    "_00 - OCR/2024 10 La Tenda/2024 10 - La Tenda pagina 0312.jpg",
-    "_00 - OCR/2024 10 La Tenda",
-    "z_Modelli/_Templater esempio while.md",
-    "_00 - OCR/File MD creati con OCR/Compilato_2025-12-18T13-05-58.md",
-    "z_Script/TemplaterUserDefined/compilaTemplateTenda.js",
-    "z_Modelli/Untitled.md",
-    "Documenti pontifici/Videomessaggi/_Indice Videomessaggi.md",
-    "Footnotes.md",
-    "Santi/07-27 - San Pantaleone.md",
-    "z_Modelli/Template Tenda - Copia.md",
-    "z_Script/invocableScripts/compilaTemplateTenda.js",
-    "z_Script/invocableScripts/Nuovo Documento di testo.txt",
-    "z_Modelli/2024-xx-xx - La Tenda pagine xxxx-xxxx.md",
-    "_00 - OCR/File MD creati con OCR/2024-xx-xx - La Tenda pagine xxxx-xxxx.md",
-    "_00 - OCR/File MD creati con OCR/2024-10-02 - La Tenda pagine 13-20.md",
-    "z_Script/pythonScripts/CreaMarkdownDalCsvDeiSanti_bak20251213165106.py"
+    "Santi/Martirologio/Template Dataviewjs modifica date in Frontmatter da nome mese a numero mese.md",
+    "Santi/Martirologio/Template DataviewJs modifica ReadOnly.md",
+    "Santi/Sigle ecclesiastiche.md",
+    "_02 - Allegati/07 27 Sette dormienti di Efeso 3.jpg",
+    "_02 - Allegati/07 27 Sette dormienti di Efeso 2.jpg",
+    "_02 - Allegati/07 27 Sette dormienti di Efeso 1.jpg",
+    "_02 - Allegati/07 27 Sette dormienti di Efeso_3.jpg",
+    "_02 - Allegati/07 27 Sette dormienti di Efeso_2.jpg",
+    "_02 - Allegati/07 27 Sette dormienti di Efeso_1.jpg",
+    "_02 - Allegati/07 27 Sette dormienti di_Efeso_3.jpg",
+    "_02 - Allegati/07 27 Sette dormienti di_Efeso_2.jpg",
+    "_02 - Allegati/07 27 Sette dormienti di_Efeso_1.jpg",
+    "_02 - Allegati/Concilio Ecumenico Vaticano II.jpg",
+    "Santi/Martirologio/Template caricamento valori Santi del giorno mancanti.md",
+    "Santi/01/01-01 - San Chiaro Abate di Vienne.md",
+    "Santi/01/01-01 - Beato Ugolino da Gualdo Cattaneo.md",
+    "Papi/Scheda 258° papa - Benedetto XV.md",
+    "Santi/12/12-13 - Beato Antonio (Vincenzo) Grassi Sacerdote Oratoriano.md",
+    "_Script/Bookmarklet Js per Firefox/Pulisci pagine Wikipedia Italia.js",
+    "_Script/JavaScripts/Pulisci pagine Wikipedia Italia.js",
+    "_Script/Bookmarklet Js per Firefox/Estrazione documenti pontifici.js",
+    "_Script/Bookmarklet Js per Firefox/EstrazioneDocumentiPontifici.js",
+    "_Script/Bookmarklet Js per Firefox/Prepara stampa documenti pontifici.js",
+    "_Script/Bookmarklet Js per Firefox/RimozioneElementiDallePagineVaticane.js",
+    "_Script/Bookmarklet Js per Firefox/Pulisci pagine www.santiebeati.it.js",
+    "_Script/Bookmarklet Js per Firefox/Pulisci pagine santiebeati.it.js",
+    "_Script/Bookmarklet Js per Firefox/Pulisci pagine santiebeati.it",
+    "_Script/Bookmarklet Js per Firefox",
+    "Papi/Scheda 256° papa - Leone XIII.md",
+    "_Modelli/Template per i Documenti pontifici.md",
+    "_00 - OCR/_Calcolatore t stimato img → OCR con Obsidian plugin “Images to note” + openAI.md",
+    "Santi/01/01-01 - Maria Santissima Madre di Dio.md",
+    "Papi/Scheda 263° papa - Giovanni Paolo I.md",
+    "Documenti pontifici/Udienze/1978-09-06_ipi-udi-gen.md",
+    "Papi/Scheda 262° papa - Paolo VI.md",
+    "Documenti pontifici/Udienze/2025-09-17_lxiv-udi-gen.md",
+    "Santi/Martirologio/Martirologio già creato.md",
+    "_Modelli/Template Tenda con letture giorno corrente e proprie della Memoria.md",
+    "_Modelli/Template Tenda attivatore script.md",
+    "Vocaboli/c.md",
+    "Vocaboli/b.md",
+    "Vocaboli/a.md",
+    "_00 - OCR/File MD creati con OCR/2024 10 - La Tenda pagina 0043.md",
+    "Santi/Martirologio/12/Martirologio Dicembre.md",
+    "Santi/Martirologio/12/12-13.md"
   ]
 }
