@@ -1,3 +1,0 @@
-A footnote is a relatively short text passage that either explains the main text or provides a citation to support the text. The latter usage should be deprecated for in-line citations. ^fn-footnote
-
-**Transclusion** is the process whereby a secondary document (or part thereof) is transparently included in the main document. It is an important component of a robust hypertext implementation, even though it is missing from the World Wide Web. The term was coined by Ted Nelson for his book *Literary Machines* (1980). ^fn-transclusion
