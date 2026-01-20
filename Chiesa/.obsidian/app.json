@@ -8,7 +8,7 @@
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
   "readableLineLength": false,
-  "attachmentFolderPath": "_02 - Allegati",
+  "attachmentFolderPath": "_02-Allegati",
   "promptDelete": false,
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -19,6 +19,10 @@
   "showInlineTitle": true,
   "defaultViewMode": "preview",
   "userIgnoreFilters": [
-    "Documenti pontifici/*.pdf"
+    "La Sacra Bibbia/_0records/",
+    "*.pdf",
+    "*.csv",
+    "*.py",
+    "*.css"
   ]
 }
