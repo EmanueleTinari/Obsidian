@@ -202,12 +202,12 @@
             }
           },
           {
-            "id": "f82a5169563ae72b",
+            "id": "ac296cdc84f57d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Omelie/_Indice Omelie.md",
+                "file": "Operazioni quotidiane.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -222,16 +222,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Indice Omelie"
+              "title": "Operazioni quotidiane"
             }
           },
           {
-            "id": "4c325ba6e69cb96e",
+            "id": "e312f106fcff405f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti pontifici/Regina Cæli/_Indice Regina Cæli.md",
+                "file": "Canti per le Liturgie/Indice dei Canti per le Liturgie.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -246,151 +246,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Indice Regina Cæli"
-            }
-          },
-          {
-            "id": "71fb8be9b5993bc1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
-            }
-          },
-          {
-            "id": "b702cc0b9add3093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Santi/Martirologio/Template caricamento valori Santi del giorno mancanti.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Template caricamento valori Santi del giorno mancanti"
-            }
-          },
-          {
-            "id": "5c1710cd97bdf11a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
-            }
-          },
-          {
-            "id": "a411b4b8475b59b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papi/Scheda 258° papa - Benedetto XV.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scheda 258° papa - Benedetto XV"
-            }
-          },
-          {
-            "id": "e61172859b04d7d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Santi/Sigle ecclesiastiche.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sigle ecclesiastiche"
-            }
-          },
-          {
-            "id": "1ab37073b4a9104d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Santi/Martirologio/Template DataviewJs modifica ReadOnly.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Template DataviewJs modifica ReadOnly"
-            }
-          },
-          {
-            "id": "8b7ff20c2c036b18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Santi/Martirologio/Template Dataviewjs modifica date in Frontmatter da nome mese a numero mese.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Template Dataviewjs modifica date in Frontmatter da nome mese a numero mese"
+              "title": "Indice dei Canti per le Liturgie"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -422,7 +282,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"fondamentali della Dottrina Cristiana e illustrino la Legge Divina\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -447,7 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 433.5
   },
   "right": {
     "id": "d5bc6d9aa97f3564",
@@ -463,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Santi/Martirologio/Template DataviewJs modifica ReadOnly.md",
+                "file": "Operazioni quotidiane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -473,7 +333,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Template DataviewJs modifica ReadOnly"
+              "title": "Riferimenti a Operazioni quotidiane"
             }
           },
           {
@@ -562,22 +422,26 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Santi/tmp/Sigle ecclesiastiche.md"
+                "file": "_Prova Dataview Modal.md"
               },
               "icon": "lucide-info",
-              "title": "Proprietà file per Sigle ecclesiastiche"
+              "title": "Proprietà file per _Prova Dataview Modal"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 233.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "vision-recall:Open Vision Recall": false,
+      "bases:Crea nuova Base": false,
       "templates:Inserisci modello": false,
-      "bases:Create new base": false,
       "zk-prefixer:Nuova nota univoca": false,
       "random-note:Apri nota casuale": false,
       "publish:Pubblica modifiche": false,
@@ -597,58 +461,56 @@
       "obsidian-file-info-plugin:File Info Panel": false,
       "modalforms:Edit forms": false,
       "notemd:Notemd Processor": false,
-      "smart-second-brain:Open S2B Chat": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "vision-recall:Open Vision Recall": false
+      "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "1ab37073b4a9104d",
+  "active": "e312f106fcff405f",
   "lastOpenFiles": [
-    "Santi/Martirologio/Template Dataviewjs modifica date in Frontmatter da nome mese a numero mese.md",
-    "Santi/Martirologio/Template DataviewJs modifica ReadOnly.md",
-    "Santi/Sigle ecclesiastiche.md",
-    "_02 - Allegati/07 27 Sette dormienti di Efeso 3.jpg",
-    "_02 - Allegati/07 27 Sette dormienti di Efeso 2.jpg",
-    "_02 - Allegati/07 27 Sette dormienti di Efeso 1.jpg",
-    "_02 - Allegati/07 27 Sette dormienti di Efeso_3.jpg",
-    "_02 - Allegati/07 27 Sette dormienti di Efeso_2.jpg",
-    "_02 - Allegati/07 27 Sette dormienti di Efeso_1.jpg",
-    "_02 - Allegati/07 27 Sette dormienti di_Efeso_3.jpg",
-    "_02 - Allegati/07 27 Sette dormienti di_Efeso_2.jpg",
-    "_02 - Allegati/07 27 Sette dormienti di_Efeso_1.jpg",
-    "_02 - Allegati/Concilio Ecumenico Vaticano II.jpg",
-    "Santi/Martirologio/Template caricamento valori Santi del giorno mancanti.md",
-    "Santi/01/01-01 - San Chiaro Abate di Vienne.md",
-    "Santi/01/01-01 - Beato Ugolino da Gualdo Cattaneo.md",
-    "Papi/Scheda 258° papa - Benedetto XV.md",
-    "Santi/12/12-13 - Beato Antonio (Vincenzo) Grassi Sacerdote Oratoriano.md",
-    "_Script/Bookmarklet Js per Firefox/Pulisci pagine Wikipedia Italia.js",
-    "_Script/JavaScripts/Pulisci pagine Wikipedia Italia.js",
-    "_Script/Bookmarklet Js per Firefox/Estrazione documenti pontifici.js",
-    "_Script/Bookmarklet Js per Firefox/EstrazioneDocumentiPontifici.js",
-    "_Script/Bookmarklet Js per Firefox/Prepara stampa documenti pontifici.js",
-    "_Script/Bookmarklet Js per Firefox/RimozioneElementiDallePagineVaticane.js",
-    "_Script/Bookmarklet Js per Firefox/Pulisci pagine www.santiebeati.it.js",
-    "_Script/Bookmarklet Js per Firefox/Pulisci pagine santiebeati.it.js",
-    "_Script/Bookmarklet Js per Firefox/Pulisci pagine santiebeati.it",
-    "_Script/Bookmarklet Js per Firefox",
-    "Papi/Scheda 256° papa - Leone XIII.md",
-    "_Modelli/Template per i Documenti pontifici.md",
-    "_00 - OCR/_Calcolatore t stimato img → OCR con Obsidian plugin “Images to note” + openAI.md",
-    "Santi/01/01-01 - Maria Santissima Madre di Dio.md",
-    "Papi/Scheda 263° papa - Giovanni Paolo I.md",
-    "Documenti pontifici/Udienze/1978-09-06_ipi-udi-gen.md",
-    "Papi/Scheda 262° papa - Paolo VI.md",
-    "Documenti pontifici/Udienze/2025-09-17_lxiv-udi-gen.md",
-    "Santi/Martirologio/Martirologio già creato.md",
-    "_Modelli/Template Tenda con letture giorno corrente e proprie della Memoria.md",
-    "_Modelli/Template Tenda attivatore script.md",
-    "Vocaboli/c.md",
-    "Vocaboli/b.md",
-    "Vocaboli/a.md",
-    "_00 - OCR/File MD creati con OCR/2024 10 - La Tenda pagina 0043.md",
-    "Santi/Martirologio/12/Martirologio Dicembre.md",
-    "Santi/Martirologio/12/12-13.md"
+    "Canti per le Liturgie/Senza nome.md",
+    "Canti per le Liturgie/Indice dei Canti per le Liturgie.md",
+    "Canti per le Liturgie/Tutti i canti/C/Canto della missione.md",
+    "Canti per le Liturgie/Quaresima, Settimana Santa.md",
+    "Canti per le Liturgie/Tutti i canti/A/Antifone di Taizè.md",
+    "Canti per le Liturgie/Tempo dopo Pentecoste.md",
+    "Canti per le Liturgie/Avvento, Natale, Tempo dopo l'Epifania.md",
+    "Canti per le Liturgie/Tempo di Pasqua.md",
+    "_Modelli/Template Canti OLD.md",
+    "Canti per le Liturgie/Tutti i canti/A/A te, Signore, innalzo l'anima mia.md",
+    "Operazioni quotidiane.md",
+    "Canti per le Liturgie/Tutti i canti/T/Senza nome.md",
+    "_Script/Senza nome.md",
+    "_Script/test.css",
+    "_Script/PowerShell/DownloadNovaVulgataFromVatican.ps1",
+    "Documenti pontifici/Lettere/_Indice Lettere.md",
+    "_Script/PowerShell",
+    "_Modelli/Template Canti.md",
+    "_Modelli/Template per i Messaggi della Regina della Pace.md",
+    "_Modelli/Template Costruzione Calendario.md",
+    "Canti per le Liturgie/Tutti i canti/C/Cercate prima il Regno di Dio.md",
+    "Canti per le Liturgie/Tutti i canti/C/Canzone di san Damiano.md",
+    "Canti per le Liturgie/Tutti i canti/C/Canzone di Maria Chiara.md",
+    "Canti per le Liturgie/Tutti i canti/C/Canto d'umiltà.md",
+    "Canti per le Liturgie/Tutti i canti/C/Canto a te.md",
+    "Canti per le Liturgie/Tutti i canti/C/Canto a Maria.md",
+    "Canti per le Liturgie/Tutti i canti/C/Cantico di Zaccaria.md",
+    "Canti per le Liturgie/Tutti i canti/C/Cantico di liberazione.md",
+    "Canti per le Liturgie/Tutti i canti/C/Cantico dei redenti.md",
+    "Canti per le Liturgie/Tutti i canti/T",
+    "Canti per le Liturgie/Tutti i canti/S",
+    "Canti per le Liturgie/Tutti i canti/L",
+    "Canti per le Liturgie/Tutti i canti/M",
+    "Canti per le Liturgie/Tutti i canti/I",
+    "Canti per le Liturgie/Tutti i canti/D",
+    "Canti per le Liturgie/Tutti i canti/E",
+    "_06-Tenda/OCR/010 A_page-0001.jpg",
+    "_00-OCR/Immagini già elaborate/2024 10 - La Tenda pagina 0003.jpg",
+    "_00-OCR/Immagini già elaborate/2024 10 - La Tenda pagina 0002.jpg",
+    "_00-OCR/Immagini già elaborate/2024 10 - La Tenda pagina 0001.jpg",
+    "_07-Errori sito Vaticano/Matteo 15,10.png",
+    "_02-Allegati/Concilio_Ecumenico_Vaticano_II.jpg",
+    "_02-Allegati/Sigle Ecclesiastiche Frati Minori 2.jpg",
+    "_02 - Allegati/Sigle Ecclesiastiche Frati Minori 2_1.jpg",
+    "_02-Allegati/Sigle Ecclesiastiche Frati Minori 3.jpg",
+    "_02-Allegati/Sigle Ecclesiastiche Frati Minori 1.jpg"
   ]
 }
