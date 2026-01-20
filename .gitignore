@@ -16,10 +16,10 @@
 **/*.gif
 
 # ...ma fai un'eccezione per quelle nella cartella degli allegati.
-!/Chiesa/**/_02 - Allegati/**/*.jpg
-!/Chiesa/**/_02 - Allegati/**/*.jpeg
-!/Chiesa/**/_02 - Allegati/**/*.png
-!/Chiesa/**/_02 - Allegati/**/*.gif
+!/Chiesa/**/_02-Allegati/**/*.jpg
+!/Chiesa/**/_02-Allegati/**/*.jpeg
+!/Chiesa/**/_02-Allegati/**/*.png
+!/Chiesa/**/_02-Allegati/**/*.gif
 
 # Ignora file specifici
 /Chiesa/Vecchi file NON su GitHub
