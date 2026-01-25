@@ -4,12 +4,13 @@
 ***                          ISTRUZIONI / INSTRUCTIONS                      ***
 ***                                                                         ***
 ***  Per aggiungere una nuova lingua:                                       ***
-***  1. Crea una nuova costante (es. const es = { ... }).                   ***
+***  1. Crea una nuova costante                                             ***
+***     (esempio per lo spagnolo: const es = { ... }).                      ***
 ***  2. Aggiungi il relativo 'case' nella funzione getTranslations.         ***
 ***                                                                         ***
 ***  To add a new language:                                                 ***
 ***  1. Create a new constant (e.g., const es = { ... }).                   ***
-***  2. Add the corresponding 'case' to the getTranslations function.        ***
+***  2. Add the corresponding 'case' to the getTranslations function.       ***
 ***                                                                         ***
 *******************************************************************************
 */
