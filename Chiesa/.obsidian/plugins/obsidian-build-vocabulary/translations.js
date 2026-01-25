@@ -88,7 +88,8 @@ const en = {
     INC_ART_PREP_NAME: "Include prepositional articles",
     INC_ART_PREP_DESC: "If disabled, excludes words like 'of the', 'del', 'nella', 'sugli', etc.",
     SELECT_OUTPUT_TITLE: "Select output folder",
-    SELECT_FOLDER_BTN: "Select"
+    SELECT_FOLDER_BTN: "Select",
+    SAVE_BUTTON: "Save"
 };
 
 // LANG = it (ITALIANO)
@@ -156,7 +157,8 @@ const it = {
     INC_ART_PREP_NAME: "Includi preposizioni articolate",
     INC_ART_PREP_DESC: "Se disattivato, esclude parole come 'del', 'nella', 'sugli', ecc.",
     SELECT_OUTPUT_TITLE: "Seleziona la cartella di output",
-    SELECT_FOLDER_BTN: "Seleziona"
+    SELECT_FOLDER_BTN: "Seleziona",
+    SAVE_BUTTON: "Salva"
 };
 
 // Aggiungere ulteriori lingue (traduzioni) qui sotto seguendo lo stesso formato.
