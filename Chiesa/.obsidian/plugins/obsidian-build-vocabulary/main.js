@@ -1241,6 +1241,10 @@ class BuildVocabularySettingTab extends PluginSettingTab {
 // === MODALE PER LA SELEZIONE DI UNA SINGOLA CARTELLA ===
 // === MODAL FOR SINGLE FOLDER SELECTION ===
 
+/**
+ * Modale che permette all'utente di selezionare una cartella dal vault.
+ * Modal that allows the user to select a folder from the vault.
+ */
 class SingleFolderSelectModal extends Modal {
     /**
      * Costruttore della modale di selezione cartella singola.
@@ -1361,59 +1365,148 @@ class SingleFolderSelectModal extends Modal {
 // === MODALE PER LA SELEZIONE DELLE CARTELLE ===
 // === MODAL FOR FOLDER SELECTION ===
 
+/**
+ * Modale che permette all'utente di selezionare più cartelle dal vault contemporaneamente.
+ * Modal that allows the user to select multiple folders from the vault at once.
+ */
 class MultiFolderSelectModal extends Modal {
-    // Accetta l'array di cartelle attualmente selezionate (es. startFolders o exclusionFolders)
-    // e una callback da eseguire al salvataggio.
+    /**
+     * Costruttore della modale di selezione multipla.
+     * Constructor for the multi-selection modal.
+     *
+     * @param {App} app
+     * L'istanza dell'applicazione Obsidian.
+     * The Obsidian App instance.
+     *
+     * @param {string} title
+     * Il titolo da visualizzare nella modale.
+     * The title to display in the modal.
+     *
+     * @param {string[]} selectedFoldersArray
+     * L'elenco delle cartelle già selezionate.
+     * The list of already selected folders.
+     *
+     * @param {function} onSaveCallback
+     * Funzione eseguita al salvataggio della selezione.
+     * Function executed when saving the selection.
+     *
+     */
     constructor(app, title, selectedFoldersArray, onSaveCallback) {
+        // Chiama il costruttore della classe base Modal di Obsidian.
+        // Calls the constructor of the Obsidian base Modal class.
         super(app);
+        // Imposta il titolo della modale passato come argomento.
+        // Sets the modal title passed as an argument.
         this.title = title;
-        // Memorizza una COPIA dell'array per poterla modificare senza effetti collaterali
+        // Memorizza una COPIA dell'array per poterla modificare senza effetti collaterali immediati.
+        // Stores a COPY of the array to modify it without immediate side effects.
         this.selectedFolders = [...selectedFoldersArray];
+        // Memorizza la funzione di richiamo per salvare le modifiche finali.
+        // Stores the callback function to save final changes.
         this.onSaveCallback = onSaveCallback;
     }
+    // Metodo chiamato all'apertura della modale per inizializzare l'interfaccia.
+    // Method called when the modal opens to initialize the interface.
     onOpen() {
+        // Estrae l'elemento contenitore del contenuto della modale.
+        // Extracts the container element for the modal content.
         const { contentEl } = this;
+        // Crea l'intestazione della modale utilizzando il titolo passato al costruttore.
+        // Creates the modal header using the title passed to the constructor.
         contentEl.createEl('h2', { text: this.title });
+        // Funzione ricorsiva per creare la lista delle cartelle selezionabili.
+        // Recursive function to create the list of selectable folders.
         const createTree = (folder, parentEl) => {
-            // Ordina gli elementi figli: prima le cartelle, poi i file, entrambi in ordine alfabetico
-            // Sort children: folders first, then files, both alphabetically
+            // Filtra solo le cartelle e le ordina alfabeticamente.
+            // Filters only folders and sorts them alphabetically.
             const children = folder.children
+                // Filtra gli elementi per includere esclusivamente le istanze di tipo cartella.
+                // Filters elements to exclusively include folder-type instances.
                 .filter(c => c instanceof TFolder)
+                // Ordina le cartelle alfabeticamente basandosi sul nome e sulla localizzazione.
+                // Sorts folders alphabetically based on name and localization.
                 .sort((a, b) => a.name.localeCompare(b.name));
+            // Ciclo attraverso ogni cartella individuata per creare un'impostazione.
+            // Loops through each identified folder to create a setting.
             for (const child of children) {
+                // Crea una nuova riga di impostazione per la cartella corrente.
+                // Creates a new setting row for the current folder.
                 const setting = new Setting(parentEl)
+                    // Imposta il nome visualizzato come il nome della cartella.
+                    // Sets the display name as the folder name.
                     .setName(child.name)
+                    // Imposta il percorso completo come descrizione.
+                    // Sets the full path as the description.
                     .setDesc(child.path)
+                    // Aggiunge un interruttore per gestire la selezione multipla.
+                    // Adds a toggle to manage multiple selection.
                     .addToggle(toggle => {
-                        // Controlla se il percorso è nell'array generico che abbiamo ricevuto
+                        // Imposta lo stato iniziale dell'interruttore verificando la presenza nell'array.
+                        // Sets the initial toggle state by checking presence in the array.
                         toggle.setValue(this.selectedFolders.includes(child.path))
+                            // Gestisce il cambiamento di stato dell'interruttore.
+                            // Handles the change of the toggle state.
                             .onChange((value) => {
+                                // Memorizza il percorso della cartella corrente.
+                                // Stores the current folder path.
                                 const path = child.path;
+                                // Se l'interruttore viene attivato.
+                                // If the toggle is enabled.
                                 if (value) {
-                                    // Aggiunge il percorso se non è già presente
+                                    // Aggiunge il percorso all'array se non è già presente.
+                                    // Adds the path to the array if it is not already present.
                                     if (!this.selectedFolders.includes(path)) {
+                                        // Inserisce il nuovo percorso nell'elenco delle cartelle selezionate.
+                                        // Inserts the new path into the list of selected folders.
                                         this.selectedFolders.push(path);
                                     }
                                 }
+                                // Se l'interruttore viene disattivato.
+                                // If the toggle is disabled.
                                 else {
-                                    // Rimuove il percorso
+                                    // Rimuove il percorso filtrando l'array esistente.
+                                    // Removes the path by filtering the existing array.
                                     this.selectedFolders = this.selectedFolders.filter(p => p !== path);
                                 }
                                 // NOTA: Non salviamo le impostazioni qui, lo faremo alla chiusura.
+                                // NOTE: We do not save the settings here, we will do it at the end.
                             });
                     });
+                // Aggiunge una classe CSS personalizzata all'elemento della riga.
+                // Adds a custom CSS class to the row element.
                 setting.settingEl.addClass('folder-selection-setting');
             }
         }
+        // Avvia la creazione dell'albero delle cartelle partendo dalla radice del vault.
+        // Starts the folder tree creation starting from the vault root.
         createTree(this.app.vault.getRoot(), contentEl);
+        // Crea un contenitore div per i pulsanti d'azione nella parte inferiore della modale.
+        // Creates a div container for action buttons at the bottom of the modal.
         const buttonContainer = contentEl.createDiv({ cls: 'modal-button-container' });
-        const saveButton = buttonContainer.createEl('button', { text: 'Salva', cls: 'mod-cta' });
+        // Crea il pulsante di salvataggio con lo stile primario di Obsidian (mod-cta).
+        // Creates the save button with the primary Obsidian style (mod-cta).
+        const saveButton = buttonContainer.createEl('button', {
+            // Imposta il testo del pulsante utilizzando la traduzione localizzata.
+            // Sets the button text using the localized translation.
+            text: t.SAVE_BUTTON,
+            cls: 'mod-cta'
+        });
+        // Gestisce l'evento di click sul pulsante di salvataggio.
+        // Handles the click event on the save button.
         saveButton.onClickEvent(() => {
+            // Esegue la funzione di callback passando l'array delle cartelle selezionate.
+            // Executes the callback function passing the array of selected folders.
             this.onSaveCallback(this.selectedFolders);
+            // Chiude la finestra modale dopo il salvataggio.
+            // Closes the modal window after saving.
             this.close();
         });
     }
+    // Metodo chiamato alla chiusura della modale per la gestione della memoria.
+    // Method called when the modal closes for memory management.
     onClose() {
+        // Svuota il contenuto della modale per liberare le risorse DOM.
+        // Empties the modal content to release DOM resources.
         this.contentEl.empty();
     }
 }
