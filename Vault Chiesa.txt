@@ -947,12 +947,12 @@ D:.
 |   |   +---invocableScripts
 |   |   +---pythonScripts
 |   |   \---startupScripts
-|   +---_00 - OCR
+|   +---_00-OCR
 |   |   +---File MD creati con OCR
 |   |   \---Immagini gi  elaborate
-|   +---_01 - tmpBibleFolderDL
-|   +---_02 - Allegati
-|   +---_03 - PDF
+|   +---_01-tmpBibleFolderDL
+|   +---_02-Allegati
+|   +---_03-PDF
 |   |   +---File MD creati dai PDF
 |   |   |   +---2022
 |   |   |   +---2023
@@ -960,15 +960,15 @@ D:.
 |   |   |   \---2025
 |   |   +---Il Nuovo Testamento Vulgata-Martini-Sales
 |   |   \---Pdf gi  elaborati
-|   +---_04 - Web pages
-|   +---_05 - tmpBibbia
+|   +---_04-Web pages
+|   +---_05-tmpBibbia
 |   |   +---Template capitolo x ogni versione
 |   |   \---Template introduzione x ogni versione
-|   +---_06 - Tenda
+|   +---_06-Tenda
 |   |   +---file md creati dai pdf
 |   |   \---pdf gi  elaborati
-|   +---_07 - Errori sito Vaticano
-|   +---_08 - tmpPythonNV
+|   +---_07-Errori sito Vaticano
+|   +---_08-tmpPythonNV
 |   |   +---HTML
 |   |   \---MD
 |   +---_Canti per le Liturgie
@@ -983,7 +983,7 @@ D:.
 |   |       +---M
 |   |       +---S
 |   |       \---T
-|   +---_liste file
+|   +---_Liste-File
 |   |   +---1984
 |   |   +---1985
 |   |   +---1986
@@ -1056,10 +1056,10 @@ D:.
 |   +---z_Script
 |   |   +---invocableScripts
 |   |   \---startupScripts
-|   +---_00 - OCR
-|   +---_02 - Allegati
-|   +---_04 - Web pages
-|   +---_07 - Errori sito Vaticano
-|   +---_liste file
+|   +---_00-OCR
+|   +---_02-Allegati
+|   +---_04-Web pages
+|   +---_07-Errori sito Vaticano
+|   +---_Liste-File
 |   \---_Prove
 
