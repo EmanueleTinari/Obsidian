@@ -125,10 +125,14 @@ async function ensureFolderExists(folderPath, app) {
     // Ottiene l'adapter del vault di Obsidian per l'accesso al file system.
     // Gets the Obsidian vault adapter for file system access.
     const adapter = app.vault.adapter;
+    // Inizia un blocco di gestione degli errori per le operazioni di I/O sulle cartelle.
+    // Starts an error handling block for folder I/O operations.
     try {
         // Verifica se la cartella esiste già al percorso specificato.
         // Checks if the folder already exists at the specified path.
         const folderExists = await adapter.exists(folderPath);
+        // Se la cartella non viene trovata, procede con la sua creazione.
+        // If the folder is not found, proceeds with its creation.
         if (!folderExists) {
             // Crea la cartella se non è presente.
             // Creates the folder if it is not present.
@@ -181,15 +185,21 @@ async function ensureFolderExists(folderPath, app) {
  *
  */
 async function writeDataToFile(app, filePath, content) {
+    // Inizia il blocco di gestione degli errori per l'operazione di scrittura.
+    // Starts the error handling block for the write operation.
     try {
         // Tenta di ottenere un riferimento astratto al file dal percorso.
         // Attempts to get an abstract reference to the file from the path.
         const file = app.vault.getAbstractFileByPath(filePath);
+        // Verifica se il riferimento al file è stato trovato nel vault.
+        // Checks if the file reference was found in the vault.
         if (file) {
             // Se il file esiste, lo modifica con il nuovo contenuto (sovrascrittura).
             // If the file exists, modifies it with the new content (overwrites).
             await app.vault.modify(file, content);
         }
+        // Gestisce il caso in cui il file non esista ancora nel percorso specificato.
+        // Handles the case where the file does not yet exist at the specified path.
         else {
             // Se il file non esiste, lo crea con il contenuto specificato.
             // If the file does not exist, creates it with the specified content.
@@ -375,6 +385,8 @@ async function clearMarkdownFiles(app, folderPath) {
 // === CLASSE PRINCIPALE DEL PLUGIN ===
 // === MAIN PLUGIN CLASS ===
 
+// Esporta la classe principale del plugin per renderla disponibile ad Obsidian.
+// Exports the main plugin class to make it available to Obsidian.
 module.exports = class BuildVocabularyPlugin extends Plugin {
     // Metodo chiamato all'attivazione del plugin.
     // Method called when the plugin is enabled.
@@ -388,6 +400,8 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
         // Aggiunge il comando principale alla palette dei comandi di Obsidian.
         // Add the main command to the Obsidian command palette.
         this.addCommand({
+            // Identificativo univoco del comando all'interno di Obsidian.
+            // Unique identifier for the command within Obsidian.
             id: 'build-vocabulary-intratext',
             // Nome del comando.
             // Command name.
@@ -436,6 +450,8 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
     // Salva le impostazioni correnti nel file di configurazione del plugin.
     // Saves current settings to the plugin's configuration file.
     async saveSettings() {
+        // Salva in modo asincrono i dati delle impostazioni correnti nel file data.json.
+        // Asynchronously saves the current setting data to the data.json file.
         await this.saveData(this.settings);
     }
 
@@ -544,7 +560,11 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             // Se il file non è presente nella cache, lo aggiunge alla lista di aggiornamento.
             // If the file is not in the cache, adds it to the update list.
             if (!knownFilePaths.has(file.path)) {
+                // Aggiunge il file all'elenco di quelli che necessitano di essere processati.
+                // Adds the file to the list of those that need to be processed.
                 filesToUpdate.push(file);
+                // Passa immediatamente all'iterazione successiva del ciclo.
+                // Immediately moves to the next iteration of the loop.
                 continue;
             }
             // Legge il contenuto del file (sfruttando la cache di Obsidian per velocità).
@@ -556,6 +576,8 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             // Se l'hash è diverso da quello salvato, il file è stato modificato.
             // If the hash differs from the saved one, the file has been modified.
             if (fileHashes[file.path] !== currentHash) {
+                // Inserisce il file nell'elenco degli elementi che richiedono una nuova analisi.
+                // Adds the file to the list of items requiring a new analysis.
                 filesToUpdate.push(file);
             }
         }
@@ -575,6 +597,8 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
             // Rimuove ogni riferimento ai file cancellati dalle occorrenze delle parole.
             // Removes every reference to deleted files from word occurrences.
             for (const word in vocabulary) {
+                // Rimuove i record associati ai percorsi dei file che sono stati eliminati.
+                // Removes records associated with file paths that have been deleted.
                 vocabulary[word] = vocabulary[word].filter(occ => !deletedFilePaths.includes(occ.file));
                 // Se una parola non ha più occorrenze, la elimina dal vocabolario.
                 // If a word has no more occurrences, removes it from the vocabulary.
@@ -697,6 +721,8 @@ module.exports = class BuildVocabularyPlugin extends Plugin {
                         // Aggiunge l'occorrenza con il riferimento al file, riga e contesto.
                         // Adds the occurrence with reference to file, line, and context.
                         vocabulary[word].push({
+                            // Registra il percorso del file in cui è stata individuata la parola.
+                            // Records the path of the file where the word was identified.
                             file: file.path,
                             // Salva il numero di riga (1-based).
                             // Saves the line number (1-based).
@@ -901,6 +927,8 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                 // Gestisce il cambiamento di stato salvando la nuova impostazione.
                 // Handles the state change by saving the new setting.
                 .onChange(async (value) => {
+                    // Assegna il nuovo valore booleano alla proprietà corrispondente nelle impostazioni.
+                    // Assigns the new boolean value to the corresponding property in the settings.
                     this.plugin.settings.addRibbonIcon = value;
                     // Esegue il salvataggio asincrono dei dati.
                     // Performs asynchronous data saving.
