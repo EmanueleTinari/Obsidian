@@ -130,6 +130,54 @@
             }
           },
           {
+            "id": "a18f14d207ae247f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Encicliche/_Indice Encicliche.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Indice Encicliche"
+            }
+          },
+          {
+            "id": "0887077c6c0b2976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2015-05-24_fi-enc-las"
+            }
+          },
+          {
             "id": "a1408b54c354a99b",
             "type": "leaf",
             "state": {
@@ -200,54 +248,6 @@
               "icon": "lucide-file",
               "title": "_Indice Lettere"
             }
-          },
-          {
-            "id": "ac296cdc84f57d84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operazioni quotidiane.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operazioni quotidiane"
-            }
-          },
-          {
-            "id": "e312f106fcff405f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Canti per le Liturgie/Indice dei Canti per le Liturgie.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Indice dei Canti per le Liturgie"
-            }
           }
         ],
         "currentTab": 9
@@ -282,7 +282,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "icone-ed-immagini",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operazioni quotidiane.md",
+                "file": "Canti per le Liturgie/Indice dei Canti per le Liturgie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Operazioni quotidiane"
+              "title": "Riferimenti a Indice dei Canti per le Liturgie"
             }
           },
           {
@@ -422,13 +422,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Prova Dataview Modal.md"
+                "file": "Canti per le Liturgie/Indice dei Canti per le Liturgie.md"
               },
               "icon": "lucide-info",
-              "title": "Proprietà file per _Prova Dataview Modal"
+              "title": "Proprietà file per Indice dei Canti per le Liturgie"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -464,10 +465,19 @@
       "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "e312f106fcff405f",
+  "active": "6a67c5191c6fa2c5",
   "lastOpenFiles": [
-    "Canti per le Liturgie/Senza nome.md",
+    "Operazioni quotidiane.md",
+    "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.md",
+    "Documenti pontifici/Encicliche/2015-05-24_fi-enc-las.md~",
+    "Documenti vari/CCC già in html e completo di note da togliere un punto alla volta x trasferirne il testo in Obsidian.html~",
+    "Documenti pontifici/Encicliche/_Indice Encicliche.md",
+    "Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche.md",
     "Canti per le Liturgie/Indice dei Canti per le Liturgie.md",
+    "_00-OCR/_Calcola t stimato img → OCR col plugin “Images to note” + openAI.md",
+    "Santi/Martirologio/Template Dataviewjs mod date Frontmatter nome mese → numero mese.md",
+    "Santi/Martirologio/Template DataviewJs modifica ReadOnly.md",
+    "Canti per le Liturgie/Senza nome.md",
     "Canti per le Liturgie/Tutti i canti/C/Canto della missione.md",
     "Canti per le Liturgie/Quaresima, Settimana Santa.md",
     "Canti per le Liturgie/Tutti i canti/A/Antifone di Taizè.md",
@@ -476,7 +486,6 @@
     "Canti per le Liturgie/Tempo di Pasqua.md",
     "_Modelli/Template Canti OLD.md",
     "Canti per le Liturgie/Tutti i canti/A/A te, Signore, innalzo l'anima mia.md",
-    "Operazioni quotidiane.md",
     "Canti per le Liturgie/Tutti i canti/T/Senza nome.md",
     "_Script/Senza nome.md",
     "_Script/test.css",
@@ -489,19 +498,11 @@
     "Canti per le Liturgie/Tutti i canti/C/Cercate prima il Regno di Dio.md",
     "Canti per le Liturgie/Tutti i canti/C/Canzone di san Damiano.md",
     "Canti per le Liturgie/Tutti i canti/C/Canzone di Maria Chiara.md",
-    "Canti per le Liturgie/Tutti i canti/C/Canto d'umiltà.md",
-    "Canti per le Liturgie/Tutti i canti/C/Canto a te.md",
-    "Canti per le Liturgie/Tutti i canti/C/Canto a Maria.md",
-    "Canti per le Liturgie/Tutti i canti/C/Cantico di Zaccaria.md",
-    "Canti per le Liturgie/Tutti i canti/C/Cantico di liberazione.md",
-    "Canti per le Liturgie/Tutti i canti/C/Cantico dei redenti.md",
     "Canti per le Liturgie/Tutti i canti/T",
     "Canti per le Liturgie/Tutti i canti/S",
     "Canti per le Liturgie/Tutti i canti/L",
     "Canti per le Liturgie/Tutti i canti/M",
     "Canti per le Liturgie/Tutti i canti/I",
-    "Canti per le Liturgie/Tutti i canti/D",
-    "Canti per le Liturgie/Tutti i canti/E",
     "_06-Tenda/OCR/010 A_page-0001.jpg",
     "_00-OCR/Immagini già elaborate/2024 10 - La Tenda pagina 0003.jpg",
     "_00-OCR/Immagini già elaborate/2024 10 - La Tenda pagina 0002.jpg",
