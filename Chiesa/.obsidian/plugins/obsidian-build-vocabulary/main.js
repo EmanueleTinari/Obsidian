@@ -30,19 +30,42 @@ Features:
 
 // Importa i componenti fondamentali dell'API di Obsidian per estendere le funzionalità dell'editor.
 // Imports core components from the Obsidian API to extend editor functionality.
-import { Plugin, PluginSettingTab, Setting, App, Notice, Modal, TFolder, MarkdownRenderer } from 'obsidian';
+const { Plugin, PluginSettingTab, Setting, App, Notice, Modal, TFolder, MarkdownRenderer } = require('obsidian');
 // Importa la funzione di gestione delle traduzioni dal file locale.
 // Imports the translation management function from the local file.
-import { getTranslations } from './translations';
+const path = require('path');
+const adapter = this.app.vault.adapter;
+const vaultPath = adapter.getBasePath();
+// Usa require.resolve per trovare il percorso del file.
+// Questo funziona perché Node.js conosce la posizione di main.js
+const translationsPath = path.join(vaultPath, '.obsidian/plugins/obsidian-build-vocabulary/translations.js');
+// Carica il modulo traduzioni gestendo la cache di Node
+const translationModule = require(translationsPath);
+const getTranslations = translationModule.getTranslations;
 // Richiede il modulo 'crypto' di Node.js per calcolare gli hash SHA-512
 // Requires Node.js 'crypto' module to calculate SHA-512 hashes
-import * as crypto from 'crypto';
+const crypto = require('crypto');
 // Rileva la lingua impostata in Obsidian
 // Detect the language set in Obsidian
 const obsidianLang = window.localStorage.getItem('language');
 // Carica in memoria SOLO il blocco di lingua necessario
 // Load ONLY the required language block into memory
 const t = getTranslations(obsidianLang);
+// Definisce il percorso fisico del file JSON delle entità composte.
+// Defines the physical path of the compound entities JSON file.
+const jsonPath = path.join(vaultPath, '.obsidian/plugins/obsidian-build-vocabulary/compound_entities_index.json');
+// Carica il modulo del file system di Node.js per la lettura sincrona.
+// Loads the Node.js file system module for synchronous reading.
+const fs = require('fs');
+// Legge il file JSON in modo sincrono e lo parsa in un oggetto.
+// Reads the JSON file synchronously and parses it into an object.
+const jsonData = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+// Estrae la stringa di informazione da utilizzare come sottotitolo nel Modal.
+// Extracts the info string to be used as a subtitle in the Modal.
+const infoSubtitle = jsonData._info;
+// Carica la lista delle parole e le ordina per lunghezza decrescente (Longest Match First).
+// Loads the word list and sorts them by descending length (Longest Match First).
+const listaEntita = jsonData.PAROLE_COMPOSTE.sort((a, b) => b.length - a.length);
 
 // === COSTANTI ===
 // === CONSTANTS ===
@@ -51,13 +74,15 @@ const t = getTranslations(obsidianLang);
 // Stop-word lists for filtering
 const ARTICOLI_DETERMINATIVI = ['il', 'lo', 'la', 'i', 'gli', 'le', "l'"]; //DEFINITE_ARTICLES
 const ARTICOLI_INDETERMINATIVI = ['un', 'uno', 'una', "un'"]; //INDEFINITE_ARTICLES
-const PREPOSIZIONI_SEMPLICI = ['di', 'a', 'da', 'in', 'con', 'su', 'per', 'tra', 'fra']; //SIMPLE_PREPOSITIONS
+const PREPOSIZIONI_SEMPLICI = ['di', "d'", 'a', 'da', 'in', 'con', 'su', 'per', 'tra', 'fra']; //SIMPLE_PREPOSITIONS
 const PREPOSIZIONI_ARTICOLATE = [
     'del', 'dello', 'della', "dell'", 'dei', 'degli', 'delle',
     'al', 'allo', 'alla', "all'", 'ai', 'agli', 'alle',
     'dal', 'dallo', 'dalla', "dall'", 'dai', 'dagli', 'dalle',
     'nel', 'nello', 'nella', "nell'", 'nei', 'negli', 'nelle',
-    'sul', 'sullo', 'sulla', "sull'", 'sui', 'sugli', 'sulle'
+    'sul', 'sullo', 'sulla', "sull'", 'sui', 'sugli', 'sulle',
+    'col', 'collo', "coll'", 'colla', 'coi', 'cogli', 'colle',
+    'pel', 'pello', 'pella', "pell'", 'pei', 'pegli', 'pelle'
 ]; //PREPOSITIONAL_ARTICLES
 
 // ========================
@@ -946,6 +971,8 @@ class BuildVocabularySettingTab extends PluginSettingTab {
             // Description destination within the setting element.
             ribbonSetting.descEl,
             '',
+            // Passa l'istanza del plugin come contesto per il rendering.
+            // Passes the plugin instance as context for rendering.
             this.plugin
         );
 
@@ -957,13 +984,10 @@ class BuildVocabularySettingTab extends PluginSettingTab {
         containerEl.createEl('h2', { text: t.FILES_FOLDERS_FILTERS });
         // Definisce l'impostazione per la scelta della cartella di output del plugin.
         // Defines the setting for choosing the plugin's output folder.
-        new Setting(containerEl)
+        const outputSetting = new Setting(containerEl)
             // Imposta il nome dell'opzione.
             // Sets the option name.
             .setName(t.OUTPUT_FOLDER_NAME)
-            // Imposta la descrizione dell'opzione.
-            // Sets the option description.
-            .setDesc(t.OUTPUT_FOLDER_DESC)
             // Aggiunge un campo di testo per visualizzare il percorso selezionato.
             // Adds a text field to display the selected path.
             .addText(text => {
@@ -1000,18 +1024,29 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                         this.display(); // Ridisegna la tab per mostrare il nuovo valore
                     }).open();
                 }));
+        // Utilizza il MarkdownRenderer per la descrizione complessa del blocco appena creato.
+        // Uses the MarkdownRenderer for the complex description of the newly created block.
+        MarkdownRenderer.renderMarkdown(
+            // Imposta la descrizione dell'opzione.
+            // Sets the option description.
+            t.OUTPUT_FOLDER_DESC,
+            // Specifica l'elemento HTML di destinazione per la descrizione.
+            // Specifies the target HTML element for the description.
+            outputSetting.descEl,
+            '',
+            // Passa l'istanza del plugin come contesto per il rendering.
+            // Passes the plugin instance as context for rendering.
+            this.plugin
+        );
         // Aggiunge una linea orizzontale di separazione visiva nell'interfaccia.
         // Adds a horizontal separator line to the interface.
         containerEl.createEl('hr');
         // Definisce l'impostazione per selezionare le cartelle da cui iniziare la scansione.
         // Defines the setting to select the folders where the scan should start.
-        new Setting(containerEl)
+        const startFoldersSetting = new Setting(containerEl)
             // Imposta il nome dell'impostazione.
             // Sets the setting name.
             .setName(t.START_FOLDERS_NAME)
-            // Imposta la descrizione dell'impostazione.
-            // Sets the setting description.
-            .setDesc(t.START_FOLDERS_DESC)
             // Aggiunge un pulsante per aprire la modale di selezione multipla.
             // Adds a button to open the multi-selection modal.
             .addButton(btn => btn
@@ -1035,24 +1070,55 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                         this.display();
                     }).open();
                 }));
+        // Utilizza il MarkdownRenderer per la descrizione complessa del blocco appena creato.
+        // Uses the MarkdownRenderer for the complex description of the newly created block.
+        MarkdownRenderer.renderMarkdown(
+            // Imposta la descrizione dell'impostazione.
+            // Sets the setting description.
+            t.START_FOLDERS_DESC,
+            // Specifica l'elemento HTML di destinazione per la descrizione.
+            // Specifies the target HTML element for the description.
+            startFoldersSetting.descEl,
+            '',
+            // Passa l'istanza del plugin come contesto per il rendering.
+            // Passes the plugin instance as context for rendering.
+            this.plugin
+        );
         // Crea un elemento div per visualizzare l'elenco testuale delle cartelle attualmente incluse.
         // Creates a div element to display the text list of currently included folders.
         const includedFoldersDiv = containerEl.createEl('div', {
             cls: 'setting-item-description',
-            text: t.INCLUDED_FOLDERS_LABEL + (this.plugin.settings.startFolders.join(', ') || t.ALL_VAULT)
         });
-        // Applica un rientro a sinistra per allineare visivamente la lista alle descrizioni.
-        // Applies a left indent to visually align the list with the descriptions.
-        includedFoldersDiv.style.marginLeft = 'var(--setting-item-indent)';
+        // Applica un margine a sinistra e sotto l'elemento.
+        // Applies a margin to the left and bottom of the element.
+        Object.assign(includedFoldersDiv.style, {
+            marginLeft: '10px',
+            marginBottom: '10px'
+        });
+        // Definisce il colore e altri parametri per il testo dell'etichetta.
+        // Defines color and others parameters for label text.
+        const includedFoldersLabelColor = 'color: #41b06f; font-weight: bold; font-size: 1.25em;';
+        // Prepara la lista delle cartelle in formato Markdown. Se non ci sono cartelle, mostra "Tutto il Vault".
+        // Prepares the list of folders in Markdown format. If no folders are present, it shows "Entire Vault".
+        const foldersList = this.plugin.settings.startFolders.length > 0
+            ? "\n- " + this.plugin.settings.startFolders.join("\n- ")
+            : " " + t.ALL_VAULT;
+        // Combina l'etichetta con la lista e renderizza in Markdown.
+        // Combines the label with the list and renders in Markdown.
+        MarkdownRenderer.renderMarkdown(
+            `<span style="${includedFoldersLabelColor}">${t.INCLUDED_FOLDERS_LABEL}</span>` + foldersList,
+            includedFoldersDiv,
+            '',
+            // Passa l'istanza del plugin come contesto per il rendering.
+            // Passes the plugin instance as context for rendering.
+            this.plugin
+        );
         // Impostazione per selezionare le cartelle da escludere completamente dalla scansione.
         // Setting to select folders to be completely excluded from scanning.
-        new Setting(containerEl)
+        const exclusionFoldersSetting = new Setting(containerEl)
             // Imposta il nome dell'impostazione.
             // Sets the setting name.
             .setName(t.EXCLUSION_FOLDERS_NAME)
-            // Imposta la descrizione spiegando la priorità del filtro.
-            // Sets the description explaining the filter priority.
-            .setDesc(t.EXCLUSION_FOLDERS_DESC)
             // Aggiunge un pulsante per aprire la modale di selezione multipla.
             // Adds a button to open the multi-selection modal.
             .addButton(btn => btn
@@ -1076,24 +1142,55 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                         this.display();
                     }).open();
                 }));
+        // Utilizza il MarkdownRenderer per la descrizione complessa del blocco appena creato.
+        // Uses the MarkdownRenderer for the complex description of the newly created block.
+        MarkdownRenderer.renderMarkdown(
+            // Imposta la descrizione spiegando la priorità del filtro.
+            // Sets the description explaining the filter priority.
+            t.EXCLUSION_FOLDERS_DESC,
+            // Specifica l'elemento HTML di destinazione per la descrizione.
+            // Specifies the target HTML element for the description.
+            exclusionFoldersSetting.descEl,
+            '',
+            // Passa l'istanza del plugin come contesto per il rendering.
+            // Passes the plugin instance as context for rendering.
+            this.plugin
+        );
         // Crea un elemento per visualizzare l'elenco delle cartelle attualmente escluse.
         // Creates an element to display the list of currently excluded folders.
         const excludedFoldersDiv = containerEl.createEl('div', {
-            cls: 'setting-item-description',
-            text: t.EXCLUDED_FOLDERS_LABEL + (this.plugin.settings.exclusionFolders.join(', ') || t.NONE)
+            cls: 'setting-item-description'
         });
-        // Applica il margine di rientro standard di Obsidian.
-        // Applies the standard Obsidian indent margin.
-        excludedFoldersDiv.style.marginLeft = 'var(--setting-item-indent)';
+        // Applica un margine a sinistra e sotto l'elemento.
+        // Applies a margin to the left and bottom of the element.
+        Object.assign(excludedFoldersDiv.style, {
+            marginLeft: '10px',
+            marginBottom: '10px'
+        });
+        // Definisce il colore e altri parametri per il testo dell'etichetta.
+        // Defines color and others parameters for label text.
+        const excludedFoldersLabelColor = 'color: #c64c4c; font-weight: bold; font-size: 1.25em;';
+        // Prepara la lista delle cartelle in formato Markdown. Se non ci sono cartelle, mostra "Nessuna".
+        // Prepares the list of folders in Markdown format. If no folders are present, it shows "None".
+        const excludedFoldersList = this.plugin.settings.exclusionFolders.length > 0
+            ? "\n- " + this.plugin.settings.exclusionFolders.join("\n- ")
+            : "\n- " + t.NONE;
+        // Combina l'etichetta con la lista e renderizza in Markdown.
+        // Combines the label with the list and renders in Markdown.
+        MarkdownRenderer.renderMarkdown(
+            `<span style="${excludedFoldersLabelColor}">${t.EXCLUDED_FOLDERS_LABEL}</span>` + excludedFoldersList,
+            excludedFoldersDiv,
+            '',
+            // Passa l'istanza del plugin come contesto per il rendering.
+            // Passes the plugin instance as context for rendering.
+            this.plugin
+        );
         // Impostazione per definire pattern testuali di esclusione tramite caratteri jolly.
         // Setting to define textual exclusion patterns using wildcards.
-        new Setting(containerEl)
+        const exclusionPatternsSetting = new Setting(containerEl)
             // Imposta il nome dell'impostazione per i pattern.
             // Sets the name for the patterns setting.
             .setName(t.EXCLUSION_PATTERNS_NAME)
-            // Imposta la descrizione con esempi d'uso dei jolly.
-            // Sets the description with wildcard usage examples.
-            .setDesc(t.EXCLUSION_PATTERNS_DESC)
             // Aggiunge un campo di testo per l'inserimento dei pattern.
             // Adds a text field for entering patterns.
             .addText(text => text
@@ -1113,6 +1210,20 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                     // Performs asynchronous data saving.
                     await this.plugin.saveSettings();
                 }));
+        // Utilizza il MarkdownRenderer per la descrizione complessa del blocco appena creato.
+        // Uses the MarkdownRenderer for the complex description of the newly created block.
+        MarkdownRenderer.renderMarkdown(
+            // Imposta la descrizione con esempi d'uso dei jolly.
+            // Sets the description with wildcard usage examples.
+            t.EXCLUSION_PATTERNS_DESC,
+            // Specifica l'elemento HTML di destinazione per la descrizione.
+            // Specifies the target HTML element for the description.
+            exclusionPatternsSetting.descEl,
+            '',
+            // Passa l'istanza del plugin come contesto per il rendering.
+            // Passes the plugin instance as context for rendering.
+            this.plugin
+        );
         // Aggiunge una linea orizzontale di separazione visiva nell'interfaccia.
         // Adds a horizontal separator line to the interface.
         containerEl.createEl('hr');
@@ -1122,7 +1233,7 @@ class BuildVocabularySettingTab extends PluginSettingTab {
 
         // Crea un titolo di terzo livello per la sezione dei filtri linguistici del vocabolario.
         // Creates a level 3 heading for the vocabulary linguistic filters section.
-        containerEl.createEl('h3', { text: t.VOCABULARY_FILTERS });
+        containerEl.createEl('h2', { text: t.VOCABULARY_FILTERS });
         // Impostazione per definire la lunghezza minima delle parole da indicizzare.
         // Setting to define the minimum length of words to be indexed.
         new Setting(containerEl)
@@ -1263,6 +1374,65 @@ class BuildVocabularySettingTab extends PluginSettingTab {
                     // Permanently saves the updated settings to disk.
                     await this.plugin.saveSettings();
                 }));
+        // Aggiunge una linea orizzontale di separazione visiva nell'interfaccia.
+        // Adds a horizontal separator line to the interface.
+        containerEl.createEl('hr');
+
+        // --- GESTIONE ENTITÀ COMPOSTE ---
+        // --- COMPOUND ENTITIES MANAGEMENT ---
+
+        // Crea un titolo di secondo livello per la sezione delle parole composte.
+        // Creates a level 2 heading for the compound words section.
+        containerEl.createEl('h2', { text: t.COMPOUND_WORDS_SECTION });
+        // Crea una nuova impostazione per la gestione delle entità e la assegna a una costante.
+        // Creates a new setting for entity management and assigns it to a constant.
+        const compoundManagement = new Setting(containerEl)
+            // Imposta il nome dell'opzione.
+            // Sets the option name.
+            .setName(t.COMPOUND_WORDS_NAME)
+            // Aggiunge un pulsante all'impostazione.
+            // Adds a button to the setting.
+            .addButton(btn => btn
+                // Imposta il testo del pulsante.
+                // Sets the button text.
+                .setButtonText(t.EDIT_BTN)
+                // Gestisce l'apertura della modale di modifica al click.
+                // Handles opening the edit modal on click.
+                .onClick(() => {
+                    // Crea una nuova istanza della modale per gestire le entità composte.
+                    // Creates a new instance of the modal to manage compound entities.
+                    new CompoundEntitiesManagerModal(this.app, infoSubtitle, listaEntita, async (updatedList) => {
+                        // Aggiorna la lista locale in memoria con i nuovi dati ricevuti dalla modale.
+                        // Updates the local in-memory list with the new data received from the modal.
+                        listaEntita = updatedList;
+                        // Ricostruisce l'oggetto JSON completo mantenendo la riga di informazioni.
+                        // Reconstructs the complete JSON object keeping the info line.
+                        const dataToSave = {
+                            "_info": infoSubtitle,
+                            "PAROLE_COMPOSTE": listaEntita
+                        };
+                        // Scrive fisicamente il file JSON aggiornato nella cartella del plugin.
+                        // Physically writes the updated JSON file into the plugin folder.
+                        await this.app.vault.adapter.write(jsonPath, JSON.stringify(dataToSave, null, 4));
+                        // Invia una notifica di conferma all'utente.
+                        // Sends a confirmation notice to the user.
+                        new Notice(t.SAVE_BTN);
+                    }).open();
+                }));
+        // Utilizza il MarkdownRenderer per la descrizione complessa del blocco appena creato.
+        // Uses the MarkdownRenderer for the complex description of the newly created block.
+        MarkdownRenderer.renderMarkdown(
+            // Imposta la descrizione dell'impostazione.
+            // Sets the setting description.
+            t.COMPOUND_WORDS_DESC,
+            // Specifica l'elemento HTML di destinazione per la descrizione.
+            // Specifies the target HTML element for the description.
+            compoundManagement.descEl,
+            '',
+            // Passa l'istanza del plugin come contesto per il rendering.
+            // Passes the plugin instance as context for rendering.
+            this.plugin
+        );
     }
 }
 
@@ -1516,7 +1686,7 @@ class MultiFolderSelectModal extends Modal {
         const saveButton = buttonContainer.createEl('button', {
             // Imposta il testo del pulsante utilizzando la traduzione localizzata.
             // Sets the button text using the localized translation.
-            text: t.SAVE_BUTTON,
+            text: t.SAVE_BTN,
             cls: 'mod-cta'
         });
         // Gestisce l'evento di click sul pulsante di salvataggio.
@@ -1536,5 +1706,367 @@ class MultiFolderSelectModal extends Modal {
         // Svuota il contenuto della modale per liberare le risorse DOM.
         // Empties the modal content to release DOM resources.
         this.contentEl.empty();
+    }
+}
+
+// === MODALE PER LA GESTIONE DELLE ENTITÀ COMPOSTE ===
+// === MODAL FOR COMPOUND ENTITIES MANAGEMENT ===
+
+/**
+ * Modale che permette all'utente di aggiungere, modificare ed eliminare le entità composte.
+ * Modal that allows the user to add, edit, and delete compound entities.
+ */
+class CompoundEntitiesManagerModal extends Modal {
+    /**
+     * Costruttore della modale di gestione delle entità composte.
+     * Constructor for the compound entities management modal.
+     *
+     * @param {App} app
+     * L'istanza dell'applicazione Obsidian.
+     * The Obsidian App instance.
+     *
+     * @param {string} infoSubtitle
+     * Il sottotitolo descrittivo estratto dal file JSON (_info).
+     * The descriptive subtitle extracted from the JSON file (_info).
+     *
+     * @param {string[]} entitiesList
+     * L'elenco delle entità attualmente memorizzate.
+     * The list of currently stored entities.
+     *
+     * @param {function} onSaveCallback
+     * Funzione eseguita al salvataggio per aggiornare il file JSON e la UI.
+     * Function executed on save to update the JSON file and the UI.
+     */
+    constructor(app, infoSubtitle, entitiesList, onSaveCallback) {
+        // Chiama il costruttore della classe base Modal di Obsidian.
+        // Calls the constructor of the Obsidian base Modal class.
+        super(app);
+        // Memorizza il sottotitolo descrittivo.
+        // Stores the descriptive subtitle.
+        this.infoSubtitle = infoSubtitle;
+        // Memorizza una COPIA dell'array delle entità per modificarla localmente.
+        // Stores a COPY of the entities array for local modification.
+        this.entitiesList = [...entitiesList];
+        // Memorizza la funzione di richiamo per salvare le modifiche finali.
+        // Stores the callback function to save final changes.
+        this.onSaveCallback = onSaveCallback;
+    }
+    // Metodo chiamato all'apertura della modale per inizializzare l'interfaccia.
+    // Method called when the modal opens to initialize the interface.
+    onOpen() {
+        // Estrae l'elemento di contenuto della modale.
+        // Extracts the content element of the modal.
+        const { contentEl } = this;
+        // Imposta il titolo principale della modale.
+        // Sets the main title of the modal.
+        contentEl.createEl('h1', { text: t.COMPOUND_WORDS_NAME });
+        // Crea un contenitore per il sottotitolo informativo.
+        // Creates a container for the informative subtitle.
+        const subtitleEl = contentEl.createEl('div', { cls: 'setting-item-description' });
+        // Applica uno spazio sotto il sottotitolo.
+        // Applies a margin below the subtitle.
+        subtitleEl.style.marginBottom = '20px';
+        // Utilizza il MarkdownRenderer per visualizzare il sottotitolo (supporta formattazione).
+        // Uses the MarkdownRenderer to display the subtitle (supports formatting).
+        MarkdownRenderer.renderMarkdown(
+            // Il testo informativo estratto dalla chiave _info del JSON.
+            // The informative text extracted from the _info key of the JSON.
+            this.infoSubtitle,
+            // Elemento di destinazione per il rendering.
+            // Target element for rendering.
+            subtitleEl,
+            '',
+            // Passa l'istanza del plugin (disponibile tramite l'app o passata al costruttore).
+            // Passes the plugin instance (available via app or passed to the constructor).
+            this.app.plugins.plugins['obsidian-build-vocabulary']
+        );
+        // Crea un'area scorrevole per contenere la lista delle entità.
+        // Creates a scrollable area to contain the entities list.
+        this.listContainer = contentEl.createEl('div');
+        // Imposta l'altezza massima e lo scorrimento per la lista.
+        // Sets the maximum height and scrolling for the list.
+        Object.assign(this.listContainer.style, {
+            maxHeight: '400px',
+            overflowY: 'auto',
+            marginBottom: '20px',
+            paddingRight: '10px'
+        });
+        // Chiama il metodo per popolare la lista delle entità.
+        // Calls the method to populate the entities list.
+        this.renderEntitiesList();
+    }
+    // Metodo per renderizzare o aggiornare la lista delle entità all'interno della modale.
+    // Method to render or refresh the entities list inside the modal.
+    renderEntitiesList() {
+        // Svuota il contenitore della lista per prepararlo al nuovo rendering.
+        // Empties the list container to prepare it for new rendering.
+        this.listContainer.empty();
+        // --- 1. SEZIONE AGGIUNTA (IN ALTO) ---
+        // --- 1. ADDITION SECTION (TOP) ---
+        // Crea una nuova impostazione per l'inserimento di una nuova entità.
+        // Creates a new setting for inserting a new entity.
+        const addSection = new Setting(this.listContainer)
+            // Imposta l'etichetta della sezione di aggiunta.
+            // Sets the label for the addition section.
+            .setName(t.ADD_NEW_ENTITY_LABEL)
+            // Aggiunge un campo di testo per inserire la nuova stringa.
+            // Adds a text field to enter the new string.
+            .addText(text => {
+                // Imposta il testo segnaposto nel campo di input.
+                // Sets the placeholder text in the input field.
+                text.setPlaceholder(t.NEW_ENTITY_PLACEHOLDER);
+                // Memorizza il riferimento all'input per recuperarne il valore successivamente.
+                // Stores the input reference to retrieve its value later.
+                this.newEntityInput = text;
+                // Imposta la larghezza del campo di input al 100%.
+                // Sets the input field width to 100%.
+                text.inputEl.style.width = '100%';
+            })
+            // Aggiunge il pulsante per confermare l'inserimento.
+            // Adds the button to confirm the insertion.
+            .addButton(btn => btn
+                // Imposta il testo del pulsante recuperandolo dalle traduzioni.
+                // Sets the button text by retrieving it from translations.
+                .setButtonText(t.ADD_BTN)
+                // Applica lo stile "Call to Action" per evidenziare il pulsante.
+                // Applies the "Call to Action" style to highlight the button.
+                .setCta()
+                // Definisce l'azione da eseguire al clic sul pulsante.
+                // Defines the action to be performed when the button is clicked.
+                .onClick(() => {
+                    // Recupera il valore inserito rimuovendo gli spazi superflui.
+                    // Retrieves the entered value by removing unnecessary spaces.
+                    const newValue = this.newEntityInput.getValue().trim();
+                    // Se il valore non è vuoto, lo aggiunge all'array e rinfresca la lista.
+                    // If the value is not empty, adds it to the array and refreshes the list.
+                    if (newValue) {
+                        // Aggiunge la nuova entità alla lista in memoria.
+                        // Adds the new entity to the in-memory list.
+                        this.entitiesList.push(newValue);
+                        // Esegue nuovamente il rendering per mostrare la nuova voce.
+                        // Performs the rendering again to show the new entry.
+                        this.renderEntitiesList();
+                    }
+                }));
+        // --- 2. SEZIONE RICERCA (FILTRO IN TEMPO REALE) ---
+        // --- 2. SEARCH SECTION (REAL-TIME FILTER) ---
+        // Crea una nuova impostazione dedicata alla funzionalità di ricerca.
+        // Creates a new setting dedicated to the search functionality.
+        const searchSection = new Setting(this.listContainer)
+            // Aggiunge un campo di testo per filtrare le entità esistenti.
+            // Adds a text field to filter existing entities.
+            .addText(text => {
+                // Imposta il segnaposto con l'icona della lente e il testo tradotto.
+                // Sets the placeholder with the magnifying glass icon and translated text.
+                text.setPlaceholder("🔍 " + t.SEARCH_PLACEHOLDER)
+                    // Gestisce il cambiamento del testo inserito per filtrare la lista.
+                    // Handles the change of the entered text to filter the list.
+                    .onChange(value => {
+                        // Converte il testo in minuscolo e aggiorna solo l'area scorrevole.
+                        // Converts the text to lowercase and updates only the scrollable area.
+                        this.renderScrollArea(value.toLowerCase());
+                    });
+                // Estende il campo di ricerca per occupare tutta la larghezza disponibile.
+                // Extends the search field to occupy all available width.
+                text.inputEl.style.width = '100%';
+            });
+        // Aggiunge una linea orizzontale di separazione prima della lista.
+        // Adds a horizontal separator line before the list.
+        this.listContainer.createEl('hr');
+        // --- 3. AREA SCORREVOLE DELLA LISTA ---
+        // --- 3. SCROLLABLE LIST AREA ---
+        // Crea un elemento div che conterrà la lista dinamica filtrabile.
+        // Creates a div element that will contain the dynamic filterable list.
+        this.scrollArea = this.listContainer.createEl('div');
+        // Applica gli stili per limitare l'altezza e permettere lo scorrimento.
+        // Applies styles to limit height and allow scrolling.
+        Object.assign(this.scrollArea.style, {
+            // Imposta l'altezza massima dell'area della lista.
+            // Sets the maximum height of the list area.
+            maxHeight: '400px',
+            // Abilita lo scorrimento verticale automatico.
+            // Enables automatic vertical scrolling.
+            overflowY: 'auto',
+            // Aggiunge un rientro a destra per non coprire i pulsanti con la scrollbar.
+            // Adds a right indent so as not to cover buttons with the scrollbar.
+            paddingRight: '10px'
+        });
+        // Esegue il caricamento iniziale della lista senza alcun filtro.
+        // Performs the initial loading of the list without any filter.
+        this.renderScrollArea("");
+        // --- 3. SEZIONE PULSANTI FINALI (FOOTER) ---
+        // --- 3. FINAL BUTTONS SECTION (FOOTER) ---
+        // Crea un contenitore div per i pulsanti di azione finali.
+        // Creates a div container for the final action buttons.
+        const footerButtons = this.listContainer.createEl('div');
+        // Applica stili flessibili per allineare i pulsanti a destra con spaziatura.
+        // Applies flex styles to align buttons to the right with spacing.
+        Object.assign(footerButtons.style, {
+            // Utilizza il layout flexbox.
+            // Uses flexbox layout.
+            display: 'flex',
+            // Allinea il contenuto verso la fine (destra).
+            // Aligns content towards the end (right).
+            justifyContent: 'flex-end',
+            // Imposta uno spazio di 10 pixel tra i pulsanti.
+            // Sets a 10-pixel gap between buttons.
+            gap: '10px',
+            // Aggiunge un margine superiore per distanziarlo dalla lista.
+            // Adds a top margin to space it from the list.
+            marginTop: '20px'
+        });
+        // Aggiunge il pulsante per annullare le modifiche correnti.
+        // Adds the button to cancel current changes.
+        new Setting(footerButtons)
+            .addButton(btn => btn
+                // Imposta il testo del pulsante "Annulla".
+                // Sets the "Cancel" button text.
+                .setButtonText(t.CANCEL_BTN)
+                // Chiude la modale senza eseguire alcuna azione di salvataggio.
+                // Closes the modal without performing any save action.
+                .onClick(() => this.close()))
+            // Aggiunge il pulsante per confermare e salvare le modifiche.
+            // Adds the button to confirm and save changes.
+            .addButton(btn => btn
+                // Imposta il testo del pulsante "Salva".
+                // Sets the "Save" button text.
+                .setButtonText(t.SAVE_BTN)
+                // Applica lo stile CTA per evidenziare l'azione di salvataggio.
+                // Applies CTA style to highlight the save action.
+                .setCta()
+                // Esegue la callback di salvataggio e chiude la modale.
+                // Executes the save callback and closes the modal.
+                .onClick(() => {
+                    // Passa l'array aggiornato alla funzione di richiamo definita nel main.js.
+                    // Passes the updated array to the callback function defined in main.js.
+                    this.onSaveCallback(this.entitiesList);
+                    // Chiude definitivamente la finestra modale.
+                    // Permanently closes the modal window.
+                    this.close();
+                }));
+    } // <--- Fine definitiva del metodo renderEntitiesList
+
+    /**
+     * Metodo dedicato al rendering filtrato della lista delle entità.
+     * Method dedicated to the filtered rendering of the entities list.
+     * @param {string} query - Il testo inserito nel campo di ricerca.
+     */
+    renderScrollArea(query) {
+        // Svuota l'area scorrevole prima di ogni nuovo filtraggio.
+        // Empties the scrollable area before each new filtering.
+        this.scrollArea.empty();
+        // Filtra l'array originale verificando se la query è inclusa nel testo.
+        // Filters the original array by checking if the query is included in the text.
+        const filteredList = this.entitiesList.filter(item =>
+            item.toLowerCase().includes(query)
+        );
+        // Verifica se la ricerca non ha prodotto alcun risultato.
+        // Checks if the search produced no results.
+        if (filteredList.length === 0) {
+            // Crea un paragrafo per comunicare l'assenza di risultati.
+            // Creates a paragraph to communicate the absence of results.
+            const noResults = this.scrollArea.createEl('p', {
+                text: t.NO_ENTITIES_FOUND
+            });
+            // Imposta il colore del testo in rosso (colore di errore di Obsidian).
+            // Sets the text color to red (Obsidian error color).
+            noResults.style.color = 'var(--text-error)';
+            // Interrompe l'esecuzione del metodo.
+            // Stops the execution of the method.
+            return;
+        }
+        // Ciclo attraverso gli elementi filtrati per creare le righe della lista.
+        // Loops through the filtered items to create the list rows.
+        filteredList.forEach((entity) => {
+            // Recupera l'indice originale nell'array non filtrato per gestire correttamente le azioni.
+            // Retrieves the original index in the unfiltered array to handle actions correctly.
+            const originalIndex = this.entitiesList.indexOf(entity);
+            // Crea una riga di impostazione per ogni entità trovata.
+            // Creates a setting row for each entity found.
+            new Setting(this.scrollArea)
+                // Imposta il nome della riga con il testo dell'entità.
+                // Sets the row name with the entity text.
+                .setName(entity)
+                // Aggiunge il pulsante per la modifica.
+                // Adds the edit button.
+                .addButton(btn => btn
+                    .setButtonText(t.EDIT_BTN)
+                    .onClick(() => this.editEntity(originalIndex)))
+                // Aggiunge il pulsante per l'eliminazione.
+                // Adds the delete button.
+                .addButton(btn => btn
+                    .setButtonText(t.DELETE_BTN)
+                    .setWarning()
+                    .onClick(() => {
+                        // Rimuove l'elemento dall'array principale usando l'indice corretto.
+                        // Removes the item from the main array using the correct index.
+                        this.entitiesList.splice(originalIndex, 1);
+                        // Riesegue il rendering totale per aggiornare i conteggi e la vista.
+                        // Re-performs total rendering to update counts and view.
+                        this.renderEntitiesList();
+                    }));
+        });
+    }
+    // Metodo per aprire una micro-modale di modifica per una specifica entità.
+    // Method to open a micro-modal to edit a specific entity.
+    editEntity(index) {
+        // Crea e apre la modale di modifica passandogli il valore attuale e la funzione di salvataggio.
+        // Creates and opens the edit modal passing the current value and the save function.
+        new EditEntityModal(this.app, this.entitiesList[index], (newValue) => {
+            // Aggiorna l'entità nell'array locale.
+            // Updates the entity in the local array.
+            this.entitiesList[index] = newValue;
+            // Ricarica la lista per mostrare la modifica appena effettuata.
+            // Refreshes the list to show the modification just made.
+            this.renderEntitiesList();
+        }).open();
+    }
+}
+/**
+ * Micro-modale per la modifica rapida di una singola entità.
+ * Micro-modal for quick editing of a single entity.
+ */
+class EditEntityModal extends Modal {
+    /**
+     * Costruttore della micro-modale di modifica.
+     * Constructor for the edit micro-modal.
+     * @param {App} app - Istanza di Obsidian.
+     * @param {string} currentVal - Valore attuale da modificare.
+     * @param {function} onSave - Callback per restituire il nuovo valore.
+     */
+    constructor(app, currentVal, onSave) {
+        // Chiama il costruttore della classe base Modal.
+        // Calls the base Modal class constructor.
+        super(app);
+        this.currentVal = currentVal;
+        this.onSave = onSave;
+    }
+    // Metodo chiamato all'apertura della modale.
+    // Method called when the modal opens.
+    onOpen() {
+        const { contentEl } = this;
+        // Imposta il titolo della micro-modale.
+        // Sets the micro-modal title.
+        contentEl.createEl('h2', { text: t.EDIT_ENTITY_TITLE });
+        // Crea il campo di testo pre-popolato.
+        // Creates the pre-populated text field.
+        new Setting(contentEl)
+            .addText(text => text
+                .setValue(this.currentVal)
+                .onChange(value => this.currentVal = value));
+        // Aggiunge il pulsante di conferma.
+        // Adds the confirmation button.
+        new Setting(contentEl)
+            .addButton(btn => btn
+                .setButtonText(t.SAVE_BTN)
+                .setCta()
+                .onClick(() => {
+                    if (this.currentVal.trim()) {
+                        // Invia il valore modificato alla modale principale.
+                        // Sends the modified value to the main modal.
+                        this.onSave(this.currentVal.trim());
+                        this.close();
+                    }
+                }));
     }
 }
