@@ -58,25 +58,25 @@ const en = {
     SETTINGS_TITLE: "Build Vocabulary Settings",
     BASIC_SETTINGS: "Basic Settings",
     RIBBON_ICON_NAME: "Add icon to the sidebar",
-    RIBBON_ICON_DESC: "If active, shows the plugin icon in the sidebar.<br>You must disable and re-enable the plugin for changes to take effect.<br>If the icon is not used, run the vocabulary construction from the command palette (CTRL + P or CMD + P) by searching for '<strong>Build vocabulary</strong>'.",
+    RIBBON_ICON_DESC: "- If active, shows the plugin icon in the sidebar.\n- You must disable and re-enable the plugin for changes to take effect.\n- If the icon is not used, run the vocabulary construction from the command palette (CTRL + P or CMD + P) by searching for “**Build vocabulary**”.",
     FILES_FOLDERS_FILTERS: "File and Folder Filters",
     OUTPUT_FOLDER_NAME: "Vocabulary output folder",
     OUTPUT_FOLDER_DESC: "The folder where vocabulary files (.md) and databases (.json) will be saved.",
     ROOT_VAULT: "(Vault Root)",
     CHOOSE_BUTTON: "Choose",
     START_FOLDERS_NAME: "Folders to include (Start Folders)",
-    START_FOLDERS_DESC: "Select the folders to include in the scan. If left empty, the entire vault will be scanned (respecting exclusions).",
+    START_FOLDERS_DESC: "Select the folders to include in the scan.\nIf left empty, the entire vault will be scanned (respecting exclusions).",
     CHOOSE_FOLDERS_BTN: "Choose folders",
     MODAL_TITLE_INCLUDE: "Select folders to INCLUDE",
     INCLUDED_FOLDERS_LABEL: "Included folders: ",
     ALL_VAULT: "Entire vault",
     EXCLUSION_FOLDERS_NAME: "Folders to exclude",
-    EXCLUSION_FOLDERS_DESC: "All files and subfolders within these folders will be ignored.<br>This filter takes priority over '<strong>Folders to include</strong>'.",
+    EXCLUSION_FOLDERS_DESC: "All files and subfolders within these folders will be ignored.\nThis filter takes priority over “**Folders to include**”.",
     MODAL_TITLE_EXCLUDE: "Select folders to EXCLUDE",
     EXCLUDED_FOLDERS_LABEL: "Excluded folders: ",
     NONE: "None",
     EXCLUSION_PATTERNS_NAME: "File/Folder exclusion patterns",
-    EXCLUSION_PATTERNS_DESC: "Comma-separated list of patterns.<br>Files or folders matching any of these patterns will be ignored.<br>Use * as a wildcard (e.g., _*, *.template.md, Diary*).",
+    EXCLUSION_PATTERNS_DESC: "Comma-separated list of patterns.\nFiles or folders matching any of these patterns will be ignored.\nUse `*` as a wildcard (e.g., `_*`, `*.template.md`, `Diary*`).",
     VOCABULARY_FILTERS: "Vocabulary Filters",
     MIN_WORD_LENGTH_NAME: "Minimum word length",
     MIN_WORD_LENGTH_DESC: "Words shorter than this value will be ignored.",
@@ -90,7 +90,24 @@ const en = {
     INC_ART_PREP_DESC: "If disabled, excludes words like 'of the', 'del', 'nella', 'sugli', etc.",
     SELECT_OUTPUT_TITLE: "Select output folder",
     SELECT_FOLDER_BTN: "Select",
-    SAVE_BUTTON: "Save"
+    // --- Compound Entities Management ---
+    COMPOUND_WORDS_SECTION: "Compound words section",
+    COMPOUND_WORDS_NAME: "Compound entities management",
+    COMPOUND_WORDS_DESC: "Add, edit or delete compound entities (e.g., 'House of Mary')\nto manage them as a single word in the vocabulary.",
+    // --- Edit Micro-Modal ---
+    EDIT_ENTITY_TITLE: "Edit entity",
+    EDIT_ENTITY_PROMPT: "Edit the compound entity value:",
+    ADD_NEW_ENTITY_LABEL: "Add new",
+    // --- Main Management Modal ---
+    NEW_ENTITY_PLACEHOLDER: "Enter new entity...",
+    SEARCH_PLACEHOLDER: "Search entities in archive...",
+    NO_ENTITIES_FOUND: "No elements found in the compound entities database",
+    // --- Buttons ---
+    ADD_BTN: "Add",
+    EDIT_BTN: "Edit",
+    SAVE_BTN: "Save changes",
+    DELETE_BTN: "Delete",
+    CANCEL_BTN: "Cancel"
 };
 
 // LANG = it (ITALIANO)
@@ -127,25 +144,25 @@ const it = {
     SETTINGS_TITLE: "Impostazioni Build Vocabulary",
     BASIC_SETTINGS: "Impostazioni di base",
     RIBBON_ICON_NAME: "Aggiungi l’icona alla barra laterale",
-    RIBBON_ICON_DESC: "Se attivo, mostra l’icona del plugin nella barra laterale.<br>È necessario disattivare e riattivare il plugin per rendere effettiva la modifica.<br>Se l’icona non viene utilizzata, per eseguire la costruzione del vocabolario eseguire il Plugin dal riquadro comandi (CTRL + P o CMD + P) cercandolo con “<strong>Costruisci vocabolario</strong>”.",
+    RIBBON_ICON_DESC: "- Se attivo, mostra l’icona del plugin nella barra laterale.\n- È necessario disattivare e riattivare il plugin per rendere effettiva la modifica.\n- Se l’icona non viene utilizzata, per eseguire la costruzione del vocabolario eseguire il Plugin dal riquadro comandi (CTRL + P o CMD + P) cercandolo con “**Costruisci vocabolario**”.",
     FILES_FOLDERS_FILTERS: "Filtri File e Cartelle",
     OUTPUT_FOLDER_NAME: "Cartella di output del vocabolario",
     OUTPUT_FOLDER_DESC: "La cartella dove verranno salvati i file del vocabolario (.md) e i database (.json).",
     ROOT_VAULT: "(Radice del Vault)",
     CHOOSE_BUTTON: "Scegli",
     START_FOLDERS_NAME: "Cartelle da includere (Start Folders)",
-    START_FOLDERS_DESC: "Seleziona le cartelle da includere nella scansione. Se lasciato vuoto, verrà scansionato l’intero vault (rispettando le esclusioni).",
+    START_FOLDERS_DESC: "Seleziona le cartelle da includere nella scansione.\nSe lasciato vuoto, verrà scansionato l’intero vault (rispettando le esclusioni).",
     CHOOSE_FOLDERS_BTN: "Scegli cartelle",
     MODAL_TITLE_INCLUDE: "Seleziona cartelle da INCLUDERE",
     INCLUDED_FOLDERS_LABEL: "Cartelle incluse: ",
     ALL_VAULT: "Tutto il vault",
     EXCLUSION_FOLDERS_NAME: "Cartelle da escludere",
-    EXCLUSION_FOLDERS_DESC: "Tutti i file e le sottocartelle all'interno di queste cartelle verranno ignorati.<br>Questo filtro ha la priorità su “<strong>Cartelle da includere</strong>”.",
+    EXCLUSION_FOLDERS_DESC: "Tutti i file e le sottocartelle all'interno di queste cartelle verranno ignorati.\nQuesto filtro ha la priorità su “**Cartelle da includere**”.",
     MODAL_TITLE_EXCLUDE: "Seleziona cartelle da ESCLUDERE",
     EXCLUDED_FOLDERS_LABEL: "Cartelle escluse: ",
     NONE: "Nessuna",
     EXCLUSION_PATTERNS_NAME: "Pattern di esclusione file/cartelle",
-    EXCLUSION_PATTERNS_DESC: "Lista di pattern separati da virgola.<br>I file o le cartelle che corrispondono a uno di questi pattern verranno ignorati.<br>Usa * come jolly (es. _*, *.template.md, Diario*).",
+    EXCLUSION_PATTERNS_DESC: "Lista di pattern separati da virgola.\nI file o le cartelle che corrispondono a uno di questi pattern verranno ignorati.\nUsa `*` come jolly (es. `_*`, `*.template.md`, `Diario*`).",
     VOCABULARY_FILTERS: "Filtri del Vocabolario",
     MIN_WORD_LENGTH_NAME: "Lunghezza minima della parola",
     MIN_WORD_LENGTH_DESC: "Le parole più corte di questo valore verranno ignorate.",
@@ -159,7 +176,24 @@ const it = {
     INC_ART_PREP_DESC: "Se disattivato, esclude parole come 'del', 'nella', 'sugli', ecc.",
     SELECT_OUTPUT_TITLE: "Seleziona la cartella di output",
     SELECT_FOLDER_BTN: "Seleziona",
-    SAVE_BUTTON: "Salva"
+    // --- Compound Entities Management ---
+    COMPOUND_WORDS_SECTION: "Sezione parole composte",
+    COMPOUND_WORDS_NAME: "Gestione entità composte",
+    COMPOUND_WORDS_DESC: "Aggiunge, modifica o elimina entità composte (es. 'Casa di Maria')\nper gestirle come una singola parola nel vocabolario.",
+    // --- Edit Micro-Modal ---
+    EDIT_ENTITY_TITLE: "Modifica entità",
+    EDIT_ENTITY_PROMPT: "Modifica il valore dell'entità composta:",
+    ADD_NEW_ENTITY_LABEL: "Aggiungi nuova",
+    // --- Main Management Modal ---
+    NEW_ENTITY_PLACEHOLDER: "Inserisci nuova entità...",
+    SEARCH_PLACEHOLDER: "Cerca entità nell'archivio...",
+    NO_ENTITIES_FOUND: "Nessun elemento trovato nel database delle entità composte",
+    // --- Bottoni ---
+    ADD_BTN: "Aggiungi",
+    EDIT_BTN: "Modifica",
+    SAVE_BTN: "Salva modifiche",
+    DELETE_BTN: "Elimina",
+    CANCEL_BTN: "Annulla"
 };
 
 // Aggiungere ulteriori lingue (traduzioni) qui sotto seguendo lo stesso formato.
@@ -181,7 +215,7 @@ const it = {
  * The object containing all strings in the selected language.
  * 
  */
-export function getTranslations(lang) {
+function getTranslations(lang) {
     // Inizia il controllo della lingua tramite lo switch.
     // Starts the language check using a switch statement.
     switch (lang) {
@@ -205,3 +239,5 @@ export function getTranslations(lang) {
             return en;
     }
 }
+
+module.exports = { getTranslations };
