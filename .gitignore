@@ -1,0 +1,86 @@
+### --- REGOLE GENERALI --- ###
+# File temporanei Excel
+~$*.xls*
+
+# VS Code e IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+.ionide/
+*.vsix
+.idea/
+
+### --- GESTIONE VAULT (ALTRI) --- ###
+/habit-tracker-example/
+/Ideaverse Lite 1.5/
+/Import_GitHub/
+/LYT-Kit/
+/scriptures/
+/Vault_vuoto1/
+/Zettelkasten/
+
+### --- REGOLE GLOBALI DI ESCLUSIONE --- ###
+# Ignora questi file ovunque, tranne dove specificato sotto
+**/*.7z
+**/*.pdf
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+**/*.txt
+
+### --- ECCEZIONI CHIESA (I "MAI IGNORARE") --- ###
+
+# 1. Permetti i PDF nelle cartelle "Documenti" dentro Chiesa
+!/Chiesa/Documenti*/**/*.pdf
+!/Chiesa/Documenti*/*.pdf
+
+# 2. Permetti le immagini nella cartella Allegati
+!/Chiesa/**/_02-Allegati/**/*.jpg
+!/Chiesa/**/_02-Allegati/**/*.jpeg
+!/Chiesa/**/_02-Allegati/**/*.png
+!/Chiesa/**/_02-Allegati/**/*.gif
+
+### --- ESCLUSIONI SPECIFICHE CARTELLA CHIESA --- ###
+/Chiesa/_00-OCR/
+/Chiesa/_01-tmpBibleFolderDL/
+/Chiesa/_03-PDF/
+/Chiesa/_04-Web pages/
+/Chiesa/_04-YouTube-Playlist/
+/Chiesa/_05-tmpBibbia/
+/Chiesa/_06-Tenda/
+/Chiesa/_07-Errori sito Vaticano/
+/Chiesa/_08-tmpPythonNV/
+/Chiesa/_09-LLMs/
+/Chiesa/_Liste-File/
+/Chiesa/Vecchi file NON su GitHub/
+
+# File temporanei specifici
+/Chiesa/**/_*
+/Chiesa/Documenti pontifici/_tmpHTML.html
+/Chiesa/Documenti pontifici/_tmpAI.md
+/Chiesa/Documenti pontifici/_Prompt IA per estrazione Documenti pontifici.md
+
+### --- PLUGIN E SNIPPETS OBSIDIAN --- ###
+# Ignora il contenuto di .obsidian per evitare conflitti di cache/workspace
+/Chiesa/.obsidian/*
+
+# Sblocca cartelle plugin e snippet
+!/Chiesa/.obsidian/plugins/
+!/Chiesa/.obsidian/snippets/
+
+# Sblocca file CSS specifici
+!/Chiesa/.obsidian/snippets/background.css
+!/Chiesa/.obsidian/snippets/icone-ed-immagini.css
+
+# Ignora tutti i plugin...
+/Chiesa/.obsidian/plugins/*
+
+# ...ma sblocca i TUOI plugin (cartelle intere)
+!/Chiesa/.obsidian/plugins/obsidian-build-vocabulary/
+!/Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/
+!/Chiesa/.obsidian/plugins/vocabolario-indexer/
