@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 97
 num-doc: 9
 autore-doc: "[[Papi/Scheda 251° papa - Pio VII|Pio VII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Quum memoranda
 giorno-doc: 10
 mese-doc: 6
