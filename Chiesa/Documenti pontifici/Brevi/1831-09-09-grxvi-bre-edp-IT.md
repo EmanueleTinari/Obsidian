@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 135
 num-doc: 4
 autore-doc: "[[Papi/Scheda 254° papa - Gregorio XVI|Gregorio XVI]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Ex debito pastoralis
 giorno-doc: 9
 mese-doc: 9
