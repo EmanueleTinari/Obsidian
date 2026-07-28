@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 122
 num-doc: 16
 autore-doc: "[[Papi/Scheda 252° papa - Leone XII|Leone XII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Fructus Quos
 giorno-doc: 2
 mese-doc: 10
