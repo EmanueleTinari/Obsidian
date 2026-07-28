@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 67
 num-doc: 5
 autore-doc: "[[Papi/Scheda 250° papa - Pio VI|Pio VI]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Quod aliquantum
 giorno-doc: 10
 mese-doc: 3
