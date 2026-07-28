@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 205
 num-doc: 8
 autore-doc: "[[Papi/Scheda 255° papa - Pio IX|Pio IX]]"
-tipo-doc: "[[Proclami|Proclama]]"
+tipo-doc: "[[Documenti pontifici/Proclami/_Indice Proclami#Indice di tutti i Proclami pontifici|Proclama]]"
 titolo-doc: Da questa pacifica
 giorno-doc: 1
 mese-doc: 1
