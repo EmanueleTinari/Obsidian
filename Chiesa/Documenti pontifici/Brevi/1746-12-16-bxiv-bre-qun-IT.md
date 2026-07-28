@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 21
 num-doc: 21
 autore-doc: "[[Papi/Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Quemadmodum nihil
 giorno-doc: 16
 mese-doc: 12
