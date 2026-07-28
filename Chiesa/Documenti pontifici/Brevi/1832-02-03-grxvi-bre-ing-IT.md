@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 136
 num-doc: 5
 autore-doc: "[[Papi/Scheda 254° papa - Gregorio XVI|Gregorio XVI]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Inter gravissimas
 giorno-doc: 3
 mese-doc: 2
