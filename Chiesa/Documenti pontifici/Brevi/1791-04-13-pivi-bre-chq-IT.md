@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 68
 num-doc: 6
 autore-doc: "[[Papi/Scheda 250° papa - Pio VI|Pio VI]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Charitas quae
 giorno-doc: 13
 mese-doc: 4
