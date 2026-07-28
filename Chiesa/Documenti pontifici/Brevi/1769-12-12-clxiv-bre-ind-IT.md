@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 58
 num-doc: 2
 autore-doc: "[[Papi/Scheda 249° papa - Clemente XIV|Clemente XIV]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Inscrutabili divinae
 giorno-doc: 12
 mese-doc: 12
