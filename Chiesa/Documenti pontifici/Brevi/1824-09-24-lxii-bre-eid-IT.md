@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 110
 num-doc: 4
 autore-doc: "[[Papi/Scheda 252° papa - Leone XII|Leone XII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Etsi Iam Diu
 giorno-doc: 24
 mese-doc: 9
