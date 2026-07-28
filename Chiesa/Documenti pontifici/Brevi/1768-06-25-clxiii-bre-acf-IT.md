@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 56
 num-doc: 13
 autore-doc: "[[Papi/Scheda 248° papa - Clemente XIII|Clemente XIII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Accedamus cum fiducia
 giorno-doc: 25
 mese-doc: 6
