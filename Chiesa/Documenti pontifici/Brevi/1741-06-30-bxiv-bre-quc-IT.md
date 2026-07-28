@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 4
 num-doc: 4
 autore-doc: "[[Papi/Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Quanta cura
 giorno-doc: 30
 mese-doc: 6
