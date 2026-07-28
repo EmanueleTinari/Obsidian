@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 121
 num-doc: 15
 autore-doc: "[[Papi/Scheda 252° papa - Leone XII|Leone XII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Inter Multiplices
 giorno-doc: 20
 mese-doc: 3
