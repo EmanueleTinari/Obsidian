@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 16
 num-doc: 16
 autore-doc: "[[Papi/Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Cum multorum Charitate
 giorno-doc: 18
 mese-doc: 2
