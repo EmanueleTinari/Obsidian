@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 12
 num-doc: 12
 autore-doc: "[[Papi/Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Nimiam licentiam
 giorno-doc: 18
 mese-doc: 5
