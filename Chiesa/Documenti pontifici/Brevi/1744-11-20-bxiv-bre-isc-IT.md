@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 15
 num-doc: 15
 autore-doc: "[[Papi/Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: In suprema Catholicae
 giorno-doc: 20
 mese-doc: 11
