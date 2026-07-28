@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 81
 num-doc: 19
 autore-doc: "[[Papi/Scheda 250° papa - Pio VI|Pio VI]]"
-tipo-doc: "[[Dichiarazioni|Dichiarazione]]"
+tipo-doc: "[[Documenti pontifici/Dichiarazioni/_Indice Dichiarazioni#Indice di tutte le Dichiarazioni pontificie|Dichiarazione]]"
 titolo-doc: Perpensis circumstantiis
 giorno-doc: 10
 mese-doc: 12
