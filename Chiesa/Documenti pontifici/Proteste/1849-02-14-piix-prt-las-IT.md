@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 207
 num-doc: 10
 autore-doc: "[[Papi/Scheda 255° papa - Pio IX|Pio IX]]"
-tipo-doc: "[[Proteste|Protesta]]"
+tipo-doc: "[[Documenti pontifici/Proteste/_Indice Proteste#Indice di tutte le Proteste pontificie|Protesta]]"
 titolo-doc: La serie
 giorno-doc: 14
 mese-doc: 2
