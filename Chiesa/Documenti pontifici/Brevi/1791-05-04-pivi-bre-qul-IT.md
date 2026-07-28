@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 71
 num-doc: 9
 autore-doc: "[[Papi/Scheda 250° papa - Pio VI|Pio VI]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Quo luctu
 giorno-doc: 4
 mese-doc: 5
