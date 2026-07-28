@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 66
 num-doc: 4
 autore-doc: "[[Papi/Scheda 250° papa - Pio VI|Pio VI]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Super soliditate Petrae
 giorno-doc: 28
 mese-doc: 11
