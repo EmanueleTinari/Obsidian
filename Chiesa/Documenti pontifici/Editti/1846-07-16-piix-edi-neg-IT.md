@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 198
 num-doc: 1
 autore-doc: "[[Papi/Scheda 255° papa - Pio IX|Pio IX]]"
-tipo-doc: "[[Editti|Editto]]"
+tipo-doc: "[[Documenti pontifici/Editti/_Indice Editti#Indice di tutti gli Editti pontifici|Editto]]"
 titolo-doc: Nei giorni
 giorno-doc: 16
 mese-doc: 7
