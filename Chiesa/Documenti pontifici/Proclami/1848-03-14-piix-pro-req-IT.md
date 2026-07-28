@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 203
 num-doc: 6
 autore-doc: "[[Papi/Scheda 255° papa - Pio IX|Pio IX]]"
-tipo-doc: "[[Proclami|Proclama]]"
+tipo-doc: "[[Documenti pontifici/Proclami/_Indice Proclami#Indice di tutti i Proclami pontifici|Proclama]]"
 titolo-doc: Romani, e quanti
 giorno-doc: 14
 mese-doc: 3
