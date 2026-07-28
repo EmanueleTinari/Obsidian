@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 119
 num-doc: 13
 autore-doc: "[[Papi/Scheda 252° papa - Leone XII|Leone XII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Ecclesiarum omnium
 giorno-doc: 12
 mese-doc: 12
