@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 60
 num-doc: 4
 autore-doc: "[[Papi/Scheda 249° papa - Clemente XIV|Clemente XIV]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Magna atque
 giorno-doc: 16
 mese-doc: 3
