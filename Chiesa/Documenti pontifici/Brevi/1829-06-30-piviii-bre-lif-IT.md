@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 128
 num-doc: 4
 autore-doc: "[[Papi/Scheda 253° papa - Pio VIII|Pio VIII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Literae fraternitatis
 giorno-doc: 30
 mese-doc: 6
