@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 108
 num-doc: 2
 autore-doc: "[[Papi/Scheda 252° papa - Leone XII|Leone XII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Cum multa
 giorno-doc: 17
 mese-doc: 5
