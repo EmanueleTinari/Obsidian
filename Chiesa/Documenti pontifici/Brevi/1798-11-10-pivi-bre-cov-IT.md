@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 86
 num-doc: 24
 autore-doc: "[[Papi/Scheda 250° papa - Pio VI|Pio VI]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Constantiam vestram
 giorno-doc: 10
 mese-doc: 11
