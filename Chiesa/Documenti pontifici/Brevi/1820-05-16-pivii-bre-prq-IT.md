@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 105
 num-doc: 17
 autore-doc: "[[Papi/Scheda 251° papa - Pio VII|Pio VII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Praeclara quam
 giorno-doc: 16
 mese-doc: 5
