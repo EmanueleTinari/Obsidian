@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 94
 num-doc: 6
 autore-doc: "[[Papi/Scheda 251° papa - Pio VII|Pio VII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Tam multa
 giorno-doc: 15
 mese-doc: 8
