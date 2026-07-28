@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 40
 num-doc: 40
 autore-doc: "[[Papi/Scheda 247° papa - Benedetto XIV|Benedetto XIV]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Quam ex sublimi
 giorno-doc: 8
 mese-doc: 08
