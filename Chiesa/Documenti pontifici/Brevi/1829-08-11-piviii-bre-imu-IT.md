@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 130
 num-doc: 6
 autore-doc: "[[Papi/Scheda 253° papa - Pio VIII|Pio VIII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Inter multiplices
 giorno-doc: 11
 mese-doc: 8
