@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 129
 num-doc: 5
 autore-doc: "[[Papi/Scheda 253° papa - Pio VIII|Pio VIII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Coelestis agricola
 giorno-doc: 7
 mese-doc: 7
