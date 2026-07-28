@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 104
 num-doc: 16
 autore-doc: "[[Papi/Scheda 251° papa - Pio VII|Pio VII]]"
-tipo-doc: "[[Brevi|Breve]]"
+tipo-doc: "[[Documenti pontifici/Brevi/_Indice Brevi#Indice di tutti i Brevi pontifici|Breve]]"
 titolo-doc: Dominici gregis
 giorno-doc: 25
 mese-doc: 8
