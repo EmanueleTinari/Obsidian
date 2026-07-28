@@ -3,7 +3,7 @@ cssclasses: docVat
 progr-doc: 202
 num-doc: 5
 autore-doc: "[[Papi/Scheda 255° papa - Pio IX|Pio IX]]"
-tipo-doc: "[[Decreti|Decreto]]"
+tipo-doc: "[[Documenti pontifici/Decreti/_Indice Decreti#Indice di tutti i Decreti pontifici|Decreto]]"
 titolo-doc: Nelle istituzioni
 giorno-doc: 14
 mese-doc: 3
