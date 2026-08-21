@@ -22,6 +22,7 @@
 /scriptures/
 /Vault_vuoto1/
 /Zettelkasten/
+/Vecchi file NON su GitHub/
 
 ### --- REGOLE GLOBALI DI ESCLUSIONE --- ###
 # Ignora questi file ovunque, tranne dove specificato sotto
@@ -57,7 +58,6 @@
 /Chiesa/_08-tmpPythonNV/
 /Chiesa/_09-LLMs/
 /Chiesa/_Liste-File/
-/Chiesa/Vecchi file NON su GitHub/
 
 # File temporanei specifici
 /Chiesa/**/_*
