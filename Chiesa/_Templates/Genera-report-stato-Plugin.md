@@ -73,6 +73,8 @@ KEY FEATURES:
 REQUIREMENTS:
 - Obsidian MD
 - Community Plugin: Templater (with User JavaScript execution enabled)
+
+
 ===============================================================================
 */
 
