@@ -1,5 +1,6 @@
 ---
 cssclasses: interfaccia
+licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 nomeFile: "Homepage.md"
 creato: 2026/03/16 13:59:55
 modificato: 2026/07/18 08:39:09
