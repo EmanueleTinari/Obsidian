@@ -1,6 +1,6 @@
 ---
 licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-nomeFile: 2026-08-21_15-57-56-Report-stato-Plugin.md
+nomeFile: "2026-08-21_15-57-56-Report-stato-Plugin.md"
 creato: 2026/08/21 15:57:56
 modificato: 2026/08/21 16:00:35
 ---
