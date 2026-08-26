@@ -394,12 +394,103 @@
 **	==========================================
 */
 
-.indice .mod-header.mod-ui {
-    display: none;
+.indice .mod-header.mod-ui,
+.indice .mod-footer.mod-ui {
+    height: 0;
+    margin: 0;
+    min-height: 0;
+	opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    pointer-events: none;
+    visibility: hidden;
 }
 
-.indice .mod-footer.mod-ui {
-    display: none;
+/* Sblocca le variabili di larghezza per la nota con cssclasses: indice */
+.indice {
+	--file-line-width: 100% !important;
+	--line-width: 100% !important;
+	--line-width-wide: 100% !important;
+}
+
+/* Modalità Lettura (Reading View) */
+.indice .markdown-preview-sizer {
+	max-width: 100% !important;
+	width: 100% !important;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+
+/* Modalità Modifica / Live Preview (Editing View) */
+.indice .cm-sizer,
+.indice .markdown-rendered {
+	max-width: 100% !important;
+	width: 100% !important;
+}
+
+/* Forza le tabelle di Dataview a prendersi tutto lo spazio */
+.indice .block-language-dataviewjs,
+.indice table.dataview {
+	width: 100% !important;
+	max-width: 100% !important;
+}
+
+/* 1. Riduzione font per TUTTE le celle e le intestazioni */
+.indice table.dataview th,
+.indice table.dataview td {
+	font-size: 0.85rem !important; /* Regola la dimensione a piacere */
+	padding: 4px 8px !important;    /* Riduce lo spazio interno per compattare le righe */
+}
+
+/* Larghezza per la sola colonna NUM-DOC PROGRESSIVO (1ª colonna) */
+.indice table.dataview th:nth-child(1),
+.indice table.dataview td:nth-child(1) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce al num-doc progressivo di andare a capo */
+}
+
+/* Larghezza per la sola colonna NUM-DOC x AUTORE (2ª colonna) */
+.indice table.dataview th:nth-child(2),
+.indice table.dataview td:nth-child(2) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce al num-doc x Autore di andare a capo */
+}
+
+/* Larghezza per la sola colonna AUTORE (3ª colonna) */
+.indice table.dataview th:nth-child(3),
+.indice table.dataview td:nth-child(3) {
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce all'Autore di andare a capo */
+}
+
+/* Larghezza per la sola colonna DATA (4ª colonna) */
+.indice table.dataview th:nth-child(4),
+.indice table.dataview td:nth-child(4) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce alla data di andare a capo */
+}
+
+/* Larghezza per la sola colonna TITOLO (5ª colonna) */
+.indice table.dataview th:nth-child(5),
+.indice table.dataview td:nth-child(5) {
+	color: white !important;
+}
+
+/* Larghezza per la sola colonna FILE (6ª colonna) */
+.indice table.dataview th:nth-child(6),
+.indice table.dataview td:nth-child(6) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce al nome file di andare a capo */
 }
 
 /** TITOLO dell'INDICE: Testo + grande, MAIUSCOLO, corsivo, centrato e grassetto **/
@@ -2730,12 +2821,14 @@ body.bibbia {
 
 }
 
-.messaggio .callout[data-callout="5colonne"] {
+.messaggio .callout[data-callout="5colonne"],
+.indice .callout[data-callout="5colonne"] {
 	/** ATTENZIONE !!! QUANDO FINITO METTERE transparent **/
 	background-color: rgb(40, 70, 26);
 }
 
-.messaggio .callout[data-callout="5colonne"] .callout-title {
+.messaggio .callout[data-callout="5colonne"] .callout-title,
+.indice .callout[data-callout="5colonne"] .callout-title  {
 	/* mostra o nasconde l'icona, il titolo, e la freccina */
 	color: hsl(233, 100%, 79%) !important;
 	display: always !important;
@@ -2744,7 +2837,8 @@ body.bibbia {
 	text-align: center !important;
 }
 
-.messaggio .callout[data-callout="5colonne"] .callout-icon {
+.messaggio .callout[data-callout="5colonne"] .callout-icon,
+.indice .callout[data-callout="5colonne"] .callout-icon {
 	/* mostra o nasconde l'icona (mettere always se si vuole vedere) */
 	display: none !important;
 }
@@ -2756,7 +2850,8 @@ body.bibbia {
 	width: 1.2em;
 }
 
-.messaggio .callout[data-callout="5colonne"] .callout-content ul {
+.messaggio .callout[data-callout="5colonne"] .callout-content ul,
+.indice .callout[data-callout="5colonne"] .callout-content ul {
 	display: flex !important;
 	flex-direction: column !important;
 	flex-wrap: wrap !important;
@@ -2769,7 +2864,8 @@ body.bibbia {
 	margin: 0 !important;
 }
 
-.messaggio .callout[data-callout="5colonne"] li {
+.messaggio .callout[data-callout="5colonne"] li,
+.indice .callout[data-callout="5colonne"] li {
 	display: flex !important;
 	/* Per allineare il pallino al testo */
 	align-items: center !important;
@@ -2780,7 +2876,8 @@ body.bibbia {
 }
 
 /* Centra il pallino (il cerchietto reale) dentro lo span */
-.messaggio .callout[data-callout="5colonne"] .list-bullet::after {
+.messaggio .callout[data-callout="5colonne"] .list-bullet::after,
+.indice .callout[data-callout="5colonne"] .list-bullet::after {
 	position: relative !important;
 	/* Toglie il posizionamento 'volante' */
 	display: block !important;
@@ -2798,7 +2895,8 @@ body.bibbia {
 }
 
 /* Sistema il contenitore del pallino */
-.messaggio .callout[data-callout="5colonne"] .list-bullet {
+.messaggio .callout[data-callout="5colonne"] .list-bullet,
+.indice .callout[data-callout="5colonne"] .list-bullet {
 	width: 12px !important;
 	height: 12px !important;
 	display: flex !important;
@@ -2808,6 +2906,13 @@ body.bibbia {
 	flex-shrink: 0 !important;
 }
 
+/* Rimuove la riga laterale del callout */
+.indice .callout[data-callout="5colonne"] blockquote {
+	border-left: none !important;
+	border-inline-start: none !important;
+	padding-left: 0 !important;
+	margin-left: 0 !important;
+}
 /* #endregion */
 
 
