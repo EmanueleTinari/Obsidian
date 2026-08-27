@@ -23,6 +23,7 @@ aliases:
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 digitalizzatore: "Emanuele Tinari"
+revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/pius-ix/it/documents/decreto-nelle-istituzioni-14-marzo-1848.html)"
 nomeFile: "1848-03-14-piix-dec-nei-IT.md"
 creato: 2025/10/26 23:08:49
