@@ -1,23 +1,51 @@
 <#
-[ITA] DESCRIZIONE
-[ITA] Sincronizza i metadati YAML con le proprieta del file system dei file Markdown.
-[ITA] 1. ESTRAZIONE DATI: legge i campi 'creato:' e 'modificato:' nelle prime 50 righe del frontmatter YAML.
-[ITA] 2. PARSING FLESSIBILE: supporta i formati data italiani e ISO con separatori '/' oppure '-'.
-[ITA] 3. RIPRISTINO PROPRIETA: assegna le date estratte alle proprieta CreationTime e LastWriteTime del file.
-[ITA] 4. CULTURA ITALIANA: usa la cultura 'it-IT' per evitare l'inversione tra giorno e mese.
-[ITA] 5. FORMATI SUPPORTATI: dd/MM/yyyy, yyyy/MM/dd, dd-MM-yyyy e yyyy-MM-dd, tutti con ora, minuti e secondi.
-[ITA] 6. AMBITO DI ESECUZIONE: analizza soltanto i file .md presenti nella cartella corrente, senza sottocartelle.
-[ITA] 7. NOTA DI ESECUZIONE: se concatenato ad altri script, rimuovere 'Pause' per evitare una doppia conferma.
+[ITA]
+DESCRIZIONE
+-----------
+	Sincronizza i metadati YAML con le proprieta del file system dei file Markdown.
+	1. ESTRAZIONE DATI: legge i campi 'creato:' e 'modificato:' nelle prime 50 righe del frontmatter YAML.
+	2. PARSING FLESSIBILE: supporta i formati data italiani e ISO con separatori '/' oppure '-'.
+	3. RIPRISTINO PROPRIETA: assegna le date estratte alle proprieta CreationTime e LastWriteTime del file.
+	4. CULTURA ITALIANA: usa la cultura 'it-IT' per evitare l'inversione tra giorno e mese.
+	5. FORMATI SUPPORTATI: dd/MM/yyyy, yyyy/MM/dd, dd-MM-yyyy e yyyy-MM-dd, tutti con ora, minuti e secondi.
+	6. AMBITO DI ESECUZIONE: analizza soltanto i file .md presenti nella cartella corrente, senza sottocartelle.
+	7. NOTA DI ESECUZIONE: se concatenato ad altri script, rimuovere 'Pause' per evitare una doppia conferma.
 
-[ENG] DESCRIPTION
-[ENG] Synchronizes YAML metadata with the file system properties of Markdown files.
-[ENG] 1. DATA EXTRACTION: reads the 'creato:' and 'modificato:' fields from the YAML frontmatter's first 50 lines.
-[ENG] 2. FLEXIBLE PARSING: supports Italian and ISO date formats with either '/' or '-' separators.
-[ENG] 3. PROPERTY RESTORATION: assigns the extracted dates to the file's CreationTime and LastWriteTime properties.
-[ENG] 4. ITALIAN CULTURE: uses the 'it-IT' culture to prevent day/month inversion.
-[ENG] 5. SUPPORTED FORMATS: dd/MM/yyyy, yyyy/MM/dd, dd-MM-yyyy and yyyy-MM-dd, all including hours, minutes and seconds.
-[ENG] 6. EXECUTION SCOPE: processes only .md files in the current folder, without subfolders.
-[ENG] 7. EXECUTION NOTE: when concatenated with other scripts, remove 'Pause' to avoid a second confirmation.
+.AUTORE
+"Emanuele Tinari"
+
+.SVILUPPATORE
+"Emanuele Tinari", "Gemini Web App"
+
+.CREATO
+2026/04/24 12:46:34
+
+.MODIFICATO
+2026/08/26 23:45:58
+
+[ENG]
+DESCRIPTION
+-----------
+	Synchronizes YAML metadata with the file system properties of Markdown files.
+	1. DATA EXTRACTION: reads the 'creato:' and 'modificato:' fields from the YAML frontmatter's first 50 lines.
+	2. FLEXIBLE PARSING: supports Italian and ISO date formats with either '/' or '-' separators.
+	3. PROPERTY RESTORATION: assigns the extracted dates to the file's CreationTime and LastWriteTime properties.
+	4. ITALIAN CULTURE: uses the 'it-IT' culture to prevent day/month inversion.
+	5. SUPPORTED FORMATS: dd/MM/yyyy, yyyy/MM/dd, dd-MM-yyyy and yyyy-MM-dd, all including hours, minutes and seconds.
+	6. EXECUTION SCOPE: processes only .md files in the current folder, without subfolders.
+	7. EXECUTION NOTE: when concatenated with other scripts, remove 'Pause' to avoid a second confirmation.
+
+.AUTHOR
+"Emanuele Tinari"
+
+.DEVELOPER
+"Emanuele Tinari", "Gemini Web App"
+
+.CREATED
+2026/04/24 12:46:34
+
+.MODIFIED
+2026/08/26 23:45:58
 #>
 
 # [ITA] Recupera tutti i file Markdown presenti nella cartella corrente, escludendo le sottocartelle.
