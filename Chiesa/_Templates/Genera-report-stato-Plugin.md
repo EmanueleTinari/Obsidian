@@ -1,6 +1,8 @@
 ---
 licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-nomeFile: Genera-report-stato-Plugin.md
+ideatore: "Emanuele Tinari"
+sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
+nomeFile: "Genera-report-stato-Plugin.md"
 creato: 2026/08/16 19:47:06
 modificato: 2026/08/21 15:57:46
 ---
