@@ -23,6 +23,7 @@ aliases:
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 digitalizzatore: "Emanuele Tinari"
+revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/pius-vi/it/documents/dichiarazione-perpensis-circumstantiis-10-dicembre-1792.html)"
 nomeFile: "1792-12-10-pivi-dic-pec-IT.md"
 creato: 2025/10/26 23:08:46
