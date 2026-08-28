@@ -9,9 +9,9 @@ modificato: 2026/08/21 15:57:46
 
 <%*
 /*
-===============================================================================
+================================================================
 📌 GENERA REPORT STATO PLUGIN (OBSIDIAN SCRIPT PER TEMPLATER)
-===============================================================================
+================================================================
 
 ITA
 --------
@@ -37,7 +37,7 @@ FUNZIONALITÀ PRINCIPALI:
    - Versione installata (solo per i plugin Community)
 4. Ridenominazione e Posizionamento Automatico:
    Assegna al file un nome univoco basato su data e ora
-   (es. YYYY-MM-DD_HH-mm-ss-Report-Plugin-abilitati.md) e lo sposta
+   (es. YYYY-MM-DD_HH-mm-ss-Report-stato-Plugin.md) e lo sposta
    automaticamente nella radice della Vault (`/`).
 
 REQUISITI:
@@ -69,7 +69,7 @@ KEY FEATURES:
    - Installed Version (for Community plugins)
 4. Automatic Renaming & Location Handling:
    Generates a unique timestamped filename
-   (e.g., YYYY-MM-DD_HH-mm-ss-Report-Plugin-abilitati.md) and automatically
+   (e.g., YYYY-MM-DD_HH-mm-ss-Report-stato-Plugin.md) and automatically
    moves the newly created file to the vault's root directory (`/`).
 
 REQUIREMENTS:
@@ -89,6 +89,8 @@ const essentialPlugins = new Set([
     "custom-classes",
     // Dataview
     "dataview",
+    // Markdown Attributes
+    "markdown-attributes",
     // Homepage
     "homepage",
     // Templater
@@ -257,6 +259,9 @@ const newFileName = `${timestamp}-Report-stato-Plugin`;
 // [ENG] Begins defining the multiline string 'finalContent' by opening the YAML Frontmatter block with three dashes.
 const finalContent = `---
 licenza-nota: "Copyright © ${yearReport} Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/"
+ideatore: "Emanuele Tinari"
+sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
+template: "Genera-report-stato-Plugin.md"
 nomeFile: "${newFileName}.md"
 creato: ${creatoVal}
 modificato: ${modificatoVal}
