@@ -11,10 +11,12 @@ modificato: 2026/08/31 15:14:55
 
 # Changelog Vault Chiesa
 
-### Changelog del 31-08-2026
+## Changelog del 31-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
+| 31-08-2026 16:15:29 +0200 | [_Templates / Genera-changelog-del-vault.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-changelog-del-vault.md) | (Edit and Update) Modificato ed aggiornato il file: Genera-changelog-del-vault.md |
+| 31-08-2026 16:14:08 +0200 | [Chiesa / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
 | 31-08-2026 15:53:10 +0200 | [Chiesa / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
 | 31-08-2026 15:52:26 +0200 | [Chiesa / 2026-08-29_00-10-14-Report-link-grassetto-ai-Santi.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/2026-08-29_00-10-14-Report-link-grassetto-ai-Santi.md) | (Create) Creato il file: 2026-08-29_00-10-14-Report-link-grassetto-ai-Santi.md |
 | 31-08-2026 15:50:39 +0200 | [Chiesa / 2026-08-28_15-35-19-Report-stato-Plugin.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/2026-08-28_15-35-19-Report-stato-Plugin.md) | (Create) Creato il file: 2026-08-28_15-35-19-Report-stato-Plugin.md |
@@ -90,14 +92,14 @@ modificato: 2026/08/31 15:14:55
 | 31-08-2026 10:29:54 +0200 | [Documenti del Concilio Ecumenico Vaticano II / Script da YALM a data e ora nel file da far girare in una cartella no sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20vari/Documenti%20del%20Concilio%20Ecumenico%20Vaticano%20II/Script%20da%20YALM%20a%20data%20e%20ora%20nel%20file%20da%20far%20girare%20in%20una%20cartella%20no%20sub.ps1) | (Create) Creato il file: Script da YALM a data e ora nel file da far girare in una cartella no sub.ps1 |
 | 31-08-2026 09:36:17 +0200 | [PowerShell / RicercaGlobaleTestoNeiFileFolder_Subfolder.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Scripts/PowerShell/RicercaGlobaleTestoNeiFileFolder_Subfolder.ps1) | (Create) Creato il file: RicercaGlobaleTestoNeiFileFolder_Subfolder.ps1 |
 
-### Changelog del 29-08-2026
+## Changelog del 29-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 29-08-2026 00:23:13 +0200 | [_Templates / Genera-report-link-ai Santi.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-report-link-ai%20Santi.md) | (Create) Creato il file: Genera-report-link-ai Santi.md |
 | 29-08-2026 00:15:29 +0200 | [_Templates / Genera-report-stato-Plugin.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-report-stato-Plugin.md) | (Edit and Update) Modificato ed aggiornato il file: Genera-report-stato-Plugin.md |
 
-### Changelog del 27-08-2026
+## Changelog del 27-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -134,7 +136,7 @@ modificato: 2026/08/31 15:14:55
 | 27-08-2026 00:00:37 +0200 | [Radiomessaggi / 1978-08-27-ipi-ram-ueo-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Radiomessaggi/1978-08-27-ipi-ram-ueo-IT.md) | (Create) Creato il file: Radiomessaggio Giovanni Paolo I (Ioannes Paulus I): “e prima Benedizione «Urbi et Orbi»”, 27 agosto 1978 |
 | 27-08-2026 00:00:10 +0200 | [Radiomessaggi / _Indice Radiomessaggi.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Radiomessaggi/_Indice%20Radiomessaggi.md) | (Create) Creato il file: _Indice Radiomessaggi.md |
 
-### Changelog del 26-08-2026
+## Changelog del 26-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -156,7 +158,7 @@ modificato: 2026/08/31 15:14:55
 | 26-08-2026 22:06:56 +0200 | [Chiesa / Pannello Indici Documenti pontifici.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Pannello%20Indici%20Documenti%20pontifici.md) | (Create) Creato il file: Pannello Indici Documenti pontifici.md |
 | 26-08-2026 22:04:00 +0200 | [snippets / background.css](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/.obsidian/snippets/background.css) | (Edit and Update) Modificato ed aggiornato il file: background.css |
 
-### Changelog del 22-08-2026
+## Changelog del 22-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -168,23 +170,23 @@ modificato: 2026/08/31 15:14:55
 | 22-08-2026 00:15:45 +0200 | [_Utilità Dataviewjs / Dataview File unresolved-link.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Utilit%C3%A0%20Dataviewjs/Dataview%20File%20unresolved-link.md) | (Create) Creato il file: Dataview File unresolved-link.md" |
 | 22-08-2026 00:15:29 +0200 | [_Templates / Genera-report-stato-Plugin.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-report-stato-Plugin.md) | (Edit and Update) Modificato ed aggiornato il file: Genera-report-stato-Plugin.md |
 
-### Changelog del 21-08-2026
+## Changelog del 21-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 21-08-2026 19:36:53 +0200 | [_Templates / Genera-report-stato-Plugin.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-report-stato-Plugin.md) | (Create) Creato il file: Genera-report-stato-Plugin.md |
-| 21-08-2026 19:36:12 +0200 | [ / Source-for-this-Repo.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Source-for-this-Repo.md) | (Create) Creato il file: Source-for-this-Repo.md |
+| 21-08-2026 19:36:12 +0200 | [/ Source-for-this-Repo.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Source-for-this-Repo.md) | (Create) Creato il file: Source-for-this-Repo.md |
 | 21-08-2026 19:26:35 +0200 | [Papi / I sommi Pontefici.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Papi/I%20sommi%20Pontefici.md) | (Create) Creato il file: I sommi Pontefici.md |
 | 21-08-2026 16:13:46 +0200 | [Chiesa / 2026-08-21_15-57-56-Report-stato-Plugin.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/2026-08-21_15-57-56-Report-stato-Plugin.md) | (Create) Creato il file: 2026-08-21_15-57-56-Report-stato-Plugin.md |
 | 21-08-2026 16:05:28 +0200 | [Chiesa / Homepage.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Homepage.md) | (Edit and Update) Modificato ed aggiornato il file: Homepage.md |
 
-### Changelog del 20-08-2026
+## Changelog del 20-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 20-08-2026 23:26:26 +0200 | [Chiesa / 2026-08-17_09-06-07-Report-stato-Plugin.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/2026-08-17_09-06-07-Report-stato-Plugin.md) | (Delete) Eliminato il file: 2026-08-17_09-06-07-Report-stato-Plugin.md |
 
-### Changelog del 18-08-2026
+## Changelog del 18-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -193,22 +195,22 @@ modificato: 2026/08/31 15:14:55
 | 18-08-2026 18:48:28 +0200 | [La Sacra Bibbia / Versioni della Bibbia.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/La%20Sacra%20Bibbia/Versioni%20della%20Bibbia.md) | (Create) Creato il file: Versioni della Bibbia.md |
 | 18-08-2026 18:47:25 +0200 | [Chiesa / Homepage.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Homepage.md) | (Create) Creato il file: Homepage.md |
 
-### Changelog del 17-08-2026
+## Changelog del 17-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 17-08-2026 13:48:40 +0200 | [Chiesa / 2026-08-17_09-06-07-Report-stato-Plugin.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/2026-08-17_09-06-07-Report-stato-Plugin.md) | (Create) Creato il file: 2026-08-17_09-06-07-Report-stato-Plugin.md |
 | 17-08-2026 09:08:47 +0200 | [Chiesa / Plugin_Status_2026-08-16_19-51-48.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Plugin_Status_2026-08-16_19-51-48.md) | (Delete) Eliminato il file: Plugin_Status_2026-08-16_19-51-48.md |
 
-### Changelog del 16-08-2026
+## Changelog del 16-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 16-08-2026 22:33:14 +0200 | [Chiesa / Plugin_Status_2026-08-16_19-51-48.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Plugin_Status_2026-08-16_19-51-48.md) | (Create) Creato il file: Plugin_Status_2026-08-16_19-51-48.md |
-| 16-08-2026 22:31:59 +0200 | [ / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/README.md) | (Create) Creato il file: README.md |
+| 16-08-2026 22:31:59 +0200 | [/ README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/README.md) | (Create) Creato il file: README.md |
 | 16-08-2026 18:48:09 +0200 | [snippets / background.css](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/.obsidian/snippets/background.css) | (Create) Creato il file: background.css |
 
-### Changelog del 28-07-2026
+## Changelog del 28-07-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -268,33 +270,33 @@ modificato: 2026/08/31 15:14:55
 | 28-07-2026 14:52:29 +0200 | [Brevi / 1741-06-30-bxiv-bre-pet-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1741-06-30-bxiv-bre-pet-IT.md) | (Edit and Update) Modificato ed aggiornato il file: Breve Benedetto XIV (Benedictus XIV) “Pro Eximia Tua”, 30 giugno 1741 |
 | 28-07-2026 14:51:55 +0200 | [Brevi / 1741-05-30-bxiv-bre-noa-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1741-05-30-bxiv-bre-noa-IT.md) | (Edit and Update) Modificato ed aggiornato il file: Breve Benedetto XIV (Benedictus XIV) “Non Ambigimus”, 30 maggio 1741 |
 
-### Changelog del 27-07-2026
+## Changelog del 27-07-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 27-07-2026 20:55:11 +0200 | [Brevi / 1773-07-21-clxiv-bre-dar-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1773-07-21-clxiv-bre-dar-IT.md) | (Edit and Update) Modificato ed aggiornato il file: Breve Clemente XIV (Clementis XIV) “Dominus ac Redemptor”, 21 luglio 1773 |
 
-### Changelog del 07-04-2026
+## Changelog del 07-04-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
-| 07-04-2026 21:24:13 +0200 | [ / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/README.md) | Reset totale |
-| 07-04-2026 21:20:01 +0200 | [ / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/README.md) | Punto Zero: Cronologia azzerata |
+| 07-04-2026 21:24:13 +0200 | [/ README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/README.md) | Reset totale |
+| 07-04-2026 21:20:01 +0200 | [/ README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/README.md) | Punto Zero: Cronologia azzerata |
 
-### Changelog del 29-03-2026
+## Changelog del 29-03-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 29-03-2026 14:25:31 +0200 | [Brevi / 1832-02-03-grxvi-bre-ing-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1832-02-03-grxvi-bre-ing-IT.md) | (Create) Creato il file: Breve Gregorio XVI (Gregorius XVI): “Inter gravissimas”, 03 febbraio 1832 |
 | 29-03-2026 14:14:48 +0200 | [Brevi / 1831-09-09-grxvi-bre-edp-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1831-09-09-grxvi-bre-edp-IT.md) | (Create) Creato il file: Breve Gregorio XVI (Gregorius XVI): “Ex debito pastoralis”, 09 settembre 1831 |
 
-### Changelog del 22-12-2025
+## Changelog del 22-12-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 22-12-2025 21:30:30 +0100 | [Brevi / 1827-10-02-lxii-bre-frq-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1827-10-02-lxii-bre-frq-IT.md) | (Create) Creato il file: Breve Leone XII (Leo XII): “Fructus Quos”, 02 ottobre 1827 |
 
-### Changelog del 21-12-2025
+## Changelog del 21-12-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -302,14 +304,14 @@ modificato: 2026/08/31 15:14:55
 | 21-12-2025 15:08:33 +0100 | [Brevi / 1827-02-13-lxii-bre-qul-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1827-02-13-lxii-bre-qul-IT.md) | (Create) Creato il file: Breve Leone XII (Leo XII): “Quanta Laetitia”, 13 febbraio 1827 |
 | 21-12-2025 01:37:48 +0100 | [Brevi / 1826-12-12-lxii-bre-eco-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1826-12-12-lxii-bre-eco-IT.md) | (Create) Creato il file: Breve Leone XII (Leo XII): “Ecclesiarum Omnium”, 12 dicembre 1826 |
 
-### Changelog del 03-12-2025
+## Changelog del 03-12-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 03-12-2025 18:23:40 +0100 | [Brevi / 1824-09-24-lxii-bre-eid-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1824-09-24-lxii-bre-eid-IT.md) | (Create) Creato il file: Breve Leone XII (Leo XII): “Etsi Iam Diu”, 24 settembre 1824 |
 | 03-12-2025 07:53:19 +0100 | [Brevi / 1824-05-17-lxii-bre-cum-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1824-05-17-lxii-bre-cum-IT.md) | (Create) Creato il file: Breve Leone XII (Leo XII): “Cum multa”, 17 maggio 1824 |
 
-### Changelog del 26-10-2025
+## Changelog del 26-10-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -328,7 +330,7 @@ modificato: 2026/08/31 15:14:55
 | 26-10-2025 00:28:32 +0200 | [Brevi / 1801-08-15-pivii-bre-tam-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1801-08-15-pivii-bre-tam-IT.md) | (Create) Creato il file: Breve Pio VII (Pius VII): “Tam multa”, 15 agosto 1801 |
 | 26-10-2025 00:10:56 +0200 | [Brevi / 1799-08-13-pivi-bre-qan-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1799-08-13-pivi-bre-qan-IT.md) | (Create) Creato il file: Breve Pio VI (Pius VI): “Quoties animo”, 13 agosto 1799 |
 
-### Changelog del 25-10-2025
+## Changelog del 25-10-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -339,13 +341,13 @@ modificato: 2026/08/31 15:14:55
 | 25-10-2025 20:04:59 +0200 | [Brevi / 1791-05-04-pivi-bre-qul-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1791-05-04-pivi-bre-qul-IT.md) | (Create) Creato il file: Breve Pio VI (Pius VI): “Quo luctu”, 04 maggio 1791 |
 | 25-10-2025 19:45:04 +0200 | [Brevi / 1791-04-13-pivi-bre-cup-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1791-04-13-pivi-bre-cup-IT.md) | (Create) Creato il file: Breve Pio VI (Pius VI): “Cum populi”, 13 aprile 1791 |
 
-### Changelog del 24-10-2025
+## Changelog del 24-10-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 24-10-2025 21:08:32 +0200 | [Brevi / 1791-04-13-pivi-bre-chq-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1791-04-13-pivi-bre-chq-IT.md) | (Create) Creato il file: Breve Pio VI (Pius VI): “Charitas quae”, 13 aprile 1791 |
 
-### Changelog del 23-10-2025
+## Changelog del 23-10-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -355,7 +357,7 @@ modificato: 2026/08/31 15:14:55
 | 23-10-2025 14:48:04 +0200 | [Brevi / 1786-11-28-pivi-bre-ssp-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1786-11-28-pivi-bre-ssp-IT.md) | (Edit and Update) Modificato ed aggiornato il file: Breve Pio VI (Pius VI) “Super soliditate Petrae”, 28 novembre 1786 |
 | 23-10-2025 14:30:01 +0200 | [Brevi / 1779-03-06-pivi-bre-nup-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1779-03-06-pivi-bre-nup-IT.md) | (Create) Creato il file: Breve Pio VI (Pius VI): “Nuper pro”, 06 marzo 1779 |
 
-### Changelog del 24-09-2025
+## Changelog del 24-09-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -369,13 +371,13 @@ modificato: 2026/08/31 15:14:55
 | 24-09-2025 20:54:09 +0200 | [Brevi / 1762-06-09-clxiii-bre-qid-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1762-06-09-clxiii-bre-qid-IT.md) | (Create) Creato il file: Breve Clemente XIII (Clementis XIII): Quanto in dolore, 09 giugno 1762 |
 | 24-09-2025 19:24:43 +0200 | [Brevi / 1759-03-21-clxiii-bre-pao-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1759-03-21-clxiii-bre-pao-IT.md) | (Create) Creato il file: Breve Clemente XIII (Clementis XIII): Pastoralis officii, 21 marzo 1759 |
 
-### Changelog del 23-09-2025
+## Changelog del 23-09-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 23-09-2025 22:10:53 +0200 | [Brevi / 1758-09-11-clxiii-bre-via-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1758-09-11-clxiii-bre-via-IT.md) | (Create) Creato il file: Breve Clemente XIII (Clementis XIII): Venimus in altitudinem, 11 settembre 1758 |
 
-### Changelog del 15-09-2025
+## Changelog del 15-09-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -384,7 +386,7 @@ modificato: 2026/08/31 15:14:55
 | 15-09-2025 07:21:10 +0200 | [Brevi / 1829-06-18-piviii-bre-ins-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1829-06-18-piviii-bre-ins-IT.md) | (Edit and Update) Modificato ed aggiornato il file: Breve Pio VIII (Pius VIII) “In supremi”, 18 giugno 1829 |
 | 15-09-2025 07:09:15 +0200 | [Brevi / 1829-06-30-piviii-bre-lif-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1829-06-30-piviii-bre-lif-IT.md) | (Create) Creato il file: Breve Pio VIII (Pius VIII): “Literae fraternitatis”, 30 giugno 1829 |
 
-### Changelog del 14-09-2025
+## Changelog del 14-09-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -393,13 +395,13 @@ modificato: 2026/08/31 15:14:55
 | 14-09-2025 22:57:29 +0200 | [Brevi / 1829-08-11-piviii-bre-imu-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1829-08-11-piviii-bre-imu-IT.md) | (Create) Creato il file: Breve Pio VIII (Pius VIII): “Inter multiplices”, 11 agosto 1829 |
 | 14-09-2025 22:42:35 +0200 | [Brevi / 1829-09-04-piviii-bre-inm-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1829-09-04-piviii-bre-inm-IT.md) | (Create) Creato il file: Breve Pio VIII (Pius VIII): “Inter multiplices”, 04 settembre 1829 |
 
-### Changelog del 11-09-2025
+## Changelog del 11-09-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 11-09-2025 08:15:33 +0200 | [Brevi / 1755-08-08-bxiv-bre-qes-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1755-08-08-bxiv-bre-qes-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): Quam Ex Sublimi, 08 agosto 1755 |
 
-### Changelog del 04-09-2025
+## Changelog del 04-09-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -408,20 +410,20 @@ modificato: 2026/08/31 15:14:55
 | 04-09-2025 22:17:26 +0200 | [Brevi / 1743-05-18-bxiv-bre-nil-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1743-05-18-bxiv-bre-nil-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): Nimiam Licentiam, 18 maggio 1743 |
 | 04-09-2025 21:27:50 +0200 | [Brevi / 1746-12-16-bxiv-bre-qun-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1746-12-16-bxiv-bre-qun-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): Quemadmodum Nihil, 16 dicembre 1746 |
 
-### Changelog del 28-08-2025
+## Changelog del 28-08-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 28-08-2025 22:48:19 +0200 | [Brevi / 1741-08-22-bxiv-bre-isu-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1741-08-22-bxiv-bre-isu-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): In Suprema Universalis, 22 agosto 1741 |
 | 28-08-2025 19:43:52 +0200 | [Brevi / 1741-06-30-bxiv-bre-pet-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1741-06-30-bxiv-bre-pet-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): Pro Eximia Tua, 30 giugno 1741 |
 
-### Changelog del 06-05-2025
+## Changelog del 06-05-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
 | 06-05-2025 23:13:55 +0200 | [Brevi / 1741-06-30-bxiv-bre-quc-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Brevi/1741-06-30-bxiv-bre-quc-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): Quanta Cura, 30 giugno 1741 |
 
-### Changelog del 02-05-2025
+## Changelog del 02-05-2025
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
@@ -432,4 +434,3 @@ modificato: 2026/08/31 15:14:55
 | 02-05-2025 11:07:45 +0200 | [Proclami / 1848-03-14-piix-pro-req-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/1848-03-14-piix-pro-req-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): Non Ambigimus, 30 maggio 1741 |
 | 02-05-2025 11:07:45 +0200 | [Proclami / 1849-01-01-piix-pro-dqp-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/1849-01-01-piix-pro-dqp-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): Non Ambigimus, 30 maggio 1741 |
 | 02-05-2025 11:07:45 +0200 | [Proteste / 1849-02-14-piix-prt-las-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proteste/1849-02-14-piix-prt-las-IT.md) | (Create) Creato il file: Breve Benedetto XIV (Benedictus XIV): Non Ambigimus, 30 maggio 1741 |
-
