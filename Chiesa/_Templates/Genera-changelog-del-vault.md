@@ -274,6 +274,51 @@ function parseDisplayRowToMs(rowDateText) {
     return parseGitDateToMs(isoValue);
 }
 
+/**
+ * [ITA] Riscrive il frontmatter in modo canonico, forzando il formato richiesto e aggiornando la data di modifica finale.
+ * [ENG] Rewrites the frontmatter in a canonical way, forcing the required format and updating the final modification date.
+ *
+ * @param {string} text
+ * [ITA] Contenuto completo del file da normalizzare.
+ * [ENG] Full file content to normalize.
+ *
+ * @param {string} fileName
+ * [ITA] Nome del file da usare nel frontmatter.
+ * [ENG] File name to use in the frontmatter.
+ *
+ * @returns {string}
+ * [ITA] Il testo con frontmatter standardizzato in cima.
+ * [ENG] The text with standardized frontmatter at the top.
+ */
+function normalizeFrontmatter(text, fileName) {
+    // [ITA] Estrae il body senza alcun frontmatter vecchio, eventualmente presente all'inizio del file.
+    // [ENG] Extracts the body without any outdated frontmatter that may already exist at the start of the file.
+    const body = String(text || '').replace(/^---\n[\s\S]*?\n---\s*/m, '').replace(/^\n+/, '');
+    // [ITA] Ricava una data di modifica nel formato richiesto YYYY/MM/DD HH:mm:ss.
+    // [ENG] Builds the modification timestamp in the required YYYY/MM/DD HH:mm:ss format.
+    const now = new Date();
+    const pad2 = (n) => String(n).padStart(2, '0');
+    const modifiedDate = `${now.getFullYear()}/${pad2(now.getMonth() + 1)}/${pad2(now.getDate())} ${pad2(now.getHours())}:${pad2(now.getMinutes())}:${pad2(now.getSeconds())}`;
+    // [ITA] Costruisce sempre lo stesso frontmatter canonico, senza eccezioni.
+    // [ENG] Builds the same canonical frontmatter every time, with no exceptions.
+    const frontmatter = [
+        '---',
+        'cssclasses: changelog',
+        'licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/',
+        'ideatore: "Emanuele Tinari"',
+        'sviluppatore: ["Emanuele Tinari", "Gemini Web App"]',
+        'template: "Genera-changelog-del-vault.md"',
+        `nomeFile: "${fileName}"`,
+        'creato: 2026/08/29 07:58:48',
+        `modificato: ${modifiedDate}`,
+        '---',
+        ''
+    ].join('\n');
+    // [ITA] Restituisce il contenuto con frontmatter standardizzato e corpo originale ripristinato sotto.
+    // [ENG] Returns the content with standardized frontmatter at top and the original body preserved below it.
+    return `${frontmatter}${body}`;
+}
+
 // [ITA] Importa il modulo file system nativo di Node.js per la gestione dei file.
 // [ENG] Imports Node.js native file system module for file management.
 const fs = require('fs');
@@ -728,11 +773,14 @@ else {
     // [ENG] Adds the new changelog before the existing content while preserving the rest of the file.
     finalOutput = `${newMarkdown.trim()}\n\n${contentForFinalUpdate.trim()}`;
 }
-// [ITA] Scrive il contenuto finale sul file di changelog, aggiornando la nota con i nuovi record.
-// [ENG] Writes the final content to the changelog file, updating the note with the new records.
-fs.writeFileSync(targetFilePath, finalOutput, 'utf8');
-// [ITA] Assegna l'output finale al risultato del template da restituire all'editor.
-// [ENG] Assigns the final output to the template result to return it to the editor.
-tR = finalOutput;
+// [ITA] Normalizza il frontmatter finale in modo da rispettare sempre il formato richiesto, indipendentemente da ciò che c'era prima.
+// [ENG] Normalizes the final frontmatter so it always respects the required format, regardless of what was there before.
+const finalContentWithCanonicalFrontmatter = normalizeFrontmatter(finalOutput, targetFileName);
+// [ITA] Scrive il contenuto finale sul file di changelog, aggiornando la nota con i nuovi record e il frontmatter canonico.
+// [ENG] Writes the final content to the changelog file, updating the note with the new records and the canonical frontmatter.
+fs.writeFileSync(targetFilePath, finalContentWithCanonicalFrontmatter, 'utf8');
+// [ITA] Assegna l'output finale con frontmatter standardizzato al risultato del template da restituire all'editor.
+// [ENG] Assigns the final output with standardized frontmatter to the template result to return it to the editor.
+tR = finalContentWithCanonicalFrontmatter;
 
 -%>
