@@ -683,14 +683,15 @@ if (newMarkdown.trim() === "") {
 }
 // [ITA] Trova la posizione del primo H3 presente nella nota per inserire i nuovi aggiornamenti prima di quel blocco.
 // [ENG] Finds the position of the first H3 heading in the note so the new updates are inserted before that section.
-const contentForFinalUpdate = insertionBaseText || existingText;
+const contentForFinalUpdate = (insertionBaseText || existingText).replace(/\s*$/, '');
 const firstH3Index = contentForFinalUpdate.search(/^###\s+/m);
 // [ITA] Definisce il titolo principale da cercare come punto di inserimento alternativo se non esiste nessun H3.
 // [ENG] Defines the main title to search for as a fallback insertion point if no H3 heading exists.
 const h1Tag = "# Changelog Vault Chiesa";
-// [ITA] Calcola l'indice dell'H1 per poter inserire i nuovi record dopo il titolo principale.
-// [ENG] Calculates the H1 index so the new records can be inserted after the main title when needed.
-const h1Index = contentForFinalUpdate.indexOf(h1Tag);
+// [ITA] Cerca l'H1 a riga intera, così il punto di inserimento resta corretto anche senza newline finale o con molte newline finali.
+// [ENG] Searches for the H1 as a full line so the insertion point stays correct even without a trailing newline or with multiple trailing newlines.
+const h1Match = contentForFinalUpdate.match(/^#\s*Changelog Vault Chiesa\s*$/m);
+const h1Index = h1Match ? h1Match.index : -1;
 // [ITA] Inizializza il contenuto finale con la versione già consolidata del file, così i blocchi precedenti vengono sostituiti e non duplicati.
 // [ENG] Initializes the final content with the already-consolidated file version so previous blocks are replaced instead of duplicated.
 let finalOutput = contentForFinalUpdate;
@@ -700,25 +701,25 @@ if (firstH3Index !== -1) {
     // [ITA] Salva il contenuto precedente al primo H3 e tronca eventuali spazi finali in eccesso.
     // [ENG] Saves content before the first H3 and trims any excess trailing whitespace.
     const beforeFirstH3 = contentForFinalUpdate.substring(0, firstH3Index).trimEnd();
-    // [ITA] Salva il contenuto da quel primo H3 in poi per riportarlo dopo i nuovi inserimenti.
-    // [ENG] Saves content from that first H3 onward to reattach it after the new insertions.
-    const afterFirstH3 = contentForFinalUpdate.substring(firstH3Index);
+    // [ITA] Salva il contenuto da quel primo H3 in poi per riportarlo dopo i nuovi inserimenti, rimuovendo eventuali newline iniziali extra.
+    // [ENG] Saves content from that first H3 onward to reattach it after the new insertions, removing any extra leading newlines.
+    const afterFirstH3 = contentForFinalUpdate.substring(firstH3Index).replace(/^\n+/, '');
     // [ITA] Ricostruisce il file con i nuovi changelog inseriti prima del primo H3 esistente.
     // [ENG] Rebuilds the file with the new changelog inserted before the first existing H3.
-    finalOutput = `${beforeFirstH3}\n\n${newMarkdown.trim()}\n\n${afterFirstH3.trimStart()}`;
+    finalOutput = `${beforeFirstH3}\n\n${newMarkdown.trim()}\n\n${afterFirstH3}`;
 }
 // [ITA] Se non esiste nessun H3, usa l'H1 come punto di ancoraggio se presente.
 // [ENG] If no H3 exists, uses the H1 as anchor point when present.
 else if (h1Index !== -1) {
-    // [ITA] Prepara il testo prima dell'H1 e mantiene il titolo principale in posizione iniziale.
-    // [ENG] Prepares the text before the H1 and keeps the main title in its initial position.
-    const beforeH1 = contentForFinalUpdate.substring(0, h1Index + h1Tag.length);
-    // [ITA] Salva il contenuto che segue l'H1 per inserirlo dopo i nuovi blocchi aggiunti.
-    // [ENG] Saves the content that follows the H1 to insert it after the newly added blocks.
-    const afterH1 = contentForFinalUpdate.substring(h1Index + h1Tag.length);
+    // [ITA] Prepara il testo prima dell'H1 e mantiene il titolo principale in posizione iniziale, anche se l'H1 termina con zero, una o più newline.
+    // [ENG] Prepares the text before the H1 and keeps the main title in its initial position, even if the H1 ends with zero, one, or multiple newlines.
+    const beforeH1 = contentForFinalUpdate.substring(0, h1Index + h1Match[0].length).trimEnd();
+    // [ITA] Salva il contenuto che segue l'H1 per inserirlo dopo i nuovi blocchi aggiunti, rimuovendo eventuali newline iniziali extra.
+    // [ENG] Saves the content that follows the H1 to insert it after the newly added blocks, removing any extra leading newlines.
+    const afterH1 = contentForFinalUpdate.substring(h1Index + h1Match[0].length).replace(/^\n+/, '');
     // [ITA] Inserisce i nuovi record subito dopo l'H1, preservando tutto il resto del file.
     // [ENG] Inserts the new records immediately after the H1 while preserving the rest of the file.
-    finalOutput = `${beforeH1}\n\n${newMarkdown.trim()}\n\n${afterH1.trimStart()}`;
+    finalOutput = `${beforeH1}\n\n${newMarkdown.trim()}\n\n${afterH1}`;
 }
 // [ITA] Se nessun punto di inserimento strutturato esiste, inserisce i nuovi record all'inizio del file.
 // [ENG] If no structured insertion point exists, inserts the new records at the beginning of the file.
