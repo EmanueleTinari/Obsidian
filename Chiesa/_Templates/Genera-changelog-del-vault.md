@@ -177,8 +177,8 @@ function sortByTimestampDesc(a, b) {
 }
 
 /**
- * [ITA] Rimuove il blocco H3 e la tabella già esistenti per una specifica data, così la data viene ricostruita come sezione consolidata.
- * [ENG] Removes the existing H3 block and table for a specific date so the date can be rebuilt as a consolidated section.
+ * [ITA] Rimuove il blocco H2 e la tabella già esistenti per una specifica data, così la data viene ricostruita come sezione consolidata.
+ * [ENG] Removes the existing H2 block and table for a specific date so the date can be rebuilt as a consolidated section.
  *
  * @param {string} text
  * [ITA] Il contenuto completo del file attuale da cui rimuovere il blocco della data.
@@ -196,9 +196,9 @@ function removeExistingDaySection(text, dayStrITA) {
     // [ITA] Escapa i caratteri speciali della data per rendere sicuro il pattern regex usato per la rimozione.
     // [ENG] Escapes special characters in the date so the regex used for removal is safe.
     const escapedDay = dayStrITA.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    // [ITA] Rimuove tutti i blocchi H3 della stessa data, così una ri-esecuzione non lascia sezioni vecchie e duplicate.
-    // [ENG] Removes all H3 blocks for the same date so a re-run does not leave stale duplicate sections behind.
-    const pattern = new RegExp(`^### Changelog del ${escapedDay}\\s*\\n\\n[\\s\\S]*?(?=^###\\s+|\\Z)`, 'gm');
+    // [ITA] Rimuove tutti i blocchi H2 della stessa data, così una ri-esecuzione non lascia sezioni vecchie e duplicate.
+    // [ENG] Removes all H2 blocks for the same date so a re-run does not leave stale duplicate sections behind.
+    const pattern = new RegExp(`^## Changelog del ${escapedDay}\\s*\\n\\n[\\s\\S]*?(?=^##\\s+|\\Z)`, 'gm');
     // [ITA] Restituisce il testo senza nessun blocco già esistente per la data corrente.
     // [ENG] Returns the text without any existing block for the current date.
     return text.replace(pattern, '').trim();
@@ -221,12 +221,12 @@ function removeExistingDaySection(text, dayStrITA) {
  * [ENG] The array of valid table rows present in the date block.
  */
 function collectExistingDayRows(text, dayStrITA) {
-    // [ITA] Escapa i caratteri speciali della data per costruire un pattern per il blocco H3 corretto.
-    // [ENG] Escapes special characters in the date to build a safe regex for the correct H3 block.
+    // [ITA] Escapa i caratteri speciali della data per costruire un pattern per il blocco H2 corretto.
+    // [ENG] Escapes special characters in the date to build a safe regex for the correct H2 block.
     const escapedDay = dayStrITA.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    // [ITA] Cerca tutti i blocchi H3 della stessa data nel testo esistente, non solo il primo.
-    // [ENG] Searches for all H3 blocks of the same date in the existing text, not just the first one.
-    const dayBlockPattern = new RegExp(`^### Changelog del ${escapedDay}\\s*\\n\\n([\\s\\S]*?)(?=^###\\s+|\\Z)`, 'gm');
+    // [ITA] Cerca tutti i blocchi H2 della stessa data nel testo esistente, non solo il primo.
+    // [ENG] Searches for all H2 blocks of the same date in the existing text, not just the first one.
+    const dayBlockPattern = new RegExp(`^## Changelog del ${escapedDay}\\s*\\n\\n([\\s\\S]*?)(?=^##\\s+|\\Z)`, 'gm');
     // [ITA] Recupera tutti i blocchi che corrispondono alla data specifica.
     // [ENG] Retrieves all blocks matching the specified date.
     const matches = Array.from(text.matchAll(dayBlockPattern));
@@ -313,11 +313,11 @@ if (fs.existsSync(targetFilePath)) {
     // [ITA] Legge il contenuto intero del file esistente codificato in UTF-8.
     // [ENG] Reads entire content of existing file encoded in UTF-8.
     existingContent = fs.readFileSync(targetFilePath, 'utf8');
-    // [ITA] Cerca la prima intestazione H3 per estrarre la data dell'ultimo changelog scritto.
-    // [ENG] Searches for first H3 header to extract date of last written changelog.
-    const match = existingContent.match(/### Changelog del (\d{2}-\d{2}-\d{4})/);
-    // [ITA] Verifica se la ricerca della data H3 ha prodotto un risultato valido.
-    // [ENG] Checks if H3 date regex search produced a valid match.
+    // [ITA] Cerca la prima intestazione H2 per estrarre la data dell'ultimo changelog scritto.
+    // [ENG] Searches for first H2 header to extract date of last written changelog.
+    const match = existingContent.match(/## Changelog del (\d{2}-\d{2}-\d{4})/);
+    // [ITA] Verifica se la ricerca della data H2 ha prodotto un risultato valido.
+    // [ENG] Checks if H2 date regex search produced a valid match.
     if (match) {
         // [ITA] Memorizza la stringa della data trovata per filtrare i commit successivi.
         // [ENG] Stores found date string to filter subsequent commits.
@@ -529,8 +529,8 @@ let insertionBaseText = existingText;
 // [ITA] Avvia il ciclo sui giorni ordinati in senso decrescente.
 // [ENG] Begins loop over days sorted in descending order.
 for (const dayIsoStr of sortedDays) {
-    // [ITA] Converte la data ISO del giorno nel formato italiano per la visualizzazione dell'intestazione H3.
-    // [ENG] Converts day ISO date into Italian format for H3 header display.
+    // [ITA] Converte la data ISO del giorno nel formato italiano per la visualizzazione dell'intestazione H2.
+    // [ENG] Converts day ISO date into Italian format for H2 header display.
     const dayStrITA = convertDateIsoToIta(dayIsoStr);
     // [ITA] Salta i giorni strettamente precedenti all'ultimo changelog registrato, ma non quello stesso giorno, per non perdere record nuovi dello stesso giorno.
     // [ENG] Skips days strictly before the last recorded changelog, but not the same day, so new records from the same day are not lost.
@@ -624,12 +624,12 @@ for (const dayIsoStr of sortedDays) {
     // [ITA] Se il giorno non ha alcuna riga dopo il merge, salta l'inserimento.
     // [ENG] If the day has no rows after merging, skips insertion.
     if (mergedRows.length === 0) continue;
-    // [ITA] Rimuove il blocco H3 e la tabella già presenti per la data corrente, così il giorno viene ricostruito come singolo blocco.
-    // [ENG] Removes the existing H3 block and table for the current date so the day is rebuilt as a single block.
+    // [ITA] Rimuove il blocco H2 e la tabella già presenti per la data corrente, così il giorno viene ricostruito come singolo blocco.
+    // [ENG] Removes the existing H2 block and table for the current date so the day is rebuilt as a single block.
     insertionBaseText = removeExistingDaySection(insertionBaseText, dayStrITA);
-    // [ITA] Aggiunge l'intestazione H3 per il giorno consolidato.
-    // [ENG] Appends the H3 heading for the consolidated day.
-    newMarkdown += `### Changelog del ${dayStrITA}\n\n`;
+    // [ITA] Aggiunge l'intestazione H2 per il giorno consolidato.
+    // [ENG] Appends the H2 heading for the consolidated day.
+    newMarkdown += `## Changelog del ${dayStrITA}\n\n`;
     // [ITA] Aggiunge la riga di intestazione delle colonne della tabella.
     // [ENG] Appends the table-column header row.
     newMarkdown += `| Data e orario | Nome file | Commit |\n`;
@@ -681,12 +681,12 @@ if (newMarkdown.trim() === "") {
     // [ENG] Exits immediately because there are no new entries to insert.
     return;
 }
-// [ITA] Trova la posizione del primo H3 presente nella nota per inserire i nuovi aggiornamenti prima di quel blocco.
-// [ENG] Finds the position of the first H3 heading in the note so the new updates are inserted before that section.
+// [ITA] Trova la posizione del primo H2 presente nella nota per inserire i nuovi aggiornamenti prima di quel blocco.
+// [ENG] Finds the position of the first H2 heading in the note so the new updates are inserted before that section.
 const contentForFinalUpdate = (insertionBaseText || existingText).replace(/\s*$/, '');
-const firstH3Index = contentForFinalUpdate.search(/^###\s+/m);
-// [ITA] Definisce il titolo principale da cercare come punto di inserimento alternativo se non esiste nessun H3.
-// [ENG] Defines the main title to search for as a fallback insertion point if no H3 heading exists.
+const firstH2Index = contentForFinalUpdate.search(/^##\s+/m);
+// [ITA] Definisce il titolo principale da cercare come punto di inserimento alternativo se non esiste nessun H2.
+// [ENG] Defines the main title to search for as a fallback insertion point if no H2 heading exists.
 const h1Tag = "# Changelog Vault Chiesa";
 // [ITA] Cerca l'H1 a riga intera, così il punto di inserimento resta corretto anche senza newline finale o con molte newline finali.
 // [ENG] Searches for the H1 as a full line so the insertion point stays correct even without a trailing newline or with multiple trailing newlines.
@@ -695,21 +695,21 @@ const h1Index = h1Match ? h1Match.index : -1;
 // [ITA] Inizializza il contenuto finale con la versione già consolidata del file, così i blocchi precedenti vengono sostituiti e non duplicati.
 // [ENG] Initializes the final content with the already-consolidated file version so previous blocks are replaced instead of duplicated.
 let finalOutput = contentForFinalUpdate;
-// [ITA] Se esiste un H3, inserisce i nuovi blocchi prima del primo H3 preservando il resto della nota.
-// [ENG] If an H3 exists, inserts the new blocks before the first H3 while preserving the rest of the note.
-if (firstH3Index !== -1) {
-    // [ITA] Salva il contenuto precedente al primo H3 e tronca eventuali spazi finali in eccesso.
-    // [ENG] Saves content before the first H3 and trims any excess trailing whitespace.
-    const beforeFirstH3 = contentForFinalUpdate.substring(0, firstH3Index).trimEnd();
-    // [ITA] Salva il contenuto da quel primo H3 in poi per riportarlo dopo i nuovi inserimenti, rimuovendo eventuali newline iniziali extra.
-    // [ENG] Saves content from that first H3 onward to reattach it after the new insertions, removing any extra leading newlines.
-    const afterFirstH3 = contentForFinalUpdate.substring(firstH3Index).replace(/^\n+/, '');
-    // [ITA] Ricostruisce il file con i nuovi changelog inseriti prima del primo H3 esistente.
-    // [ENG] Rebuilds the file with the new changelog inserted before the first existing H3.
-    finalOutput = `${beforeFirstH3}\n\n${newMarkdown.trim()}\n\n${afterFirstH3}`;
+// [ITA] Se esiste un H2, inserisce i nuovi blocchi prima del primo H2 preservando il resto della nota.
+// [ENG] If an H2 exists, inserts the new blocks before the first H2 while preserving the rest of the note.
+if (firstH2Index !== -1) {
+    // [ITA] Salva il contenuto precedente al primo H2 e tronca eventuali spazi finali in eccesso.
+    // [ENG] Saves content before the first H2 and trims any excess trailing whitespace.
+    const beforeFirstH2 = contentForFinalUpdate.substring(0, firstH2Index).trimEnd();
+    // [ITA] Salva il contenuto da quel primo H2 in poi per riportarlo dopo i nuovi inserimenti, rimuovendo eventuali newline iniziali extra.
+    // [ENG] Saves content from that first H2 onward to reattach it after the new insertions, removing any extra leading newlines.
+    const afterFirstH2 = contentForFinalUpdate.substring(firstH2Index).replace(/^\n+/, '');
+    // [ITA] Ricostruisce il file con i nuovi changelog inseriti prima del primo H2 esistente.
+    // [ENG] Rebuilds the file with the new changelog inserted before the first existing H2.
+    finalOutput = `${beforeFirstH2}\n\n${newMarkdown.trim()}\n\n${afterFirstH2}`;
 }
-// [ITA] Se non esiste nessun H3, usa l'H1 come punto di ancoraggio se presente.
-// [ENG] If no H3 exists, uses the H1 as anchor point when present.
+// [ITA] Se non esiste nessun H2, usa l'H1 come punto di ancoraggio se presente.
+// [ENG] If no H2 exists, uses the H1 as anchor point when present.
 else if (h1Index !== -1) {
     // [ITA] Prepara il testo prima dell'H1 e mantiene il titolo principale in posizione iniziale, anche se l'H1 termina con zero, una o più newline.
     // [ENG] Prepares the text before the H1 and keeps the main title in its initial position, even if the H1 ends with zero, one, or multiple newlines.
