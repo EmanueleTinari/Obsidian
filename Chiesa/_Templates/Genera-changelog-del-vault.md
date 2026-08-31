@@ -286,9 +286,9 @@ const { execSync } = require('child_process');
 // [ITA] Ottiene il percorso assoluto della radice della Vault di Obsidian.
 // [ENG] Gets the absolute root path of the Obsidian Vault.
 const vaultPath = app.vault.adapter.getBasePath();
-// [ITA] Definisce il nome stabile del changelog in root della Vault, così il file si aggiorna sempre nello stesso punto.
-// [ENG] Defines the stable changelog name in the vault root, so the file is always updated in the same place.
-const targetFileName = "Changelog dei file presenti su GitHub.md";
+// [ITA] Definisce il nome stabile del changelog in root della Vault, così il file si aggiorna sempre nello stesso punto e GitHub lo mostra come pagina iniziale della cartella.
+// [ENG] Defines the stable changelog name in the vault root, so the file is always updated in the same place and GitHub shows it as the folder landing page.
+const targetFileName = "README.md";
 // [ITA] Costruisce il percorso completo del file di changelog combinando la radice e il nome file fisso.
 // [ENG] Builds the full changelog file path by combining the vault root and the fixed file name.
 const targetFilePath = path.join(vaultPath, targetFileName);
