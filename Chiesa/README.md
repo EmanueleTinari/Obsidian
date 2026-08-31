@@ -1,10 +1,10 @@
 ---
-cssclasses: indice
+cssclasses: changelog
 licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 ideatore: "Emanuele Tinari"
 sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
-template: Genera-changelog-del-vault.md
-nomeFile: Changelog dei file presenti su GitHub.md
+template: "Genera-changelog-del-vault.md"
+nomeFile: "README.md"
 creato: 2026/08/29 07:58:48
 modificato: 2026/08/31 15:14:55
 ---
