@@ -19,6 +19,7 @@ aliases:
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 digitalizzatore: "Emanuele Tinari"
+revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-quam-ex-sublimi--i---8-agosto-1755--il-pontefice-estend.html)"
 nomeFile: "1755-08-08-bxiv-bre-qes-IT.md"
 creato: 2025/09/11 08:15:33
