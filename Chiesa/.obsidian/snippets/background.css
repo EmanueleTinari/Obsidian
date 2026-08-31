@@ -2,6 +2,8 @@
 **		Selezionare SEZIONE, # + relativa sezione +
 **		CTRL + F per arrivare alla sezione corretta:
 **
+**		SEZIONE #CHANGELOG
+**			cssclasses: changelog
 **		SEZIONE #INDICE
 **			cssclasses: indice
 **		SEZIONE #INTERFACCIA
@@ -379,6 +381,126 @@
 .is-live-preview .cm-line .cm-hmd-frontmatter.cm-def .cm-selection {
 	visibility: visible;
 }
+
+
+/* #region SEZIONE CHANGELOG */
+/**	==========================================
+**				SEZIONE #CHANGELOG
+**	==========================================
+**
+** 	Questi stili CSS colpiscono solamente
+**	i file MD con cssclasses: changelog
+**
+**	==========================================
+*/
+
+/* Sblocca le variabili di larghezza per la nota con cssclasses: changelog */
+.changelog {
+	--file-line-width: 100% !important;
+	--line-width: 100% !important;
+	--line-width-wide: 100% !important;
+}
+
+/* Modalità Lettura (Reading View) */
+.changelog .markdown-preview-sizer {
+	max-width: 100% !important;
+	width: 100% !important;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+
+/* Modalità Modifica / Live Preview (Editing View) */
+.changelog .cm-sizer,
+.changelog .markdown-rendered {
+	max-width: 100% !important;
+	width: 100% !important;
+}
+
+/* Forza le tabelle ad occupare tutto lo spazio */
+.changelog .block-language-dataviewjs,
+.changelog table {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* 1. Riduzione font per TUTTE le celle e le intestazioni */
+.changelog table th,
+.changelog table td {
+    font-size: 0.85rem !important; /* Regola la dimensione a piacere */
+    padding: 4px 8px !important;    /* Riduce lo spazio interno per compattare le righe */
+}
+
+/* Larghezza per la sola colonna DATA E ORARIO (1ª colonna) */
+.changelog table th:nth-child(1),
+.changelog table td:nth-child(1) {
+    font-size: 0.7rem !important;
+    font-weight: 300 !important;
+    width: 0 !important;                    /* Valore in px o % */
+    white-space: nowrap !important;         /* Impedisce alla Data e orario di andare a capo */
+}
+/* Larghezza per la sola colonna NOME FILE (2ª colonna) */
+.changelog table th:nth-child(2),
+.changelog table  td:nth-child(2) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce al Nome file di andare a capo */
+}
+
+/* Larghezza per la sola colonna COMMIT (3ª colonna) */
+.changelog table th:nth-child(3),
+.changelog table td:nth-child(3) {
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce al Commit di andare a capo */
+}
+
+/** TITOLO del CHANGELOG: Testo + grande, MAIUSCOLO, corsivo, centrato e grassetto **/
+/** header H1 in editing view **/
+.changelog .cm-header.cm-header-1,
+.changelog h1 {
+	color: blue !important;
+	font-size: 2rem !important;
+	font-style: italic !important;
+	font-weight: bold !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	margin-bottom: 5rem !important;
+	margin-top: 5rem !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/** H2 CHANGELOG:**/
+/** header H2 in editing view **/
+.changelog .cm-header.cm-header-2,
+.changelog h2 {
+	color: lightgreen !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	font-size: 1.5rem !important;
+	font-style: italic !important;
+	margin-bottom: 3rem !important;
+	margin-top: 3rem !important;
+	padding-left: 5rem !important;
+	text-decoration: underline dashed !important;
+	/* Definisce linea, stile tratteggiato, colore e spessore */
+	text-decoration-line: underline !important;
+	text-decoration-style: dashed !important;
+	/* Cambia il colore del trattino */
+	text-decoration-color: #888888 !important;
+	/* Spessore della linea */
+	text-decoration-thickness: 0.1rem !important;
+	/* Distanza dal testo */
+	text-underline-offset: 0.5rem !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/* #endregion */
 
 
 
@@ -2160,6 +2282,106 @@ body.bibbia {
 	text-align: justify !important;
 	/* Compensa i margini laterali per il giustificato */
 	width: calc(100% - 2.2rem) !important;
+}
+
+/*****************************************/
+/** LISTE con classe listaNorm:			**/
+/** Testo normalizzato e giustificato	**/
+/*****************************************/
+
+.docVat .markdown-preview-view .el-ul .listaNorm > li,
+.docVat .markdown-preview-view .el-ol .listaNorm > li,
+.docVat .markdown-rendered .el-ul .listaNorm > li,
+.docVat .markdown-rendered .el-ol .listaNorm > li,
+.docVat ul.listaNorm > li,
+.docVat ol.listaNorm > li {
+	color: white !important;
+	display: list-item !important;
+	font-family: "Times New Roman", Times, serif !important;
+	font-size: 1.6rem !important;
+	line-height: 1.2 !important;
+	margin-bottom: 1rem !important;
+	margin-left: 2.5rem !important;
+	margin-right: 1.1rem !important;
+	margin-top: 0 !important;
+	text-align: justify !important;
+	/* Compensa i margini laterali per il giustificato */
+	width: calc(100% - 3.6rem) !important;
+}
+
+/* Formatta direttamente il tag LI quando possiede la classe listaNorm */
+.docVat .markdown-preview-view li.listaNorm,
+.docVat .markdown-rendered li.listaNorm,
+.docVat li.listaNorm,
+li.listaNorm {
+    color: white !important;
+    display: list-item !important;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 1.6rem !important;
+    line-height: 1.2 !important;
+    margin-bottom: 1rem !important;
+    margin-left: 2.5rem !important;
+    margin-right: 1.1rem !important;
+    margin-top: 0 !important;
+    text-align: justify !important;
+    width: calc(100% - 3.6rem) !important;
+}
+
+.docVat .el-p + .el-ol .listaNorm,
+.docVat .el-p + .el-ul .listaNorm {
+    margin-top: -4rem !important;
+}
+
+.el-ol .listaNorm > li:last-child,
+.el-ul .listaNorm > li:last-child {
+    margin-bottom: 7rem !important;
+}
+
+.docVat ol.listaNorm > li > ul,
+.docVat ol.listaNorm > li > ol,
+.docVat ul.listaNorm > li > ul,
+.docVat ul.listaNorm > li > ol {
+    /* stile della lista annidata */
+    margin-top: -4rem !important;
+}
+
+/* Blocco dedicato alla sotto-lista */
+.docVat .markdown-preview-view .sublistaNorm > li,
+.docVat .markdown-rendered .sublistaNorm > li,
+.docVat .sublistaNorm > li,
+.sublistaNorm > li {
+    color: white !important;
+    display: list-item !important;
+    font-family: "Times New Roman", Times, serif !important;
+    font-size: 1.6rem !important;
+    line-height: 1.2 !important;
+    margin-bottom: 1rem !important;
+    margin-left: 1.5rem !important;   /* Rientro sinistro ridotto */
+    margin-right: 0.5rem !important; /* Spazio destro ridotto */
+    text-align: justify !important;
+    width: calc(100% - 2rem) !important; /* Compensazione: 1rem + 0.5rem */
+}
+
+/* Margine superiore solo per il primo elemento della sotto-lista */
+.docVat .markdown-preview-view .sublistaNorm > li:first-child,
+.docVat .markdown-rendered .sublistaNorm > li:first-child,
+.docVat .sublistaNorm > li:first-child,
+.sublistaNorm > li:first-child {
+    margin-top: 3rem !important;
+}
+
+/* Spaziatura per ogni sotto-elemento li */
+.docVat .markdown-preview-view .sublistaNorm > li,
+.docVat .markdown-rendered .sublistaNorm > li,
+.docVat .sublistaNorm > li,
+.sublistaNorm > li {
+    margin-bottom: 1rem !important;
+}
+
+/* Azzera il margine sull'ultimo elemento per evitare stacchi indesiderati alla fine del blocco */
+.docVat .sublistaNorm > li:last-child,
+.sublistaNorm > li:last-child {
+    margin-bottom: 4rem !important;
 }
 
 /*********************************/
