@@ -6,7 +6,7 @@ sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
 template: "Genera-changelog-del-vault.md"
 nomeFile: "README.md"
 creato: 2026/08/29 07:58:48
-modificato: 2026/08/31 15:14:55
+modificato: 2026/08/31 22:38:39
 ---
 
 # Changelog Vault Chiesa
@@ -15,6 +15,21 @@ modificato: 2026/08/31 15:14:55
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
+| 31-08-2026 22:23:41 +0200 | [Meditazioni quotidiane / 2019-12-03-fi-meq-edp-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Meditazioni%20quotidiane/2019-12-03-fi-meq-edp-IT.md) | (Create) Creato il file: Meditazione mattutina quotidiana Francesco I (Franciscus I): “Elogio della piccolezza”, 3 dicembre 2019 |
+| 31-08-2026 22:06:54 +0200 | [Meditazioni quotidiane / 2013-04-02-fi-meq-gdl-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Meditazioni%20quotidiane/2013-04-02-fi-meq-gdl-IT.md) | (Create) Creato il file: Meditazione mattutina quotidiana Francesco I (Franciscus I): “La grazia delle lacrime”, 2 aprile 2013 |
+| 31-08-2026 22:06:28 +0200 | [Meditazioni quotidiane / 2013-03-26-fi-meq-bep-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Meditazioni%20quotidiane/2013-03-26-fi-meq-bep-IT.md) | (Create) Creato il file: Meditazione quotidiana Francesco I (Franciscus I): “Com’è bello essere perdonati”, 26 marzo 2013 |
+| 31-08-2026 22:05:08 +0200 | [Meditazioni quotidiane / 2013-03-25-fi-meq-pdd-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Meditazioni%20quotidiane/2013-03-25-fi-meq-pdd-IT.md) | (Create) Creato il file: Meditazione mattutina quotidiana Francesco I (Franciscus I): “La pazienza di Dio”, 25 marzo 2013 |
+| 31-08-2026 22:03:55 +0200 | [Meditazioni quotidiane / 2013-03-23-fi-meq-cmo-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Meditazioni%20quotidiane/2013-03-23-fi-meq-cmo-IT.md) | (Create) Creato il file: Meditazione mattutina quotidiana Francesco I (Franciscus I): “Cristo è morto per ogni uomo”, 23 marzo 2013 |
+| 31-08-2026 21:30:36 +0200 | [Motu proprio / 2025-09-29-lxiv-mpr-coc-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Motu%20proprio/2025-09-29-lxiv-mpr-coc-IT.md) | (Create) Creato il file: Motu Proprio Leone XIV (Leo XIV): “«Coniuncta cura» Sulle attività di investimento finanziario della Santa Sede”, 29 settembre 2025 |
+| 31-08-2026 18:54:53 +0200 | [Motu proprio / 2007-07-07-bxvi-mpr-sup-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Motu%20proprio/2007-07-07-bxvi-mpr-sup-IT.md) | (Create) Creato il file: Motu Proprio Benedetto XVI (Benedictus XVI): «“Summorum Pontificum” sulla “Liturgia romana anteriore alla riforma del 1970”», 07 luglio 2007 |
+| 31-08-2026 18:52:43 +0200 | [Motu proprio / 1903-11-22-pix-mpr-tls-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Motu%20proprio/1903-11-22-pix-mpr-tls-IT.md) | (Create) Creato il file: Motu Proprio Pio X (Pius X): “Tra le sollecitudini”, 22 novembre 1903 |
+| 31-08-2026 18:52:21 +0200 | [Motu proprio / 1826-11-14-lxii-mpr-ign-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Motu%20proprio/1826-11-14-lxii-mpr-ign-IT.md) | (Create) Creato il file: Motu proprio Leone XII (Leo XII): “I gloriosi Nostri”, 14 novembre 1826 |
+| 31-08-2026 18:52:00 +0200 | [Motu proprio / 1826-06-21-lxii-mpr-loo-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Motu%20proprio/1826-06-21-lxii-mpr-loo-IT.md) | (Create) Creato il file: Motu proprio Leone XII (Leo XII): “L’olio oggetto”, 21 giugno 1826 |
+| 31-08-2026 18:51:13 +0200 | [Motu proprio / 1801-03-11-pivii-mpr-lpc-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Motu%20proprio/1801-03-11-pivii-mpr-lpc-IT.md) | (Create) Creato il file: Motu proprio Pio VII (Pius VII): “Le più colte”, 11 marzo 1801 |
+| 31-08-2026 18:34:29 +0200 | [_Templates / Genera-changelog-del-vault.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-changelog-del-vault.md) | (Edit and Update) Modificato ed aggiornato il file: Genera-changelog-del-vault.md |
+| 31-08-2026 16:52:27 +0200 | [snippets / background.css](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/.obsidian/snippets/background.css) | (Edit and Update) Modificato ed aggiornato il file: background.css |
+| 31-08-2026 16:43:03 +0200 | [Chiesa / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
+| 31-08-2026 16:41:24 +0200 | [_Templates / Genera-changelog-del-vault.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-changelog-del-vault.md) | (Edit and Update) Modificato ed aggiornato il file: Genera-changelog-del-vault.md |
 | 31-08-2026 16:15:29 +0200 | [_Templates / Genera-changelog-del-vault.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-changelog-del-vault.md) | (Edit and Update) Modificato ed aggiornato il file: Genera-changelog-del-vault.md |
 | 31-08-2026 16:14:08 +0200 | [Chiesa / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
 | 31-08-2026 15:53:10 +0200 | [Chiesa / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
