@@ -20,7 +20,7 @@ DESCRIZIONE
 2026/09/01 00:17:28
 
 .MODIFICATO
-2026/09/01 08:56:00
+2026/09/01 09:46:30
 
 [ENG]
 DESCRIPTION
@@ -43,7 +43,7 @@ DESCRIPTION
 2026/09/01 00:17:28
 
 .MODIFICATO
-2026/09/01 08:56:00
+2026/09/01 09:46:30
 #>
 
 # [ITA] Imposta il comportamento in caso di errore per interrompere lo script.
@@ -104,6 +104,8 @@ N.B.:
 - Di ogni testo nei file markdown.md è presente ANCHE la relativa versione PDF scaricata in originale dal sito del Vaticano.
 - Ogni file PDF ha lo stesso nome del testo markdown.md con estensione .pdf
 - Durante la generazione dei file PDF è stata applicata una diversa marginazione e sono state eliminate le intestazioni e i piè di pagina contenenti i menù del sito stesso.
+- Ogni riga nel file $folderName.csv rappresenta un testo caricato su GitHub.
+- La colonna 1 e 2 di tale CSV, sempre con valore 'true', sono riferite al fatto che il documento è stato creato in markdown.md e anche il relativo .PDF è presente su GitHub
 
 "@
 	# [ITA] Inizializza l'array per l'intestazione finale.
