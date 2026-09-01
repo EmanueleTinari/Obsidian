@@ -6,7 +6,7 @@ sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
 template: "Genera README dal csv nella cartella no Sub.ps1"
 nomeFile: "README.md"
 creato: 2026/09/01 08:03:06
-modificato: 2026/09/01 09:47:49
+modificato: 2026/09/01 10:07:57
 ---
 
 # Proclami già presenti in questa cartella
@@ -21,5 +21,5 @@ N.B.:
 
 | AUTORE | DATA | TITOLO | LINK |
 | --- | --- | --- | --- |
-| Pio IX (Pius IX) | 14/03/1848 | Romani, e quanti | [1848-03-14-piix-pro-req-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/1848-03-14-piix-pro-req-IT) |
-| Pio IX (Pius IX) | 01/01/1849 | Da questa pacifica | [1849-01-01-piix-pro-dqp-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/1849-01-01-piix-pro-dqp-IT) |
+| Pio IX (Pius IX) | 14/03/1848 | Romani, e quanti | [1848-03-14-piix-pro-req-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/1848-03-14-piix-pro-req-IT.md) |
+| Pio IX (Pius IX) | 01/01/1849 | Da questa pacifica | [1849-01-01-piix-pro-dqp-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/1849-01-01-piix-pro-dqp-IT.md) |
