@@ -6,7 +6,7 @@ sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
 template: "Genera README dal csv nella cartella no Sub.ps1"
 nomeFile: "README.md"
 creato: 2026/09/01 08:03:06
-modificato: 2026/09/01 09:33:46
+modificato: 2026/09/01 09:47:49
 ---
 
 # Proclami già presenti in questa cartella
@@ -16,6 +16,8 @@ N.B.:
 - Di ogni testo nei file markdown.md è presente ANCHE la relativa versione PDF scaricata in originale dal sito del Vaticano.
 - Ogni file PDF ha lo stesso nome del testo markdown.md con estensione .pdf
 - Durante la generazione dei file PDF è stata applicata una diversa marginazione e sono state eliminate le intestazioni e i piè di pagina contenenti i menù del sito stesso.
+- Ogni riga nel file Proclami.csv rappresenta un testo caricato su GitHub.
+- La colonna 1 e 2 di tale CSV, sempre con valore 'true', sono riferite al fatto che il documento è stato creato in markdown.md e anche il relativo .PDF è presente su GitHub
 
 | AUTORE | DATA | TITOLO | LINK |
 | --- | --- | --- | --- |
