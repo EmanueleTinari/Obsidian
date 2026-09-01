@@ -5,7 +5,7 @@ ideatore: "Emanuele Tinari"
 sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
 nomeFile: "_Indice Decreti.md"
 creato: 2025/10/26 23:07:59
-modificato: 2026/08/24 21:42:30
+modificato: 2026/09/01 08:14:29
 ---
 
 
@@ -59,7 +59,10 @@ and enables dynamic column sorting upon clicking table headers.
 			p.file.ext === "md" &&
 			// [ITA] Esclude dal risultato i file il cui nome inizia con il carattere di sottolineatura ("_").
 			// [ENG] Excludes files whose name starts with an underscore ("_") from the result.
-			!p.file.name.startsWith("_")
+			!p.file.name.startsWith("_") &&
+			// [ITA] Esclude dal risultato i file il cui nome è "README" (case-insensitive).
+	        // [ENG] Excludes files whose name is "README" (case-insensitive) from the result.
+        	p.file.name.toLowerCase() !== "readme"
 		// [ITA] Chiude la funzione di filtraggio .where().
 		// [ENG] Closes the .where() filtering function.
 		);
