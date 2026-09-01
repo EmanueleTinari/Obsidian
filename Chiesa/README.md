@@ -6,7 +6,7 @@ sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
 template: "Genera-changelog-del-vault.md"
 nomeFile: "README.md"
 creato: 2026/08/29 07:58:48
-modificato: 2026/08/31 22:38:39
+modificato: 2026/08/31 23:04:03
 ---
 
 # Changelog Vault Chiesa
