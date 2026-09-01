@@ -20,7 +20,7 @@ DESCRIZIONE
 2026/09/01 00:17:28
 
 .MODIFICATO
-2026/09/01 09:46:30
+2026/09/01 10:06:30
 
 [ENG]
 DESCRIPTION
@@ -43,7 +43,7 @@ DESCRIPTION
 2026/09/01 00:17:28
 
 .MODIFICATO
-2026/09/01 09:46:30
+2026/09/01 10:06:30
 #>
 
 # [ITA] Imposta il comportamento in caso di errore per interrompere lo script.
@@ -214,9 +214,9 @@ N.B.:
 		# [ITA] Converte il percorso in stringa e sostituisce gli spazi con il codice percentuale %20 per il percorso della cartella.
 		# [ENG] Converts path to string and replaces spaces with percent code %20 for folder path.
 		$cleanRelPath = ([string]$relPath).Replace(" ", "%20")
-		# [ITA] Converte il valore in stringa e sostituisce gli spazi con il codice percentuale %20 per il nome del file.
-		# [ENG] Converts value to string and replaces spaces with percent code %20 for filename.
-		$cleanFileName = ([string]$col19).Replace(" ", "%20")
+		# [ITA] Converte il valore in stringa, sostituisce gli spazi con %20 ed aggiunge l'estensione .md per l'URL di GitHub.
+		# [ENG] Converts value to string, replaces spaces with %20, and appends the .md extension for the GitHub URL.
+		$cleanFileName = ([string]$col19).Replace(" ", "%20") + ".md"
 		# [ITA] Assembla l'URL completo del file su GitHub concatenando le varie parti.
 		# [ENG] Assembles full file URL on GitHub by concatenating various parts.
 		$fullUrl = "$ghBaseUrl$cleanRelPath/$cleanFileName"
