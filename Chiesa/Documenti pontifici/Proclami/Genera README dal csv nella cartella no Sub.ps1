@@ -93,6 +93,19 @@ try {
 		'nomeFile: "README.md"',
 		'creato:'
 	)
+	# [ITA] Aggiunge il blocco di note e l'intestazione H1 tramite una costante multi-riga (Here-String).
+    # [ENG] Appends notes block and H1 header using a multi-line string constant (Here-String).
+    $bodyText = @"
+
+# $folderName già presenti in questa cartella
+
+N.B.:
+
+- Di ogni testo nei file markdown.md è presente ANCHE la relativa versione PDF scaricata in originale dal sito del Vaticano.
+- Ogni file PDF ha lo stesso nome del testo markdown.md con estensione .pdf
+- Durante la generazione dei file PDF è stata applicata una diversa marginazione e sono state eliminate le intestazioni e i piè di pagina contenenti i menù del sito stesso.
+
+"@
 	# [ITA] Inizializza l'array per l'intestazione finale.
 	# [ENG] Initializes array for final header.
 	$headerLines = @()
@@ -138,15 +151,9 @@ try {
 	# [ITA] Aggiunge la decima riga prescritta con la linea divisoria Markdown.
 	# [ENG] Appends tenth prescribed line with Markdown separator line.
 	[void]$sb.AppendLine("---")
-	# [ITA] Aggiunge l'undicesima riga prescritta che è una linea vuota.
-	# [ENG] Appends eleventh prescribed line which is an empty line.
-	[void]$sb.AppendLine("")
-	# [ITA] Aggiunge l'intestazione H1 dinamica utilizzando il nome originale della cartella ($folderName).
-	# [ENG] Appends dynamic H1 header using the original folder name ($folderName).
-	[void]$sb.AppendLine("# $folderName già presenti in questa cartella")
-	# [ITA] Aggiunge la tredicesima riga prescritta che è una linea vuota.
-	# [ENG] Appends 13th prescribed line which is an empty line.
-	[void]$sb.AppendLine("")
+	# [ITA] Aggiunge l'intero blocco di testo multiriga (Here-String) del corpo del file allo StringBuilder.
+    # [ENG] Appends the entire multi-line body text block (Here-String) to the StringBuilder.
+    [void]$sb.AppendLine($bodyText)
 	# [ITA] Aggiunge la riga con le intestazioni delle colonne della tabella Markdown.
 	# [ENG] Appends row with Markdown table column headers.
 	[void]$sb.AppendLine("| AUTORE | DATA | TITOLO | LINK |")
