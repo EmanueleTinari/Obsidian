@@ -9,7 +9,7 @@ modificato: 2026/09/01 08:14:29
 ---
 
 
-# Indice di tutti i Decreti pontifici
+# Indice di tutti i Decreti
 
 
 <div style="text-align: center; color: red; font-size: 1.2rem;"><span>Cliccando sull’intestazione della colonna si ordinano i documenti in maniera ascendente o discendente.</span></div>
@@ -25,8 +25,10 @@ modificato: 2026/09/01 08:14:29
 ITA
 --------
 DESCRIZIONE:
-Questo script DataviewJS genera una tabella interattiva dei file Markdown contenuti
-nella cartella "Documenti pontifici/Decreti", escludendo tutti i file che iniziano per "_".
+Questo script DataviewJS genera una tabella interattiva dei file Markdown aventi
+tipo-doc "Decreti" presenti nelle cartelle "Documenti pontifici" e 
+"Documenti vari" (incluse le sottocartelle), escludendo i file "README" e quelli che 
+iniziano per "_".
 Visualizza i dati metadata (progressivo, numero, autore, data formattata, titolo, link al file)
 e permette l'ordinamento dinamico delle colonne al clic sulle intestazioni di tabella.
 
@@ -34,8 +36,10 @@ e permette l'ordinamento dinamico delle colonne al clic sulle intestazioni di ta
 ENG
 --------
 DESCRIPTION:
-This DataviewJS script generates an interactive table of Markdown files located in the
-"Documenti pontifici/Decreti" folder, excluding all files starting with "_".
+This DataviewJS script generates an interactive table of Markdown files with
+tipo-doc "Decreti" located across the "Documenti pontifici" and 
+"Documenti vari" folders (including subfolders), excluding "README" files and any file 
+starting with "_".
 It displays metadata fields (progressive ID, number, author, formatted date, title, file link)
 and enables dynamic column sorting upon clicking table headers.
 */
@@ -44,18 +48,21 @@ and enables dynamic column sorting upon clicking table headers.
 // [ITA] Apre un blocco di codice isolato (scope) per evitare conflitti di variabili ad ogni ricaricamento della nota.
 // [ENG] Opens an isolated code block (scope) to prevent variable conflicts on every note reload.
 {
-	// [ITA] Definisce il percorso della cartella del vault da cui recuperare i documenti.
-	// [ENG] Defines the vault folder path from which to retrieve the documents.
-	const workingFolder = "Documenti pontifici/Decreti";
+	// [ITA] Definisce i percorsi delle cartelle principali del vault da cui recuperare i documenti.
+	// [ENG] Defines the main vault folder paths from which to retrieve the documents.
+	const workingFolders = '"Documenti pontifici" or "Documenti vari"';
 	// [ITA] Crea una stringa HTML formattata per rappresentare visivamente i campi metadata mancanti.
 	// [ENG] Creates a formatted HTML string to visually represent missing metadata fields.
 	const missing = `<span style="color:red; font-weight:bold;">X</span>`;
 	// [ITA] Interroga Dataview per ottenere tutte le pagine presenti nella cartella specificata.
 	// [ENG] Queries Dataview to retrieve all pages located inside the specified folder.
-	const pages = dv.pages(`"${workingFolder}"`)
+	const pages = dv.pages(workingFolders)
 		// [ITA] Filtra le pagine mantenendo solo i file con estensione ".md".
 		// [ENG] Filters pages to keep only files with the ".md" extension.
 		.where(p =>
+			// [ITA] Filtra per il campo frontmatter tipo-doc verificando che contenga la stringa desiderata.
+			// [ENG] Filters by the tipo-doc frontmatter field checking if it contains the target string.
+			p["tipo-doc"] && String(p["tipo-doc"]).includes("Decreti") &&
 			p.file.ext === "md" &&
 			// [ITA] Esclude dal risultato i file il cui nome inizia con il carattere di sottolineatura ("_").
 			// [ENG] Excludes files whose name starts with an underscore ("_") from the result.
