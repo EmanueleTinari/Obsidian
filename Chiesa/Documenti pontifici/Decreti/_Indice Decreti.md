@@ -18,9 +18,9 @@ modificato: 2026/09/01 08:14:29
 ```dataviewjs
 
 /*
-===================================================
-📌 INDICE DINAMICO INTERATTIVO DEI DECRETI PONTIFICI
-===================================================
+==========================================
+📌 INDICE DINAMICO INTERATTIVO DEI DECRETI
+==========================================
 
 ITA
 --------
@@ -62,7 +62,7 @@ and enables dynamic column sorting upon clicking table headers.
 		.where(p =>
 			// [ITA] Filtra per il campo frontmatter tipo-doc verificando che contenga la stringa desiderata.
 			// [ENG] Filters by the tipo-doc frontmatter field checking if it contains the target string.
-			p["tipo-doc"] && String(p["tipo-doc"]).includes("Decreti") &&
+			p["tipo-doc"] && String(p["tipo-doc"]).replace(/[\[\]]/g, "").split("|")[1]?.trim() ==="Decreto" &&
 			p.file.ext === "md" &&
 			// [ITA] Esclude dal risultato i file il cui nome inizia con il carattere di sottolineatura ("_").
 			// [ENG] Excludes files whose name starts with an underscore ("_") from the result.
