@@ -21,4 +21,4 @@ N.B.:
 
 | AUTORE | DATA | TITOLO | LINK |
 | --- | --- | --- | --- |
-| Paolo VI (Paulus VI) | 04/12/1963 | Sacrosanctum Concilium | [1963-12-04-pvi-cos-sac-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Documenti%20vari/Documenti%20del%20Concilio%20Ecumenico%20Vaticano%20II/1963-12-04-pvi-cos-sac-IT.md) |
+| Paolo VI (Paulus VI) | 04/12/1963 | Sacrosanctum Concilium | [1963-12-04-pvi-cos-sac-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20vari/Documenti%20del%20Concilio%20Ecumenico%20Vaticano%20II/1963-12-04-pvi-cos-sac-IT.md) |
