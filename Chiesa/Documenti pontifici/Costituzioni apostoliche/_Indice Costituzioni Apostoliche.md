@@ -3,13 +3,13 @@ cssclasses: indice
 licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
 ideatore: "Emanuele Tinari"
 sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
-nomeFile: "_Indice Costituzioni Apostoliche.md"
+nomeFile: "_Indice Costituzioni apostoliche.md"
 creato: 2025/08/28 22:14:04
 modificato: 2026/08/24 21:42:30
 ---
 
 
-# Indice di tutte le Costituzioni apostoliche
+# Indice di tutte le Costituzioni apostoliche pontificie
 
 
 <div style="text-align: center; color: red; font-size: 1.2rem;"><span>Cliccando sull’intestazione della colonna si ordinano i documenti in maniera ascendente o discendente.</span></div>
