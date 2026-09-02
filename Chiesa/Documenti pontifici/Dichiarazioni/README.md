@@ -6,7 +6,7 @@ sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
 template: "Genera README dal csv nella cartella no Sub.ps1"
 nomeFile: "README.md"
 creato: 2026/09/01 10:42:24
-modificato: 2026/09/01 10:43:03
+modificato: 2026/09/02 17:36:55
 ---
 
 # Dichiarazioni già presenti in questa cartella
@@ -22,3 +22,6 @@ N.B.:
 | AUTORE | DATA | TITOLO | LINK |
 | --- | --- | --- | --- |
 | Pio VI (Pius VI) | 10/12/1792 | Perpensis circumstantiis | [1792-12-10-pivi-dic-pec-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/1792-12-10-pivi-dic-pec-IT.md) |
+| Paolo VI (Paulus VI) | 28/10/1965 | Gravissimum Educationis | [1965-10-28-pvi-dic-gre-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20vari/Documenti%20del%20Concilio%20Ecumenico%20Vaticano%20II/1965-10-28-pvi-dic-gre-IT.md) |
+| Paolo VI (Paulus VI) | 28/10/1965 | Nostra Aetate | [1965-10-28-pvi-dic-noa-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20vari/Documenti%20del%20Concilio%20Ecumenico%20Vaticano%20II/1965-10-28-pvi-dic-noa-IT.md) |
+| Paolo VI (Paulus VI) | 07/12/1965 | Dignitatis Humanae | [1965-12-07-pvi-dic-dih-IT](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20vari/Documenti%20del%20Concilio%20Ecumenico%20Vaticano%20II/1965-12-07-pvi-dic-dih-IT.md) |
