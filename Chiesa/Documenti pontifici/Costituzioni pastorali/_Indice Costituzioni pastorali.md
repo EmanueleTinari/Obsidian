@@ -26,8 +26,8 @@ ITA
 --------
 DESCRIZIONE:
 Questo script DataviewJS genera una tabella interattiva dei file Markdown aventi
-tipo-doc "Costituzione pastorale" presenti nelle cartelle "Documenti pontifici" e 
-"Documenti vari" (incluse le sottocartelle), escludendo i file "README" e quelli che 
+tipo-doc "Costituzione pastorale" presenti nelle cartelle "Documenti pontifici" e
+"Documenti vari" (incluse le sottocartelle), escludendo i file "README" e quelli che
 iniziano per "_".
 Visualizza i dati metadata (progressivo, numero, autore, data formattata, titolo, link al file)
 e permette l'ordinamento dinamico delle colonne al clic sulle intestazioni di tabella.
@@ -37,8 +37,8 @@ ENG
 --------
 DESCRIPTION:
 This DataviewJS script generates an interactive table of Markdown files with
-tipo-doc "Costituzione pastorale" located across the "Documenti pontifici" and 
-"Documenti vari" folders (including subfolders), excluding "README" files and any file 
+tipo-doc "Costituzione pastorale" located across the "Documenti pontifici" and
+"Documenti vari" folders (including subfolders), excluding "README" files and any file
 starting with "_".
 It displays metadata fields (progressive ID, number, author, formatted date, title, file link)
 and enables dynamic column sorting upon clicking table headers.
