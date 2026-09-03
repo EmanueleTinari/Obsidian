@@ -1,20 +1,96 @@
 ---
 cssclasses: changelog
 licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
-ideatore: "Emanuele Tinari"
-sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
-template: "Genera-changelog-del-vault.md"
-nomeFile: "README.md"
+ideatore: Emanuele Tinari
+sviluppatore:
+  - Emanuele Tinari
+  - Gemini Web App
+template: Genera-changelog-del-vault.md
+nomeFile: README.md
 creato: 2026/08/29 07:58:48
-modificato: 2026/08/31 23:04:03
+modificato: 2026/09/02 21:24:05
 ---
 
 # Changelog Vault Chiesa
+
+## Changelog del 02-09-2026
+
+| Data e orario | Nome file | Commit |
+| --- | --- | --- |
+| 02-09-2026 17:47:19 +0200 | [Dichiarazioni / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
+| 02-09-2026 17:46:42 +0200 | [Dichiarazioni / Dichiarazioni.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/Dichiarazioni.csv) | (Edit and Update) Modificato ed aggiornato il file: Dichiarazioni.csv |
+| 02-09-2026 17:46:08 +0200 | [Dichiarazioni / 1792-12-10-pivi-dic-pec-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/1792-12-10-pivi-dic-pec-IT.md) | (Edit and Update) Modificato ed aggiornato il file: Dichiarazione Pio VI (Pius VI): “Perpensis circumstantiis”, 10 dicembre 1792 |
+| 02-09-2026 17:45:28 +0200 | [Dichiarazioni / _Indice Dichiarazioni.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/_Indice%20Dichiarazioni.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Dichiarazioni.md |
+| 02-09-2026 17:43:30 +0200 | [Costituzioni pastorali / _Indice Costituzioni pastorali.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20pastorali/_Indice%20Costituzioni%20pastorali.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Costituzioni pastorali.md |
+| 02-09-2026 17:41:53 +0200 | [Costituzioni / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
+| 02-09-2026 17:30:01 +0200 | [Decreti / 1848-03-14-piix-dec-nei-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/1848-03-14-piix-dec-nei-IT.md) | (Edit and Update) Modificato ed aggiornato il file: Decreto Pio IX (Pius IX): “Nelle istituzioni”, 14 marzo 1848 |
+| 02-09-2026 17:29:11 +0200 | [Decreti / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
+| 02-09-2026 17:28:47 +0200 | [Decreti / Decreti.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/Decreti.csv) | (Edit and Update) Modificato ed aggiornato il file: Decreti.csv |
+| 02-09-2026 17:17:26 +0200 | [Costituzioni dogmatiche / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20dogmatiche/README.md) | (Create) Creato il file: README.md |
+| 02-09-2026 17:17:06 +0200 | [Costituzioni dogmatiche / Costituzioni dogmatiche.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20dogmatiche/Costituzioni%20dogmatiche.csv) | (Create) Creato il file: Costituzioni dogmatiche.csv |
+| 02-09-2026 17:08:06 +0200 | [Costituzioni / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni/README.md) | (Create) Creato il file: README.md |
+| 02-09-2026 17:07:50 +0200 | [Costituzioni / Costituzioni.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni/Costituzioni.csv) | (Create) Creato il file: Costituzioni.csv |
+| 02-09-2026 16:56:45 +0200 | [Chiesa / Pannello Indici documenti.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Pannello%20Indici%20documenti.md) | (Create) Creato il file: Pannello Indici documenti.md |
+| 02-09-2026 16:56:25 +0200 | [Chiesa / Pannello Indici Documenti pontifici.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Pannello%20Indici%20Documenti%20pontifici.md) | (Delete) Eliminato il file: Pannello Indici Documenti pontifici.md |
+| 02-09-2026 16:31:06 +0200 | [Costituzioni pastorali / Costituzioni pastorali.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20pastorali/Costituzioni%20pastorali.csv) | (Create) Creato il file: Costituzioni pastorali.csv |
+| 02-09-2026 16:30:36 +0200 | [Costituzioni pastorali / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20pastorali/README.md) | (Create) Creato il file: README.md |
+| 02-09-2026 16:17:02 +0200 | [Costituzioni apostoliche / _Indice Costituzioni Apostoliche.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20apostoliche/_Indice%20Costituzioni%20Apostoliche.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Costituzioni apostoliche.md |
+| 02-09-2026 16:06:15 +0200 | [Chiesa / 2026-09-02_16-04-10-Report-link-grassetto-ai-Santi.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/2026-09-02_16-04-10-Report-link-grassetto-ai-Santi.md) | (Create) Creato il file: 2026-09-02_16-04-10-Report-link-grassetto-ai-Santi.md |
+| 02-09-2026 16:05:57 +0200 | [Chiesa / 2026-08-29_00-10-14-Report-link-grassetto-ai-Santi.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/2026-08-29_00-10-14-Report-link-grassetto-ai-Santi.md) | (Delete) Eliminato il file: 2026-08-29_00-10-14-Report-link-grassetto-ai-Santi.md |
+
+## Changelog del 01-09-2026
+
+| Data e orario | Nome file | Commit |
+| --- | --- | --- |
+| 01-09-2026 22:07:13 +0200 | [Decreti / _Indice Decreti.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/_Indice%20Decreti.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Decreti.md |
+| 01-09-2026 22:05:12 +0200 | [Costituzioni pastorali / Script da YALM a data e ora nel file da far girare in una cartella no sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20pastorali/Script%20da%20YALM%20a%20data%20e%20ora%20nel%20file%20da%20far%20girare%20in%20una%20cartella%20no%20sub.ps1) | (Create) Creato il file: Script da YALM a data e ora nel file da far girare in una cartella no sub.ps1 |
+| 01-09-2026 22:04:51 +0200 | [Costituzioni pastorali / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20pastorali/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 22:04:31 +0200 | [Costituzioni pastorali / _Indice Costituzioni pastorali.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20pastorali/_Indice%20Costituzioni%20pastorali.md) | (Create) Creato il file: _Indice Costituzioni pastorali.md |
+| 01-09-2026 22:03:10 +0200 | [Costituzioni dogmatiche / Script da YALM a data e ora nel file da far girare in una cartella no sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20dogmatiche/Script%20da%20YALM%20a%20data%20e%20ora%20nel%20file%20da%20far%20girare%20in%20una%20cartella%20no%20sub.ps1) | (Create) Creato il file: Script da YALM a data e ora nel file da far girare in una cartella no sub.ps1 |
+| 01-09-2026 22:02:43 +0200 | [Costituzioni dogmatiche / _Indice Costituzioni dogmatiche.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20dogmatiche/_Indice%20Costituzioni%20dogmatiche.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Costituzioni dogmatiche.md |
+| 01-09-2026 22:01:27 +0200 | [Costituzioni / Script da YALM a data e ora nel file da far girare in una cartella no sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni/Script%20da%20YALM%20a%20data%20e%20ora%20nel%20file%20da%20far%20girare%20in%20una%20cartella%20no%20sub.ps1) | (Create) Creato il file: Script da YALM a data e ora nel file da far girare in una cartella no sub.ps1 |
+| 01-09-2026 22:01:06 +0200 | [Costituzioni / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 22:00:39 +0200 | [Costituzioni / _Indice Costituzioni.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni/_Indice%20Costituzioni.md) | (Create) Creato il file: _Indice Costituzioni.md |
+| 01-09-2026 15:48:07 +0200 | [Costituzioni dogmatiche / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20dogmatiche/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 15:47:49 +0200 | [Costituzioni dogmatiche / _Indice Costituzioni dogmatiche.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Costituzioni%20dogmatiche/_Indice%20Costituzioni%20dogmatiche.md) | (Create) Creato il file: _Indice Costituzioni dogmatiche.md |
+| 01-09-2026 15:45:57 +0200 | [Decreti / _Indice Decreti.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/_Indice%20Decreti.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Decreti.md |
+| 01-09-2026 11:23:28 +0200 | [PowerShell / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Scripts/PowerShell/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Edit and Update) Modificato ed aggiornato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 11:09:20 +0200 | [Editti / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Editti/README.md) | (Create) Creato il file: README.md |
+| 01-09-2026 11:08:58 +0200 | [Editti / Editti.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Editti/Editti.csv) | (Create) Creato il file: Editti.csv |
+| 01-09-2026 11:08:39 +0200 | [Editti / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Editti/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 11:08:14 +0200 | [Editti / _Indice Editti.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Editti/_Indice%20Editti.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Editti.md |
+| 01-09-2026 10:45:54 +0200 | [Dichiarazioni / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/README.md) | (Create) Creato il file: README.md |
+| 01-09-2026 10:45:30 +0200 | [Dichiarazioni / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 10:45:07 +0200 | [Dichiarazioni / Dichiarazioni.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/Dichiarazioni.csv) | (Create) Creato il file: Dichiarazioni.csv |
+| 01-09-2026 10:44:45 +0200 | [Dichiarazioni / _Indice Dichiarazioni.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Dichiarazioni/_Indice%20Dichiarazioni.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Dichiarazioni.md |
+| 01-09-2026 10:29:41 +0200 | [Decreti / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/README.md) | (Create) Creato il file: README.md |
+| 01-09-2026 10:29:16 +0200 | [Decreti / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 10:28:40 +0200 | [Decreti / Decreti.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/Decreti.csv) | (Create) Creato il file: Decreti.csv |
+| 01-09-2026 10:24:55 +0200 | [Decreti / _Indice Decreti.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Decreti/_Indice%20Decreti.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Decreti.md |
+| 01-09-2026 10:12:40 +0200 | [Proteste / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proteste/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 10:12:14 +0200 | [Proteste / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proteste/README.md) | (Create) Creato il file: README.md |
+| 01-09-2026 10:11:42 +0200 | [Proclami / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
+| 01-09-2026 10:10:28 +0200 | [Proclami / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Edit and Update) Modificato ed aggiornato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 10:01:03 +0200 | [Proteste / Proteste.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proteste/Proteste.csv) | (Create) Creato il file: Proteste.csv |
+| 01-09-2026 09:59:43 +0200 | [Proteste / _Indice Proteste.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proteste/_Indice%20Proteste.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Proteste.md |
+| 01-09-2026 09:49:30 +0200 | [Proclami / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Edit and Update) Modificato ed aggiornato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 09:48:39 +0200 | [PowerShell / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Scripts/PowerShell/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Edit and Update) Modificato ed aggiornato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 09:48:19 +0200 | [Proclami / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
+| 01-09-2026 09:36:20 +0200 | [Chiesa / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
+| 01-09-2026 09:35:15 +0200 | [Proclami / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/README.md) | (Create) Creato il file: README.md |
+| 01-09-2026 09:34:45 +0200 | [Proclami / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Edit and Update) Modificato ed aggiornato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 09:34:21 +0200 | [PowerShell / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Scripts/PowerShell/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Edit and Update) Modificato ed aggiornato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 09:02:59 +0200 | [Proclami / Proclami.csv](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/Proclami.csv) | (Create) Creato il file: Proclami.csv |
+| 01-09-2026 09:02:19 +0200 | [Proclami / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
+| 01-09-2026 09:01:29 +0200 | [Proclami / _Indice Proclami.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Proclami/_Indice%20Proclami.md) | (Edit and Update) Modificato ed aggiornato il file: _Indice Proclami.md |
+| 01-09-2026 08:59:03 +0200 | [PowerShell / Genera README dal csv nella cartella no Sub.ps1](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Scripts/PowerShell/Genera%20README%20dal%20csv%20nella%20cartella%20no%20Sub.ps1) | (Create) Creato il file: Genera README dal csv nella cartella no Sub.ps1 |
 
 ## Changelog del 31-08-2026
 
 | Data e orario | Nome file | Commit |
 | --- | --- | --- |
+| 31-08-2026 23:01:26 +0200 | [Chiesa / README.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/README.md) | (Edit and Update) Modificato ed aggiornato il file: README.md |
+| 31-08-2026 22:58:34 +0200 | [_Templates / Genera-changelog-del-vault.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/_Templates/Genera-changelog-del-vault.md) | (Edit and Update) Modificato ed aggiornato il file: Genera-changelog-del-vault.md |
 | 31-08-2026 22:23:41 +0200 | [Meditazioni quotidiane / 2019-12-03-fi-meq-edp-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Meditazioni%20quotidiane/2019-12-03-fi-meq-edp-IT.md) | (Create) Creato il file: Meditazione mattutina quotidiana Francesco I (Franciscus I): “Elogio della piccolezza”, 3 dicembre 2019 |
 | 31-08-2026 22:06:54 +0200 | [Meditazioni quotidiane / 2013-04-02-fi-meq-gdl-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Meditazioni%20quotidiane/2013-04-02-fi-meq-gdl-IT.md) | (Create) Creato il file: Meditazione mattutina quotidiana Francesco I (Franciscus I): “La grazia delle lacrime”, 2 aprile 2013 |
 | 31-08-2026 22:06:28 +0200 | [Meditazioni quotidiane / 2013-03-26-fi-meq-bep-IT.md](https://github.com/EmanueleTinari/Obsidian/blob/main/Chiesa/Documenti%20pontifici/Meditazioni%20quotidiane/2013-03-26-fi-meq-bep-IT.md) | (Create) Creato il file: Meditazione quotidiana Francesco I (Franciscus I): “Com’è bello essere perdonati”, 26 marzo 2013 |
