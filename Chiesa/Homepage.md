@@ -1,192 +1,427 @@
 ---
 cssclasses: interfaccia
 licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+ideatore: "Emanuele Tinari"
+sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
 nomeFile: "Homepage.md"
 creato: 2026/03/16 13:59:55
-modificato: 2026/07/18 08:39:09
+modificato: 2026/09/03 07:33:17
 ---
 
 
 ```dataviewjs
-// Mappa delle estensioni Windows-style
+// [ITA] Mappa delle estensioni di file stilizzata secondo le convenzioni di Windows.
+// [ENG] Map of file extensions styled according to Windows conventions.
 const winNames = {
-	// Documenti e Testo
-	"md": ["File di Markdown", "(*.md)"],
-	"pdf": ["File di Adobe Acrobat", "(*.pdf)"],
-	"txt": ["Documento di testo", "(*.txt)"],
-	"docx": ["File di Microsoft Word", "(*.docx)"],
-	"doc": ["File di Microsoft Word 97-2003", "(*.doc)"],
-	"xlsx": ["File di Microsoft Excel", "(*.xlsx)"],
-	"xlsm": ["File di Microsoft Excel con attivazione macro", "(*.xlsm)"],
-	"xls": ["File di Microsoft Excel 97-2003", "(*.xls)"],
-	"csv": ["File di valori separati da virgola Microsoft Excel", "(*.csv)"],
-	"pub": ["File di Microsoft Publisher", "(*.pub)"],
-	"rtf": ["Formato Rich Text", "(*.rtf)"],
-	"epub": ["File EPUB", "(*.epub)"],
-	// Immagini e Media
-	"jpg": ["Immagine JPEG", "(*.jpg)"],
-	"jpeg": ["Immagine JPEG", "(*.jpeg)"],
-	"png": ["Immagine PNG", "(*.png)"],
-	"gif": ["Immagine GIF", "(*.gif)"],
-	"svg": ["Immagine Scalable Vector Graphics", "(*.svg)"],
-	"webp": ["Immagine WebP", "(*.webp)"],
-	"mp3": ["File MP3", "(*.mp3)"],
-	"mp4": ["Video MP4", "(*.mp4)"],
-	// Programmazione e Web
-	"py": ["File di script Python", "(*.py)"],
-	"js": ["File di script JavaScript", "(*.js)"],
-	"html": ["Firefox HTML Document", "(*.html)"],
-	"css": ["Foglio di stile", "(*.css)"],
-	"json": ["File JSON", "(*.json)"],
-	"ps1": ["Script di Windows PowerShell", "(*.ps1)"],
-	"bat": ["File batch di Windows", "(*.bat)"],
-	"cpp": ["C++ Source File", "(*.cpp)"],
-	// Archivi e Sistema
-	"7z": ["Archivio 7Zip", "(*.7z)"],
-	"zip": ["Archivio Zip", "(*.zip)"],
-	"rar": ["Archivio WinRAR", "(*.rar)"],
-	"tmp": ["File temporaneo", "(*.tmp)"],
-	"canvas": ["Obsidian Canvas", "(*.canvas)"]
+    // [ITA] Configurazione per le estensioni appartenenti alla categoria Documenti e Testo.
+    // [ENG] Configuration for extensions belonging to the Documents and Text category.
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file Markdown.
+    // [ENG] Defines the descriptive name and formatted extension for Markdown files.
+    "md": ["File di Markdown", "(*.md)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file PDF.
+    // [ENG] Defines the descriptive name and formatted extension for PDF files.
+    "pdf": ["File di Adobe Acrobat", "(*.pdf)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file di testo semplice.
+    // [ENG] Defines the descriptive name and formatted extension for plain text files.
+    "txt": ["Documento di testo", "(*.txt)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file Microsoft Word moderni.
+    // [ENG] Defines the descriptive name and formatted extension for modern Microsoft Word files.
+    "docx": ["File di Microsoft Word", "(*.docx)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file Microsoft Word legacy.
+    // [ENG] Defines the descriptive name and formatted extension for legacy Microsoft Word files.
+    "doc": ["File di Microsoft Word 97-2003", "(*.doc)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file Microsoft Excel moderni.
+    // [ENG] Defines the descriptive name and formatted extension for modern Microsoft Excel files.
+    "xlsx": ["File di Microsoft Excel", "(*.xlsx)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file Excel abilitati alle macro.
+    // [ENG] Defines the descriptive name and formatted extension for macro-enabled Excel files.
+    "xlsm": ["File di Microsoft Excel con attivazione macro", "(*.xlsm)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file Microsoft Excel legacy.
+    // [ENG] Defines the descriptive name and formatted extension for legacy Microsoft Excel files.
+    "xls": ["File di Microsoft Excel 97-2003", "(*.xls)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file di dati CSV.
+    // [ENG] Defines the descriptive name and formatted extension for CSV data files.
+    "csv": ["File di valori separati da virgola Microsoft Excel", "(*.csv)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file Microsoft Publisher.
+    // [ENG] Defines the descriptive name and formatted extension for Microsoft Publisher files.
+    "pub": ["File di Microsoft Publisher", "(*.pub)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file in formato Rich Text.
+    // [ENG] Defines the descriptive name and formatted extension for Rich Text Format files.
+    "rtf": ["Formato Rich Text", "(*.rtf)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i libri digitali EPUB.
+    // [ENG] Defines the descriptive name and formatted extension for EPUB e-books.
+    "epub": ["File EPUB", "(*.epub)"],
+    // [ITA] Configurazione per le estensioni appartenenti alla categoria Immagini e Media.
+    // [ENG] Configuration for extensions belonging to the Images and Media category.
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per le immagini JPG.
+    // [ENG] Defines the descriptive name and formatted extension for JPG images.
+    "jpg": ["Immagine JPEG", "(*.jpg)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per le immagini JPEG.
+    // [ENG] Defines the descriptive name and formatted extension for JPEG images.
+    "jpeg": ["Immagine JPEG", "(*.jpeg)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per le immagini PNG.
+    // [ENG] Defines the descriptive name and formatted extension for PNG images.
+    "png": ["Immagine PNG", "(*.png)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per le immagini animate GIF.
+    // [ENG] Defines the descriptive name and formatted extension for GIF animated images.
+    "gif": ["Immagine GIF", "(*.gif)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per le immagini vettoriali SVG.
+    // [ENG] Defines the descriptive name and formatted extension for SVG vector images.
+    "svg": ["Immagine Scalable Vector Graphics", "(*.svg)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per le immagini WebP.
+    // [ENG] Defines the descriptive name and formatted extension for WebP images.
+    "webp": ["Immagine WebP", "(*.webp)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file audio MP3.
+    // [ENG] Defines the descriptive name and formatted extension for MP3 audio files.
+    "mp3": ["File MP3", "(*.mp3)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file video MP4.
+    // [ENG] Defines the descriptive name and formatted extension for MP4 video files.
+    "mp4": ["Video MP4", "(*.mp4)"],
+    // [ITA] Configurazione per le estensioni appartenenti alla categoria Programmazione e Web.
+    // [ENG] Configuration for extensions belonging to the Programming and Web category.
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per gli script Python.
+    // [ENG] Defines the descriptive name and formatted extension for Python script files.
+    "py": ["File di script Python", "(*.py)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per gli script JavaScript.
+    // [ENG] Defines the descriptive name and formatted extension for JavaScript script files.
+    "js": ["File di script JavaScript", "(*.js)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i documenti HTML.
+    // [ENG] Defines the descriptive name and formatted extension for HTML documents.
+    "html": ["Firefox HTML Document", "(*.html)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i fogli di stile CSS.
+    // [ENG] Defines the descriptive name and formatted extension for CSS stylesheets.
+    "css": ["Foglio di stile", "(*.css)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file dati JSON.
+    // [ENG] Defines the descriptive name and formatted extension for JSON data files.
+    "json": ["File JSON", "(*.json)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per gli script PowerShell.
+    // [ENG] Defines the descriptive name and formatted extension for PowerShell scripts.
+    "ps1": ["Script di Windows PowerShell", "(*.ps1)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file batch di Windows.
+    // [ENG] Defines the descriptive name and formatted extension for Windows batch files.
+    "bat": ["File batch di Windows", "(*.bat)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per il codice sorgente C++.
+    // [ENG] Defines the descriptive name and formatted extension for C++ source files.
+    "cpp": ["C++ Source File", "(*.cpp)"],
+    // [ITA] Configurazione per le estensioni appartenenti alla categoria Archivi e Sistema.
+    // [ENG] Configuration for extensions belonging to the Archives and System category.
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per gli archivi 7Zip.
+    // [ENG] Defines the descriptive name and formatted extension for 7Zip archives.
+    "7z": ["Archivio 7Zip", "(*.7z)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per gli archivi Zip.
+    // [ENG] Defines the descriptive name and formatted extension for Zip archives.
+    "zip": ["Archivio Zip", "(*.zip)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per gli archivi WinRAR.
+    // [ENG] Defines the descriptive name and formatted extension for WinRAR archives.
+    "rar": ["Archivio WinRAR", "(*.rar)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per i file temporanei.
+    // [ENG] Defines the descriptive name and formatted extension for temporary files.
+    "tmp": ["File temporaneo", "(*.tmp)"],
+    // [ITA] Definisce il nome descrittivo e l'estensione formattata per le tele di Obsidian Canvas.
+    // [ENG] Defines the descriptive name and formatted extension for Obsidian Canvas boards.
+    "canvas": ["Obsidian Canvas", "(*.canvas)"]
 };
+// [ITA] Array di oggetti contenente i comandi rapidi da mostrare nell'interfaccia dell'applicazione.
+// [ENG] Array of objects containing quick commands to be displayed in the application UI.
 const comandiRapidi = [
-	{	id: "app:toggle-left-sidebar",
-		label: "Apri/Chidi barra laterale SINISTRA" },
-	{	id: "file-explorer:new-file",
-		label: "Crea nuovo file (Ctrl + N)" },
-	{	id: "app:toggle-right-sidebar",
-		label: "Apri/Chidi barra laterale DESTRA" },
-	{	id: "switcher:open",
-		label: "Vai al file (Ctrl + O)" },
-	{	id: "webviewer:open",
-		label: "Visualizzatore web"	},
-	{	id: "workspace:close",
-		label: "Chiudi" },
-	{	id: "app:open-settings",
-		label: "Impostazioni" }
+    // [ITA] Inizio della definizione del primo oggetto comando rapido per la barra laterale sinistra.
+    // [ENG] Start of definition for the first quick command object for the left sidebar.
+    {
+        // [ITA] Identificativo univoco del comando interno di Obsidian per commutare la barra sinistra.
+        // [ENG] Unique identifier for the internal Obsidian command to toggle the left sidebar.
+        id: "app:toggle-left-sidebar",
+        // [ITA] Etichetta di testo visualizzata per l'azione della barra sinistra.
+        // [ENG] Display text label for the left sidebar action.
+        label: "Apri/Chidi barra laterale SINISTRA"
+    },
+    // [ITA] Inizio della definizione del comando rapido per la creazione di un nuovo file.
+    // [ENG] Start of definition for the quick command to create a new file.
+    {
+        // [ITA] Identificativo univoco del comando per creare un nuovo documento.
+        // [ENG] Unique identifier for the command to create a new file.
+        id: "file-explorer:new-file",
+        // [ITA] Etichetta di testo visualizzata con l'indicazione della scorciatoia da tastiera.
+        // [ENG] Display text label with keyboard shortcut indication.
+        label: "Crea nuovo file (Ctrl + N)"
+    },
+    // [ITA] Inizio della definizione del comando rapido per la barra laterale destra.
+    // [ENG] Start of definition for the quick command for the right sidebar.
+    {
+        // [ITA] Identificativo univoco del comando per commutare la barra destra.
+        // [ENG] Unique identifier for the command to toggle the right sidebar.
+        id: "app:toggle-right-sidebar",
+        // [ITA] Etichetta di testo visualizzata per l'azione della barra destra.
+        // [ENG] Display text label for the right sidebar action.
+        label: "Apri/Chidi barra laterale DESTRA"
+    },
+    // [ITA] Inizio della definizione del comando rapido per l'apertura dello switcher di file.
+    // [ENG] Start of definition for the quick command to open the file switcher.
+    {
+        // [ITA] Identificativo univoco del comando per attivare lo switcher rapido.
+        // [ENG] Unique identifier for the command to trigger quick switcher.
+        id: "switcher:open",
+        // [ITA] Etichetta di testo visualizzata con l'indicazione della scorciatoia per la ricerca rapida.
+        // [ENG] Display text label with keyboard shortcut indication for quick search.
+        label: "Vai al file (Ctrl + O)"
+    },
+    // [ITA] Inizio della definizione del comando rapido per la funzione di visualizzazione web.
+    // [ENG] Start of definition for the quick command for web viewer functionality.
+    {
+        // [ITA] Identificativo univoco del comando per aprire il browser web integrato.
+        // [ENG] Unique identifier for the command to open the built-in web viewer.
+        id: "webviewer:open",
+        // [ITA] Etichetta di testo visualizzata per il visualizzatore web.
+        // [ENG] Display text label for the web viewer.
+        label: "Visualizzatore web"
+    },
+    // [ITA] Inizio della definizione del comando rapido per chiudere l'area di lavoro attiva.
+    // [ENG] Start of definition for the quick command to close the active workspace.
+    {
+        // [ITA] Identificativo univoco del comando per chiudere la scheda o l'area di lavoro corrente.
+        // [ENG] Unique identifier for the command to close current tab or workspace.
+        id: "workspace:close",
+        // [ITA] Etichetta di testo visualizzata per il comando di chiusura.
+        // [ENG] Display text label for the close command.
+        label: "Chiudi"
+    },
+    // [ITA] Inizio della definizione del comando rapido per aprire le impostazioni dell'applicazione.
+    // [ENG] Start of definition for the quick command to open application settings.
+    {
+        // [ITA] Identificativo univoco del comando per accedere al pannello impostazioni.
+        // [ENG] Unique identifier for the command to access settings panel.
+        id: "app:open-settings",
+        // [ITA] Etichetta di testo visualizzata per accedere alle opzioni di configurazione.
+        // [ENG] Display text label for accessing configuration options.
+        label: "Impostazioni"
+    }
 ];
+// [ITA] Inizio della funzione anonima asincrona per isolare la logica dello script.
+// [ENG] Start of the anonymous async function to encapsulate script logic.
 (async () => {
-	// Funzione principale per aggiornare le statistiche
-	const updateStats = async () => {
-		// Recupera tutti i file del vault
-		const allFiles = app.vault.getFiles();
-		const stats = {};
-		allFiles.forEach(f => {
-			const ext = (f.extension || "N. A.").toLowerCase();
-			if (!stats[ext]) stats[ext] = { count: 0, size: 0 };
-			stats[ext].count++;
-			stats[ext].size += f.stat.size;
-		});
-		// Costruzione contenuto interno
-		let htmlContent = "";
-		const sortedStats = Object.entries(stats).sort((a, b) => b[1].count - a[1].count);
-		// Inizio contenitore
-		// Usiamo display: grid per simulare la tabella senza rompere il parser
-		htmlContent = `> <div style="border: 0.05rem solid var(--background-modifier-border); display: grid; grid-template-columns: auto 1fr auto auto; margin-left: 1.2rem; margin-top: 2rem; width: fit-content;">\n`;
-		// Ordina le estensioni per numero di file decrescente
-		for (const [ext, data] of sortedStats) {
-			// Micro-delay mantenuto per stabilità rendering
-			await new Promise(r => setTimeout(r, 25));
-			const [nome, estensione] = winNames[ext] || [`File ${ext.toUpperCase()}`, `*.${ext}` ];
-			// Calcolo dimensioni
-			const sizeKb = Math.round(data.size / 1024).toLocaleString('it-IT');
-			const sizeMb = (data.size / (1024 * 1024)).toLocaleString('it-IT', {
-				minimumFractionDigits: 3,
-				maximumFractionDigits: 3
-			});
-			// Celle simulate con i div (Bordi interni inclusi)
-			htmlContent += `> <div style="border: 0.05rem solid var(--background-modifier-border); padding: 0.4rem 1rem; text-align: right;">${data.count}</div>`;
-			htmlContent += `<div style="border: 0.05rem solid var(--background-modifier-border); padding: 0.4rem 1rem; text-align: left;">${nome}</div>`;
-			htmlContent += `<div style="border: 0.05rem solid var(--background-modifier-border); padding: 0.4rem 1rem; text-align: center;">${estensione}</div>`;
-			// Colonna Dimensioni
-			htmlContent += `<div style="align-items: center; border: 0.05rem solid var(--background-modifier-border); display: flex; font-family: monospace; font-size: 0.8em; justify-content: flex-end; padding: 0.5rem 1rem 0.3rem 1rem; text-align: right;">${sizeMb} MB (${sizeKb} KB)</div>\n`;
-		} // Fine ciclo for
-		htmlContent += `> </div>\n`;
-		// Render finale (con dv.el per la stabilità del Callout)
-		const totalSize = allFiles.reduce((acc, f) => acc + f.stat.size, 0);
-		const totalMb = (totalSize / (1024 * 1024)).toLocaleString('it-IT', { minimumFractionDigits: 2 });
-		const badge = `<span style="background: rgba(0,0,0,0.2); border-radius: 4px; color: white !important; font-weight: 400; margin-left: 0.5rem; padding: 0 1rem;">${allFiles.length} file&nbsp;&nbsp;&nbsp;&nbsp;⟶&nbsp;&nbsp;&nbsp;&nbsp;${totalMb} MB</span>`;
-		// Pulisce prima di riscrivere
-		dv.container.innerHTML = "";
-		// Render nativo del Callout tramite dv.el
-		await dv.el("div", `> [!info]- Numero totale file nel vault: ${badge}\n${htmlContent}`);
-	}
-// Esecuzione immediata all'apertura
+    // [ITA] Definisce la funzione asincrona interna dedicata al calcolo e aggiornamento delle statistiche del vault.
+    // [ENG] Defines the internal async function dedicated to calculating and updating vault statistics.
+    const updateStats = async () => {
+        // [ITA] Estrae la lista completa di tutti i file memorizzati all'interno della cassaforte corrente.
+        // [ENG] Retrieves the complete list of all files stored inside the current vault.
+        const allFiles = app.vault.getFiles();
+        // [ITA] Inizializza un oggetto vuoto destinato ad accumulare i conteggi e le dimensioni per estensione.
+        // [ENG] Initializes an empty object intended to accumulate counts and sizes per extension.
+        const stats = {};
+        // [ITA] Itera attraverso ciascun elemento presente nell'array dei file recuperati dal vault.
+        // [ENG] Iterates through each element present in the array of files retrieved from the vault.
+        allFiles.forEach(f => {
+            // [ITA] Estrae l'estensione del file in formato minuscolo o assegna un valore predefinito se assente.
+            // [ENG] Extracts the file extension in lowercase format or assigns a default value if missing.
+            const ext = (f.extension || "N. A.").toLowerCase();
+            // [ITA] Inizializza la struttura dati per la specifica estensione nel caso non sia ancora stata registrata.
+            // [ENG] Initializes the data structure for the specific extension if it hasn't been registered yet.
+            if (!stats[ext]) stats[ext] = { count: 0, size: 0 };
+            // [ITA] Incrementa di una unità il contatore dei file per la determinata estensione.
+            // [ENG] Increments the file counter for the given extension by one unit.
+            stats[ext].count++;
+            // [ITA] Somma la dimensione in byte del file corrente al totale parziale dell'estensione.
+            // [ENG] Adds the current file size in bytes to the running total for this extension.
+            stats[ext].size += f.stat.size;
+        });
+        // [ITA] Inizializza la variabile per accumulare la stringa di codice HTML per il rendering della tabella.
+        // [ENG] Initializes the variable to accumulate the HTML code string for rendering the table.
+        let htmlContent = "";
+        // [ITA] Converte l'oggetto statistiche in un array e lo ordina per numero di file decrescente.
+        // [ENG] Converts the stats object into an array and sorts it by descending file count.
+        const sortedStats = Object.entries(stats).sort((a, b) => b[1].count - a[1].count);
+        // [ITA] Costruisce il tag di apertura della griglia CSS all'interno della sintassi callout di Markdown.
+        // [ENG] Builds the opening CSS grid tag inside the Markdown callout syntax.
+        htmlContent = `> <div style="border: 0.05rem solid var(--background-modifier-border); display: grid; grid-template-columns: auto 1fr auto auto; margin-left: 1.2rem; margin-top: 2rem; width: fit-content;">\n`;
+        // [ITA] Cicla attraverso la lista ordinata delle statistiche delle estensioni dei file.
+        // [ENG] Loops through the sorted list of file extension statistics.
+        for (const [ext, data] of sortedStats) {
+            // [ITA] Introduce un'interruzione di 25 millisecondi per prevenire il blocco del rendering dell'interfaccia.
+            // [ENG] Introduces a 25-millisecond pause to prevent freezing the UI rendering pipeline.
+            await new Promise(r => setTimeout(r, 25));
+            // [ITA] Estrae la configurazione del nome dell'estensione o assegna valori generici di ripiego.
+            // [ENG] Extracts extension name configuration or assigns generic fallback values.
+            const [nome, estensione] = winNames[ext] || [`File ${ext.toUpperCase()}`, `*.${ext}` ];
+            // [ITA] Converte la dimensione totale espressa in byte nel valore arrotondato in kilobyte.
+            // [ENG] Converts total size expressed in bytes into a rounded kilobyte value.
+            const sizeKb = Math.round(data.size / 1024).toLocaleString('it-IT');
+            // [ITA] Calcola la dimensione totale formattata in megabyte con tre cifre decimali.
+            // [ENG] Calculates total size formatted in megabytes with three decimal places.
+            const sizeMb = (data.size / (1024 * 1024)).toLocaleString('it-IT', {
+                // [ITA] Imposta il numero minimo di cifre decimali per la formattazione dei megabyte.
+                // [ENG] Sets minimum decimal digits for megabyte formatting.
+                minimumFractionDigits: 3,
+                // [ITA] Imposta il numero massimo di cifre decimali per la formattazione dei megabyte.
+                // [ENG] Sets maximum decimal digits for megabyte formatting.
+                maximumFractionDigits: 3
+            });
+            // [ITA] Genera la cella della tabella HTML per visualizzare il numero di file associati.
+            // [ENG] Generates the HTML table cell displaying the number of associated files.
+            htmlContent += `> <div style="border: 0.05rem solid var(--background-modifier-border); padding: 0.4rem 1rem; text-align: right;">${data.count}</div>`;
+            // [ITA] Genera la cella della tabella HTML per il nome esteso e descrittivo del tipo di file.
+            // [ENG] Generates the HTML table cell for the extended descriptive file type name.
+            htmlContent += `<div style="border: 0.05rem solid var(--background-modifier-border); padding: 0.4rem 1rem; text-align: left;">${nome}</div>`;
+            // [ITA] Genera la cella della tabella HTML che mostra il pattern dell'estensione.
+            // [ENG] Generates the HTML table cell showing the extension pattern.
+            htmlContent += `<div style="border: 0.05rem solid var(--background-modifier-border); padding: 0.4rem 1rem; text-align: center;">${estensione}</div>`;
+            // [ITA] Genera la cella finale con il peso formattato in Megabyte e Kilobyte.
+            // [ENG] Generates the final cell with formatted size in Megabytes and Kilobytes.
+            htmlContent += `<div style="align-items: center; border: 0.05rem solid var(--background-modifier-border); display: flex; font-family: monospace; font-size: 0.8em; justify-content: flex-end; padding: 0.5rem 1rem 0.3rem 1rem; text-align: right;">${sizeMb} MB (${sizeKb} KB)</div>\n`;
+        } // [ITA] Fine del ciclo di iterazione sulle estensioni ordinati.
+        // [ENG] End of iteration loop over sorted extensions.
+        htmlContent += `> </div>\n`;
+        // [ITA] Somma le dimensioni di ciascun singolo file per ottenere il peso complessivo del vault.
+        // [ENG] Sums the size of each individual file to compute the total size of the vault.
+        const totalSize = allFiles.reduce((acc, f) => acc + f.stat.size, 0);
+        // [ITA] Converte il peso complessivo da byte a megabyte formattandolo con due decimali.
+        // [ENG] Converts total weight from bytes to megabytes formatting with two decimals.
+        const totalMb = (totalSize / (1024 * 1024)).toLocaleString('it-IT', { minimumFractionDigits: 2 });
+        // [ITA] Costruisce l'etichetta badge in HTML con il numero totale di file e lo spazio occupato.
+        // [ENG] Builds HTML badge label containing total file count and occupied space.
+        const badge = `<span style="background: rgba(0,0,0,0.2); border-radius: 4px; color: white !important; font-weight: 400; margin-left: 0.5rem; padding: 0 1rem;">${allFiles.length} file&nbsp;&nbsp;&nbsp;&nbsp;⟶&nbsp;&nbsp;&nbsp;&nbsp;${totalMb} MB</span>`;
+        // [ITA] Svuota completamente il contenuto dell'elemento contenitore prima di procedere al nuovo rendering.
+        // [ENG] Completely empties the content of container element before proceeding with new render.
+        dv.container.innerHTML = "";
+        // [ITA] Inserisce il blocco callout formattato nell'interfaccia utente utilizzando l'API nativa Dataview.
+        // [ENG] Renders the formatted callout block in UI using native Dataview API.
+        await dv.el("div", `> [!info]- Numero totale file nel vault: ${badge}\n${htmlContent}`);
+    }
+// [ITA] Inizio della seconda IIFE per gestire l'interazione con le barre laterali e gli eventi.
+// [ENG] Start of the second IIFE to handle interaction with sidebars and application events.
 (async () => {
-	// Seleziona l'elemento workspace
-	const workspace = document.querySelector('.workspace');
-	if (!workspace) return;
-	// Controlla gli stati individualmente
-	const isLeftOpen = workspace.classList.contains('is-left-sidedock-open');
-	const isRightOpen = workspace.classList.contains('is-right-sidedock-open');
-	// Esegue le azioni necessarie
-	if (isLeftOpen) {
-		app.commands.executeCommandById('app:toggle-left-sidebar');
-	}
-	if (isRightOpen) {
-		app.commands.executeCommandById('app:toggle-right-sidebar');
-	}
+    // [ITA] Cerca nel documento HTML l'elemento principale dell'area di lavoro dell'applicazione.
+    // [ENG] Queries the HTML document for the main workspace element of the application.
+    const workspace = document.querySelector('.workspace');
+    // [ITA] Verifica l'esistenza dell'elemento workspace e interrompe l'esecuzione se non trovato.
+    // [ENG] Checks if workspace element exists and halts execution if not found.
+    if (!workspace) return;
+    // [ITA] Rileva se il pannello della barra laterale sinistra è attualmente visibile.
+    // [ENG] Detects if the left sidebar panel is currently visible.
+    const isLeftOpen = workspace.classList.contains('is-left-sidedock-open');
+    // [ITA] Rileva se il pannello della barra laterale destra è attualmente visibile.
+    // [ENG] Detects if the right sidebar panel is currently visible.
+    const isRightOpen = workspace.classList.contains('is-right-sidedock-open');
+    // [ITA] Valuta la condizione di apertura per chiudere la barra laterale sinistra se aperta.
+    // [ENG] Evaluates open state to close the left sidebar if currently opened.
+    if (isLeftOpen) {
+        // [ITA] Invia il comando interno per nascondere il pannello laterale sinistro.
+        // [ENG] Triggers internal command to hide the left side panel.
+        app.commands.executeCommandById('app:toggle-left-sidebar');
+    }
+    // [ITA] Valuta la condizione di apertura per chiudere la barra laterale destra se aperta.
+    // [ENG] Evaluates open state to close the right sidebar if currently opened.
+    if (isRightOpen) {
+        // [ITA] Invia il comando interno per nascondere il pannello laterale destro.
+        // [ENG] Triggers internal command to hide the right side panel.
+        app.commands.executeCommandById('app:toggle-right-sidebar');
+    }
 	// Esegue le righe comuni
-	await new Promise(r => setTimeout(r, 50));
-	if (typeof updateStats === 'function') {
-		await updateStats();
-	}
+    // [ITA] Inserisce una breve pausa per stabilizzare il layout dell'interfaccia dopo la chiusura dei pannelli.
+    // [ENG] Inserts a short delay to stabilize interface layout after closing sidebars.
+    await new Promise(r => setTimeout(r, 50));
+    // [ITA] Controlla che la funzione di calcolo delle statistiche sia correttamente definita prima dell'invocazione.
+    // [ENG] Verifies that statistics calculation function is properly defined prior to invocation.
+    if (typeof updateStats === 'function') {
+        // [ITA] Esegue la funzione di calcolo per aggiornare e mostrare i dati aggiornati del vault.
+        // [ENG] Executes calculation function to update and display refreshed vault data.
+        await updateStats();
+    }
 	// Registrazione eventi sul componente per evitare memory leak
-	const component = dv.container.component;
-	if (component) {
-		component.registerDomEvent(window, 'focus', () => updateStats());
-		component.registerDomEvent(window, 'blur', () => updateStats());
-	}
+    // [ITA] Accede all'istanza del componente genitore all'interno del contesto di Dataview.
+    // [ENG] Accesses the parent component instance inside Dataview context.
+    const component = dv.container.component;
+    // [ITA] Verifica la presenza del componente prima di procedere con l'associazione degli eventi DOM.
+    // [ENG] Checks for component presence before proceeding with DOM event binding.
+    if (component) {
+        // [ITA] Registra l'ascoltatore per l'evento di focus della finestra prevenendo le perdite di memoria.
+        // [ENG] Registers event listener for window focus event preventing memory leaks.
+        component.registerDomEvent(window, 'focus', () => updateStats());
+        // [ITA] Registra l'ascoltatore per l'evento di sfocatura della finestra garantendo il ciclo di vita corretto.
+        // [ENG] Registers event listener for window blur event ensuring proper component lifecycle.
+        component.registerDomEvent(window, 'blur', () => updateStats());
+    }
 	// --- BLOCCO LINK STATICI ---
-	const containerAzioni = dv.container.createEl("div", {
-		cls: `empty-state-container`,
-		attr: {
-			style: `
-				border: 0.1rem solid var(--background-modifier-border);
-				margin: 0.5rem auto;
-				max-width: 100%;
-				padding: 1rem;
-				width: fit-content;
-			`
-		}
-	});
+    // [ITA] Genera un elemento div contenitore destinato ad ospitare la pulsantiera dei comandi rapidi.
+    // [ENG] Generates a container div element intended to hold the quick command action items.
+    const containerAzioni = dv.container.createEl("div", {
+        // [ITA] Assegna la classe CSS nativa per uniformare lo stile del contenitore allo stato vuoto.
+        // [ENG] Assigns native CSS class to conform container style to empty-state layout.
+        cls: `empty-state-container`,
+        // [ITA] Imposta gli attributi di stile inline per centrare e limitare i bordi del contenitore.
+        // [ENG] Sets inline style attributes to center and bound the borders of the container.
+        attr: {
+            style: `
+                border: 0.1rem solid var(--background-modifier-border);
+                margin: 0.5rem auto;
+                max-width: 100%;
+                padding: 1rem;
+                width: fit-content;
+            `
+        }
+    });
 	// Iniezione nel DOM della nota
-	const listActions = containerAzioni.createEl("div", {
-		cls: `empty-state-action-list`,
-		attr: {
-			style: `
-				display: grid;
-				grid-template-columns: repeat(3, 1fr);
-				gap: 0rem 1rem;
-				text-align: left;
-			`
-		}
-	});
-	comandiRapidi.forEach(cmd => {
-		const btn = listActions.createEl("div", {
-			cls: "empty-state-action tappable",
-			text: cmd.label,
-			attr: {
-				"data-id": cmd.id,
-				style: `
-					align-items: center;
-					color: var(--text-accent);
-					cursor: pointer;
-					font-size: 0.9em;
-					display: flex;
-				`
-			}
-		});
+    // [ITA] Crea l'elemento griglia interno per organizzare visivamente i pulsanti di azione rapida.
+    // [ENG] Creates internal grid element to visually structure the quick action buttons.
+    const listActions = containerAzioni.createEl("div", {
+        // [ITA] Applica la classe specifica per la lista delle azioni sullo stato vuoto.
+        // [ENG] Applies specific class for action list layout on empty state.
+        cls: `empty-state-action-list`,
+        // [ITA] Configura il layout a griglia diviso su 3 colonne con formattazione CSS inline.
+        // [ENG] Configures grid layout split into 3 columns using inline CSS formatting.
+        attr: {
+            style: `
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 0rem 1rem;
+                text-align: left;
+            `
+        }
+    });
+    // [ITA] Cicla su ogni elemento dell'array comandiRapidi per generare i rispettivi elementi interattivi.
+    // [ENG] Loops over every item in comandiRapidi array to create respective interactive elements.
+    comandiRapidi.forEach(cmd => {
+        // [ITA] Crea un nuovo div rappresentante il singolo pulsante per l'esecuzione del comando.
+        // [ENG] Creates a new div element representing individual button for command execution.
+        const btn = listActions.createEl("div", {
+            // [ITA] Assegna le classi necessarie per abilitare gli stili nativi e l'effetto al passaggio del mouse.
+            // [ENG] Assigns necessary classes to enable native styling and hover states.
+            cls: "empty-state-action tappable",
+            // [ITA] Inserisce il testo dell'etichetta del comando all'interno del nodo generato.
+            // [ENG] Sets the command label text inside the generated node.
+            text: cmd.label,
+            // [ITA] Associa l'ID univoco e assegna gli stili di visualizzazione del pulsante via CSS.
+            // [ENG] Binds unique ID and assigns visual styling properties for the button via CSS.
+            attr: {
+                "data-id": cmd.id,
+                style: `
+                    align-items: center;
+                    color: var(--text-accent);
+                    cursor: pointer;
+                    font-size: 0.9em;
+                    display: flex;
+                `
+            }
+        });
 		// Aggiunge il bullet manuale prima del testo
-		btn.innerHTML = `<span style="color: var(--text-muted); margin-right: 0.5rem;">•</span> ${cmd.label}`;
-		// Attacco del Listener agli elementi appena creati
-		btn.addEventListener('click', (e) => {
-			e.preventDefault();
-			// Esegue il comando intercettato prima
-			app.commands.executeCommandById(cmd.id);
-		});
-	});
+        // [ITA] Modifica la struttura HTML interna inserendo un punto elenco personalizzato prima dell'etichetta.
+        // [ENG] Modifies inner HTML structure injecting a custom bullet point before the text label.
+        btn.innerHTML = `<span style="color: var(--text-muted); margin-right: 0.5rem;">•</span> ${cmd.label}`;
+        // [ITA] Collega un listener per l'evento di click sull'elemento per intercettare l'interazione dell'utente.
+        // [ENG] Attaches event listener for click on element to intercept user interaction.
+        btn.addEventListener('click', (e) => {
+            // [ITA] Annulla il comportamento di default associato all'evento di click nel DOM.
+            // [ENG] Prevents default behavior associated with the click event in DOM.
+            e.preventDefault();
+            // [ITA] Esegue il comando di Obsidian corrispondente all'identificatore memorizzato nell'oggetto.
+            // [ENG] Triggers Obsidian command corresponding to the identifier stored in object.
+            app.commands.executeCommandById(cmd.id);
+        });
+    });
 	// --- FINE BLOCCO LINK STATICI ---
+    // [ITA] Chiusura del blocco di codice per l'iniezione dei collegamenti dinamici alla GUI.
+    // [ENG] Closing code block responsible for injecting dynamic UI action links.
 })();
+// [ITA] Chiusura della funzione wrapper anonima asincrona principale dello script.
+// [ENG] Closing main anonymous async wrapper function of the script.
 })();
 ```
 
@@ -258,7 +493,7 @@ const comandiRapidi = [
 </figure>
 
 
-> [!info]+ Indici dei documenti pontifici<div style="position: absolute; left: 50%; transform: translateX(-50%); color: white !important; white-space: nowrap;"><font style="font-size: 1.5em;"></font></div>
+> [!info]+ Indici dei documenti<div style="position: absolute; left: 50%; transform: translateX(-50%); color: white !important; white-space: nowrap;"><font style="font-size: 1.5em;"></font></div>
 > <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-left: 5em; margin-top: 0em;">
 >
 > <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
@@ -293,52 +528,52 @@ const comandiRapidi = [
 > </div></div>
 > <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
 >
+> - [[Documenti pontifici/Costituzioni/_Indice Costituzioni#Indice di tutte le Costituzioni|Costituzioni]]
+>
+> </div></div>
+> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
 > - [[Documenti pontifici/Costituzioni apostoliche/_Indice Costituzioni apostoliche#Indice di tutte le Costituzioni apostoliche pontificie|Costituzioni apostoliche]]
 >
 > </div></div>
 > <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
 >
-> - [[Documenti pontifici/Costituzioni Dogmatiche/_Indice Costituzioni Dogmatiche#Indice di tutte le Costituzioni Dogmatiche pontificie|Costituzioni Dogmatiche]]
+> - [[Documenti pontifici/Costituzioni dogmatiche/_Indice Costituzioni dogmatiche#Indice di tutte le Costituzioni dogmatiche|Costituzioni dogmatiche]]
+>
+> </div></div>
+> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [[Documenti pontifici/Costituzioni pastorali/_Indice Costituzioni pastorali#Indice di tutte le Costituzioni pastorali|Costituzioni pastorali]]
+>
+> </div></div>
+> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+>
+> - [[Documenti pontifici/Decreti/_Indice Decreti#Indice di tutti i Decreti|Decreti]]
 >
 > </div></div>
 > <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
 >
-> - [[Documenti pontifici/Decreti/_Indice Decreti#Indice di tutti i Decreti pontifici|Decreti]]
+> - [[Documenti pontifici/Dichiarazioni/_Indice Dichiarazioni#Indice di tutte le Dichiarazioni|Dichiarazioni]]
 >
 > </div></div>
-> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
->
-> - [[Documenti pontifici/Dichiarazioni/_Indice Dichiarazioni#Indice di tutte le Dichiarazioni pontificie|Dichiarazioni]]
->
-> </div></div>
-> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
 >
 > - [[Documenti pontifici/Discorsi/_Indice Discorsi#Indice di tutti i Discorsi pontifici|Discorsi]]
 >
 > </div></div>
-> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
 >
 > - [[Documenti pontifici/Editti/_Indice Editti#Indice di tutti gli Editti pontifici|Editti]]
 >
 > </div></div>
-> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
+> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
 >
 > - [[Documenti pontifici/Encicliche/_Indice Encicliche#Indice di tutte le Encicliche pontificie|Encicliche]]
 >
 > </div></div>
-> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
->
-> - [[Documenti pontifici/Epistole/_Indice Epistole#Indice di tutte le Epistole pontificie|Epistole]]
->
-> </div></div>
-> <div style="background: rgba(255,165,0,0.1); border: 1px solid orange; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
->
-> - [[Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche#Indice di tutte le Esortazioni apostoliche pontificie|Esortazioni apostoliche]]
->
-> </div></div>
 > <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
 >
-> - [[Documenti pontifici/Istruzioni/_Indice Istruzioni#Indice di tutte le Istruzioni pontificie|Istruzioni]]
+> - [[Documenti pontifici/Esortazioni apostoliche/_Indice Esortazioni apostoliche#Indice di tutte le Esortazioni apostoliche pontificie|Esortazioni apostoliche]]
 >
 > </div></div>
 > <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
@@ -416,55 +651,4 @@ const comandiRapidi = [
 > - [[Documenti pontifici/Videomessaggi/_Indice Videomessaggi#Indice di tutti i Videomessaggi pontifici|Videomessaggi]]
 >
 > </div></div>
-> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
->
-> - @
->
-> </div></div>
-> <div style="background: rgba(0,255,0,0.1); border: 1px solid green; border-radius: 6px; padding: 0px 8px; height: fit-content; line-height: 1.2;"><div style="margin: -14px 0;">
->
-> - @
->
-> </div></div>
 > </div>
-
-
-
-
-
-```dataviewjs
-/** ATTENZIONE !!!
-IL BLOCCO SUCCESSIVO COMMENTATO
-(eliminare il commento da VSCode-->Modifica)
-CREA UN CALLOUT PER OBSIDIAN.
-**/
-
-/*		 let calloutCheck = `
-		<details class="callout is-collapsible" data-callout="info" open style="border: 0.08rem solid var(--interactive-accent); box-sizing: border-box !important; display: block; margin: 1rem 0; min-width: 100%; overflow: hidden; width: 100%;">
-			<summary class="callout-title" style="align-items: center; display: flex; min-height: 3rem; padding-left: 3.5rem; position: relative; width: 100%;">
-				<div class="callout-icon" style="align-items: center; display: flex; height: 2rem; justify-content: center; left: 0.5rem; position: absolute; top: 50%; transform: translateY(-50%); width: 2rem;">
-					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info" style="width: 2rem; height: 2rem;">
-						<circle cx="12" cy="12" r="10"></circle>
-						<path d="M12 16v-4"></path>
-						<path d="M12 8h.01"></path></svg>
-				</div>
-				<div class="callout-title-inner">Numero totale file nel vault:
-					<span style="background: rgba(0,0,0,0.2); border-radius: 4px; color: white !important; font-weight: 400; padding: 0 1rem;">
-						${allFiles.length}
-					</span>
-				</div>
-				<div class="callout-fold">
-					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down">
-						<path d="m6 9 6 6 6-6"></path>
-					</svg>
-				</div>
-			</summary>
-			<div class="callout-content" style="box-sizing: border-box; display: block; min-width: 100%; padding: 1.5rem; width: 100%;">
-				${htmlContent}
-			</div>
-		</details>`;
-		dv.container.innerHTML = `<hr>` + calloutCheck;
- */
-```
-
-
