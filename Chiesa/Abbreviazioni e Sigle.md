@@ -12,15 +12,17 @@ abbr:
   - CCL: Corpus Christianorum (Series Latina)
   - Cf: Conferatur
   - CIC: Codex Iuris Canonici (Codice di Diritto Canonico)
-  - C. L.: Collectio Lacensis
+  - CL: Collectio Lacensis
   - COD: Conciliorum Oecumenicorum Decreta
   - CSEL: Corpus Scriptorum Ecclesiasticorum Latinorum
+  - CT: Concilium Tridentinum. Diariorum, actorum, epistularum, tractatuum nova collectio
   - DS: H. Denzinger-A. Schönmetzer, Enchiridion Symbolorum definitionum et declarationum de rebus fidei et morum
   - Ed. Leon.: Sancti Thomae Aquinatis Doctoris AngeliciOpera omniaiussu impensaque Leonis XIII P.M. edita
   - Funk: F.X. Funk, Patres apostolici, 2ª ed.
   - GCS: Die griechischen christlichen Schrifsteller
   - MGH: Monumenta Germaniae historica
   - MHSI: Monumenta historica Societatis Iesu
+  - MSI: Sacrorum Conciliorum nova et amplissima collectio (Giovanni Domenico Mansi)
   - PG: Patrologia graeca (J. P. Migne)
   - PL: Patrologia latina (J. P. Migne)
   - PLS: Patrologiae Latinae Supplementum (Patrologia Latina Supplemento)
