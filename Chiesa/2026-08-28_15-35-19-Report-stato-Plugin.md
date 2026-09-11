@@ -3,7 +3,9 @@ licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
-sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
+sviluppatore:
+  - Emanuele Tinari
+  - Gemini Web App
 template: "Genera-report-stato-Plugin.md"
 nomeFile: "2026-08-28_15-35-19-Report-stato-Plugin.md"
 creato: 2026/08/28 15:35:19
