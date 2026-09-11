@@ -4,7 +4,9 @@ licenza-nota:
   - Copyright © 2025 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
-sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
+sviluppatore:
+  - Emanuele Tinari
+  - Gemini Web App
 nomeFile: "_Indice Proclami.md"
 creato: 2025/10/26 21:37:25
 modificato: 2026/09/01 08:14:29
