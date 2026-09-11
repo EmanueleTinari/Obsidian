@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 29948
+progr-doc: 29964
 num-doc: 177
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Documenti pontifici/Videomessaggi/_Indice Videomessaggi#Indice di tutti i Videomessaggi pontifici|Videomessaggio]]"
@@ -72,6 +72,6 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana { .diri
 ### NOTE:
 
 
-[^2025-09-20-lxiv-vim-wlc-IT-ftn1]: *Bollettino della Sala Stampa della Santa Sede*, Sabato 20 settembre 2025
+[^2025-09-20-lxiv-vim-wlc-IT-ftn1]: *Bollettino della Sala Stampa della Santa Sede*, Sabato 20 settembre 2025.
 
 
