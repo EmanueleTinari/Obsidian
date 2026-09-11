@@ -21,11 +21,14 @@ aliases:
   - Patrologia Latina 40
   - P.L. 40
   - PL 40
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 licenza-testi:
   - Copyright © 2026 Città Nuova Editrice
   - Copyright © 2026 Nuova Biblioteca Agostiniana
 digitalizzatore: "Emanuele Tinari"
+revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito augustinus.it](https://www.augustinus.it/italiano/fede_nelle_cose/index2.htm)"
 nomeFile: "sadi-apo-fnv-IT.md"
 creato: 2026/04/28 16:44:24
@@ -214,7 +217,7 @@ Quanto a voi, o carissimi, questa fede che avete o che avete cominciato ad avere
 
 [^sadi-apo-fnv-IT-ftn27]: *<span class="BibleRef">[[Sal 108,6|Sal 108,6]]</span>*.
 
-[^sadi-apo-fnv-IT-ftn28]: *<span class="BibleRef">[[Lc 23,34|Lc 23,34]]</span>*
+[^sadi-apo-fnv-IT-ftn28]: *<span class="BibleRef">[[Lc 23,34|Lc 23,34]]</span>*.
 
 [^sadi-apo-fnv-IT-ftn29]: *<span class="BibleRef">[[Sal 69,22-24|Sal 69,22-24]]</span>*.
 
