@@ -4,7 +4,9 @@ licenza-nota:
   - Copyright © 2025 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
-sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
+sviluppatore:
+  - Emanuele Tinari
+  - Gemini Web App
 nomeFile: "_Indice Udienze.md"
 creato: 2025/09/16 19:49:34
 modificato: 2026/08/24 21:42:30
