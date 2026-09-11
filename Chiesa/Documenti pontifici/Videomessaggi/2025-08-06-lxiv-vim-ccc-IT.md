@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 29897
+progr-doc: 29913
 num-doc: 126
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Documenti pontifici/Videomessaggi/_Indice Videomessaggi#Indice di tutti i Videomessaggi pontifici|Videomessaggio]]"
@@ -73,6 +73,6 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana { .diri
 ### NOTE:
 
 
-[^2025-08-06-lxiv-vim-ccc-IT-ftn1]: [[Papi/Scheda 266° papa - Francesco I|Papa Francesco]],  *Bolla [[Documenti pontifici/Bolle/2024-05-09-fi-bol-snc-IT#1.|Spes non confundit, n. 1]]*
+[^2025-08-06-lxiv-vim-ccc-IT-ftn1]: [[Papi/Scheda 266° papa - Francesco I|Papa Francesco]],  *Bolla [[Documenti pontifici/Bolle/2024-05-09-fi-bol-snc-IT#1.|Spes non confundit, n. 1]]*.
 
 
