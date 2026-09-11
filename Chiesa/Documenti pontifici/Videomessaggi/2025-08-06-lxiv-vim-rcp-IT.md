@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 29898
+progr-doc: 29914
 num-doc: 127
 autore-doc: "[[Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Documenti pontifici/Videomessaggi/_Indice Videomessaggi#Indice di tutti i Videomessaggi pontifici|Videomessaggio]]"
@@ -78,6 +78,6 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana { .diri
 ### NOTE:
 
 
-[^2025-08-06-lxiv-vim-rcp-IT-ftn1]: [[Papi/Scheda 266° papa - Francesco I|Papa Francesco]], *Videomessaggio [[Documenti pontifici/Videomessaggi/2022-07-19-fi-vim-rcp-IT#in occasione del II Congresso cattolico pan-africano su teologia, società e vita pastorale [Nairobi, 19 - 22 luglio 2022]|in occasione del II Congresso cattolico pan-africano su teologia, società e vita pastorale]]*
+[^2025-08-06-lxiv-vim-rcp-IT-ftn1]: [[Papi/Scheda 266° papa - Francesco I|Papa Francesco]], *Videomessaggio [[Documenti pontifici/Videomessaggi/2022-07-19-fi-vim-rcp-IT#in occasione del II Congresso cattolico pan-africano su teologia, società e vita pastorale [Nairobi, 19 - 22 luglio 2022]|in occasione del II Congresso cattolico pan-africano su teologia, società e vita pastorale]]*.
 
 
