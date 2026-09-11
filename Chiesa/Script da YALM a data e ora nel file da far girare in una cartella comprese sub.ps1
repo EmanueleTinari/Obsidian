@@ -3,7 +3,7 @@
 DESCRIZIONE
 -----------
 	Sincronizza i metadati YAML con le proprieta del file system dei file Markdown.
-	1. ESTRAZIONE DATI: legge i campi 'creato:' e 'modificato:' nelle prime 50 righe del frontmatter YAML.
+	1. ESTRAZIONE DATI: legge i campi 'creato:' e 'modificato:' nelle prime 70 righe del frontmatter YAML.
 	2. PARSING FLESSIBILE: supporta i formati data italiani e ISO con separatori '/' oppure '-'.
 	3. RIPRISTINO PROPRIETA: assegna le date estratte alle proprieta CreationTime e LastWriteTime del file.
 	4. CULTURA ITALIANA: usa la cultura 'it-IT' per evitare l'inversione tra giorno e mese.
@@ -27,7 +27,7 @@ DESCRIZIONE
 DESCRIPTION
 -----------
 	Synchronizes YAML metadata with the file system properties of Markdown files.
-	1. DATA EXTRACTION: reads the 'creato:' and 'modificato:' fields from the YAML frontmatter's first 50 lines.
+	1. DATA EXTRACTION: reads the 'creato:' and 'modificato:' fields from the YAML frontmatter's first 70 lines.
 	2. FLEXIBLE PARSING: supports Italian and ISO date formats with either '/' or '-' separators.
 	3. PROPERTY RESTORATION: assigns the extracted dates to the file's CreationTime and LastWriteTime properties.
 	4. ITALIAN CULTURE: uses the 'it-IT' culture to prevent day/month inversion.
@@ -60,9 +60,9 @@ Write-Host "Inizio analisi di $($files.Count) file..." -ForegroundColor Cyan
 # [ITA] Avvia l'elaborazione di ogni file Markdown trovato, comprese le sottocartelle.
 # [ENG] Starts processing every Markdown file found, including files in subfolders.
 foreach ($file in $files) {
-	# [ITA] Legge al massimo le prime 50 righe del file usando la codifica UTF-8.
-	# [ENG] Reads at most the first 50 lines of the file using UTF-8 encoding.
-	$content = Get-Content -LiteralPath $file.FullName -Head 50 -Encoding UTF8 -ErrorAction SilentlyContinue
+	# [ITA] Legge al massimo le prime 70 righe del file usando la codifica UTF-8.
+	# [ENG] Reads at most the first 70 lines of the file using UTF-8 encoding.
+	$content = Get-Content -LiteralPath $file.FullName -Head 70 -Encoding UTF8 -ErrorAction SilentlyContinue
 	# [ITA] Salta il file corrente se non e stato possibile leggerlo o se e vuoto.
 	# [ENG] Skips the current file if it could not be read or is empty.
 	if (!$content) {
