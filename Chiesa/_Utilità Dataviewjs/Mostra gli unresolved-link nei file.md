@@ -1,5 +1,7 @@
 ---
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 nomeFile: "Mostra gli unresolved-link nei file.md"
 creato: 2026/06/03 01:08:10
 modificato: 2026/06/03 01:47:22
