@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 23562
+progr-doc: 23578
 num-doc: 16
 autore-doc: "[[Scheda 266° papa - Francesco I|Francesco I]]"
 tipo-doc: "[[Documenti pontifici/Meditazioni quotidiane/_Indice Meditazioni quotidiane#Indice di tutte le Meditazioni quotidiane pontificie|Meditazione quotidiana]]"
@@ -68,7 +68,7 @@ Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana { .diri
 ### NOTE:
 
 
-[^2013-03-25-fi-meq-pdd-IT-ftn1]: *L'Osservatore Romano*, Edizione Quotidiana, Anno CLIII, n. 71, Lunedì-Martedì, 25-26 marzo 2013
+[^2013-03-25-fi-meq-pdd-IT-ftn1]: *L'Osservatore Romano*, Edizione Quotidiana, Anno CLIII, n. 71, Lunedì-Martedì, 25-26 marzo 2013.
 
 [^2013-03-25-fi-meq-pdd-IT-ftn2]: *<span class="BibleRef">[[Is 42,1-7|Is 42,1-7]]</span>*.
 
