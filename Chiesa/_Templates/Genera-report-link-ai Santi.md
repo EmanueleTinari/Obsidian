@@ -1,7 +1,11 @@
 ---
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
-sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
+sviluppatore:
+  - Emanuele Tinari
+  - Gemini Web App
 nomeFile: "Genera-report-link-ai-Santi.md"
 creato: 2026/08/28 15:13:33
 modificato: 2026/08/28 15:13:33
@@ -282,9 +286,13 @@ const newFileName = `${timestamp}${REPORT_SUFFIX}`;
 // [ITA] Inizia la definizione della stringa multilinea 'finalContent' aprendo il blocco Frontmatter YAML con i tre trattini.
 // [ENG] Begins defining the multiline string 'finalContent' by opening the YAML Frontmatter block with three dashes.
 const finalContent = `---
-licenza-nota: "Copyright © ${yearReport} Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/"
+licenza-nota:
+  - Copyright © ${yearReport} Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
-sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
+sviluppatore:
+  - Emanuele Tinari
+  - Gemini Web App
 template: "Genera-report-link-ai-Santi.md"
 nomeFile: "${newFileName}.md"
 creato: ${creatoVal}
