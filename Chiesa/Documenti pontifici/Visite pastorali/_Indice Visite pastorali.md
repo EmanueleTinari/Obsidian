@@ -4,7 +4,9 @@ licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
-sviluppatore: ["Emanuele Tinari", "Gemini Web App"]
+sviluppatore:
+  - Emanuele Tinari
+  - Gemini Web App
 nomeFile: "_Indice Visite pastorali.md"
 creato: 2026/07/18 08:30:03
 modificato: 2026/08/24 21:42:30
