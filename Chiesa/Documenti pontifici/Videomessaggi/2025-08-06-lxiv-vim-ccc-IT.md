@@ -23,7 +23,9 @@ aliases:
   - Videomessaggio ai partecipanti alla 143ª «Convenzione Suprema dei Cavalieri di Colombo» riuniti a Washington D.C.
   - 6 agosto 2025
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/messages/pont-messages/2025/documents/20250806-videomessaggio-cavalieri-di-colombo.html)"
