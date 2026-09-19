@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 29824
+progr-doc: 29840
 num-doc: 53
 autore-doc: "[[Papi/Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Documenti pontifici/Videomessaggi/_Indice Videomessaggi#Indice di tutti i videomessaggi pontifici|Videomessaggio]]"
@@ -21,7 +21,9 @@ aliases:
   - Videomessaggio ai giovani di Chicago e del mondo intero [Rate Field di Chicago, 14 giugno 2025]
   - 14 giugno 2025
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/messages/pont-messages/2025/documents/20250614-videomessaggio-giovani.html)"
