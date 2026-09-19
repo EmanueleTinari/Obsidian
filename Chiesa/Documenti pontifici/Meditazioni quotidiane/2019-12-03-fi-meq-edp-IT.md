@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 27346
+progr-doc: 27362
 num-doc: 3800
 autore-doc: "[[Scheda 266° papa - Francesco I|Francesco I]]"
 tipo-doc: "[[Documenti pontifici/Meditazioni quotidiane/_Indice Meditazioni quotidiane#Indice di tutte le Meditazioni quotidiane pontificie|Meditazione quotidiana]]"
@@ -21,7 +21,9 @@ aliases:
   - Meditazione quotidiana Elogio della piccolezza
   - 3 dicembre 2019
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/francesco/it/cotidie/2019/documents/papa-francesco-cotidie_20191203_elogio-della-piccolezza.html)"
