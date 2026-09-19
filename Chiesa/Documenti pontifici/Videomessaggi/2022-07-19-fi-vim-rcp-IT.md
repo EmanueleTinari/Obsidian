@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 28427
+progr-doc: 28443
 num-doc: 4881
 autore-doc: "[[Scheda 266° papa - Francesco I|Francesco I]]"
 tipo-doc: "[[Documenti pontifici/Videomessaggi/_Indice Videomessaggi#Indice di tutti i Videomessaggi pontifici|Videomessaggio]]"
@@ -23,7 +23,9 @@ aliases:
   - Videomessaggio in occasione del 2° Congresso della «Rete Cattolica Panafricana di Teologia e Pastorale» su “Teologia, Società e Vita pastorale” [Catholic University of East Africa, Nairobi, 19 - 22 luglio 2022]
   - 19 luglio 2022
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/francesco/it/messages/pont-messages/2022/documents/20220719-videomessaggio-panafrican-network.html)"
