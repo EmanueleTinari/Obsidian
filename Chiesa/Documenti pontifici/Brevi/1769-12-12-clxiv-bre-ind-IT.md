@@ -21,7 +21,9 @@ aliases:
   - Breve Inscrutabili divinae
   - 12 dicembre 1769
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2025 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/clemens-xiv/it/documents/breve-inscrutabili-divinae-12-dicembre-1769.html)"
@@ -75,7 +77,7 @@ Inoltre, a tutti e ai singoli cristiani di ambedue i sessi, sia laici, sia eccle
 
 ###### 5.
 
-Per mezzo della presente Lettera non intendiamo peraltro – così come nessuno dei Nostri Predecessori fece mai nella pubblicazione del Giubileo – dispensare su qualche irregolarità pubblica, occulta o nota, in qualche modo dovuta a difetto, a incapacità o ad inabilità, e neppure dare facoltà di dispensare, ossia di abilitare e restituire alla condizione precedente, anche in foro di coscienza, né intendiamo che la presente Lettera possa o debba favorire coloro che da Noi, o da qualche prelato o giudice ecclesiastico siano stati scomunicati, sospesi o interdetti o dichiarati incorsi in altre condanne o censure o pubblicamente denunziati, se prima non abbiano soddisfatto o preso accordo con le parti in questione.<br><br>Nonostante qualsiasi contraria disposizione, a tutte e a ciascuna intendiamo derogare, anche se di esse e del loro contenuto fosse stata fatta specifica menzione espressa ed individua – e non solo per clausole generali e importanti, o si dovesse tener conto di qualche altra espressione o di qualche altra forma particolare – pur ritenendo che il loro contenuto e la loro forma siano espressi nella presente Lettera; questa volta, in esecuzione di quanto premesso, deroghiamo, respinta ogni eccezione contraria.<br><br>Pertanto, i Santi Apostoli **[[San Pietro|Pietro]]** e **[[San Paolo|Paolo]]**, nel potere e nell’autorità dei quali confidiamo, intercedano per voi tutti presso il Signore.
+Per mezzo della presente Lettera non intendiamo peraltro – così come nessuno dei Nostri Predecessori fece mai nella pubblicazione del Giubileo – dispensare su qualche irregolarità pubblica, occulta o nota, in qualche modo dovuta a difetto, a incapacità o ad inabilità, e neppure dare facoltà di dispensare, ossia di abilitare e restituire alla condizione precedente, anche in foro di coscienza, né intendiamo che la presente Lettera possa o debba favorire coloro che da Noi, o da qualche prelato o giudice ecclesiastico siano stati scomunicati, sospesi o interdetti o dichiarati incorsi in altre condanne o censure o pubblicamente denunziati, se prima non abbiano soddisfatto o preso accordo con le parti in questione.<br><br>Nonostante qualsiasi contraria disposizione, a tutte e a ciascuna intendiamo derogare, anche se di esse e del loro contenuto fosse stata fatta specifica menzione espressa ed individua – e non solo per clausole generali e importanti, o si dovesse tener conto di qualche altra espressione o di qualche altra forma particolare – pur ritenendo che il loro contenuto e la loro forma siano espressi nella presente Lettera; questa volta, in esecuzione di quanto premesso, deroghiamo, respinta ogni eccezione contraria.<br><br>Pertanto, i Santi Apostoli **[[San Pietro Apostolo|Pietro]]** e **[[San Paolo|Paolo]]**, nel potere e nell’autorità dei quali confidiamo, intercedano per voi tutti presso il Signore.
 { .paragrafoNorm }
 
 
