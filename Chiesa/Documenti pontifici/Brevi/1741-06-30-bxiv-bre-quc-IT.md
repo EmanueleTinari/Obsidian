@@ -21,7 +21,9 @@ aliases:
   - Breve Quanta cura
   - 30 giugno 1741
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2025 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-quanta-cura--i---30-giugno-1741--sdegnata-condanna-cont.html)"
@@ -73,7 +75,7 @@ Quanto ciò sia discordante e quanto sia estraneo alla volontà, sia espressa ch
 
 ###### 3.
 
-I Romani Pontefici Nostri Predecessori, deplorando questo esecrabile abuso che andava pian piano insinuandosi qua e là, vollero che con provvedimento sia della Congregazione dei Cardinali di Santa Romana Chiesa dell’Inquisizione universale contro le malvagie eresie, sia della Congregazione dei Cardinali interpreti del [[Documenti vari/Documenti del Concilio Ecumenico Tridentino/Concilio Ecumenico Tridentino#Documenti del Concilio Ecumenico Tridentino|Concilio di Trento]], fosse prescritto che nessun Sacerdote, una volta ricevuto da chiunque un compenso o un’elemosina sovrabbondante per la celebrazione di una Messa, possa dare a un altro Sacerdote, che si appresta a celebrare tale Messa, un compenso o un’elemosina di minore entità, pur dichiarando al Sacerdote che celebra la Messa (e con il consenso di questi) di aver ricevuto un compenso o un’elemosina di maggior valore. { .paragrafoNorm }
+I Romani Pontefici Nostri Predecessori, deplorando questo esecrabile abuso che andava pian piano insinuandosi qua e là, vollero che con provvedimento sia della Congregazione dei Cardinali di Santa Romana Chiesa dell’Inquisizione universale contro le malvagie eresie, sia della Congregazione dei Cardinali interpreti del [[Documenti vari/Documenti del Concilio Ecumenico Tridentino/_Indice documenti del Concilio Ecumenico Tridentino#Documenti del Concilio Ecumenico Tridentino|Concilio di Trento]], fosse prescritto che nessun Sacerdote, una volta ricevuto da chiunque un compenso o un’elemosina sovrabbondante per la celebrazione di una Messa, possa dare a un altro Sacerdote, che si appresta a celebrare tale Messa, un compenso o un’elemosina di minore entità, pur dichiarando al Sacerdote che celebra la Messa (e con il consenso di questi) di aver ricevuto un compenso o un’elemosina di maggior valore. { .paragrafoNorm }
 
 
 ###### 4.
