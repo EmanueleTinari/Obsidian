@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 29786
+progr-doc: 29802
 num-doc: 15
 autore-doc: "[[Papi/Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Documenti pontifici/Videomessaggi/_Indice Videomessaggi#Indice di tutti i videomessaggi pontifici|Videomessaggio]]"
@@ -21,7 +21,9 @@ aliases:
   - Videomessaggio in occasione dell’incontro di circa 200 Università a Rio de Janeiro sulla “Laudato si’” [Pontificia Università Cattolica di Rio de Janeiro (PUC-Rio), 20 - 24 maggio 2025]
   - 20 maggio 2025
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2025 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/messages/pont-messages/2025/documents/20250520-videomessaggio-universita-rio.html)"
