@@ -21,7 +21,9 @@ aliases:
   - Breve Ubi primum accepimus
   - 14 gennaio 1764
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2025 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/clemens-xiii/it/documents/breve-ubi-primum-accepimus-14-gennaio-1764.html)"
@@ -62,7 +64,7 @@ Non appena venimmo a conoscenza che da parte vostra si pensava di eleggere il Re
 
 ###### 2.
 
-Intanto vi supplichiamo e scongiuriamo nel nome di Dio, Venerabili Fratelli e diletti Nobili Figli, affinché, dato che vi siete costà riuniti, dedichiate ogni pensiero, con comune passione e come lo richiede la vostra pietà, alla tutela della Religione Cristiana, e prendiate quelle decisioni che agli occhi di tutti dimostrino che Voi avete voluto consultarvi per l’incolumità della fede e per i santissimi diritti della Chiesa.<br>Quanto a ciò, per non dilungarci oltre, il Venerabile Fratello Nicolò, Arcivescovo di Traianopoli, che abbiamo inviato alla vostra riunione come Nunzio Nostro e della Sede Apostolica, comunicherà con voi: chiediamo che alle sue parole prestiate la stessa fiducia che presterete a Noi personalmente.<br>Sarà segno non solo della vostra benevolenza, ma anche della vostra devozione verso questa Sacra Sede del **[[San Pietro|Beato Pietro]]**, accogliere con tutti gli onori e con tutte le attenzioni quest’uomo di nobile lignaggio, di eccellente dottrina e di severi costumi, che viene a gestire a nome Nostro i pubblici interessi di questa Santa Sede: in tal modo dimostrerete la vostra Religione e la riverenza degna del nome Cattolico che avete sempre testimoniato al Capo di tutta la Chiesa.<br><br>Quale pegno del Nostro particolare affetto, a Voi, Venerabili Fratelli e diletti Nobili Figli, impartiamo con amore l’Apostolica Benedizione.
+Intanto vi supplichiamo e scongiuriamo nel nome di Dio, Venerabili Fratelli e diletti Nobili Figli, affinché, dato che vi siete costà riuniti, dedichiate ogni pensiero, con comune passione e come lo richiede la vostra pietà, alla tutela della Religione Cristiana, e prendiate quelle decisioni che agli occhi di tutti dimostrino che Voi avete voluto consultarvi per l’incolumità della fede e per i santissimi diritti della Chiesa.<br>Quanto a ciò, per non dilungarci oltre, il Venerabile Fratello Nicolò, Arcivescovo di Traianopoli, che abbiamo inviato alla vostra riunione come Nunzio Nostro e della Sede Apostolica, comunicherà con voi: chiediamo che alle sue parole prestiate la stessa fiducia che presterete a Noi personalmente.<br>Sarà segno non solo della vostra benevolenza, ma anche della vostra devozione verso questa Sacra Sede del **[[San Pietro Apostolo|Beato Pietro]]**, accogliere con tutti gli onori e con tutte le attenzioni quest’uomo di nobile lignaggio, di eccellente dottrina e di severi costumi, che viene a gestire a nome Nostro i pubblici interessi di questa Santa Sede: in tal modo dimostrerete la vostra Religione e la riverenza degna del nome Cattolico che avete sempre testimoniato al Capo di tutta la Chiesa.<br><br>Quale pegno del Nostro particolare affetto, a Voi, Venerabili Fratelli e diletti Nobili Figli, impartiamo con amore l’Apostolica Benedizione.
 { .paragrafoNorm }
 
 
