@@ -23,7 +23,9 @@ aliases:
   - Motu proprio Summorum Pontificum sulla “Liturgia romana anteriore alla riforma del 1970”
   - 7 luglio 2007
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html)"
