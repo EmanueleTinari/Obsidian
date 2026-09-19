@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 29959
+progr-doc: 29975
 num-doc: 188
 autore-doc: "[[Papi/Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Documenti pontifici/Motu proprio/_Indice Motu proprio#Indice di tutti i Motu proprio|Motu proprio]]"
@@ -21,7 +21,9 @@ aliases:
   - Motu proprio Coniuncta cura
   - 29 settembre 2025
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2025 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2025 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20250929-coniuncta-cura.html)"
