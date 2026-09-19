@@ -1,6 +1,6 @@
 ---
 cssclasses: docVat
-progr-doc: 30101
+progr-doc: 30117
 num-doc: 330
 autore-doc: "[[Papi/Scheda 267° papa - Leone XIV|Leone XIV]]"
 tipo-doc: "[[Documenti pontifici/Videomessaggi/_Indice Videomessaggi#Indice di tutti i videomessaggi pontifici|Videomessaggio]]"
@@ -21,7 +21,9 @@ aliases:
   - Videomessaggio ai partecipanti all’«Australian Catholic Youth Festival» (“ACYF”) [Melbourne, Victoria, 30 novembre - 2 dicembre 2025]
   - 30 novembre 2025
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
-licenza-nota: Copyright © 2026 Emanuele Tinari under Creative Commons BY-NC-SA 4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore: "Emanuele Tinari"
 revisore: "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/messages/pont-messages/2025/documents/20251130-videomessaggio-acyf.html)"
