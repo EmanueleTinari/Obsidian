@@ -5,12 +5,12 @@ licenza-nota:
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
 sviluppatore:
-  - Emanuele Tinari
-  - Gemini Web App
+  - "Emanuele Tinari"
+  - "Gemini Web App"
 template: "Genera-changelog-del-vault.md"
 nomeFile: "README.md"
 creato: 2026/08/29 07:58:48
-modificato: 2026/09/14 23:34:32
+modificato: 2026/09/14 23:40:35
 ---
 
 # Changelog Vault Chiesa
