@@ -84,8 +84,10 @@
 !/Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/
 # --- ECCEZIONI PER IL PLUGIN MODAL-4BIBLE-REFS ---
 /Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/node_modules/
-/Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/**/*.bak
-/Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/**/package*.json
+/Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/*.bak
+/Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/package*.json
+Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/_pompt x IA durante la scrittura del plugin.md
+Chiesa/.obsidian/plugins/obsidian-modal-4bible-refs/jsconfig.json
 # --------------------------------------------------
 !/Chiesa/.obsidian/plugins/vocabolario-indexer/
 .obsidian/app.json
