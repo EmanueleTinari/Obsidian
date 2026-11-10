@@ -22,6 +22,8 @@
 **			cssclasses: messaggio
 **		SEZIONE #PIANO DI LETTURA
 **			cssclasses: pianoLettura
+**		SEZIONE #PREGHIERE
+**			cssclasses: preghiere
 **		SEZIONE #SANTI
 **			cssclasses: santi
 **		SEZIONE #SIGLE ECCLESIASTICHE
@@ -2516,6 +2518,28 @@ li.listaNorm {
 	width: 100% !important;
 }
 
+/*********************************************/
+/** FIRMATARIO del documento a SINISTRA:	**/
+/** Testo corsivo, a sinistra e grassetto	**/
+/*********************************************/
+/* Colpiamo direttamente il paragrafo che riceve la classe .firmaSinistra */
+.docVat .markdown-preview-view .el-p p.firmaSinistra,
+.docVat .markdown-rendered .el-p p.firmaSinistra,
+.docVat p.firmaSinistra {
+	color: rgb(102, 51, 0) !important;
+	display: block !important;
+	font-family: "Times New Roman", Times, serif !important;
+	font-size: 1.6rem !important;
+	font-style: italic !important;
+	font-weight: bold !important;
+	line-height: 1.2 !important;
+	margin-bottom: 7rem !important;
+	margin-top: 5rem !important;
+	text-align: left !important;
+	width: 100% !important;
+}
+
+
 /** TITOLO del DOCUMENTO: Testo + grande, MAIUSCOLO, corsivo, centrato e grassetto **/
 /** header H1 in editing view **/
 .docVat .cm-header.cm-header-1,
@@ -3204,6 +3228,149 @@ li.listaNorm {
 .pianoLettura .verde {
 	color: greenyellow !important;
 }
+
+/* #endregion */
+
+
+
+/* #region SEZIONE PREGHIERE */
+/**	==========================================
+**				SEZIONE #PREGHIERE
+**	==========================================
+**
+** 	Questi stili CSS colpiscono solamente
+**	la larghezza della pagina.
+**
+**	==========================================
+*/
+
+.preghiere .mod-header.mod-ui,
+.preghiere .mod-footer.mod-ui {
+    height: 0;
+    margin: 0;
+    min-height: 0;
+	opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    pointer-events: none;
+    visibility: hidden;
+}
+
+/* Sblocca le variabili di larghezza per la nota con cssclasses: preghiere */
+.preghiere {
+	--file-line-width: 100% !important;
+	--line-width: 100% !important;
+	--line-width-wide: 100% !important;
+}
+
+/* Modalità Lettura (Reading View) */
+.preghiere .markdown-preview-sizer {
+	max-width: 100% !important;
+	width: 100% !important;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+
+/* Modalità Modifica / Live Preview (Editing View) */
+.preghiere .cm-sizer,
+.preghiere .markdown-rendered {
+	max-width: 100% !important;
+	width: 100% !important;
+}
+
+/* Forza le tabelle di Dataview a prendersi tutto lo spazio */
+.preghiere .block-language-dataviewjs,
+.preghiere table.dataview {
+	width: 100% !important;
+	max-width: 100% !important;
+}
+
+/* 1. Riduzione font per TUTTE le celle e le intestazioni */
+.preghiere table.dataview th,
+.preghiere table.dataview td {
+	font-size: 0.85rem !important; /* Regola la dimensione a piacere */
+	padding: 4px 8px !important;    /* Riduce lo spazio interno per compattare le righe */
+}
+
+/* Larghezza per la sola colonna NUM-DOC PROGRESSIVO (1ª colonna) */
+.preghiere table.dataview th:nth-child(1),
+.preghiere table.dataview td:nth-child(1) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce al num-doc progressivo di andare a capo */
+}
+
+/* Larghezza per la sola colonna NUM-DOC x AUTORE (2ª colonna) */
+.preghiere table.dataview th:nth-child(2),
+.preghiere table.dataview td:nth-child(2) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce al num-doc x Autore di andare a capo */
+}
+
+/* Larghezza per la sola colonna AUTORE (3ª colonna) */
+.preghiere table.dataview th:nth-child(3),
+.preghiere table.dataview td:nth-child(3) {
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce all'Autore di andare a capo */
+}
+
+/* Larghezza per la sola colonna DATA (4ª colonna) */
+.preghiere table.dataview th:nth-child(4),
+.preghiere table.dataview td:nth-child(4) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce alla data di andare a capo */
+}
+
+/* Larghezza per la sola colonna TITOLO (5ª colonna) */
+.preghiere table.dataview th:nth-child(5),
+.preghiere table.dataview td:nth-child(5) {
+	color: white !important;
+}
+
+/* Larghezza per la sola colonna FILE (6ª colonna) */
+.preghiere table.dataview th:nth-child(6),
+.preghiere table.dataview td:nth-child(6) {
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;			/* Impedisce al nome file di andare a capo */
+}
+
+/** TITOLO dell'INDICE: Testo + grande, MAIUSCOLO, corsivo, centrato e grassetto **/
+/** header H1 in editing view **/
+.preghiere .cm-header.cm-header-1,
+.preghiere h1 {
+	color: blue !important;
+	font-size: 2rem !important;
+	font-style: italic !important;
+	font-weight: bold !important;
+	margin-bottom: 5rem !important;
+	margin-top: 5rem !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+	/* necessario per il centraggio */
+	display: block !important;
+	/* opzionale, per sicurezza */
+	width: 100%;
+}
+
+/** OGNI Paragrafo <p> **/
+.preghiere p {
+  /* Imposta un'altezza della riga fissa (es. 28px) */
+  /* Crea una linea grigia di 1px posizionata sul fondo di ogni riga */
+	background-image: linear-gradient(transparent 27.6px, gray 27.6px);
+	background-size: 100% 28px;
+	line-height: 28px;
+	margin-bottom: 1rem !important;
+}
+
 
 /* #endregion */
 
