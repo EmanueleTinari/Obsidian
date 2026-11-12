@@ -3030,7 +3030,7 @@ li.listaNorm {
 .messaggio .HyperMD-header-1 {
 	color: lightblue !important;
 	/* ATTENZIONE DOPO FARE 1.5rem */
-	font-size: 0.5rem !important;
+	font-size: 1.5rem !important;
 	letter-spacing: 0.1rem !important;
 	margin-top: 5% !important;
 	margin-bottom: 0% !important;
@@ -3045,26 +3045,42 @@ li.listaNorm {
 **/
 /* Selettore per la modalità Lettura (Reading Mode) se presente */
 .messaggio h2,
-/* Colpisce l'H1 in Modalità Lettura */
+/* Colpisce l'H2 in Modalità Lettura */
 .messaggio .markdown-rendered h2,
-/* Colpisce l'H1 in Live Preview (Editor) */
+/* Colpisce l'H2 in Live Preview (Editor) */
 .messaggio .cm-content .HyperMD-header-2.cm-line,
 /* Selettore mirato per l'header 1 specifico del plugin HyperMD (Live Preview) */
 .messaggio .HyperMD-header.HyperMD-header-2.cm-line,
 .messaggio .cm-header-2,
-/* Colpisce l'H1 nel plugin HyperMD*/
+/* Colpisce l'H2 nel plugin HyperMD*/
 .messaggio .HyperMD-header-2 {
 	color: whitesmoke !important;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	/* ATTENZIONE DOPO FARE 1.1rem */
-	font-size: 0.5rem !important;
+	font-size: 1.1rem !important;
 	letter-spacing: 0.1rem !important;
 	margin-top: 10% !important;
 	margin-bottom: 5% !important;
 	margin-right: 15% !important;
 	margin-left: 5% !important;
 	text-align: left !important;
+}
 
+/* Colpisce i paragrafi (<p>) in Modalità Lettura (Reading Mode) */
+.messaggio p,
+.messaggio .markdown-rendered p,
+/* Colpisce le righe di testo normale in Live Preview (Editor), escludendo i titoli */
+.messaggio .cm-content > .cm-line:not(.HyperMD-header):not(.HyperMD-quote):not(.HyperMD-list-line),
+.messaggio .cm-line:not([class*="HyperMD-header"]) {
+	color: whitesmoke !important;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 1.1rem !important;
+	letter-spacing: 0.1rem !important;
+	margin-top: 10% !important;
+	margin-bottom: 5% !important;
+	margin-right: 15% !important;
+	margin-left: 5% !important;
+	text-align: left !important;
 }
 
 .messaggio .callout[data-callout="5colonne"],
