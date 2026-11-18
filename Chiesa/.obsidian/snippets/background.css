@@ -39,7 +39,7 @@
 /** 100px ->   7rem **/
 /**  40px -> 2.7rem **/
 /**  24px -> 1.6rem **/
-/**    3% -> 1.1rem **/
+/**	3% -> 1.1rem **/
 
 /* ******************************************************** */
 /* ATTENZIONE ICONA VUOTA DA USARE COME MODELLO DA RIEMPIRE */
@@ -163,13 +163,16 @@
 }
 
 /* JSON (.json) */
-.nav-file-title[data-path$=".xx"] .nav-file-title-content:before {
+.nav-file-title[data-path$=".json"] .nav-file-title-content:before {
 	/* Icona json */
-
 	background-repeat: no-repeat;
 	background-size: contain;
-	content: "";
+	color: #f5a623;
+	content: "{}";
 	display: inline-block;
+	font-family: Consolas, monospace;
+	font-size: 15px;
+	font-weight: bold;
 	height: 20px;
 	margin-right: 6px;
 	vertical-align: middle;
@@ -423,24 +426,24 @@
 /* Forza le tabelle ad occupare tutto lo spazio */
 .changelog .block-language-dataviewjs,
 .changelog table {
-    width: 100% !important;
-    max-width: 100% !important;
+	width: 100% !important;
+	max-width: 100% !important;
 }
 
 /* 1. Riduzione font per TUTTE le celle e le intestazioni */
 .changelog table th,
 .changelog table td {
-    font-size: 0.85rem !important; /* Regola la dimensione a piacere */
-    padding: 4px 8px !important;    /* Riduce lo spazio interno per compattare le righe */
+	font-size: 0.85rem !important; /* Regola la dimensione a piacere */
+	padding: 4px 8px !important;	/* Riduce lo spazio interno per compattare le righe */
 }
 
 /* Larghezza per la sola colonna DATA E ORARIO (1ª colonna) */
 .changelog table th:nth-child(1),
 .changelog table td:nth-child(1) {
-    font-size: 0.7rem !important;
-    font-weight: 300 !important;
-    width: 0 !important;                    /* Valore in px o % */
-    white-space: nowrap !important;         /* Impedisce alla Data e orario di andare a capo */
+	font-size: 0.7rem !important;
+	font-weight: 300 !important;
+	width: 0 !important;					/* Valore in px o % */
+	white-space: nowrap !important;		 /* Impedisce alla Data e orario di andare a capo */
 }
 /* Larghezza per la sola colonna NOME FILE (2ª colonna) */
 .changelog table th:nth-child(2),
@@ -520,14 +523,14 @@
 
 .indice .mod-header.mod-ui,
 .indice .mod-footer.mod-ui {
-    height: 0;
-    margin: 0;
-    min-height: 0;
+	height: 0;
+	margin: 0;
+	min-height: 0;
 	opacity: 0;
-    overflow: hidden;
-    padding: 0;
-    pointer-events: none;
-    visibility: hidden;
+	overflow: hidden;
+	padding: 0;
+	pointer-events: none;
+	visibility: hidden;
 }
 
 /* Sblocca le variabili di larghezza per la nota con cssclasses: indice */
@@ -565,7 +568,7 @@
 .indice table.dataview th,
 .indice table.dataview td {
 	font-size: 0.85rem !important; /* Regola la dimensione a piacere */
-	padding: 4px 8px !important;    /* Riduce lo spazio interno per compattare le righe */
+	padding: 4px 8px !important;	/* Riduce lo spazio interno per compattare le righe */
 }
 
 /* Larghezza per la sola colonna NUM-DOC PROGRESSIVO (1ª colonna) */
@@ -652,52 +655,52 @@
 
 .callout[data-callout="nascondi"] {
 	--callout-icon: none !important;
-    background-color: transparent !important;
-    border: none !important;
-    box-shadow: none !important;
-    min-height: 0 !important;
+	background-color: transparent !important;
+	border: none !important;
+	box-shadow: none !important;
+	min-height: 0 !important;
 }
 
 /* Nasconde il titolo SOLO del callout 'nascondi', non dei suoi figli */
 .callout[data-callout="indice"] .callout[data-callout="nascondi"] > .callout-title .callout-title-inner {
-    border: none !important;
-    display: none !important;
-    min-height: 0 !important;
-    padding: 0 !important;
+	border: none !important;
+	display: none !important;
+	min-height: 0 !important;
+	padding: 0 !important;
 }
 
 /* Rimuove il bordo/padding del titolo vuoto per non lasciare spazio */
 .callout[data-callout="nascondi"] > .callout-title {
-    border: none !important;
-    display: none !important;
-    min-height: 0 !important;
-    padding: 0 !important;
+	border: none !important;
+	display: none !important;
+	min-height: 0 !important;
+	padding: 0 !important;
 }
 
 /* Rimuove il padding superiore dai callout nascondi annidati */
 .callout[data-callout="nascondi"] > .callout-content {
 	/* Forza il contenuto verso l'alto */
-    margin-top: -1.5rem !important;
-    padding-top: 0 !important;
+	margin-top: -1.5rem !important;
+	padding-top: 0 !important;
 }
 
 /* Nasconde la freccetta (fold) SOLO del callout 'nascondi' */
 .callout[data-callout="nascondi"] > .callout-title .callout-fold {
-    display: none !important;
+	display: none !important;
 }
 
 /* Rimuove il paragrafo vuoto iniziale generato da Obsidian */
 .callout[data-callout="nascondi"] > .callout-content > p:first-child {
-    display: none !important;
+	display: none !important;
 }
 
 /* Nasconde l'intero blocco del titolo dei callout nascondi (non solo il testo) */
 .callout[data-callout="nascondi"] > .callout-title {
-    display: none !important;
-    height: 0 !important;
-    margin: 0 !important;
-    min-height: 0 !important;
-    padding: 0 !important;
+	display: none !important;
+	height: 0 !important;
+	margin: 0 !important;
+	min-height: 0 !important;
+	padding: 0 !important;
 }
 
 .callout[data-callout="indice"] .callout-title-inner {
@@ -718,16 +721,16 @@
 }
 
 .callout[data-callout="indice"] .callout[data-callout="indice"] {
-    margin-bottom: 3rem !important;
-    margin-top: 0rem !important;
-    padding-top: 0 !important;
+	margin-bottom: 3rem !important;
+	margin-top: 0rem !important;
+	padding-top: 0 !important;
 }
 
 /* Colpisce il 2°, 3° e 4° callout indice che si trovano dentro un indice padre */
 .callout[data-callout="indice"] .callout[data-callout="indice"] + .callout[data-callout="indice"] {
-    margin-bottom: 3rem !important;
-    margin-top: -2rem !important;
-    padding-top: 0 !important;
+	margin-bottom: 3rem !important;
+	margin-top: -2rem !important;
+	padding-top: 0 !important;
 }
 
 div.el-h1:has(h1[data-heading="Indice"]),
@@ -760,8 +763,8 @@ div.el-h3:has(h3[data-heading="Indice"]) {
 
 /* Effetto Hover */
 #bottone-torna-indice:hover {
-    background: rgb(102, 102, 102) !important;
-    transform: scale(1.05);
+	background: rgb(102, 102, 102) !important;
+	transform: scale(1.05);
 }
 
 /* #endregion */
@@ -1272,7 +1275,7 @@ input[type=checkbox]:checked::after {
 
 /* Espande la colonna delle chiavi (label) nel Frontmatter */
 body {
-	/* La larghezza di default è 9em. Aumentala per vedere i nomi lunghi */
+	/* La larghezza di default è 9em. Aumentata per vedere i nomi lunghi */
 	--metadata-label-width: fit-content !important;
 }
 
@@ -1599,13 +1602,13 @@ details summary {
 	color: var(--text-muted) !important;
 	/* Per centrare il testo internamente */
 	display: inline-flex !important;
-    justify-content: center !important;
+	justify-content: center !important;
 	font-size: 0.9rem !important;
 	font-weight: normal !important;
 	/* Spazio sufficiente per "9999 / 9999" */
 	min-width: 7rem !important;
 	padding: 2px 10px !important;
-    text-align: center !important;
+	text-align: center !important;
 }
 
 .interfaccia .riga-toggle {
@@ -1741,15 +1744,15 @@ details summary {
 
 /* Selettore avanzato per colpire l'header partendo dalla classe nella nota */
 .workspace-leaf:has(.interfaccia) .view-header-title-container {
-    visibility: hidden !important;
+	visibility: hidden !important;
 }
 
 .interfaccia .mod-header.mod-ui {
-    display: none;
+	display: none;
 }
 
 .interfaccia .mod-footer.mod-ui {
-    display: none;
+	display: none;
 }
 
 /* #endregion */
@@ -2054,12 +2057,12 @@ body.bibbia {
 
 .docVat .callout[data-callout="solo-titolo"] {
 	--callout-icon: none !important;
-    background-color: transparent !important;
-    border: none !important;
-    box-shadow: none !important;
-    margin-top: 0rem !important;
-    min-height: 0 !important;
-    padding-top: 0 !important;
+	background-color: transparent !important;
+	border: none !important;
+	box-shadow: none !important;
+	margin-top: 0rem !important;
+	min-height: 0 !important;
+	padding-top: 0 !important;
 }
 
 .docVat .callout[data-callout="solo-titolo"] .callout-title .callout-title-inner {
@@ -2261,8 +2264,8 @@ body.bibbia {
 /**************************************/
 /* Centra le tabelle nei file con cssclasses: docV */
 .docVat table {
-    margin-left: auto !important;
-    margin-right: auto !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
 }
 
 /*****************************************/
@@ -2316,35 +2319,35 @@ body.bibbia {
 .docVat .markdown-rendered li.listaNorm,
 .docVat li.listaNorm,
 li.listaNorm {
-    color: white !important;
-    display: list-item !important;
-    font-family: "Times New Roman", Times, serif !important;
-    font-size: 1.6rem !important;
-    line-height: 1.2 !important;
-    margin-bottom: 1rem !important;
-    margin-left: 2.5rem !important;
-    margin-right: 1.1rem !important;
-    margin-top: 0 !important;
-    text-align: justify !important;
-    width: calc(100% - 3.6rem) !important;
+	color: white !important;
+	display: list-item !important;
+	font-family: "Times New Roman", Times, serif !important;
+	font-size: 1.6rem !important;
+	line-height: 1.2 !important;
+	margin-bottom: 1rem !important;
+	margin-left: 2.5rem !important;
+	margin-right: 1.1rem !important;
+	margin-top: 0 !important;
+	text-align: justify !important;
+	width: calc(100% - 3.6rem) !important;
 }
 
 .docVat .el-p + .el-ol .listaNorm,
 .docVat .el-p + .el-ul .listaNorm {
-    margin-top: -4rem !important;
+	margin-top: -4rem !important;
 }
 
 .el-ol .listaNorm > li:last-child,
 .el-ul .listaNorm > li:last-child {
-    margin-bottom: 7rem !important;
+	margin-bottom: 7rem !important;
 }
 
 .docVat ol.listaNorm > li > ul,
 .docVat ol.listaNorm > li > ol,
 .docVat ul.listaNorm > li > ul,
 .docVat ul.listaNorm > li > ol {
-    /* stile della lista annidata */
-    margin-top: -4rem !important;
+	/* stile della lista annidata */
+	margin-top: -4rem !important;
 }
 
 /* Blocco dedicato alla sotto-lista */
@@ -2352,16 +2355,16 @@ li.listaNorm {
 .docVat .markdown-rendered .sublistaNorm > li,
 .docVat .sublistaNorm > li,
 .sublistaNorm > li {
-    color: white !important;
-    display: list-item !important;
-    font-family: "Times New Roman", Times, serif !important;
-    font-size: 1.6rem !important;
-    line-height: 1.2 !important;
-    margin-bottom: 1rem !important;
-    margin-left: 1.5rem !important;   /* Rientro sinistro ridotto */
-    margin-right: 0.5rem !important; /* Spazio destro ridotto */
-    text-align: justify !important;
-    width: calc(100% - 2rem) !important; /* Compensazione: 1rem + 0.5rem */
+	color: white !important;
+	display: list-item !important;
+	font-family: "Times New Roman", Times, serif !important;
+	font-size: 1.6rem !important;
+	line-height: 1.2 !important;
+	margin-bottom: 1rem !important;
+	margin-left: 1.5rem !important;   /* Rientro sinistro ridotto */
+	margin-right: 0.5rem !important; /* Spazio destro ridotto */
+	text-align: justify !important;
+	width: calc(100% - 2rem) !important; /* Compensazione: 1rem + 0.5rem */
 }
 
 /* Margine superiore solo per il primo elemento della sotto-lista */
@@ -2369,7 +2372,7 @@ li.listaNorm {
 .docVat .markdown-rendered .sublistaNorm > li:first-child,
 .docVat .sublistaNorm > li:first-child,
 .sublistaNorm > li:first-child {
-    margin-top: 3rem !important;
+	margin-top: 3rem !important;
 }
 
 /* Spaziatura per ogni sotto-elemento li */
@@ -2377,13 +2380,13 @@ li.listaNorm {
 .docVat .markdown-rendered .sublistaNorm > li,
 .docVat .sublistaNorm > li,
 .sublistaNorm > li {
-    margin-bottom: 1rem !important;
+	margin-bottom: 1rem !important;
 }
 
 /* Azzera il margine sull'ultimo elemento per evitare stacchi indesiderati alla fine del blocco */
 .docVat .sublistaNorm > li:last-child,
 .sublistaNorm > li:last-child {
-    margin-bottom: 4rem !important;
+	margin-bottom: 4rem !important;
 }
 
 /*********************************/
@@ -2829,21 +2832,21 @@ li.listaNorm {
 /**************************/
 .docVat .callout[data-callout="p-viag-apost"],
 .docVat .callout[data-callout="p-vis-past"] {
-    --callout-border-width: 0px !important;
-    background: transparent !important;	/* Toglie lo sfondo */
-    border: none !important;			/* Toglie i bordi */
-    border-left: none !important;
-    box-shadow: none !important;		/* Toglie ombre */
-    margin: 0 !important;
-    padding: 0 !important;
+	--callout-border-width: 0px !important;
+	background: transparent !important;	/* Toglie lo sfondo */
+	border: none !important;			/* Toglie i bordi */
+	border-left: none !important;
+	box-shadow: none !important;		/* Toglie ombre */
+	margin: 0 !important;
+	padding: 0 !important;
 }
 
 /* Colpisce il contenuto solo se il callout NON è chiuso */
 .docVat .callout[data-callout="p-viag-apost"]:not(.is-collapsed) .callout-content,
 .docVat .callout[data-callout="p-vis-past"]:not(.is-collapsed) .callout-content {
-    display: block !important;
-    padding: 0 !important;
-    width: 100% !important;
+	display: block !important;
+	padding: 0 !important;
+	width: 100% !important;
 }
 
 .docVat .callout[data-callout="p-viag-apost"] .callout-icon,
@@ -2877,39 +2880,39 @@ li.listaNorm {
 /* Rimuove lo stile del blockquote interno al callout */
 .docVat .callout[data-callout="p-viag-apost"] blockquote,
 .docVat .callout[data-callout="p-vis-past"] blockquote {
-    background: transparent !important;
-    border-left: none !important; /* Toglie la riga verticale della citazione */
+	background: transparent !important;
+	border-left: none !important; /* Toglie la riga verticale della citazione */
 	color: lightgray !important;
-    margin: 0 !important;
-    padding: 1rem !important;
+	margin: 0 !important;
+	padding: 1rem !important;
 }
 
 /* Assicura che il paragrafo abbia il vuoto a sinistra */
 .docVat .callout[data-callout="p-viag-apost"] p,
 .docVat .callout[data-callout="p-vis-past"] p {
-    margin: 0 !important;
-    padding: 0 !important;
-    padding-left: 3.5rem !important; /* Questo sposta il testo a destra */
-    position: relative !important;  /* Serve come base per l'orario absolute */
-    text-indent: 0 !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	padding-left: 3.5rem !important; /* Questo sposta il testo a destra */
+	position: relative !important;  /* Serve come base per l'orario absolute */
+	text-indent: 0 !important;
 }
 
 /* L'orario si ancora a sinistra in quel vuoto creato dal padding */
 .docVat .callout[data-callout="p-viag-apost"] strong,
 .docVat .callout[data-callout="p-vis-past"] strong {
-    color: var(--text-accent) !important;
-    display: inline-block !important;
-    left: 0 !important;
-    position: absolute !important;
+	color: var(--text-accent) !important;
+	display: inline-block !important;
+	left: 0 !important;
+	position: absolute !important;
 	text-align: left !important; /* Lo tiene attaccato al bordo sinistro */
-    width: 4rem !important;
+	width: 4rem !important;
 }
 
 /* Gestione del corsivo e link */
 .docVat .callout[data-callout="p-viag-apost"] .callout-content em,
 .docVat .callout[data-callout="p-vis-past"] .callout-content em {
-    display: inline-block !important;
-    vertical-align: top !important;
+	display: inline-block !important;
+	vertical-align: top !important;
 }
 
 /* #endregion */
@@ -3029,18 +3032,15 @@ li.listaNorm {
 /* Colpisce l'H1 nel plugin HyperMD*/
 .messaggio .HyperMD-header-1 {
 	color: lightblue !important;
-	/* ATTENZIONE DOPO FARE 1.5rem */
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 1.5rem !important;
 	letter-spacing: 0.1rem !important;
-	margin-top: 5% !important;
-	margin-bottom: 0% !important;
-	margin-right: 15% !important;
-	margin-left: 5% !important;
+	margin-top: 3rem !important;
 	text-align: center !important;
 }
 
 /**
- *	Alla data 21/02/2026 il <div> H1 in Obsidian è strutturato così:
+ *	Alla data 21/02/2026 il <div> H2 in Obsidian è strutturato così:
  *	<div class="HyperMD-header HyperMD-header-2 cm-line" dir="ltr">
 **/
 /* Selettore per la modalità Lettura (Reading Mode) se presente */
@@ -3049,20 +3049,15 @@ li.listaNorm {
 .messaggio .markdown-rendered h2,
 /* Colpisce l'H2 in Live Preview (Editor) */
 .messaggio .cm-content .HyperMD-header-2.cm-line,
-/* Selettore mirato per l'header 1 specifico del plugin HyperMD (Live Preview) */
+/* Selettore mirato per l'header 2 specifico del plugin HyperMD (Live Preview) */
 .messaggio .HyperMD-header.HyperMD-header-2.cm-line,
 .messaggio .cm-header-2,
 /* Colpisce l'H2 nel plugin HyperMD*/
 .messaggio .HyperMD-header-2 {
 	color: whitesmoke !important;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-	/* ATTENZIONE DOPO FARE 1.1rem */
-	font-size: 1.1rem !important;
+	font-size: 1.3rem !important;
 	letter-spacing: 0.1rem !important;
-	margin-top: 10% !important;
-	margin-bottom: 5% !important;
-	margin-right: 15% !important;
-	margin-left: 5% !important;
 	text-align: left !important;
 }
 
@@ -3076,11 +3071,77 @@ li.listaNorm {
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 1.1rem !important;
 	letter-spacing: 0.1rem !important;
-	margin-top: 10% !important;
-	margin-bottom: 5% !important;
-	margin-right: 15% !important;
-	margin-left: 5% !important;
+	margin-top: 5rem !important;
 	text-align: left !important;
+}
+
+/*****************************************/
+/** QUALSIASI blocco di parole della	**/
+/** Beata Sempre Vergine Maria			**/
+/*****************************************/
+.messaggio .markdown-preview-view .el-p p.verbaReginaePacis,
+.messaggio .markdown-rendered .el-p p.verbaReginaePacis,
+.messaggio p.verbaReginaePacis {
+	color: #e6b450 !important;
+	display: block !important;
+	font-family: 'Times New Roman', Times, serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+	font-size: 1.2rem !important;
+	line-height: 1.2 !important;
+	margin-left: 1.1rem !important;
+	margin-right: 1.1rem !important;
+	margin-top: 5rem !important;
+	text-align: justify !important;
+	/* Compensa i margini laterali per il giustificato */
+	width: calc(100% - 2.2rem) !important;
+}
+
+/* Dà 2rem di margine superiore al <p> normale che precede subito .verbaReginaePacis */
+.messaggio .el-p:has(> p:not([class]):not(:has(> em))):has(+ .el-p > p.verbaReginaePacis) > p {
+	margin-top: 2rem !important;
+}
+
+/* Riduce a 2rem il margine superiore di .verbaReginaePacis quando è preceduto da un <p> normale */
+.messaggio .el-p:has(> p:not([class])) + .el-p > p.verbaReginaePacis {
+	margin-top: 2rem !important;
+}
+
+/* Distanzia di 2rem il blocco normale che segue subito .verbaReginaePacis */
+.messaggio .el-p:has(> p.verbaReginaePacis) + .el-p > p:not([class]):not(:has(> em)) {
+	margin-top: 2rem !important;
+}
+
+/* Nasconde l'ultimo <br> prima di </p> per non mandare a capo la virgoletta finale */
+.verbaReginaePacis br:last-child {
+	display: none !important;
+}
+
+/* Aggiunge automaticamente le virgolette tipografiche prima del blocco */
+.verbaReginaePacis::before {
+	content: "“";
+}
+
+/* Aggiunge automaticamente le virgolette tipografiche dopo il blocco */
+.verbaReginaePacis::after {
+	content: "”";
+}
+
+/* Azzera lo spazio superiore del blocco (*Fonte: ...) subito dopo .verbaReginaePacis */
+.messaggio .el-p:has(.verbaReginaePacis) + .el-p:has(> p > em),
+.messaggio .el-p:has(.verbaReginaePacis) + .el-p:has(> p > em) > p {
+	font-size: 0.9rem !important;
+	margin-left: 0.6rem !important;
+	margin-top: -1rem !important;
+	padding-top: 0 !important;
+}
+
+/*************************************************************/
+/** QUALSIASI blocco di testo in corsivo (*) nel documento:	**/
+/*************************************************************/
+.messaggio .markdown-preview-view.markdown-rendered .cm-s-obsidian .cm-em,
+.messaggio .markdown-preview-view.markdown-rendered span.cm-header.cm-em,
+.messaggio em {
+	color: #C586C0;
+	font-style: italic !important;
 }
 
 .messaggio .callout[data-callout="5colonne"],
@@ -3093,7 +3154,7 @@ li.listaNorm {
 .indice .callout[data-callout="5colonne"] .callout-title  {
 	/* mostra o nasconde l'icona, il titolo, e la freccina */
 	color: hsl(233, 100%, 79%) !important;
-	display: always !important;
+	display: flex !important;
 	font-size: 1.2em !important;
 	justify-content: center;
 	text-align: center !important;
@@ -3116,65 +3177,111 @@ li.listaNorm {
 .indice .callout[data-callout="5colonne"] .callout-content ul {
 	display: flex !important;
 	flex-direction: column !important;
-	flex-wrap: wrap !important;
 	/* Questo crea le colonne quando finisce lo spazio */
-	height: 320px !important;
-	/* REGOLA QUESTA ALTEZZA per avere esattamente 10 righe */
-	gap: 0 25px !important;
+	flex-wrap: wrap !important;
 	/* Spazio tra righe (0) e colonne (25px) */
-	padding-left: 1.5em !important;
+	gap: 0 25px !important;
+	/* REGOLA QUESTA ALTEZZA per avere esattamente 10 righe */
+	height: 320px !important;
 	margin: 0 !important;
+	padding-left: 1.5em !important;
+}
+
+/* Riduce lo spazio superiore tra il titolo del callout e lo span + lista */
+.messaggio .callout[data-callout="5colonne"] .callout-content,
+.indice .callout[data-callout="5colonne"] .callout-content {
+	margin-top: -3rem !important;
+	padding-top: 0 !important;
+}
+
+/* Distanzia lo span "Vai all'anno:" di 1rem dalla lista incorporata sotto */
+.messaggio .callout[data-callout="5colonne"] span.verde,
+.indice .callout[data-callout="5colonne"] span.verde {
+	display: inline-block !important;
+	margin-bottom: 1rem !important;
 }
 
 .messaggio .callout[data-callout="5colonne"] li,
 .indice .callout[data-callout="5colonne"] li {
-	display: flex !important;
 	/* Per allineare il pallino al testo */
 	align-items: center !important;
-	width: auto !important;
-	/* Circa 1/5 della larghezza totale */
-	height: 30px !important;
+	display: flex !important;
 	/* Altezza fissa della riga per calcolo preciso */
+	height: 30px !important;
+	/* Circa 1/5 della larghezza totale */
+	width: auto !important;
 }
 
 /* Centra il pallino (il cerchietto reale) dentro lo span */
 .messaggio .callout[data-callout="5colonne"] .list-bullet::after,
 .indice .callout[data-callout="5colonne"] .list-bullet::after {
-	position: relative !important;
-	/* Toglie il posizionamento 'volante' */
-	display: block !important;
+	/* Colore del pallino */
+	background-color: var(--text-muted) !important;
+	border-radius: 50% !important;
 	content: "" !important;
 	/* Forza la presenza del pallino */
-	width: 5px !important;
+	display: block !important;
 	/* Dimensione del pallino */
 	height: 5px !important;
-	/* Dimensione del pallino */
-	border-radius: 50% !important;
-	background-color: var(--text-muted) !important;
-	/* Colore del pallino */
+	/* Centratura */
 	margin: auto !important;
-	/* Centratura magica */
+	min-height: 5px !important;
+	min-width: 5px !important;
+	/* Toglie il posizionamento 'volante' */
+	position: relative !important;
+	transform: none !important;
+	/* Dimensione del pallino */
+	width: 5px !important;
 }
 
 /* Sistema il contenitore del pallino */
 .messaggio .callout[data-callout="5colonne"] .list-bullet,
 .indice .callout[data-callout="5colonne"] .list-bullet {
-	width: 12px !important;
-	height: 12px !important;
-	display: flex !important;
 	align-items: center !important;
+	display: flex !important;
+	flex-shrink: 0 !important;
+	height: 12px !important;
 	justify-content: center !important;
 	margin-right: 0.25rem !important;
-	flex-shrink: 0 !important;
+	width: 12px !important;
+}
+
+/* Nasconde gli span .list-bullet duplicati generati da Obsidian negli embed */
+.messaggio .callout[data-callout="5colonne"] li .list-bullet:not(:first-child),
+.indice .callout[data-callout="5colonne"] li .list-bullet:not(:first-child) {
+	display: none !important;
 }
 
 /* Rimuove la riga laterale del callout */
 .indice .callout[data-callout="5colonne"] blockquote {
-	border-left: none !important;
 	border-inline-start: none !important;
-	padding-left: 0 !important;
+	border-left: none !important;
 	margin-left: 0 !important;
+	padding-left: 0 !important;
 }
+
+/* Nasconde il titolo del file incorporato (_Menu-Anni) */
+.messaggio .callout .markdown-embed-title {
+	display: none !important;
+}
+
+/* Rimuove bordi, sfondi e spaziature dell'embed per fonderlo nel callout */
+.messaggio .callout .markdown-embed,
+.messaggio .callout .markdown-embed-content,
+.messaggio .callout .markdown-preview-view,
+.messaggio .callout .markdown-preview-sizer {
+	background: transparent !important;
+	border: none !important;
+	margin: 0 !important;
+	min-height: auto !important;
+	padding: 0 !important;
+}
+
+/* Nasconde l'icona del link in alto a destra dell'embed */
+.messaggio .callout .markdown-embed-link {
+	display: none !important;
+}
+
 /* #endregion */
 
 
@@ -3262,14 +3369,14 @@ li.listaNorm {
 
 .preghiere .mod-header.mod-ui,
 .preghiere .mod-footer.mod-ui {
-    height: 0;
-    margin: 0;
-    min-height: 0;
+	height: 0;
+	margin: 0;
+	min-height: 0;
 	opacity: 0;
-    overflow: hidden;
-    padding: 0;
-    pointer-events: none;
-    visibility: hidden;
+	overflow: hidden;
+	padding: 0;
+	pointer-events: none;
+	visibility: hidden;
 }
 
 /* Sblocca le variabili di larghezza per la nota con cssclasses: preghiere */
@@ -3307,7 +3414,7 @@ li.listaNorm {
 .preghiere table.dataview th,
 .preghiere table.dataview td {
 	font-size: 0.85rem !important; /* Regola la dimensione a piacere */
-	padding: 4px 8px !important;    /* Riduce lo spazio interno per compattare le righe */
+	padding: 4px 8px !important;	/* Riduce lo spazio interno per compattare le righe */
 }
 
 /* Larghezza per la sola colonna NUM-DOC PROGRESSIVO (1ª colonna) */
