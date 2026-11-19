@@ -24,8 +24,10 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota:
   - Copyright © 2025 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-digitalizzatore: "Emanuele Tinari"
-revisore: "Emanuele Tinari"
+digitalizzatore:
+  - "Emanuele Tinari"
+revisore:
+  - "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-non-ambigimus--i---30-maggio-1741--il-pontefice-ricorda.html)"
 nomeFile: "1741-05-30-bxiv-bre-noa-IT.md"
 creato: 2025/05/02 11:07:45
