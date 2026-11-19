@@ -1,0 +1,27 @@
+# NASCONDI TUTTO DI DEFAULT
+*
+
+# Escludi categoricamente tutte le note Markdown dell'intero Vault
+*.md
+
+# Escludi tutti gli allegati multimediali che Gemini non deve analizzare
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Escludi le dipendenze pesanti di Node (se presenti)
+node_modules/
+
+# PERMETTI L'ACCESSO ALLA CARTELLA DEL PLUGIN E SUE SOTTO-CARTELLE
+!/.obsidian/plugins/obsidian-modal-4bible-refs/
+!/.obsidian/plugins/obsidian-modal-4bible-refs/locales/
+
+# 3. SCOPRI CHIRURGICAMENTE SOLO I TUOI 6 FILE SPECIFICI
+!/.obsidian/plugins/obsidian-modal-4bible-refs/main.js
+!/.obsidian/plugins/obsidian-modal-4bible-refs/_tmpJS\ file\ durante\ la\ scrittura\ del\ plugin.js
+!/.obsidian/plugins/obsidian-modal-4bible-refs/manifest.json
+!/.obsidian/plugins/obsidian-modal-4bible-refs/readme.md
+!/.obsidian/plugins/obsidian-modal-4bible-refs/data.json
+!/.obsidian/plugins/obsidian-modal-4bible-refs/locales/it.json
+!/.obsidian/plugins/obsidian-modal-4bible-refs/locales/en.json
