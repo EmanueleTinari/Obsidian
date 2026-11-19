@@ -1,0 +1,7 @@
+{
+  "showRibbon": true,
+  "accentColor": "#5cf5c2",
+  "enabledCssSnippets": [
+    "background"
+  ]
+}

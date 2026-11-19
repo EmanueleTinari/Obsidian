@@ -1,0 +1,17 @@
+{
+  "600000001047714": {
+    "menuItemId": 600000001047714,
+    "tag_pulito": "pasta",
+    "nome_italiano": "Pasta",
+    "struttura_gerarchica": "SUPERMERCATO > Pasta, Riso e Sughi > Pasta",
+    "productSetIds": [
+      24199,
+      24200,
+      4562375,
+      4542360,
+      35313,
+      24198,
+      24201
+    ]
+  }
+}

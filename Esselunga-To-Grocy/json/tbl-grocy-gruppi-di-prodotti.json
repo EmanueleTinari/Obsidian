@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Pasta",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:31:23",
+    "active": 1
+  },
+  {
+    "id": 2,
+    "name": "Riso",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:31:30",
+    "active": 1
+  },
+  {
+    "id": 3,
+    "name": "Dolci",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:31:40",
+    "active": 1
+  },
+  {
+    "id": 4,
+    "name": "Pesce fresco",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:31:48",
+    "active": 1
+  },
+  {
+    "id": 5,
+    "name": "Pesce congelato",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:31:57",
+    "active": 1
+  },
+  {
+    "id": 6,
+    "name": "Frutta fresca",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:32:06",
+    "active": 1
+  },
+  {
+    "id": 7,
+    "name": "Verdura fresca",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:32:14",
+    "active": 1
+  },
+  {
+    "id": 8,
+    "name": "Verdura congelata",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:32:23",
+    "active": 1
+  },
+  {
+    "id": 9,
+    "name": "Condimenti",
+    "description": null,
+    "row_created_timestamp": "2026-09-13 16:37:53",
+    "active": 1
+  },
+  {
+    "id": 10,
+    "name": "Primi piatti pronti congelati",
+    "description": null,
+    "row_created_timestamp": "2026-09-13 22:40:25",
+    "active": 1
+  },
+  {
+    "id": 11,
+    "name": "Secondi piatti pronti congelati",
+    "description": null,
+    "row_created_timestamp": "2026-09-13 22:40:50",
+    "active": 1
+  },
+  {
+    "id": 12,
+    "name": "Sughi",
+    "description": null,
+    "row_created_timestamp": "2026-09-13 22:41:49",
+    "active": 1
+  },
+  {
+    "id": 13,
+    "name": "Aromi e Spezie",
+    "description": null,
+    "row_created_timestamp": "2026-09-13 22:42:02",
+    "active": 1
+  },
+  {
+    "id": 14,
+    "name": "Bevande analcoliche",
+    "description": null,
+    "row_created_timestamp": "2026-09-14 18:32:55",
+    "active": 1
+  }
+]

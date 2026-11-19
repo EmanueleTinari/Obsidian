@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2,
+    "name": "Pezzo",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 14:21:16",
+    "name_plural": "Pezzi",
+    "plural_forms": null,
+    "active": 1
+  },
+  {
+    "id": 3,
+    "name": "Pacco",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 14:21:16",
+    "name_plural": "Pacchi",
+    "plural_forms": null,
+    "active": 1
+  },
+  {
+    "id": 4,
+    "name": "Scatola",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:34:00",
+    "name_plural": "Scatole",
+    "plural_forms": null,
+    "active": 1
+  },
+  {
+    "id": 5,
+    "name": "Cartone",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:34:11",
+    "name_plural": "Cartoni",
+    "plural_forms": null,
+    "active": 1
+  },
+  {
+    "id": 6,
+    "name": "Bottiglia",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:34:24",
+    "name_plural": "Bottiglie",
+    "plural_forms": null,
+    "active": 1
+  },
+  {
+    "id": 7,
+    "name": "Bustina",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:34:39",
+    "name_plural": "Bustine",
+    "plural_forms": null,
+    "active": 1
+  },
+  {
+    "id": 8,
+    "name": "Grammo",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:40:04",
+    "name_plural": "Grammi",
+    "plural_forms": null,
+    "active": 1
+  },
+  {
+    "id": 9,
+    "name": "Brick",
+    "description": null,
+    "row_created_timestamp": "2026-09-14 18:36:16",
+    "name_plural": "Brick",
+    "plural_forms": null,
+    "active": 1
+  }
+]

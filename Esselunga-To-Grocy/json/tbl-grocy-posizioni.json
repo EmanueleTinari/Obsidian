@@ -1,0 +1,90 @@
+[
+  {
+    "id": 2,
+    "name": "Congelatore",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 14:21:16",
+    "is_freezer": 1,
+    "active": 1
+  },
+  {
+    "id": 3,
+    "name": "Frigorifero",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:39:17",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 4,
+    "name": "Cucina (sopra il forno)",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:39:54",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 5,
+    "name": "Cucina (sopra il Bimby)",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:40:06",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 6,
+    "name": "Cucina (lato Congelatore)",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:40:15",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 7,
+    "name": "Cucina (cappa)",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:40:23",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 8,
+    "name": "Dispensa",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:40:31",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 9,
+    "name": "SottoLavello",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:40:47",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 10,
+    "name": "Bagno (lato Cesso)",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:41:04",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 11,
+    "name": "Bagno (sopra Lavatrice)",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:41:14",
+    "is_freezer": 0,
+    "active": 1
+  },
+  {
+    "id": 12,
+    "name": "Bagno (lato Lavatrice)",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 15:41:23",
+    "is_freezer": 0,
+    "active": 1
+  }
+]

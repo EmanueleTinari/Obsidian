@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "entity": "products",
+    "name": "tempo_di_cottura",
+    "caption": "Tempo di cottura (minuti)",
+    "type": "text-single-line",
+    "show_as_column_in_tables": 1,
+    "row_created_timestamp": "2026-09-12 21:03:21",
+    "config": null,
+    "sort_number": null,
+    "input_required": 0,
+    "default_value": null
+  },
+  {
+    "id": 2,
+    "entity": "products",
+    "name": "tabella_nutrizionale",
+    "caption": "Tabella nutrizionale",
+    "type": "image",
+    "show_as_column_in_tables": 1,
+    "row_created_timestamp": "2026-09-12 21:39:19",
+    "config": null,
+    "sort_number": null,
+    "input_required": 0,
+    "default_value": null
+  }
+]

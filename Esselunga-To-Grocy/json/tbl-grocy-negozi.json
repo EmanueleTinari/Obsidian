@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Esselunga Bresso",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:52:14",
+    "active": 1
+  },
+  {
+    "id": 2,
+    "name": "Esselunga Cusano Milanino",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:52:26",
+    "active": 1
+  },
+  {
+    "id": 3,
+    "name": "Il Gigante Via Ornato",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:52:40",
+    "active": 1
+  },
+  {
+    "id": 4,
+    "name": "Lidl Bresso",
+    "description": null,
+    "row_created_timestamp": "2026-09-12 16:52:51",
+    "active": 1
+  }
+]

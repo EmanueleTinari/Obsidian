@@ -1,0 +1,327 @@
+/* Colora i file in base all'estensione .xlsx */
+.nav-file-title[data-path$=".xlsx"] {
+	color: rgb(232, 232, 114);
+}
+
+/* 7ZIP (.7z) */
+.nav-file-title[data-path$=".7z"] .nav-file-title-content:before {
+	/* Icona 7z */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 27.49'%3E%3Cpath d='M.22.33v27.05h47.72V6.44H20.83V.22z'/%3E%3Cpath d='M3.69 4.29h13.56v4.19s-5.68 6.61-5.73 14.66H6.83s.06-7.66 4.3-13.72H3.75zm17.58 2.59V27h26.12V6.88z' fill='%23fff'/%3E%3Cpath d='M38.68 8.98v14.05h3.14v-4.96h2.15s2.59-.55 2.59-4.19-2.26-4.9-2.26-4.9zm2.15 2.97h.01c.14.09 3.13-.3 3.08 1.87-.06 2.2-3.09 1.87-3.09 1.87zm-7.88-2.86v13.94h3.14V9.09zm-10.58-.11h8.87v3.53l-6.17 7.93h6.12v2.54h-8.71v-3.09l4.96-7.49h-5.01z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* CSS (.css) */
+.nav-file-title[data-path$=".css"] .nav-file-title-content:before {
+	/* Icona CSS */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23264de4' d='M2.23 14.401.946 0h14.108l-1.285 14.398L7.991 16z'/%3E%3Cpath fill='%232965f1' d='m12.668 13.482 1.098-12.304H8v13.598z'/%3E%3Cpath fill='%23ebebeb' d='m3.889 6.518.158 1.766H8V6.518zm-.158-1.809H8V2.944H3.571zM8 11.105l-.008.002-1.967-.531-.126-1.409H4.126l.247 2.773 3.618 1.004.008-.002z'/%3E%3Cpath fill='%23fff' d='M7.994 6.518v1.766h2.175l-.205 2.291-1.97.532v1.837l3.621-1.004.027-.298.415-4.65.043-.474.319-3.575H7.994v1.766h2.489l-.161 1.809z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* CSV (.csv) */
+.nav-file-title[data-path$=".csv"] .nav-file-title-content:before {
+	/* Icona CSV */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4.011 1.215h6.533c.161.001.291.008.415.122l.051.061.057.068q.132.168.257.342a34 34 0 00.489.648 41 41 0 01.522.697q.242.328.491.65c.429.559.429.559.428.796v4.623h.387c.241 0 .427.022.614.184.246.257.263.52.261.861l.001.125v3.431c-.002.259-.038.486-.2.695l-.059.048-.058.05c-.257.158-.508.153-.8.152l-.146.001H2.503c-.305.002-.544-.028-.795-.211-.213-.218-.244-.459-.245-.756V8.907c-.002-.358.003-.687.238-.977.175-.17.39-.213.626-.212h.647v-.09l-.005-2.169v-3.07c-.003-.681-.003-.681.232-.951.265-.197.502-.224.823-.223' fill='%23d7dee2'/%3E%3Cpath d='M2.329 7.716H3V9.25h.411l4.218-.018h.098l1.576-.007 1.617-.007.998-.005.684-.003.395-.002.362-.001.131-.001c.287-.003.54.017.774.198l.048.059.05.058c.149.242.153.463.152.741l.001.125v3.431c-.002.259-.038.486-.2.695l-.059.048-.058.05c-.257.158-.508.153-.8.152l-.146.001H2.505c-.305.002-.544-.028-.795-.211-.213-.218-.244-.459-.245-.756V8.902c-.002-.358.003-.687.238-.977.178-.172.394-.213.633-.212' fill='%231fb35b'/%3E%3Cpath d='M10.75 1.25c.127.022.18.04.263.141l.057.069a12 12 0 01.257.343 34 34 0 00.486.65 41 41 0 01.522.697q.242.328.491.65a19 19 0 01.297.397l.054.074a.6.6 0 01.074.229q-.372.004-.745.006l-.346.003-.334.002-.189.002c-.228 0-.38-.016-.574-.139l-.084-.053c-.216-.216-.245-.421-.247-.716q0-.13.003-.26V2.201q.003-.477.008-.953' fill='%23afbdc7'/%3E%3Cpath d='M7.977 10.487q.1 0 .197-.003c.24-.003.424.007.607.173l.062.055c.166.201.24.383.232.647-.013.079-.013.079-.077.179-.115.071-.177.078-.311.057-.074-.043-.074-.043-.125-.125a2 2 0 01-.017-.236c-.02-.103-.058-.136-.14-.201-.086-.019-.086-.019-.18-.015h-.104l-.108.002-.109-.001c-.179-.009-.179-.009-.337.058-.048.065-.05.106-.05.187l-.002.071c.022.103.069.153.141.23.09.049.09.049.193.084l.114.043.119.043c.773.283.773.283.959.664.055.265.045.487-.09.725a.85.85 0 01-.419.348c-.139.015-.277.017-.417.015h-.196c-.257 0-.477-.001-.683-.172l-.06-.071-.061-.07c-.102-.149-.124-.293-.126-.471l-.003-.105C7 12.5 7 12.5 7.055 12.426c.093-.068.148-.072.26-.065.059.014.059.014.136.072.058.116.068.21.075.338a.35.35 0 00.037.166l.414.008.119.003.114.001.105.002c.112-.017.148-.051.217-.139.018-.062.018-.062.014-.125v-.063a.36.36 0 00-.107-.188 2 2 0 00-.219-.094l-.065-.025-.275-.105c-.639-.245-.639-.245-.783-.497l-.036-.061c-.098-.207-.095-.481-.041-.699a.83.83 0 01.44-.426c.17-.048.342-.042.518-.042m-2.556-.003.092-.001c.339.002.578.112.822.345.155.171.299.37.29.609-.045.092-.045.092-.125.156a.5.5 0 01-.25 0 .8.8 0 01-.211-.281c-.075-.125-.134-.208-.27-.264a2 2 0 00-.333-.031l-.064-.001a.8.8 0 00-.591.265c-.148.227-.145.436-.143.701l-.002.12c0 .282.042.478.242.683l.061.042.062.044c.21.117.537.095.767.05.173-.07.25-.216.34-.373a.6.6 0 01.142-.174.7.7 0 01.25 0c.08.064.08.064.125.156.01.249-.158.473-.32.65-.252.238-.536.294-.869.297l-.095.003c-.371.003-.639-.131-.903-.388-.268-.308-.334-.68-.331-1.078v-.188c0-.4.117-.724.395-1.015.267-.249.563-.334.922-.328' fill='%23d4dee0'/%3E%3Cpath d='m5.366 7.234.074-.001h.245l.176-.001h.978l.839.001H9.98q.234-.001.468.001h.172l.234.001.069-.001c.107.002.162.009.248.076.052.071.066.104.066.19l.002.063c-.031.1-.089.131-.176.188a1.5 1.5 0 01-.242.016l-.073.001h-.242l-.174.001H8.537q-.48-.001-.959.001l-.823.001-.492.001h-.632q-.115.001-.232-.001l-.068.001a.36.36 0 01-.266-.093C5 7.594 5 7.594 4.982 7.482c.037-.228.177-.251.383-.248' fill='%2323b35e'/%3E%3Cpath d='m5.366 5.734.074-.001h.245l.176-.001h.978l.839.001H9.98q.234-.001.468.001h.172l.234.001.069-.001c.107.002.162.009.248.076.052.071.066.104.066.19l.002.063c-.031.1-.089.131-.176.188a1.5 1.5 0 01-.242.016l-.073.001h-.242l-.174.001H8.537q-.48-.001-.959.001l-.823.001-.492.001h-.632q-.115.001-.232-.001l-.068.001a.36.36 0 01-.266-.093C5 6.094 5 6.094 4.982 5.982c.037-.228.177-.251.383-.248' fill='%2322b35d'/%3E%3Cpath d='M9.719 10.5c.136.111.198.231.257.393l.026.069.083.223.087.229.058.152a23 23 0 00.25.629l.035.086.078.187c.072-.072.094-.13.131-.225l.041-.103.044-.111.069-.173.12-.304.143-.362.089-.225.041-.104.036-.091c.099-.224.099-.224.193-.271.12-.011.192-.017.295.049.067.105.058.171.049.295a2 2 0 01-.09.252l-.029.073-.096.238-.066.166-.14.348-.178.445-.137.343-.066.164-.092.229-.027.068a.64.64 0 01-.204.297c-.109.016-.109.016-.219 0-.125-.097-.175-.222-.231-.365l-.03-.073-.095-.238-.067-.166-.139-.348-.179-.445-.137-.343-.066-.164-.092-.23-.028-.068a.8.8 0 01-.062-.403c.09-.141.184-.15.344-.125' fill='%23d5dee0'/%3E%3Cpath d='M2.576 7.715 3 7.719V9.25l-.434.01-.135.004c-.279.003-.493-.034-.709-.221a.87.87 0 01-.254-.601.93.93 0 01.342-.613c.253-.129.486-.119.766-.115' fill='%23198043'/%3E%3Cpath d='m5.456 4.234.102-.001h.566l.486.001h1.333l.321.001.096-.001c.215.003.215.003.316.077.046.07.061.107.061.19l.002.063c-.032.103-.084.131-.176.188-.109.019-.217.017-.328.017l-.1.001h-.327l-.227.001h-.476l-.611.001h-.469l-.225.001q-.158.001-.315-.001l-.094.001c-.145-.002-.212-.005-.331-.093-.077-.11-.08-.171-.059-.303.108-.172.274-.143.456-.141' fill='%2321b35d'/%3E%3C/svg%3E%0A");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* EPUB (.epub) */
+.nav-file-title[data-path$=".epub"] .nav-file-title-content:before {
+	/* Icona EPUB */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%2386b918' d='M7.961 12.478 3.446 7.962 7.961 3.447l1.505 1.505-3.01 3.01 1.505 1.505 4.515-4.515L8.543 1.019c-.321-.321-.842-.321-1.164 0L1.018 7.381c-.321.321-.321.842 0 1.164l6.362 6.362c.321.321.842.321 1.164 0L14.905 8.544c.321-.321.321-.842 0-1.164l-.923-.923z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* HTML (.html) */
+.nav-file-title[data-path$=".html"] .nav-file-title-content:before {
+	/* Icona HTML */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23e34f26' d='M2.219 14.375.938 0h14.094l-1.281 14.375L7.97 16'/%3E%3Cpath fill='%23ef652a' d='m8 14.75 4.656-1.281L13.75 1.156H8'/%3E%3Cpath fill='%23ebebeb' d='M8 6.5H5.656L5.5 4.687H8V2.938H3.563l.031.469.438 4.875h3.969zm0 4.594h-.031L6 10.563l-.125-1.406h-1.75l.219 2.781 3.625 1H8z'/%3E%3Cpath fill='%23fff' d='M7.969 6.5v1.781h2.188l-.219 2.281-1.969.531v1.844l3.625-1 .031-.313.406-4.656.063-.469h-.5zm0-3.563v1.75h4.281l.031-.375.094-.906.031-.469z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* JPEG (.jpg) */
+.nav-file-title[data-path$=".jpg"] .nav-file-title-content:before {
+	/* Icona JPG */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 20.21'%3E%3Cpath d='M.3 17.43h2.31v2.32H.3zm13.12 0h2.31v2.32h-2.31zM14.95.3H1.07a.77.77 0 0 0-.77.77v13.88c0 .42.35.77.77.77h13.88a.77.77 0 0 0 .77-.77V1.07a.77.77 0 0 0-.77-.77' fill='%237b8b94'/%3E%3Cpath fill='%23fff' d='M6.32 11.93a9 9 0 0 1-.46-.01v-1.36h.46c.51 0 .84.14.84.61 0 .4-.14.76-.83.76m.01-1.7h-.85v3.24h.37v-1.2h.55c.77 0 1.13-.47 1.13-1.07 0-.61-.37-.98-1.2-.98m2.05 1.77H9.7v-.35H8.39v-1.09h1.52v-.33H8.01v3.19h1.96v-.33H8.39zm3.48-.27v.32h.55v.8c-.17.25-.62.25-.62.25-.35 0-.62-.12-.83-.36-.2-.24-.3-.5-.3-.88 0-.41.1-.72.31-.97a1.06 1.06 0 0 1 .85-.39c.18 0 .38.06.57.17l.23-.26q-.31-.26-.79-.26c-.48 0-.86.16-1.14.46-.28.31-.43.72-.43 1.22s.13.88.39 1.18c.25.3.61.45 1.05.45.2 0 .4-.02.61-.08.16-.05.22-.09.46-.09v-1.56zm-7.56-1.5h-.25v.33h.25v1.53c0 .47.01.75-.15.91a.54.54 0 0 1-.37.16c-.58 0-.61-.47-.61-.47h-.36c.03.83 1.01.78 1.01.78.26-.01.47-.1.63-.26.21-.21.22-.61.22-.94v-2.04zm5.79-7.06H3.97v6.13h3.55V6.73h2.58zm.29 3.89h2.24v2.24h-2.24z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* JavaScript (.js) */
+.nav-file-title[data-path$=".js"] .nav-file-title-content:before {
+	/* Icona JS */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M0 0h10.24v10.24H0z' fill='%23f7df1e'/%3E%3Cpath d='m2.692 8.557.784-.474c.151.268.289.495.619.495.316 0 .516-.124.516-.605V4.701h.962v3.286c0 .997-.584 1.45-1.437 1.45-.77 0-1.217-.399-1.443-.88m3.403-.103L6.88 8c.206.337.474.584.949.584.399 0 .653-.199.653-.474 0-.33-.261-.447-.701-.639l-.241-.103c-.694-.295-1.155-.667-1.155-1.45 0-.722.55-1.272 1.409-1.272.612 0 1.052.213 1.368.77l-.749.481c-.165-.296-.344-.412-.619-.412-.282 0-.461.179-.461.412 0 .289.179.406.591.584l.241.103c.818.351 1.279.708 1.279 1.512 0 .866-.68 1.34-1.595 1.34-.894 0-1.471-.426-1.753-.983'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* JSON (.json) */
+.nav-file-title[data-path$=".json"] .nav-file-title-content:before {
+	/* Icona json */
+	background-repeat: no-repeat;
+	background-size: contain;
+	color: #f5a623;
+	content: "{}";
+	display: inline-block;
+	font-family: Consolas, monospace;
+	font-size: 15px;
+	font-weight: bold;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* Markdown (.md) */
+.nav-file-title[data-path$=".md"] .nav-file-title-content:before {
+	/* Icona MD */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9.846'%3E%3Cpath stroke='%2342a5f5' stroke-width='.769' fill='none' d='M1.154.385h13.692a.77.77 0 0 1 .769.769v7.538a.77.77 0 0 1-.769.77H1.154a.77.77 0 0 1-.769-.77V1.154a.77.77 0 0 1 .769-.769z'/%3E%3Cpath fill='%2342a5f5' d='M2.308 7.538v-5.23h1.538l1.538 1.923 1.538-1.923H8.46v5.231H6.923V4.538L5.385 6.462 3.846 4.538v3zm9.615 0L9.615 5h1.538V2.308h1.538V5h1.538z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* PDF (.pdf) */
+.nav-file-title[data-path$=".pdf"] .nav-file-title-content:before {
+	/* Icona PDF */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 20'%3E%3Cpath fill='%23ff2116' d='M2.204.107c-1.12 0-2.032.912-2.032 2.032v15.607c0 1.12.912 2.032 2.032 2.032h11.934c1.12 0 2.032-.913 2.032-2.032V4.913s.033-.376-.13-.74a2.1 2.1 0 0 0-.403-.583L12.669.687s-.252-.24-.628-.403c-.44-.188-.896-.169-.896-.169h.006z'/%3E%3Cpath fill='%23f5f5f5' d='M2.204.773h8.955s.358.003.62.116a1.8 1.8 0 0 1 .432.274l2.954 2.898s.178.187.264.381c.07.156.075.441.075.441v12.863a1.35 1.35 0 0 1-1.364 1.364H2.206a1.35 1.35 0 0 1-1.364-1.364V2.137A1.35 1.35 0 0 1 2.204.773'/%3E%3Cpath fill='%23ff2116' d='M4.168 11.818c-.459-.46.037-1.091 1.386-1.76l.85-.422.33-.723a28 28 0 0 0 .603-1.443l.273-.72-.187-.533c-.23-.654-.313-1.637-.166-1.991.199-.48.847-.43 1.106.083.202.4.18 1.126-.058 2.044l-.196.75.172.293c.095.16.371.542.615.848l.457.568.568-.074c1.807-.236 2.426.165 2.426.739 0 .724-1.42.785-2.61-.052-.269-.188-.451-.375-.451-.375s-.747.15-1.113.25c-.38.103-.569.167-1.124.354 0 0-.194.283-.322.488-.472.766-1.024 1.4-1.418 1.631-.44.258-.903.276-1.136.043m.72-.258c.26-.159.782-.778 1.144-1.35l.147-.234-.667.336c-1.03.518-1.5 1.006-1.255 1.3.138.166.302.153.633-.053m6.69-1.878c.252-.177.217-.533-.07-.677-.222-.111-.4-.135-.978-.126a12 12 0 0 0-1.021.117s.313.217.453.297c.185.105.635.301.963.402.324.1.512.09.653-.012m-2.69-1.117a6.5 6.5 0 0 1-.577-.745c-.215-.282-.323-.483-.323-.483s-.158.506-.287.812l-.402.996-.117.226s.62-.204.938-.287a25 25 0 0 1 1.015-.221zm-.866-3.477c.038-.326.056-.654-.05-.817-.29-.32-.642-.054-.583.705.02.255.084.69.168.958l.155.489.108-.368c.06-.202.151-.637.203-.967'/%3E%3Cpath fill='%232c2c2c' d='M4.949 13.945h.745q.358 0 .58.068.223.067.376.298.151.23.151.554 0 .298-.123.512t-.332.309-.64.095h-.258v1.175h-.5zm.499.386v1.05h.247q.331 0 .458-.124.127-.123.127-.402 0-.208-.084-.336-.085-.13-.186-.159-.1-.03-.315-.03zm1.736-.386h.677q.491 0 .785.173.296.174.445.518.153.345.153.763 0 .441-.136.789-.135.344-.416.556-.277.212-.794.212h-.715zm.499.399v2.213h.208q.435 0 .63-.3.196-.303.196-.804 0-1.107-.826-1.107zm2.04-.4h1.674v.4h-1.174v.9h.94v.399h-.94v1.313h-.5z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* PNG (.png) */
+.nav-file-title[data-path$=".png"] .nav-file-title-content:before {
+	/* Icona png */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath style='fill:%230076cf' d='M19.974 10.713q0.025 -0.354 0.025 -0.713C20 4.477 15.523 0 10 0S0 4.477 0 10c0 4.6 3.107 8.475 7.336 9.641z'/%3E%3Cpath style='fill:%2300477d' d='M19.974 10.713 12.304 3.043 4.652 16.957l2.684 2.684c0.848 0.234 1.741 0.359 2.664 0.359 5.283 0 9.608 -4.097 9.974 -9.287'/%3E%3Cpath style='fill:%23fff' d='m10.872 13.043 -0.883 -10H4.652v9.13Z'/%3E%3Cpath style='fill:%23e8e6e6' d='M15.348 12.174V6.087l-2.174 -0.87 -0.87 -2.174h-2.315l0.014 10Z'/%3E%3Cpath style='fill:%23fff' d='M12.304 6.087V3.043l3.044 3.044Z'/%3E%3Cpath style='fill:%233ca8fa' d='M4.652 12.174h10.696v4.783h-10.696z'/%3E%3Cpath style='fill:%23fff' d='M7.769 13.531c0.529 0 0.834 0.26 0.834 0.721 0 0.485 -0.305 0.766 -0.834 0.766h-0.375v0.583h-0.526v-2.069zm-0.375 1.073h0.349c0.23 0 0.364 -0.115 0.364 -0.334 0 -0.216 -0.133 -0.325 -0.364 -0.325h-0.349zm3.004 0.996 -0.952 -1.274v1.274h-0.494v-2.069h0.464l0.955 1.277v-1.277h0.491v2.069zm2.782 -1.052v0.807c-0.222 0.157 -0.57 0.269 -0.86 0.269 -0.63 0 -1.106 -0.455 -1.106 -1.058 0 -0.6 0.488 -1.052 1.141 -1.052 0.307 0 0.633 0.118 0.845 0.307l-0.296 0.357c-0.151 -0.139 -0.361 -0.225 -0.553 -0.225 -0.34 0 -0.6 0.266 -0.6 0.612 0 0.352 0.263 0.618 0.606 0.618 0.106 0 0.242 -0.038 0.367 -0.1v-0.535z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* PowerShell (.ps1) */
+.nav-file-title[data-path$=".ps1"] .nav-file-title-content:before {
+	/* Icona PS1 */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 12.078'%3E%3Cpath style='fill-rule:evenodd;clip-rule:evenodd;fill:%23e0eaf5' d='M9.391.003c1.799-.001 3.597-.007 5.396.001 1.069.004 1.371.362 1.14 1.418q-1.014 4.639-2.065 9.27c-.221.976-.73 1.376-1.756 1.379q-5.396.017-10.792 0c-1.176-.004-1.485-.403-1.232-1.517a3054 3054 0 0 1 2.075-9.077C2.423.324 2.822.008 3.995.004 5.793-.001 7.592.003 9.391.003'/%3E%3Cpath style='fill-rule:evenodd;clip-rule:evenodd;fill:%232671be' d='M6.673 11.71c-1.799-.001-3.598.008-5.397-.004-.912-.006-1.078-.221-.873-1.113.696-3.026 1.415-6.047 2.095-9.076C2.68.705 3.074.345 3.945.353c3.597.033 7.196.011 10.794.014.902.001 1.054.194.851 1.109a1728 1728 0 0 1-1.993 8.908c-.252 1.11-.542 1.323-1.711 1.325-1.738.004-3.476.001-5.214 0'/%3E%3Cpath style='fill-rule:evenodd;clip-rule:evenodd;fill:%23fdfdfe' d='M8.204 5.78c-.121-.141-.253-.304-.393-.46-.795-.883-1.583-1.773-2.393-2.643-.37-.398-.488-.785-.044-1.178.44-.388.871-.354 1.275.093 1.123 1.244 2.244 2.49 3.386 3.717.426.458.327.77-.142 1.11a720 720 0 0 0-5.383 3.943c-.402 0.297-.786.371-1.111-.067-.358-.484-.027-.772.345-1.042Q5.74 7.801 7.723 6.332c.184-.136.448-.216.481-.551'/%3E%3Cpath style='fill-rule:evenodd;clip-rule:evenodd;fill:%23fcfdfd' d='M8.773 10.46c-.484 0-.969.017-1.452-.005-.386-.017-.618-.233-.613-.639.005-.384.198-.673.583-.683a70 70 0 0 1 3.178-.002c.337.007.585.226.583.576-.003.402-.214.714-.645.74-.543.033-1.089.008-1.634.008z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* Python (.py) */
+.nav-file-title[data-path$=".py"] .nav-file-title-content:before {
+	/* Icona PY */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'	viewBox='0 0 16 16'%3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' y1='0' x2='16' y2='16' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%235a9fd4' offset='0'/%3E%3Cstop stop-color='%23306998' offset='1'/%3E%3C/linearGradient%3E%3ClinearGradient id='b' x1='0' y1='0' x2='16' y2='16' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23ffd43b' offset='0'/%3E%3Cstop stop-color='%23ffe873' offset='1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath fill='url(%23a)' d='M7.64 0C7 0 6.39.06 5.86.15 4.28.43 4 1.01 4 2.09v1.42h3.73v.47H2.59c-1.08 0-2.03.65-2.33 1.89-.34 1.42-.36 2.31 0 3.79.27 1.1.9 1.89 1.98 1.89h1.28V8.13c0-1.23 1.07-2.31 2.33-2.31h3.72c1.04 0 1.87-.86 1.87-1.9V2.09c0-1.01-.86-1.77-1.87-1.94C8.94.05 8.27 0 7.64 0M5.62 1.14c.39 0 .7.32.7.71 0 .4-.31.71-.7.71s-.7-.32-.7-.71.31-.71.7-.71'/%3E%3Cpath fill='url(%23b)' d='M11.91 3.99v1.65C11.91 6.92 10.82 8 9.58 8H5.86c-1.02 0-1.87.88-1.87 1.9v3.55c0 1.01.88 1.6 1.87 1.89 1.18.35 2.31.41 3.72 0 .94-.27 1.87-.82 1.87-1.89v-1.42H7.72v-.47h5.59c1.08 0 1.49-.76 1.87-1.89.39-1.17.37-2.29 0-3.79-.27-1.08-.78-1.89-1.87-1.89zm-2.09 8.99c.39 0 .7.32.7.71s-.31.71-.7.71-.7-.32-.7-.71.31-.71.7-.71'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* TXT (.txt) */
+.nav-file-title[data-path$=".txt"] .nav-file-title-content:before {
+	/* Icona txt */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3 .5h7.5L14 4v11.5H3z' fill='%23fff' stroke='%23888a85' stroke-width='.5'/%3E%3Cpath d='M10.5.5V4H14' fill='%23eee' stroke='%23888a85' stroke-width='.5'/%3E%3Cpath d='M4 1.8h4M4 3.1h4M4 4.4h4M4 12.5h8M4 13.8h6' stroke='%23d3d7cf' stroke-width='.2'/%3E%3Crect x='2' y='6' width='12' height='5' rx='.5' fill='%233465a4' stroke='%23204a87' stroke-width='.3'/%3E%3Cpath d='M4 7.2h1.6M4.8 7.2v2.6m1.8-2.6l1.6 2.6m0-2.6l-1.6 2.6m2.2-2.6h1.6m-.8 0v2.6' fill='none' stroke='%23fff' stroke-width='.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/* XLSX (.xlsx) e XLSM (.xlsm) */
+.nav-file-title[data-path$=".xlsx"] .nav-file-title-content:before,
+.nav-file-title[data-path$=".xlsm"] .nav-file-title-content:before {
+	/* Icona xlsx */
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cdefs%3E%3CradialGradient id='a' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(226.5 29 13.8)scale(41.1 31.9)'%3E%3Cstop offset='.07' stop-color='%23379539'/%3E%3Cstop offset='.42' stop-color='%23297c2d'/%3E%3Cstop offset='.7' stop-color='%2315561c'/%3E%3C/radialGradient%3E%3CradialGradient id='b' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(224 13.8 8.1)scale(16.7 12.9)'%3E%3Cstop offset='0' stop-color='%23073b10'/%3E%3Cstop offset='1' stop-color='%23084a13' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='f' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(-9 0 0 -19.1 26.4 13.7)'%3E%3Cstop offset='.29' stop-color='%234eb43b'/%3E%3Cstop offset='1' stop-color='%2372cc61' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='h' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(-39 18.4 9.5)scale(21.8 21.7)'%3E%3Cstop offset='.44' stop-color='%2379e96d'/%3E%3Cstop offset='1' stop-color='%23d0eb76'/%3E%3C/radialGradient%3E%3CradialGradient id='i' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -25.8 16.3)scale(22.6 64.4)'%3E%3Cstop offset='0' stop-color='%2320a85e'/%3E%3Cstop offset='.94' stop-color='%2309442a'/%3E%3C/radialGradient%3E%3CradialGradient id='j' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(0 11.2 -12.9 0 12 32.6)'%3E%3Cstop offset='.58' stop-color='%2333a662' stop-opacity='0'/%3E%3Cstop offset='.97' stop-color='%2398f0b0'/%3E%3C/radialGradient%3E%3ClinearGradient id='c' x1='9' y1='27' x2='22.8' y2='27' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%2352d17c'/%3E%3Cstop offset='.33' stop-color='%234aa647'/%3E%3C/linearGradient%3E%3ClinearGradient id='d' x1='22.5' y1='18' x2='22.5' y2='30.5' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%2329852f'/%3E%3Cstop offset='.5' stop-color='%234aa647' stop-opacity='0'/%3E%3C/linearGradient%3E%3ClinearGradient id='e' x1='9.7' y1='20.6' x2='26.3' y2='6.2' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%2366d052'/%3E%3Cstop offset='1' stop-color='%2385e972'/%3E%3C/linearGradient%3E%3ClinearGradient id='g' x1='17.1' y1='14.4' x2='9' y2='14.4' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='.18' stop-color='%23c0e075' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23d1eb95'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M9 17.5a4.5 4.5 0 0 1 4.5-4.5H39v26a3 3 0 0 1-3 3H15a6 6 0 0 1-6-6z' fill='url(%23a)'/%3E%3Cpath d='M9 17.5a4.5 4.5 0 0 1 4.5-4.5H39v26a3 3 0 0 1-3 3H15a6 6 0 0 1-6-6z' fill='url(%23b)' fill-opacity='.7'/%3E%3Cpath d='M9 22.5a4.5 4.5 0 0 1 4.5-4.5H27a3 3 0 0 0-3 3v6a3 3 0 0 1-3 3h-6a6 6 0 0 0-6 6z' fill='url(%23c)'/%3E%3Cpath d='M9 22.5a4.5 4.5 0 0 1 4.5-4.5H27a3 3 0 0 0-3 3v6a3 3 0 0 1-3 3h-6a6 6 0 0 0-6 6z' fill='url(%23d)' fill-opacity='.3'/%3E%3Cpath d='M9 12a6 6 0 0 1 6-6h12v12H15a6 6 0 0 0-6 6z' fill='url(%23e)'/%3E%3Cpath d='M9 12a6 6 0 0 1 6-6h12v12H15a6 6 0 0 0-6 6z' fill='url(%23f)'/%3E%3Cpath d='M9 12a6 6 0 0 1 6-6h12v12H15a6 6 0 0 0-6 6z' fill='url(%23g)'/%3E%3Crect width='15' height='12' rx='3' transform='matrix(-1 0 0 1 39 6)' fill='url(%23h)'/%3E%3Crect x='4' y='23' width='16' height='16' rx='3.3' fill='url(%23i)'/%3E%3Crect x='4' y='23' width='16' height='16' rx='3.3' fill='url(%23j)' fill-opacity='.3'/%3E%3Cpath d='M16.2 35.6h-2.5l-1.5-2.9-.1-.2-.1-.2h-.1a2 2 0 0 1-.1.2l-.1.3-1.6 2.9H7.8l2.8-4.6L8 26.5h2.4l1.4 2.6c.1.1.1.2.2.3h.1l.1-.3.2-.3 1.4-2.6h2.3l-2.6 4.5z' fill='%23fff'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: inline-block;
+	height: 20px;
+	margin-right: 6px;
+	vertical-align: middle;
+	width: 20px;
+}
+
+/** ----------------------------------- **/
+/** Il nome della cartella è bianco		**/
+/** Il nome del file è di colore bianco **/
+/** ----------------------------------- **/
+
+.nav-folder-title[data-path *="/_Utilità"],
+.nav-folder-title[data-path ^='_Utilità'],
+.nav-file-title[data-path *="/_Utilità"],
+.nav-file-title[data-path ^='_Utilità'] {
+	color: rgb(255, 255, 255);
+}
+
+/** ----------------------------------- **/
+/** Il nome del file è di colore giallo **/
+/** ----------------------------------- **/
+
+.nav-file-title[data-path *="/Template"],
+.nav-file-title[data-path ^='Template'] {
+	color: rgb(232, 232, 114);
+}
+
+/** --------------------------------- **/
+/** Il nome della cartella è colorato **/
+/** --------------------------------- **/
+
+.nav-folder-title[data-path *="/_0"],
+.nav-folder-title[data-path ^='_0'] {
+	color: rgb(245, 105, 66);
+}
+
+/** --------------------------------- **/
+/** Il nome della cartella è colorato **/
+/** --------------------------------- **/
+
+.nav-folder-title[data-path *="/_M"],
+.nav-folder-title[data-path ^='_M'] {
+	color: rgb(78, 178, 255);
+}
+
+/** --------------------------------- **/
+/** Il nome della cartella è colorato **/
+/** --------------------------------- **/
+
+.nav-folder-title[data-path *="/_P"],
+.nav-folder-title[data-path ^='_P'] {
+	color: rgb(245, 105, 66);
+}
+
+/** --------------------------------- **/
+/** Il nome della cartella è colorato **/
+/** --------------------------------- **/
+
+.nav-folder-title[data-path *="/_S"],
+.nav-folder-title[data-path ^='_S'] {
+	color: rgb(105, 249, 127);
+}
+
+/** ----------------------------- **/
+/** ICON on files in Explorer tab **/
+/** ----------------------------- **/
+
+.nav-folder .nav-folder-title-content:before {
+	content: "\1F5C1";
+	padding-right: 4px;
+}
+
+.nav-folder.is-collapsed .nav-folder-title-content:before {
+	content: "\1F5C0";
+	padding-right: 4px;
+}
+
+/** For Canvas (.canvas) **/
+.nav-file-title[data-path$=".canvas"] .nav-file-title-content:before {
+	content: "\1f4dd";
+	/** Memo icon **/
+}
+
+/** ---------------------------------- **/
+/** FRONTMATTER ON/OFF in reading mode **/
+/** ---------------------------------- **/
+
+.is-live-preview .cm-line .cm-hmd-frontmatter {
+	color: var(--text-muted);
+}
+
+.is-live-preview .cm-line:not(.cm-active)>.cm-hmd-frontmatter:not(.cm-meta) {
+	font-size: 0.8em;
+	color: inherit;
+	font-weight: 600;
+	border-radius: 0.8em;
+	padding: 0.2em 0.8em;
+	background-color: var(--background-secondary-alt);
+}
+
+.is-live-preview .cm-line>.cm-hmd-frontmatter:not(.cm-meta) .cm-selection,
+.is-live-preview .cm-line>.cm-hmd-frontmatter:not(.cm-meta).cm-selection {
+	color: var(--text-muted);
+	background-color: var(--text-selection) !important;
+	font-weight: initial;
+}
+
+.is-live-preview .cm-line:not(.cm-active) .cm-hmd-frontmatter.cm-def {
+	visibility: hidden;
+}
+
+.is-live-preview .cm-line .cm-hmd-frontmatter.cm-def .cm-selection {
+	visibility: visible;
+}
