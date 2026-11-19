@@ -24,8 +24,10 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota:
   - Copyright © 2025 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-digitalizzatore: "Emanuele Tinari"
-revisore: "Emanuele Tinari"
+digitalizzatore:
+  - "Emanuele Tinari"
+revisore:
+  - "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/clemens-xiv/it/documents/breve-magna-atque-16-marzo-1771.html)"
 nomeFile: "1771-03-16-clxiv-bre-maa-IT.md"
 creato: 2025/09/24 20:54:28
