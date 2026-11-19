@@ -26,8 +26,10 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-digitalizzatore: "Emanuele Tinari"
-revisore: "Emanuele Tinari"
+digitalizzatore:
+  - "Emanuele Tinari"
+revisore:
+  - "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/francesco/it/messages/pont-messages/2022/documents/20220719-videomessaggio-panafrican-network.html)"
 nomeFile: "2022-07-19-fi-vim-rcp-IT.md"
 creato: 2026/07/14 10:51:28
