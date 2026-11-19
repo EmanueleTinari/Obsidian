@@ -24,8 +24,10 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-digitalizzatore: "Emanuele Tinari"
-revisore: "Emanuele Tinari"
+digitalizzatore:
+  - "Emanuele Tinari"
+revisore:
+  - "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/messages/pont-messages/2025/documents/20250829-videomessaggio-santommaso-davillanova.html)"
 nomeFile: "2025-08-29-lxiv-vim-pat-IT.md"
 creato: 2026/07/16 00:07:13
