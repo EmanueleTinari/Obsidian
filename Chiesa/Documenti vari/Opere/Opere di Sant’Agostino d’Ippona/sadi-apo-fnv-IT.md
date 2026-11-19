@@ -27,8 +27,10 @@ licenza-nota:
 licenza-testi:
   - Copyright © 2026 Città Nuova Editrice
   - Copyright © 2026 Nuova Biblioteca Agostiniana
-digitalizzatore: "Emanuele Tinari"
-revisore: "Emanuele Tinari"
+digitalizzatore:
+  - "Emanuele Tinari"
+revisore:
+  - "Emanuele Tinari"
 url-documento: "[Link al documento sul sito augustinus.it](https://www.augustinus.it/italiano/fede_nelle_cose/index2.htm)"
 nomeFile: "sadi-apo-fnv-IT.md"
 creato: 2026/04/28 16:44:24
