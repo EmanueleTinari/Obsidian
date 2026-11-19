@@ -26,21 +26,18 @@ modificato: 2026/08/29 07:46:21
  * [ENG] The formatted date matching Italian standard DD-MM-YYYY.
  */
 function convertDateIsoToIta(isoDateStr) {
-    // [ITA] Crea un oggetto Date di JavaScript parsing la stringa ISO ricevuta in ingresso.
-    // [ENG] Creates a JavaScript Date object parsing the incoming ISO date string.
-    const dateObj = new Date(isoDateStr);
-    // [ITA] Estrae il giorno del mese e forza la formattazione a due cifre con lo zero iniziale.
-    // [ENG] Extracts day of month and enforces two-digit format with leading zero padding.
-    const day = String(dateObj.getDate()).padStart(2, '0');
-    // [ITA] Estrae il mese (0-11, per cui aggiunge 1) e forza il formato a due cifre.
-    // [ENG] Extracts month (0-11, adding 1) and enforces two-digit format with padding.
-    const month = String(dateObj.getMonth() + 1).padStart(2, '0');
-    // [ITA] Estrae l'anno a quattro cifre completo dall'oggetto data.
-    // [ENG] Extracts full four-digit year from the date object.
-    const year = dateObj.getFullYear();
-    // [ITA] Restituisce la stringa formattata nel formato italiano giorno-mese-anno.
-    // [ENG] Returns the formatted string matching Italian day-month-year standard.
-    return `${day}-${month}-${year}`;
+    // [ITA] Estrae anno, mese e giorno direttamente dalla porzione iniziale della stringa ISO per evitare slittamenti di fuso orario.
+    // [ENG] Extracts year, month, and day directly from the leading portion of the ISO string to avoid timezone shifts.
+    const match = String(isoDateStr).trim().match(/^(\d{4})-(\d{2})-(\d{2})/);
+    // [ITA] Se il formato corrisponde, ricompone la data nello standard italiano giorno-mese-anno.
+    // [ENG] If the format matches, rebuilds the date in Italian day-month-year standard.
+    if (match) {
+        const [, year, month, day] = match;
+        return `${day}-${month}-${year}`;
+    }
+    // [ITA] Restituisce la stringa originale come fallback se non corrisponde al pattern ISO atteso.
+    // [ENG] Returns the original string as a fallback if it does not match the expected ISO pattern.
+    return String(isoDateStr);
     // [ITA] Chiude il corpo della funzione di conversione della data.
     // [ENG] Closes body of the date conversion function.
 }
@@ -58,30 +55,18 @@ function convertDateIsoToIta(isoDateStr) {
  * [ENG] The formatted string containing Italian date, time (HH:mm:ss) and optional timezone.
  */
 function convertFullDateIsoToIta(isoDateStr) {
-    // [ITA] Crea un oggetto Date basato sulla stringa ISO completa ricevuta in ingresso.
-    // [ENG] Creates a Date object based on the full incoming ISO date string.
-    const dateObj = new Date(isoDateStr);
-    // [ITA] Converte la porzione di data calendariale usando la funzione di conversione base.
-    // [ENG] Converts calendar date portion using the base conversion function.
-    const formattedDay = convertDateIsoToIta(isoDateStr);
-    // [ITA] Estrae le ore e imposta il formato a due cifre con padStart.
-    // [ENG] Extracts hours and applies two-digit format using padStart.
-    const hours = String(dateObj.getHours()).padStart(2, '0');
-    // [ITA] Estrae i minuti e imposta il formato a due cifre con padStart.
-    // [ENG] Extracts minutes and applies two-digit format using padStart.
-    const minutes = String(dateObj.getMinutes()).padStart(2, '0');
-    // [ITA] Estrae i secondi e imposta il formato a due cifre con padStart.
-    // [ENG] Extracts seconds and applies two-digit format using padStart.
-    const seconds = String(dateObj.getSeconds()).padStart(2, '0');
-    // [ITA] Estrae la differenza di fuso orario (offset) dalla stringa ISO tramite RegEx.
-    // [ENG] Extracts timezone difference offset from ISO string using RegEx matching.
-    const tzMatch = isoDateStr.match(/([+-]\d{4})$/);
-    // [ITA] Memorizza l'offset di fuso orario se presente, altrimenti imposta stringa vuota.
-    // [ENG] Stores timezone offset string if matched, otherwise assigns empty string.
-    const tz = tzMatch ? tzMatch[1] : '';
-    // [ITA] Restituisce la stringa completa formattata con data italiana, ora e fuso orario.
-    // [ENG] Returns full formatted string containing Italian date, time, and timezone.
-    return `${formattedDay} ${hours}:${minutes}:${seconds} ${tz}`.trim();
+// [ITA] Estrae data, orario e fuso orario originale direttamente dal timestamp Git senza conversioni locali.
+    // [ENG] Extracts date, time, and original timezone directly from the Git timestamp without local conversions.
+    const match = String(isoDateStr).trim().match(/^(\d{4})-(\d{2})-(\d{2})\s+(\d{2}:\d{2}:\d{2})(?:\s+([+-]\d{4}))?/);
+    // [ITA] Se il formato corrisponde, formatta la data in italiano mantenendo intatti ora e offset originali.
+    // [ENG] If the format matches, formats the date in Italian while keeping original time and offset intact.
+    if (match) {
+        const [, year, month, day, time, tz] = match;
+        return `${day}-${month}-${year} ${time} ${tz || ''}`.trim();
+    }
+    // [ITA] Restituisce la stringa originale come fallback se non corrisponde al pattern atteso.
+    // [ENG] Returns the original string as a fallback if it does not match the expected pattern.
+    return String(isoDateStr);
     // [ITA] Chiude la funzione di formattazione completa della data ed ora.
     // [ENG] Closes full date and time formatting utility function.
 }
@@ -202,7 +187,7 @@ function removeExistingDaySection(text, dayStrITA) {
     const escapedDay = dayStrITA.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     // [ITA] Rimuove tutti i blocchi H2 della stessa data, così una ri-esecuzione non lascia sezioni vecchie e duplicate.
     // [ENG] Removes all H2 blocks for the same date so a re-run does not leave stale duplicate sections behind.
-    const pattern = new RegExp(`^## Changelog del ${escapedDay}\\s*\\n\\n[\\s\\S]*?(?=^##\\s+|\\Z)`, 'gm');
+    const pattern = new RegExp(`^## Changelog del ${escapedDay}\\s*\\n\\n[\\s\\S]*?(?=^##\\s+|(?![\\s\\S]))`, 'gm');
     // [ITA] Restituisce il testo senza nessun blocco già esistente per la data corrente.
     // [ENG] Returns the text without any existing block for the current date.
     return text.replace(pattern, '').trim();
@@ -230,7 +215,7 @@ function collectExistingDayRows(text, dayStrITA) {
     const escapedDay = dayStrITA.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     // [ITA] Cerca tutti i blocchi H2 della stessa data nel testo esistente, non solo il primo.
     // [ENG] Searches for all H2 blocks of the same date in the existing text, not just the first one.
-    const dayBlockPattern = new RegExp(`^## Changelog del ${escapedDay}\\s*\\n\\n([\\s\\S]*?)(?=^##\\s+|\\Z)`, 'gm');
+    const dayBlockPattern = new RegExp(`^## Changelog del ${escapedDay}\\s*\\n\\n([\\s\\S]*?)(?=^##\\s+|(?![\\s\\S]))`, 'gm');
     // [ITA] Recupera tutti i blocchi che corrispondono alla data specifica.
     // [ENG] Retrieves all blocks matching the specified date.
     const matches = Array.from(text.matchAll(dayBlockPattern));
@@ -305,32 +290,40 @@ const excludedFileNames = ['.gitignore', '.gitattributes'];
 // [ITA] Definisce le estensioni dei file da escludere dal changelog.
 // [ENG] Defines file extensions to exclude from the changelog.
 const excludedFileExtensions = ['.pdf'];
-// [ITA] Inizializza la stringa per contenere l'eventuale contenuto preesistente del file.
-// [ENG] Initializes string variable to store any pre-existing file content.
-let existingContent = "";
+// [ITA] Verifica subito se il file di changelog esiste nella radice della Vault; se manca, interrompe lo script prima di eseguire Git.
+// [ENG] Immediately checks if changelog file exists in vault root; if missing, aborts script before running Git.
+if (!fs.existsSync(targetFilePath)) {
+    // [ITA] Prepara il messaggio di avviso quando il file target non esiste nella root della vault.
+    // [ENG] Prepares the warning message when the target file does not exist in the vault root.
+    const warningMessage = `Il file "${targetFileName}" non esiste nella root della vault. Nessun aggiornamento eseguito. Crearlo manualmente prima di eseguire il template.`;
+    // [ITA] Logga il messaggio di warning nel terminale per tracciare il problema in fase di debug.
+    // [ENG] Logs the warning message to the terminal to trace the issue during debugging.
+    console.warn(warningMessage);
+    // [ITA] Mostra un avviso all'utente in Obsidian per segnalare che il file target manca.
+    // [ENG] Shows a notice to the user in Obsidian to indicate that the target file is missing.
+    new Notice(warningMessage);
+    // [ITA] Svuota l'output del template perché il file non esiste e quindi non è possibile aggiornare nulla.
+    // [ENG] Clears the template output because the file does not exist and nothing can be updated.
+    tR = "";
+    // [ITA] Interrompe subito l'esecuzione del template senza generare contenuti.
+    // [ENG] Stops the template execution immediately without producing content.
+    return;
+}
+// [ITA] Legge il contenuto intero del file esistente codificato in UTF-8.
+// [ENG] Reads entire content of existing file encoded in UTF-8.
+let existingContent = fs.readFileSync(targetFilePath, 'utf8');
 // [ITA] Inizializza la variabile per la data dell'ultimo aggiornamento presente nel file.
 // [ENG] Initializes variable for last update date found in file.
 let lastDateStr = null;
-// [ITA] Verifica se il file di changelog esiste già nella radice della Vault.
-// [ENG] Checks if changelog file already exists in vault root.
-if (fs.existsSync(targetFilePath)) {
-    // [ITA] Legge il contenuto intero del file esistente codificato in UTF-8.
-    // [ENG] Reads entire content of existing file encoded in UTF-8.
-    existingContent = fs.readFileSync(targetFilePath, 'utf8');
-    // [ITA] Cerca la prima intestazione H2 per estrarre la data dell'ultimo changelog scritto.
-    // [ENG] Searches for first H2 header to extract date of last written changelog.
-    const match = existingContent.match(/## Changelog del (\d{2}-\d{2}-\d{4})/);
-    // [ITA] Verifica se la ricerca della data H2 ha prodotto un risultato valido.
-    // [ENG] Checks if H2 date regex search produced a valid match.
-    if (match) {
-        // [ITA] Memorizza la stringa della data trovata per filtrare i commit successivi.
-        // [ENG] Stores found date string to filter subsequent commits.
-        lastDateStr = match[1];
-    // [ITA] Chiude il blocco condizionale di match trovato.
-    // [ENG] Closes conditional block for match found.
-    }
-// [ITA] Chiude il blocco condizionale di verifica esistenza file.
-// [ENG] Closes conditional block for file existence check.
+// [ITA] Cerca la prima intestazione H2 per estrarre la data dell'ultimo changelog scritto.
+// [ENG] Searches for first H2 header to extract date of last written changelog.
+const match = existingContent.match(/## Changelog del (\d{2}-\d{2}-\d{4})/);
+// [ITA] Verifica se la ricerca della data H2 ha prodotto un risultato valido.
+// [ENG] Checks if H2 date regex search produced a valid match.
+if (match) {
+    // [ITA] Memorizza la stringa della data trovata per filtrare i commit successivi.
+    // [ENG] Stores found date string to filter subsequent commits.
+    lastDateStr = match[1];
 }
 // [ITA] Definisce il comando Git log per estrarre la cronologia completa in ordine temporale, disattivando la quotatura dei path UTF-8.
 // [ENG] Defines Git log command to extract full history in chronological order, disabling UTF-8 path quoting.
@@ -380,9 +373,14 @@ for (let i = 0; i < lines.length; i++) {
     // [ITA] Controlla se la riga rappresenta un cambio stato file e se esiste un commit attivo.
     // [ENG] Checks if line represents file state change and an active commit exists.
     }
-	// [ITA] Gestisce le righe di file aggiunti, modificati o eliminati da Git.
-	// [ENG] Handles file lines added, modified, or deleted by Git execution.
-    else if (currentCommit && (line.startsWith('A\t') || line.startsWith('M\t') || line.startsWith('D\t') || line.startsWith('A ') || line.startsWith('M ') || line.startsWith('D '))) {
+
+	// [ITA] OPZIONE ATTIVA (SOLO FILE NUOVI): Registra esclusivamente i file appena creati (stato A). Commentare questa riga e decommentare quella sottostante per includere anche modifiche ed eliminazioni.
+	// [ENG] ACTIVE OPTION (NEW FILES ONLY): Logs exclusively newly created files (status A). Comment out this line and uncomment the one below to also include modifications and deletions.
+    else if (currentCommit && (line.startsWith('A\t') || line.startsWith('A '))) {
+	// [ITA] OPZIONE DISATTIVATA (TUTTI I CASI A+M+D): Registra file aggiunti, modificati o eliminati. Decommentare questa riga e commentare quella sopra per attivare il tracciamento completo.
+	// [ENG] DISABLED OPTION (ALL CASES A+M+D): Logs added, modified, or deleted files. Uncomment this line and comment out the one above to enable full tracking.
+    // else if (currentCommit && (line.startsWith('A\t') || line.startsWith('M\t') || line.startsWith('D\t') || line.startsWith('A ') || line.startsWith('M ') || line.startsWith('D '))) {
+
 		// [ITA] Estrae il percorso relativo del file isolandolo dal prefisso di stato Git.
 		// [ENG] Extracts relative file path stripping away Git status letter prefix.
         let gitFilePath = line.substring(1).trim();
@@ -399,9 +397,9 @@ for (let i = 0; i < lines.length; i++) {
 		// [ITA] Se esiste una cartella padre, la usa come contesto visivo; altrimenti lascia stringa vuota.
 		// [ENG] If a parent folder exists, it is used as visual context; otherwise an empty string is returned.
         const parentFolderName = gitPathParts.length > 1 ? gitPathParts[gitPathParts.length - 2] : '';
-		// [ITA] Costruisce il testo visibile con cartella padre, spazio, barra e nome file completo con estensione.
-		// [ENG] Builds the visible label with parent folder, spaces, slash, and filename including extension.
-        const displayFileName = `${parentFolderName} / ${fileName}`;
+		// [ITA] Costruisce il testo visibile includendo la cartella padre solo se presente, evitando uno slash iniziale per i file nella root.
+		// [ENG] Builds the visible label including the parent folder only when present, avoiding a leading slash for root files.
+        const displayFileName = parentFolderName ? `${parentFolderName} / ${fileName}` : fileName;
 		// [ITA] Calcola l'estensione del file in minuscolo per confrontarla con le estensioni escluse.
 		// [ENG] Computes the file extension in lowercase so it can be checked against the excluded extensions list.
         const fileExtension = path.extname(fileName).toLowerCase();
@@ -475,56 +473,21 @@ const sortedDays = Array.from(commitsByDay.keys()).sort((a, b) => {
 // [ITA] Inizializza la stringa per accumulare il nuovo testo Markdown generato.
 // [ENG] Initializes string variable to store newly generated Markdown output.
 let newMarkdown = "";
-// [ITA] Inizializza la variabile per memorizzare il testo del file root se già esistente.
-// [ENG] Initializes variable to store the root file content if it already exists.
-let existingText = "";
-// [ITA] Inizializza l'oggetto Date per il filtro incrementale della data precedente.
-// [ENG] Initializes Date object for incremental filtering of previous date.
-let parseLastDate = null;
-// [ITA] Controlla se il file di changelog esiste già nella root della vault e, in tal caso, legge il contenuto.
-// [ENG] Checks if the changelog file already exists in the vault root and, if so, reads its content.
-if (fs.existsSync(targetFilePath)) {
-    existingText = fs.readFileSync(targetFilePath, 'utf8');
-    // [ITA] Controlla se è stata trovata una data valida nel file di changelog esistente.
-    // [ENG] Checks if a valid date string was found in existing changelog file.
-    if (lastDateStr) {
-        // [ITA] Separa la stringa giorno-mese-anno nei tre componenti numerici.
-        // [ENG] Splits day-month-year string into three numeric components.
-        const p = lastDateStr.split('-');
-        // [ITA] Istanzia un oggetto Date nel formato standard AAAA-MM-GG per i confronti.
-        // [ENG] Instantiates Date object in standard YYYY-MM-DD format for comparisons.
-        parseLastDate = new Date(`${p[2]}-${p[1]}-${p[0]}`);
-    // [ITA] Chiude il blocco di conversione dell'ultima data del changelog.
-    // [ENG] Closes conversion block for last changelog date.
-    }
-}
-// [ITA] Inizializza un set di chiavi univoche per tenere traccia dei record già presenti nel changelog.
-// [ENG] Initializes a set of unique keys to track records already present in the changelog.
-const existingKeys = new Set();
-// [ITA] Estrae tutte le righe della tabella già presenti nel file per costruire un set di duplicati da evitare.
-// [ENG] Extracts every existing table row from the file to build a duplicate set to avoid.
-const existingRows = existingText.match(/^\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(.*)\s*\|$/gm) || [];
-// [ITA] Scorre tutte le righe già presenti nel file e le normalizza in una chiave unica per il confronto.
-// [ENG] Iterates over all rows already present in the file and normalizes them into a unique key for comparison.
-for (const row of existingRows) {
-    // [ITA] Controlla se la riga esistente rispetta il formato di tabella atteso.
-    // [ENG] Checks whether the existing row matches the expected table format.
-    const match = row.match(/^\|\s*(.*?)\s*\|\s*(.*?)\s*\|\s*(.*)\s*\|$/);
-    // [ITA] Salta eventuali righe non valide che non rispettano lo schema atteso.
-    // [ENG] Skips any invalid rows that do not match the expected schema.
-    if (!match) continue;
-    // [ITA] Estrae i tre campi della riga: data, link e messaggio del commit.
-    // [ENG] Extracts the three fields from the row: date, link, and commit message.
-    const [, dateText, linkText, msgText] = match;
-    // [ITA] Ignora righe incomplete che mancano di uno o più valori essenziali.
-    // [ENG] Ignores incomplete rows that are missing one or more required values.
-    if (!dateText || !linkText || !msgText) continue;
-    // [ITA] Ignora header e separator di tabella, perché non sono record reali del changelog.
-    // [ENG] Ignores table header and separator rows because they are not real changelog entries.
-    if (!/^\d{2}-\d{2}-\d{4}\s+\d{2}:\d{2}:\d{2}\s+[+-]\d{4}$/.test(dateText.trim())) continue;
-    // [ITA] Normalizza la riga in una chiave unica per verificare se il record è già stato inserito.
-    // [ENG] Normalizes the row into a unique key to verify whether the record is already inserted.
-    existingKeys.add(`${dateText.trim()}|${linkText.trim()}|${msgText.trim()}`);
+// [ITA] Recupera il contenuto del file root già letto all'inizio dello script.
+// [ENG] Retrieves the root file content already read at the beginning of the script.
+let existingText = existingContent;
+// [ITA] Inizializza la stringa ISO (YYYY-MM-DD) per il confronto cronologico puro senza fusi orari.
+// [ENG] Initializes ISO string (YYYY-MM-DD) for pure chronological comparison without timezones.
+let lastDateIso = null;
+// [ITA] Controlla se è stata trovata una data valida nel file di changelog esistente.
+// [ENG] Checks if a valid date string was found in existing changelog file.
+if (lastDateStr) {
+    // [ITA] Separa la stringa giorno-mese-anno nei tre componenti numerici.
+    // [ENG] Splits day-month-year string into three numeric components.
+    const p = lastDateStr.split('-');
+    // [ITA] Ricompone la data nel formato standard AAAA-MM-GG per il confronto diretto tra stringhe.
+    // [ENG] Rebuilds the date in standard YYYY-MM-DD format for direct string comparison.
+    lastDateIso = `${p[2]}-${p[1]}-${p[0]}`;
 }
 
 // [ITA] Inizializza una variabile di base per le modifiche da inserire, così il blocco esistente per una data viene sostituito prima del reinserimento finale.
@@ -538,17 +501,10 @@ for (const dayIsoStr of sortedDays) {
     const dayStrITA = convertDateIsoToIta(dayIsoStr);
     // [ITA] Salta i giorni strettamente precedenti all'ultimo changelog registrato, ma non quello stesso giorno, per non perdere record nuovi dello stesso giorno.
     // [ENG] Skips days strictly before the last recorded changelog, but not the same day, so new records from the same day are not lost.
-    if (parseLastDate) {
-        // [ITA] Converte il giorno corrente in un oggetto Date per confrontarlo con l'ultima data nota.
-        // [ENG] Converts the current day to a Date object so it can be compared with the last known date.
-        const currentDayDate = new Date(dayIsoStr);
-        // [ITA] Salta il giorno se è antecedente alla data più recente già presente nel file.
-        // [ENG] Skips the day if it is older than the most recent date already present in the file.
-        if (currentDayDate < parseLastDate) {
-            // [ITA] Interrompe l'elaborazione del giorno corrente perché è già stato coperto dal changelog esistente.
-            // [ENG] Stops processing the current day because it is already covered by the existing changelog.
-            continue;
-        }
+    if (lastDateIso && dayIsoStr < lastDateIso) {
+        // [ITA] Interrompe l'elaborazione del giorno corrente perché è già stato coperto dal changelog esistente.
+        // [ENG] Stops processing the current day because it is already covered by the existing changelog.
+        continue;
     }
     // [ITA] Recupera l'array di record di commit per la giornata corrente.
     // [ENG] Retrieves the array of commit records for the current day.
@@ -653,34 +609,15 @@ for (const dayIsoStr of sortedDays) {
 // [ITA] Chiude il ciclo sui giorni ordinati del changelog.
 // [ENG] Closes the loop over sorted changelog days.
 }
-// [ITA] Legge il file di changelog root dal filesystem, perché la nota reale da aggiornare è sempre la stessa nella root della vault.
-// [ENG] Reads the root changelog file from disk, because the real note to update is always the same one in the vault root.
-if (!fs.existsSync(targetFilePath)) {
-    // [ITA] Prepara il messaggio di avviso quando il file target non esiste nella root della vault.
-    // [ENG] Prepares the warning message when the target file does not exist in the vault root.
-    const warningMessage = `Il file "${targetFileName}" non esiste nella root della vault. Nessun aggiornamento eseguito. Crearlo manualmente prima di eseguire il template.`;
-    // [ITA] Logga il messaggio di warning nel terminale per tracciare il problema in fase di debug.
-    // [ENG] Logs the warning message to the terminal to trace the issue during debugging.
-    console.warn(warningMessage);
-    // [ITA] Mostra un avviso all'utente in Obsidian per segnalare che il file target manca.
-    // [ENG] Shows a notice to the user in Obsidian to indicate that the target file is missing.
-    new Notice(warningMessage);
-    // [ITA] Svuota l'output del template perché il file non esiste e quindi non è possibile aggiornare nulla.
-    // [ENG] Clears the template output because the file does not exist and nothing can be updated.
-    tR = "";
-    // [ITA] Interrompe subito l'esecuzione del template senza generare contenuti.
-    // [ENG] Stops the template execution immediately without producing content.
-    return;
-}
-// [ITA] Rilegge il file target dal filesystem per lavorare sul contenuto reale da aggiornare.
-// [ENG] Reads the target file from disk again to work on the actual content to update.
-existingText = fs.readFileSync(targetFilePath, 'utf8');
-// [ITA] Se non ci sono nuovi commit da registrare, lascia il file invariato.
-// [ENG] If there are no new commits to append, keep the file unchanged.
+// [ITA] Se non ci sono nuovi commit da registrare, lascia il file invariato senza incollare nulla nell'editor.
+// [ENG] If there are no new commits to append, keep the file unchanged without pasting anything into the editor.
 if (newMarkdown.trim() === "") {
-    // [ITA] Restituisce il contenuto corrente senza modifiche, così il template non altera il file.
-    // [ENG] Returns the current content unchanged so the template does not modify the file.
-    tR = existingText;
+    // [ITA] Mostra una notifica discreta in Obsidian per informare che il changelog è già aggiornato.
+    // [ENG] Shows a subtle notice in Obsidian to inform that the changelog is already up to date.
+    new Notice(`Nessun nuovo file trovato: "${targetFileName}" è già aggiornato.`);
+    // [ITA] Imposta l'output del template a stringa vuota per non inserire testo nella nota attiva.
+    // [ENG] Sets template output to an empty string so no text is inserted into the active note.
+    tR = "";
     // [ITA] Esce subito dalla funzione perché non vi sono dati nuovi da inserire.
     // [ENG] Exits immediately because there are no new entries to insert.
     return;
@@ -689,9 +626,6 @@ if (newMarkdown.trim() === "") {
 // [ENG] Finds the position of the first H2 heading in the note so the new updates are inserted before that section.
 const contentForFinalUpdate = (insertionBaseText || existingText).replace(/\s*$/, '');
 const firstH2Index = contentForFinalUpdate.search(/^##\s+/m);
-// [ITA] Definisce il titolo principale da cercare come punto di inserimento alternativo se non esiste nessun H2.
-// [ENG] Defines the main title to search for as a fallback insertion point if no H2 heading exists.
-const h1Tag = "# Changelog Vault Chiesa";
 // [ITA] Cerca l'H1 a riga intera, così il punto di inserimento resta corretto anche senza newline finale o con molte newline finali.
 // [ENG] Searches for the H1 as a full line so the insertion point stays correct even without a trailing newline or with multiple trailing newlines.
 const h1Match = contentForFinalUpdate.match(/^#\s*Changelog Vault Chiesa\s*$/m);
@@ -735,8 +669,11 @@ else {
 // [ITA] Scrive il contenuto finale sul file di changelog, aggiornando la nota con i nuovi record.
 // [ENG] Writes the final content to the changelog file, updating the note with the new records.
 fs.writeFileSync(targetFilePath, finalOutput, 'utf8');
-// [ITA] Assegna l'output finale al risultato del template da restituire all'editor.
-// [ENG] Assigns the final output to the template result to return it to the editor.
-tR = finalOutput;
+// [ITA] Mostra una notifica in Obsidian per confermare l'avvenuto aggiornamento del file su disco.
+// [ENG] Shows a notice in Obsidian to confirm that the file on disk has been updated.
+new Notice(`File "${targetFileName}" aggiornato con successo.`);
+// [ITA] Mantiene vuoto l'output del template per evitare che Templater incolli il changelog nella nota attualmente aperta.
+// [ENG] Keeps the template output empty to prevent Templater from pasting the changelog into the currently open note.
+tR = "";
 
 -%>
