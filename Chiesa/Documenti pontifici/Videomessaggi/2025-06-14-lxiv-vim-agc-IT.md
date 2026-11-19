@@ -24,8 +24,10 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-digitalizzatore: "Emanuele Tinari"
-revisore: "Emanuele Tinari"
+digitalizzatore:
+  - "Emanuele Tinari"
+revisore:
+  - "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/messages/pont-messages/2025/documents/20250614-videomessaggio-giovani.html)"
 nomeFile: "2025-06-14-lxiv-vim-agc-IT.md"
 creato: 2026/04/28 16:10:33
@@ -50,7 +52,7 @@ Leone XIV { .nomeAut }
 
 [Rate Field di Chicago, 14 giugno 2025]
 { .centrato-maiuscolo }
- 
+
 
 Miei cari amici, { .incipit }
 
