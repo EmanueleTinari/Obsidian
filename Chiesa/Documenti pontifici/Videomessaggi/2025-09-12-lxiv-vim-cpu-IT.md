@@ -24,8 +24,10 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-digitalizzatore: "Emanuele Tinari"
-revisore: "Emanuele Tinari"
+digitalizzatore:
+  - "Emanuele Tinari"
+revisore:
+  - "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/leo-xiv/it/messages/pont-messages/2025/documents/20250912-videomessaggio-progetto-unesco.html)"
 nomeFile: "2025-09-12-lxiv-vim-cpu-IT.md"
 creato: 2026/07/18 17:08:19
@@ -50,7 +52,7 @@ Leone XIV { .nomeAut }
 
 [Lampedusa, Venerdì 12 settembre 2025]
 { .centrato-maiuscolo }
- 
+
 
 Cari fratelli e sorelle riuniti a Lampedusa! { .incipit }
 
