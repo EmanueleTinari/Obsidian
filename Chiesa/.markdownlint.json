@@ -1,0 +1,19 @@
+{
+	"default": true,
+	"MD010": false,
+	"MD012": false,
+	"MD013": false,
+	"MD033": {
+		"allowed_elements": [
+			"blockquote",
+			"br",
+			"cite",
+			"div",
+			"figcaption",
+			"figure",
+			"font",
+			"span"
+		]
+	},
+	"MD041": false
+}
