@@ -374,11 +374,14 @@ for (let i = 0; i < lines.length; i++) {
     // [ENG] Checks if line represents file state change and an active commit exists.
     }
 
-	// [ITA] OPZIONE ATTIVA (SOLO FILE NUOVI): Registra esclusivamente i file appena creati (stato A). Commentare questa riga e decommentare quella sottostante per includere anche modifiche ed eliminazioni.
-	// [ENG] ACTIVE OPTION (NEW FILES ONLY): Logs exclusively newly created files (status A). Comment out this line and uncomment the one below to also include modifications and deletions.
-    else if (currentCommit && (line.startsWith('A\t') || line.startsWith('A '))) {
-	// [ITA] OPZIONE DISATTIVATA (TUTTI I CASI A+M+D): Registra file aggiunti, modificati o eliminati. Decommentare questa riga e commentare quella sopra per attivare il tracciamento completo.
-	// [ENG] DISABLED OPTION (ALL CASES A+M+D): Logs added, modified, or deleted files. Uncomment this line and comment out the one above to enable full tracking.
+	// [ITA] OPZIONE ATTIVA (FILE NUOVI ED ELIMINATI A+D): Registra esclusivamente i file creati ed eliminati, ignorando le modifiche (M). Commentare questa riga e decommentare una delle opzioni sottostanti per cambiare modalità.
+	// [ENG] ACTIVE OPTION (NEW AND DELETED FILES A+D): Logs exclusively created and deleted files, ignoring modifications (M). Comment out this line and uncomment one of the options below to switch mode.
+    else if (currentCommit && (line.startsWith('A\t') || line.startsWith('D\t') || line.startsWith('A ') || line.startsWith('D '))) {
+	// [ITA] OPZIONE DISATTIVATA (SOLO FILE NUOVI A): Registra esclusivamente i file appena creati (stato A). Decommentare questa riga e commentare quella attiva per tracciare solo le creazioni.
+	// [ENG] DISABLED OPTION (NEW FILES ONLY A): Logs exclusively newly created files (status A). Uncomment this line and comment out the active one to track creations only.
+    // else if (currentCommit && (line.startsWith('A\t') || line.startsWith('A '))) {
+	// [ITA] OPZIONE DISATTIVATA (TUTTI I CASI A+M+D): Registra file aggiunti, modificati o eliminati. Decommentare questa riga e commentare quella attiva per attivare il tracciamento completo.
+	// [ENG] DISABLED OPTION (ALL CASES A+M+D): Logs added, modified, or deleted files. Uncomment this line and comment out the active one to enable full tracking.
     // else if (currentCommit && (line.startsWith('A\t') || line.startsWith('M\t') || line.startsWith('D\t') || line.startsWith('A ') || line.startsWith('M ') || line.startsWith('D '))) {
 
 		// [ITA] Estrae il percorso relativo del file isolandolo dal prefisso di stato Git.
