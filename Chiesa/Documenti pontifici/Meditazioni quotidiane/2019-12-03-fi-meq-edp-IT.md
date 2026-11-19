@@ -24,8 +24,10 @@ licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vat
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-digitalizzatore: "Emanuele Tinari"
-revisore: "Emanuele Tinari"
+digitalizzatore:
+  - "Emanuele Tinari"
+revisore:
+  - "Emanuele Tinari"
 url-documento: "[Link al documento sul sito del Vaticano](https://www.vatican.va/content/francesco/it/cotidie/2019/documents/papa-francesco-cotidie_20191203_elogio-della-piccolezza.html)"
 nomeFile: "2019-12-03-fi-meq-edp-IT.md"
 creato: 2026/06/23 15:33:35
