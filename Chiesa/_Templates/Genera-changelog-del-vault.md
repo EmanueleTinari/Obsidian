@@ -4,8 +4,8 @@ licenza-nota:
   - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
 sviluppatore:
-  - Emanuele Tinari
-  - Gemini Web App
+  - "Emanuele Tinari"
+  - "Gemini Web App"
 nomeFile: "Genera-changelog-del-vault.md"
 creato: 2026/08/29 07:46:21
 modificato: 2026/08/29 07:46:21
@@ -278,14 +278,14 @@ function parseDisplayRowToMs(rowDateText) {
     return parseGitDateToMs(isoValue);
 }
 
-// [ITA] Importa il modulo file system nativo di Node.js per la gestione dei file.
-// [ENG] Imports Node.js native file system module for file management.
+// [ITA}> Importa il modulo nativo 'fs' di Node.js per interagire con il file system (file e cartelle).
+// [ENG]> Imports the native Node.js 'fs' module to interact with the file system (files and directories).
 const fs = require('fs');
-// [ITA] Importa il modulo path di Node.js per la manipolazione dei percorsi.
-// [ENG] Imports Node.js path module for path manipulation.
+// [ITA}> Importa il modulo nativo 'path' di Node.js per la gestione e la manipolazione dei percorsi di file e cartelle.
+// [ENG]> Imports the native Node.js 'path' module for managing and manipulating file and directory paths.
 const path = require('path');
-// [ITA] Importa la funzione execSync per eseguire comandi di shell in modo sincrono.
-// [ENG] Imports execSync function to run shell commands synchronously.
+// [ITA}> Importa la funzione 'execSync' dal modulo nativo 'child_process' di Node.js per eseguire comandi di sistema in modo sincrono.
+// [ENG]> Imports the 'execSync' function from the native Node.js 'child_process' module to execute system commands synchronously.
 const { execSync } = require('child_process');
 // [ITA] Ottiene il percorso assoluto della radice della Vault di Obsidian.
 // [ENG] Gets the absolute root path of the Obsidian Vault.
