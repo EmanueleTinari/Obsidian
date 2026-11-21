@@ -2,11 +2,12 @@
 cssclasses: indice
 licenza-nota:
   - Copyright © 2025 Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-ideatore: "Emanuele Tinari"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+ideatore:
+  - "Emanuele Tinari"
 sviluppatore:
-  - Emanuele Tinari
-  - Gemini Web App
+  - "Emanuele Tinari"
+  - "Gemini Web App"
 nomeFile: "_Indice Allocuzioni.md"
 creato: 2025/11/04 00:00:18
 modificato: 2026/08/24 21:42:30
