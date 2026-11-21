@@ -2,11 +2,12 @@
 cssclasses: indice
 licenza-nota:
   - Copyright © 2025 Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-ideatore: "Emanuele Tinari"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+ideatore:
+  - "Emanuele Tinari"
 sviluppatore:
-  - Emanuele Tinari
-  - Gemini Web App
+  - "Emanuele Tinari"
+  - "Gemini Web App"
 nomeFile: "_Indice Costituzioni dogmatiche.md"
 creato: 2025/10/26 23:08:38
 modificato: 2026/09/01 08:14:29
@@ -30,8 +31,8 @@ ITA
 --------
 DESCRIZIONE:
 Questo script DataviewJS genera una tabella interattiva dei file Markdown aventi
-tipo-doc "Costituzione dogmatica" presenti nelle cartelle "Documenti pontifici" e 
-"Documenti vari" (incluse le sottocartelle), escludendo i file "README" e quelli che 
+tipo-doc "Costituzione dogmatica" presenti nelle cartelle "Documenti pontifici" e
+"Documenti vari" (incluse le sottocartelle), escludendo i file "README" e quelli che
 iniziano per "_".
 Visualizza i dati metadata (progressivo, numero, autore, data formattata, titolo, link al file)
 e permette l'ordinamento dinamico delle colonne al clic sulle intestazioni di tabella.
@@ -41,8 +42,8 @@ ENG
 --------
 DESCRIPTION:
 This DataviewJS script generates an interactive table of Markdown files with
-tipo-doc "Costituzione dogmatica" located across the "Documenti pontifici" and 
-"Documenti vari" folders (including subfolders), excluding "README" files and any file 
+tipo-doc "Costituzione dogmatica" located across the "Documenti pontifici" and
+"Documenti vari" folders (including subfolders), excluding "README" files and any file
 starting with "_".
 It displays metadata fields (progressive ID, number, author, formatted date, title, file link)
 and enables dynamic column sorting upon clicking table headers.
