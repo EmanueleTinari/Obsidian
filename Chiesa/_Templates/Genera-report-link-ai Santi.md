@@ -1,8 +1,9 @@
 ---
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-ideatore: "Emanuele Tinari"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+ideatore:
+  - "Emanuele Tinari"
 sviluppatore:
   - "Emanuele Tinari"
   - "Gemini Web App"
@@ -298,8 +299,9 @@ const newFileName_SENZA = `${timestamp}${REPORT_SENZA_SUFFIX}`;
 const finalContent_CON = `---
 licenza-nota:
   - Copyright © ${yearReport} Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-ideatore: "Emanuele Tinari"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+ideatore:
+  - "Emanuele Tinari"
 sviluppatore:
   - "Emanuele Tinari"
   - "Gemini Web App"
@@ -328,8 +330,9 @@ ${reportSections_CON.length > 0 ? reportSections_CON.join("\n\n---\n\n") : "*Nes
 const finalContent_SENZA = `---
 licenza-nota:
   - Copyright © ${yearReport} Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-ideatore: "Emanuele Tinari"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+ideatore:
+  - "Emanuele Tinari"
 sviluppatore:
   - "Emanuele Tinari"
   - "Gemini Web App"
