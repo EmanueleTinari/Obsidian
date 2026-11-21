@@ -2,11 +2,11 @@
 cssclasses: indice
 licenza-nota:
   - Copyright © 2025 Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore: "Emanuele Tinari"
 sviluppatore:
-  - Emanuele Tinari
-  - Gemini Web App
+  - "Emanuele Tinari"
+  - "Gemini Web App"
 nomeFile: "_Indice Costituzioni pastorali.md"
 creato: 2025/10/26 23:08:38
 modificato: 2026/09/01 08:14:29
