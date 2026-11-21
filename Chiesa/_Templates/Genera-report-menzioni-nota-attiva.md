@@ -1,5 +1,7 @@
 ---
-licenza-nota: [Copyright © 2026 Emanuele Tinari under, "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"]
+licenza-nota:
+  - Copyright © 2026 Emanuele Tinari under
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore:
   - "Emanuele Tinari"
 sviluppatore:
@@ -26,7 +28,7 @@ FUNZIONALITÀ PRINCIPALI:
 1. Verifica immediata (Fail-Fast): controlla che sia aperta e attiva una nota Markdown (.md) prima di allocare memoria o leggere il vault.
 2. Estrazione metadati: recupera il nome del file, gli eventuali alias (aliases/alias) e il campo frontmatter 'titolo-doc' sia della nota attiva sia dei documenti trovati.
 3. Filtraggio avanzato: limita la scansione alle cartelle e sottocartelle specificate in INCLUDE_FOLDERS (supportando "/" per la root) ed esclude i file con i prefissi indicati in EXCLUDE_PREFIXES nonché i report già generati (-Menzioni).
-4. Menzioni collegate e scollegate: rileva i backlink espliciti tramite la metadataCache e cerca nel corpo del testo (escludendo frontmatter e link già esistenti) le ricorrenze non collegate del nome file e dei suoi alias.
+4. Menzioni collegate e scollegate: rileva i backlink espliciti tramite la metadataCache e cerca nel corpo del testo (escludendo frontmatter e link già esistenti) le ricorrenze non collegate del nome file e dei suoi alias, includendo uno stesso file in entrambe le sezioni se contiene sia link espliciti sia testo non collegato.
 5. Output strutturato e interattivo: genera un report con elenchi numerati, conteggio delle ricorrenze e blocchi query nativi richiudibili (<details>) per ciascun termine o alias trovato.
 6. Gestione schede e focus: crea il report accanto alla nota originale, lo apre in una nuova scheda in background mantenendo il focus sul documento di origine e notifica l'utente tramite Notice.
 
@@ -48,7 +50,7 @@ KEY FEATURES:
 1. Immediate Check (Fail-Fast): verifies that a Markdown (.md) note is open and active before allocating memory or scanning the vault.
 2. Metadata Extraction: retrieves the filename, optional aliases (aliases/alias), and the 'titolo-doc' frontmatter field for both the active note and matched documents.
 3. Advanced Filtering: restricts scanning to folders and subfolders defined in INCLUDE_FOLDERS (supporting "/" for the vault root) and excludes files matching EXCLUDE_PREFIXES as well as previously generated reports (-Menzioni).
-4. Linked & Unlinked Mentions: detects explicit backlinks via metadataCache and scans the body text (stripping frontmatter and existing links) for unlinked occurrences of the filename and its aliases.
+4. Linked & Unlinked Mentions: detects explicit backlinks via metadataCache and scans the body text (stripping frontmatter and existing links) for unlinked occurrences of the filename and its aliases, listing the same file in both sections if it contains both explicit links and unlinked text.
 5. Structured & Interactive Output: generates a report featuring ordered lists, occurrence counts, and collapsible native query blocks (<details>) for each matched term or alias.
 6. Tab & Focus Management: saves the report alongside the source note, opens it in a new background tab while keeping focus on the original document, and notifies the user via Notice.
 
@@ -100,7 +102,7 @@ const EXCLUDE_PREFIXES = [
 const REPORT_SUFFIX = "-Menzioni";
 // [ITA}> Salva il riferimento alla leaf (scheda) attualmente attiva per potervi riportare il focus a fine esecuzione.
 // [ENG]> Saves the reference to the currently active leaf (tab) to restore focus to it upon completion.
-const originLeaf = app.workspace.activeLeaf;
+const originLeaf = app.workspace.getMostRecentLeaf();
 // [ITA}> Recupera il percorso della cartella padre della nota aperta (es. "" se nella root o "Cartella/Sottocartella").
 // [ENG]> Retrieves the parent folder path of the open note (e.g., "" if in root or "Folder/Subfolder").
 const parentFolderPath = activeFile.parent ? activeFile.parent.path : "/";
@@ -283,15 +285,9 @@ for (const [sourcePath, mdFile] of candidateMap.entries()) {
         });
     }
 }
-// [ITA}> Crea un Set dei percorsi già collegati per non duplicarli tra le menzioni scollegate.
-// [ENG]> Creates a Set of already linked paths so they are not duplicated in unlinked mentions.
-const linkedPathsSet = new Set(linkedNotes.map(item => item.file.path));
 // [ITA}> Scansiona i file candidati rimanenti alla ricerca di menzioni scollegate nel corpo del testo.
 // [ENG]> Scans remaining candidate files searching for unlinked mentions in the body text.
 for (const [sourcePath, mdFile] of candidateMap.entries()) {
-    // [ITA}> Salta il file se ha già un collegamento esplicito alla nota aperta.
-    // [ENG]> Skips the file if it already has an explicit link to the open note.
-    if (linkedPathsSet.has(sourcePath)) continue;
     // [ITA}> Legge il contenuto testuale del file dalla cache veloce di Obsidian.
     // [ENG]> Reads the text content of the file from Obsidian's fast cache.
     let bodyText = await app.vault.cachedRead(mdFile);
@@ -368,7 +364,7 @@ const unlinkedListMarkdown = formatOrderedList(unlinkedNotes, "*Nessuna menzione
 const finalReportContent = `---
 licenza-nota:
   - Copyright © ${yearReport} Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org)"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 ideatore:
   - "Emanuele Tinari"
 sviluppatore:
@@ -376,8 +372,8 @@ sviluppatore:
   - "Google Gemini in Google Search AI mode"
 template: "Genera-report-menzioni-nota-attiva.md"
 nomeFile: "${reportFileName}"
-creato:
-modificato:
+creato: ${nowFormatted}
+modificato: ${nowFormatted}
 ---
 
 # Menzioni nel file: ${activeHeaderLabel}
