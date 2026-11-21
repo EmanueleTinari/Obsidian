@@ -23,7 +23,7 @@ aliases:
 licenza-doc: Copyright © Dicastero per la Comunicazione - Libreria Editrice Vaticana
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 digitalizzatore:
   - "Emanuele Tinari"
 revisore:
