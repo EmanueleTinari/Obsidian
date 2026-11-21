@@ -111,6 +111,7 @@ abbr:
   - MGH: Monumenta Germaniae historica
   - MHSI: Monumenta historica Societatis Iesu
   - MSI: Sacrorum Conciliorum nova et amplissima collectio (Giovanni Domenico Mansi)
+  - NBA: Nuova Biblioteca Agostiniana
   - PG: Patrologia graeca (J. P. Migne)
   - PL: Patrologia latina (J. P. Migne)
   - PLS: Patrologiae Latinae Supplementum (Patrologia Latina Supplemento)
@@ -165,9 +166,11 @@ abbr:
   - vide: vedi
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-ideatore: "Emanuele Tinari"
-sviluppatore: "Emanuele Tinari"
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+ideatore:
+  - "Emanuele Tinari"
+sviluppatore:
+  - "Emanuele Tinari"
 nomeFile: "Abbreviazioni e sigle.md"
 creato: 2026/03/14 01:00:18
 modificato: 2026/11/08 18:52:55
