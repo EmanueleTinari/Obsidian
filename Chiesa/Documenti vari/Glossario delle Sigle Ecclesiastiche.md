@@ -3,12 +3,13 @@ cssclasses:
   - sigleEcclesiastiche
 licenza-nota:
   - Copyright © 2026 Emanuele Tinari under
-  - "[Creative Commons BY-NC-SA 4.0]( https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-ideatore: Emanuele Tinari
+  - "[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+ideatore:
+  - "Emanuele Tinari"
 sviluppatore:
-  - Emanuele Tinari
-  - Gemini Web App
-nomeFile: Glossario delle Sigle Ecclesiastiche.md
+  - "Emanuele Tinari"
+  - "Gemini Web App"
+nomeFile: "Glossario delle Sigle Ecclesiastiche.md"
 creato: 2026/01/07 15:03:25
 modificato: 2026/11/02 23:13:51
 ---
