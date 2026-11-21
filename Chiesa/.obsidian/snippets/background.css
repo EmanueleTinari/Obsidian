@@ -2223,7 +2223,7 @@ body.bibbia {
 .docVat .markdown-preview-view .el-p p.incipit,
 .docVat .markdown-rendered .el-p p.incipit,
 .docVat p.incipit {
-	color: white !important;
+	color: whitesmoke !important;
 	display: block !important;
 	font-family: "Times New Roman", Times, serif !important;
 	font-size: 1.6rem !important;
@@ -2244,7 +2244,7 @@ body.bibbia {
 .docVat .markdown-preview-view .el-p p.proemio,
 .docVat .markdown-rendered .el-p p.proemio,
 .docVat p.proemio {
-	color: white !important;
+	color: whitesmoke !important;
 	display: block !important;
 	font-family: "Times New Roman", Times, serif !important;
 	font-size: 1.6rem !important;
